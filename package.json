@@ -18,7 +18,7 @@
   },
   "lint-staged": {
     "**/*.ts{x,}": [
-      "tslint"
+      "tslint -p ./tsconfig.json"
     ],
     "**/*.js{x,}": [
       "eslint"

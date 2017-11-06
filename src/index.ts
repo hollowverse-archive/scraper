@@ -15,7 +15,7 @@ program
     '-b --base [base]',
     `The hostname of the website to be scraped, defaults to ${defaultBase}`,
   )
-  .output(
+  .option(
     '-o --output [output]',
     'If specified, the output data will be written to the specified path, ' +
       'otherwise, output is written to stdout',
@@ -25,7 +25,7 @@ program
 scrapePage({
   url: new URL(program.path, program.base || defaultBase).toString(),
 })
-  .then(output => JSON.stringify(output.data))
+  .then(output => JSON.stringify(output))
   .then(async json => {
     if (program.output) {
       await writeJsonFile(program.output, json);
