@@ -25,7 +25,7 @@ program
 scrapePage({
   url: new URL(program.path, program.base || defaultBase).toString(),
 })
-  .then(output => JSON.stringify(output))
+  .then(output => JSON.stringify(output, undefined, 2))
   .then(async json => {
     if (program.output) {
       await writeJsonFile(program.output, json);
