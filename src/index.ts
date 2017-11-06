@@ -1,5 +1,4 @@
 import * as program from 'commander';
-import * as fs from 'fs';
 import writeJsonFile from '@hollowverse/common/helpers/writeJsonFile';
 import { scrapePage } from './lib/scrape';
 import { URL } from 'url';
