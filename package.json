@@ -1,0 +1,65 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "git@github.com:forabi/scraper.git",
+  "author": "Muhammad Fawwaz Orabi <mfawwaz93@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "run-p validate-file-names lint-js lint-ts",
+    "check-ts": "tsc --project ./src --noEmit",
+    "lint-js": "eslint '**/*.js'",
+    "lint-ts": "tslint './*.ts' 'src/**/*.ts' --project tsconfig.json",
+    "dev": "nodemon --watch ./src --ext ts --exec node --inspect=0.0.0.0:${SCRAPER_DEBUG_PORT:-9229} -r 'ts-node/register' src/index.ts",
+    "build": "tsc --project ./src",
+    "clean": "rm -rf ./dist",
+    "validate-file-names": "validate-file-names",
+    "lint-staged": "lint-staged"
+  },
+  "lint-staged": {
+    "**/*.{j,t}s{x,}": [
+      "prettier --write --single-quote --trailing-comma all",
+      "git add"
+    ],
+    "**/*.js{x,}": [
+      "eslint"
+    ]
+  },
+  "pre-commit": [
+    "validate-file-names",
+    "lint-staged"
+  ],
+  "dependencies": {
+    "@types/got": "^7.1.4",
+    "cheerio": "^1.0.0-rc.2",
+    "commander": "^2.11.0",
+    "got": "^7.1.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "@hollowverse/common": "hollowverse/common",
+    "@types/cheerio": "^0.22.5",
+    "@types/commander": "^2.11.0",
+    "@types/lodash": "^4.14.82",
+    "@types/node": "^8.0.48",
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.10.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.7.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0",
+    "lint-staged": "^4.3.0",
+    "nodemon": "^1.12.1",
+    "npm-run-all": "^4.1.1",
+    "pre-commit": "^1.2.2",
+    "prettier": "^1.7.4",
+    "ts-node": "^3.3.0",
+    "tslint": "^5.8.0",
+    "tslint-config-prettier": "^1.6.0",
+    "tslint-eslint-rules": "^4.1.1",
+    "tslint-microsoft-contrib": "^5.0.1",
+    "tslint-react": "^3.2.0",
+    "typescript": "^2.6.1"
+  }
+}
