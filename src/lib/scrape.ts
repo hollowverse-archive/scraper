@@ -18,4 +18,3 @@ export async function scrapePage({ url }: Options) {
     output: $.root().html(),
   };
 }
-
