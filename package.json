@@ -30,6 +30,7 @@
     "lint-staged"
   ],
   "dependencies": {
+    "@hollowverse/common": "hollowverse/common",
     "@types/got": "^7.1.4",
     "cheerio": "^1.0.0-rc.2",
     "commander": "^2.11.0",
@@ -37,7 +38,6 @@
     "lodash": "^4.17.4"
   },
   "devDependencies": {
-    "@hollowverse/common": "hollowverse/common",
     "@types/cheerio": "^0.22.5",
     "@types/commander": "^2.11.0",
     "@types/lodash": "^4.14.82",

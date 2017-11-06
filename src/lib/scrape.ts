@@ -15,6 +15,6 @@ export async function scrapePage({ url }: Options) {
 
   return {
     url,
-    output: $.root().html(),
+    data: '',
   };
 }
