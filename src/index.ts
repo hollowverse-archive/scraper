@@ -3,7 +3,7 @@ import writeJsonFile from '@hollowverse/common/helpers/writeJsonFile';
 import { scrapePage } from './lib/scrape';
 import { URL } from 'url';
 
-const defaultBase = 'https://static.hollowverse.com';
+const DEFAULT_BASE = 'https://static.hollowverse.com';
 
 program
   .version('1.0')
@@ -13,7 +13,7 @@ program
   )
   .option(
     '-b --base [base]',
-    `The hostname of the website to be scraped, defaults to ${defaultBase}`,
+    `The hostname of the website to be scraped, defaults to ${DEFAULT_BASE}`,
   )
   .option(
     '-o --output [output]',
@@ -23,7 +23,7 @@ program
   .parse(process.argv);
 
 scrapePage({
-  url: new URL(program.path, program.base || defaultBase).toString(),
+  url: new URL(program.path, program.base || DEFAULT_BASE).toString(),
 })
   .then(output => JSON.stringify(output, undefined, 2))
   .then(async json => {
