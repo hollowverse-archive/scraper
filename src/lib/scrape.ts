@@ -89,11 +89,11 @@ export async function scrapeHtml(html: string): Promise<ScrapeResult> {
       }
 
       return {
-        quote: replaceSmartQuotes($e.find('p').text()),
+        quote: replaceSmartQuotes($e.find('p').text()).trim(),
         sourceUrl,
         comments: [
           {
-            text: replaceSmartQuotes(sentences.join(' ')),
+            text: replaceSmartQuotes(sentences.join(' ')).trim(),
           },
         ],
         isQuoteByNotablePerson: true,
