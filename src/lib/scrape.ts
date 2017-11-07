@@ -2,6 +2,7 @@ import * as cheerio from 'cheerio';
 import * as got from 'got';
 import { last } from 'lodash';
 import { URL } from 'url';
+import { replaceSmartQuotes } from './helpers';
 
 type Options = {
   url: string;
@@ -26,11 +27,6 @@ type ScrapeResult = {
   };
   events: Event[];
 };
-
-function replaceSmartQuotes(str: string) {
-  // prettier-ignore
-  return str.replace(/[‘’]/g, '\'').replace(/[“”]/g, '"');
-}
 
 export async function scrapeHtml(html: string): Promise<ScrapeResult> {
   const $ = cheerio.load(html);
