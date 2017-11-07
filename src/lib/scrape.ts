@@ -1,6 +1,7 @@
 import * as cheerio from 'cheerio';
 import * as got from 'got';
 import { last } from 'lodash';
+import { URL } from 'url';
 
 type Options = {
   url: string;
@@ -18,10 +19,8 @@ type Event = {
 };
 
 type ScrapeResult = {
-  url: string;
   summary: string;
   labels: string[];
-  path: string;
   notablePerson: {
     name: string;
   };
@@ -33,13 +32,8 @@ function replaceSmartQuotes(str: string) {
   return str.replace(/[‘’]/g, '\'').replace(/[“”]/g, '"');
 }
 
-export async function scrapePage({ url }: Options): Promise<ScrapeResult> {
-  const response = await got(url, {
-    headers: {
-      Accept: 'text/html',
-    },
-  });
-  const $ = cheerio.load(response.body);
+export async function scrapeHtml(html: string): Promise<ScrapeResult> {
+  const $ = cheerio.load(html);
 
   const summary = $.root()
     .find('.hollowverse-summary p')
@@ -59,12 +53,18 @@ export async function scrapePage({ url }: Options): Promise<ScrapeResult> {
     .map(e => {
       const $e = $(e);
 
-      $e.find('sup').remove();
-
       const footnoteId = $e
         .find('a')
         .first()
         .attr('href');
+
+      const sourceUrl = $.root()
+        .find(footnoteId)
+        .find('a')
+        .attr('href');
+
+      $e.find('sup').remove();
+
       let comment;
 
       comment = $e.prev('p');
@@ -94,10 +94,7 @@ export async function scrapePage({ url }: Options): Promise<ScrapeResult> {
 
       return {
         quote: replaceSmartQuotes($e.find('p').text()),
-        sourceUrl: $.root()
-          .find(footnoteId)
-          .find('a')
-          .attr('href'),
+        sourceUrl,
         comments: [
           {
             text: replaceSmartQuotes(sentences.join(' ')),
@@ -108,13 +105,25 @@ export async function scrapePage({ url }: Options): Promise<ScrapeResult> {
     });
 
   return {
-    url,
-    path: url,
     notablePerson: {
       name,
     },
     summary,
     events,
     labels: [],
+  };
+}
+
+export async function scrapePage({ url }: Options) {
+  const response = await got(url, {
+    headers: {
+      Accept: 'text/html',
+    },
+  });
+
+  return {
+    url,
+    path: new URL(url).pathname.replace(/\//g, ''),
+    ...await scrapeHtml(response.body),
   };
 }
