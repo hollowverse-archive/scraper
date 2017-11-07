@@ -35,7 +35,8 @@ export async function scrapeHtml(html: string): Promise<ScrapeResult> {
     .find('.hollowverse-summary p')
     .map((_, e) => $(e).text())
     .toArray()
-    .join('\n');
+    .join('\n')
+    .trim();
 
   const name = $.root()
     .find('.header-image h1')
