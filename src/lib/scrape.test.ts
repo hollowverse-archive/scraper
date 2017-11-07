@@ -20,7 +20,7 @@ const results = readDir(fixturesDir).then(async files => {
   );
 });
 
-test('Parses and scrapes HTML correctly', async () => {
+test('parses and scrapes HTML correctly', async () => {
   (await results).forEach(({ file, result }) => {
     expect(result).toMatchSnapshot(file);
   });
