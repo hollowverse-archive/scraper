@@ -1,42 +1,81 @@
 import * as cheerio from 'cheerio';
 import * as got from 'got';
-import { last } from 'lodash';
 import { URL } from 'url';
 import { replaceSmartQuotes } from './helpers';
+import { last } from 'lodash';
 
 type Options = {
   url: string;
 };
 
-type EventComment = {
+type Piece = {
+  type: 'sentence' | 'quote' | 'heading';
   text: string;
-};
-
-type Event = {
-  quote: string;
-  sourceUrl: string;
-  isQuoteByNotablePerson: boolean;
-  comments: EventComment[];
+  sourceUrl?: string;
+  sourceTitle?: string;
+  sourceName?: string;
 };
 
 type ScrapeResult = {
-  summary: string;
-  labels: string[];
   notablePerson: {
     name: string;
+    summary: {
+      religion?: string;
+      politicalViews?: string;
+    };
+    tags: string[];
+    relatedPeople: Array<{
+      slug: string;
+      name: string;
+    }>;
+    author: string;
+    lastUpdatedOn?: Date;
   };
-  events: Event[];
+  content: Piece[];
 };
+
+function scrapeText($: CheerioStatic, e: CheerioElement) {
+  let text = '';
+  let sourceUrl;
+  let sourceTitle;
+  const content = [];
+  for (const node of e.childNodes) {
+    if (node.type === 'text') {
+      text += node.nodeValue;
+    } else if (node.type === 'tag' && node.tagName === 'sup') {
+      const $sup = $(node);
+      const id = $sup.find('a').attr('href');
+      const $a = $.root()
+        .find(id)
+        .find('a:first-of-type');
+      sourceUrl = $a.attr('href');
+      sourceTitle = $a.text() || undefined;
+
+      content.push({ text, sourceUrl, sourceTitle });
+      sourceUrl = undefined;
+      sourceTitle = undefined;
+      text = '';
+      continue;
+    }
+
+    if (node === last(e.childNodes)) {
+      content.push({ text, sourceUrl, sourceTitle });
+      sourceUrl = undefined;
+      sourceTitle = undefined;
+      text = '';
+    }
+  }
+
+  return content
+    .map(v => ({
+      ...v,
+      text: replaceSmartQuotes(v.text.trim()),
+    }))
+    .filter(v => v.text);
+}
 
 export async function scrapeHtml(html: string): Promise<ScrapeResult> {
   const $ = cheerio.load(html);
-
-  const summary = $.root()
-    .find('.hollowverse-summary p')
-    .map((_, e) => $(e).text())
-    .toArray()
-    .join('\n')
-    .trim();
 
   const name = $.root()
     .find('.header-image h1')
@@ -44,70 +83,97 @@ export async function scrapeHtml(html: string): Promise<ScrapeResult> {
     .replace('The religion and political views of', '')
     .trim();
 
-  const events: Event[] = $.root()
-    .find('blockquote')
-    .toArray()
-    .map(e => {
-      const $e = $(e);
+  const religion =
+    $.root()
+      .find('.hollowverse-summary h2:nth-of-type(1)')
+      .next('p')
+      .text()
+      .trim() || undefined;
 
-      const footnoteId = $e
-        .find('a')
-        .first()
-        .attr('href');
+  const politicalViews =
+    $.root()
+      .find('.hollowverse-summary h2:nth-of-type(2)')
+      .next('p')
+      .text()
+      .trim() || undefined;
 
-      const sourceUrl = $.root()
-        .find(footnoteId)
-        .find('a')
-        .attr('href');
+  const content: ScrapeResult['content'] = [];
 
-      $e.find('sup').remove();
+  $.root()
+    .find('#ingrown-sidebar')
+    .remove();
 
-      let comment;
-
-      comment = $e.prev('p');
-
-      if (!comment.text().endsWith(':')) {
-        comment = $e.next('p');
+  $.root()
+    .find('.entry-content')
+    .find('> p, h2, blockquote')
+    .each((_, e) => {
+      const type =
+        e.tagName === 'p'
+          ? 'sentence'
+          : e.tagName === 'blockquote' ? 'quote' : 'heading';
+      if (type === 'quote') {
+        scrapeText(
+          $,
+          $(e)
+            .find('p')
+            .first()
+            .toArray()[0],
+        ).forEach(v => {
+          content.push({ type, ...v });
+        });
+      } else {
+        scrapeText($, e).forEach(v => {
+          content.push({ type, ...v });
+        });
       }
+    });
 
-      comment.find('sup').remove();
+  const tags = $.root()
+    .find('article')
+    .attr('class')
+    .split(' ')
+    .filter(c => c.startsWith('tag-'))
+    .map(c => c.replace('tag-', ''));
 
-      const sentences = comment
-        .text()
-        .replace(/([.?!])\s*(?=[A-Z])/g, '$1|')
-        .split('|');
-      const lastSentence = last(sentences);
+  const author = $.root()
+    .find('.thv-posted-on > p > a:first-of-type')
+    .text()
+    .trim();
 
-      if (lastSentence && lastSentence.endsWith(':')) {
-        if (sentences.length > 1) {
-          sentences.splice(sentences.length - 1);
-        } else {
-          sentences[sentences.length - 1] = lastSentence.replace(
-            /,([^,])+:$/i,
-            '.',
-          );
-        }
-      }
+  const match = $.root()
+    .find('.thv-posted-on > p')
+    .text()
+    .match(/last updated on (.+)\.\s.+$/i);
+  let lastUpdatedOn;
+  if (match && match[1]) {
+    lastUpdatedOn = new Date(match[1]);
+  }
 
-      return {
-        quote: replaceSmartQuotes($e.find('p').text()).trim(),
-        sourceUrl,
-        comments: [
-          {
-            text: replaceSmartQuotes(sentences.join(' ')).trim(),
-          },
-        ],
-        isQuoteByNotablePerson: true,
-      };
+  const relatedPeople: ScrapeResult['notablePerson']['relatedPeople'] = [];
+
+  $.root()
+    .find('#similar-posts a')
+    .each((_, a) => {
+      const $a = $(a);
+      relatedPeople.push({
+        slug: new URL($a.attr('href')).pathname.replace(/[\/\\]/gi, ''),
+        name: $a.find('h1').text(),
+      });
     });
 
   return {
     notablePerson: {
       name,
+      author,
+      lastUpdatedOn,
+      tags,
+      relatedPeople,
+      summary: {
+        politicalViews,
+        religion,
+      },
     },
-    summary,
-    events,
-    labels: [],
+    content: content,
   };
 }
 

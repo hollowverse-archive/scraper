@@ -25,11 +25,3 @@ test('parses and scrapes HTML correctly', async () => {
     expect(result).toMatchSnapshot(file);
   });
 });
-
-test('every event must have a source URL', async () => {
-  (await results).forEach(({ result }) => {
-    result.events.forEach(e => {
-      expect(e.sourceUrl).toBeTruthy();
-    });
-  });
-});
