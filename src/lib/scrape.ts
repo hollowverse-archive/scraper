@@ -3,6 +3,7 @@ import * as got from 'got';
 import { URL } from 'url';
 import { replaceSmartQuotes } from './helpers';
 import { last } from 'lodash';
+import { format, parse } from 'date-fns';
 
 type Options = {
   url: string;
@@ -29,7 +30,7 @@ type ScrapeResult = {
       name: string;
     }>;
     author: string;
-    lastUpdatedOn?: Date;
+    lastUpdatedOn?: string;
   };
   content: Piece[];
 };
@@ -147,7 +148,7 @@ export async function scrapeHtml(html: string): Promise<ScrapeResult> {
     .match(/last updated on (.+)\.\s.+$/i);
   let lastUpdatedOn;
   if (match && match[1]) {
-    lastUpdatedOn = new Date(match[1]);
+    lastUpdatedOn = format(parse(match[1]), 'YYYY-MM-DD');
   }
 
   const relatedPeople: ScrapeResult['notablePerson']['relatedPeople'] = [];
