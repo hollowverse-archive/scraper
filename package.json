@@ -2,9 +2,9 @@
   "name": "scraper",
   "version": "1.0.0",
   "main": "dist/index.js",
-  "repository": "git@github.com:forabi/scraper.git",
+  "repository": "git@github.com:hollowverse/scraper.git",
   "author": "Muhammad Fawwaz Orabi <mfawwaz93@gmail.com>",
-  "license": "MIT",
+  "license": "Unlicense",
   "scripts": {
     "lint": "run-p validate-file-names lint-js lint-ts",
     "test": "jest",
