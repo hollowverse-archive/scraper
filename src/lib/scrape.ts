@@ -74,6 +74,7 @@ function scrapeText($: CheerioStatic, e: CheerioElement) {
     .filter(v => v.text);
 }
 
+// tslint:disable-next-line:max-func-body-length
 export async function scrapeHtml(html: string): Promise<ScrapeResult> {
   const $ = cheerio.load(html);
 
