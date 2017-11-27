@@ -114,15 +114,13 @@ export async function scrapeHtml(html: string): Promise<ScrapeResult> {
           ? 'sentence'
           : e.tagName === 'blockquote' ? 'quote' : 'heading';
       if (type === 'quote') {
-        scrapeText(
-          $,
-          $(e)
-            .find('p')
-            .first()
-            .toArray()[0],
-        ).forEach(v => {
-          content.push({ type, ...v });
-        });
+        $(e)
+          .find('p')
+          .each((__, p) => {
+            scrapeText($, p).forEach(v => {
+              content.push({ type, ...v });
+            });
+          });
       } else {
         scrapeText($, e).forEach(v => {
           content.push({ type, ...v });
