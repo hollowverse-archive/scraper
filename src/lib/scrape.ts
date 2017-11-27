@@ -67,12 +67,19 @@ function scrapeText($: CheerioStatic, e: CheerioElement) {
     }
   }
 
-  return content
-    .map(v => ({
-      ...v,
-      text: replaceSmartQuotes(v.text.trim()),
-    }))
-    .filter(v => v.text);
+  return (
+    content
+      // tslint:disable-next-line:no-shadowed-variable
+      .map(({ sourceTitle, sourceUrl, text }) => ({
+        sourceUrl,
+        sourceTitle:
+          sourceTitle !== undefined
+            ? replaceSmartQuotes(sourceTitle)
+            : undefined,
+        text: replaceSmartQuotes(text.trim()),
+      }))
+      .filter(v => v.text)
+  );
 }
 
 // tslint:disable-next-line:max-func-body-length
