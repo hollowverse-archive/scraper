@@ -151,7 +151,8 @@ export async function scrapeHtml(html: string): Promise<ScrapeResult> {
     .find('.thv-posted-on > p')
     .text()
     .match(/last updated on (.+)\.\s.+$/i);
-  let lastUpdatedOn;
+
+  let lastUpdatedOn: string | undefined;
   if (match && match[1]) {
     lastUpdatedOn = format(parse(match[1]), 'YYYY-MM-DD');
   }
