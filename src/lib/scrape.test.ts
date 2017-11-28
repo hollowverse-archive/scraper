@@ -1,10 +1,7 @@
 import { scrapeHtml } from './scrape';
-import { promisify } from 'util';
-import * as fs from 'fs';
 import * as path from 'path';
 
-const readFile = promisify(fs.readFile);
-const readDir = promisify(fs.readdir);
+import { readDir, readFile } from './helpers';
 
 const fixturesDir = 'fixtures/html';
 const results = readDir(fixturesDir).then(async files => {

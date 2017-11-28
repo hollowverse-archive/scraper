@@ -1,7 +1,6 @@
 import * as cheerio from 'cheerio';
-import * as got from 'got';
 import { URL } from 'url';
-import { replaceSmartQuotes } from './helpers';
+import { fetchPageAsHtml, replaceSmartQuotes } from './helpers';
 import { last } from 'lodash';
 import { format, parse } from 'date-fns';
 
@@ -190,15 +189,9 @@ export async function scrapeHtml(html: string): Promise<ScrapeResult> {
 }
 
 export async function scrapePage({ url }: Options) {
-  const response = await got(url, {
-    headers: {
-      Accept: 'text/html',
-    },
-  });
-
   return {
     url,
     path: new URL(url).pathname.replace(/\//g, ''),
-    ...await scrapeHtml(response.body),
+    ...await scrapeHtml(await fetchPageAsHtml(url)),
   };
 }

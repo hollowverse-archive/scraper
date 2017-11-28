@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import * as program from 'commander';
 import * as writeJsonFile from '@hollowverse/common/helpers/writeJsonFile';
 import { scrapePage } from './lib/scrape';
