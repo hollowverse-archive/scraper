@@ -20,19 +20,21 @@ type Piece = {
 type ScrapeResult = {
   notablePerson: {
     name: string;
+    tags: string[];
+  };
+  relatedPeople: Array<{
+    slug: string;
+    name: string;
+  }>;
+  article: {
+    author: string;
+    lastUpdatedOn?: string;
     summary: {
       religion?: string;
       politicalViews?: string;
     };
-    tags: string[];
-    relatedPeople: Array<{
-      slug: string;
-      name: string;
-    }>;
-    author: string;
-    lastUpdatedOn?: string;
+    content: Piece[];
   };
-  content: Piece[];
 };
 
 function scrapeText($: CheerioStatic, e: CheerioElement) {
@@ -106,7 +108,7 @@ export async function scrapeHtml(html: string): Promise<ScrapeResult> {
       .text()
       .trim() || undefined;
 
-  const content: ScrapeResult['content'] = [];
+  const content: ScrapeResult['article']['content'] = [];
 
   $.root()
     .find('#ingrown-sidebar')
@@ -157,7 +159,7 @@ export async function scrapeHtml(html: string): Promise<ScrapeResult> {
     lastUpdatedOn = format(parse(match[1]), 'YYYY-MM-DD');
   }
 
-  const relatedPeople: ScrapeResult['notablePerson']['relatedPeople'] = [];
+  const relatedPeople: ScrapeResult['relatedPeople'] = [];
 
   $.root()
     .find('#similar-posts a')
@@ -172,16 +174,18 @@ export async function scrapeHtml(html: string): Promise<ScrapeResult> {
   return {
     notablePerson: {
       name,
-      author,
-      lastUpdatedOn,
       tags,
-      relatedPeople,
+    },
+    relatedPeople,
+    article: {
+      lastUpdatedOn,
+      author,
       summary: {
         politicalViews,
         religion,
       },
+      content,
     },
-    content: content,
   };
 }
 
