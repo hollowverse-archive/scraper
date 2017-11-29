@@ -31,14 +31,13 @@ program
 program.parse(process.argv);
 
 async function main({
-  posts,
-  terms,
-  termTaxonomy,
+  posts: postsFile,
+  terms: termsFile,
+  termTaxonomy: termTaxonomyFile,
   output,
 }: Record<string, any>) {
-  // tslint:disable:no-shadowed-variable
   return bluebird
-    .map([posts, terms, termTaxonomy], async file =>
+    .map([postsFile, termsFile, termTaxonomyFile], async file =>
       readFile(file, 'utf8').then(JSON.parse),
     )
     .then(async ([posts, terms, termTaxonomy]) => {
@@ -52,7 +51,6 @@ async function main({
           }
         });
     });
-  // tslint:enable:no-shadowed-variable
 }
 
 main(program).catch(error => {
