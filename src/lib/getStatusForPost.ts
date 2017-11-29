@@ -54,11 +54,12 @@ export async function getStatusForPost(
     return p.post_parent;
   });
 
-  // An object of the shape `{ 202: 'pitch', ...rest }`
+  // An object of the shape `{ 202: 'pitch', 203: 'complete' }`
   const termIdToTermSlug = mapValues(keyBy(terms, t => t.term_id), t => t.slug);
 
-  const tagsByParentPostName = mapValues(postsByParentId, v =>
+  const termsByParentPostName = mapValues(postsByParentId, v =>
     v
+      // Look up the term ID that corresponds to the post's term taxonomy ID
       .map(p => ({
         ...p,
         termId:
@@ -66,13 +67,13 @@ export async function getStatusForPost(
             ? termIdsByTaxonomyId[p.term_taxonomy_id].term_id
             : undefined,
       }))
-      // Assign the term slug (`partial`, `low-priority`) that corresponds to the the term ID above
+      // Add the term slug ("partial", "low-priority") that corresponds to the the term ID above
       .map(({ termId, ...rest }) => ({
         ...rest,
         termId,
         termSlug: termId !== undefined ? termIdToTermSlug[termId] : undefined,
       }))
-      // We are only interested in tags that indicate the status of the post (partial, complete...)
+      // We are only interested in tags that indicate the status of the post ("partial", "complete"...)
       .filter(
         ({ termSlug }) =>
           termSlug !== undefined && progressStatus.includes(termSlug),
@@ -83,8 +84,10 @@ export async function getStatusForPost(
 
   // Replace object keys, which are post IDs, with the corresponding post names
   return mapKeys(
+    // Remove posts that have no relevant status term
     omitBy(
-      mapValues(tagsByParentPostName, revisions => {
+      // Map each post to it's parent's status
+      mapValues(termsByParentPostName, revisions => {
         const revision =
           find(revisions, c => c.post_parent === 0) || revisions[0];
 
