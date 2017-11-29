@@ -1,12 +1,8 @@
 import * as cheerio from 'cheerio';
 import { URL } from 'url';
-import { fetchPageAsHtml, replaceSmartQuotes } from './helpers';
+import { replaceSmartQuotes } from './helpers';
 import { last } from 'lodash';
 import { format, parse } from 'date-fns';
-
-type Options = {
-  url: string;
-};
 
 type Piece = {
   type: 'sentence' | 'quote' | 'heading';
@@ -185,13 +181,5 @@ export async function scrapeHtml(html: string): Promise<ScrapeResult> {
       },
       content,
     },
-  };
-}
-
-export async function scrapePage({ url }: Options) {
-  return {
-    url,
-    path: new URL(url).pathname.replace(/\//g, ''),
-    ...await scrapeHtml(await fetchPageAsHtml(url)),
   };
 }

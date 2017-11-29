@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 import * as program from 'commander';
-import { getProgressForPosts } from '../lib/assignStatus';
+import { getStatusForPost } from '../lib/getStatusForPost';
 import { readFile, writeFile } from '../lib/helpers';
 import * as bluebird from 'bluebird';
 
@@ -42,7 +42,7 @@ async function main({
       readFile(file, 'utf8').then(JSON.parse),
     )
     .then(async ([posts, terms, termTaxonomy]) => {
-      return getProgressForPosts(posts, terms, termTaxonomy)
+      return getStatusForPost(posts, terms, termTaxonomy)
         .then(data => JSON.stringify(data, undefined, 2))
         .then(async string => {
           if (output) {

@@ -38,7 +38,7 @@ const progressStatus = [
 ];
 
 // tslint:disable:no-console
-export async function getProgressForPosts(
+export async function getStatusForPost(
   posts: Post[],
   terms: Term[],
   termTaxonomies: TermTaxonomyRelationship[],
