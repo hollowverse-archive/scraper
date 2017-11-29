@@ -13,7 +13,7 @@ const postsWithChildren = ['tomHanks.json', 'oliviaWilde.json']
   .map(async file => readFile(file, 'utf8'))
   .map(async string => JSON.parse(await string));
 
-test('parses and scrapes HTML correctly', async () => {
+test('gets the correct status for each parent post', async () => {
   const [terms, termTaxonomy] = await Promise.all(fixtures);
 
   (await Promise.all(postsWithChildren)).forEach(async postWithChildren => {

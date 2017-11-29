@@ -1,12 +1,12 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`parses and scrapes HTML correctly 1`] = `
+exports[`gets the correct status for each parent post 1`] = `
 Object {
   "tom-hanks": "complete",
 }
 `;
 
-exports[`parses and scrapes HTML correctly 2`] = `
+exports[`gets the correct status for each parent post 2`] = `
 Object {
   "olivia-wilde": "low-priority",
 }
