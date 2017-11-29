@@ -90,5 +90,10 @@
     "tslint-microsoft-contrib": "^5.0.1",
     "tslint-react": "^3.2.0",
     "typescript": "^2.6.1"
+  },
+  "lib": {
+    "hv-download": "dist/programs/download.js",
+    "hv-status": "dist/programs/status.js",
+    "hv-scrape": "dist/programs/scrape.js"
   }
 }
