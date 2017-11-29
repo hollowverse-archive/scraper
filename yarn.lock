@@ -38,13 +38,6 @@
   dependencies:
     "@types/node" "*"
 
-"@types/glob@^5.0.33":
-  version "5.0.33"
-  resolved "https://registry.yarnpkg.com/@types/glob/-/glob-5.0.33.tgz#3dff7c6ce09d65abe919c7961dc3dee016f36ad7"
-  dependencies:
-    "@types/minimatch" "*"
-    "@types/node" "*"
-
 "@types/got@^7.1.4":
   version "7.1.4"
   resolved "https://registry.yarnpkg.com/@types/got/-/got-7.1.4.tgz#9fdf7ee8d8d2f3f1309320e1403336ea4f1b0c80"
@@ -58,10 +51,6 @@
 "@types/lodash@^4.14.82":
   version "4.14.82"
   resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.82.tgz#18948897f415ef199a93156a66ef7ce1d0d005b9"
-
-"@types/minimatch@*":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@types/minimatch/-/minimatch-3.0.1.tgz#b683eb60be358304ef146f5775db4c0e3696a550"
 
 "@types/node@*", "@types/node@^8.0.48":
   version "8.0.48"
