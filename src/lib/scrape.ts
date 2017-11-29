@@ -12,25 +12,37 @@ type Piece = {
   sourceName?: string;
 };
 
-type ScrapeResult = {
-  notablePerson: {
-    name: string;
-    tags: string[];
-  };
+type StubResult = {
+  name: string;
+  tags: string[];
   relatedPeople: Array<{
     slug: string;
     name: string;
   }>;
-  article: {
-    author: string;
-    lastUpdatedOn?: string;
-    summary: {
-      religion?: string;
-      politicalViews?: string;
-    };
-    content: Piece[];
-  };
 };
+
+type CompleteResult = {
+  name: string;
+  tags: string[];
+  relatedPeople: Array<{
+    slug: string;
+    name: string;
+  }>;
+  author: string;
+  lastUpdatedOn?: string;
+  religion?: string;
+  politicalViews?: string;
+  content: Piece[];
+};
+
+export function isResultWIthContent(
+  result: CompleteResult | StubResult,
+): result is CompleteResult {
+  return (
+    (result as CompleteResult).author !== undefined &&
+    Array.isArray((result as CompleteResult).content)
+  );
+}
 
 function scrapeText($: CheerioStatic, e: CheerioElement) {
   let text = '';
@@ -79,8 +91,13 @@ function scrapeText($: CheerioStatic, e: CheerioElement) {
   );
 }
 
+const STUB_TEXT =
+  'Share what you know about the religion and political views of ';
+
 // tslint:disable-next-line:max-func-body-length
-export async function scrapeHtml(html: string): Promise<ScrapeResult> {
+export async function scrapeHtml(
+  html: string,
+): Promise<StubResult | CompleteResult> {
   const $ = cheerio.load(html);
 
   const name = $.root()
@@ -88,49 +105,6 @@ export async function scrapeHtml(html: string): Promise<ScrapeResult> {
     .text()
     .replace('The religion and political views of', '')
     .trim();
-
-  const religion =
-    $.root()
-      .find('.hollowverse-summary h2:nth-of-type(1)')
-      .next('p')
-      .text()
-      .trim() || undefined;
-
-  const politicalViews =
-    $.root()
-      .find('.hollowverse-summary h2:nth-of-type(2)')
-      .next('p')
-      .text()
-      .trim() || undefined;
-
-  const content: ScrapeResult['article']['content'] = [];
-
-  $.root()
-    .find('#ingrown-sidebar')
-    .remove();
-
-  $.root()
-    .find('.entry-content')
-    .find('> p, h2, blockquote')
-    .each((_, e) => {
-      const type =
-        e.tagName === 'p'
-          ? 'sentence'
-          : e.tagName === 'blockquote' ? 'quote' : 'heading';
-      if (type === 'quote') {
-        $(e)
-          .find('p')
-          .each((__, p) => {
-            scrapeText($, p).forEach(v => {
-              content.push({ type, ...v });
-            });
-          });
-      } else {
-        scrapeText($, e).forEach(v => {
-          content.push({ type, ...v });
-        });
-      }
-    });
 
   const tags = $.root()
     .find('article')
@@ -154,7 +128,7 @@ export async function scrapeHtml(html: string): Promise<ScrapeResult> {
     lastUpdatedOn = format(parse(match[1]), 'YYYY-MM-DD');
   }
 
-  const relatedPeople: ScrapeResult['relatedPeople'] = [];
+  const relatedPeople: CompleteResult['relatedPeople'] = [];
 
   $.root()
     .find('#similar-posts a')
@@ -166,20 +140,70 @@ export async function scrapeHtml(html: string): Promise<ScrapeResult> {
       });
     });
 
-  return {
-    notablePerson: {
+  const $entryContent = $.root().find('.entry-content');
+
+  if (
+    $entryContent
+      .find('> p:first-of-type')
+      .text()
+      .startsWith(STUB_TEXT)
+  ) {
+    // Post is a stub, it has no actual content
+    return {
       name,
+      relatedPeople,
       tags,
-    },
+    };
+  }
+
+  const religion =
+    $.root()
+      .find('.hollowverse-summary h2:nth-of-type(1)')
+      .next('p')
+      .text()
+      .trim() || undefined;
+
+  const politicalViews =
+    $.root()
+      .find('.hollowverse-summary h2:nth-of-type(2)')
+      .next('p')
+      .text()
+      .trim() || undefined;
+
+  $.root()
+    .find('#ingrown-sidebar')
+    .remove();
+
+  const content: CompleteResult['content'] = [];
+
+  $entryContent.find('> p, h2, blockquote').each((_, e) => {
+    const type =
+      e.tagName === 'p'
+        ? 'sentence'
+        : e.tagName === 'blockquote' ? 'quote' : 'heading';
+    if (type === 'quote') {
+      $(e)
+        .find('p')
+        .each((__, p) => {
+          scrapeText($, p).forEach(v => {
+            content.push({ type, ...v });
+          });
+        });
+    } else {
+      scrapeText($, e).forEach(v => {
+        content.push({ type, ...v });
+      });
+    }
+  });
+
+  return {
+    name,
+    tags,
     relatedPeople,
-    article: {
-      lastUpdatedOn,
-      author,
-      summary: {
-        politicalViews,
-        religion,
-      },
-      content,
-    },
+    lastUpdatedOn,
+    religion,
+    politicalViews,
+    author,
+    content,
   };
 }

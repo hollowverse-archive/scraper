@@ -1,24 +1,32 @@
-import { scrapeHtml } from './scrape';
+// tslint:disable:mocha-no-side-effect-code
+import { scrapeHtml, isResultWIthContent } from './scrape';
 import * as path from 'path';
 
 import { readDir, readFile } from './helpers';
 
-const fixturesDir = 'fixtures/html';
-const results = readDir(fixturesDir).then(async files => {
-  return Promise.all(
-    files.map(async file => {
-      const html = await readFile(path.resolve(fixturesDir, file), 'utf8');
+const types = ['complete', 'incomplete', 'stub'];
 
-      return {
-        file,
-        result: await scrapeHtml(html),
-      };
-    }),
-  );
-});
+it('works for different types of posts', async () => {
+  for (const type of types) {
+    const filenames = await readDir(path.join('fixtures', 'html', type));
+    const files = filenames.map(async filename => ({
+      filename,
+      html: await readFile(
+        path.join('fixtures', 'html', type, filename),
+        'utf8',
+      ),
+    }));
 
-test('parses and scrapes HTML correctly', async () => {
-  (await results).forEach(({ file, result }) => {
-    expect(result).toMatchSnapshot(file);
-  });
+    await Promise.all(
+      files.map(async descriptor => {
+        const { filename, html } = await descriptor;
+        const result = await scrapeHtml(html);
+        expect(result.name).toBeDefined();
+        if (isResultWIthContent(result)) {
+          expect(result.content.length).toBeGreaterThan(0);
+        }
+        expect(result).toMatchSnapshot(filename);
+      }),
+    );
+  }
 });
