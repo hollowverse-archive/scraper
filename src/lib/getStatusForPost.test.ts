@@ -1,7 +1,7 @@
 import { getStatusForPost } from './getStatusForPost';
 import * as path from 'path';
 
-import { readDir, readFile } from './helpers';
+import { readFile } from './helpers';
 
 const fixtures = ['terms.json', 'termTaxonomy.json']
   .map(file => path.join('fixtures', file))

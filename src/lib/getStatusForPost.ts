@@ -1,4 +1,3 @@
-#! /usr/bin/env node
 import {
   groupBy,
   keyBy,
@@ -37,7 +36,6 @@ const progressStatus = [
   'low-priority',
 ];
 
-// tslint:disable:no-console
 export async function getStatusForPost(
   posts: Post[],
   terms: Term[],
