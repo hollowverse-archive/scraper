@@ -21,6 +21,14 @@ type StubResult = {
   }>;
 };
 
+type Break = {
+  type: 'break';
+};
+
+export function isPiece(obj: Break | Piece): obj is Piece {
+  return obj.type !== 'break';
+}
+
 type CompleteResult = {
   name: string;
   tags: string[];
@@ -32,7 +40,7 @@ type CompleteResult = {
   lastUpdatedOn?: string;
   religion?: string;
   politicalViews?: string;
-  content: Piece[];
+  content: Array<Piece | Break>;
 };
 
 export type Result = CompleteResult | StubResult;
@@ -187,6 +195,7 @@ export async function scrapeHtml(html: string): Promise<Result> {
       e.tagName === 'p'
         ? 'sentence'
         : e.tagName === 'blockquote' ? 'quote' : 'heading';
+
     if (type === 'quote') {
       $(e)
         .find('p')
@@ -199,6 +208,9 @@ export async function scrapeHtml(html: string): Promise<Result> {
       scrapeText($, e).forEach(v => {
         content.push({ type, ...v });
       });
+      if (e.tagName === 'p') {
+        content.push({ type: 'break' });
+      }
     }
   });
 
