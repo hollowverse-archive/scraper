@@ -1,7 +1,7 @@
 #! /usr/bin/env node
 import * as program from 'commander';
 import { getStatusForPost } from '../lib/getStatusForPost';
-import { readFile, writeFile } from '../lib/helpers';
+import { readJsonFile, writeFile } from '../lib/helpers';
 import * as bluebird from 'bluebird';
 
 program
@@ -37,19 +37,15 @@ async function main({
   output,
 }: Record<string, any>) {
   return bluebird
-    .map([postsFile, termsFile, termTaxonomyFile], async file =>
-      readFile(file, 'utf8').then(JSON.parse),
-    )
+    .map([postsFile, termsFile, termTaxonomyFile], readJsonFile)
     .then(async ([posts, terms, termTaxonomy]) => {
-      return getStatusForPost(posts, terms, termTaxonomy)
-        .then(data => JSON.stringify(data, undefined, 2))
-        .then(async string => {
-          if (output) {
-            return writeFile(output, string);
-          } else {
-            process.stdout.write(string);
-          }
-        });
+      const data = await getStatusForPost(posts, terms, termTaxonomy);
+      const jsonString = JSON.stringify(data, undefined, 2);
+      if (output) {
+        return writeFile(output, jsonString);
+      } else {
+        process.stdout.write(jsonString);
+      }
     });
 }
 

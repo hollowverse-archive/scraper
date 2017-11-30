@@ -2,7 +2,7 @@
 import * as program from 'commander';
 import * as ProgressBar from 'progress';
 import { downloadPages } from '../lib/downloadPages';
-import { readDir, readFile } from '../lib/helpers';
+import { readDir, readJsonFile } from '../lib/helpers';
 
 const defaults = {
   base: 'https://static.hollowverse.com',
@@ -48,7 +48,7 @@ async function main({
   base = defaults.base,
   concurrency = defaults.concurrency,
 }: Record<string, any>) {
-  const postNames: Path[] = await readFile(posts, 'utf8').then(JSON.parse);
+  const postNames = await readJsonFile<Path[]>(posts);
   let scheduledPaths = postNames.map(p => p.post_name);
   process.stdout.write(`${scheduledPaths.length} posts found.\n`);
 

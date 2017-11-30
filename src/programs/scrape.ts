@@ -49,16 +49,16 @@ async function main({
 
   return bluebird.map(
     scheduledFiles,
-    async file =>
-      readFile(file, 'utf8')
-        .then(scrapeHtml)
-        .then(result => JSON.stringify(result, undefined, 0))
-        .then(async jsonString =>
-          writeFile(
-            path.join(output, file.replace(/\.html?$/, '.json')),
-            jsonString,
-          ),
-        ),
+    async file => {
+      const html = await readFile(file, 'utf8');
+      const result = await scrapeHtml(html);
+      const jsonString = JSON.stringify(result, undefined, 0);
+
+      await writeFile(
+        path.join(output, file.replace(/\.html?$/, '.json')),
+        jsonString,
+      );
+    },
     { concurrency },
   );
 }

@@ -19,32 +19,32 @@ export async function downloadPages({
   onPageDownloaded,
   onFinished,
 }: DownloadPagesOptions) {
-  return bluebird
-    .map(
-      paths.map(path => [path, new URL(path, base).toString()]),
-      async ([path, url], index) => {
-        return fetchPageAsHtml(url)
-          .then(async html => writeFile(`${distDirectory}/${path}.html`, html))
-          .catch(e => {
-            if (e.statusCode === 404) {
-              return;
-            }
-            throw e;
-          })
-          .then(() => {
-            if (onPageDownloaded) {
-              onPageDownloaded(path, paths[index + 1]);
-            }
-          })
-          .then(() => url);
-      },
-      { concurrency },
-    )
-    .then(data => {
-      if (onFinished) {
-        onFinished();
+  // tslint:disable-next-line:await-promise
+  const data = await bluebird.map(
+    paths.map(path => [path, new URL(path, base).toString()]),
+    async ([path, url], index) => {
+      try {
+        const html = await fetchPageAsHtml(url);
+        await writeFile(`${distDirectory}/${path}.html`, html);
+
+        if (onPageDownloaded) {
+          onPageDownloaded(path, paths[index + 1]);
+        }
+      } catch (e) {
+        if (e.statusCode === 404) {
+          return;
+        }
+        throw e;
       }
 
-      return data;
-    });
+      return url;
+    },
+    { concurrency },
+  );
+
+  if (onFinished) {
+    onFinished();
+  }
+
+  return data;
 }

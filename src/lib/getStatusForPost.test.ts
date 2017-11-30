@@ -1,17 +1,15 @@
 import { getStatusForPost } from './getStatusForPost';
 import * as path from 'path';
 
-import { readFile } from './helpers';
+import { readJsonFile } from './helpers';
 
 const fixtures = ['terms.json', 'termTaxonomy.json']
   .map(file => path.join('fixtures', file))
-  .map(async file => readFile(file, 'utf8'))
-  .map(async string => JSON.parse(await string));
+  .map(readJsonFile);
 
 const postsWithChildren = ['tomHanks.json', 'oliviaWilde.json']
   .map(file => path.join('fixtures', 'postsWithChildren', file))
-  .map(async file => readFile(file, 'utf8'))
-  .map(async string => JSON.parse(await string));
+  .map(readJsonFile);
 
 test('gets the correct status for each parent post', async () => {
   const [terms, termTaxonomy] = await Promise.all(fixtures);
