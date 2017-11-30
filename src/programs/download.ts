@@ -1,5 +1,6 @@
 #! /usr/bin/env node
 import * as program from 'commander';
+import * as path from 'path';
 import * as ProgressBar from 'progress';
 import { downloadBatch } from '../lib/downloadBatch';
 import { readDir, readJsonFile, writeFile } from '../lib/helpers';
@@ -69,8 +70,8 @@ async function main({
     paths: scheduledPaths,
     base,
     concurrency: Number(concurrency),
-    async onPageDownloaded(html, path, next) {
-      await writeFile(`${output}/${path}.html`, html);
+    async onPageDownloaded(html, urlPath, next) {
+      await writeFile(path.join(output, `${urlPath}.html`), html);
       progressBar.tick({ path: next });
     },
     onFinished() {

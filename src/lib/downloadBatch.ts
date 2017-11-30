@@ -6,7 +6,11 @@ type DownloadPagesOptions = {
   base: string;
   paths: string[];
   concurrency: number;
-  onPageDownloaded(html: string, path: string, next: string | undefined): void;
+  onPageDownloaded(
+    html: string,
+    urlPath: string,
+    next: string | undefined,
+  ): void;
   onFinished?(): void;
 };
 
