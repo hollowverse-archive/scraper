@@ -35,6 +35,8 @@ type CompleteResult = {
   content: Piece[];
 };
 
+export type Result = CompleteResult | StubResult;
+
 export function isResultWithContent(
   result: CompleteResult | StubResult,
 ): result is CompleteResult {
@@ -95,9 +97,7 @@ const STUB_TEXT =
   'Share what you know about the religion and political views of ';
 
 // tslint:disable-next-line:max-func-body-length
-export async function scrapeHtml(
-  html: string,
-): Promise<StubResult | CompleteResult> {
+export async function scrapeHtml(html: string): Promise<Result> {
   const $ = cheerio.load(html);
 
   const name = $.root()
