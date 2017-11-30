@@ -35,7 +35,7 @@ program
   )
   .option(
     '-c --concurrency [concurrency]',
-    'The maximum number of pages that should should be downloaded at the same time. ' +
+    'The maximum number of pages that should be downloaded at the same time. ' +
       `Defaults to ${defaults.concurrency}`,
   );
 

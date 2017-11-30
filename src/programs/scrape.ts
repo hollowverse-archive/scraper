@@ -29,7 +29,7 @@ program
   )
   .option(
     '-c --concurrency [concurrency]',
-    'The maximum number of pages that should should be scraped at the same time. ' +
+    'The maximum number of pages that should be scraped at the same time. ' +
       `Defaults to ${defaults.concurrency}`,
   );
 
