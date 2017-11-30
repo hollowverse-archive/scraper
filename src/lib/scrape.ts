@@ -57,17 +57,23 @@ function scrapeText($: CheerioStatic, e: CheerioElement) {
     } else if (node.type === 'tag' && node.tagName === 'sup') {
       const $sup = $(node);
       const id = $sup.find('a').attr('href');
-      const $a = $.root()
-        .find(id)
-        .find('a:first-of-type');
-      sourceUrl = $a.attr('href');
-      sourceTitle = $a.text() || undefined;
 
-      content.push({ text, sourceUrl, sourceTitle });
-      sourceUrl = undefined;
-      sourceTitle = undefined;
-      text = '';
-      continue;
+      try {
+        const $a = $.root()
+          .find(id)
+          .find('a:first-of-type');
+
+        sourceUrl = $a.attr('href');
+        sourceTitle = $a.text() || undefined;
+
+        content.push({ text, sourceUrl, sourceTitle });
+        sourceUrl = undefined;
+        sourceTitle = undefined;
+        text = '';
+        continue;
+      } catch (e) {
+        // Reference is not formatted correctly, do nothing
+      }
     }
 
     if (node === last(e.childNodes)) {
