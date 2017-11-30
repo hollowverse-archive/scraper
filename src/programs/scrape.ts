@@ -66,7 +66,7 @@ async function main({
   return scrapeBatch({
     files: scheduledFiles.map(file => path.join(root, file)),
     concurrency: Number(concurrency),
-    async onScrapedFileWritten(result, file, next) {
+    async onFileScraped(result, file, next) {
       await writeFile(
         path.join(output, path.basename(file).replace(/\.html?$/, '.json')),
         JSON.stringify(result, undefined, 2),

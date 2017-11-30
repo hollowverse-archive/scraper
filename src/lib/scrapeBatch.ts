@@ -5,18 +5,14 @@ import * as bluebird from 'bluebird';
 type ScrapeBatchOptions = {
   files: string[];
   concurrency: number;
-  onScrapedFileWritten(
-    result: Result,
-    file: string,
-    next: string | undefined,
-  ): void;
+  onFileScraped(result: Result, file: string, next: string | undefined): void;
   onFinished?(): void;
 };
 
 export async function scrapeBatch({
   files,
   concurrency,
-  onScrapedFileWritten,
+  onFileScraped,
   onFinished,
 }: ScrapeBatchOptions) {
   // tslint:disable-next-line:await-promise
@@ -26,7 +22,7 @@ export async function scrapeBatch({
       const html = await readFile(file, 'utf8');
       const result = await scrapeHtml(html);
 
-      onScrapedFileWritten(result, file, files[index + 1]);
+      onFileScraped(result, file, files[index + 1]);
 
       return file;
     },
