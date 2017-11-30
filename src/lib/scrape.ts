@@ -2,7 +2,7 @@ import * as cheerio from 'cheerio';
 import { URL } from 'url';
 import { replaceSmartQuotes } from './helpers';
 import { last } from 'lodash';
-import { format, parse } from 'date-fns';
+import { format, parse, isValid } from 'date-fns';
 
 type Piece = {
   type: 'sentence' | 'quote' | 'heading';
@@ -125,7 +125,7 @@ export async function scrapeHtml(
 
   let lastUpdatedOn: string | undefined;
   if (match && match[1]) {
-    lastUpdatedOn = format(parse(match[1]), 'YYYY-MM-DD');
+    lastUpdatedOn = format(parse(match[1].split('.')[0]), 'YYYY-MM-DD');
   }
 
   const relatedPeople: CompleteResult['relatedPeople'] = [];
