@@ -35,7 +35,7 @@ type CompleteResult = {
   content: Piece[];
 };
 
-export function isResultWIthContent(
+export function isResultWithContent(
   result: CompleteResult | StubResult,
 ): result is CompleteResult {
   return (

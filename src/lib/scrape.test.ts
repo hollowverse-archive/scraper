@@ -1,5 +1,5 @@
 // tslint:disable:mocha-no-side-effect-code
-import { scrapeHtml, isResultWIthContent } from './scrape';
+import { scrapeHtml, isResultWithContent } from './scrape';
 import * as path from 'path';
 
 import { readDir, readFile } from './helpers';
@@ -22,7 +22,7 @@ it('works for different types of posts', async () => {
         const { filename, html } = await descriptor;
         const result = await scrapeHtml(html);
         expect(result.name).toBeDefined();
-        if (isResultWIthContent(result)) {
+        if (isResultWithContent(result)) {
           expect(result.content.length).toBeGreaterThan(0);
         }
         expect(result).toMatchSnapshot(filename);
