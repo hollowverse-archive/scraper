@@ -34,7 +34,7 @@ program
     'Re-download and overwrite files that already exist in the output folder.',
   )
   .option(
-    '-c --concurrency',
+    '-c --concurrency [concurrency]',
     'The maximum number of pages that should should be downloaded at the same time. ' +
       `Defaults to ${defaults.concurrency}`,
   );
@@ -69,7 +69,7 @@ async function main({
     distDirectory: output,
     paths: scheduledPaths,
     base,
-    concurrency,
+    concurrency: Number(concurrency),
     onPageDownloaded(_, next) {
       progressBar.tick({ path: next });
     },
@@ -82,6 +82,6 @@ async function main({
 }
 
 main(program).catch(error => {
-  process.stderr.write(`Failed to download some pages. ${error.message}\n`);
+  process.stderr.write(`\nFailed to download some pages. ${error.message}\n`);
   process.exit(1);
 });
