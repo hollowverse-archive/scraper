@@ -31,10 +31,9 @@ export async function downloadPages({
           onPageDownloaded(path, paths[index + 1]);
         }
       } catch (e) {
-        if (e.statusCode === 404) {
-          return;
+        if (e.statusCode !== 404) {
+          throw e;
         }
-        throw e;
       }
 
       return url;
