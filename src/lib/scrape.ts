@@ -2,7 +2,7 @@ import * as cheerio from 'cheerio';
 import { URL } from 'url';
 import { replaceSmartQuotes } from './helpers';
 import { last } from 'lodash';
-import { format, parse, isValid } from 'date-fns';
+import { format, parse } from 'date-fns';
 
 type Piece = {
   type: 'sentence' | 'quote' | 'heading';

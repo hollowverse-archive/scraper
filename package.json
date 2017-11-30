@@ -6,7 +6,7 @@
   "author": "Muhammad Fawwaz Orabi <mfawwaz93@gmail.com>",
   "license": "Unlicense",
   "scripts": {
-    "lint": "run-p validate-filenames lint-js lint-ts",
+    "lint": "run-p validate-filenames check-ts lint-js lint-ts",
     "pretest": "yarn lint",
     "test": "jest",
     "check-ts": "tsc --project ./src --noEmit",
@@ -20,10 +20,16 @@
     "lint-staged": "lint-staged"
   },
   "jest": {
+    "globals": {
+      "ts-jest": {
+        "skipBabel": true
+      }
+    },
     "transform": {
       "^.+\\.tsx?$": "<rootDir>/node_modules/ts-jest/preprocessor.js"
     },
     "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$",
+    "testPathIgnorePatterns": ["__snapshots__"],
     "moduleFileExtensions": [
       "ts",
       "tsx",
