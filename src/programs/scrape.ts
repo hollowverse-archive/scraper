@@ -74,7 +74,7 @@ async function main({
       progressBar.tick({ page: next });
     },
     onFinished() {
-      process.stdout.write(`${files.length} scraped and written to disk.\n`);
+      process.stdout.write(`\n${files.length} scraped and written to disk.\n`);
     },
   });
 }
