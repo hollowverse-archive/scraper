@@ -3,7 +3,7 @@ import * as program from 'commander';
 import * as ProgressBar from 'progress';
 import * as path from 'path';
 import { scrapeBatch } from '../lib/scrapeBatch';
-import { readDir, glob } from '../lib/helpers';
+import { readDir, glob, writeFile } from '../lib/helpers';
 
 const defaults = {
   concurrency: 3,
@@ -66,8 +66,11 @@ async function main({
   return scrapeBatch({
     files: scheduledFiles.map(file => path.join(root, file)),
     concurrency: Number(concurrency),
-    distDirectory: output,
-    onScrapedFileWritten(_, next) {
+    async onScrapedFileWritten(result, file, next) {
+      await writeFile(
+        path.join(output, path.basename(file).replace(/\.html?$/, '.json')),
+        JSON.stringify(result, undefined, 2),
+      );
       progressBar.tick({ page: next });
     },
     onFinished() {

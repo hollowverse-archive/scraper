@@ -1,8 +1,8 @@
 #! /usr/bin/env node
 import * as program from 'commander';
 import * as ProgressBar from 'progress';
-import { downloadPages } from '../lib/downloadPages';
-import { readDir, readJsonFile } from '../lib/helpers';
+import { downloadBatch } from '../lib/downloadBatch';
+import { readDir, readJsonFile, writeFile } from '../lib/helpers';
 
 const defaults = {
   base: 'https://static.hollowverse.com',
@@ -65,12 +65,12 @@ async function main({
     total: scheduledPaths.length,
   });
 
-  const downloadedUrls = await downloadPages({
-    distDirectory: output,
+  const downloadedUrls = await downloadBatch({
     paths: scheduledPaths,
     base,
     concurrency: Number(concurrency),
-    onPageDownloaded(_, next) {
+    async onPageDownloaded(html, path, next) {
+      await writeFile(`${output}/${path}.html`, html);
       progressBar.tick({ path: next });
     },
     onFinished() {
