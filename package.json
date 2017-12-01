@@ -102,5 +102,8 @@
   "bin": {
     "hv-download": "dist/programs/download.js",
     "hv-scrape": "dist/programs/scrape.js"
+  },
+  "engines": {
+    "node": ">= 9.2"
   }
 }
