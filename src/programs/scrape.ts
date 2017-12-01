@@ -2,13 +2,21 @@
 import * as program from 'commander';
 import * as ProgressBar from 'progress';
 import * as path from 'path';
+import { Result } from '../lib/scrape';
 import { scrapeBatch } from '../lib/scrapeBatch';
 import { readDir, glob, writeFile } from '../lib/helpers';
 import { getWikipediaInfo } from '../lib/getWikipediaInfo';
+import { isEmpty } from 'lodash';
 
 const defaults = {
   concurrency: 3,
 };
+
+function hasWikipediaData(
+  result: Result,
+): result is Result & { wikipediaData: Record<string, any> } {
+  return 'wikipediaData' in result;
+}
 
 program
   .description('Scrape downloaded website pages')
@@ -87,14 +95,35 @@ async function main({
 
     async transformResult(result, __) {
       if (wikipedia) {
+        const wikipediaData = await getWikipediaInfo(result);
+
         return {
           ...result,
-          ...await getWikipediaInfo(result),
+          wikipediaData,
         };
       }
 
       return result;
     },
+  }).then(data => {
+    const missingData = data.filter(result => {
+      if (hasWikipediaData(result)) {
+        return isEmpty(result.wikipediaData);
+      }
+
+      return false;
+    });
+    if (missingData.length) {
+      process.stdout.write(
+        `\nCould not find Wikipedia page for ${missingData.length} pages:\n`,
+      );
+
+      missingData.forEach(({ name }) => {
+        process.stdout.write(`\n* ${name}\n`);
+      });
+    }
+
+    return data;
   });
 
   process.stdout.write(

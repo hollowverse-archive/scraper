@@ -34,13 +34,16 @@ export async function getWikipediaInfo(result: Result) {
 
   const pageId = values(personBody.query.pages)[0].pageid;
 
-  const {
-    title: wikipediaTitle,
-    canonicalurl: wikipediaUrl,
-  } = urlBody.query.pages[pageId];
+  const pageData = urlBody.query.pages[pageId];
+  if (!pageData) {
+    return {};
+  }
+
+  const title: string = pageData.title;
+  const url: string = pageData.canonicalurl;
 
   return {
-    wikipediaUrl,
-    wikipediaTitle,
+    url,
+    title,
   };
 }
