@@ -1,9 +1,9 @@
 #! /usr/bin/env node
 import * as program from 'commander';
-import * as bluebird from 'bluebird';
+import * as ProgressBar from 'progress';
 import * as path from 'path';
-import { scrapeHtml } from '../lib/scrape';
-import { readDir, readFile, writeFile } from '../lib/helpers';
+import { scrapeBatch } from '../lib/scrapeBatch';
+import { readDir, glob, writeFile } from '../lib/helpers';
 
 const defaults = {
   concurrency: 3,
@@ -12,8 +12,12 @@ const defaults = {
 program
   .description('Scrape downloaded website pages')
   .option(
-    '-p --path <path>',
-    'The path to the directory containing the HTML files to scrape',
+    '-p --pattern <pattern>',
+    'A glob pattern of HTML files to scrape, must be wrapped in single quotes',
+  )
+  .option(
+    '-r --root <root>',
+    'The directory containing the downloaded HTML files',
   )
   .option(
     '-o --output <output>',
@@ -24,46 +28,58 @@ program
     'Re-scrape and overwrite files that already exist in the output folder.',
   )
   .option(
-    '-c --concurrency',
-    'The maximum number of pages that should should be scraped at the same time. ' +
+    '-c --concurrency [concurrency]',
+    'The maximum number of pages that should be scraped at the same time. ' +
       `Defaults to ${defaults.concurrency}`,
   );
 
 program.parse(process.argv);
 
 async function main({
-  path: srcDirectory,
+  pattern,
+  root,
   output,
   force,
   concurrency = defaults.concurrency,
 }: Record<string, any>) {
-  const files = await readDir(srcDirectory);
+  const files = await glob(pattern, { cwd: root, matchBase: false });
   let scheduledFiles = files;
 
   if (!force) {
-    const alreadyScraped = new Set(await readDir(output));
+    let alreadyScraped: Set<string>;
+    try {
+      alreadyScraped = new Set(await readDir(output));
+    } catch (e) {
+      alreadyScraped = new Set();
+    }
+
     scheduledFiles = scheduledFiles.filter(
       file => !alreadyScraped.has(file.replace(/\.html?$/, '.json')),
     );
   }
 
-  return bluebird.map(
-    scheduledFiles,
-    async file => {
-      const html = await readFile(file, 'utf8');
-      const result = await scrapeHtml(html);
-      const jsonString = JSON.stringify(result, undefined, 0);
+  const progressBar = new ProgressBar(':bar [:percent] :page', {
+    width: 25,
+    total: scheduledFiles.length,
+  });
 
+  return scrapeBatch({
+    files: scheduledFiles.map(file => path.join(root, file)),
+    concurrency: Number(concurrency),
+    async onFileScraped(result, file, next) {
       await writeFile(
-        path.join(output, file.replace(/\.html?$/, '.json')),
-        jsonString,
+        path.join(output, path.basename(file).replace(/\.html?$/, '.json')),
+        JSON.stringify(result, undefined, 2),
       );
+      progressBar.tick({ page: next });
     },
-    { concurrency },
-  );
+    onFinished() {
+      process.stdout.write(`\n${files.length} scraped and written to disk.\n`);
+    },
+  });
 }
 
 main(program).catch(error => {
-  process.stderr.write(`${error.message}\n`);
+  process.stderr.write(`\n${error.message}\n`);
   process.exit(1);
 });

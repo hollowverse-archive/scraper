@@ -29,7 +29,9 @@
       "^.+\\.tsx?$": "<rootDir>/node_modules/ts-jest/preprocessor.js"
     },
     "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$",
-    "testPathIgnorePatterns": ["__snapshots__"],
+    "testPathIgnorePatterns": [
+      "__snapshots__"
+    ],
     "moduleFileExtensions": [
       "ts",
       "tsx",
@@ -59,6 +61,7 @@
     "cheerio": "^1.0.0-rc.2",
     "commander": "^2.11.0",
     "date-fns": "^1.29.0",
+    "glob": "^7.1.2",
     "got": "^7.1.0",
     "lodash": "^4.17.4",
     "progress": "^2.0.0"
@@ -69,6 +72,7 @@
     "@types/bluebird": "^3.5.18",
     "@types/cheerio": "^0.22.5",
     "@types/commander": "^2.11.0",
+    "@types/glob": "^5.0.33",
     "@types/got": "^7.1.4",
     "@types/jest": "^21.1.5",
     "@types/lodash": "^4.14.82",
@@ -96,9 +100,8 @@
     "tslint-react": "^3.2.0",
     "typescript": "^2.6.1"
   },
-  "lib": {
+  "bin": {
     "hv-download": "dist/programs/download.js",
-    "hv-status": "dist/programs/status.js",
     "hv-scrape": "dist/programs/scrape.js"
   }
 }

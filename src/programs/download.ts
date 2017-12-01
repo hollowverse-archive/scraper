@@ -1,8 +1,9 @@
 #! /usr/bin/env node
 import * as program from 'commander';
+import * as path from 'path';
 import * as ProgressBar from 'progress';
-import { downloadPages } from '../lib/downloadPages';
-import { readDir, readJsonFile } from '../lib/helpers';
+import { downloadBatch } from '../lib/downloadBatch';
+import { readDir, readJsonFile, writeFile } from '../lib/helpers';
 
 const defaults = {
   base: 'https://static.hollowverse.com',
@@ -34,8 +35,8 @@ program
     'Re-download and overwrite files that already exist in the output folder.',
   )
   .option(
-    '-c --concurrency',
-    'The maximum number of pages that should should be downloaded at the same time. ' +
+    '-c --concurrency [concurrency]',
+    'The maximum number of pages that should be downloaded at the same time. ' +
       `Defaults to ${defaults.concurrency}`,
   );
 
@@ -65,12 +66,12 @@ async function main({
     total: scheduledPaths.length,
   });
 
-  const downloadedUrls = await downloadPages({
-    distDirectory: output,
+  const downloadedUrls = await downloadBatch({
     paths: scheduledPaths,
     base,
-    concurrency,
-    onPageDownloaded(_, next) {
+    concurrency: Number(concurrency),
+    async onPageDownloaded(html, urlPath, next) {
+      await writeFile(path.join(output, `${urlPath}.html`), html);
       progressBar.tick({ path: next });
     },
     onFinished() {
@@ -82,6 +83,6 @@ async function main({
 }
 
 main(program).catch(error => {
-  process.stderr.write(`Failed to download some pages. ${error.message}\n`);
+  process.stderr.write(`\nFailed to download some pages. ${error.message}\n`);
   process.exit(1);
 });
