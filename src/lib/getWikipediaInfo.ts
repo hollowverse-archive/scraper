@@ -22,19 +22,23 @@ export async function getWikipediaInfo(result: Result) {
   const titles = map(body.query.pages, (p: any) => p.title);
 
   const set = createFuzzySet(titles);
-  const [[, closestMatch]] = set.get(result.name);
+  const matches = set.get(result.name);
+  if (matches && matches.length > 0) {
+    const [[, closestMatch]] = matches;
+    const page = find(body.query.pages, (p: any) => p.title === closestMatch);
 
-  const page = find(body.query.pages, (p: any) => p.title === closestMatch);
+    if (!page) {
+      return {};
+    }
 
-  if (!page) {
-    return {};
+    const title: string = page.title;
+    const url: string = page.canonicalurl;
+
+    return {
+      url,
+      title,
+    };
   }
 
-  const title: string = page.title;
-  const url: string = page.canonicalurl;
-
-  return {
-    url,
-    title,
-  };
+  return {};
 }
