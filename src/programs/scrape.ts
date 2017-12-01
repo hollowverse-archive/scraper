@@ -85,12 +85,12 @@ async function main({
   await scrapeBatch({
     files: scheduledFiles.map(file => path.join(root, file)),
     concurrency: Number(concurrency),
-    async onFileScraped(result, file, next) {
+    async onFileScraped(result, file, _) {
       await writeFile(
         path.join(output, path.basename(file).replace(/\.html?$/, '.json')),
         JSON.stringify(result, undefined, 2),
       );
-      progressBar.tick({ page: next });
+      progressBar.tick({ page: file });
     },
 
     async transformResult(result, __) {
@@ -115,11 +115,13 @@ async function main({
     });
     if (missingData.length) {
       process.stdout.write(
-        `\nCould not find Wikipedia page for ${missingData.length} pages:\n`,
+        `\nCould not find matching Wikipedia page(s) for ${
+          missingData.length
+        } page(s):\n`,
       );
 
       missingData.forEach(({ name }) => {
-        process.stdout.write(`\n* ${name}\n`);
+        process.stdout.write(`* ${name}\n`);
       });
     }
 

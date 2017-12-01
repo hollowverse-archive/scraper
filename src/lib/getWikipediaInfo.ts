@@ -1,22 +1,12 @@
 import { Result } from './scrape';
 import * as got from 'got';
-import { values } from 'lodash';
+import * as createFuzzySet from 'fuzzyset.js';
+import { map, find } from 'lodash';
 
 const WIKIPEDIA_API_ENDPOINT = 'https://en.wikipedia.org/w/api.php';
 
 export async function getWikipediaInfo(result: Result) {
-  const personRequest = got(WIKIPEDIA_API_ENDPOINT, {
-    json: true,
-    query: {
-      action: 'query',
-      prop: 'templates',
-      titles: result.name,
-      tltemplates: 'Person',
-      format: 'json',
-    },
-  });
-
-  const urlRequest = got(WIKIPEDIA_API_ENDPOINT, {
+  const { body } = await got(WIKIPEDIA_API_ENDPOINT, {
     json: true,
     query: {
       action: 'query',
@@ -29,18 +19,19 @@ export async function getWikipediaInfo(result: Result) {
     },
   });
 
-  const personBody = (await personRequest).body;
-  const urlBody = (await urlRequest).body;
+  const titles = map(body.query.pages, (p: any) => p.title);
 
-  const pageId = values(personBody.query.pages)[0].pageid;
+  const set = createFuzzySet(titles);
+  const [[, closestMatch]] = set.get(result.name);
 
-  const pageData = urlBody.query.pages[pageId];
-  if (!pageData) {
+  const page = find(body.query.pages, (p: any) => p.title === closestMatch);
+
+  if (!page) {
     return {};
   }
 
-  const title: string = pageData.title;
-  const url: string = pageData.canonicalurl;
+  const title: string = page.title;
+  const url: string = page.canonicalurl;
 
   return {
     url,
