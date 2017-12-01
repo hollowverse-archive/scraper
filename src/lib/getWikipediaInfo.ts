@@ -2,8 +2,10 @@ import { Result } from './scrape';
 import * as got from 'got';
 import { values } from 'lodash';
 
+const WIKIPEDIA_API_ENDPOINT = 'https://en.wikipedia.org/w/api.php';
+
 export async function getWikipediaInfo(result: Result) {
-  const personRequest = got('https://en.wikipedia.org/w/api.php', {
+  const personRequest = got(WIKIPEDIA_API_ENDPOINT, {
     json: true,
     query: {
       action: 'query',
@@ -14,7 +16,7 @@ export async function getWikipediaInfo(result: Result) {
     },
   });
 
-  const urlRequest = got('https://en.wikipedia.org/w/api.php', {
+  const urlRequest = got(WIKIPEDIA_API_ENDPOINT, {
     json: true,
     query: {
       action: 'query',
