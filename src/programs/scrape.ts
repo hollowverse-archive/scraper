@@ -40,6 +40,7 @@ program
     '-f --force',
     'Re-scrape and overwrite files that already exist in the output folder.',
   )
+  .option('-d --dry', 'Dry run (do not write files to disk).')
   .option(
     '-c --concurrency [concurrency]',
     'The maximum number of pages that should be scraped at the same time. ' +
@@ -54,6 +55,7 @@ async function main({
   output,
   force,
   wikipedia,
+  dry,
   concurrency = defaults.concurrency,
 }: Record<string, any>) {
   const files = await glob(pattern, { cwd: root, matchBase: false });
@@ -86,10 +88,12 @@ async function main({
     files: scheduledFiles.map(file => path.join(root, file)),
     concurrency: Number(concurrency),
     async onFileScraped(result, file, _) {
-      await writeFile(
-        path.join(output, path.basename(file).replace(/\.html?$/, '.json')),
-        JSON.stringify(result, undefined, 2),
-      );
+      if (!dry) {
+        await writeFile(
+          path.join(output, path.basename(file).replace(/\.html?$/, '.json')),
+          JSON.stringify(result, undefined, 2),
+        );
+      }
       progressBar.tick({ page: file });
     },
 
@@ -129,7 +133,9 @@ async function main({
   });
 
   process.stdout.write(
-    `\n${scheduledFiles.length} scraped and written to disk.\n`,
+    `\n${scheduledFiles.length} scraped${
+      !dry ? ' and written to disk' : ''
+    }.\n`,
   );
 }
 
