@@ -15,5 +15,9 @@ declare module 'fuzzyset.js' {
     gramSizeUpper?: number,
   ): FuzzySet;
 
+  namespace FuzzySet {
+
+  }
+
   export = FuzzySet;
 }
