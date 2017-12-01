@@ -11,7 +11,6 @@ type DownloadPagesOptions = {
     urlPath: string,
     next: string | undefined,
   ): void;
-  onFinished?(): void;
 };
 
 export async function downloadBatch({
@@ -19,10 +18,8 @@ export async function downloadBatch({
   base,
   concurrency,
   onPageDownloaded,
-  onFinished,
 }: DownloadPagesOptions) {
-  // tslint:disable-next-line:await-promise
-  const data = await bluebird.map(
+  return bluebird.map(
     paths.map(path => [path, new URL(path, base).toString()]),
     async ([path, url], index) => {
       try {
@@ -38,10 +35,4 @@ export async function downloadBatch({
     },
     { concurrency },
   );
-
-  if (onFinished) {
-    onFinished();
-  }
-
-  return data;
 }

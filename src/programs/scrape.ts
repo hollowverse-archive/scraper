@@ -84,7 +84,7 @@ async function main({
     total: scheduledFiles.length,
   });
 
-  await scrapeBatch({
+  const results = await scrapeBatch({
     files: scheduledFiles.map(file => path.join(root, file)),
     concurrency: Number(concurrency),
     async onFileScraped(result, file, _) {
@@ -109,27 +109,6 @@ async function main({
 
       return result;
     },
-  }).then(data => {
-    const missingData = data.filter(result => {
-      if (hasWikipediaData(result)) {
-        return isEmpty(result.wikipediaData);
-      }
-
-      return false;
-    });
-    if (missingData.length) {
-      process.stdout.write(
-        `\nCould not find matching Wikipedia page(s) for ${
-          missingData.length
-        } page(s):\n`,
-      );
-
-      missingData.forEach(({ name }) => {
-        process.stdout.write(`* ${name}\n`);
-      });
-    }
-
-    return data;
   });
 
   process.stdout.write(
@@ -137,6 +116,26 @@ async function main({
       !dry ? ' and written to disk' : ''
     }.\n`,
   );
+
+  const missingData = results.filter(result => {
+    if (hasWikipediaData(result)) {
+      return isEmpty(result.wikipediaData);
+    }
+
+    return false;
+  });
+
+  if (missingData.length) {
+    process.stdout.write(
+      `\nCould not find matching Wikipedia page(s) for ${
+        missingData.length
+      } page(s):\n`,
+    );
+
+    missingData.forEach(({ name }) => {
+      process.stdout.write(`* ${name}\n`);
+    });
+  }
 }
 
 main(program).catch(error => {

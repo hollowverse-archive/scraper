@@ -74,12 +74,9 @@ async function main({
       await writeFile(path.join(output, `${urlPath}.html`), html);
       progressBar.tick({ path: next });
     },
-    onFinished() {
-      process.stdout.write('\n');
-    },
   });
 
-  process.stdout.write(`${downloadedUrls.length} URLs downloaded.\n`);
+  process.stdout.write(`\n${downloadedUrls.length} URLs downloaded.\n`);
 }
 
 main(program).catch(error => {

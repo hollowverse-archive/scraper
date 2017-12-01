@@ -11,7 +11,6 @@ type ScrapeBatchOptions<T extends Result> = {
     file: string,
     next: string | undefined,
   ): Promise<void> | void;
-  onFinished?(): void;
 };
 
 export async function scrapeBatch<T extends Result>({
@@ -19,7 +18,6 @@ export async function scrapeBatch<T extends Result>({
   concurrency,
   transformResult,
   onFileScraped,
-  onFinished,
 }: ScrapeBatchOptions<T>) {
   const promises: Array<void | Promise<void>> = [];
 
@@ -40,10 +38,6 @@ export async function scrapeBatch<T extends Result>({
   );
 
   await Promise.all(promises);
-
-  if (onFinished) {
-    onFinished();
-  }
 
   return data;
 }
