@@ -58,8 +58,22 @@ async function main({
   console.log(`${scheduledPaths.length} posts found.`);
 
   if (!force) {
-    const alreadyDownloaded = new Set(await readDir(output));
-    console.log(`${alreadyDownloaded.size} already downloaded.`);
+    let alreadyDownloaded: Set<string>;
+    try {
+      alreadyDownloaded = new Set(await readDir(output));
+    } catch (e) {
+      alreadyDownloaded = new Set();
+    }
+
+    if (alreadyDownloaded.size > 0) {
+      console.log(
+        `Skipping download of ${
+          alreadyDownloaded.size
+        } pages (already downloaded).`,
+      );
+      console.log('Pass --force to force downloading of those pages.');
+    }
+
     scheduledPaths = scheduledPaths.filter(
       postName => !alreadyDownloaded.has(`${postName}.html`),
     );
@@ -83,9 +97,9 @@ async function main({
   });
 
   console.log(
-    `${downloadedUrls.length} URLs downloaded${
-      !dry ? ' and written to disk' : ''
-    }.`,
+    dry
+      ? `${downloadedUrls.length} URLs downloaded.`
+      : `${downloadedUrls.length} URLs downloaded and written to disk.`,
   );
 }
 

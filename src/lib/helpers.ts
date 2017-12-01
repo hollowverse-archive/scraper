@@ -37,9 +37,10 @@ export async function fetchPageAsHtml(url: string) {
   return response.body;
 }
 
-export function hasKey<K extends string, V extends Record<string, any>>(
-  obj: V,
-  k: K,
-): obj is V & Record<K, any> {
+export function hasKey<
+  V = any,
+  K extends string = string,
+  O = Record<string, any>
+>(obj: O, k: K): obj is (typeof obj) & Record<K, V> {
   return k in obj;
 }

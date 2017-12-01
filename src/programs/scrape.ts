@@ -4,7 +4,7 @@ import * as ProgressBar from 'progress';
 import * as path from 'path';
 import { scrapeBatch } from '../lib/scrapeBatch';
 import { readDir, glob, writeFile, hasKey } from '../lib/helpers';
-import { getWikipediaInfo } from '../lib/getWikipediaInfo';
+import { getWikipediaInfo, WikipediaData } from '../lib/getWikipediaInfo';
 import { isEmpty } from 'lodash';
 
 // tslint:disable no-console
@@ -44,6 +44,7 @@ program
 
 program.parse(process.argv);
 
+// tslint:disable-next-line:max-func-body-length
 async function main({
   pattern,
   root,
@@ -64,13 +65,15 @@ async function main({
       alreadyScraped = new Set();
     }
 
+    if (alreadyScraped.size > 0) {
+      console.log(
+        `Skipping scraping of ${alreadyScraped.size} (already scraped).`,
+      );
+      console.log('Pass --force to force scraping of those pages.');
+    }
+
     scheduledFiles = scheduledFiles.filter(
       file => !alreadyScraped.has(file.replace(/\.html?$/, '.json')),
-    );
-
-    console.log(
-      `\n${files.length -
-        scheduledFiles.length} already scraped and --force was not passed.\n`,
     );
   }
 
@@ -107,11 +110,13 @@ async function main({
   });
 
   console.log(
-    `${scheduledFiles.length} scraped${!dry ? ' and written to disk' : ''}.`,
+    dry
+      ? `${scheduledFiles.length} scraped.`
+      : `${scheduledFiles.length} scraped and written to disk.`,
   );
 
   const missingData = results.filter(result => {
-    if (hasKey(result, 'wikipediaData')) {
+    if (hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData')) {
       return isEmpty(result.wikipediaData);
     }
 
@@ -120,13 +125,35 @@ async function main({
 
   if (missingData.length) {
     console.log(
-      `Could not find matching Wikipedia page(s) for ${
+      `Could not find matching Wikipedia page for ${
         missingData.length
-      } page(s):`,
+      } page:\n`,
     );
 
     missingData.forEach(({ name }) => {
-      console.log(`* ${name}`);
+      console.log(`  * ${name}`);
+    });
+  }
+
+  const missingImages = results.filter(result => {
+    if (hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData')) {
+      return (
+        !isEmpty(result.wikipediaData) &&
+        result.wikipediaData.thumbnail === undefined
+      );
+    }
+
+    return false;
+  });
+
+  if (missingImages.length) {
+    console.log(
+      `The following ${missingImages.length} people were found on Wikipedia, ` +
+        'but without matching thumbnail images:',
+    );
+
+    missingImages.forEach(({ name }) => {
+      console.log(`  * ${name}`);
     });
   }
 }

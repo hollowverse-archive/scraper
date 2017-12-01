@@ -5,7 +5,7 @@ import { map, find } from 'lodash';
 
 const WIKIPEDIA_API_ENDPOINT = 'https://en.wikipedia.org/w/api.php';
 
-type WikipediaInfo = {
+export type WikipediaData = {
   url: string;
   title: string;
   thumbnail: {
@@ -18,7 +18,7 @@ type WikipediaInfo = {
 export async function getWikipediaInfo(
   result: Result,
   thumbnailHeight = 300,
-): Promise<Partial<WikipediaInfo>> {
+): Promise<Partial<WikipediaData>> {
   const urlRequest = got(WIKIPEDIA_API_ENDPOINT, {
     json: true,
     query: {
@@ -64,7 +64,11 @@ export async function getWikipediaInfo(
     const url: string = page.canonicalurl;
 
     const imageBody = (await imageRequest).body;
-    const thumbnail = imageBody.query.pages[page.pageid].thumbnail;
+    const imageObject = imageBody.query.pages[page.pageid];
+    let thumbnail;
+    if (imageObject) {
+      thumbnail = imageObject.thumbnail;
+    }
 
     return {
       url,
