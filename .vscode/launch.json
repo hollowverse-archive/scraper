@@ -11,7 +11,7 @@
         ],
         "args": [
           "src/programs/scrape.ts",
-          "-p", "'tom-*.html'",
+          "-p", "tom-*.html",
           "-r", "output/html",
           "-o", "output/scraperResults",
           "--force",

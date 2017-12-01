@@ -7,6 +7,8 @@ import { readDir, glob, writeFile, hasKey } from '../lib/helpers';
 import { getWikipediaInfo } from '../lib/getWikipediaInfo';
 import { isEmpty } from 'lodash';
 
+// tslint:disable no-console
+
 const defaults = {
   concurrency: 3,
 };
@@ -66,7 +68,7 @@ async function main({
       file => !alreadyScraped.has(file.replace(/\.html?$/, '.json')),
     );
 
-    process.stdout.write(
+    console.log(
       `\n${files.length -
         scheduledFiles.length} already scraped and --force was not passed.\n`,
     );
@@ -104,10 +106,8 @@ async function main({
     },
   });
 
-  process.stdout.write(
-    `\n${scheduledFiles.length} scraped${
-      !dry ? ' and written to disk' : ''
-    }.\n`,
+  console.log(
+    `${scheduledFiles.length} scraped${!dry ? ' and written to disk' : ''}.`,
   );
 
   const missingData = results.filter(result => {
@@ -119,19 +119,19 @@ async function main({
   });
 
   if (missingData.length) {
-    process.stdout.write(
-      `\nCould not find matching Wikipedia page(s) for ${
+    console.log(
+      `Could not find matching Wikipedia page(s) for ${
         missingData.length
-      } page(s):\n`,
+      } page(s):`,
     );
 
     missingData.forEach(({ name }) => {
-      process.stdout.write(`* ${name}\n`);
+      console.log(`* ${name}`);
     });
   }
 }
 
 main(program).catch(error => {
-  process.stderr.write(`\n${error.message}\n`);
+  console.error(`Failed to scrape some pages: ${error.message}`);
   process.exit(1);
 });

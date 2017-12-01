@@ -5,6 +5,8 @@ import * as ProgressBar from 'progress';
 import { downloadBatch } from '../lib/downloadBatch';
 import { readDir, readJsonFile, writeFile } from '../lib/helpers';
 
+// tslint:disable no-console
+
 const defaults = {
   base: 'https://static.hollowverse.com',
   concurrency: 3,
@@ -30,6 +32,7 @@ program
     '-b --base [base]',
     `The website domain name to download from. Defaults to ${defaults.base}`,
   )
+  .option('-d --dry', 'Dry run (do not write files to disk).')
   .option(
     '-f --force',
     'Re-download and overwrite files that already exist in the output folder.',
@@ -46,16 +49,17 @@ async function main({
   posts,
   output,
   force,
+  dry,
   base = defaults.base,
   concurrency = defaults.concurrency,
 }: Record<string, any>) {
   const postNames = await readJsonFile<Path[]>(posts);
   let scheduledPaths = postNames.map(p => p.post_name);
-  process.stdout.write(`${scheduledPaths.length} posts found.\n`);
+  console.log(`${scheduledPaths.length} posts found.`);
 
   if (!force) {
     const alreadyDownloaded = new Set(await readDir(output));
-    process.stdout.write(`${alreadyDownloaded.size} already downloaded.\n`);
+    console.log(`${alreadyDownloaded.size} already downloaded.`);
     scheduledPaths = scheduledPaths.filter(
       postName => !alreadyDownloaded.has(`${postName}.html`),
     );
@@ -71,15 +75,21 @@ async function main({
     base,
     concurrency: Number(concurrency),
     async onPageDownloaded(html, urlPath, next) {
-      await writeFile(path.join(output, `${urlPath}.html`), html);
+      if (!dry) {
+        await writeFile(path.join(output, `${urlPath}.html`), html);
+      }
       progressBar.tick({ path: next });
     },
   });
 
-  process.stdout.write(`\n${downloadedUrls.length} URLs downloaded.\n`);
+  console.log(
+    `${downloadedUrls.length} URLs downloaded${
+      !dry ? ' and written to disk' : ''
+    }.`,
+  );
 }
 
 main(program).catch(error => {
-  process.stderr.write(`\nFailed to download some pages. ${error.message}\n`);
+  console.error(`Failed to download some pages: ${error.message}`);
   process.exit(1);
 });
