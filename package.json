@@ -14,6 +14,7 @@
     "lint-ts": "tslint './*.ts' 'src/**/*.ts' --project tsconfig.json",
     "dev": "node --inspect=0.0.0.0:${SCRAPER_DEBUG_PORT:-9230} -r 'ts-node/register' src/index.ts",
     "dev:watch": "nodemon --watch ./src --ext ts --exec yarn dev",
+    "debug": "node --inspect=0.0.0.0:${SCRAPER_DEBUG_PORT:-9230} -r 'ts-node/register'",
     "build": "tsc --project ./src",
     "clean": "rm -rf ./dist",
     "validate-filenames": "validate-filenames --config commonconfig.js",
