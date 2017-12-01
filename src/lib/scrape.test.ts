@@ -1,4 +1,4 @@
-import { scrapeHtml, isResultWithContent, Result } from './scrape';
+import { scrapeHtml, isResultWithContent, Result, isPiece } from './scrape';
 import * as path from 'path';
 import * as bluebird from 'bluebird';
 
@@ -46,7 +46,10 @@ describe('works for all post types', async () => {
         for (const { result } of files) {
           if (isResultWithContent(result)) {
             expect(result.content.length).toBeGreaterThan(0);
-            expect(result.content[0].text.length).toBeGreaterThan(0);
+            const piece = result.content[0];
+            if (isPiece(piece)) {
+              expect(piece.text.length).toBeGreaterThan(0);
+            }
           }
         }
       });
