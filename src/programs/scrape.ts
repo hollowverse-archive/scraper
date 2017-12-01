@@ -4,6 +4,7 @@ import * as ProgressBar from 'progress';
 import * as path from 'path';
 import { scrapeBatch } from '../lib/scrapeBatch';
 import { readDir, glob, writeFile } from '../lib/helpers';
+import { getWikipediaInfo } from '../lib/getWikipediaInfo';
 
 const defaults = {
   concurrency: 3,
@@ -18,6 +19,10 @@ program
   .option(
     '-r --root <root>',
     'The directory containing the downloaded HTML files',
+  )
+  .option(
+    '--no-wikipedia',
+    'Do not add corresponding Wikipedia page URL to results',
   )
   .option(
     '-o --output <output>',
@@ -40,6 +45,7 @@ async function main({
   root,
   output,
   force,
+  wikipedia,
   concurrency = defaults.concurrency,
 }: Record<string, any>) {
   const files = await glob(pattern, { cwd: root, matchBase: false });
@@ -56,6 +62,11 @@ async function main({
     scheduledFiles = scheduledFiles.filter(
       file => !alreadyScraped.has(file.replace(/\.html?$/, '.json')),
     );
+
+    process.stdout.write(
+      `\n${files.length -
+        scheduledFiles.length} already scraped and --force was not passed.\n`,
+    );
   }
 
   const progressBar = new ProgressBar(':bar [:percent] :page', {
@@ -63,7 +74,7 @@ async function main({
     total: scheduledFiles.length,
   });
 
-  return scrapeBatch({
+  await scrapeBatch({
     files: scheduledFiles.map(file => path.join(root, file)),
     concurrency: Number(concurrency),
     async onFileScraped(result, file, next) {
@@ -73,10 +84,22 @@ async function main({
       );
       progressBar.tick({ page: next });
     },
-    onFinished() {
-      process.stdout.write(`\n${files.length} scraped and written to disk.\n`);
+
+    async transformResult(result, __) {
+      if (wikipedia) {
+        return {
+          ...result,
+          ...await getWikipediaInfo(result),
+        };
+      }
+
+      return result;
     },
   });
+
+  process.stdout.write(
+    `\n${scheduledFiles.length} scraped and written to disk.\n`,
+  );
 }
 
 main(program).catch(error => {
