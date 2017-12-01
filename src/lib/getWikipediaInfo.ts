@@ -1,7 +1,7 @@
 import { Result } from './scrape';
 import * as got from 'got';
 import * as createFuzzySet from 'fuzzyset.js';
-import { map, find } from 'lodash';
+import { first } from 'lodash';
 
 const WIKIPEDIA_API_ENDPOINT = 'https://en.wikipedia.org/w/api.php';
 
@@ -43,39 +43,67 @@ export async function getWikipediaInfo(
     },
   });
 
-  const urlBody = (await urlRequest).body;
-
-  const titles = map(urlBody.query.pages, (p: any) => p.title);
-
-  const set = createFuzzySet(titles);
-  const matches = set.get(result.name);
-  if (matches && matches.length > 0) {
-    const [[, closestMatch]] = matches;
-    const page = find(
-      urlBody.query.pages,
-      (p: any) => p.title === closestMatch,
-    );
-
-    if (!page) {
-      return {};
-    }
-
-    const title: string = page.title;
-    const url: string = page.canonicalurl;
-
-    const imageBody = (await imageRequest).body;
-    const imageObject = imageBody.query.pages[page.pageid];
-    let thumbnail;
-    if (imageObject) {
-      thumbnail = imageObject.thumbnail;
-    }
-
-    return {
-      url,
-      title,
-      thumbnail,
+  const urlBody = (await urlRequest).body as {
+    query: {
+      pages: {
+        [pageId: number]: {
+          pageid: number;
+          title: string;
+          canonicalurl: string;
+        };
+      };
     };
+  };
+
+  let page;
+  const pages = Object.values(urlBody.query.pages);
+  const firstResult = pages[0];
+  const set = createFuzzySet(pages.map(p => p.title));
+  const matches = set.get(result.name);
+  if (
+    firstResult &&
+    matches &&
+    matches.map(([, match]) => match).includes(firstResult.title)
+  ) {
+    page = firstResult;
   }
 
-  return {};
+  if (page === undefined) {
+    return {};
+  }
+
+  const title = page.title;
+  const url = page.canonicalurl;
+
+  const imageBody = (await imageRequest).body as {
+    query: {
+      pages: {
+        [pageId: number]:
+          | {
+              pageid: string;
+              title: string;
+              thumbnail: {
+                source: string;
+                width: number;
+                height: number;
+              };
+            }
+          | undefined;
+      };
+    };
+  };
+
+  const imageObject =
+    imageBody.query.pages[page.pageid] ||
+    first(Object.values(imageBody.query.pages));
+  let thumbnail;
+  if (imageObject) {
+    thumbnail = imageObject.thumbnail;
+  }
+
+  return {
+    url,
+    title,
+    thumbnail,
+  };
 }

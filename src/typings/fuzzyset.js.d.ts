@@ -1,6 +1,10 @@
 declare module 'fuzzyset.js' {
   interface FuzzySet {
-    get(candidate: string): Array<[number, string]>;
+    get<T = undefined>(
+      candidate: string,
+      defaultValue?: T | undefined,
+      minScore?: number,
+    ): Array<[number, string]> | T | null;
     add(value: string): boolean;
     length(): number;
     isEmpty(): boolean;
