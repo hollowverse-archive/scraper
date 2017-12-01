@@ -17,6 +17,7 @@ type WikipediaInfo = {
 
 export async function getWikipediaInfo(
   result: Result,
+  thumbnailHeight = 300,
 ): Promise<Partial<WikipediaInfo>> {
   const urlRequest = got(WIKIPEDIA_API_ENDPOINT, {
     json: true,
@@ -37,7 +38,7 @@ export async function getWikipediaInfo(
       action: 'query',
       titles: result.name,
       prop: 'pageimages',
-      pithumbsize: 300,
+      pithumbsize: thumbnailHeight,
       format: 'json',
     },
   });
