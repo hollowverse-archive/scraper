@@ -1,7 +1,7 @@
 import { Result } from './scrape';
 import * as got from 'got';
 import * as createFuzzySet from 'fuzzyset.js';
-import { first } from 'lodash';
+import { find } from 'lodash';
 
 const WIKIPEDIA_API_ENDPOINT = 'https://en.wikipedia.org/w/api.php';
 
@@ -60,12 +60,21 @@ export async function getWikipediaInfo(
   const firstResult = pages[0];
   const set = createFuzzySet(pages.map(p => p.title));
   const matches = set.get(result.name);
+  const firstMatch = matches ? matches[0] : undefined;
   if (
     firstResult &&
     matches &&
+    // Fuzzy set includes exact match
     matches.map(([, match]) => match).includes(firstResult.title)
   ) {
     page = firstResult;
+  } else if (
+    // or fuzzy match has a confidence value that is high enough
+    firstMatch &&
+    firstMatch[0] >= 0.85
+  ) {
+    const [, closestTitle] = firstMatch;
+    page = find(pages, p => p.title === closestTitle);
   }
 
   if (page === undefined) {
@@ -95,7 +104,8 @@ export async function getWikipediaInfo(
 
   const imageObject =
     imageBody.query.pages[page.pageid] ||
-    first(Object.values(imageBody.query.pages));
+    Object.values(imageBody.query.pages)[0];
+
   let thumbnail;
   if (imageObject) {
     thumbnail = imageObject.thumbnail;
