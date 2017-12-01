@@ -3,7 +3,7 @@ import * as got from 'got';
 import { values } from 'lodash';
 
 export async function getWikipediaInfo(result: Result) {
-  const { body: personBody } = await got('https://en.wikipedia.org/w/api.php', {
+  const personRequest = got('https://en.wikipedia.org/w/api.php', {
     json: true,
     query: {
       action: 'query',
@@ -14,9 +14,7 @@ export async function getWikipediaInfo(result: Result) {
     },
   });
 
-  const pageId = values(personBody.query.pages)[0].pageid;
-
-  const { body: urlBody } = await got('https://en.wikipedia.org/w/api.php', {
+  const urlRequest = got('https://en.wikipedia.org/w/api.php', {
     json: true,
     query: {
       action: 'query',
@@ -28,6 +26,11 @@ export async function getWikipediaInfo(result: Result) {
       format: 'json',
     },
   });
+
+  const personBody = (await personRequest).body;
+  const urlBody = (await urlRequest).body;
+
+  const pageId = values(personBody.query.pages)[0].pageid;
 
   const {
     title: wikipediaTitle,
