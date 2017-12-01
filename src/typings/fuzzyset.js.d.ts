@@ -7,12 +7,13 @@ declare module 'fuzzyset.js' {
     values(): string[];
   }
 
-  function createFuzzySet(
+  // tslint:disable-next-line
+  function FuzzySet(
     source: string[],
     useLevenshtein?: boolean,
     gramSizeLower?: number,
     gramSizeUpper?: number,
   ): FuzzySet;
 
-  export default createFuzzySet;
+  export = FuzzySet;
 }
