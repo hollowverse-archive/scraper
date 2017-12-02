@@ -32,17 +32,6 @@ export async function getWikipediaInfo(
     },
   });
 
-  const imageRequest = got(WIKIPEDIA_API_ENDPOINT, {
-    json: true,
-    query: {
-      action: 'query',
-      titles: result.name,
-      prop: 'pageimages',
-      pithumbsize: thumbnailHeight,
-      format: 'json',
-    },
-  });
-
   const urlBody = (await urlRequest).body as {
     query: {
       pages: {
@@ -83,6 +72,17 @@ export async function getWikipediaInfo(
 
   const title = page.title;
   const url = page.canonicalurl;
+
+  const imageRequest = got(WIKIPEDIA_API_ENDPOINT, {
+    json: true,
+    query: {
+      action: 'query',
+      titles: page.title,
+      prop: 'pageimages',
+      pithumbsize: thumbnailHeight,
+      format: 'json',
+    },
+  });
 
   const imageBody = (await imageRequest).body as {
     query: {
