@@ -125,7 +125,9 @@ async function main({
 
   if (missingData.length) {
     console.log(
-      `Could not find matching Wikipedia page for ${missingData.length} pages:`,
+      `Could not find matching Wikipedia pages for ${
+        missingData.length
+      } people:`,
     );
 
     missingData.forEach(({ name }) => {
