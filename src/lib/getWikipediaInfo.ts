@@ -5,6 +5,86 @@ import { find } from 'lodash';
 
 const WIKIPEDIA_API_ENDPOINT = 'https://en.wikipedia.org/w/api.php';
 
+type IsWikipediaPersonOptions = {
+  pageId: number;
+  title: string;
+};
+
+async function isWikipediaPerson({ pageId, title }: IsWikipediaPersonOptions) {
+  const response = await got(WIKIPEDIA_API_ENDPOINT, {
+    json: true,
+    query: {
+      action: 'query',
+      titles: title,
+      prop: 'templates',
+      tltemplates: 'Person',
+      format: 'json',
+    },
+  });
+
+  const body = response.body as {
+    query: {
+      pages: {
+        [pageId: number]: {
+          pageid: number;
+          title: string;
+        };
+      };
+    };
+  };
+
+  return (
+    body.query.pages[pageId] !== undefined &&
+    body.query.pages[pageId].title === title
+  );
+}
+
+type GetWikipediaThumbnailOptions = {
+  title: string;
+  pageId: number;
+  thumbnailHeight: number;
+};
+
+async function getWikipediaThumbnail({
+  title,
+  pageId,
+  thumbnailHeight,
+}: GetWikipediaThumbnailOptions) {
+  const response = await got(WIKIPEDIA_API_ENDPOINT, {
+    json: true,
+    query: {
+      action: 'query',
+      titles: title,
+      prop: 'pageimages',
+      piprop: 'thumbnail',
+      pithumbsize: thumbnailHeight,
+      format: 'json',
+    },
+  });
+
+  const body = response.body as {
+    query: {
+      pages: {
+        [pageId: number]:
+          | {
+              pageid: string;
+              title: string;
+              thumbnail: {
+                source: string;
+                width: number;
+                height: number;
+              };
+            }
+          | undefined;
+      };
+    };
+  };
+
+  const imageObject = body.query.pages[pageId];
+
+  return imageObject ? imageObject.thumbnail : undefined;
+}
+
 export type WikipediaData = {
   url: string;
   title: string;
@@ -71,45 +151,19 @@ export async function getWikipediaInfo(
   }
 
   const title = page.title;
-  const url = page.canonicalurl;
+  const pageId = page.pageid;
 
-  const imageRequest = got(WIKIPEDIA_API_ENDPOINT, {
-    json: true,
-    query: {
-      action: 'query',
-      titles: page.title,
-      prop: 'pageimages',
-      pithumbsize: thumbnailHeight,
-      format: 'json',
-    },
-  });
-
-  const imageBody = (await imageRequest).body as {
-    query: {
-      pages: {
-        [pageId: number]:
-          | {
-              pageid: string;
-              title: string;
-              thumbnail: {
-                source: string;
-                width: number;
-                height: number;
-              };
-            }
-          | undefined;
-      };
-    };
-  };
-
-  const imageObject =
-    imageBody.query.pages[page.pageid] ||
-    Object.values(imageBody.query.pages)[0];
-
-  let thumbnail;
-  if (imageObject) {
-    thumbnail = imageObject.thumbnail;
+  const isPerson = await isWikipediaPerson({ title, pageId });
+  if (!isPerson) {
+    return {};
   }
+
+  const url = page.canonicalurl;
+  const thumbnail = await getWikipediaThumbnail({
+    title,
+    thumbnailHeight,
+    pageId,
+  });
 
   return {
     url,
