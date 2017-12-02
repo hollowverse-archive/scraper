@@ -18,6 +18,7 @@ async function isWikipediaPerson({ pageId, title }: IsWikipediaPersonOptions) {
       titles: title,
       prop: 'templates',
       tltemplates: 'Person',
+      tlnamespace: 0,
       format: 'json',
     },
   });
@@ -99,7 +100,7 @@ export async function getWikipediaInfo(
   result: Result,
   thumbnailHeight = 300,
 ): Promise<Partial<WikipediaData>> {
-  const urlRequest = got(WIKIPEDIA_API_ENDPOINT, {
+  const response = await got(WIKIPEDIA_API_ENDPOINT, {
     json: true,
     query: {
       action: 'query',
@@ -112,7 +113,7 @@ export async function getWikipediaInfo(
     },
   });
 
-  const urlBody = (await urlRequest).body as {
+  const body = response.body as {
     query: {
       pages: {
         [pageId: number]: {
@@ -125,7 +126,7 @@ export async function getWikipediaInfo(
   };
 
   let page;
-  const pages = Object.values(urlBody.query.pages);
+  const pages = Object.values(body.query.pages);
   const firstResult = pages[0];
   const set = createFuzzySet(pages.map(p => p.title));
   const matches = set.get(result.name);
