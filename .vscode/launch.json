@@ -12,7 +12,7 @@
         "args": [
           "src/programs/scrape.ts",
           "-p", "tom-*.html",
-          "-r", "output/html",
+          "-i", "output/html",
           "-o", "output/scraperResults",
           "--force",
           "--dry"
@@ -31,7 +31,7 @@
         ],
         "args": [
           "src/programs/download.ts",
-          "-p", "dump/postNames.json",
+          "-i", "dump/postNames.json",
           "-o", "output/html",
           "--force",
           "--dry"

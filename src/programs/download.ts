@@ -21,7 +21,7 @@ program
     'Download pages of the website, reading URL paths from a JSON file',
   )
   .option(
-    '-p --posts <paths>',
+    '-input --input <input>',
     'The path to the JSON file containing an array of URL paths to download',
   )
   .option(
@@ -46,14 +46,14 @@ program
 program.parse(process.argv);
 
 async function main({
-  posts,
+  input,
   output,
   force,
   dry,
   base = defaults.base,
   concurrency = defaults.concurrency,
 }: Record<string, any>) {
-  const postNames = await readJsonFile<Path[]>(posts);
+  const postNames = await readJsonFile<Path[]>(input);
   let scheduledPaths = postNames.map(p => p.post_name);
   console.log(`${scheduledPaths.length} posts found.`);
 

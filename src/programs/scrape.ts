@@ -11,17 +11,20 @@ import { isEmpty } from 'lodash';
 
 const defaults = {
   concurrency: 3,
+  pattern: '*.html',
 };
 
 program
   .description('Scrape downloaded website pages')
   .option(
-    '-p --pattern <pattern>',
-    'A glob pattern of HTML files to scrape, must be wrapped in single quotes',
+    '-p --pattern [pattern]',
+    `A glob pattern of HTML files to scrape, must be wrapped in single quotes. Defaults to '${
+      defaults.pattern
+    }.'`,
   )
   .option(
-    '-r --root <root>',
-    'The directory containing the downloaded HTML files',
+    '-i --input <input>',
+    'The path to the directory containing the downloaded HTML files',
   )
   .option(
     '--no-wikipedia',
@@ -46,15 +49,15 @@ program.parse(process.argv);
 
 // tslint:disable-next-line:max-func-body-length
 async function main({
-  pattern,
-  root,
+  pattern = defaults.pattern,
+  input,
   output,
   force,
   wikipedia,
   dry,
   concurrency = defaults.concurrency,
 }: Record<string, any>) {
-  const files = await glob(pattern, { cwd: root, matchBase: false });
+  const files = await glob(pattern, { cwd: input, matchBase: false });
   let scheduledFiles = files;
 
   if (!force) {
@@ -83,7 +86,7 @@ async function main({
   });
 
   const results = await scrapeBatch({
-    files: scheduledFiles.map(file => path.join(root, file)),
+    files: scheduledFiles.map(file => path.join(input, file)),
     concurrency: Number(concurrency),
     async onFileScraped(result, file, _) {
       if (!dry) {
