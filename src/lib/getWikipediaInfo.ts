@@ -193,21 +193,21 @@ export async function getWikipediaInfo(
   const isPerson = isWikipediaPerson({ title, pageId });
   const isDisambiguation = isDisambiguationPage({ pageId });
 
-  const ret: Partial<WikipediaData> = {};
-  ret.url = page.canonicalurl;
-  ret.title = title;
+  const wikipediaData: Partial<WikipediaData> = {};
+  wikipediaData.url = page.canonicalurl;
+  wikipediaData.title = title;
   if (!await isPerson) {
     return {};
   } else if (!await isDisambiguation) {
-    ret.thumbnail = await getWikipediaThumbnail({
+    wikipediaData.thumbnail = await getWikipediaThumbnail({
       title,
       thumbnailHeight,
       pageId,
     });
-    ret.isDisambiguation = false;
+    wikipediaData.isDisambiguation = false;
   } else {
-    ret.isDisambiguation = true;
+    wikipediaData.isDisambiguation = true;
   }
 
-  return ret;
+  return wikipediaData;
 }
