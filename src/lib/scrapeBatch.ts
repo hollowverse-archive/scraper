@@ -2,36 +2,42 @@ import { readFile } from './helpers';
 import { scrapeHtml, Result } from './scrape';
 import * as bluebird from 'bluebird';
 
-type ScrapeBatchOptions = {
+type ScrapeBatchOptions<T extends Result = Result> = {
   files: string[];
   concurrency: number;
-  onFileScraped(result: Result, file: string, next: string | undefined): void;
-  onFinished?(): void;
+  transformResult?(result: Result, file: string): Promise<T>;
+  onFileScraped(
+    result: T,
+    file: string,
+    next: string | undefined,
+  ): Promise<void> | void;
 };
 
-export async function scrapeBatch({
+export async function scrapeBatch<T extends Result>({
   files,
   concurrency,
+  transformResult,
   onFileScraped,
-  onFinished,
-}: ScrapeBatchOptions) {
+}: ScrapeBatchOptions<T>) {
+  const promises: Array<void | Promise<void>> = [];
+
   // tslint:disable-next-line:await-promise
   const data = await bluebird.map(
     files,
     async (file, index) => {
       const html = await readFile(file, 'utf8');
-      const result = await scrapeHtml(html);
+      let result = await scrapeHtml(html);
+      if (transformResult) {
+        result = await transformResult(result, file);
+      }
+      promises.push(onFileScraped(result as T, file, files[index + 1]));
 
-      onFileScraped(result, file, files[index + 1]);
-
-      return file;
+      return result;
     },
     { concurrency },
   );
 
-  if (onFinished) {
-    onFinished();
-  }
+  await Promise.all(promises);
 
   return data;
 }

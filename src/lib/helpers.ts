@@ -6,6 +6,16 @@ import * as _glob from 'glob';
 export const readFile = promisify(fs.readFile);
 export const writeFile = promisify(fs.writeFile);
 export const readDir = promisify(fs.readdir);
+export const removeFile = async (path: string) =>
+  new Promise((resolve, reject) => {
+    fs.unlink(path, err => {
+      if (err) {
+        reject(err);
+      } else {
+        resolve();
+      }
+    });
+  });
 
 export const glob = async (pattern: string, options: _glob.IOptions = {}) => {
   return new Promise<string[]>((resolve, reject) => {
@@ -35,4 +45,12 @@ export async function fetchPageAsHtml(url: string) {
   });
 
   return response.body;
+}
+
+export function hasKey<
+  V = any,
+  K extends string = string,
+  O = Record<string, any>
+>(obj: O, k: K): obj is (typeof obj) & Record<K, V> {
+  return k in obj;
 }

@@ -5,6 +5,8 @@ import * as ProgressBar from 'progress';
 import { downloadBatch } from '../lib/downloadBatch';
 import { readDir, readJsonFile, writeFile } from '../lib/helpers';
 
+// tslint:disable no-console
+
 const defaults = {
   base: 'https://static.hollowverse.com',
   concurrency: 3,
@@ -19,7 +21,7 @@ program
     'Download pages of the website, reading URL paths from a JSON file',
   )
   .option(
-    '-p --posts <paths>',
+    '-i --input <input>',
     'The path to the JSON file containing an array of URL paths to download',
   )
   .option(
@@ -30,6 +32,7 @@ program
     '-b --base [base]',
     `The website domain name to download from. Defaults to ${defaults.base}`,
   )
+  .option('-d --dry', 'Dry run (do not write files to disk).')
   .option(
     '-f --force',
     'Re-download and overwrite files that already exist in the output folder.',
@@ -43,19 +46,34 @@ program
 program.parse(process.argv);
 
 async function main({
-  posts,
+  input,
   output,
   force,
+  dry,
   base = defaults.base,
   concurrency = defaults.concurrency,
 }: Record<string, any>) {
-  const postNames = await readJsonFile<Path[]>(posts);
+  const postNames = await readJsonFile<Path[]>(input);
   let scheduledPaths = postNames.map(p => p.post_name);
-  process.stdout.write(`${scheduledPaths.length} posts found.\n`);
+  console.log(`${scheduledPaths.length} posts found.`);
 
   if (!force) {
-    const alreadyDownloaded = new Set(await readDir(output));
-    process.stdout.write(`${alreadyDownloaded.size} already downloaded.\n`);
+    let alreadyDownloaded: Set<string>;
+    try {
+      alreadyDownloaded = new Set(await readDir(output));
+    } catch (e) {
+      alreadyDownloaded = new Set();
+    }
+
+    if (alreadyDownloaded.size > 0) {
+      console.log(
+        `Skipping download of ${
+          alreadyDownloaded.size
+        } pages (already downloaded).`,
+      );
+      console.log('Pass --force to force downloading of those pages.');
+    }
+
     scheduledPaths = scheduledPaths.filter(
       postName => !alreadyDownloaded.has(`${postName}.html`),
     );
@@ -71,18 +89,21 @@ async function main({
     base,
     concurrency: Number(concurrency),
     async onPageDownloaded(html, urlPath, next) {
-      await writeFile(path.join(output, `${urlPath}.html`), html);
+      if (!dry) {
+        await writeFile(path.join(output, `${urlPath}.html`), html);
+      }
       progressBar.tick({ path: next });
-    },
-    onFinished() {
-      process.stdout.write('\n');
     },
   });
 
-  process.stdout.write(`${downloadedUrls.length} URLs downloaded.\n`);
+  console.log(
+    dry
+      ? `${downloadedUrls.length} URLs downloaded.`
+      : `${downloadedUrls.length} URLs downloaded and written to disk.`,
+  );
 }
 
 main(program).catch(error => {
-  process.stderr.write(`\nFailed to download some pages. ${error.message}\n`);
+  console.error(`Failed to download some pages: ${error.message}`);
   process.exit(1);
 });

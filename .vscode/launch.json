@@ -4,19 +4,41 @@
       {
         "type": "node",
         "request": "launch",
-        "name": "Launch via Yarn",
-        "runtimeExecutable": "yarn",
+        "name": "Debug Scraper",
+        "runtimeExecutable": "node",
         "runtimeArgs": [
-          "dev"
+          "--nolazy", "-r", "ts-node/register"
         ],
         "args": [
-          "-p", "tom-hanks"
+          "src/programs/scrape.ts",
+          "-p", "tom-*.html",
+          "-i", "output/html",
+          "-o", "output/scraperResults",
+          "--force",
+          "--dry"
         ],
-        "env": {
-          "SCRAPER_DEBUG_PORT": "9230"
-        },
-        "port": 9230,
-        "console": "integratedTerminal"
+        "cwd": "${workspaceRoot}",
+        "sourceMaps": true,
+        "protocol": "inspector"
+      },
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "Debug Downloader",
+        "runtimeExecutable": "node",
+        "runtimeArgs": [
+          "--nolazy", "-r", "ts-node/register"
+        ],
+        "args": [
+          "src/programs/download.ts",
+          "-i", "dump/postNames.json",
+          "-o", "output/html",
+          "--force",
+          "--dry"
+        ],
+        "cwd": "${workspaceRoot}",
+        "sourceMaps": true,
+        "protocol": "inspector"
       }
     ]
   }

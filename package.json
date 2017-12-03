@@ -12,8 +12,6 @@
     "check-ts": "tsc --project ./src --noEmit",
     "lint-js": "eslint '**/*.js'",
     "lint-ts": "tslint './*.ts' 'src/**/*.ts' --project tsconfig.json",
-    "dev": "node --inspect=0.0.0.0:${SCRAPER_DEBUG_PORT:-9230} -r 'ts-node/register' src/index.ts",
-    "dev:watch": "nodemon --watch ./src --ext ts --exec yarn dev",
     "build": "tsc --project ./src",
     "clean": "rm -rf ./dist",
     "validate-filenames": "validate-filenames --config commonconfig.js",
@@ -61,6 +59,7 @@
     "cheerio": "^1.0.0-rc.2",
     "commander": "^2.11.0",
     "date-fns": "^1.29.0",
+    "fuzzyset.js": "^0.0.4",
     "glob": "^7.1.2",
     "got": "^7.1.0",
     "lodash": "^4.17.4",
@@ -103,5 +102,8 @@
   "bin": {
     "hv-download": "dist/programs/download.js",
     "hv-scrape": "dist/programs/scrape.js"
+  },
+  "engines": {
+    "node": ">= 9.2"
   }
 }
