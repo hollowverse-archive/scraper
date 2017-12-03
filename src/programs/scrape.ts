@@ -104,7 +104,7 @@ async function main({
           hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData') &&
           isEmpty(result.wikipediaData)
         ) {
-          await removeFile(outputFile);
+          await removeFile(outputFile).catch(() => null);
         } else {
           await writeFile(outputFile, JSON.stringify(result, undefined, 2));
         }
@@ -112,12 +112,11 @@ async function main({
       progressBar.tick({ page: inputFile });
     },
 
-    async transformResult(result, file) {
+    async transformResult(result, _) {
       if (wikipedia) {
         const wikipediaData = await getWikipediaInfo(result);
 
         return {
-          file,
           ...result,
           wikipediaData,
         };
