@@ -2,12 +2,12 @@ import { readFile } from './helpers';
 import { scrapeHtml, Result } from './scrape';
 import * as bluebird from 'bluebird';
 
-type ScrapeBatchOptions<T extends Result> = {
+type ScrapeBatchOptions<T extends Result = Result> = {
   files: string[];
   concurrency: number;
   transformResult?(result: Result, file: string): Promise<T>;
   onFileScraped(
-    result: Result,
+    result: T,
     file: string,
     next: string | undefined,
   ): Promise<void> | void;
@@ -30,7 +30,7 @@ export async function scrapeBatch<T extends Result>({
       if (transformResult) {
         result = await transformResult(result, file);
       }
-      promises.push(onFileScraped(result, file, files[index + 1]));
+      promises.push(onFileScraped(result as T, file, files[index + 1]));
 
       return result;
     },

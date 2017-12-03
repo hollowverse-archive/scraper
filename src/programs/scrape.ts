@@ -3,7 +3,7 @@ import * as program from 'commander';
 import * as ProgressBar from 'progress';
 import * as path from 'path';
 import { scrapeBatch } from '../lib/scrapeBatch';
-import { readDir, glob, writeFile, hasKey } from '../lib/helpers';
+import { readDir, glob, writeFile, hasKey, removeFile } from '../lib/helpers';
 import { getWikipediaInfo, WikipediaData } from '../lib/getWikipediaInfo';
 import { isEmpty } from 'lodash';
 
@@ -20,7 +20,7 @@ program
     '-p --pattern [pattern]',
     `A glob pattern of HTML files to scrape, must be wrapped in single quotes. Defaults to '${
       defaults.pattern
-    }.'`,
+    }'`,
   )
   .option(
     '-i --input <input>',
@@ -31,14 +31,18 @@ program
     'Do not add corresponding Wikipedia page URL to results',
   )
   .option(
+    '--no-remove',
+    'Do not remove people not found on Wikipedia (has no effect with --dry, conflicts with --no-wikipedia)',
+  )
+  .option(
     '-o --output <output>',
     'The path where to scraping results should be saved',
   )
   .option(
     '-f --force',
-    'Re-scrape and overwrite files that already exist in the output folder.',
+    'Re-scrape and overwrite files that already exist in the output folder',
   )
-  .option('-d --dry', 'Dry run (do not write files to disk).')
+  .option('-d --dry', 'Dry run (do not write files to disk)')
   .option(
     '-c --concurrency [concurrency]',
     'The maximum number of pages that should be scraped at the same time. ' +
@@ -54,6 +58,7 @@ async function main({
   output,
   force,
   wikipedia,
+  remove,
   dry,
   concurrency = defaults.concurrency,
 }: Record<string, any>) {
@@ -88,21 +93,31 @@ async function main({
   const results = await scrapeBatch({
     files: scheduledFiles.map(file => path.join(input, file)),
     concurrency: Number(concurrency),
-    async onFileScraped(result, file, _) {
+    async onFileScraped(result, inputFile, _) {
+      const outputFile = path.join(
+        output,
+        path.basename(inputFile).replace(/\.html?$/, '.json'),
+      );
       if (!dry) {
-        await writeFile(
-          path.join(output, path.basename(file).replace(/\.html?$/, '.json')),
-          JSON.stringify(result, undefined, 2),
-        );
+        if (
+          remove &&
+          hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData') &&
+          isEmpty(result.wikipediaData)
+        ) {
+          await removeFile(outputFile);
+        } else {
+          await writeFile(outputFile, JSON.stringify(result, undefined, 2));
+        }
       }
-      progressBar.tick({ page: file });
+      progressBar.tick({ page: inputFile });
     },
 
-    async transformResult(result, __) {
+    async transformResult(result, file) {
       if (wikipedia) {
         const wikipediaData = await getWikipediaInfo(result);
 
         return {
+          file,
           ...result,
           wikipediaData,
         };
@@ -136,6 +151,10 @@ async function main({
     missingData.forEach(({ name }) => {
       console.log(`  * ${name}`);
     });
+
+    if (!dry && remove) {
+      console.log('Those files were removed.');
+    }
   }
 
   const missingImages = results.filter(result => {
