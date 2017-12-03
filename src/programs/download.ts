@@ -21,7 +21,7 @@ program
     'Download pages of the website, reading URL paths from a JSON file',
   )
   .option(
-    '-input --input <input>',
+    '-i --input <input>',
     'The path to the JSON file containing an array of URL paths to download',
   )
   .option(
