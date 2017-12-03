@@ -86,6 +86,41 @@ async function getWikipediaThumbnail({
   return imageObject ? imageObject.thumbnail : undefined;
 }
 
+async function isDisambiguationPage({ pageId }: { pageId: number }) {
+  const response = await got(WIKIPEDIA_API_ENDPOINT, {
+    json: true,
+    query: {
+      action: 'parse',
+      pageid: pageId,
+      prop: 'categories',
+      format: 'json',
+    },
+  });
+
+  const body = response.body as {
+    parse: {
+      title: string;
+      pageid: number;
+      categories: {
+        [x: number]: {
+          ns: number;
+          exists: string;
+          ['*']: string;
+        };
+      };
+    };
+  };
+
+  const categories = Object.values(body.parse.categories);
+
+  return (
+    find(
+      categories,
+      category => category['*'] === 'All_disambiguation_pages',
+    ) !== undefined
+  );
+}
+
 export type WikipediaData = {
   url: string;
   title: string;
@@ -94,6 +129,7 @@ export type WikipediaData = {
     width: number;
     height: number;
   };
+  isDisambiguation: boolean;
 };
 
 export async function getWikipediaInfo(
@@ -154,21 +190,24 @@ export async function getWikipediaInfo(
   const title = page.title;
   const pageId = page.pageid;
 
-  const isPerson = await isWikipediaPerson({ title, pageId });
-  if (!isPerson) {
+  const isPerson = isWikipediaPerson({ title, pageId });
+  const isDisambiguation = isDisambiguationPage({ pageId });
+
+  const ret: Partial<WikipediaData> = {};
+  ret.url = page.canonicalurl;
+  ret.title = title;
+  if (!await isPerson) {
     return {};
+  } else if (!await isDisambiguation) {
+    ret.thumbnail = await getWikipediaThumbnail({
+      title,
+      thumbnailHeight,
+      pageId,
+    });
+    ret.isDisambiguation = false;
+  } else {
+    ret.isDisambiguation = true;
   }
 
-  const url = page.canonicalurl;
-  const thumbnail = await getWikipediaThumbnail({
-    title,
-    thumbnailHeight,
-    pageId,
-  });
-
-  return {
-    url,
-    title,
-    thumbnail,
-  };
+  return ret;
 }

@@ -142,6 +142,7 @@ async function main({
     if (hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData')) {
       return (
         !isEmpty(result.wikipediaData) &&
+        result.wikipediaData.isDisambiguation === false &&
         result.wikipediaData.thumbnail === undefined
       );
     }
@@ -157,6 +158,32 @@ async function main({
 
     missingImages.forEach(({ name }) => {
       console.log(`  * ${name}`);
+    });
+  }
+
+  const areDisambiguationPages = results.filter(result => {
+    if (hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData')) {
+      return (
+        !isEmpty(result.wikipediaData) &&
+        result.wikipediaData.isDisambiguation === true
+      );
+    }
+
+    return false;
+  });
+
+  if (areDisambiguationPages.length) {
+    console.log(
+      'Wikipedia returned disambiguation pages for ' +
+        `the following ${areDisambiguationPages.length} people:`,
+    );
+
+    areDisambiguationPages.forEach(result => {
+      if (hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData')) {
+        console.log(`  * ${result.name} (${result.wikipediaData.url})`);
+      } else {
+        console.log(`  * ${result.name} (url)`);
+      }
     });
   }
 }
