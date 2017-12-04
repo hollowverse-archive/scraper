@@ -1,9 +1,10 @@
 #! /usr/bin/env node
 import * as program from 'commander';
 import * as path from 'path';
+import fetch from 'node-fetch';
 import * as ProgressBar from 'progress';
 import { processBatch } from '../lib/processBatch';
-import { readDir, readJsonFile, writeFile, fetchAsHtml } from '../lib/helpers';
+import { readDir, readJsonFile, writeFile } from '../lib/helpers';
 import { URL } from 'url';
 
 // tslint:disable no-console
@@ -66,7 +67,12 @@ async function main({
       alreadyDownloaded = new Set();
     }
 
-    if (alreadyDownloaded.size > 0) {
+    const filteredScheduledPaths = scheduledPaths.filter(
+      postName => !alreadyDownloaded.has(`${postName}.html`),
+    );
+
+    if (scheduledPaths.length > filteredScheduledPaths.length) {
+      scheduledPaths = filteredScheduledPaths;
       console.log(
         `Skipping download of ${
           alreadyDownloaded.size
@@ -74,10 +80,6 @@ async function main({
       );
       console.log('Pass --force to force downloading of those pages.');
     }
-
-    scheduledPaths = scheduledPaths.filter(
-      postName => !alreadyDownloaded.has(`${postName}.html`),
-    );
   }
 
   const progressBar = new ProgressBar(':bar [:percent] :path', {
@@ -87,13 +89,13 @@ async function main({
 
   await processBatch({
     tasks: scheduledPaths.map(p => String(new URL(p, base))),
-    processTask: fetchAsHtml,
+    processTask: async url => (await fetch(url)).text(),
     concurrency: Number(concurrency),
-    async onTaskCompleted(html, urlPath, next) {
+    async onTaskCompleted(html, url, i) {
       if (!dry) {
-        await writeFile(path.join(output, `${urlPath}.html`), html);
+        await writeFile(path.join(output, `${scheduledPaths[i]}.html`), html);
       }
-      progressBar.tick({ path: next });
+      progressBar.tick({ path: url });
     },
   });
 

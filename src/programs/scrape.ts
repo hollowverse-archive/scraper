@@ -85,16 +85,17 @@ async function main({
       alreadyScraped = new Set();
     }
 
-    if (alreadyScraped.size > 0) {
+    const filteredScheduledFiles = scheduledFiles.filter(
+      file => !alreadyScraped.has(file.replace(/\.html?$/, '.json')),
+    );
+
+    if (scheduledFiles.length > filteredScheduledFiles.length) {
+      scheduledFiles = filteredScheduledFiles;
       console.log(
         `Skipping scraping of ${alreadyScraped.size} (already scraped).`,
       );
       console.log('Pass --force to force scraping of those pages.');
     }
-
-    scheduledFiles = scheduledFiles.filter(
-      file => !alreadyScraped.has(file.replace(/\.html?$/, '.json')),
-    );
   }
 
   const progressBar = new ProgressBar(':bar [:percent] :page', {
@@ -121,7 +122,7 @@ async function main({
 
       return result;
     },
-    async onTaskCompleted(result, inputFile, _) {
+    async onTaskCompleted(result, inputFile) {
       const outputFile = path.join(
         output,
         path.basename(inputFile).replace(/\.html?$/, '.json'),

@@ -7,7 +7,7 @@ type ProcessBatchOptions<Task, Result> = {
   onTaskCompleted(
     data: Result,
     task: Task,
-    nextTask: Task | undefined,
+    index: number,
   ): Promise<void> | void;
 };
 
@@ -23,7 +23,7 @@ export async function processBatch<Task, Result>({
     tasks,
     async (task, index) => {
       const result = await processTask(task);
-      promises.push(onTaskCompleted(result, task, tasks[index + 1]));
+      promises.push(onTaskCompleted(result, task, index));
 
       return result;
     },

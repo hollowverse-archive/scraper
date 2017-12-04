@@ -1,5 +1,4 @@
 import * as fs from 'fs';
-import * as got from 'got';
 import { promisify } from 'util';
 import * as _glob from 'glob';
 
@@ -35,22 +34,6 @@ export const readJsonFile = async <T = any>(file: string) =>
 export function replaceSmartQuotes(str: string) {
   // prettier-ignore
   return str.replace(/[‘’]/g, '\'').replace(/[“”]/g, '"');
-}
-
-export async function fetchAsHtml(url: string) {
-  const response = await got(url, {
-    headers: {
-      Accept: 'text/html',
-    },
-  });
-
-  return response.body;
-}
-
-export async function fetchAsBlob(url: string) {
-  const response = await got(url);
-
-  return response.body;
 }
 
 export function hasKey<

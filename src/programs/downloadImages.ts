@@ -2,19 +2,12 @@
 import * as program from 'commander';
 import * as bluebird from 'bluebird';
 import * as path from 'path';
+import fetch from 'node-fetch';
 import * as ProgressBar from 'progress';
 import { processBatch } from '../lib/processBatch';
-import {
-  readDir,
-  readJsonFile,
-  writeFile,
-  fetchAsBlob,
-  hasKey,
-  glob,
-} from '../lib/helpers';
+import { readDir, readJsonFile, writeFile, hasKey, glob } from '../lib/helpers';
 import { ResultWithWikipediaData } from './scrape';
 import { WikipediaData } from '../lib/getWikipediaInfo';
-import { compact } from 'lodash';
 
 // tslint:disable no-console
 
@@ -63,25 +56,42 @@ async function main({
   concurrency = defaults.concurrency,
 }: Record<string, any>) {
   const resultFiles = await glob(pattern, { cwd: input, matchBase: false });
-  let scheduledUrls = compact(
-    // tslint:disable-next-line await-promise
-    await bluebird.map(resultFiles, async resultFile => {
-      const result = await readJsonFile<ResultWithWikipediaData>(
-        path.join(input, resultFile),
+  let results = // tslint:disable-next-line await-promise
+  (await bluebird.map(resultFiles, async resultFile => {
+    const result = await readJsonFile<ResultWithWikipediaData>(
+      path.join(input, resultFile),
+    );
+    if (
+      hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData') &&
+      result.wikipediaData !== undefined &&
+      result.wikipediaData.thumbnail !== undefined
+    ) {
+      const slug = result.wikipediaData.url.replace(
+        'https://en.wikipedia.org/wiki/',
+        '',
       );
-      if (
-        hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData') &&
-        result.wikipediaData !== undefined &&
-        result.wikipediaData.thumbnail !== undefined
-      ) {
-        return result.wikipediaData.thumbnail.source;
+      const imageUrl = result.wikipediaData.thumbnail.source;
+      const ext = imageUrl.match(/\.[a-z]{3,4}$/gi);
+      let filename = slug;
+      if (ext && ext[0]) {
+        filename += ext[0].toLowerCase();
       }
 
-      return undefined;
-    }),
-  );
+      return {
+        slug,
+        imageUrl,
+        filename,
+      };
+    }
 
-  console.log(`${scheduledUrls.length} URLs found.`);
+    return undefined;
+  })).filter(obj => obj !== undefined) as Array<{
+    slug: string;
+    imageUrl: string;
+    filename: string;
+  }>;
+
+  console.log(`${results.length} URLs found.`);
 
   if (!force) {
     let alreadyDownloaded: Set<string>;
@@ -91,7 +101,12 @@ async function main({
       alreadyDownloaded = new Set();
     }
 
-    if (alreadyDownloaded.size > 0) {
+    const filteredResults = results.filter(
+      ({ filename }) => !alreadyDownloaded.has(filename),
+    );
+
+    if (results.length > filteredResults.length) {
+      results = filteredResults;
       console.log(
         `Skipping download of ${
           alreadyDownloaded.size
@@ -99,33 +114,29 @@ async function main({
       );
       console.log('Pass --force to force downloading of those images.');
     }
-
-    scheduledUrls = scheduledUrls.filter(
-      postName => !alreadyDownloaded.has(`${postName}.html`),
-    );
   }
 
   const progressBar = new ProgressBar(':bar [:percent] :path', {
     width: 25,
-    total: scheduledUrls.length,
+    total: results.length,
   });
 
   await processBatch({
-    tasks: scheduledUrls,
-    processTask: fetchAsBlob,
+    tasks: results,
+    processTask: async ({ imageUrl }) => (await fetch(imageUrl)).buffer(),
     concurrency: Number(concurrency),
-    async onTaskCompleted(blob, url, nextUrl) {
+    async onTaskCompleted(body, task) {
       if (!dry) {
-        await writeFile(path.join(output, `${url}.html`), blob);
+        await writeFile(path.join(output, task.filename), body);
       }
-      progressBar.tick({ path: nextUrl });
+      progressBar.tick({ path: task.slug });
     },
   });
 
   console.log(
     dry
-      ? `${scheduledUrls.length} images downloaded.`
-      : `${scheduledUrls.length} images downloaded and written to disk.`,
+      ? `${results.length} images downloaded.`
+      : `${results.length} images downloaded and written to disk.`,
   );
 }
 
