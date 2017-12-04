@@ -37,12 +37,18 @@ export function replaceSmartQuotes(str: string) {
   return str.replace(/[‘’]/g, '\'').replace(/[“”]/g, '"');
 }
 
-export async function fetchPageAsHtml(url: string) {
+export async function fetchAsHtml(url: string) {
   const response = await got(url, {
     headers: {
       Accept: 'text/html',
     },
   });
+
+  return response.body;
+}
+
+export async function fetchAsBlob(url: string) {
+  const response = await got(url);
 
   return response.body;
 }

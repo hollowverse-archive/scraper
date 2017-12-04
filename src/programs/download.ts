@@ -2,8 +2,9 @@
 import * as program from 'commander';
 import * as path from 'path';
 import * as ProgressBar from 'progress';
-import { downloadBatch } from '../lib/downloadBatch';
-import { readDir, readJsonFile, writeFile } from '../lib/helpers';
+import { processBatch } from '../lib/processBatch';
+import { readDir, readJsonFile, writeFile, fetchAsHtml } from '../lib/helpers';
+import { URL } from 'url';
 
 // tslint:disable no-console
 
@@ -84,11 +85,11 @@ async function main({
     total: scheduledPaths.length,
   });
 
-  const downloadedUrls = await downloadBatch({
-    paths: scheduledPaths,
-    base,
+  await processBatch({
+    tasks: scheduledPaths.map(p => String(new URL(p, base))),
+    processTask: fetchAsHtml,
     concurrency: Number(concurrency),
-    async onPageDownloaded(html, urlPath, next) {
+    async onTaskCompleted(html, urlPath, next) {
       if (!dry) {
         await writeFile(path.join(output, `${urlPath}.html`), html);
       }
@@ -98,8 +99,8 @@ async function main({
 
   console.log(
     dry
-      ? `${downloadedUrls.length} URLs downloaded.`
-      : `${downloadedUrls.length} URLs downloaded and written to disk.`,
+      ? `${scheduledPaths.length} URLs downloaded.`
+      : `${scheduledPaths.length} URLs downloaded and written to disk.`,
   );
 }
 
