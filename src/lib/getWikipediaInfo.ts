@@ -152,7 +152,11 @@ export async function getWikipediaInfo({
     query: {
       action: 'query',
       generator: 'search',
-      gsrsearch: result.name,
+      gsrsearch: override
+        ? override
+            .replace('https://en.wikipedia.org/wiki/', '')
+            .replace(/_/g, ' ')
+        : result.name,
       gsrprop: 'snippet',
       prop: 'info',
       inprop: 'url',
