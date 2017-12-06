@@ -117,18 +117,18 @@ async function main({
   });
 
   type ScrapeTask = {
-    absolutePath: string;
+    filePath: string;
     postName: string;
   };
 
   const results = await processBatch<ScrapeTask, ResultWithWikipediaData>({
     tasks: scheduledFiles.map(file => ({
-      absolutePath: path.join(input, file),
+      filePath: path.join(input, file),
       postName: path.basename(file).replace(/\.html?$/, ''),
     })),
     concurrency: Number(concurrency),
-    processTask: async ({ absolutePath, postName }) => {
-      const html = await readFile(absolutePath, 'utf8');
+    processTask: async ({ filePath, postName }) => {
+      const html = await readFile(filePath, 'utf8');
 
       let result;
       result = await scrapeHtml(html);
@@ -144,7 +144,7 @@ async function main({
 
       return result;
     },
-    async onTaskCompleted(result, { postName }) {
+    async onTaskCompleted(result, { postName, filePath }) {
       const outputFile = path.join(output, `${postName}.json`);
       if (!dry) {
         if (
@@ -158,7 +158,7 @@ async function main({
           await writeFile(outputFile, JSON.stringify(result, undefined, 2));
         }
       }
-      progressBar.tick({ page: path });
+      progressBar.tick({ page: filePath });
     },
   });
 
