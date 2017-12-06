@@ -71,13 +71,11 @@ async function main({
       postName => !alreadyDownloaded.has(`${postName}.html`),
     );
 
-    if (scheduledPaths.length > filteredScheduledPaths.length) {
+    const diff = scheduledPaths.length - filteredScheduledPaths.length;
+
+    if (diff > 0) {
       scheduledPaths = filteredScheduledPaths;
-      console.log(
-        `Skipping download of ${
-          alreadyDownloaded.size
-        } pages (already downloaded).`,
-      );
+      console.log(`Skipping download of ${diff} pages (already downloaded).`);
       console.log('Pass --force to force downloading of those pages.');
     }
   }

@@ -89,11 +89,11 @@ async function main({
       file => !alreadyScraped.has(file.replace(/\.html?$/, '.json')),
     );
 
-    if (scheduledFiles.length > filteredScheduledFiles.length) {
+    const diff = scheduledFiles.length - filteredScheduledFiles.length;
+
+    if (diff > 0) {
       scheduledFiles = filteredScheduledFiles;
-      console.log(
-        `Skipping scraping of ${alreadyScraped.size} (already scraped).`,
-      );
+      console.log(`Skipping scraping of ${diff} (already scraped).`);
       console.log('Pass --force to force scraping of those pages.');
     }
   }

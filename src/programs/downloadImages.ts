@@ -56,7 +56,8 @@ async function main({
   concurrency = defaults.concurrency,
 }: Record<string, any>) {
   const resultFiles = await glob(pattern, { cwd: input, matchBase: false });
-  let results = (await bluebird.map(resultFiles, async resultFile => { // tslint:disable-next-line await-promise
+  let results = (await bluebird.map(resultFiles, async resultFile => {
+    // tslint:disable-next-line await-promise
     const result = await readJsonFile<ResultWithWikipediaData>(
       path.join(input, resultFile),
     );
@@ -104,13 +105,11 @@ async function main({
       ({ filename }) => !alreadyDownloaded.has(filename),
     );
 
-    if (results.length > filteredResults.length) {
+    const diff = results.length - filteredResults.length;
+
+    if (diff > 0) {
       results = filteredResults;
-      console.log(
-        `Skipping download of ${
-          alreadyDownloaded.size
-        } images (already downloaded).`,
-      );
+      console.log(`Skipping download of ${diff} images (already downloaded).`);
       console.log('Pass --force to force downloading of those images.');
     }
   }
