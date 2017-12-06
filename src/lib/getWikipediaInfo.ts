@@ -147,18 +147,12 @@ export async function getWikipediaInfo({
   thumbnailHeight = 300,
   override,
 }: GetWikipediaInfoOptions): Promise<Partial<WikipediaData>> {
-  const searchTerms = [result.name];
-
-  if (override) {
-    searchTerms.push(override.replace('https://en.wikipedia.org/wiki/', ''));
-  }
-
   const response = await got(WIKIPEDIA_API_ENDPOINT, {
     json: true,
     query: {
       action: 'query',
       generator: 'search',
-      gsrsearch: searchTerms.join(' '),
+      gsrsearch: result.name,
       gsrprop: 'snippet',
       prop: 'info',
       inprop: 'url',
