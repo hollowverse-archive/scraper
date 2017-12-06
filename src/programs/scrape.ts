@@ -10,6 +10,7 @@ import {
   hasKey,
   removeFile,
   readFile,
+  readJsonFile,
 } from '../lib/helpers';
 import { getWikipediaInfo, WikipediaData } from '../lib/getWikipediaInfo';
 import { isEmpty } from 'lodash';
@@ -37,6 +38,12 @@ program
   .option(
     '--no-wikipedia',
     'Do not add corresponding Wikipedia page URL to results',
+  )
+  .option(
+    '--overrides [overrides]',
+    'Path to a JSON file that lists the URLs to the actual Wikipedia pages' +
+      'that should replace the disambiguation page URLs returned from the Wikipedia API, ' +
+      'has no effect if --no-wikipedia is used',
   )
   .option(
     '--no-remove',
@@ -70,6 +77,7 @@ async function main({
   output,
   force,
   wikipedia,
+  overrides,
   remove,
   dry,
   concurrency = defaults.concurrency,
@@ -98,21 +106,35 @@ async function main({
     }
   }
 
+  let overridesMap: Record<string, string | null | undefined> = {};
+  if (wikipedia && overrides) {
+    overridesMap = await readJsonFile<typeof overridesMap>(overrides);
+  }
+
   const progressBar = new ProgressBar(':bar [:percent] :page', {
     width: 25,
     total: scheduledFiles.length,
   });
 
-  const results = await processBatch<string, ResultWithWikipediaData>({
-    tasks: scheduledFiles.map(file => path.join(input, file)),
+  type ScrapeTask = {
+    absolutePath: string;
+    postName: string;
+  };
+
+  const results = await processBatch<ScrapeTask, ResultWithWikipediaData>({
+    tasks: scheduledFiles.map(file => ({
+      absolutePath: path.join(input, file),
+      postName: path.basename(file).replace(/\.html?$/, ''),
+    })),
     concurrency: Number(concurrency),
-    processTask: async file => {
-      const html = await readFile(file, 'utf8');
+    processTask: async ({ absolutePath, postName }) => {
+      const html = await readFile(absolutePath, 'utf8');
 
       let result;
       result = await scrapeHtml(html);
-      if (wikipedia) {
-        const wikipediaData = await getWikipediaInfo(result);
+      const override = overridesMap[postName];
+      if (wikipedia && override !== null) {
+        const wikipediaData = await getWikipediaInfo({ result, override });
 
         result = {
           ...result,
@@ -122,23 +144,21 @@ async function main({
 
       return result;
     },
-    async onTaskCompleted(result, inputFile) {
-      const outputFile = path.join(
-        output,
-        path.basename(inputFile).replace(/\.html?$/, '.json'),
-      );
+    async onTaskCompleted(result, { postName }) {
+      const outputFile = path.join(output, `${postName}.json`);
       if (!dry) {
         if (
-          remove &&
-          hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData') &&
-          isEmpty(result.wikipediaData)
+          (remove &&
+            (hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData') &&
+              isEmpty(result.wikipediaData))) ||
+          !hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData')
         ) {
           await removeFile(outputFile).catch(() => null);
         } else {
           await writeFile(outputFile, JSON.stringify(result, undefined, 2));
         }
       }
-      progressBar.tick({ page: inputFile });
+      progressBar.tick({ page: path });
     },
   });
 

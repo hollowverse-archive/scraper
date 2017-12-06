@@ -31,9 +31,10 @@
         ],
         "args": [
           "src/programs/scrape.ts",
-          "-p", "tom-*.html",
+          "-p", "drake.html",
           "-i", "output/html",
           "-o", "output/scraperResults",
+          "--overrides", "src/overrides.json",
           "--force",
           "--dry"
         ],

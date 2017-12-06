@@ -132,10 +132,21 @@ export type WikipediaData = {
   isDisambiguation: boolean;
 };
 
-export async function getWikipediaInfo(
-  result: Result,
+export type GetWikipediaInfoOptions = {
+  result: Result;
+  thumbnailHeight?: number;
+  /**
+   * Canonical URL of the actual page to use in case the API
+   * returns a disambiguation page
+   */
+  override?: string;
+};
+
+export async function getWikipediaInfo({
+  result,
   thumbnailHeight = 300,
-): Promise<Partial<WikipediaData>> {
+  override,
+}: GetWikipediaInfoOptions): Promise<Partial<WikipediaData>> {
   const response = await got(WIKIPEDIA_API_ENDPOINT, {
     json: true,
     query: {
@@ -163,24 +174,28 @@ export async function getWikipediaInfo(
 
   let page;
   const pages = Object.values(body.query.pages);
-  const firstResult = pages[0];
-  const set = createFuzzySet(pages.map(p => p.title));
-  const matches = set.get(result.name);
-  const firstMatch = matches ? matches[0] : undefined;
-  if (
-    firstResult &&
-    matches &&
-    // Fuzzy set includes exact match
-    matches.map(([, match]) => match).includes(firstResult.title)
-  ) {
-    page = firstResult;
-  } else if (
-    // or fuzzy match has a confidence value that is high enough
-    firstMatch &&
-    firstMatch[0] >= 0.85
-  ) {
-    const [, closestTitle] = firstMatch;
-    page = find(pages, p => p.title === closestTitle);
+  if (typeof override === 'string') {
+    page = find(pages, p => p.canonicalurl === override);
+  } else {
+    const firstResult = pages[0];
+    const set = createFuzzySet(pages.map(p => p.title));
+    const matches = set.get(result.name);
+    const firstMatch = matches ? matches[0] : undefined;
+    if (
+      firstResult &&
+      matches &&
+      // Fuzzy set includes exact match
+      matches.map(([, match]) => match).includes(firstResult.title)
+    ) {
+      page = firstResult;
+    } else if (
+      // or fuzzy match has a confidence value that is high enough
+      firstMatch &&
+      firstMatch[0] >= 0.85
+    ) {
+      const [, closestTitle] = firstMatch;
+      page = find(pages, p => p.title === closestTitle);
+    }
   }
 
   if (page === undefined) {
@@ -190,8 +205,12 @@ export async function getWikipediaInfo(
   const title = page.title;
   const pageId = page.pageid;
 
-  const isPerson = isWikipediaPerson({ title, pageId });
-  const isDisambiguation = isDisambiguationPage({ pageId });
+  const isPerson = override
+    ? Promise.resolve(true)
+    : isWikipediaPerson({ title, pageId });
+  const isDisambiguation = override
+    ? Promise.resolve(false)
+    : isDisambiguationPage({ pageId });
 
   const wikipediaData: Partial<WikipediaData> = {};
   wikipediaData.url = page.canonicalurl;
