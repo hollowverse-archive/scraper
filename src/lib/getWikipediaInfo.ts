@@ -153,7 +153,7 @@ export async function getWikipediaInfo({
       action: 'query',
       generator: 'search',
       gsrsearch: override
-        ? override
+        ? decodeURI(override)
             .replace('https://en.wikipedia.org/wiki/', '')
             .replace(/_/g, ' ')
         : result.name,
