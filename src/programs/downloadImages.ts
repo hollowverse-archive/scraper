@@ -56,8 +56,7 @@ async function main({
   concurrency = defaults.concurrency,
 }: Record<string, any>) {
   const resultFiles = await glob(pattern, { cwd: input, matchBase: false });
-  let results = // tslint:disable-next-line await-promise
-  (await bluebird.map(resultFiles, async resultFile => {
+  let results = (await bluebird.map(resultFiles, async resultFile => { // tslint:disable-next-line await-promise
     const result = await readJsonFile<ResultWithWikipediaData>(
       path.join(input, resultFile),
     );
@@ -66,7 +65,7 @@ async function main({
       result.wikipediaData !== undefined &&
       result.wikipediaData.thumbnail !== undefined
     ) {
-      const slug = result.wikipediaData.url.replace(
+      const slug = decodeURI(result.wikipediaData.url).replace(
         'https://en.wikipedia.org/wiki/',
         '',
       );
