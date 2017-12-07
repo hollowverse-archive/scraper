@@ -125,8 +125,8 @@ export async function getWikipediaInfo({
   } else if (!await isDisambiguation) {
     const pageImage =
       (await getPageImage({ pageId })) ||
-      (await extractFirstRelevantPageImage({ pageId }));
-    
+      (await extractFirstRelevantPageImage({ pageId, title }));
+
     if (pageImage) {
       const info = await getFileMetadata({
         filename: pageImage,
