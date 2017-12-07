@@ -3,131 +3,31 @@ import * as got from 'got';
 import * as createFuzzySet from 'fuzzyset.js';
 import { find } from 'lodash';
 
-const WIKIPEDIA_API_ENDPOINT = 'https://en.wikipedia.org/w/api.php';
-
-type IsWikipediaPersonOptions = {
-  pageId: number;
-  title: string;
-};
-
-async function isWikipediaPerson({ pageId, title }: IsWikipediaPersonOptions) {
-  const response = await got(WIKIPEDIA_API_ENDPOINT, {
-    json: true,
-    query: {
-      action: 'query',
-      titles: title,
-      prop: 'templates',
-      tltemplates: 'Person',
-      tlnamespace: 0,
-      format: 'json',
-    },
-  });
-
-  const body = response.body as {
-    query: {
-      pages: {
-        [pageId: number]: {
-          pageid: number;
-          title: string;
-        };
-      };
-    };
-  };
-
-  return (
-    body.query.pages[pageId] !== undefined &&
-    body.query.pages[pageId].title === title
-  );
-}
-
-type GetWikipediaThumbnailOptions = {
-  title: string;
-  pageId: number;
-  thumbnailHeight: number;
-};
-
-async function getWikipediaThumbnail({
-  title,
-  pageId,
-  thumbnailHeight,
-}: GetWikipediaThumbnailOptions) {
-  const response = await got(WIKIPEDIA_API_ENDPOINT, {
-    json: true,
-    query: {
-      action: 'query',
-      titles: title,
-      prop: 'pageimages',
-      piprop: 'thumbnail',
-      pithumbsize: thumbnailHeight,
-      format: 'json',
-    },
-  });
-
-  const body = response.body as {
-    query: {
-      pages: {
-        [pageId: number]:
-          | {
-              pageid: string;
-              title: string;
-              thumbnail: {
-                source: string;
-                width: number;
-                height: number;
-              };
-            }
-          | undefined;
-      };
-    };
-  };
-
-  const imageObject = body.query.pages[pageId];
-
-  return imageObject ? imageObject.thumbnail : undefined;
-}
-
-async function isDisambiguationPage({ pageId }: { pageId: number }) {
-  const response = await got(WIKIPEDIA_API_ENDPOINT, {
-    json: true,
-    query: {
-      action: 'parse',
-      pageid: pageId,
-      prop: 'categories',
-      format: 'json',
-    },
-  });
-
-  const body = response.body as {
-    parse: {
-      title: string;
-      pageid: number;
-      categories: {
-        [x: number]: {
-          ns: number;
-          exists: string;
-          ['*']: string;
-        };
-      };
-    };
-  };
-
-  const categories = Object.values(body.parse.categories);
-
-  return (
-    find(
-      categories,
-      category => category['*'] === 'All_disambiguation_pages',
-    ) !== undefined
-  );
-}
+import { WIKIPEDIA_API_ENDPOINT } from './wikipedia/constants';
+import { MetadataKey } from './wikipedia/types';
+import { getFileMetadata } from './wikipedia/getFileMetadata';
+import { isWikipediaPerson } from './wikipedia/isWikipediaPerson';
+import { getPageImage } from './wikipedia/getPageImage';
+import { isDisambiguationPage } from './wikipedia/isDisambiguationPage';
+import { extractFirstRelevantPageImage } from './wikipedia/extractFirstRelevantPageImage';
 
 export type WikipediaData = {
   url: string;
   title: string;
-  thumbnail: {
-    source: string;
-    width: number;
-    height: number;
+  image?: {
+    name: string;
+    info: {
+      canonicaltitle: string;
+      thumburl: string;
+      thumbwidth: number;
+      thumbheight: number;
+      url: string;
+      descriptionurl: string;
+      descriptionshorturl: string;
+      extmetadata: Partial<
+        Record<MetadataKey, { source: string; value: string }>
+      >;
+    };
   };
   isDisambiguation: boolean;
 };
@@ -212,6 +112,7 @@ export async function getWikipediaInfo({
   const isPerson = override
     ? Promise.resolve(true)
     : isWikipediaPerson({ title, pageId });
+
   const isDisambiguation = override
     ? Promise.resolve(false)
     : isDisambiguationPage({ pageId });
@@ -222,11 +123,20 @@ export async function getWikipediaInfo({
   if (!await isPerson) {
     return {};
   } else if (!await isDisambiguation) {
-    wikipediaData.thumbnail = await getWikipediaThumbnail({
-      title,
-      thumbnailHeight,
-      pageId,
-    });
+    const pageImage =
+      (await getPageImage({ pageId })) ||
+      (await extractFirstRelevantPageImage({ pageId }));
+    
+    if (pageImage) {
+      const info = await getFileMetadata({
+        filename: pageImage,
+        thumbnailHeight,
+      });
+      wikipediaData.image = {
+        name: pageImage,
+        info,
+      };
+    }
     wikipediaData.isDisambiguation = false;
   } else {
     wikipediaData.isDisambiguation = true;
