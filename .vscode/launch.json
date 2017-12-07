@@ -4,6 +4,26 @@
       {
         "type": "node",
         "request": "launch",
+        "name": "Debug Image Downloader",
+        "runtimeExecutable": "node",
+        "runtimeArgs": [
+          "--nolazy", "-r", "ts-node/register"
+        ],
+        "args": [
+          "src/programs/downloadImages.ts",
+          "-p", "tom-*.json",
+          "-i", "output/scraperResults",
+          "-o", "output/images",
+          "--force",
+          "--dry"
+        ],
+        "cwd": "${workspaceRoot}",
+        "sourceMaps": true,
+        "protocol": "inspector"
+      },
+      {
+        "type": "node",
+        "request": "launch",
         "name": "Debug Scraper",
         "runtimeExecutable": "node",
         "runtimeArgs": [

@@ -1,9 +1,11 @@
 #! /usr/bin/env node
 import * as program from 'commander';
 import * as path from 'path';
+import fetch from 'node-fetch';
 import * as ProgressBar from 'progress';
-import { downloadBatch } from '../lib/downloadBatch';
+import { processBatch } from '../lib/processBatch';
 import { readDir, readJsonFile, writeFile } from '../lib/helpers';
+import { URL } from 'url';
 
 // tslint:disable no-console
 
@@ -65,18 +67,17 @@ async function main({
       alreadyDownloaded = new Set();
     }
 
-    if (alreadyDownloaded.size > 0) {
-      console.log(
-        `Skipping download of ${
-          alreadyDownloaded.size
-        } pages (already downloaded).`,
-      );
-      console.log('Pass --force to force downloading of those pages.');
-    }
-
-    scheduledPaths = scheduledPaths.filter(
+    const filteredScheduledPaths = scheduledPaths.filter(
       postName => !alreadyDownloaded.has(`${postName}.html`),
     );
+
+    const diff = scheduledPaths.length - filteredScheduledPaths.length;
+
+    if (diff > 0) {
+      scheduledPaths = filteredScheduledPaths;
+      console.log(`Skipping download of ${diff} pages (already downloaded).`);
+      console.log('Pass --force to force downloading of those pages.');
+    }
   }
 
   const progressBar = new ProgressBar(':bar [:percent] :path', {
@@ -84,22 +85,22 @@ async function main({
     total: scheduledPaths.length,
   });
 
-  const downloadedUrls = await downloadBatch({
-    paths: scheduledPaths,
-    base,
+  await processBatch({
+    tasks: scheduledPaths.map(p => String(new URL(p, base))),
+    processTask: async url => (await fetch(url)).text(),
     concurrency: Number(concurrency),
-    async onPageDownloaded(html, urlPath, next) {
+    async onTaskCompleted(html, url, i) {
       if (!dry) {
-        await writeFile(path.join(output, `${urlPath}.html`), html);
+        await writeFile(path.join(output, `${scheduledPaths[i]}.html`), html);
       }
-      progressBar.tick({ path: next });
+      progressBar.tick({ path: url });
     },
   });
 
   console.log(
     dry
-      ? `${downloadedUrls.length} URLs downloaded.`
-      : `${downloadedUrls.length} URLs downloaded and written to disk.`,
+      ? `${scheduledPaths.length} URLs downloaded.`
+      : `${scheduledPaths.length} URLs downloaded and written to disk.`,
   );
 }
 

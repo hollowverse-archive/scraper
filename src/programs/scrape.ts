@@ -2,10 +2,18 @@
 import * as program from 'commander';
 import * as ProgressBar from 'progress';
 import * as path from 'path';
-import { scrapeBatch } from '../lib/scrapeBatch';
-import { readDir, glob, writeFile, hasKey, removeFile } from '../lib/helpers';
+import { scrapeHtml, Result } from '../lib/scrape';
+import {
+  readDir,
+  glob,
+  writeFile,
+  hasKey,
+  removeFile,
+  readFile,
+} from '../lib/helpers';
 import { getWikipediaInfo, WikipediaData } from '../lib/getWikipediaInfo';
 import { isEmpty } from 'lodash';
+import { processBatch } from '../lib/processBatch';
 
 // tslint:disable no-console
 
@@ -51,6 +59,10 @@ program
 
 program.parse(process.argv);
 
+export type ResultWithWikipediaData = Result & {
+  wikipediaData?: Partial<WikipediaData>;
+};
+
 // tslint:disable-next-line:max-func-body-length
 async function main({
   pattern = defaults.pattern,
@@ -73,16 +85,17 @@ async function main({
       alreadyScraped = new Set();
     }
 
-    if (alreadyScraped.size > 0) {
-      console.log(
-        `Skipping scraping of ${alreadyScraped.size} (already scraped).`,
-      );
-      console.log('Pass --force to force scraping of those pages.');
-    }
-
-    scheduledFiles = scheduledFiles.filter(
+    const filteredScheduledFiles = scheduledFiles.filter(
       file => !alreadyScraped.has(file.replace(/\.html?$/, '.json')),
     );
+
+    const diff = scheduledFiles.length - filteredScheduledFiles.length;
+
+    if (diff > 0) {
+      scheduledFiles = filteredScheduledFiles;
+      console.log(`Skipping scraping of ${diff} (already scraped).`);
+      console.log('Pass --force to force scraping of those pages.');
+    }
   }
 
   const progressBar = new ProgressBar(':bar [:percent] :page', {
@@ -90,10 +103,26 @@ async function main({
     total: scheduledFiles.length,
   });
 
-  const results = await scrapeBatch({
-    files: scheduledFiles.map(file => path.join(input, file)),
+  const results = await processBatch<string, ResultWithWikipediaData>({
+    tasks: scheduledFiles.map(file => path.join(input, file)),
     concurrency: Number(concurrency),
-    async onFileScraped(result, inputFile, _) {
+    processTask: async file => {
+      const html = await readFile(file, 'utf8');
+
+      let result;
+      result = await scrapeHtml(html);
+      if (wikipedia) {
+        const wikipediaData = await getWikipediaInfo(result);
+
+        result = {
+          ...result,
+          wikipediaData,
+        };
+      }
+
+      return result;
+    },
+    async onTaskCompleted(result, inputFile) {
       const outputFile = path.join(
         output,
         path.basename(inputFile).replace(/\.html?$/, '.json'),
@@ -110,19 +139,6 @@ async function main({
         }
       }
       progressBar.tick({ page: inputFile });
-    },
-
-    async transformResult(result, _) {
-      if (wikipedia) {
-        const wikipediaData = await getWikipediaInfo(result);
-
-        return {
-          ...result,
-          wikipediaData,
-        };
-      }
-
-      return result;
     },
   });
 
@@ -199,8 +215,6 @@ async function main({
     areDisambiguationPages.forEach(result => {
       if (hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData')) {
         console.log(`  * ${result.name} (${result.wikipediaData.url})`);
-      } else {
-        console.log(`  * ${result.name} (url)`);
       }
     });
   }
