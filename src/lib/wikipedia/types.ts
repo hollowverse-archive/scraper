@@ -4,7 +4,12 @@ export type MetadataKey =
   | 'ImageDescription'
   | 'Artist'
   | 'UsageTerms'
+  | 'Attribution'
   | 'AttributionRequired'
+  | 'Credit'
   | 'Copyrighted'
   | 'Restrictions'
-  | 'License';
+  | 'Permission'
+  | 'License'
+  | 'LicenseUrl'
+  | 'LicenseShortName';

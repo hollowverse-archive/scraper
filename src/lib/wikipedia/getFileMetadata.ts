@@ -17,7 +17,7 @@ export async function getFileMetadata({
       action: 'query',
       titles: `File:${filename}`,
       prop: 'imageinfo',
-      iiprop: ['caonicaltitle', 'url', 'extmetadata'],
+      iiprop: ['caonicaltitle', 'url', 'extmetadata'].join('|'),
       iiurlheight: thumbnailHeight,
       format: 'json',
     },
