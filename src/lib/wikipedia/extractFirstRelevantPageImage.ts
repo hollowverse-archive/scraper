@@ -30,7 +30,7 @@ export async function extractFirstRelevantPageImage({
   };
 
   const images = body.parse.images.filter(
-    name => /\.jpe?g|png$/i.test(name) === false,
+    name => /\.jpe?g|png$/i.test(name) === true,
   );
 
   const set = createFuzzySet(images);
