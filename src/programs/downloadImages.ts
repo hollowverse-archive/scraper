@@ -70,7 +70,7 @@ async function main({
         'https://en.wikipedia.org/wiki/',
         '',
       );
-      const imageUrl = result.wikipediaData.image.info.url;
+      const imageUrl = result.wikipediaData.image.info.thumburl;
       const ext = imageUrl.match(/\.[a-z]{3,4}$/gi);
       let filename = slug;
       if (ext && ext[0]) {
