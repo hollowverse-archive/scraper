@@ -3,6 +3,7 @@ import { URL } from 'url';
 import { replaceSmartQuotes } from './helpers';
 import { last } from 'lodash';
 import { format, parse } from 'date-fns';
+import { isURL } from 'validator';
 
 type Piece = {
   type: 'sentence' | 'quote' | 'heading';
@@ -45,6 +46,15 @@ type CompleteResult = {
 
 export type Result = CompleteResult | StubResult;
 
+const urlValidationOptions = {
+  require_protocol: true,
+  require_host: true,
+  require_valid_protocol: true,
+  allow_underscores: true,
+  protocols: ['https', 'http'],
+};
+
+
 export function isResultWithContent(
   result: CompleteResult | StubResult,
 ): result is CompleteResult {
@@ -71,8 +81,8 @@ function scrapeText($: CheerioStatic, e: CheerioElement) {
           .find(id)
           .find('a:first-of-type');
 
-        const href = $a.attr('href');
-        if (!href.startsWith('#')) {
+        const href = $a.attr('href').trim();
+        if (isURL(href, urlValidationOptions)) {
           sourceUrl = href;
           sourceTitle = $a.text() || undefined;
         }
