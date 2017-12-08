@@ -34,11 +34,10 @@ export async function extractFirstRelevantPageImage({
   );
 
   const set = createFuzzySet(images);
-
   const fuzzyMatches = set.get(title);
   if (fuzzyMatches && fuzzyMatches[0][0] > 0.85) {
     return fuzzyMatches[0][1];
   }
 
-  return images[0] || undefined;
+  return fuzzyMatches && fuzzyMatches.length > 0 ? images[0] : undefined;
 }
