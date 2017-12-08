@@ -1,0 +1,15 @@
+export type MetadataKey =
+  | 'DateTime'
+  | 'ObjectName'
+  | 'ImageDescription'
+  | 'Artist'
+  | 'UsageTerms'
+  | 'Attribution'
+  | 'AttributionRequired'
+  | 'Credit'
+  | 'Copyrighted'
+  | 'Restrictions'
+  | 'Permission'
+  | 'License'
+  | 'LicenseUrl'
+  | 'LicenseShortName';

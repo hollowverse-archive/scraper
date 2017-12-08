@@ -64,13 +64,13 @@ async function main({
     if (
       hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData') &&
       result.wikipediaData !== undefined &&
-      result.wikipediaData.thumbnail !== undefined
+      result.wikipediaData.image !== undefined
     ) {
       const slug = decodeURI(result.wikipediaData.url).replace(
         'https://en.wikipedia.org/wiki/',
         '',
       );
-      const imageUrl = result.wikipediaData.thumbnail.source;
+      const imageUrl = result.wikipediaData.image.info.thumburl;
       const ext = imageUrl.match(/\.[a-z]{3,4}$/gi);
       let filename = slug;
       if (ext && ext[0]) {
