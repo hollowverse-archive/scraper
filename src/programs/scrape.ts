@@ -197,7 +197,7 @@ async function main({
       return (
         !isEmpty(result.wikipediaData) &&
         result.wikipediaData.isDisambiguation === false &&
-        result.wikipediaData.thumbnail === undefined
+        result.wikipediaData.image === undefined
       );
     }
 
