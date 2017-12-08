@@ -71,9 +71,11 @@ function scrapeText($: CheerioStatic, e: CheerioElement) {
           .find(id)
           .find('a:first-of-type');
 
-        sourceUrl = $a.attr('href');
-        sourceTitle = $a.text() || undefined;
-
+        const href = $a.attr('href');
+        if (!href.startsWith('#')) {
+          sourceUrl = href;
+          sourceTitle = $a.text() || undefined;
+        }
         content.push({ text, sourceUrl, sourceTitle });
         sourceUrl = undefined;
         sourceTitle = undefined;
