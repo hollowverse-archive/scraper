@@ -5,9 +5,10 @@ import { findLastIndex } from 'lodash';
 import { format, parse } from 'date-fns';
 import { isURL } from 'validator';
 
-type Piece = Text | Emphasis | InlineLink | Quote | Heading;
+type Piece = InlinePiece | BlockPiece;
 
 type Text = {
+  parentId: number;
   type: 'text';
   text: string;
   sourceUrl?: string;
@@ -15,28 +16,25 @@ type Text = {
 };
 
 type Emphasis = {
+  parentId: number;
   type: 'emphasis';
   text: string;
 };
 
 type InlineLink = {
+  parentId: number;
   type: 'link';
   text: string;
   sourceUrl: string;
   sourceTitle: string | undefined;
 };
 
-type Quote = {
-  type: 'quote';
-  text: string;
-  sourceUrl: string | undefined;
-  sourceTitle: string | undefined;
+type BlockPiece = {
+  id: number;
+  parentId: number | undefined;
+  type: 'paragraph' | 'quote' | 'heading';
 };
-
-type Heading = {
-  type: 'heading';
-  text: string;
-};
+type InlinePiece = InlineLink | Text | Emphasis;
 
 type StubResult = {
   name: string;
@@ -47,22 +45,12 @@ type StubResult = {
   }>;
 };
 
-type Open = {
-  type: 'open';
-  kind: 'paragraph' | 'quote' | 'heading';
-};
-
-type Close = {
-  type: 'close';
-  kind: 'paragraph' | 'quote' | 'heading';
-};
-
-export function isPiece(obj: Open | Close | Piece): obj is Piece {
-  return obj.type !== 'open' && obj.type !== 'close';
+export function isBlockPiece(obj: Piece): obj is BlockPiece {
+  return 'id' in obj && (obj as BlockPiece).id !== undefined;
 }
 
-export function isTextPiece(obj: Open | Close | Piece): obj is Text {
-  return isPiece(obj) && obj.type === 'text';
+export function isInlinePiece(obj: Piece): obj is InlinePiece {
+  return 'parentId' in obj && (obj as InlinePiece).parentId !== undefined;
 }
 
 type CompleteResult = {
@@ -76,7 +64,7 @@ type CompleteResult = {
   lastUpdatedOn?: string;
   religion?: string;
   politicalViews?: string;
-  content: Array<Piece | Open | Close>;
+  content: Piece[];
 };
 
 export type Result = CompleteResult | StubResult;
@@ -98,8 +86,24 @@ export function isResultWithContent(
   );
 }
 
-function isBlockElement(tagName: string) {
-  return ['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'div', 'p', 'blockquote'].includes(tagName);
+function isBlockTagName(tagName: string) {
+  return [
+    'h1',
+    'h2',
+    'h3',
+    'h4',
+    'h5',
+    'h6',
+    'div',
+    'p',
+    'blockquote',
+  ].includes(tagName);
+}
+
+function hasPossibleSource(piece: Piece): piece is InlineLink | Text {
+  return (
+    (!isBlockPiece(piece) && piece.type === 'text') || piece.type === 'link'
+  );
 }
 
 function getKind(tagName: string) {
@@ -112,37 +116,54 @@ function getKind(tagName: string) {
   return 'paragraph';
 }
 
-function getPieces($: CheerioStatic, e: CheerioElement) {
-  const content: Array<Piece | Open | Close> = [];
-  const isBlock = isBlockElement(e.tagName);
+function getPieces(
+  $: CheerioStatic,
+  e: CheerioElement,
+  getId: () => number,
+  rootId: number | undefined,
+) {
+  const content: Piece[] = [];
+  const isBlock = isBlockTagName(e.tagName);
   const kind = getKind(e.tagName);
 
+  const parentId = getId();
   if (isBlock) {
-    content.push({
-      type: 'open',
-      kind,
-    });
+    const parent: BlockPiece = {
+      type: kind,
+      id: parentId,
+      parentId: rootId,
+    };
+
+    content.push(parent);
   }
 
-  e.childNodes.forEach((node) => {
+  e.childNodes.forEach(node => {
     const $node = $(node);
-    const lastTextNodeIndex = findLastIndex(content, { type: 'text' });
-    const lastTextNode = lastTextNodeIndex !== -1 ? content[lastTextNodeIndex] : undefined;
+    const lastTextPieceIndex = findLastIndex(content, { type: 'text' });
+    const lastTextPiece =
+      lastTextPieceIndex !== -1 ? content[lastTextPieceIndex] : undefined;
 
     if (node.type === 'tag' && node.tagName === 'sup') {
       try {
-        const id = $node.find('a').attr('href');
-        const $a = $.root().find(id).find('a:first-of-type');
+        const refId = $node.find('a').attr('href');
+        const $a = $.root()
+          .find(refId)
+          .find('a:first-of-type');
         const href = $a.attr('href').trim();
-        if (isURL(href, urlValidationOptions) && lastTextNode && isTextPiece(lastTextNode)) {
-          lastTextNode.sourceUrl = href;
-          lastTextNode.sourceTitle = $a.text() || undefined;
+        if (
+          isURL(href, urlValidationOptions) &&
+          lastTextPiece &&
+          hasPossibleSource(lastTextPiece)
+        ) {
+          lastTextPiece.sourceUrl = href;
+          lastTextPiece.sourceTitle = $a.text() || undefined;
         }
       } catch (e) {
         // Reference is not formatted correctly, do nothing
       }
     } else if (node.tagName === 'a') {
       content.push({
+        parentId,
         type: 'link',
         text: $(node).text(),
         sourceUrl: $(node).attr('href'),
@@ -150,72 +171,79 @@ function getPieces($: CheerioStatic, e: CheerioElement) {
       });
     } else if (['em', 'b', 'i'].includes(node.tagName)) {
       content.push({
+        parentId,
         type: 'emphasis',
         text: $(node).text(),
       });
     } else if (node.type === 'tag' && node.childNodes.length > 0) {
-      content.push(...getPieces($, node));
+      content.push(...getPieces($, node, getId, parentId));
     } else {
       const text = node.type === 'text' ? node.nodeValue : $(node).text();
-      if (lastTextNode && lastTextNodeIndex === content.length - 1 && isPiece(lastTextNode)) {
-        lastTextNode.text += text;
+      if (
+        lastTextPiece &&
+        lastTextPieceIndex === content.length - 1 &&
+        isInlinePiece(lastTextPiece)
+      ) {
+        lastTextPiece.text += text;
       } else {
         content.push({
+          parentId,
           type: 'text',
           text,
         });
       }
-      
+
       return;
     }
 
-    content.push({ type: 'text', text: '' });
+    content.push({ type: 'text', text: '', parentId });
   });
 
-  if (isBlock) {
-    content.push({ type: 'close', kind });
-  }
+  return content
+    .map(result => {
+      if (isBlockPiece(result)) {
+        return result;
+      }
 
-  return (
-    content
-      // tslint:disable-next-line:no-shadowed-variable
-      .map(result => {
-        if (!isPiece(result)) {
-          return result;
+      let { text } = result;
+      text = replaceSmartQuotes(text.trim());
+
+      if (result.type === 'text') {
+        let { sourceTitle } = result;
+        const { sourceUrl, ...rest } = result;
+        if (sourceTitle) {
+          sourceTitle = replaceSmartQuotes(sourceTitle.trim());
         }
-        
-        let { text } = result;
-        text = replaceSmartQuotes(text.trim());
-
-        if (isTextPiece(result)) {
-          let { sourceTitle } = result;
-          const { sourceUrl, ...rest } = result;
-          if (sourceTitle) {
-            sourceTitle = replaceSmartQuotes(sourceTitle.trim());
-          }
-
-          return {
-            ...rest,
-            sourceUrl,
-            sourceTitle,
-            text,
-          };
-        }
-
 
         return {
-          ...result,
+          ...rest,
+          sourceUrl,
+          sourceTitle,
           text,
         };
-      })
-      .filter(v => !isPiece(v) || Boolean(v.text))
-  );
+      }
+
+      return {
+        ...result,
+        text,
+      };
+    })
+    .filter(v => isBlockPiece(v) || Boolean(v.text));
 }
+
+const createGetId = () => {
+  let i = 0;
+
+  return () => {
+    i = i + 1;
+
+    return i;
+  };
+};
 
 const STUB_TEXT =
   'Share what you know about the religion and political views of ';
 
-// tslint:disable-next-line:max-func-body-length
 export async function scrapeHtml(html: string): Promise<Result> {
   const $ = cheerio.load(html);
 
@@ -295,9 +323,13 @@ export async function scrapeHtml(html: string): Promise<Result> {
 
   const content: CompleteResult['content'] = [];
 
-  $entryContent.find('> p, > h2, > h3, > h4, > h5, > h6, > blockquote').each((_, e) => {
-    content.push(...getPieces($, e));
-  });
+  const getId = createGetId();
+
+  $entryContent
+    .find('> p, > h2, > h3, > h4, > h5, > h6, > blockquote')
+    .each((_, e) => {
+      content.push(...getPieces($, e, getId, undefined));
+    });
 
   return {
     name,
