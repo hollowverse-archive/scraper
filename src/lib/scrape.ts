@@ -5,12 +5,37 @@ import { findLastIndex } from 'lodash';
 import { format, parse } from 'date-fns';
 import { isURL } from 'validator';
 
-type Piece = {
-  type: 'text' | 'quote' | 'heading' | 'link' | 'emphasis';
-  kind: undefined;
+type Piece = Text | Emphasis | InlineLink | Quote | Heading;
+
+type Text = {
+  type: 'text';
   text: string;
   sourceUrl?: string;
   sourceTitle?: string;
+};
+
+type Emphasis = {
+  type: 'emphasis';
+  text: string;
+};
+
+type InlineLink = {
+  type: 'link';
+  text: string;
+  sourceUrl: string;
+  sourceTitle: string | undefined;
+};
+
+type Quote = {
+  type: 'quote';
+  text: string;
+  sourceUrl: string | undefined;
+  sourceTitle: string | undefined;
+};
+
+type Heading = {
+  type: 'heading';
+  text: string;
 };
 
 type StubResult = {
@@ -25,21 +50,19 @@ type StubResult = {
 type Open = {
   type: 'open';
   kind: 'paragraph' | 'quote' | 'heading';
-  text: undefined;
-  sourceUrl: undefined;
-  sourceTitle: undefined;
 };
 
 type Close = {
   type: 'close';
   kind: 'paragraph' | 'quote' | 'heading';
-  text: undefined;
-  sourceUrl: undefined;
-  sourceTitle: undefined;
 };
 
 export function isPiece(obj: Open | Close | Piece): obj is Piece {
   return obj.type !== 'open' && obj.type !== 'close';
+}
+
+export function isTextPiece(obj: Open | Close | Piece): obj is Text {
+  return isPiece(obj) && obj.type === 'text';
 }
 
 type CompleteResult = {
@@ -98,9 +121,6 @@ function getPieces($: CheerioStatic, e: CheerioElement) {
     content.push({
       type: 'open',
       kind,
-      text: undefined,
-      sourceTitle: undefined,
-      sourceUrl: undefined,
     });
   }
 
@@ -114,7 +134,7 @@ function getPieces($: CheerioStatic, e: CheerioElement) {
         const id = $node.find('a').attr('href');
         const $a = $.root().find(id).find('a:first-of-type');
         const href = $a.attr('href').trim();
-        if (isURL(href, urlValidationOptions) && lastTextNode && isPiece(lastTextNode)) {
+        if (isURL(href, urlValidationOptions) && lastTextNode && isTextPiece(lastTextNode)) {
           lastTextNode.sourceUrl = href;
           lastTextNode.sourceTitle = $a.text() || undefined;
         }
@@ -126,6 +146,7 @@ function getPieces($: CheerioStatic, e: CheerioElement) {
         type: 'link',
         text: $(node).text(),
         sourceUrl: $(node).attr('href'),
+        sourceTitle: undefined,
       });
     } else if (['em', 'b', 'i'].includes(node.tagName)) {
       content.push({
@@ -159,21 +180,33 @@ function getPieces($: CheerioStatic, e: CheerioElement) {
     content
       // tslint:disable-next-line:no-shadowed-variable
       .map(result => {
-        if (isPiece(result)) {
-          const { sourceTitle, sourceUrl, text, ...rest } = result;
+        if (!isPiece(result)) {
+          return result;
+        }
+        
+        let { text } = result;
+        text = replaceSmartQuotes(text.trim());
+
+        if (isTextPiece(result)) {
+          let { sourceTitle } = result;
+          const { sourceUrl, ...rest } = result;
+          if (sourceTitle) {
+            sourceTitle = replaceSmartQuotes(sourceTitle.trim());
+          }
 
           return {
             ...rest,
             sourceUrl,
-            sourceTitle:
-              sourceTitle !== undefined
-              ? replaceSmartQuotes(sourceTitle)
-              : undefined,
-            text: replaceSmartQuotes(text.trim()),
+            sourceTitle,
+            text,
           };
         }
 
-        return result;
+
+        return {
+          ...result,
+          text,
+        };
       })
       .filter(v => !isPiece(v) || Boolean(v.text))
   );
