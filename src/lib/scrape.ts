@@ -7,6 +7,7 @@ import { isURL } from 'validator';
 
 type Piece = {
   type: 'text' | 'quote' | 'heading' | 'link' | 'emphasis';
+  kind: undefined;
   text: string;
   sourceUrl?: string;
   sourceTitle?: string;
@@ -24,11 +25,17 @@ type StubResult = {
 type Open = {
   type: 'open';
   kind: 'paragraph' | 'quote' | 'heading';
+  text: undefined;
+  sourceUrl: undefined;
+  sourceTitle: undefined;
 };
 
 type Close = {
   type: 'close';
   kind: 'paragraph' | 'quote' | 'heading';
+  text: undefined;
+  sourceUrl: undefined;
+  sourceTitle: undefined;
 };
 
 export function isPiece(obj: Open | Close | Piece): obj is Piece {
@@ -88,7 +95,13 @@ function getPieces($: CheerioStatic, e: CheerioElement) {
   const kind = getKind(e.tagName);
 
   if (isBlock) {
-    content.push({ type: 'open', kind });
+    content.push({
+      type: 'open',
+      kind,
+      text: undefined,
+      sourceTitle: undefined,
+      sourceUrl: undefined,
+    });
   }
 
   e.childNodes.forEach((node) => {
