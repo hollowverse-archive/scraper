@@ -1,16 +1,15 @@
 import * as cheerio from 'cheerio';
 import { URL } from 'url';
 import { replaceSmartQuotes } from './helpers';
-import { last } from 'lodash';
+import { findLastIndex } from 'lodash';
 import { format, parse } from 'date-fns';
 import { isURL } from 'validator';
 
 type Piece = {
-  type: 'sentence' | 'quote' | 'heading';
+  type: 'sentence' | 'quote' | 'heading' | 'link' | 'emphasis';
   text: string;
   sourceUrl?: string;
   sourceTitle?: string;
-  sourceName?: string;
 };
 
 type StubResult = {
@@ -64,58 +63,66 @@ export function isResultWithContent(
   );
 }
 
-function scrapeText($: CheerioStatic, e: CheerioElement) {
-  let text = '';
-  let sourceUrl;
-  let sourceTitle;
-  const content = [];
-  for (const node of e.childNodes) {
-    if (node.type === 'text') {
-      text += node.nodeValue;
-    } else if (node.type === 'tag' && node.tagName === 'sup') {
-      const $sup = $(node);
-      const id = $sup.find('a').attr('href');
+function scrapeText($: CheerioStatic, e: CheerioElement): Piece[] {
+  const pieces: Piece[] = [];
 
+  e.childNodes.forEach((node) => {
+    const $node = $(node);
+    const lastTextNodeIndex = findLastIndex(pieces, { type: 'sentence' });
+
+    if (node.type === 'tag' && node.tagName === 'sup') {
       try {
-        const $a = $.root()
-          .find(id)
-          .find('a:first-of-type');
-
+        const id = $node.find('a').attr('href');
+        const $a = $.root().find(id).find('a:first-of-type');
         const href = $a.attr('href').trim();
-        if (isURL(href, urlValidationOptions)) {
-          sourceUrl = href;
-          sourceTitle = $a.text() || undefined;
+        if (isURL(href, urlValidationOptions) && lastTextNodeIndex >= 0) {
+          pieces[lastTextNodeIndex].sourceUrl = href;
+          pieces[lastTextNodeIndex].sourceTitle = $a.text() || undefined;
         }
-        content.push({ text, sourceUrl, sourceTitle });
-        sourceUrl = undefined;
-        sourceTitle = undefined;
-        text = '';
-        continue;
       } catch (e) {
         // Reference is not formatted correctly, do nothing
       }
+    } else if (node.tagName === 'a') {
+      pieces.push({
+        type: 'link',
+        text: $(node).text(),
+        sourceUrl: $(node).attr('href'),
+      });
+    } else if (['em', 'b', 'i'].includes(node.tagName)) {
+      pieces.push({
+        type: 'emphasis',
+        text: $(node).text(),
+      });
+    } else {
+      const text = node.type === 'text' ? node.nodeValue : $(node).text();
+      if (lastTextNodeIndex >= 0) {
+        pieces[lastTextNodeIndex].text += text;
+      } else {
+        pieces.push({
+          type: 'sentence',
+          text,
+        });
+      }
+      
+      return;
     }
 
-    if (node === last(e.childNodes)) {
-      content.push({ text, sourceUrl, sourceTitle });
-      sourceUrl = undefined;
-      sourceTitle = undefined;
-      text = '';
-    }
-  }
+    pieces.push({ type: 'sentence', text: '' });
+  });
 
   return (
-    content
+    pieces
       // tslint:disable-next-line:no-shadowed-variable
-      .map(({ sourceTitle, sourceUrl, text }) => ({
+      .map(({ sourceTitle, sourceUrl, text, ...rest }) => ({
         sourceUrl,
         sourceTitle:
           sourceTitle !== undefined
             ? replaceSmartQuotes(sourceTitle)
             : undefined,
         text: replaceSmartQuotes(text.trim()),
+        ...rest,
       }))
-      .filter(v => v.text)
+      .filter(v => Boolean(v.text))
   );
 }
 
@@ -203,26 +210,30 @@ export async function scrapeHtml(html: string): Promise<Result> {
   const content: CompleteResult['content'] = [];
 
   $entryContent.find('> p, h2, blockquote').each((_, e) => {
-    const type =
-      e.tagName === 'p'
-        ? 'sentence'
-        : e.tagName === 'blockquote' ? 'quote' : 'heading';
+    let type: Piece['type'];
+    if (e.tagName === 'blockquote') {
+      type = 'quote';
+    } else if (['h1', 'h2', 'h3', 'h4', 'h5', 'h6'].includes(e.tagName)) {
+      type = 'heading';
+    } else {
+      type = 'sentence';
+    }
 
     if (type === 'quote') {
-      $(e)
-        .find('p')
-        .each((__, p) => {
-          scrapeText($, p).forEach(v => {
-            content.push({ type, ...v });
-          });
+      $(e).find('> *').each((__, p) => {
+        scrapeText($, p).forEach(v => {
+          content.push({ ...v, type });
         });
+      });
+    } else if (e.tagName === 'p') {
+      scrapeText($, e).forEach(v => {
+        content.push(v);
+      });
+      content.push({ type: 'break' });
     } else {
       scrapeText($, e).forEach(v => {
-        content.push({ type, ...v });
+        content.push({ ...v, type });
       });
-      if (e.tagName === 'p') {
-        content.push({ type: 'break' });
-      }
     }
   });
 
