@@ -5,7 +5,7 @@ import * as path from 'path';
 import fetch from 'node-fetch';
 import * as ProgressBar from 'progress';
 import { processBatch } from '../lib/processBatch';
-import { readDir, readJsonFile, writeFile, hasKey, glob } from '../lib/helpers';
+import { readDir, readJsonFile, writeFile, glob } from '../lib/helpers';
 import { ResultWithWikipediaData } from './scrape';
 import { WikipediaData } from '../lib/getWikipediaInfo';
 
@@ -62,8 +62,8 @@ async function main({
       path.join(input, resultFile),
     );
     if (
-      hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData') &&
       result.wikipediaData !== undefined &&
+      result.wikipediaData.url !== undefined &&
       result.wikipediaData.image !== undefined
     ) {
       const slug = decodeURI(result.wikipediaData.url).replace(

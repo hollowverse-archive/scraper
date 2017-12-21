@@ -6,7 +6,7 @@ import { format, parse } from 'date-fns';
 import { isURL } from 'validator';
 
 type Piece = {
-  type: 'sentence' | 'quote' | 'heading' | 'link' | 'emphasis';
+  type: 'text' | 'quote' | 'heading' | 'link' | 'emphasis';
   text: string;
   sourceUrl?: string;
   sourceTitle?: string;
@@ -21,12 +21,18 @@ type StubResult = {
   }>;
 };
 
-type Break = {
-  type: 'break';
+type Open = {
+  type: 'open';
+  kind: 'paragraph' | 'quote' | 'heading';
 };
 
-export function isPiece(obj: Break | Piece): obj is Piece {
-  return obj.type !== 'break';
+type Close = {
+  type: 'close';
+  kind: 'paragraph' | 'quote' | 'heading';
+};
+
+export function isPiece(obj: Open | Close | Piece): obj is Piece {
+  return obj.type !== 'open' && obj.type !== 'close';
 }
 
 type CompleteResult = {
@@ -40,7 +46,7 @@ type CompleteResult = {
   lastUpdatedOn?: string;
   religion?: string;
   politicalViews?: string;
-  content: Array<Piece | Break>;
+  content: Array<Piece | Open | Close>;
 };
 
 export type Result = CompleteResult | StubResult;
@@ -53,7 +59,6 @@ const urlValidationOptions = {
   protocols: ['https', 'http'],
 };
 
-
 export function isResultWithContent(
   result: CompleteResult | StubResult,
 ): result is CompleteResult {
@@ -63,43 +68,66 @@ export function isResultWithContent(
   );
 }
 
-function scrapeText($: CheerioStatic, e: CheerioElement): Piece[] {
-  const pieces: Piece[] = [];
+function isBlockElement(tagName: string) {
+  return ['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'div', 'p', 'blockquote'].includes(tagName);
+}
+
+function getKind(tagName: string) {
+  if (['h1', 'h2', 'h3', 'h4', 'h5', 'h6'].includes(tagName)) {
+    return 'heading';
+  } else if (tagName === 'blockquote') {
+    return 'quote';
+  }
+
+  return 'paragraph';
+}
+
+function getPieces($: CheerioStatic, e: CheerioElement) {
+  const content: Array<Piece | Open | Close> = [];
+  const isBlock = isBlockElement(e.tagName);
+  const kind = getKind(e.tagName);
+
+  if (isBlock) {
+    content.push({ type: 'open', kind });
+  }
 
   e.childNodes.forEach((node) => {
     const $node = $(node);
-    const lastTextNodeIndex = findLastIndex(pieces, { type: 'sentence' });
+    const lastTextNodeIndex = findLastIndex(content, { type: 'text' });
+    const lastTextNode = lastTextNodeIndex !== -1 ? content[lastTextNodeIndex] : undefined;
 
     if (node.type === 'tag' && node.tagName === 'sup') {
       try {
         const id = $node.find('a').attr('href');
         const $a = $.root().find(id).find('a:first-of-type');
         const href = $a.attr('href').trim();
-        if (isURL(href, urlValidationOptions) && lastTextNodeIndex >= 0) {
-          pieces[lastTextNodeIndex].sourceUrl = href;
-          pieces[lastTextNodeIndex].sourceTitle = $a.text() || undefined;
+        if (isURL(href, urlValidationOptions) && lastTextNode && isPiece(lastTextNode)) {
+          lastTextNode.sourceUrl = href;
+          lastTextNode.sourceTitle = $a.text() || undefined;
         }
       } catch (e) {
         // Reference is not formatted correctly, do nothing
       }
     } else if (node.tagName === 'a') {
-      pieces.push({
+      content.push({
         type: 'link',
         text: $(node).text(),
         sourceUrl: $(node).attr('href'),
       });
     } else if (['em', 'b', 'i'].includes(node.tagName)) {
-      pieces.push({
+      content.push({
         type: 'emphasis',
         text: $(node).text(),
       });
+    } else if (node.type === 'tag' && node.childNodes.length > 0) {
+      content.push(...getPieces($, node));
     } else {
       const text = node.type === 'text' ? node.nodeValue : $(node).text();
-      if (lastTextNodeIndex >= 0) {
-        pieces[lastTextNodeIndex].text += text;
+      if (lastTextNode && lastTextNodeIndex === content.length - 1 && isPiece(lastTextNode)) {
+        lastTextNode.text += text;
       } else {
-        pieces.push({
-          type: 'sentence',
+        content.push({
+          type: 'text',
           text,
         });
       }
@@ -107,22 +135,34 @@ function scrapeText($: CheerioStatic, e: CheerioElement): Piece[] {
       return;
     }
 
-    pieces.push({ type: 'sentence', text: '' });
+    content.push({ type: 'text', text: '' });
   });
 
+  if (isBlock) {
+    content.push({ type: 'close', kind });
+  }
+
   return (
-    pieces
+    content
       // tslint:disable-next-line:no-shadowed-variable
-      .map(({ sourceTitle, sourceUrl, text, ...rest }) => ({
-        sourceUrl,
-        sourceTitle:
-          sourceTitle !== undefined
-            ? replaceSmartQuotes(sourceTitle)
-            : undefined,
-        text: replaceSmartQuotes(text.trim()),
-        ...rest,
-      }))
-      .filter(v => Boolean(v.text))
+      .map(result => {
+        if (isPiece(result)) {
+          const { sourceTitle, sourceUrl, text, ...rest } = result;
+
+          return {
+            ...rest,
+            sourceUrl,
+            sourceTitle:
+              sourceTitle !== undefined
+              ? replaceSmartQuotes(sourceTitle)
+              : undefined,
+            text: replaceSmartQuotes(text.trim()),
+          };
+        }
+
+        return result;
+      })
+      .filter(v => !isPiece(v) || Boolean(v.text))
   );
 }
 
@@ -209,32 +249,8 @@ export async function scrapeHtml(html: string): Promise<Result> {
 
   const content: CompleteResult['content'] = [];
 
-  $entryContent.find('> p, h2, blockquote').each((_, e) => {
-    let type: Piece['type'];
-    if (e.tagName === 'blockquote') {
-      type = 'quote';
-    } else if (['h1', 'h2', 'h3', 'h4', 'h5', 'h6'].includes(e.tagName)) {
-      type = 'heading';
-    } else {
-      type = 'sentence';
-    }
-
-    if (type === 'quote') {
-      $(e).find('> *').each((__, p) => {
-        scrapeText($, p).forEach(v => {
-          content.push({ ...v, type });
-        });
-      });
-    } else if (e.tagName === 'p') {
-      scrapeText($, e).forEach(v => {
-        content.push(v);
-      });
-      content.push({ type: 'break' });
-    } else {
-      scrapeText($, e).forEach(v => {
-        content.push({ ...v, type });
-      });
-    }
+  $entryContent.find('> p, > h2, > h3, > h4, > h5, > h6, > blockquote').each((_, e) => {
+    content.push(...getPieces($, e));
   });
 
   return {
