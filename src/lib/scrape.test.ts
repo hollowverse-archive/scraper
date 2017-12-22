@@ -1,4 +1,6 @@
-import { scrapeHtml, isResultWithContent, Result, isInlinePiece, hasParent, isBlockPiece } from './scrape';
+// tslint:disable:no-non-null-assertion
+
+import { scrapeHtml, isResultWithContent, Result, hasParent, isBlockPiece } from './scrape';
 import * as path from 'path';
 import * as bluebird from 'bluebird';
 
@@ -63,6 +65,7 @@ describe('works for all post types', async () => {
               if (hasParent(piece)) {
                 const parent = find(result.content, { id: piece.parentId });
                 expect(parent).toBeDefined();
+                expect(isBlockPiece(parent!)).toBe(true);
                 expect(parent).toHaveProperty('id', piece.parentId);
               }
             }
