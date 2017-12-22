@@ -1,8 +1,9 @@
-import { scrapeHtml, isResultWithContent, Result, isInlinePiece } from './scrape';
+import { scrapeHtml, isResultWithContent, Result, isInlinePiece, hasParent, isBlockPiece } from './scrape';
 import * as path from 'path';
 import * as bluebird from 'bluebird';
 
 import { readDir, readFile } from './helpers';
+import { find, uniqBy } from 'lodash';
 
 const types = ['complete', 'incomplete', 'stub'];
 
@@ -46,10 +47,34 @@ describe('works for all post types', async () => {
         for (const { result } of files) {
           if (isResultWithContent(result)) {
             expect(result.content.length).toBeGreaterThan(0);
-            const piece = result.content[0];
-            if (isInlinePiece(piece)) {
-              expect(piece.text.length).toBeGreaterThan(0);
+            const piece = find(result.content, (p) => {
+              return !isBlockPiece(p) && p.text.length > 0;
+            });
+            
+            expect(piece).toBeDefined();
+          }
+        }
+      });
+
+      it('the parent exists for each piece that references a parent', () => {
+        for (const { result } of files) {
+          if (isResultWithContent(result)) {
+            for (const piece of result.content) {
+              if (hasParent(piece)) {
+                const parent = find(result.content, { id: piece.parentId });
+                expect(parent).toBeDefined();
+                expect(parent).toHaveProperty('id', piece.parentId);
+              }
             }
+          }
+        }
+      });
+
+      it('each nested block has a unique ID', () => {
+        for (const { result } of files) {
+          if (isResultWithContent(result)) {
+            const children = result.content.filter(isBlockPiece).filter(hasParent);
+            expect(uniqBy(children, 'id')).toMatchObject(children);
           }
         }
       });

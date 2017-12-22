@@ -53,6 +53,10 @@ export function isInlinePiece(obj: Piece): obj is InlinePiece {
   return 'parentId' in obj && (obj as InlinePiece).parentId !== undefined;
 }
 
+export function hasParent(obj: Piece): obj is InlinePiece {
+  return 'parentId' in obj && (obj as InlinePiece).parentId !== undefined;
+}
+
 type CompleteResult = {
   name: string;
   tags: string[];
@@ -125,15 +129,22 @@ function getPieces(
 ) {
   const content: Piece[] = [];
   const isBlock = isBlockTagName(e.tagName);
-  const kind = getKind(e.tagName);
+  
+  let parentId: number;
 
-  const parentId = getId();
+  if (typeof rootId === 'number') {
+    parentId = rootId;
+  }
+
   if (isBlock) {
+    const kind = getKind(e.tagName);
     const parent: BlockPiece = {
       type: kind,
-      id: parentId,
+      id: getId(),
       parentId: rootId,
     };
+
+    parentId = parent.id;
 
     content.push(parent);
   }
