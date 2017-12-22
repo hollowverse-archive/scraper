@@ -8,7 +8,6 @@ module.exports = {
       validation: 'ignore',
       patterns: [
         '**/__snapshots__/**/*',
-        'downloaded/*.html',
         'fixtures/html/**/*',
         'output/**/*',
         'README.md',

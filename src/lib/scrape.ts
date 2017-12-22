@@ -46,7 +46,7 @@ type StubResult = {
 };
 
 export function isBlockPiece(obj: Piece): obj is BlockPiece {
-  return 'id' in obj && (obj as BlockPiece).id !== undefined;
+  return 'id' in obj;
 }
 
 export function isInlinePiece(obj: Piece): obj is InlinePiece {
@@ -129,7 +129,7 @@ function getPieces(
 ) {
   const content: Piece[] = [];
   const isBlock = isBlockTagName(e.tagName);
-  
+
   let parentId: number;
 
   if (typeof rootId === 'number') {
