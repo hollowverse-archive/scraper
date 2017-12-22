@@ -116,6 +116,7 @@ function getKind(tagName: string) {
   return 'paragraph';
 }
 
+// tslint:disable-next-line:max-func-body-length
 function getPieces(
   $: CheerioStatic,
   e: CheerioElement,

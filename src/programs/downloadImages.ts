@@ -7,7 +7,6 @@ import * as ProgressBar from 'progress';
 import { processBatch } from '../lib/processBatch';
 import { readDir, readJsonFile, writeFile, glob } from '../lib/helpers';
 import { ResultWithWikipediaData } from './scrape';
-import { WikipediaData } from '../lib/getWikipediaInfo';
 
 // tslint:disable no-console
 
