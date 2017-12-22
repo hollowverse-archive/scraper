@@ -45,8 +45,12 @@
     "**/*.js{x,}": [
       "eslint"
     ],
+    "**/*.md": [
+      "prettier --write",
+      "git add"
+    ],
     "**/*.{j,t}s{x,}": [
-      "prettier --write --single-quote --trailing-comma all",
+      "prettier --write",
       "git add"
     ]
   },
