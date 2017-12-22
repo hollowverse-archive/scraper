@@ -1,4 +1,4 @@
-import { scrapeHtml, isResultWithContent, Result, isPiece } from './scrape';
+import { scrapeHtml, isResultWithContent, Result, isInlinePiece } from './scrape';
 import * as path from 'path';
 import * as bluebird from 'bluebird';
 
@@ -47,7 +47,7 @@ describe('works for all post types', async () => {
           if (isResultWithContent(result)) {
             expect(result.content.length).toBeGreaterThan(0);
             const piece = result.content[0];
-            if (isPiece(piece)) {
+            if (isInlinePiece(piece)) {
               expect(piece.text.length).toBeGreaterThan(0);
             }
           }
