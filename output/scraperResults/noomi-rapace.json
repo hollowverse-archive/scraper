@@ -32,108 +32,173 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Noomi Rapace, born Noomi Norén, was born in Hudiksvall, Sweden and grew up there, in  Flúðir, Iceland and in Stockholm, Sweden."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Sweden#Religion",
+      "parentId": 2,
+      "type": "text",
+      "text": "Rapace doesn't appear to be very religious. If she is, she isn't talking about it. Considering she grew up mostly in Sweden, we could assert that, to some extent, she might have been influenced by Lutheranism–or Christianity at the very least.",
       "sourceTitle": "Sweden.",
-      "text": "Rapace doesn't appear to be very religious. If she is, she isn't talking about it. Considering she grew up mostly in Sweden, we could assert that, to some extent, she might have been influenced by Lutheranism–or Christianity at the very least."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Sweden#Religion"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://arts.nationalpost.com/2011/12/13/sherlock-holmes-star-noomi-rapace-on-moving-past-the-girl-with-the-dragon-tattoo/",
+      "parentId": 3,
+      "type": "text",
+      "text": "Rapace has mentioned that her father was a Spanish flamenco dancer, who might have had some Roma (or Gypsy) blood in him.",
       "sourceTitle": "From The Girl With The Dragon Tattoo to Sherlock Holmes: An interview with actress Noomi Rapace",
-      "text": "Rapace has mentioned that her father was a Spanish flamenco dancer, who might have had some Roma (or Gypsy) blood in him."
+      "sourceUrl": "http://arts.nationalpost.com/2011/12/13/sherlock-holmes-star-noomi-rapace-on-moving-past-the-girl-with-the-dragon-tattoo/"
     },
     {
-      "type": "sentence",
-      "text": "Either way, there's most likely some Catholic heritage in there somewhere."
+      "type": "text",
+      "text": "Either way, there's most likely some Catholic heritage in there somewhere.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.examiner.com/review/prometheus-two-jews-on-film-are-miles-apart-on-the-3d-prequel-to-alien",
+      "parentId": 4,
+      "type": "text",
+      "text": "Beyond that, besides playing a hyper-religious scientist in the film,"
+    },
+    {
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "Prometheus"
+    },
+    {
+      "type": "text",
+      "text": ",",
+      "parentId": 4,
       "sourceTitle": "'Prometheus,' 'Two Jews On Film' Are Miles Apart On The 3D Prequel To 'Alien.'",
-      "text": "Beyond that, besides playing a hyper-religious scientist in the film, ,"
+      "sourceUrl": "http://www.examiner.com/review/prometheus-two-jews-on-film-are-miles-apart-on-the-3d-prequel-to-alien"
     },
     {
-      "type": "sentence",
-      "text": "Rapace is religiously unconnected."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Rapace is religiously unconnected.",
+      "parentId": 4
     },
     {
       "type": "heading",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Just everything needs a good shaking"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0636426/bio",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Rapace's politics are sort of punk–and that's not just because she once aspired to be a punk singer.",
       "sourceTitle": "Noomi Rapace – Biography",
-      "text": "Rapace's politics are sort of punk–and that's not just because she once aspired to be a punk singer."
+      "sourceUrl": "http://www.imdb.com/name/nm0636426/bio"
     },
     {
-      "type": "sentence",
-      "text": "No, she just has this kind of fuck-it-all attitude. She once said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "No, she just has this kind of fuck-it-all attitude. She once said:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/culture/8941105/Noomi-Rapace-I-Want-to-Fight-Like-the-Guys.html",
-      "sourceTitle": "Noomi Rapace: 'I Want To Fight Like The Guys.'",
-      "text": "When I was a teenager I looked at the conventional, bourgeois people around me and I was like, 'Your lives are so boring, your smiles are so dead and I don't want to be like you ever.'"
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "When I was a teenager I looked at the conventional, bourgeois people around me and I was like, 'Your lives are so boring, your smiles are so dead and I don't want to be like you ever.'",
+      "sourceTitle": "Noomi Rapace: 'I Want To Fight Like The Guys.'",
+      "sourceUrl": "http://www.telegraph.co.uk/culture/8941105/Noomi-Rapace-I-Want-to-Fight-Like-the-Guys.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "And at times, she sounds like a radical feminist:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/culture/8941105/Noomi-Rapace-I-Want-to-Fight-Like-the-Guys.html",
-      "sourceTitle": "Noomi Rapace: 'I Want To Fight Like The Guys.'",
-      "text": "The pressure on young girls to be feminine – to be pretty and non-confrontational and laugh at boys' jokes – is a prison, an emotional prison."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "The pressure on young girls to be feminine – to be pretty and non-confrontational and laugh at boys' jokes – is a prison, an emotional prison.",
+      "sourceTitle": "Noomi Rapace: 'I Want To Fight Like The Guys.'",
+      "sourceUrl": "http://www.telegraph.co.uk/culture/8941105/Noomi-Rapace-I-Want-to-Fight-Like-the-Guys.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "It's a worldview of an artist looking desperately to be different and unique–possibly a rejection of Sweden's homogenous, heavily regulated society. And her comments on her home country seem to confirm this–at times her comments are reminiscent of her motherland's only other Hollywood export that I know of–Dolph Lundgren. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/n/noomi_rapace.html?vm=l",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "In Sweden everybody has this perfect surface. Everyone's very polite and controls their feelings.",
       "sourceTitle": "Noomi Rapace Quotes",
-      "text": "In Sweden everybody has this perfect surface. Everyone's very polite and controls their feelings."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/n/noomi_rapace.html?vm=l"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/n/noomi_rapace.html?vm=l",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I don't think she meant that as a compliment. Furthermore, she has criticized Sweden's film industry for, in a way, being uncreative.",
       "sourceTitle": "Noomi Rapace Quotes",
-      "text": "I don't think she meant that as a compliment. Furthermore, she has criticized Sweden's film industry for, in a way, being uncreative."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/n/noomi_rapace.html?vm=l"
     },
     {
-      "type": "sentence",
-      "text": "Ultimately, Rapace seems to be rebellious, dark, artistic and not traditionally political, but certainly socially aware."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Ultimately, Rapace seems to be rebellious, dark, artistic and not traditionally political, but certainly socially aware.",
+      "parentId": 15
     }
   ],
   "wikipediaData": {

@@ -32,127 +32,172 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Helena Bonham Carter was born and raised in London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Bonham Carter's heritage is a fascinating mix of religious diversity and political/economic power. Her mother hails from a Jewish Austrian family and her father from a part Catholic, part Jewish family. Her paternal grandfather was a Spanish diplomat during World War II, who helped thousands of French Jews escape Nazi occupiers. She relates a family story:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.jewishjournal.com/hollywood_jew/article/helena_bonham_carter_jewish_mother_20080730",
-      "sourceTitle": "Helena Bonham Carter – Jewish Mother?",
-      "text": "My mother, who was 5 at the time, said he at one point was stamping [exit] documents with both hands. She thought it was the most important thing he ever did in his life."
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewishjournal.com/hollywood_jew/article/helena_bonham_carter_jewish_mother_20080730",
-      "sourceTitle": "Helena Bonham Carter – Jewish Mother?",
-      "text": "However, her grandmother, for reasons unknown to Bonham Carter, made a pact to convert to Catholicism if everyone in her family survived World War II,"
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pc/Helena_Bonham_Carter.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "My mother, who was 5 at the time, said he at one point was stamping [exit] documents with both hands. She thought it was the most important thing he ever did in his life.",
+      "sourceTitle": "Helena Bonham Carter – Jewish Mother?",
+      "sourceUrl": "http://www.jewishjournal.com/hollywood_jew/article/helena_bonham_carter_jewish_mother_20080730"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "However, her grandmother, for reasons unknown to Bonham Carter, made a pact to convert to Catholicism if everyone in her family survived World War II,",
+      "sourceTitle": "Helena Bonham Carter – Jewish Mother?",
+      "sourceUrl": "http://www.jewishjournal.com/hollywood_jew/article/helena_bonham_carter_jewish_mother_20080730"
+    },
+    {
+      "type": "text",
+      "text": "which they apparently did, because now Helena considers herself a \"Jewish Catholic.\"",
+      "parentId": 5,
       "sourceTitle": "The religion of Helena Bonham Carter, actress",
-      "text": "which they apparently did, because now Helena considers herself a \"Jewish Catholic.\""
+      "sourceUrl": "http://www.adherents.com/people/pc/Helena_Bonham_Carter.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewishjournal.com/hollywood_jew/article/helena_bonham_carter_jewish_mother_20080730",
+      "parentId": 6,
+      "type": "text",
+      "text": "However, she admits that her upbringing was not very religious, despite being brought up in a heavily-Jewish neighborhood.",
       "sourceTitle": "Helena Bonham Carter – Jewish Mother?",
-      "text": "However, she admits that her upbringing was not very religious, despite being brought up in a heavily-Jewish neighborhood."
+      "sourceUrl": "http://www.jewishjournal.com/hollywood_jew/article/helena_bonham_carter_jewish_mother_20080730"
     },
     {
-      "type": "sentence",
-      "text": "In the end, one gets the sense that religion for Bonham Carter is a family curiosity, rather than an influential factor in her worldview."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "In the end, one gets the sense that religion for Bonham Carter is a family curiosity, rather than an influential factor in her worldview.",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Family Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000307/bio",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Again, Bonham Carter's involvement in politics has much to do with her friends and relatives. Her great-grandfather, H.H. Asquith, was the Prime Minister of England from 1908 to 1916,",
       "sourceTitle": "Helena Bonham Carter – Biography",
-      "text": "Again, Bonham Carter's involvement in politics has much to do with her friends and relatives. Her great-grandfather, H.H. Asquith, was the Prime Minister of England from 1908 to 1916,"
+      "sourceUrl": "http://www.imdb.com/name/nm0000307/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.co.uk/2012/04/23/david-cameron-conservative-bonham-carter_n_1445118.html",
+      "type": "text",
+      "text": "her cousin, Jane Bonham Carter is a politician in the Liberal Democrat Party of England, and she's friends with England's current Conservative Prime Minister David Cameron.",
+      "parentId": 8,
       "sourceTitle": "Helena Bonham Carter: David Cameron 'Not Very Conservative.'",
-      "text": "her cousin, Jane Bonham Carter is a politician in the Liberal Democrat Party of England, and she's friends with England's current Conservative Prime Minister David Cameron."
+      "sourceUrl": "http://www.huffingtonpost.co.uk/2012/04/23/david-cameron-conservative-bonham-carter_n_1445118.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "In fact, Bonham Carter's relationship with Cameron calls into question her overall political views. Is she a Tory, or are they friends who just don't discuss politics? Perhaps the real, behind-the-scenes Cameron does agree with Bonham Carter's views. She said that Cameron is \"not that Conservative, actually\" and added:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.co.uk/2012/04/23/david-cameron-conservative-bonham-carter_n_1445118.html",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I mean, he's not a right-wing person. If he was in America, he'd be a Democrat.",
       "sourceTitle": "Helena Bonham Carter: David Cameron 'Not Very Conservative.'",
-      "text": "I mean, he's not a right-wing person. If he was in America, he'd be a Democrat."
+      "sourceUrl": "http://www.huffingtonpost.co.uk/2012/04/23/david-cameron-conservative-bonham-carter_n_1445118.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/politics/2011/feb/15/firth-bonham-carter-av-yes",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Bonham Carter supported a Liberal Democrat-Conservative Party coalition initiative to institute an \"alternative voting\" system in the UK where voters would rank preferred candidates numerically.",
       "sourceTitle": "Colin Firth and Helena Bonham Carter back AV yes campaign",
-      "text": "Bonham Carter supported a Liberal Democrat-Conservative Party coalition initiative to institute an \"alternative voting\" system in the UK where voters would rank preferred candidates numerically."
+      "sourceUrl": "http://www.guardian.co.uk/politics/2011/feb/15/firth-bonham-carter-av-yes"
     },
     {
-      "type": "sentence",
-      "text": "But she has personal connections to both parties, plus it's an interesting idea, so it all amounts to a bit of mystery regarding Bonham Carter's socio-political worldview."
+      "type": "text",
+      "text": "But she has personal connections to both parties, plus it's an interesting idea, so it all amounts to a bit of mystery regarding Bonham Carter's socio-political worldview.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "She doesn't seem to be overtly concerned with environmentalism, gay marriage, or any other hot button issue. But who knows? If we've missed something, let us know."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Helena_Bonham_Carter",
     "title": "Helena Bonham Carter",
     "image": {
-      "name": "Helena_Bonham_Carter_(Berlin_Film_Festival_2011)_3_cropped.jpg",
+      "name": "Helena_Bonham_Carter_2011_AA.jpg",
       "info": {
-        "canonicaltitle": "File:Helena Bonham Carter (Berlin Film Festival 2011) 3 cropped.jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Helena_Bonham_Carter_%28Berlin_Film_Festival_2011%29_3_cropped.jpg/177px-Helena_Bonham_Carter_%28Berlin_Film_Festival_2011%29_3_cropped.jpg",
-        "thumbwidth": 177,
+        "canonicaltitle": "File:Helena Bonham Carter 2011 AA.jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Helena_Bonham_Carter_2011_AA.jpg/295px-Helena_Bonham_Carter_2011_AA.jpg",
+        "thumbwidth": 295,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Helena_Bonham_Carter_%28Berlin_Film_Festival_2011%29_3_cropped.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Helena_Bonham_Carter_(Berlin_Film_Festival_2011)_3_cropped.jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15638734",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Helena_Bonham_Carter_2011_AA.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Helena_Bonham_Carter_2011_AA.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15973288",
         "extmetadata": {
           "DateTime": {
-            "value": "2011-06-27 20:31:06",
+            "value": "2011-11-22 01:07:06",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "Helena Bonham Carter (Berlin Film Festival 2011) 3 cropped",
+            "value": "Helena Bonham Carter 2011 AA",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -162,7 +207,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "2011 Berlin Film Festival|Helena Bonham Carter|Images with extracted images|Ipernity images reviewed by trusted users|Photographs by Thore Siebrands|Retouched pictures|Self-published work|Uploaded with derivativeFX",
+            "value": "2011 Academy Awards|Helena Bonham Carter|Items with OTRS permission confirmed|Self-published work",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -172,29 +217,34 @@
             "hidden": ""
           },
           "ImageDescription": {
-            "value": "Helena Bonham Carter at the press conference of \"Toast\".",
+            "value": "Actress <a href=\"https://en.wikipedia.org/wiki/Helena_Bonham_Carter\" class=\"extiw\" title=\"en:Helena Bonham Carter\">Helena Bonham Carter</a> at the 83rd Academy Awards.",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "2011-06-27 20:30",
+            "value": "2011-02-27",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<ul>\n<li><a href=\"//commons.wikimedia.org/wiki/File:Helena_Bonham_Carter_(Berlin_Film_Festival_2011)_3.jpg\" title=\"File:Helena Bonham Carter (Berlin Film Festival 2011) 3.jpg\">Helena_Bonham_Carter_(Berlin_Film_Festival_2011)_3.jpg</a></li>\n</ul>",
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.flickr.com/photos/viatorci/5492386466/in/set-72157626053872271/\">http://www.flickr.com/photos/viatorci/5492386466/in/set-72157626053872271/</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "<ul>\n<li>\n<a href=\"//commons.wikimedia.org/wiki/File:Helena_Bonham_Carter_(Berlin_Film_Festival_2011)_3.jpg\" title=\"File:Helena Bonham Carter (Berlin Film Festival 2011) 3.jpg\">Helena_Bonham_Carter_(Berlin_Film_Festival_2011)_3.jpg</a>: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.ipernity.com/home/siebbi\">Siebbi</a>\n</li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:C%C3%A9sar\" title=\"User:César\">César</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:C%C3%A9sar\" title=\"User talk:César\"><span class=\"signature-talk\">talk</span></a>)</li>\n</ul>",
+            "value": "David Torcivia at <a rel=\"nofollow\" class=\"external free\" href=\"http://www.flickr.com/photos/viatorci/\">http://www.flickr.com/photos/viatorci/</a>",
             "source": "commons-desc-page"
           },
+          "Permission": {
+            "value": "<table class=\"messagebox layouttemplate\" style=\"margin:0.3em 0;width:100%;direction:ltr\"><tr>\n<td width=\"70\">\n<img alt=\"OTRS Wikimedia\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/70px-OTRS_Wikimedia.svg.png\" title=\"OTRS Wikimedia\" width=\"70\" height=\"38\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/105px-OTRS_Wikimedia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/140px-OTRS_Wikimedia.svg.png 2x\" data-file-width=\"120\" data-file-height=\"65\"><p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionOTRS 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2011080210015301 2%3D2011080210015301\"> </span></p>\n</td>\n<td>\n<span lang=\"en\" class=\"description en\">This work is <a href=\"http://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.</span>\n<p><span lang=\"en\" class=\"description en\">Wikimedia has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;\" title=\"transparent\">reviewed</span></b> by an <a href=\"//commons.wikimedia.org/wiki/Category:Commons_OTRS_volunteers\" title=\"Category:Commons OTRS volunteers\">OTRS member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:OTRS\" title=\"Commons:OTRS\">permission archive</a>. The correspondence is available to trusted volunteers <span class=\"plainlinksneverexpand\">as <b><a class=\"external text\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2011080210015301\">ticket #2011080210015301</a></b></span>.</span></p>\n<p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:OTRS/Noticeboard\" title=\"Commons:OTRS/Noticeboard\">OTRS noticeboard</a>.</small><br><small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2011080210015301\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2011080210015301</a></small> <span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2011080210015301\"></span></p>\n</td>\n</tr></table>\n<span class=\"autoconfonly\" id=\"otrstemplatewr\" style=\"display:none;\"></span>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
           "LicenseShortName": {
-            "value": "CC BY 3.0",
+            "value": "CC BY-SA 3.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "UsageTerms": {
-            "value": "Creative Commons Attribution 3.0",
+            "value": "Creative Commons Attribution-Share Alike 3.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -203,8 +253,13 @@
             "source": "commons-desc-page",
             "hidden": ""
           },
+          "Attribution": {
+            "value": "David Torcivia",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
           "LicenseUrl": {
-            "value": "http://creativecommons.org/licenses/by/3.0",
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -219,7 +274,7 @@
             "hidden": ""
           },
           "License": {
-            "value": "cc-by-3.0",
+            "value": "cc-by-sa-3.0",
             "source": "commons-templates",
             "hidden": ""
           }

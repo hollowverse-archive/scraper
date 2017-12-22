@@ -35,96 +35,179 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/film/2009/jan/24/james-franco-interview-milk",
+      "parentId": 1,
+      "type": "text",
+      "text": "James Franco was born and raised in Palo Alto, California."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Franco's upbringing was largely non-religious. It has been described as \"academic, liberal and largely secular.\"",
       "sourceTitle": "Amy Raphael interviews James Franco",
-      "text": "Franco's upbringing was largely non-religious. It has been described as \"academic, liberal and largely secular.\""
+      "sourceUrl": "http://www.guardian.co.uk/film/2009/jan/24/james-franco-interview-milk"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://prabandhasree.blogspot.com/2012/02/biography-for-james-franco.html",
+      "type": "text",
+      "text": "But Judaism runs deep in Franco, though only on his mother's side. His grandmother was, at one time, a member of the National Council of Jewish Women,",
+      "parentId": 2,
       "sourceTitle": "Biography for James Franco",
-      "text": "But Judaism runs deep in Franco, though only on his mother's side. His grandmother was, at one time, a member of the National Council of Jewish Women,"
+      "sourceUrl": "http://prabandhasree.blogspot.com/2012/02/biography-for-james-franco.html"
     },
     {
-      "type": "sentence",
-      "text": "an oft-described feminist organization dedicated to social justice for Jews and women."
+      "type": "text",
+      "text": "an oft-described feminist organization dedicated to social justice for Jews and women.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "However, Franco seems to regret his secular upbringing, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/film/2009/jan/24/james-franco-interview-milk",
-      "sourceTitle": "Amy Raphael interviews James Franco",
-      "text": "I do feel like I missed out on the Jewish experience. My Jewish friends tell me not to worry… but I like the idea of religion as a source of community."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I do feel like I missed out on the Jewish experience. My Jewish friends tell me not to worry… but I like the idea of religion as a source of community.",
+      "sourceTitle": "Amy Raphael interviews James Franco",
+      "sourceUrl": "http://www.guardian.co.uk/film/2009/jan/24/james-franco-interview-milk"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Regarding his own spiritual views, Franco is vague and expresses a sort of agnosticism, but a light agnosticism, one that probably believes in God in some form or another. Really, he's just unsure. He said when asked if he is a believer:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/film/2009/jan/24/james-franco-interview-milk",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "In God? I don't know. Yes. To a certain extent. It's a complicated question.",
       "sourceTitle": "Amy Raphael interviews James Franco",
-      "text": "In God? I don't know. Yes. To a certain extent. It's a complicated question."
+      "sourceUrl": "http://www.guardian.co.uk/film/2009/jan/24/james-franco-interview-milk"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Freaks and Geeks–sounds like politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Franco has not explicitly made any political statements, endorsements, or taken any political positions that I can find. If you've got something, let me know in the comments."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.metro.co.uk/showbiz/858194-james-franco-barack-obama-gave-me-advice",
+      "parentId": 12,
+      "type": "text",
+      "text": "But it seems reasonable to assume that Franco's a liberal. First of all, his upbringing was \"academic, liberal, and largely secular.\" Second of all, he's buddy-buddy enough with Obama to have taken career advice from him. Apparently, Franco asked the president how he dealt with criticism. Obama responded: \"Humor, basically.\"",
       "sourceTitle": "James Franco: Barack Obama gave me advice",
-      "text": "But it seems reasonable to assume that Franco's a liberal. First of all, his upbringing was \"academic, liberal, and largely secular.\" Second of all, he's buddy-buddy enough with Obama to have taken career advice from him. Apparently, Franco asked the president how he dealt with criticism. Obama responded: \"Humor, basically.\""
+      "sourceUrl": "http://www.metro.co.uk/showbiz/858194-james-franco-barack-obama-gave-me-advice"
     },
     {
-      "type": "sentence",
-      "text": "The advice inspired Franco to make this , where he alludes to long-running jokes about him in the media."
+      "type": "text",
+      "text": "The advice inspired Franco to make this",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "parentId": 12,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.funnyordie.com/videos/ab25302c8e/james-franco-s-rejected-ucla-commencement-speech"
     },
     {
-      "type": "sentence",
-      "text": "Then, if you start analyzing the films Franco has done, it seems pretty far-left. He played a weed-crazy stoner in  and in three films, he's played a gay man. When critics started asking if Franco was perhaps himself gay, he responded with this:"
+      "type": "text",
+      "text": ", where he alludes to long-running jokes about him in the media.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Then, if you start analyzing the films Franco has done, it seems pretty far-left. He played a weed-crazy stoner in"
+    },
+    {
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "Pineapple Express"
+    },
+    {
+      "type": "text",
+      "text": "and in three films, he's played a gay man. When critics started asking if Franco was perhaps himself gay, he responded with this:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.thefrisky.com/2011-01-06/james-franco-maybe-im-gay/",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "It's funny because the way that kind of stuff is talked about on blogs is so black-and-white. It's all cut-and-dry identity politics… Part of what I'm interested in is how these people who were living anti-normative lifestyles contended with opposition. Or, you know what, maybe I'm just gay.",
       "sourceTitle": "James Franco: \"Maybe I'm Gay.",
-      "text": "It's funny because the way that kind of stuff is talked about on blogs is so black-and-white. It's all cut-and-dry identity politics… Part of what I'm interested in is how these people who were living anti-normative lifestyles contended with opposition. Or, you know what, maybe I'm just gay."
+      "sourceUrl": "http://www.thefrisky.com/2011-01-06/james-franco-maybe-im-gay/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Either way, Franco seems to have no problems with gay people. So, I guess he's a liberal?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

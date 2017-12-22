@@ -35,83 +35,114 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Anna Nicole Smith, whose given name was Vickie Lynn Hogan and married to become Vickie Lynn Marshall, was born in Houston, Texas and grew up there and in Mexia, Texas. She died of an accidental drug overdose in 2007 in Hollywood, Florida."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://marriage.about.com/od/entertainmen1/p/annasmith.htm",
+      "parentId": 2,
+      "type": "text",
+      "text": "There's not much to go on regarding Smith's religious upbringing. It seems reasonable to assume that she was raised at least marginally religious because religion came through as an adult. And if we were to continue to speculate, it would seem that she was a Baptist given that her commitment ceremony (not marriage, mind you) to Howard K. Stern was officiated by a Baptist minister",
       "sourceTitle": "The Marriages of Anna Nicole Smith",
-      "text": "There's not much to go on regarding Smith's religious upbringing. It seems reasonable to assume that she was raised at least marginally religious because religion came through as an adult. And if we were to continue to speculate, it would seem that she was a Baptist given that her commitment ceremony (not marriage, mind you) to Howard K. Stern was officiated by a Baptist minister"
+      "sourceUrl": "http://marriage.about.com/od/entertainmen1/p/annasmith.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://allwomenstalk.com/saying-goodbye-to-anna-nicole-smith/",
+      "type": "text",
+      "text": "and her funeral was held at Mount Horeb Baptist Church in the Bahamas.",
+      "parentId": 2,
       "sourceTitle": "Saying Goodbye to Anna Nicole Smith",
-      "text": "and her funeral was held at Mount Horeb Baptist Church in the Bahamas."
+      "sourceUrl": "http://allwomenstalk.com/saying-goodbye-to-anna-nicole-smith/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Smith publicly proclaimed her devotion to Christianity at a post-Oscar Awards interview in 1999, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=TVILZlvc-pE",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Jesus is my Lord and Savior and will always be. And I pray everyday. And I pray tonight that He will have his angles by me, that I will have my guardian angels. And they've been by me all night long. So amen to that and amen to the Lord.",
       "sourceTitle": "Anna Nicole Smith – Jesus Christ is my Lord and Savior!",
-      "text": "Jesus is my Lord and Savior and will always be. And I pray everyday. And I pray tonight that He will have his angles by me, that I will have my guardian angels. And they've been by me all night long. So amen to that and amen to the Lord."
+      "sourceUrl": "http://www.youtube.com/watch?v=TVILZlvc-pE"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.contactmusic.com/news/anna-nicole-found-comfort-in-judaism_1064435",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "However, it was reported by Smith's former stylists that shortly before her death, Smith became interested in Judaism and even practiced the Jewish mourning ceremony of covering up all the mirrors in her home after the death of her son.",
       "sourceTitle": "Anna Nicole Smith Found Comfort in Judaism",
-      "text": "However, it was reported by Smith's former stylists that shortly before her death, Smith became interested in Judaism and even practiced the Jewish mourning ceremony of covering up all the mirrors in her home after the death of her son."
+      "sourceUrl": "http://www.contactmusic.com/news/anna-nicole-found-comfort-in-judaism_1064435"
     },
     {
-      "type": "sentence",
-      "text": "However, she never officially converted to that faith, so we'll just go with Baptist Christian for now."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "However, she never officially converted to that faith, so we'll just go with Baptist Christian for now.",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Politics vs. Anna Nicole Smith"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000645/bio",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Smith wasn't a particularly political person. She was mostly too busy dealing with drug addiction, children's deaths, and the estates of billionaires to which she was married for one year.",
       "sourceTitle": "Anna Nicole Smith – Biography",
-      "text": "Smith wasn't a particularly political person. She was mostly too busy dealing with drug addiction, children's deaths, and the estates of billionaires to which she was married for one year."
+      "sourceUrl": "http://www.imdb.com/name/nm0000645/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000645/bio",
+      "parentId": 9,
+      "type": "text",
+      "text": "But she was a longtime supporter of gay rights, speaking in their favor and attending pride parades.",
       "sourceTitle": "Anna Nicole Smith – Biography",
-      "text": "But she was a longtime supporter of gay rights, speaking in their favor and attending pride parades."
+      "sourceUrl": "http://www.imdb.com/name/nm0000645/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.popmatters.com/pm/article/anna-nicole-smith-found-to-overwhelm-iraq-war-coverage/",
+      "parentId": 10,
+      "type": "text",
+      "text": "The most political controversy that ever found Smith was after she died and journalists shifted their focus away from the U.S. War in Iraq and to her death, causing some finger-wagging as to America's priorities.",
       "sourceTitle": "Anna Nicole Smith found to overwhelm Iraq War Coverage",
-      "text": "The most political controversy that ever found Smith was after she died and journalists shifted their focus away from the U.S. War in Iraq and to her death, causing some finger-wagging as to America's priorities."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.popmatters.com/pm/article/anna-nicole-smith-found-to-overwhelm-iraq-war-coverage/"
     }
   ],
   "wikipediaData": {

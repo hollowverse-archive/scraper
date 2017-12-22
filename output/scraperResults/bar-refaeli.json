@@ -33,111 +33,168 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Bar Refaeli was born and raised in Hod HaSharon, Israel."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "As would be expected of an Israeli, Refaeli is Jewish. She doesn't talk about her faith very much, so it's possible she isn't very devout."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.haaretz.com/news/jewish-extremists-to-model-bar-refaeli-don-t-marry-dicaprio-1.266457",
+      "parentId": 3,
+      "type": "text",
+      "text": "Regardless, we know she's not traditional enough to avoid dating non-Jews. During her relationship with actor Leonardo DiCaprio, she was urged by a far-right Jewish group not to dilute the race by marrying him.",
       "sourceTitle": "Jewish extremists to model Bar Refaeli: Don't marry DiCaprio.",
-      "text": "Regardless, we know she's not traditional enough to avoid dating non-Jews. During her relationship with actor Leonardo DiCaprio, she was urged by a far-right Jewish group not to dilute the race by marrying him."
+      "sourceUrl": "http://www.haaretz.com/news/jewish-extremists-to-model-bar-refaeli-don-t-marry-dicaprio-1.266457"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.eonline.com/news/241466/leonardo-dicaprio-and-bar-refaeli-split-again",
+      "type": "text",
+      "text": "That didn't seem to bother her, though. She dated him on and off for another year, and rumor has it, she wanted to get married.",
+      "parentId": 3,
       "sourceTitle": "Leonardo Dicaprio And Bar Refaeli Split Again.",
-      "text": "That didn't seem to bother her, though. She dated him on and off for another year, and rumor has it, she wanted to get married."
+      "sourceUrl": "http://www.eonline.com/news/241466/leonardo-dicaprio-and-bar-refaeli-split-again"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "text": "The folks over at the website  seem to think her Jewness shouldn't be in question however. They give her a 12 out of 15 score with the explanation:"
+      "parentId": 4,
+      "type": "text",
+      "text": "The folks over at the website"
     },
     {
-      "type": "break"
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "Jew or Not Jew"
+    },
+    {
+      "type": "text",
+      "text": "seem to think her Jewness shouldn't be in question however. They give her a 12 out of 15 score with the explanation:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=263",
-      "sourceTitle": "Bar Refaeli.",
-      "text": "Sometimes, words are just not necessary."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Sometimes, words are just not necessary.",
+      "sourceTitle": "Bar Refaeli.",
+      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=263"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Fair enough. Shall we move on?"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "In the end, it's all about Bar"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Refaeli's relationship with the country of her birth is tenuous at best. It started when she married an acquaintance to avoid mandatory military service and got divorced shortly thereafter. She is unapologetic. She had things she needed to do and service would have seriously gotten in the way:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://articles.nydailynews.com/2011-05-05/gossip/29530134_1_bar-refaeli-israeli-model-israeli-fashion",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I don't regret not enlisting, because it paid off big time. That's just the way it is, celebrities have other needs. I hope my case has influenced the army.",
       "sourceTitle": "Bar Refaeli topless in GQ Italia's military-themed issue: Israeli model once labeled a draft-dodger.",
-      "text": "I don't regret not enlisting, because it paid off big time. That's just the way it is, celebrities have other needs. I hope my case has influenced the army."
+      "sourceUrl": "http://articles.nydailynews.com/2011-05-05/gossip/29530134_1_bar-refaeli-israeli-model-israeli-fashion"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/middleeast/israel/6990227/Israeli-army-calls-for-boycott-over-models-refusal-to-serve.html",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "It's unclear exactly what message she was trying to send to the army, but a senior office in the military was influenced enough to call for a boycott of products associated with the model.",
       "sourceTitle": "Israeli army calls for boycott over model's refusal to serve.",
-      "text": "It's unclear exactly what message she was trying to send to the army, but a senior office in the military was influenced enough to call for a boycott of products associated with the model."
+      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/middleeast/israel/6990227/Israeli-army-calls-for-boycott-over-models-refusal-to-serve.html"
     },
     {
-      "type": "sentence",
-      "text": "I'm guessing that's not what she had in mind."
+      "type": "text",
+      "text": "I'm guessing that's not what she had in mind.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ynetnews.com/articles/0,7340,L-3455802,00.html",
+      "parentId": 13,
+      "type": "text",
+      "text": "It didn't help her case that she said she was moving to Los Angeles because the paparazzi in Israel were too aggressive, and she would never bring her famous friends to her home country again.",
       "sourceTitle": "'Dodging IDF paid off big time.'",
-      "text": "It didn't help her case that she said she was moving to Los Angeles because the paparazzi in Israel were too aggressive, and she would never bring her famous friends to her home country again."
+      "sourceUrl": "http://www.ynetnews.com/articles/0,7340,L-3455802,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/middleeast/israel/6990227/Israeli-army-calls-for-boycott-over-models-refusal-to-serve.html",
+      "type": "text",
+      "text": "And then she applied for non-resident status so she could pay fewer taxes.",
+      "parentId": 13,
       "sourceTitle": "Israeli army calls for boycott over model's refusal to serve.",
-      "text": "And then she applied for non-resident status so she could pay fewer taxes."
+      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/middleeast/israel/6990227/Israeli-army-calls-for-boycott-over-models-refusal-to-serve.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://lovebarrefaeli.com/photoalbum/2009-2/2009-candids/washington-dc-with-leo/",
+      "parentId": 14,
+      "type": "text",
+      "text": "She doesn't have anything to say about the Israeli-Palestinian conflict or politics in the middle east. She attended Barack Obama's inauguration in 2008,",
       "sourceTitle": "Inauguration for Barack Obama.",
-      "text": "She doesn't have anything to say about the Israeli-Palestinian conflict or politics in the middle east. She attended Barack Obama's inauguration in 2008,"
+      "sourceUrl": "http://lovebarrefaeli.com/photoalbum/2009-2/2009-candids/washington-dc-with-leo/"
     },
     {
-      "type": "sentence",
-      "text": "so maybe by U.S. standards she'd be a Democrat. But then there's the taxes thing. My guess is that Refaeli doesn't think that much about religion or politics, and just does what will benefit her the most."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "so maybe by U.S. standards she'd be a Democrat. But then there's the taxes thing. My guess is that Refaeli doesn't think that much about religion or politics, and just does what will benefit her the most.",
+      "parentId": 14
     }
   ],
   "wikipediaData": {
@@ -188,12 +245,12 @@
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/getnoticed_de/5962858873/\">Bar Refaeli</a>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/getnoticed_de/5962858873/\">Bar Refaeli</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/people/94021271@N00/\">Nadja Amireh</a><br><a rel=\"nofollow\" class=\"external free\" href=\"http://www.getnoticed.de/\">http://www.getnoticed.de/</a><br>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/94021271@N00/\">Nadja Amireh</a><br><a rel=\"nofollow\" class=\"external free\" href=\"http://www.getnoticed.de/\">http://www.getnoticed.de/</a><br>",
             "source": "commons-desc-page"
           },
           "LicenseShortName": {

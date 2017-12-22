@@ -33,102 +33,147 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ray Allen was born on an air force base near Merced, California. As a military kid, he moved around frequently in his childhood, living in England, Germany, California, Oklahoma, and South Carolina."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chacha.com/question/what-is-ray-allen",
+      "parentId": 2,
+      "type": "text",
+      "text": "I found two pieces of information about Allen's religious preferences. One site is quite confident he's Baptist,",
       "sourceTitle": "What is Ray Allen's religion?",
-      "text": "I found two pieces of information about Allen's religious preferences. One site is quite confident he's Baptist,"
+      "sourceUrl": "http://www.chacha.com/question/what-is-ray-allen"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.askkids.com/BlackHistoryFAQ/ray_allen.html#8",
+      "type": "text",
+      "text": "and another was quite sure his religion is Basketballism.",
+      "parentId": 2,
       "sourceTitle": "ray allen FAQ.",
-      "text": "and another was quite sure his religion is Basketballism."
+      "sourceUrl": "http://www.askkids.com/BlackHistoryFAQ/ray_allen.html#8"
     },
     {
-      "type": "sentence",
-      "text": "Both sites are grossly unreliable."
+      "type": "text",
+      "text": "Both sites are grossly unreliable.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "All right, so where does that leave us? Exactly nowhere. Maybe it's telling that he wasn't too bothered by a couple of Christian nicknames bestowed on him by fans. After he played a character named \"Jesus Shuttlesworth\" in a movie, his Celtics fans started calling him Jesus. But when he left the team for the Miami Heat, they started calling him Judas. In response, Allen said he sympathized with the fans' anger and took it all in stride:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://global.christianpost.com/news/ray-allen-reacts-to-going-from-jesus-to-judas-for-leaving-boston-78138/",
-      "sourceTitle": "Ray Allen Reacts to Going From 'Jesus' to 'Judas' for Leaving Boston.",
-      "text": "It doesn't bother me. I know who I am. I know what my goals and tasks are; to raise my kids to be respectable people in this world and to make this team better."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "It doesn't bother me. I know who I am. I know what my goals and tasks are; to raise my kids to be respectable people in this world and to make this team better.",
+      "sourceTitle": "Ray Allen Reacts to Going From 'Jesus' to 'Judas' for Leaving Boston.",
+      "sourceUrl": "http://global.christianpost.com/news/ray-allen-reacts-to-going-from-jesus-to-judas-for-leaving-boston-78138/"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Note that he didn't mention God in his \"goals and tasks.\" Perhaps he's not too bothered by the Judas nickname because he's not a religious man. Or maybe he's just following Jesus' advice to turn the other cheek. But for our purposes, I'll assume non-religious. If you have some more reliable insight, let us know in the comments."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "A Force for Peace"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Ray Allen is a big Obama supporter, but that seems to be the extent of his political involvement. He's very articulate and thoughtful about his support for the president, so I'm guessing he's got some more opinions that he hasn't let loose yet, and they're most likely fairly liberal."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.boston.com/news/politics/politicalintelligence/2011/05/bill_russell_ra.html",
+      "parentId": 9,
+      "type": "text",
+      "text": "Allen spoke at fundraisers",
       "sourceTitle": "Bill Russell, Ray Allen to speak at Obama event.",
-      "text": "Allen spoke at fundraisers"
+      "sourceUrl": "http://www.boston.com/news/politics/politicalintelligence/2011/05/bill_russell_ra.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celticstown.com/2011/11/19/barack-obama-basketball-game-ray-allen-doc-rivers-expected-to-play/",
+      "type": "text",
+      "text": "and participated in celebrity basketball games",
+      "parentId": 9,
       "sourceTitle": "Barack Obama basketball game: Ray Allen, Doc Rivers (!) expected to play.",
-      "text": "and participated in celebrity basketball games"
+      "sourceUrl": "http://www.celticstown.com/2011/11/19/barack-obama-basketball-game-ray-allen-doc-rivers-expected-to-play/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://clnsradio.com/2013/01/29/photo-ray-allen-and-barack-obama-chill-together-at-the-white-house/",
+      "type": "text",
+      "text": "for Obama's reelection campaign in 2012, and then attended the president's inauguration and visited the White House after the election.",
+      "parentId": 9,
       "sourceTitle": "Ray Allen and Barack Obama chill together at the White House!",
-      "text": "for Obama's reelection campaign in 2012, and then attended the president's inauguration and visited the White House after the election."
+      "sourceUrl": "http://clnsradio.com/2013/01/29/photo-ray-allen-and-barack-obama-chill-together-at-the-white-house/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "When asked about his opinion on the Nobel Peace Prize that Obama received in 2009, that many felt was undeserved, Allen said he was happy for the president:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://www.youtube.com/watch?v=4ro6gbnqLD0",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "His position and what he stands for, stands for peace. What he hopes to accomplish in his term during his presidency has always stood for peace, not only in America but around the world.",
       "sourceTitle": "Ray Allen on Obama and the Peace Prize.",
-      "text": "His position and what he stands for, stands for peace. What he hopes to accomplish in his term during his presidency has always stood for peace, not only in America but around the world."
+      "sourceUrl": "https://www.youtube.com/watch?v=4ro6gbnqLD0"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "He went on to say he appreciates that Obama is improving America's image abroad, and that he's been able to inspire and give hope to so many people. He's like a coach, Allen said. If we can stand behind him and work toward a common goal, we can all achieve what we want to achieve."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

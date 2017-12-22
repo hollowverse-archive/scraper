@@ -34,148 +34,214 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Katharine McPhee was born and raised in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm1897713/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "McPhee appears to be a moderately religious person. It's hard to get a line on exactly what faith she subscribes to. Evidence seems to conflict. For example, she was educated at a Catholic institution, Notre Dame high school in Sherman Oaks, California.",
       "sourceTitle": "Katherine McPhee – Biography",
-      "text": "McPhee appears to be a moderately religious person. It's hard to get a line on exactly what faith she subscribes to. Evidence seems to conflict. For example, she was educated at a Catholic institution, Notre Dame high school in Sherman Oaks, California."
+      "sourceUrl": "http://www.imdb.com/name/nm1897713/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://web.archive.org/web/20070830182026/http://www.weareellisisland.org/stories/view/36",
+      "type": "text",
+      "text": "And she does have some Irish ancestry,",
+      "parentId": 2,
       "sourceTitle": "Save Ellis Island: Katherine McPhee",
-      "text": "And she does have some Irish ancestry,"
+      "sourceUrl": "http://web.archive.org/web/20070830182026/http://www.weareellisisland.org/stories/view/36"
     },
     {
-      "type": "sentence",
-      "text": "so Catholic seems a reasonable leap."
+      "type": "text",
+      "text": "so Catholic seems a reasonable leap.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.people.com/people/article/0,,20175795,00.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "However, she and her husband, Nick Cokas, were married in a Presbyterian ceremony.",
       "sourceTitle": "Katherine McPhee Marries Producer Boyfriend",
-      "text": "However, she and her husband, Nick Cokas, were married in a Presbyterian ceremony."
+      "sourceUrl": "http://www.people.com/people/article/0,,20175795,00.html"
     },
     {
-      "type": "sentence",
-      "text": "Either it was at the behest of her beau, or she's a Presbyterian, or she just doesn't care either way. Hard to say."
+      "type": "text",
+      "text": "Either it was at the behest of her beau, or she's a Presbyterian, or she just doesn't care either way. Hard to say.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blog.beliefnet.com/idolchatter/2006/05/does-katherine-mcphee-idolize.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "There was a time when McPhee was rumored to be a Scientologist.",
       "sourceTitle": "Does Katherine McPhee Idolize Scientology",
-      "text": "There was a time when McPhee was rumored to be a Scientologist."
+      "sourceUrl": "http://blog.beliefnet.com/idolchatter/2006/05/does-katherine-mcphee-idolize.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=0zCPKKarq48",
+      "type": "text",
+      "text": "McPhee addressed the rumors, admitting that she did attend some Scientology functions, meetings, rituals and even gave them a large portion of her money–but it was all in pursuit of a love interest, and when that fizzled, so did her interest in Scientology.",
+      "parentId": 4,
       "sourceTitle": "Katherine McPhee talks about her Scientologist ex-boyfriend",
-      "text": "McPhee addressed the rumors, admitting that she did attend some Scientology functions, meetings, rituals and even gave them a large portion of her money–but it was all in pursuit of a love interest, and when that fizzled, so did her interest in Scientology."
+      "sourceUrl": "http://www.youtube.com/watch?v=0zCPKKarq48"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "text": "She does have faith, and it's a Christian faith judging from the occasional Bible tweet on her . She said that during times of uncertainty in her career, she just fell back on her faith and things worked out:"
+      "parentId": 5,
+      "type": "text",
+      "text": "She does have faith, and it's a Christian faith judging from the occasional Bible tweet on her"
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "link",
+      "text": "Twitter feed",
+      "sourceUrl": "https://twitter.com/katharinemcphee"
+    },
+    {
+      "type": "text",
+      "text": ". She said that during times of uncertainty in her career, she just fell back on her faith and things worked out:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.menshealth.com/women-of-mh/models/katharine-mcphee",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I'm a spiritual person. I truly believe that God provides. So, next thing I knew, I got a Neutrogena contract.",
       "sourceTitle": "Katherine McPhee",
-      "text": "I'm a spiritual person. I truly believe that God provides. So, next thing I knew, I got a Neutrogena contract."
+      "sourceUrl": "http://www.menshealth.com/women-of-mh/models/katharine-mcphee"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.parade.com/celebrity/sunday-with/2012/02/05-katharine-mcphee.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Plus, she counts going to church as one of her favorite ways to spend her Sunday mornings.",
       "sourceTitle": "'Smash' Star Katherine McPhee on Romance and Channeling Marilyn",
-      "text": "Plus, she counts going to church as one of her favorite ways to spend her Sunday mornings."
+      "sourceUrl": "http://www.parade.com/celebrity/sunday-with/2012/02/05-katharine-mcphee.html"
     },
     {
-      "type": "sentence",
-      "text": "If only we knew which church!"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "If only we knew which church!",
+      "parentId": 8
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Not idolizing who many idolize"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "I think I'm about to surprise you… well, maybe not. Let's just say I was surprised. It appears that Katharine McPhee is a Republican."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebuzz.com/video-katharine-mcphees-got-new-s106141/",
+      "parentId": 11,
+      "type": "text",
+      "text": "At first, I thought it was just standard, classy celebrity silence how she made no comments about Obama, or how she actively avoided paparazzi questions about same-sex marriage.",
       "sourceTitle": "Katherine McPhee's Got A New Friend",
-      "text": "At first, I thought it was just standard, classy celebrity silence how she made no comments about Obama, or how she actively avoided paparazzi questions about same-sex marriage."
+      "sourceUrl": "http://www.celebuzz.com/video-katharine-mcphees-got-new-s106141/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=m1Q685V1yvM",
+      "parentId": 12,
+      "type": "text",
+      "text": "Then, I thought it was rumor that people had listed her among their \"Republican Idols.\"",
       "sourceTitle": "Hot Brunette Katherine McPhee – My Republican Idols",
-      "text": "Then, I thought it was rumor that people had listed her among their \"Republican Idols.\""
+      "sourceUrl": "http://www.youtube.com/watch?v=m1Q685V1yvM"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/fec/bystate_detail.php?last=McPhee&first=Katharine",
+      "parentId": 13,
+      "type": "text",
+      "text": "Finally, the proof-filled pudding doughnut of campaign contributions reared it's head. McPhee donated over $1,000 to the McCain-Palin Republican presidential campaign in 2008. And that's it.",
       "sourceTitle": "Katherine McPhee's Federal Campaign contribution search results",
-      "text": "Finally, the proof-filled pudding doughnut of campaign contributions reared it's head. McPhee donated over $1,000 to the McCain-Palin Republican presidential campaign in 2008. And that's it."
+      "sourceUrl": "http://www.newsmeat.com/fec/bystate_detail.php?last=McPhee&first=Katharine"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.advocate.com/news/daily-news/2010/01/11/kat-mcphee-tells-idols-stay-closet",
+      "parentId": 14,
+      "type": "text",
+      "text": "I mean, there's nothing wrong with it. She must have some strong opinions to defy the vast majority of her entertainment industry cohorts. I wish she'd expand on them. All I've got is her making a recommendation to American Idol contestants to keep their sexuality to themselves.",
       "sourceTitle": "Kat McPhee Tells Idols To Stay In Closet",
-      "text": "I mean, there's nothing wrong with it. She must have some strong opinions to defy the vast majority of her entertainment industry cohorts. I wish she'd expand on them. All I've got is her making a recommendation to American Idol contestants to keep their sexuality to themselves."
+      "sourceUrl": "http://www.advocate.com/news/daily-news/2010/01/11/kat-mcphee-tells-idols-stay-closet"
     },
     {
-      "type": "sentence",
-      "text": "She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She said:",
+      "parentId": 14
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.advocate.com/news/daily-news/2010/01/11/kat-mcphee-tells-idols-stay-closet",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "You don't need to wear your religion on your sleeve. The competition is not about your faith or your sexuality but about you as an artist.",
       "sourceTitle": "Kat McPhee Tells Idols To Stay In Closet",
-      "text": "You don't need to wear your religion on your sleeve. The competition is not about your faith or your sexuality but about you as an artist."
+      "sourceUrl": "http://www.advocate.com/news/daily-news/2010/01/11/kat-mcphee-tells-idols-stay-closet"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "That could just be good advice, but interesting nonetheless. What do y'all think?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

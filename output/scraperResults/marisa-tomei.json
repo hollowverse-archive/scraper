@@ -33,110 +33,159 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Marisa Tomei was born and raised in Brooklyn, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000673/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Tomei is of Italian descent,",
       "sourceTitle": "Marisa Tomei – Biography",
-      "text": "Tomei is of Italian descent,"
+      "sourceUrl": "http://www.imdb.com/name/nm0000673/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.perfectpeople.net/biography/351/marisa-tomei.htm",
+      "type": "text",
+      "text": "and was raised a Catholic.",
+      "parentId": 2,
       "sourceTitle": "Marisa Tomei Biography",
-      "text": "and was raised a Catholic."
+      "sourceUrl": "http://www.perfectpeople.net/biography/351/marisa-tomei.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "There's no information about the nature of Tomei's upbringing. Nor is there any information on the current state of her spiritual beliefs."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "As far as we can tell, Tomei is either non-religious–a lapsed Catholic if you will–or incredibly good at keeping her faith to herself. Let us know in the comments if you know anything."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 5
     },
     {
-      "type": "heading",
+      "parentId": 5,
+      "type": "text",
       "text": "Standard Hollywood politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/marisatomei",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Politically, Tomei is much more transparent. She's a liberal and supports many causes. In March of 2013, she traveled to Washington D.C. to lend moral suport as the U.S. Supreme Court debated the legality of gay marriage, tweeting a couple of pictures of events surrounding the case while she was there.",
       "sourceTitle": "Marisa Tomei (marisatomei) on Twitter",
-      "text": "Politically, Tomei is much more transparent. She's a liberal and supports many causes. In March of 2013, she traveled to Washington D.C. to lend moral suport as the U.S. Supreme Court debated the legality of gay marriage, tweeting a couple of pictures of events surrounding the case while she was there."
+      "sourceUrl": "https://twitter.com/marisatomei"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Marisa_Tomei.php",
+      "parentId": 7,
+      "type": "text",
+      "text": "All of her financial contributions have gone to either Democratic candidates of the Democratic National Committee.",
       "sourceTitle": "Marisa Tomei's Federal Campaign Contribution Report",
-      "text": "All of her financial contributions have gone to either Democratic candidates of the Democratic National Committee."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Marisa_Tomei.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://www.youtube.com/watch?v=XW7IKHUyvUI",
+      "type": "text",
+      "text": "And she was a big Obama supporter during both of his presidential campaigns. After he won in 2008, Tomei even spoke at his inauguration concert.",
+      "parentId": 7,
       "sourceTitle": "Marisa Tomei We Are One Obama Inaguartion Concert At The Lincoln Memorial Washington, DC",
-      "text": "And she was a big Obama supporter during both of his presidential campaigns. After he won in 2008, Tomei even spoke at his inauguration concert."
+      "sourceUrl": "https://www.youtube.com/watch?v=XW7IKHUyvUI"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "text": "In 2012, she did a  for hyper-liberal political action group, MoveOn.org, to encourage people to vote. The idea behind it was: the more people who vote, the more likely Obama will win."
+      "parentId": 8,
+      "type": "text",
+      "text": "In 2012, she did a"
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.youtube.com/watch?v=vBP4HpSVRcM"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": "for hyper-liberal political action group, MoveOn.org, to encourage people to vote. The idea behind it was: the more people who vote, the more likely Obama will win.",
+      "parentId": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Tomei isn't one of those celebrities who thinks politics should not infiltrate the entertainment industry or that she and her colleagues should keep their politics to themselves. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/marisa_tomei.html?vm=l",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Politics itself is so unsexy, isn't it? But when the politics in creative works are really explored – not used as a vehicle – the results can be really interesting.",
       "sourceTitle": "Marisa Tomei Quotes",
-      "text": "Politics itself is so unsexy, isn't it? But when the politics in creative works are really explored – not used as a vehicle – the results can be really interesting."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/marisa_tomei.html?vm=l"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ema-online.org/tag/marisa-tomei/",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "She's taken up a few causes. Tomei feels that processed food companies should be required to label their products if they contain genetically modified ingredients (GMO) and she rallied for California's Proposition 37 that proposed to do just that.",
       "sourceTitle": "Marisa Tomei",
-      "text": "She's taken up a few causes. Tomei feels that processed food companies should be required to label their products if they contain genetically modified ingredients (GMO) and she rallied for California's Proposition 37 that proposed to do just that."
+      "sourceUrl": "http://www.ema-online.org/tag/marisa-tomei/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blogs.laweekly.com/arts/2013/04/marisa_tomei_gmo_real_food.php",
+      "type": "text",
+      "text": "When it didn't pass, Tomei helped to put together a special interest group called Reclaim REAL Food to keep the cause alive.",
+      "parentId": 12,
       "sourceTitle": "Marisa Tomei Was Pissed When the GMO Labeling Proposition Failed. So She Got Some Friends Together..",
-      "text": "When it didn't pass, Tomei helped to put together a special interest group called Reclaim REAL Food to keep the cause alive."
+      "sourceUrl": "http://blogs.laweekly.com/arts/2013/04/marisa_tomei_gmo_real_food.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "A secular Hollywood liberal Democrat, she is. She joins an already very long list."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

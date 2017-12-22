@@ -33,130 +33,186 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.time.com/time/magazine/article/0,9171,846545,00.html",
+      "parentId": 1,
+      "type": "text",
+      "text": "Benito Mussolini was born and raised in Dovia di Predappio, Italy. He died by execution in Giulino di Mezzegra, Italy in 1945."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Mussolini's father was an atheist, freethinker and anti-Papal and his mother a devout Catholic.",
       "sourceTitle": "Religion: Benito a Christian?",
-      "text": "Mussolini's father was an atheist, freethinker and anti-Papal and his mother a devout Catholic."
+      "sourceUrl": "http://www.time.com/time/magazine/article/0,9171,846545,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biography.com/people/benito-mussolini-9419443",
+      "type": "text",
+      "text": "But Benito followed more in the footsteps of his father and when he did accompany his mother to church, he was a malcontent, often getting himself into trouble. He did attend Catholic boarding school–from which he was expelled.",
+      "parentId": 2,
       "sourceTitle": "Benito Mussolini Biography",
-      "text": "But Benito followed more in the footsteps of his father and when he did accompany his mother to church, he was a malcontent, often getting himself into trouble. He did attend Catholic boarding school–from which he was expelled."
+      "sourceUrl": "http://www.biography.com/people/benito-mussolini-9419443"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.iiipublishing.com/religion/catholic/popes/pius_xi_mussolini.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Before becoming the leader of Italy, he was outwardly critical of Catholicism and a vocal atheist,",
       "sourceTitle": "Pius XI and the Rise of Benito Mussolini",
-      "text": "Before becoming the leader of Italy, he was outwardly critical of Catholicism and a vocal atheist,"
+      "sourceUrl": "http://www.iiipublishing.com/religion/catholic/popes/pius_xi_mussolini.html"
     },
     {
-      "type": "sentence",
-      "text": "challenging riveted crowds to prove him wrong by asking their God to strike him down and saying things like:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "challenging riveted crowds to prove him wrong by asking their God to strike him down and saying things like:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/b/benito_mussolini.html",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "The history of saints is mainly the history of insane people.",
       "sourceTitle": "Benito Mussolini Quotes",
-      "text": "The history of saints is mainly the history of insane people."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/b/benito_mussolini.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biography.com/people/benito-mussolini-9419443",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Beyond that, he flew in the face of Catholicism and social convention by moving in with his girlfriend and having children out of wedlock.",
       "sourceTitle": "Benito Mussolini Biography",
-      "text": "Beyond that, he flew in the face of Catholicism and social convention by moving in with his girlfriend and having children out of wedlock."
+      "sourceUrl": "http://www.biography.com/people/benito-mussolini-9419443"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "However, once Mussolini took power, he realized that the Catholic Church was not only a force to be reckoned with in his own country, it had influence and reach all over the world. Thus, he decided to work with the Vatican rather than oppose it."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.historylearningsite.co.uk/mussolini_roman_catholic.htm",
+      "parentId": 8,
+      "type": "text",
+      "text": "In a show of political posturing, Mussolini married his wife in a church ceremony and had his children baptized. He opposed contraception and pushed to make divorce illegal. He even had Catholicism declared the official religion of Italy (purely symbolic of course).",
       "sourceTitle": "Mussolini and the Roman Catholic Church",
-      "text": "In a show of political posturing, Mussolini married his wife in a church ceremony and had his children baptized. He opposed contraception and pushed to make divorce illegal. He even had Catholicism declared the official religion of Italy (purely symbolic of course)."
+      "sourceUrl": "http://www.historylearningsite.co.uk/mussolini_roman_catholic.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.historylearningsite.co.uk/mussolini_roman_catholic.htm",
+      "parentId": 9,
+      "type": "text",
+      "text": "Strangely, the largest conflict between Mussolini and the Catholic Church during his reign was in regard to Jews. Mussolini made it illegal for Jews to be Italian citizens, and the Pope personally appealed to the dictator to rescind this executive order. He didn't but it goes to show that even the Catholic Church was horrified with the treatment of Jews during this time.",
       "sourceTitle": "Mussolini and the Roman Catholic Church",
-      "text": "Strangely, the largest conflict between Mussolini and the Catholic Church during his reign was in regard to Jews. Mussolini made it illegal for Jews to be Italian citizens, and the Pope personally appealed to the dictator to rescind this executive order. He didn't but it goes to show that even the Catholic Church was horrified with the treatment of Jews during this time."
+      "sourceUrl": "http://www.historylearningsite.co.uk/mussolini_roman_catholic.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "So there you have it, an atheist with a Catholic mask."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "Politics, or should we say politic"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.angelfire.com/home/government/FascistNews.html",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Benito Mussolini was, well, he was a fascist. In fact he is often considered the father of fascism.",
       "sourceTitle": "Fascism: The Truth",
-      "text": "Benito Mussolini was, well, he was a fascist. In fact he is often considered the father of fascism."
+      "sourceUrl": "http://www.angelfire.com/home/government/FascistNews.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.angelfire.com/home/government/FascistNews.html",
+      "parentId": 13,
+      "type": "text",
+      "text": "But this wasn't always the case. Mussolini was enamored with the ideas of his father and for many of Mussolini's formative years, he was a very devoted socialist. During this period, he edited a socialist newspaper and was secretary of the Socialist Party. He even advocated the violent overthrow of Italy.",
       "sourceTitle": "Fascism: The Truth",
-      "text": "But this wasn't always the case. Mussolini was enamored with the ideas of his father and for many of Mussolini's formative years, he was a very devoted socialist. During this period, he edited a socialist newspaper and was secretary of the Socialist Party. He even advocated the violent overthrow of Italy."
+      "sourceUrl": "http://www.angelfire.com/home/government/FascistNews.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "However, inexplicably, Mussolini did an ideological about-face, becoming an advocate of rule by one charismatic dictator, calling it 'fascism.' You could say it was the exact opposite of socialism. And he didn't just dip his toe in the cool waters of fascism, Benito jumped in head first, likening the ideology to religion and saying things like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/b/benito_mussolini.html",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "The keystone of the Fascist doctrine is its conception of the State, of its essence, its functions, and its aims. For Fascism the State is absolute, individuals and groups relative.",
       "sourceTitle": "Benito Mussolini Quotes",
-      "text": "The keystone of the Fascist doctrine is its conception of the State, of its essence, its functions, and its aims. For Fascism the State is absolute, individuals and groups relative."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/b/benito_mussolini.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biography.com/people/benito-mussolini-9419443",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Much like Hitler, Mussolini was able to charismatically whip his people into a war mongering frenzy with ethnocentric rhetoric, instilling an appetite for empire building.",
       "sourceTitle": "Benito Mussolini Biography",
-      "text": "Much like Hitler, Mussolini was able to charismatically whip his people into a war mongering frenzy with ethnocentric rhetoric, instilling an appetite for empire building."
+      "sourceUrl": "http://www.biography.com/people/benito-mussolini-9419443"
     },
     {
-      "type": "sentence",
-      "text": "As we all know, his ideological stubbornness didn't end well for Mussolini or his people who were thoroughly taught a lesson by the Allies in World War II."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "As we all know, his ideological stubbornness didn't end well for Mussolini or his people who were thoroughly taught a lesson by the Allies in World War II.",
+      "parentId": 17
     }
   ],
   "wikipediaData": {
@@ -207,7 +263,7 @@
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "This file was derived from:  <a href=\"//commons.wikimedia.org/wiki/File:Benito_Mussolini_(primo_piano).jpg\" title=\"File:Benito Mussolini (primo piano).jpg\">Benito Mussolini (primo piano).jpg</a><br>",
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.ilduce.net/foto-benito-mussolini/43-2/\">http://www.ilduce.net/foto-benito-mussolini/43-2/</a> This file was derived from:  <a href=\"//commons.wikimedia.org/wiki/File:Benito_Mussolini_(primo_piano).jpg\" title=\"File:Benito Mussolini (primo piano).jpg\">Benito Mussolini (primo piano).jpg</a><br>",
             "source": "commons-desc-page",
             "hidden": ""
           },

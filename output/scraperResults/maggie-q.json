@@ -33,144 +33,230 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Maggie Q, full name Margaret Denise Quigley, was born and raised in Honolulu, Hawaii."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.inkedmag.com/features/article/international-woman-mystery-maggie-q/page/2/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Q (I guess we'll call her that) was raised Catholic,",
       "sourceTitle": "International Woman of Mystery: Maggie Q",
-      "text": "Q (I guess we'll call her that) was raised Catholic,"
+      "sourceUrl": "http://www.inkedmag.com/features/article/international-woman-mystery-maggie-q/page/2/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://diacritics.org/2012/a-meditation-on-the-mixed-race-politics-of-my-homegirl-maggie-q",
+      "type": "text",
+      "text": "which is probably a direct result of her father's Irish-Polish ancestry.",
+      "parentId": 2,
       "sourceTitle": "Jade Hidle takes on mixed-race politics and Maggie Q",
-      "text": "which is probably a direct result of her father's Irish-Polish ancestry."
+      "sourceUrl": "http://diacritics.org/2012/a-meditation-on-the-mixed-race-politics-of-my-homegirl-maggie-q"
     },
     {
-      "type": "sentence",
-      "text": "However, she seems more interested in a more Asian religion. She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "However, she seems more interested in a more Asian religion. She said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.inkedmag.com/features/article/international-woman-mystery-maggie-q/page/2/",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I was raised Catholic but have been studying Buddhism for eight years. No matter what religion you [practice], who wouldn't respect the Buddhist principles?",
       "sourceTitle": "International Woman of Mystery: Maggie Q",
-      "text": "I was raised Catholic but have been studying Buddhism for eight years. No matter what religion you [practice], who wouldn't respect the Buddhist principles?"
+      "sourceUrl": "http://www.inkedmag.com/features/article/international-woman-mystery-maggie-q/page/2/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.inkedmag.com/features/article/international-woman-mystery-maggie-q/page/2/",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Q has even traveled to Tibet to study and meditate with monks there. One wrote a Buddhist chant for her, called"
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "\""
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "T"
+    },
+    {
+      "type": "text",
+      "text": "he Mantra of the Compassionate Buddha,\" while she was there and so she had \"Compassion to All Living Things\" tattooed on her wrist in honor of the occasion.",
+      "parentId": 5,
       "sourceTitle": "International Woman of Mystery: Maggie Q",
-      "text": "Q has even traveled to Tibet to study and meditate with monks there. One wrote a Buddhist chant for her, calledhe Mantra of the Compassionate Buddha,\" while she was there and so she had \"Compassion to All Living Things\" tattooed on her wrist in honor of the occasion."
+      "sourceUrl": "http://www.inkedmag.com/features/article/international-woman-mystery-maggie-q/page/2/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "Interestingly, Q seems to still honor her Catholic roots to some degree, as evidenced by this Easter 2013 tweet:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/MaggieQ",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "On this Easter Sunday I pray for continued blessings on your lives and transformative love in your heart. God Bless.",
       "sourceTitle": "Maggie Q (MaggieQ) on Twitter",
-      "text": "On this Easter Sunday I pray for continued blessings on your lives and transformative love in your heart. God Bless."
+      "sourceUrl": "https://twitter.com/MaggieQ"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://diacritics.org/2012/a-meditation-on-the-mixed-race-politics-of-my-homegirl-maggie-q",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "So we'll just call her a Catholic Buddhist–which seems perfectly appropriate considering her Irish-Polish father and Vietnamese mother.",
       "sourceTitle": "Jade Hidle takes on mixed-race politics and Maggie Q",
-      "text": "So we'll just call her a Catholic Buddhist–which seems perfectly appropriate considering her Irish-Polish father and Vietnamese mother."
+      "sourceUrl": "http://diacritics.org/2012/a-meditation-on-the-mixed-race-politics-of-my-homegirl-maggie-q"
     },
     {
-      "type": "sentence",
-      "text": "She's having her cake and eating it too."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She's having her cake and eating it too.",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Compassion to All Living Things"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.petaasiapacific.com/newsreleasesitem.asp?id=10173",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Q's undeniable first priority is animal rights. She is a PETA representative in Asia and was named PETA Asia's Person of the Year in 2008.",
       "sourceTitle": "Maggie Q Named PETA's Person Of The Year",
-      "text": "Q's undeniable first priority is animal rights. She is a PETA representative in Asia and was named PETA Asia's Person of the Year in 2008."
+      "sourceUrl": "http://www.petaasiapacific.com/newsreleasesitem.asp?id=10173"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.inkedmag.com/features/article/international-woman-mystery-maggie-q/page/2/",
+      "type": "text",
+      "text": "Q is a vegetarian for moral reasons",
+      "parentId": 11,
       "sourceTitle": "International Woman of Mystery: Maggie Q",
-      "text": "Q is a vegetarian for moral reasons"
+      "sourceUrl": "http://www.inkedmag.com/features/article/international-woman-mystery-maggie-q/page/2/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.aoltv.com/2010/09/09/seven-things-to-know-about-nikita-star-maggie-q/",
+      "type": "text",
+      "text": "and has required that the films she works on don't use real fur for the costumes.",
+      "parentId": 11,
       "sourceTitle": "Seven Things to Know About 'Nikita' Star Maggie Q",
-      "text": "and has required that the films she works on don't use real fur for the costumes."
+      "sourceUrl": "http://www.aoltv.com/2010/09/09/seven-things-to-know-about-nikita-star-maggie-q/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cnn.com/2007/WORLD/asiapcf/11/14/talkasia.maggieq/index.html",
+      "type": "text",
+      "text": "Plus, she has had–at various times–up to seven rescued shelter dogs in her possession.",
+      "parentId": 11,
       "sourceTitle": "Interview with Maggie Q",
-      "text": "Plus, she has had–at various times–up to seven rescued shelter dogs in her possession."
+      "sourceUrl": "http://www.cnn.com/2007/WORLD/asiapcf/11/14/talkasia.maggieq/index.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Perhaps this could be considered a liberal position–it usually is. But we don't have to make that deduction this time. Q is also an Obama supporter. She has not only expressed her admiration for the president and his wife:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/MaggieQ",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "If any of you missed Michelle Obamas speech last night at the DNC….please watch it. I have never been prouder to be a woman. Incredible.",
       "sourceTitle": "Maggie Q (MaggieQ) on Twitter",
-      "text": "If any of you missed Michelle Obamas speech last night at the DNC….please watch it. I have never been prouder to be a woman. Incredible."
+      "sourceUrl": "https://twitter.com/MaggieQ"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/MaggieQ",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "She also helped raise funds for Obama's 2012 campaign.",
       "sourceTitle": "Maggie Q (MaggieQ) on Twitter",
-      "text": "She also helped raise funds for Obama's 2012 campaign."
+      "sourceUrl": "https://twitter.com/MaggieQ"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "However, when it comes to animal rights, even Obama can fall out of favor with Q. She tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/MaggieQ",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "New bill signed by Obama reopens horse slaughter plants in the US… #BFblog #Petition ^CS\" ridiculous!! Pls sign",
       "sourceTitle": "Maggie Q (MaggieQ) on Twitter",
-      "text": "New bill signed by Obama reopens horse slaughter plants in the US… #BFblog #Petition ^CS\" ridiculous!! Pls sign"
+      "sourceUrl": "https://twitter.com/MaggieQ"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "In the end, her loyalties clearly lie with our four-legged friends."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

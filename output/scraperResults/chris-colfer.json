@@ -36,122 +36,190 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Chris Colfer was born and raised in Clovis, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://greginhollywood.com/chris-colfer-of-glee-chats-with-rolling-stone-36799",
+      "parentId": 2,
+      "type": "text",
+      "text": "Colfer grew up in a conservative Christian family",
       "sourceTitle": "Chris Colfer of \"Glee\" chats with Rolling Stone!",
-      "text": "Colfer grew up in a conservative Christian family"
+      "sourceUrl": "http://greginhollywood.com/chris-colfer-of-glee-chats-with-rolling-stone-36799"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tv.uk.msn.com/blog/editor-blogpost.aspx?post=34985fb8-f3e1-4105-a10d-78b7160d0b2b",
+      "type": "text",
+      "text": "–two things which he appears not to be. He comes from Irish stock,",
+      "parentId": 2,
       "sourceTitle": "Glee cast open up as Glee: The 3D Concert Movie hits cinemas.",
-      "text": "–two things which he appears not to be. He comes from Irish stock,"
+      "sourceUrl": "http://tv.uk.msn.com/blog/editor-blogpost.aspx?post=34985fb8-f3e1-4105-a10d-78b7160d0b2b"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://greginhollywood.com/chris-colfer-of-glee-chats-with-rolling-stone-36799",
+      "type": "text",
+      "text": "so one could assume he was raised Catholic, but that is purely speculation. Regardless of denomination, however, we do know they were religious enough to send him to \"Jesus camp\" as a youngster.",
+      "parentId": 2,
       "sourceTitle": "Chris Colfer of \"Glee\" chats with Rolling Stone!",
-      "text": "so one could assume he was raised Catholic, but that is purely speculation. Regardless of denomination, however, we do know they were religious enough to send him to \"Jesus camp\" as a youngster."
+      "sourceUrl": "http://greginhollywood.com/chris-colfer-of-glee-chats-with-rolling-stone-36799"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Colfer doesn't talk about religion much, so it's tough to say exactly where he stands now. There's one great quote floating around the internet, but I was unable to find the original source so I'll include with the caveat that I can't be certain he said it. (If any of you Gleeks out there can help me out with a credible source, I will sing your praises!) Supposedly, when asked if he was religious, Colfer said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://chriscolfernews.tumblr.com/post/3153537872/re-chris-religion-his-parents-are-also-christians",
-      "sourceTitle": "\"Re: Chris' religion.",
-      "text": "I drop things on my foot and scream \"Jesus.\" Does that count?"
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I drop things on my foot and scream \"Jesus.\" Does that count?",
+      "sourceTitle": "\"Re: Chris' religion.",
+      "sourceUrl": "http://chriscolfernews.tumblr.com/post/3153537872/re-chris-religion-his-parents-are-also-christians"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "In the more credibly-sourced quote department, he showed his willingness to joke about religion, if nothing else. When an interviewer complimented his hair, Colfer responded,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.examiner.com/article/glee-chris-colfer-talks-kurt-and-blaine-split-kurt-s-new-love-interest",
-      "sourceTitle": "'Glee': Chris Colfer talks Kurt and Blaine split, Kurt's new love interest.",
-      "text": "The higher the hair the closer to God."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "The higher the hair the closer to God.",
+      "sourceTitle": "'Glee': Chris Colfer talks Kurt and Blaine split, Kurt's new love interest.",
+      "sourceUrl": "http://www.examiner.com/article/glee-chris-colfer-talks-kurt-and-blaine-split-kurt-s-new-love-interest"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "As far as I can tell, Colfer does not appear to be a religious young man. If he starts opening up about his love of God or atheism, or anything in between, keep us updated in the comments!"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "The Right Side of History"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://greginhollywood.com/chris-colfer-of-glee-chats-with-rolling-stone-36799",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Whatever split Colfer had with the religion of his childhood, he made a more dramatic shift away from its politics. As an openly gay man playing the role of an openly gay teenager on one of the most popular shows on television, he's an automatic spokesman for gay rights. About his character on"
+    },
+    {
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "Glee"
+    },
+    {
+      "type": "text",
+      "text": ", he said he hopes he can \"keep inspiring the kids that watch him.\"",
+      "parentId": 11,
       "sourceTitle": "Chris Colfer of \"Glee\" chats with Rolling Stone.",
-      "text": "Whatever split Colfer had with the religion of his childhood, he made a more dramatic shift away from its politics. As an openly gay man playing the role of an openly gay teenager on one of the most popular shows on television, he's an automatic spokesman for gay rights. About his character on , he said he hopes he can \"keep inspiring the kids that watch him.\""
+      "sourceUrl": "http://greginhollywood.com/chris-colfer-of-glee-chats-with-rolling-stone-36799"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "After Barack Obama announced his support for the legalization of gay marriage in 2012, Colfer said he was happy the president finally came around. He said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.ontopmag.com/article.aspx?id=11826",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I was ecstatic [about] the president's announcement. I think right now people. . . have a choice to be on the wrong or the right side of history. And I'm glad he's on the right [side].",
       "sourceTitle": "Glee: Chris Colfer Glad Obama Is On Right Side Of History.",
-      "text": "I was ecstatic [about] the president's announcement. I think right now people. . . have a choice to be on the wrong or the right side of history. And I'm glad he's on the right [side]."
+      "sourceUrl": "http://www.ontopmag.com/article.aspx?id=11826"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hollywoodreporter.com/live-feed/glee-star-chris-colfer-talks-190326",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "And Colfer knows who's not on the right side of history. He says he pays attention to which politicians support gay rights, and he keeps that in mind when they tell him they're big fans of the show. He just hopes that if he kills them with kindness, he'll win them over.",
       "sourceTitle": "'Glee' Star Chris Colfer Talks Politics on 'Piers Morgan Tonight.'",
-      "text": "And Colfer knows who's not on the right side of history. He says he pays attention to which politicians support gay rights, and he keeps that in mind when they tell him they're big fans of the show. He just hopes that if he kills them with kindness, he'll win them over."
+      "sourceUrl": "http://www.hollywoodreporter.com/live-feed/glee-star-chris-colfer-talks-190326"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=oQLXwqJhnNg",
+      "parentId": 16,
+      "type": "text",
+      "text": "And although it's possible he's a fiscal conservative–he said he'd like his taxes to be lowered",
       "sourceTitle": "'Glee' Actor Calls for Obama to Legalize Gay Marriage.",
-      "text": "And although it's possible he's a fiscal conservative–he said he'd like his taxes to be lowered"
+      "sourceUrl": "http://www.youtube.com/watch?v=oQLXwqJhnNg"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/chriscolfer/status/279681691126210563",
+      "type": "text",
+      "text": "–he's showed his support for at least one other liberal cause. After the Sandy Hook Elementary School shooting in 2012, he said he favored tougher gun control.",
+      "parentId": 16,
       "sourceTitle": "chriscolfer: It's one of those days you …",
-      "text": "–he's showed his support for at least one other liberal cause. After the Sandy Hook Elementary School shooting in 2012, he said he favored tougher gun control."
+      "sourceUrl": "https://twitter.com/chriscolfer/status/279681691126210563"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "I'd say it safe to assume that Colfer is mostly voting for Democrats. The gay rights issue seems to be by far his most important political cause. But I'm not convinced he's super liberal. If you run into any more of Colfer's political opinions, drop us a line in the comments!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -202,12 +270,12 @@
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/79274262@N03/9515448054/\">Chris Colfer</a>\n<ul>\n<li>Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:Stemoc\" title=\"User:Stemoc\">stemoc</a>\n</li>\n</ul>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/79274262@N03/9515448054/\">Chris Colfer</a>\n<ul>\n<li>Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:Stemoc\" title=\"User:Stemoc\">stemoc</a>\n</li>\n</ul>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/people/79274262@N03\">Ana Rivas</a>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/79274262@N03\">Ana Rivas</a>",
             "source": "commons-desc-page"
           },
           "LicenseShortName": {

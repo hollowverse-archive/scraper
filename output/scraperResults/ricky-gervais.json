@@ -33,83 +33,133 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ricky Gervais was born and raised very poor in Whitley, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=a5dgFpmY38Q&feature=related",
+      "parentId": 2,
+      "type": "text",
+      "text": "He has talked about his religious upbringing, that he went to church and was a good Christian, even going so far as to say that Jesus was his hero.",
       "sourceTitle": "Ricky Gervais – Inside The Actor's Studio",
-      "text": "He has talked about his religious upbringing, that he went to church and was a good Christian, even going so far as to say that Jesus was his hero."
+      "sourceUrl": "http://www.youtube.com/watch?v=a5dgFpmY38Q&feature=related"
     },
     {
-      "type": "sentence",
-      "text": "However, he goes on to describe the moment that, at 8 years old, he realized his mother had been lying about God so that little Ricky would be well-behaved."
+      "type": "text",
+      "text": "However, he goes on to describe the moment that, at 8 years old, he realized his mother had been lying about God so that little Ricky would be well-behaved.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "At this point, Gervais is perhaps the world's most famous and outspoken atheist. He unashamedly defends his views (even though he acknowledges that arguing logic with theists is a pointless exercise) on national television talk shows, in articles, in major newspapers, and in his comedy routines. In fact, for being the funnyman that he is, Gervais' conversations about God and atheism are where we find him the most sincere. He has said about his conversion to atheism:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://blogs.wsj.com/speakeasy/2010/12/19/a-holiday-message-from-ricky-gervais-why-im-an-atheist/",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "The gifts kept coming. And so did the gifts of my new found atheism. The gifts of truth, science, nature. The real beauty of this world. I learned of evolution -– a theory so simple that only England's greatest genius could have come up with it. Evolution of plants, animals and us –- with imagination, free will, love, humor. I no longer needed a reason for my existence, just a reason to live. And imagination, free will, love, humor, fun, music, sports, beer and pizza are all good enough reasons for living.",
       "sourceTitle": "A Holiday Message from Ricky Gervais: Why I'm an Atheist",
-      "text": "The gifts kept coming. And so did the gifts of my new found atheism. The gifts of truth, science, nature. The real beauty of this world. I learned of evolution -– a theory so simple that only England's greatest genius could have come up with it. Evolution of plants, animals and us –- with imagination, free will, love, humor. I no longer needed a reason for my existence, just a reason to live. And imagination, free will, love, humor, fun, music, sports, beer and pizza are all good enough reasons for living."
+      "sourceUrl": "http://blogs.wsj.com/speakeasy/2010/12/19/a-holiday-message-from-ricky-gervais-why-im-an-atheist/"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Politics: Fodder for comedy"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Gervais has never officially taken a political stance–at least when it comes to parties or policies. He assures us that he does have real political opinions, however, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.rickygervais.com/starticle.php",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I have political views. I oppose foxhunting.",
       "sourceTitle": "Ricky Gervais…Obviously",
-      "text": "I have political views. I oppose foxhunting."
+      "sourceUrl": "http://www.rickygervais.com/starticle.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://bigthink.com/ideas/13293",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "This is, incidentally, true. Gervais is an animal rights activist.",
       "sourceTitle": "Ricky Gervais on Animal Rights",
-      "text": "This is, incidentally, true. Gervais is an animal rights activist."
+      "sourceUrl": "http://bigthink.com/ideas/13293"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "Still, political issues are more for Gervais' jokes than anything else. One would assume from his religious views that he would prefer a secular society, one where creationism was not taught in schools and the Ten Commandments were not posted on government properties. Taking it even a step further, these are generally the views of liberals and Democrats (or Labour in Britain). This is all conjecture though."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Gervais has expressed approval for Obama, but mainly for comedic reasons. When Obama publicly roasted Donald Trump for questioning the president's birthplace, Gervais said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 13
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.digitalspy.com/celebrity/news/a317454/ricky-gervais-fing-loved-obama-trump-slam.html",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I fucking loved Obama's beautiful destruction of Trump.",
       "sourceTitle": "Ricky Gervais \"f**king loved\" Obama Trump slam",
-      "text": "I fucking loved Obama's beautiful destruction of Trump."
+      "sourceUrl": "http://www.digitalspy.com/celebrity/news/a317454/ricky-gervais-fing-loved-obama-trump-slam.html"
     }
   ],
   "wikipediaData": {

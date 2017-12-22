@@ -35,103 +35,167 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jessica Simpson was born in Abilene, Texas and grew up in Dallas, Texas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianpost.com/news/jessica-simpson-mulls-religious-studies-35765/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Simpson was raised a Southern Baptist and her father was a Baptist minister until he switched careers to manage his daughters' entertainment empire. In fact, Simpson could probably credit her success to her childhood faith. She began singing in her local church and was eventually picked up by the Christian record label, Proclaim Records.",
       "sourceTitle": "Jessica Simpson Mulls Religious Studies",
-      "text": "Simpson was raised a Southern Baptist and her father was a Baptist minister until he switched careers to manage his daughters' entertainment empire. In fact, Simpson could probably credit her success to her childhood faith. She began singing in her local church and was eventually picked up by the Christian record label, Proclaim Records."
+      "sourceUrl": "http://www.christianpost.com/news/jessica-simpson-mulls-religious-studies-35765/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lovelyish.com/736786751/5-celebrities-who-waited-until-marriage/",
+      "parentId": 3,
+      "type": "text",
+      "text": "During her rise to stardom, Simpson seemed to be holding strong to her Christian roots, wearing a \"promise ring\" and insisting that she had retained her virginity until her first marriage to boy band singer Nick Lachey.",
       "sourceTitle": "5 Celebrities Who Waited until Marriage",
-      "text": "During her rise to stardom, Simpson seemed to be holding strong to her Christian roots, wearing a \"promise ring\" and insisting that she had retained her virginity until her first marriage to boy band singer Nick Lachey."
+      "sourceUrl": "http://www.lovelyish.com/736786751/5-celebrities-who-waited-until-marriage/"
     },
     {
-      "type": "sentence",
-      "text": "She even said things like:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She even said things like:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.kktv.com/home/headlines/99757149.html",
-      "sourceTitle": "Jessica Simpson Talks to 11 News About Faith, Beauty and Operation Smile",
-      "text": "God is love and God is my beauty and I am so compassionate about my relationship with God and it makes me who I am right now. It makes me stand up tall and proud and the world cannot take me down, because I know I can take pride in my love for God and I believe everybody else around me can have that as well."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "God is love and God is my beauty and I am so compassionate about my relationship with God and it makes me who I am right now. It makes me stand up tall and proud and the world cannot take me down, because I know I can take pride in my love for God and I believe everybody else around me can have that as well.",
+      "sourceTitle": "Jessica Simpson Talks to 11 News About Faith, Beauty and Operation Smile",
+      "sourceUrl": "http://www.kktv.com/home/headlines/99757149.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Of course, Simpson's revealing attire, sexual performances, and highly scrutinized behavior caused many a Christian to cry hypocrite. Eventually Simpson caved and admitted that she isn't the Christian she used to be, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://discussions.godandscience.org/viewtopic.php?f=2&t=1186",
-      "sourceTitle": "Jessica Simpson Losing Her Christian Faith",
-      "text": "Me and my family got out of that [Christianity] and came to LA… To see all forms of meditation and prayer made me less judgmental."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Me and my family got out of that [Christianity] and came to LA… To see all forms of meditation and prayer made me less judgmental.",
+      "sourceTitle": "Jessica Simpson Losing Her Christian Faith",
+      "sourceUrl": "http://discussions.godandscience.org/viewtopic.php?f=2&t=1186"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "At least she's honest."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Predictable politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Let's be honest, the girl who wondered out loud, on national television mind you, if Chicken of the Sea-brand tuna was, in fact, chicken, probably doesn't grasp political nuance. But her religion–and more to the point–her religious manager/father almost automatically designate her as a Republican."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "As deep into the Bush-era as 2006, Simpson was a \"huge fan\" of George W. Bush, years after most rational people realized the scope and magnitude of the mistake that was G.W. Her father said in an official statement:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.cbsnews.com/stories/2006/03/16/politics/main1409127.shtml",
-      "sourceTitle": "Jessica Simpson Snubs Bush",
-      "text": "Jessica loves the heck out of him."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Jessica loves the heck out of him.",
+      "sourceTitle": "Jessica Simpson Snubs Bush",
+      "sourceUrl": "http://www.cbsnews.com/stories/2006/03/16/politics/main1409127.shtml"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "However, in 2010, Simpson expressed deep admiration for MIchelle Obama at the White House Correspondents Dinner, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.people.com/people/article/0,,20365882,00.html",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Everything she does she exudes confidence. I'm really just here to celebrate her.",
       "sourceTitle": "Jessica Simpson: I Want to Be Michelle Obama",
-      "text": "Everything she does she exudes confidence. I'm really just here to celebrate her."
+      "sourceUrl": "http://www.people.com/people/article/0,,20365882,00.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "It's hard to know what to make of that. It's certainly not the kind of thing you'd hear from the throngs of anybody-but-Obama former Bush-supporting Republicans that seem to be multiplying like jack-rabbits these days. Maybe she switched teams about the same time she gave up on Christianity."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

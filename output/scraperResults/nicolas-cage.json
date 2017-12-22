@@ -33,85 +33,155 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Nicolas Cage, born Nicolas Kim Cappola, was born in Long Beach, California. He is a part of the famous Italian Cappola family that director Francis Ford Cappola calls his own."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.irishexaminer.com/weekend/features/this-much-i-know-karen-koster-155089.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Being Italian and all, Cage is a Catholic. But he won't talk about religion publicly and is known for shutting down interviewers who have the fortitude to ask about it.",
       "sourceTitle": "This much I know: Karen Koster",
-      "text": "Being Italian and all, Cage is a Catholic. But he won't talk about religion publicly and is known for shutting down interviewers who have the fortitude to ask about it."
+      "sourceUrl": "http://www.irishexaminer.com/weekend/features/this-much-i-know-karen-koster-155089.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "Cage is quite the professional at deflecting religious questions. When asked about his beliefs in relation to his film, , which contains some religious themes, Cage replied:"
+      "parentId": 3,
+      "type": "text",
+      "text": "Cage is quite the professional at deflecting religious questions. When asked about his beliefs in relation to his film,"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Knowing"
+    },
+    {
+      "type": "text",
+      "text": ", which contains some religious themes, Cage replied:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://everyjoe.com/entertainment/nicolas-cage-talks-knowing-religion-video/",
-      "sourceTitle": "Nicolas Cage talks Knowing, religion",
-      "text": "Any of my personal beliefs or opinions runs the risk of impinging on your own relationship with the movie. I feel movies are best left enigmatic, left raising more questions than answers. I don't want to ever preach. So [whatever you get] from the movie [is] far more interesting than I could ever offer."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Any of my personal beliefs or opinions runs the risk of impinging on your own relationship with the movie. I feel movies are best left enigmatic, left raising more questions than answers. I don't want to ever preach. So [whatever you get] from the movie [is] far more interesting than I could ever offer.",
+      "sourceTitle": "Nicolas Cage talks Knowing, religion",
+      "sourceUrl": "http://everyjoe.com/entertainment/nicolas-cage-talks-knowing-religion-video/"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "However, once Cage cracked–way back in 1996. Who knows why? Maybe the interviewer was really hot. Maybe Cage was drunk, but he basically indicated that he is largely devoid of spiritual beliefs despite his upbringing. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000115/bio",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I do not have a religion in my life, I wasn't raised that way. My father always believed that if I was going to have a religion I should discover it on my own and not have it crammed down my throat at a young age. I kind of wish I had some religion.",
       "sourceTitle": "Nicolas Cage Biography",
-      "text": "I do not have a religion in my life, I wasn't raised that way. My father always believed that if I was going to have a religion I should discover it on my own and not have it crammed down my throat at a young age. I kind of wish I had some religion."
+      "sourceUrl": "http://www.imdb.com/name/nm0000115/bio"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "The politics of Cage"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Cage is even less willing to talk about his political views than he is his take on religion. And he condemns actors–in an ambiguous way–who do use their star power for political purposes, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www1.ucsc.edu/currents/02-03/05-26/cage.html",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I'm not a politically active actor, but I do think you can do that in your work. As artists, I think that's what our job really is. I think you can be very selective and careful in your work. I mean, I learned more about the disaster of nuclear power from [working on the film]"
+    },
+    {
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "China Syndrome"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 12,
       "sourceTitle": "Nicolas Cage visits UCSC",
-      "text": "I'm not a politically active actor, but I do think you can do that in your work. As artists, I think that's what our job really is. I think you can be very selective and careful in your work. I mean, I learned more about the disaster of nuclear power from [working on the film] ."
+      "sourceUrl": "http://www1.ucsc.edu/currents/02-03/05-26/cage.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Nicolas_Cage.php",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "This doesn't mean he isn't political. According to his financial political contributions, he's a Democrat and has donated $5,000 to that party since 1994, the bulk of that going to Al Gore's 2000 presidential election",
       "sourceTitle": "Nicolas Cage's Federal Campaign Contribution Report",
-      "text": "This doesn't mean he isn't political. According to his financial political contributions, he's a Democrat and has donated $5,000 to that party since 1994, the bulk of that going to Al Gore's 2000 presidential election"
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Nicolas_Cage.php"
     },
     {
-      "type": "sentence",
-      "text": "indicating some attraction to Gore's political platform. Maybe Cage is concerned with the environment."
+      "type": "text",
+      "text": "indicating some attraction to Gore's political platform. Maybe Cage is concerned with the environment.",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/110-nicolas-cage",
+      "parentId": 14,
+      "type": "text",
+      "text": "Cage is also a generous philanthropist. He donated $2 million to help rehabilitate child soldiers from war-torn areas, $1 million to victims of Hurricane Katrina, and has supported Amnesty International as well as homeless charities.",
       "sourceTitle": "Nicolas Cage's Charity Work, Events and Causes",
-      "text": "Cage is also a generous philanthropist. He donated $2 million to help rehabilitate child soldiers from war-torn areas, $1 million to victims of Hurricane Katrina, and has supported Amnesty International as well as homeless charities."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.looktothestars.org/celebrity/110-nicolas-cage"
     }
   ],
   "wikipediaData": {

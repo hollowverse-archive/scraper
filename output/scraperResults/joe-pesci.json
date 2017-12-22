@@ -34,64 +34,88 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Joe Pesci was born and raised in Newark, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000582/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Information on Pesci's religious beliefs are surprisingly scant. Considering his Italian heritage,",
       "sourceTitle": "Joe Pesci – Biography.",
-      "text": "Information on Pesci's religious beliefs are surprisingly scant. Considering his Italian heritage,"
+      "sourceUrl": "http://www.imdb.com/name/nm0000582/bio"
     },
     {
-      "type": "sentence",
-      "text": "it's pretty clear he was raised in at least a vaguely Catholic home."
+      "type": "text",
+      "text": "it's pretty clear he was raised in at least a vaguely Catholic home.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "And he seems to have some pretty strong feelings in favor of the Pope. When Sinead O'Connor, an outspoken critic of the Catholic church, ripped up a picture of Pope John Paul II on Saturday Night Live, Pesci responded the next week by presenting a taped up version of the picture. He said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.nytimes.com/1992/10/12/nyregion/chronicle-479092.html",
-      "sourceTitle": "CHRONICLE.",
-      "text": "Sinead O'Connor tore up a picture of the Pope and I thought that was wrong. . . . I would have gave her such a smack."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Sinead O'Connor tore up a picture of the Pope and I thought that was wrong. . . . I would have gave her such a smack.",
+      "sourceTitle": "CHRONICLE.",
+      "sourceUrl": "http://www.nytimes.com/1992/10/12/nyregion/chronicle-479092.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "We'll call him Catholic, but sadly that's all we have. If you have any other information for us, please let us know in the comments."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://voices.yahoo.com/not-all-celebrities-liberal-democrats-4980894.html?cat=27",
+      "parentId": 7,
+      "type": "text",
+      "text": "And there's even less to go on with Pesci's political beliefs. He just doesn't enter into the debate. I found several lists that claim he's a Republican,",
       "sourceTitle": "Not All Celebrities Are Liberal Democrats.",
-      "text": "And there's even less to go on with Pesci's political beliefs. He just doesn't enter into the debate. I found several lists that claim he's a Republican,"
+      "sourceUrl": "http://voices.yahoo.com/not-all-celebrities-liberal-democrats-4980894.html?cat=27"
     },
     {
-      "type": "sentence",
-      "text": "but those sites didn't list any sources for their claims."
+      "type": "text",
+      "text": "but those sites didn't list any sources for their claims.",
+      "parentId": 7
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "If he really is a devout Catholic, and a supporter of the Pope, it seems likely that he would be socially conservative on issues like birth control, abortion, and gay marriage. But conjecture is all I can offer at this point. If you have any pointers for us, let us know!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

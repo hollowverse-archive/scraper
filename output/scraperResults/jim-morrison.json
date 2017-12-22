@@ -35,126 +35,205 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "James Douglas Morrison (Jim Morrison) was born in Melbourne, Florida and died in Paris, France of heart failure. He grew up in a Christian military family who moved around a lot and, as a result, Morrison's education and religious upbringing was fragmented and disconnected."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Morrison often spoke about one particular incident in his childhood that seems to have dramatically influences his religions views. His family was traveling along a desert road when they stumbled across a horrible car accident where numerous Native Americans had died (Morrison's family disputes this story, by the way). Morrison said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://everything2.com/title/Jim+Morrison",
-      "sourceTitle": "Jim Morrison",
-      "text": "That was the first time I tasted fear. I must have been about four… The reaction I get now thinking about it, looking back is that the souls of the ghosts of those dead Indians, maybe one or two of them were just running around freaking out, and just leaped into my soul. And they're still in there."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "That was the first time I tasted fear. I must have been about four… The reaction I get now thinking about it, looking back is that the souls of the ghosts of those dead Indians, maybe one or two of them were just running around freaking out, and just leaped into my soul. And they're still in there.",
+      "sourceTitle": "Jim Morrison",
+      "sourceUrl": "http://everything2.com/title/Jim+Morrison"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "This experience manifested itself in Morrison the artist during his shows when he would often \"channel\" a Native American shaman on stage, performing Native American dances and chanting."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://truelegends.info/amityville/doors.htm",
+      "parentId": 6,
+      "type": "text",
+      "text": "Beyond that, Morrison's spirituality was a fragmented, almost desperate searching for something to cling to. He dabbled in the occult, even participating in a \"witch wedding\" at one point.",
       "sourceTitle": "Patricia Keneally-Morrison the Lizard Queen.",
-      "text": "Beyond that, Morrison's spirituality was a fragmented, almost desperate searching for something to cling to. He dabbled in the occult, even participating in a \"witch wedding\" at one point."
+      "sourceUrl": "http://truelegends.info/amityville/doors.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "text": "Val Kilmer, who thoroughly researched Jim Morrison for his roll in the Oliver Stone film, , said of Jim:"
+      "parentId": 7,
+      "type": "text",
+      "text": "Val Kilmer, who thoroughly researched Jim Morrison for his roll in the Oliver Stone film,"
     },
     {
-      "type": "break"
+      "parentId": 7,
+      "type": "emphasis",
+      "text": "The Doors"
+    },
+    {
+      "type": "text",
+      "text": ", said of Jim:",
+      "parentId": 7
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pm/Jim_Morrison.html",
-      "sourceTitle": "The religion of Jim Morrison, musician",
-      "text": "He had a sincere search. He may have chosen some of the wrong tools, but I think he tried to keep open an avenue of hope through spirituality. But I also think he was a bit of a cop-out because he was deathly frightened of committing to a practice, a condition, a way to behave, something to live for or live out of. I think  was very important to him."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "He had a sincere search. He may have chosen some of the wrong tools, but I think he tried to keep open an avenue of hope through spirituality. But I also think he was a bit of a cop-out because he was deathly frightened of committing to a practice, a condition, a way to behave, something to live for or live out of. I think"
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "cool"
+    },
+    {
+      "type": "text",
+      "text": "was very important to him.",
+      "parentId": 9,
+      "sourceTitle": "The religion of Jim Morrison, musician",
+      "sourceUrl": "http://www.adherents.com/people/pm/Jim_Morrison.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Religious imagery fills Morrison's lyrics and poems, ranging from general spirituality to Christian to Native American themes. For example:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://en.wikiquote.org/wiki/Jim_Morrison",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "O great creator of being, grant us one more hour to, perform our art, and perfect our lives. The moths & atheists are doubly divine, & dying, We live, we die, and death not ends it.",
       "sourceTitle": "Jim Morrison",
-      "text": "O great creator of being, grant us one more hour to, perform our art, and perfect our lives. The moths & atheists are doubly divine, & dying, We live, we die, and death not ends it."
+      "sourceUrl": "http://en.wikiquote.org/wiki/Jim_Morrison"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cluas.com/music/features/jim-morrison.htm",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "In his own words, Morrison said that religion is \"a bunch of bullshit,\"",
       "sourceTitle": "Jim Morrison: a reflection",
-      "text": "In his own words, Morrison said that religion is \"a bunch of bullshit,\""
+      "sourceUrl": "http://www.cluas.com/music/features/jim-morrison.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://books.google.com/books?id=fLzRXcFh4aQC&pg=PT259&lpg=PT259&dq=jim+morrison+religion&source=bl&ots=ByWfGN1MUC&sig=ZaC4jDiATdAmddrh3RAchCbBW60&hl=en&sa=X&ei=I6iyT6_gBbLKiALr2LniAw&ved=0CF8Q6AEwADge#v=onepage&q=jim%20morrison%20religion&f=false",
+      "type": "text",
+      "text": "and that \"religion is what you think about and work at most.\"",
+      "parentId": 13,
       "sourceTitle": "Jim Morrison: Life, Death, Legend – Stephen Davis",
-      "text": "and that \"religion is what you think about and work at most.\""
+      "sourceUrl": "http://books.google.com/books?id=fLzRXcFh4aQC&pg=PT259&lpg=PT259&dq=jim+morrison+religion&source=bl&ots=ByWfGN1MUC&sig=ZaC4jDiATdAmddrh3RAchCbBW60&hl=en&sa=X&ei=I6iyT6_gBbLKiALr2LniAw&ved=0CF8Q6AEwADge#v=onepage&q=jim%20morrison%20religion&f=false"
     },
     {
-      "type": "sentence",
-      "text": "If that's the case, Morrison's real religion was drinking, drugs, women, music, and words."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "If that's the case, Morrison's real religion was drinking, drugs, women, music, and words.",
+      "parentId": 13
     },
     {
       "type": "heading",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "The reign of the Lizard King"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.postonpolitics.com/2010/12/jim-morrison-bandmates-demand-apology-not-pardon/",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Politically, Morrison was riding the social forces of his time. He was a hippie, a mouthpiece for the anti-establishment movement. His life was an exercise in the unorthodox. He exposed himself on stage at one point,",
       "sourceTitle": "Jim Morrison bandmates demand apololgy, not pardon",
-      "text": "Politically, Morrison was riding the social forces of his time. He was a hippie, a mouthpiece for the anti-establishment movement. His life was an exercise in the unorthodox. He exposed himself on stage at one point,"
+      "sourceUrl": "http://www.postonpolitics.com/2010/12/jim-morrison-bandmates-demand-apology-not-pardon/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://alternativereel.com/includes/top-ten/display_review.php?id=00095",
+      "type": "text",
+      "text": "all but publicly promoted drug use,",
+      "parentId": 15,
       "sourceTitle": "Top 10 Greatest LSD Quotes.",
-      "text": "all but publicly promoted drug use,"
+      "sourceUrl": "http://alternativereel.com/includes/top-ten/display_review.php?id=00095"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://books.google.com/books?id=_oRdvoEOoXMC&pg=PA323&lpg=PA323&dq=Jim+Morrison+Nixon&source=bl&ots=rlePy1r70i&sig=7Z2-L0FvlgomW9WzmwadynON_TE&hl=en&sa=X&ei=77KyT4ndI6GKiAK0-6TvAw&ved=0CF0Q6AEwAA#v=onepage&q=Jim%20Morrison%20Nixon&f=false",
+      "type": "text",
+      "text": "and was under investigation by the FBI at the orders of President Nixon–who seemed to think all anti-establishment figures were after him personally.",
+      "parentId": 15,
       "sourceTitle": "Jim Morrison: Life, Death, Legend – Stephen Davis",
-      "text": "and was under investigation by the FBI at the orders of President Nixon–who seemed to think all anti-establishment figures were after him personally."
+      "sourceUrl": "http://books.google.com/books?id=_oRdvoEOoXMC&pg=PA323&lpg=PA323&dq=Jim+Morrison+Nixon&source=bl&ots=rlePy1r70i&sig=7Z2-L0FvlgomW9WzmwadynON_TE&hl=en&sa=X&ei=77KyT4ndI6GKiAK0-6TvAw&ved=0CF0Q6AEwAA#v=onepage&q=Jim%20Morrison%20Nixon&f=false"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=0bAFITGnjrg",
+      "parentId": 16,
+      "type": "text",
+      "text": "Morrison spoke out against the war in Vietnam through his music. One great example is the song \"Five to One.\"",
       "sourceTitle": "The Doors Five to One",
-      "text": "Morrison spoke out against the war in Vietnam through his music. One great example is the song \"Five to One.\""
+      "sourceUrl": "http://www.youtube.com/watch?v=0bAFITGnjrg"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "In short, he was seriously liberal, even off-the-charts liberal. Much of his focus was sort of \"out of this world\" and the political movements of his time and place were probably secondary in his mind. Still, his \"live and let live\" attitude would probably be reminiscent of libertarianism or progressive liberalism."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

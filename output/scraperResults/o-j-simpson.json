@@ -33,142 +33,207 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Orenthal James, or O. J. Simpson was born and raised in San Francisco, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "Simpson does not appear to be religious in the least. Well, Saturday Night Live and the Church Lady in  claim that he's a very religious man, but only follows nine of the ten commandments. I'm sure you can guess which one he doesn't care for."
+      "parentId": 2,
+      "type": "text",
+      "text": "Simpson does not appear to be religious in the least. Well, Saturday Night Live and the Church Lady in"
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "link",
+      "text": "this video",
+      "sourceUrl": "http://www.hulu.com/watch/289758"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://kgov.com/oj-simpson-auction-and-memorabilia-burned",
+      "type": "text",
+      "text": "claim that he's a very religious man, but only follows nine of the ten commandments. I'm sure you can guess which one he doesn't care for.",
+      "parentId": 2
+    },
+    {
+      "type": "paragraph",
+      "id": 3
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "Christians seem to care a great deal about Simpson, but not in a good way. One Christian radio host organized a protest outside the Los Angeles courthouse where the former football star was acquitted, in which he and several others burned Simpson memorabilia.",
       "sourceTitle": "Christian Radio Host Burns O.J. Simpson Memorabilia.",
-      "text": "Christians seem to care a great deal about Simpson, but not in a good way. One Christian radio host organized a protest outside the Los Angeles courthouse where the former football star was acquitted, in which he and several others burned Simpson memorabilia."
+      "sourceUrl": "http://kgov.com/oj-simpson-auction-and-memorabilia-burned"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://sensiblefaith.com/2012/11/27/casey-anthony-oj-simpson-justice-and-god/",
+      "type": "text",
+      "text": "And Christian bloggers debate the meaning of the not-guilty verdict in his murder trial amid a public consensus of guilt–earthly vs. celestial justice.",
+      "parentId": 3,
       "sourceTitle": "Casey Anthony, OJ Simpson, Justice, and God.",
-      "text": "And Christian bloggers debate the meaning of the not-guilty verdict in his murder trial amid a public consensus of guilt–earthly vs. celestial justice."
+      "sourceUrl": "http://sensiblefaith.com/2012/11/27/casey-anthony-oj-simpson-justice-and-god/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://law2.umkc.edu/faculty/projects/ftrials/simpson/brownletter.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "He's also been in relationships with a few religious women. Nicole Brown Simpson, his wife whom he was accused of murdering back in 1994, appears to be at least moderately religious.",
       "sourceTitle": "Nicole Brown Simpson's letter to O.J. Simpson.",
-      "text": "He's also been in relationships with a few religious women. Nicole Brown Simpson, his wife whom he was accused of murdering back in 1994, appears to be at least moderately religious."
+      "sourceUrl": "http://law2.umkc.edu/faculty/projects/ftrials/simpson/brownletter.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pb/Paula_Barbieri.html",
+      "type": "text",
+      "text": "And his long-time girlfriend Paula Barbieri is a devout born-again Christian, although that revelation seems to have happened after Simpson and her parted ways.",
+      "parentId": 4,
       "sourceTitle": "The religion of Paula Barbieri, O.J. Simpson's girlfriend.",
-      "text": "And his long-time girlfriend Paula Barbieri is a devout born-again Christian, although that revelation seems to have happened after Simpson and her parted ways."
+      "sourceUrl": "http://www.adherents.com/people/pb/Paula_Barbieri.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2010/04/15/oj-simpson-bored-out-of-h_n_538601.html",
+      "parentId": 5,
+      "type": "text",
+      "text": "You would think there would be no better time to contemplate one's relationship with the Almighty than while serving a one- to three-decade sentence for armed robbery and kidnapping after being acquitted of murder a few decades earlier. But apparently Simpson is instead spending his time in prison being bored,",
       "sourceTitle": "O.J. Simpson 'Bored Out Of His Mind' At Prison.",
-      "text": "You would think there would be no better time to contemplate one's relationship with the Almighty than while serving a one- to three-decade sentence for armed robbery and kidnapping after being acquitted of murder a few decades earlier. But apparently Simpson is instead spending his time in prison being bored,"
+      "sourceUrl": "http://www.huffingtonpost.com/2010/04/15/oj-simpson-bored-out-of-h_n_538601.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usatoday.com/story/gameon/2013/02/12/nfl-oj-simpson-has-super-bowl-party-in-jail/1912719/",
+      "type": "text",
+      "text": "throwing Superbowl parties,",
+      "parentId": 5,
       "sourceTitle": "O.J. Simpson reportedly throws Super Bowl party in jail.",
-      "text": "throwing Superbowl parties,"
+      "sourceUrl": "http://www.usatoday.com/story/gameon/2013/02/12/nfl-oj-simpson-has-super-bowl-party-in-jail/1912719/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nationalenquirer.com/celebrity/world-exclusive-oj-simpson-gay-shocker",
+      "type": "text",
+      "text": "and hanging out with a posse of gay men.",
+      "parentId": 5,
       "sourceTitle": "O.J. Simpson Gay Shocker.",
-      "text": "and hanging out with a posse of gay men."
+      "sourceUrl": "http://www.nationalenquirer.com/celebrity/world-exclusive-oj-simpson-gay-shocker"
     },
     {
-      "type": "sentence",
-      "text": "(Okay, that last one came from the  so it must be taken with a few grains of salt.)"
+      "type": "text",
+      "text": "(Okay, that last one came from the",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "National Enquirer"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": "so it must be taken with a few grains of salt.)",
+      "parentId": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "So, anyway, long story short: O. J. Simpson is non-religious. And while we're at it, he's non-political too. Allow me to elaborate."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "The Juice and The Law"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Simpson won't be voting any time soon considering he's serving time for a couple of felonies, and there's no reason for us to believe he would have voted otherwise. He hasn't made any campaign contributions that I could find and he never endorsed any candidate or party. In fact, it seems like O. J. was trying his best to live outside the whole government structure."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cnn.com/US/OJ/suspect/bio/index.html",
+      "parentId": 9,
+      "type": "text",
+      "text": "His trouble with the law started with a short stint in juvie when he was just 15",
       "sourceTitle": "A timeline of O.J. Simpson's life.",
-      "text": "His trouble with the law started with a short stint in juvie when he was just 15"
+      "sourceUrl": "http://www.cnn.com/US/OJ/suspect/bio/index.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2013/01/28/oj-simpson-lien_n_2567483.html",
+      "type": "text",
+      "text": "and it's only gone downhill since then. Beyond even his murder trial, his kidnapping and armed robbery conviction, and miscellaneous other infractions, he has also attempted to skirt the Internal Revenue Service, owing somewhere between $500,000",
+      "parentId": 9,
       "sourceTitle": "O.J. Simpson Tax Lien: Former Football Star Owes Over $500,000 In Unpaid Taxes.",
-      "text": "and it's only gone downhill since then. Beyond even his murder trial, his kidnapping and armed robbery conviction, and miscellaneous other infractions, he has also attempted to skirt the Internal Revenue Service, owing somewhere between $500,000"
+      "sourceUrl": "http://www.huffingtonpost.com/2013/01/28/oj-simpson-lien_n_2567483.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.reuters.com/article/2007/10/18/us-california-taxes-idUSN1733575520071018",
+      "type": "text",
+      "text": "and $1.4 million",
+      "parentId": 9,
       "sourceTitle": "O.J. Simpson among those on California tax shame list.",
-      "text": "and $1.4 million"
+      "sourceUrl": "http://www.reuters.com/article/2007/10/18/us-california-taxes-idUSN1733575520071018"
     },
     {
-      "type": "sentence",
-      "text": "in unpaid taxes. Maybe it's a political position or maybe he's just lazy. You'll have to make your own judgments."
+      "type": "text",
+      "text": "in unpaid taxes. Maybe it's a political position or maybe he's just lazy. You'll have to make your own judgments.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.realclearpolitics.com/video/2012/10/09/obama_uses_elmo_to_make_oj_simpson_joke_at_san_francisco_fundraiser.html",
+      "parentId": 10,
+      "type": "text",
+      "text": "Politicians on both sides of the aisle certainly aren't hesitant about using O. J.'s name to make political points. Barack Obama invoked images of Simpson's infamous white SUV in a campaign speech in 2012",
       "sourceTitle": "Obama Uses Elmo To Make O.J. Simpson Joke At San Francisco Fundraiser.",
-      "text": "Politicians on both sides of the aisle certainly aren't hesitant about using O. J.'s name to make political points. Barack Obama invoked images of Simpson's infamous white SUV in a campaign speech in 2012"
+      "sourceUrl": "http://www.realclearpolitics.com/video/2012/10/09/obama_uses_elmo_to_make_oj_simpson_joke_at_san_francisco_fundraiser.html"
     },
     {
-      "type": "sentence",
-      "text": "and a New Jersey Republican club came up with this slogan:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and a New Jersey Republican club came up with this slogan:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.dailykos.com/story/2008/07/09/548875/-Local-New-Jersey-GOP-Compares-Obama-to-OJ-Simpson-picture",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Obama Loves America Like OJ Loved Nicole",
       "sourceTitle": "Local New Jersey GOP Compares Obama to OJ Simpson.",
-      "text": "Obama Loves America Like OJ Loved Nicole"
+      "sourceUrl": "http://www.dailykos.com/story/2008/07/09/548875/-Local-New-Jersey-GOP-Compares-Obama-to-OJ-Simpson-picture"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Tasteless? Yes. Effective? Apparently not. And that's all folks. Thanks for tuning in to the ever-sleazy pop culture fascination with one of America's most embarrassing citizens."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

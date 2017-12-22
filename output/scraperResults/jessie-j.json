@@ -31,64 +31,88 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jessie J, whose real name is Jessica Cornish, was born and raised in London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "This artist appears to be entirely non-religious. There's speculation as with any public figure, but there's really no evidence whatsoever. I couldn't find a picture of her wearing a cross, an article about her meditating, or an interview of her talking about God. There's just nothing."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/JessieJ/status/263043291338113024",
+      "parentId": 3,
+      "type": "text",
+      "text": "She does talk about praying for various things like those in the path of Hurricane Sandy in 2012",
       "sourceTitle": "JessieJ: My prayers and thoughts are …",
-      "text": "She does talk about praying for various things like those in the path of Hurricane Sandy in 2012"
+      "sourceUrl": "https://twitter.com/JessieJ/status/263043291338113024"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://m.lockerz.com/u/missautonomy.tpr8532/decalz/14957608/_jessiej_says_she_prays_she_doesn_t_fall",
+      "type": "text",
+      "text": "or not falling on the stage at one of her performances.",
+      "parentId": 3,
       "sourceTitle": "@JessieJ says she prays she doesn't fall over or off anything on the Summertime Ball 2012 stage.",
-      "text": "or not falling on the stage at one of her performances."
+      "sourceUrl": "http://m.lockerz.com/u/missautonomy.tpr8532/decalz/14957608/_jessiej_says_she_prays_she_doesn_t_fall"
     },
     {
-      "type": "sentence",
-      "text": "But considering we've found no other evidence of religiousness, I'm going to guess that's not how she meant it."
+      "type": "text",
+      "text": "But considering we've found no other evidence of religiousness, I'm going to guess that's not how she meant it.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Likewise, we don't have much to go on with Jessie J's political beliefs. Maybe she's more liberal because she's bisexual, and liberal social values tend to favor the gay community. But we really don't know."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "Her bisexuality did put her in the middle of a debate about sexuality among the famous. An unauthorized biography was released of the singer that claimed she was not bisexual, but a lesbian, and her record label forced her to tone down her sexuality to improve her image. She denied that this was true. On Twitter she wrote,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/04/19/jessie-j-lesbian-rumors-biography-_n_1438372.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I'm really a lesbian?! Ha! Thanks for writing yet another boring untrue story.",
       "sourceTitle": "Jessie J. Denies Lesbian Rumors: Bisexual Singer Shoots Down Biography Claims.",
-      "text": "I'm really a lesbian?! Ha! Thanks for writing yet another boring untrue story."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/04/19/jessie-j-lesbian-rumors-biography-_n_1438372.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "The question becomes though, why is being bisexual trendy and gay alienating? If a woman has only dated women, does that automatically make her 100% lesbian? And in the end, does it really matter? To Jessie J, it's just another boring story."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

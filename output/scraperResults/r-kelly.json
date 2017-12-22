@@ -36,100 +36,155 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "R. Kelly, whose full name is Robert Sylvester Kelly, was born and raised in Chicago, Illinois."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://music.yahoo.com/r-kelly/news/timeline-of-r-kellys-life--61230034",
+      "parentId": 2,
+      "type": "text",
+      "text": "Kelly was raised Baptist by his mother and sang in his church choir as a kid.",
       "sourceTitle": "Timeline of R. Kelly's life.",
-      "text": "Kelly was raised Baptist by his mother and sang in his church choir as a kid."
+      "sourceUrl": "http://music.yahoo.com/r-kelly/news/timeline-of-r-kellys-life--61230034"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.zimeye.org/?p=17575",
+      "type": "text",
+      "text": "He's still a devout Christian which is apparent in both interviews and his song lyrics–and he attends church.",
+      "parentId": 2,
       "sourceTitle": "R Kelly attends church before flying to South Africa.",
-      "text": "He's still a devout Christian which is apparent in both interviews and his song lyrics–and he attends church."
+      "sourceUrl": "http://www.zimeye.org/?p=17575"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=GvnuNPK6kZk",
+      "parentId": 3,
+      "type": "text",
+      "text": "In true Baptist fashion, a"
+    },
+    {
+      "parentId": 3,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.youtube.com/watch?v=GvnuNPK6kZk"
+    },
+    {
+      "type": "text",
+      "text": "of the Gospel Extravaganza in 2001 shows R. Kelly up on stage so the whole building–and even viewers at home–could pray for the man.",
+      "parentId": 3,
       "sourceTitle": "R. Kelly Recieves Prayer.",
-      "text": "In true Baptist fashion, a  of the Gospel Extravaganza in 2001 shows R. Kelly up on stage so the whole building–and even viewers at home–could pray for the man."
+      "sourceUrl": "http://www.youtube.com/watch?v=GvnuNPK6kZk"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/music/2004/sep/19/urban",
+      "type": "text",
+      "text": "And when asked if he feels like his fame is due to a higher power, he answers, \"Yeah, sometimes.\"",
+      "parentId": 3,
       "sourceTitle": "An interview with R Kelly.",
-      "text": "And when asked if he feels like his fame is due to a higher power, he answers, \"Yeah, sometimes.\""
+      "sourceUrl": "http://www.guardian.co.uk/music/2004/sep/19/urban"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "A person doesn't even need to look at the lyrics of Kelly's songs to know he's a Christian; just look at a few of the titles: \"Heaven, I Need a Hug,\" \"Prayer Changes,\" and \"Religious,\" to name a few. But I'll give you a few lines anyway from the song, \"U Saved Me:\""
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.azlyrics.com/lyrics/rkelly/usavedme.html",
-      "sourceTitle": "R KELLY LYRICS – U Saved Me.",
-      "text": "Then I heard a small voice that said/ I'll give you peace if you believe/ I accepted Christ that day/ Halilujah now i'm free/ You saved me"
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Then I heard a small voice that said/ I'll give you peace if you believe/ I accepted Christ that day/ Halilujah now i'm free/ You saved me",
+      "sourceTitle": "R KELLY LYRICS – U Saved Me.",
+      "sourceUrl": "http://www.azlyrics.com/lyrics/rkelly/usavedme.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "So yeah, the dude's devoted."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "I Believe in Obama"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "To understand Kelly's political affiliations, you need to look no further than his song, \"I Believe.\" Kelly wrote the song after Barack Obama's inauguration in 2009, and it includes some audio of the president's speech from that day. Kelly sings,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.musicbabylon.com/artist/R_Kelly/Singles/I_Believe_Obama_Tribute.htm",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "With the hope you set us free/ You showed us how to dream/ And now we can lift our voices and forever see",
       "sourceTitle": "I Believe (Obama Tribute) lyrics.",
-      "text": "With the hope you set us free/ You showed us how to dream/ And now we can lift our voices and forever see"
+      "sourceUrl": "http://www.musicbabylon.com/artist/R_Kelly/Singles/I_Believe_Obama_Tribute.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.killerhiphop.com/kanye-west-to-the-world-lyrics/",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "In 2012 Kelly joined Kanye West in a song in which West bashes presidential hopeful Mitt Romney for not paying taxes. Kelly's hook however (\"Put your middle fingers up to the world\") doesn't explicitly criticize Romney.",
       "sourceTitle": "Kanye West – To The World Lyrics.",
-      "text": "In 2012 Kelly joined Kanye West in a song in which West bashes presidential hopeful Mitt Romney for not paying taxes. Kelly's hook however (\"Put your middle fingers up to the world\") doesn't explicitly criticize Romney."
+      "sourceUrl": "http://www.killerhiphop.com/kanye-west-to-the-world-lyrics/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.metrolyrics.com/heal-it-lyrics-r-kelly.html",
+      "parentId": 13,
+      "type": "text",
+      "text": "Aside from his Obama endorsement, he hasn't talked too much about politics. No word on gay marriage or immigration yet. And he hasn't spoken about climate change unless you count him including \"Plant Earth\" in the things he wants heaven to heal in the song, \"Heal It.\"",
       "sourceTitle": "R. KELLY – HEAL IT LYRICS.",
-      "text": "Aside from his Obama endorsement, he hasn't talked too much about politics. No word on gay marriage or immigration yet. And he hasn't spoken about climate change unless you count him including \"Plant Earth\" in the things he wants heaven to heal in the song, \"Heal It.\""
+      "sourceUrl": "http://www.metrolyrics.com/heal-it-lyrics-r-kelly.html"
     },
     {
-      "type": "sentence",
-      "text": "So he's probably not political save his support for the president, but we'll call him a Democrat anyway."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "So he's probably not political save his support for the president, but we'll call him a Democrat anyway.",
+      "parentId": 13
     }
   ],
   "wikipediaData": {

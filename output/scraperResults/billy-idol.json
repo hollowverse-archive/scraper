@@ -34,123 +34,202 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Billy Idol, whose real name is William Broad, was born in Stanmore, Middlesex, England. He lived briefly on Long Island, U.S.A. as a child before his family moved back to England and settled in London."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.visitlondon.com/things-to-do/event/7834584-cub-scouts-at-st-marys-church",
+      "parentId": 2,
+      "type": "text",
+      "text": "Idol's parents were devout Anglican Christians and attended church regularly. As a boy, Idol was a member of a Cub Scouts troop associated with London's St. Mary's Anglican Church,",
       "sourceTitle": "Cub Scouts at St. Mary's Church – Things to Do",
-      "text": "Idol's parents were devout Anglican Christians and attended church regularly. As a boy, Idol was a member of a Cub Scouts troop associated with London's St. Mary's Anglican Church,"
+      "sourceUrl": "http://www.visitlondon.com/things-to-do/event/7834584-cub-scouts-at-st-marys-church"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.monstersandcritics.com/people/Billy-Idol/biography/",
+      "type": "text",
+      "text": "though he was reportedly kicked out of the troop after being caught kissing a girl.",
+      "parentId": 2,
       "sourceTitle": "Billy Idol Biography",
-      "text": "though he was reportedly kicked out of the troop after being caught kissing a girl."
+      "sourceUrl": "http://www.monstersandcritics.com/people/Billy-Idol/biography/"
     },
     {
-      "type": "sentence",
-      "text": "Perhaps this could be viewed as prelude to Idol's relationship to religion as an adult…"
+      "type": "text",
+      "text": "Perhaps this could be viewed as prelude to Idol's relationship to religion as an adult…",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Idol once said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://books.google.com/books?id=FG5FANKYhpcC&pg=PA69&lpg=PA69&dq=Billy+Idol+to+show+what+a+human+rip-off+religion+is&source=bl&ots=e727UlrbyE&sig=Q16GAxuFNWDpeIIehpW2OM5XP_0&hl=en&sa=X&ei=eakCUeqcFsLhiAKJhYDwBg&ved=0CDkQ6AEwAQ#v=onepage&q=Billy%20Idol%20to%20show%20what%20a%20human%20rip-off%20religion%20is&f=false",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "[My music is supposed to] show what a human rip-off religion is.",
       "sourceTitle": "Jim Morrison's Search for God – Michael J Bollinger",
-      "text": "[My music is supposed to] show what a human rip-off religion is."
+      "sourceUrl": "http://books.google.com/books?id=FG5FANKYhpcC&pg=PA69&lpg=PA69&dq=Billy+Idol+to+show+what+a+human+rip-off+religion+is&source=bl&ots=e727UlrbyE&sig=Q16GAxuFNWDpeIIehpW2OM5XP_0&hl=en&sa=X&ei=eakCUeqcFsLhiAKJhYDwBg&ved=0CDkQ6AEwAQ#v=onepage&q=Billy%20Idol%20to%20show%20what%20a%20human%20rip-off%20religion%20is&f=false"
     },
     {
-      "type": "sentence",
-      "text": "And he did occasionally address religion directly in his music, such as in the song \"Wasteland\" off of 1993's . The album is a concept piece portraying a dystopic future where apparently religion doesn't exist. He sings:"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "text",
+      "text": "And he did occasionally address religion directly in his music, such as in the song \"Wasteland\" off of 1993's"
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "Cyberpunk"
+    },
+    {
+      "type": "text",
+      "text": ". The album is a concept piece portraying a dystopic future where apparently religion doesn't exist. He sings:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.metrolyrics.com/wasteland-lyrics-billy-idol.html",
-      "sourceTitle": "Billy Idol – Wasteland Lyrics",
-      "text": "There's a man in need of resurrection/No religion/Can't you see a modern primitive/No religion/But I'm a man, I need my love and freedom/No religion/When there was no freedom at all."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "There's a man in need of resurrection/No religion/Can't you see a modern primitive/No religion/But I'm a man, I need my love and freedom/No religion/When there was no freedom at all.",
+      "sourceTitle": "Billy Idol – Wasteland Lyrics",
+      "sourceUrl": "http://www.metrolyrics.com/wasteland-lyrics-billy-idol.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "It's cryptic and difficult to discern any explicit meaning. But it shows that, at the very least, the topic of religion is on Idol's mind."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "Adding to the confusion, Idol once likened Jesus Christ to what you would think would be Idol's ideal type of person:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0002150/bio",
-      "sourceTitle": "Billy Idol – Biography.",
-      "text": "Christ was a punk rocker."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Christ was a punk rocker.",
+      "sourceTitle": "Billy Idol – Biography.",
+      "sourceUrl": "http://www.imdb.com/name/nm0002150/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "I think if Billy Idol called me a punk rocker, I'd have to consider it a high compliment. So does that mean he admired Christ? Possibly, though Idol clearly didn't think too highly of religion itself. I think we'll have to call him a non-religious Christian."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 14
     },
     {
-      "type": "heading",
+      "parentId": 14,
+      "type": "text",
       "text": "The cradle of anarchy"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Idol is one of the fathers of punk music and one of the first to associate himself and his music to the political philosophy of anarchism. What exactly anarchism is or what it means is hotly debated among its adherents as well as academics and theorists. Idol has picked his side of the fence."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "In the early 1980s, punk had become multi-generational and a new wave of bands influenced by the older acts like the Sex Pistols, the Ramones and Idol himself, emerged. At this point in time, the genre adopted a more violent approach to the term \"anarchy\" and it could be argued that it was this generation of punk musicians who helped mis-educate the general public about the nature of anarchy as a political philosophy. And Billy wasn't having it. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://libcom.org/forums/libcommunity/billy-idol-violence-punk-true-meaning-anarchy-30012012",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "When Sex Pistols said \"destroy,\" they meant social destruction. They didn't mean \"kill people.\" They mean destroy what's bad [in society]… But then all these groups turned up that were saying 'smash someone in the face.' Anarchy is unviolent. Anarchy is an unviolent way of bringing about change.",
       "sourceTitle": "Billy Idol on Violence in Punk, and the true meaning of \"Anarchy.\"",
-      "text": "When Sex Pistols said \"destroy,\" they meant social destruction. They didn't mean \"kill people.\" They mean destroy what's bad [in society]… But then all these groups turned up that were saying 'smash someone in the face.' Anarchy is unviolent. Anarchy is an unviolent way of bringing about change."
+      "sourceUrl": "http://libcom.org/forums/libcommunity/billy-idol-violence-punk-true-meaning-anarchy-30012012"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.razorrobotics.com/knowledge/?title=Cyberpunk_%28album%29",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "In the next decade, at the genesis of the Internet, Idol was commenting on technology's ability to put power into the hands of the common man–a highly relevant topic to this day. After Rodney King was beaten by Los Angeles police officers in 1992 and the entire affair was caught on a camcorder, riots erupted across the city. It was this event that inspired Idol to write the song \"Shock to the System.\" He explained the concept behind the song as trying to capture the \"political and economic conflict\" that caused the LA riots and that the camcorder was a \"potent way of conveying ideas\" and a proper metaphor for the use of technology in social change.",
       "sourceTitle": "Cyberpunk (album)",
-      "text": "In the next decade, at the genesis of the Internet, Idol was commenting on technology's ability to put power into the hands of the common man–a highly relevant topic to this day. After Rodney King was beaten by Los Angeles police officers in 1992 and the entire affair was caught on a camcorder, riots erupted across the city. It was this event that inspired Idol to write the song \"Shock to the System.\" He explained the concept behind the song as trying to capture the \"political and economic conflict\" that caused the LA riots and that the camcorder was a \"potent way of conveying ideas\" and a proper metaphor for the use of technology in social change."
+      "sourceUrl": "http://www.razorrobotics.com/knowledge/?title=Cyberpunk_%28album%29"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "It all amounts to a sort of anti-authoritarian worldview, where we should always question the power, fight the power and rage against the institutions that might push their rules onto us. It's all very punk."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -201,12 +280,12 @@
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/possan/7470128584/\">_MG_3648</a>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/possan/7470128584/\">_MG_3648</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/people/21437888@N02\">possan</a>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/21437888@N02\">possan</a>",
             "source": "commons-desc-page"
           },
           "LicenseShortName": {

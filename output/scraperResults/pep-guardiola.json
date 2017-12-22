@@ -33,85 +33,135 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Josep \"Pep\" Guardiola i Sala was born and raised in Barcelona, Catalonia, Spain."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Spain",
+      "parentId": 2,
+      "type": "text",
+      "text": "I expected Guardiola to be at least mildly Catholic, as I expect of most Spaniards. But I couldn't find a shred of evidence that he even thinks about religion all that much. It seems most likely that he joins the quarter of the population of Spain that considers itself non-religious.",
       "sourceTitle": "Religion in Spain.",
-      "text": "I expected Guardiola to be at least mildly Catholic, as I expect of most Spaniards. But I couldn't find a shred of evidence that he even thinks about religion all that much. It seems most likely that he joins the quarter of the population of Spain that considers itself non-religious."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Spain"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.bestplaces.net/religion/state/new_york",
+      "type": "text",
+      "text": "Maybe that's why he has decided to stay in the much more secular New York City for the time being.",
+      "parentId": 2,
       "sourceTitle": "Religion in New York.",
-      "text": "Maybe that's why he has decided to stay in the much more secular New York City for the time being."
+      "sourceUrl": "http://www.bestplaces.net/religion/state/new_york"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "If any of you readers know anything about Guardiola's religion that I missed, drop us a line in the comments. We appreciate the help."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 4
     },
     {
-      "type": "heading",
+      "parentId": 4,
+      "type": "text",
       "text": "One more vote for independence"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "As far as politics are concerned, Guardiola has a little more to say. He is a strong and vocal advocate for Catalan independence. He grew up in Catalonia, and spent much of his football career, as both a player and coach, with Barcelona's team, and he feels great pride for his home. He said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=uHRZgF5myKw",
-      "sourceTitle": "Pep Guardiola – Catalonia is not Spain.",
-      "text": "I feel a strong bond to my country, Catalonia. I feel a strong bond to what I feel inside my head and my heart. A country that for 800 years has had its own language. . . so one feels this as part of him."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I feel a strong bond to my country, Catalonia. I feel a strong bond to what I feel inside my head and my heart. A country that for 800 years has had its own language. . . so one feels this as part of him.",
+      "sourceTitle": "Pep Guardiola – Catalonia is not Spain.",
+      "sourceUrl": "http://www.youtube.com/watch?v=uHRZgF5myKw"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "When asked in one interview why he speaks to journalists in Catalan, he responded,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.goal.com/en/news/12/spain/2009/12/10/1678817/barcelonas-pep-guardiola-incites-political-rift-we-are-our",
-      "sourceTitle": "Barcelona's Pep Guardiola Incites Political Rift – We Are Our Own Country With Our Own Language.",
-      "text": "We are a country with our own language and when we leave its borders, those of us that speak it, use it."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "We are a country with our own language and when we leave its borders, those of us that speak it, use it.",
+      "sourceTitle": "Barcelona's Pep Guardiola Incites Political Rift – We Are Our Own Country With Our Own Language.",
+      "sourceUrl": "http://www.goal.com/en/news/12/spain/2009/12/10/1678817/barcelonas-pep-guardiola-incites-political-rift-we-are-our"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Although Guardiola was living in New York in 2012, he sent a video message of his support for his country's independence from Spain during a demonstration on the National Day of Catalonia. His message to his fellow Catalans was,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.marca.com/2012/09/12/en/football/barcelona/1347470330.html",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Here's one more vote for independence.",
       "sourceTitle": "Pep Guardiola: \"Here's one more vote for independence.\"",
-      "text": "Here's one more vote for independence."
+      "sourceUrl": "http://www.marca.com/2012/09/12/en/football/barcelona/1347470330.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://uk.eurosport.yahoo.com/blogs/pitchside-europe/barca-catalyst-catalonia-independent-streak-165604732.html",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "If Catalonia ever does manage to secede, and gets a place in the World Cup with its national team, there's no doubt that Guardiola will be right there with them, barking directions from the sideline in Catalan.",
       "sourceTitle": "Barca a catalyst for Catalonia's independent streak.",
-      "text": "If Catalonia ever does manage to secede, and gets a place in the World Cup with its national team, there's no doubt that Guardiola will be right there with them, barking directions from the sideline in Catalan."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://uk.eurosport.yahoo.com/blogs/pitchside-europe/barca-catalyst-catalonia-independent-streak-165604732.html"
     }
   ],
   "wikipediaData": {

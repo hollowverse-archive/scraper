@@ -32,120 +32,247 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Erika Leonard, better known by her pen name E. L. James, was born and raised in Buckinghamshire, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Chile",
+      "parentId": 2,
+      "type": "text",
+      "text": "Being an Englishwoman, one can assume that James has had some Christian influence in her life. Her mother is from Chile, a predominantly Catholic country,",
       "sourceTitle": "Religion in Chile.",
-      "text": "Being an Englishwoman, one can assume that James has had some Christian influence in her life. Her mother is from Chile, a predominantly Catholic country,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Chile"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Scotland",
+      "type": "text",
+      "text": "and her father is from Scotland, a predominantly Presbyterian country in the U.K.",
+      "parentId": 2,
       "sourceTitle": "Religion in Scotland.",
-      "text": "and her father is from Scotland, a predominantly Presbyterian country in the U.K."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Scotland"
     },
     {
-      "type": "sentence",
-      "text": "But James herself doesn't seem to talk about religion all that much."
+      "type": "text",
+      "text": "But James herself doesn't seem to talk about religion all that much.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "James' books, the  trilogy, sometimes dubbed \"mommy porn\" for their sexually explicit content, don't rule out the possibility that she's a Christian, but they do rule out that she's a conservative Christian. The backlash from that particular religious community comes as no shock. One Christian author wrote,"
+      "parentId": 3,
+      "type": "text",
+      "text": "James' books, the"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Fifty Shades"
+    },
+    {
+      "type": "text",
+      "text": "trilogy, sometimes dubbed \"mommy porn\" for their sexually explicit content, don't rule out the possibility that she's a Christian, but they do rule out that she's a conservative Christian. The backlash from that particular religious community comes as no shock. One Christian author wrote,",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.buzzfeed.com/annanorth/the-christian-backlash-against-50-shades-of-grey",
-      "sourceTitle": "The Christian Backlash Against \"50 Shades Of Grey.\"",
-      "text": "I wouldn't drive my Envoy into the front of an oncoming semi-truck any more than I would open the pages of ."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I wouldn't drive my Envoy into the front of an oncoming semi-truck any more than I would open the pages of"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Fifty Shades of Grey"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 5,
+      "sourceTitle": "The Christian Backlash Against \"50 Shades Of Grey.\"",
+      "sourceUrl": "http://www.buzzfeed.com/annanorth/the-christian-backlash-against-50-shades-of-grey"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "James' response to all the criticism possibly betrays some resentment toward the community that most vocally denounces her morality:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.usatoday.com/story/life/books/2012/12/19/james-interview-fifty-shades/1767497/",
-      "sourceTitle": "E.L. James talks 'Fifty Shades,' her future plans.",
-      "text": "\"Mommy porn\" is the most misogynistic term. It's so demeaning. Women aren't allowed to write about sex, to read about sex, to think about sex. God forbid that women have fantasies."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "\"Mommy porn\" is the most misogynistic term. It's so demeaning. Women aren't allowed to write about sex, to read about sex, to think about sex. God forbid that women have fantasies.",
+      "sourceTitle": "E.L. James talks 'Fifty Shades,' her future plans.",
+      "sourceUrl": "http://www.usatoday.com/story/life/books/2012/12/19/james-interview-fifty-shades/1767497/"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Considering her silence on the topic of religion, I'm going to assume she's non-religious. If you know better, leave me a note in the comments."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "The Politics of Sex"
     },
     {
-      "type": "sentence",
-      "text": "E. L. James may not weigh in on partisan politics or her favorite political candidate, but due to the popularity of her erotic novels, she is smack in the middle of debates about feminism and its meaning. The female protagonist in her  books, out of love for her boyfriend, agrees to a submissive sexual relationship that includes, among other things, spanking and whipping. This begs the question: is James promoting sexual liberation or sexual repression?"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "break"
+      "parentId": 11,
+      "type": "text",
+      "text": "E. L. James may not weigh in on partisan politics or her favorite political candidate, but due to the popularity of her erotic novels, she is smack in the middle of debates about feminism and its meaning. The female protagonist in her"
     },
     {
-      "type": "sentence",
-      "text": "In a controversial cover article in  magazine, Katie Roiphe postulates that perhaps despite all the progress of feminism since the 1960s, women still prefer to be dominated in their bedrooms. She wrote,"
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "Fifty Shades"
     },
     {
-      "type": "break"
+      "type": "text",
+      "text": "books, out of love for her boyfriend, agrees to a submissive sexual relationship that includes, among other things, spanking and whipping. This begs the question: is James promoting sexual liberation or sexual repression?",
+      "parentId": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "In a controversial cover article in"
+    },
+    {
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "Newsweek"
+    },
+    {
+      "type": "text",
+      "text": "magazine, Katie Roiphe postulates that perhaps despite all the progress of feminism since the 1960s, women still prefer to be dominated in their bedrooms. She wrote,",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.thedailybeast.com/newsweek/2012/04/15/working-women-s-fantasies.html",
-      "sourceTitle": "Working Women's Fantasies.",
-      "text": "It may be that power is not always that comfortable, even for those of us who grew up in it; it may be that equality is something we want only sometimes and in some places and in some arenas; it may be that power and all of its imperatives can be boring."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "It may be that power is not always that comfortable, even for those of us who grew up in it; it may be that equality is something we want only sometimes and in some places and in some arenas; it may be that power and all of its imperatives can be boring.",
+      "sourceTitle": "Working Women's Fantasies.",
+      "sourceUrl": "http://www.thedailybeast.com/newsweek/2012/04/15/working-women-s-fantasies.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Outrage among feminists exploded in blogosphere in response. One blogger wrote,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/carey-purcell/fifty-shades-of-grey-feminism_b_2395932.html",
-      "sourceTitle": "Carey Purcell: Fifty Shades of Feminism – A Response to E. L. James' 'Fifty Shades of Grey.'",
-      "text": "Our culture has seen a radical shift of ideals moving towards traditional gender roles and  is a shining example of that. Early marriage to one's first sexual partner, having a baby even when saying neither of the partners is ready to be a parent, and submission to one's husband as the head of the household are all aspects of life that feminists and progressive thinkers have worked to move beyond."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Our culture has seen a radical shift of ideals moving towards traditional gender roles and"
+    },
+    {
+      "parentId": 17,
+      "type": "emphasis",
+      "text": "Fifty Shades of Grey"
+    },
+    {
+      "type": "text",
+      "text": "is a shining example of that. Early marriage to one's first sexual partner, having a baby even when saying neither of the partners is ready to be a parent, and submission to one's husband as the head of the household are all aspects of life that feminists and progressive thinkers have worked to move beyond.",
+      "parentId": 17,
+      "sourceTitle": "Carey Purcell: Fifty Shades of Feminism – A Response to E. L. James' 'Fifty Shades of Grey.'",
+      "sourceUrl": "http://www.huffingtonpost.com/carey-purcell/fifty-shades-of-grey-feminism_b_2395932.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "What does James have to say in response?"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.northjersey.com/arts_entertainment/150329035_It_s_James___holy_cow__moment__Fifty_Shades__writer_hearing_from_rabid_fans__critics.html?page=all",
+      "id": 19
+    },
+    {
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "I don't know what all the fuss is about. . . . It's an entertaining story. A fantasy. A love story for women and that's it.",
       "sourceTitle": "'Fifty Shades' author James caught in crossfire between rabid fans, critics.",
-      "text": "I don't know what all the fuss is about. . . . It's an entertaining story. A fantasy. A love story for women and that's it."
+      "sourceUrl": "http://www.northjersey.com/arts_entertainment/150329035_It_s_James___holy_cow__moment__Fifty_Shades__writer_hearing_from_rabid_fans__critics.html?page=all"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "Well, for all the talk, it turns out that she's about as non-political as you could get. What do you think? Are James' books sexually liberating for women? Do they promote immorality? Do they represent a flight from feminism in modern culture? Let us know what you think in the comments, but be nice now. . ."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

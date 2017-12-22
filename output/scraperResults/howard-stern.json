@@ -33,121 +33,178 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Howard Stern was born and raised in New York City, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://jewishornot.blogspot.de/2012/05/is-howard-stern-jewish.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "He comes from a full-on Jewish family, both of his parents are children of Austro-Hungarian Jewish immigrants.",
       "sourceTitle": "Jewish Or Not: Is Howard Stern Jewish?",
-      "text": "He comes from a full-on Jewish family, both of his parents are children of Austro-Hungarian Jewish immigrants."
+      "sourceUrl": "http://jewishornot.blogspot.de/2012/05/is-howard-stern-jewish.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=ALXR0yl0uBc",
+      "parentId": 3,
+      "type": "text",
+      "text": "Now, Stern doesn't seem too enchanted with his inherited religion and is sometimes labeled as a \"self-hating Jew.\"",
       "sourceTitle": "Howard Stern – Self Hating Jew",
-      "text": "Now, Stern doesn't seem too enchanted with his inherited religion and is sometimes labeled as a \"self-hating Jew.\""
+      "sourceUrl": "http://www.youtube.com/watch?v=ALXR0yl0uBc"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://revoltoftheplebs.wordpress.com/2011/12/31/howard-stern-being-a-jew-sucks/",
+      "type": "text",
+      "text": "These critiques don't seem too off the mark, especially when Stern goes on about what he considers ridiculous Jewish rituals, such as fasting,",
+      "parentId": 3,
       "sourceTitle": "Howard Stern: Growing Up Jewish",
-      "text": "These critiques don't seem too off the mark, especially when Stern goes on about what he considers ridiculous Jewish rituals, such as fasting,"
+      "sourceUrl": "http://revoltoftheplebs.wordpress.com/2011/12/31/howard-stern-being-a-jew-sucks/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://revoltoftheplebs.wordpress.com/2011/12/31/howard-stern-being-a-jew-sucks/",
+      "type": "text",
+      "text": "or speaking Hebrew in English speaking countries,",
+      "parentId": 3,
       "sourceTitle": "Howard Stern: Growing Up Jewish",
-      "text": "or speaking Hebrew in English speaking countries,"
+      "sourceUrl": "http://revoltoftheplebs.wordpress.com/2011/12/31/howard-stern-being-a-jew-sucks/"
     },
     {
-      "type": "sentence",
-      "text": "or circumcision. Of that, he said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "or circumcision. Of that, he said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.beyondthebris.com/2011/03/howard-stern-jewish-intactivist.html",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I don't know where this circumcision came from, some people feel it's a religious thing, it's about health, it's about cutting off the foreskin makes your penis less likely to get cancer. There's been all kinds of myths. I think it's nonsense. That if you're born that way, it seems to me it's a mutilation to cut it off.",
       "sourceTitle": "Questioning Jewish Circumcision",
-      "text": "I don't know where this circumcision came from, some people feel it's a religious thing, it's about health, it's about cutting off the foreskin makes your penis less likely to get cancer. There's been all kinds of myths. I think it's nonsense. That if you're born that way, it seems to me it's a mutilation to cut it off."
+      "sourceUrl": "http://www.beyondthebris.com/2011/03/howard-stern-jewish-intactivist.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=l9gfY5obRL0",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "But I don't think Stern is a self-hating Jew. I think he sees religion as an institution as ridiculous. He once articulated that the Bible was not written by God, but was more functional in its uses. Really, it was a moral framework to try and stop people from raping and burning down villages and whatnot.",
       "sourceTitle": "Why don't Jews eat pork? According to Howard Stern Part 1.",
-      "text": "But I don't think Stern is a self-hating Jew. I think he sees religion as an institution as ridiculous. He once articulated that the Bible was not written by God, but was more functional in its uses. Really, it was a moral framework to try and stop people from raping and burning down villages and whatnot."
+      "sourceUrl": "http://www.youtube.com/watch?v=l9gfY5obRL0"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "Furthermore, he thinks religious practices are superfluous, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://revoltoftheplebs.wordpress.com/2011/12/31/howard-stern-being-a-jew-sucks/",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I just think being a good person and trying to do your best [is what's important]… [with religion] you've got to bow and all sorts of [ritual].",
       "sourceTitle": "Howard Stern: Growing Up Jewish",
-      "text": "I just think being a good person and trying to do your best [is what's important]… [with religion] you've got to bow and all sorts of [ritual]."
+      "sourceUrl": "http://revoltoftheplebs.wordpress.com/2011/12/31/howard-stern-being-a-jew-sucks/"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Shock-jock politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://piersmorgan.blogs.cnn.com/2011/01/19/clips-from-last-night-howard-stern-on-his-father-politics-and-miley-cyrus/",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Stern's job is to rile people up. To do this, he'll say anything on the air. He's known for being outlandish and provocative. As a result, it's difficult to know his real political positions. He did run as governor of New York as a Libertarian and was showing 28% approval rate in the polls before dropping out.",
       "sourceTitle": "Clips From Last Night: Howard Stern on his father, politics and… Miley Cyrus – Piers Morgan",
-      "text": "Stern's job is to rile people up. To do this, he'll say anything on the air. He's known for being outlandish and provocative. As a result, it's difficult to know his real political positions. He did run as governor of New York as a Libertarian and was showing 28% approval rate in the polls before dropping out."
+      "sourceUrl": "http://piersmorgan.blogs.cnn.com/2011/01/19/clips-from-last-night-howard-stern-on-his-father-politics-and-miley-cyrus/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.wnd.com/2008/01/45433/",
+      "parentId": 12,
+      "type": "text",
+      "text": "And in true Libertarian form, he endorsed presidential candidate Ron Paul in 2008,",
       "sourceTitle": "Howard Stern endorses Ron Paul",
-      "text": "And in true Libertarian form, he endorsed presidential candidate Ron Paul in 2008,"
+      "sourceUrl": "http://www.wnd.com/2008/01/45433/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lewrockwell.com/politicaltheatre/2012/01/libertarian-howard-stern-disses-ron-paul/",
+      "type": "text",
+      "text": "but didn't seem to like him anymore in 2012, calling him a \"lunatic\" and \"on the fringe.\"",
+      "parentId": 12,
       "sourceTitle": "'Libertarian' Howard Stern Disses Ron Paul.",
-      "text": "but didn't seem to like him anymore in 2012, calling him a \"lunatic\" and \"on the fringe.\""
+      "sourceUrl": "http://www.lewrockwell.com/politicaltheatre/2012/01/libertarian-howard-stern-disses-ron-paul/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "He has admitted to voting for both Republicans and Democrat, but the bulk of his ire seems to go to Democrats, because they are usually the one's behind \"political correctness\" movements and media censorship–something Stern has been particularly tormented by. After a tiff with the FCC, Stern said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.libertarianrepublican.net/2010/03/howard-stern-swears-off-democrats-fing.html",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I've voted Republican and I've voted Democrat. I have vowed I will never vote for a Democrat again. I don't give a fuck. No matter who they are… The facts are these Democrats at the FCC are Communists… they're for communism.",
       "sourceTitle": "Howard Stern swears off \"F'ing Democrats\" Forever",
-      "text": "I've voted Republican and I've voted Democrat. I have vowed I will never vote for a Democrat again. I don't give a fuck. No matter who they are… The facts are these Democrats at the FCC are Communists… they're for communism."
+      "sourceUrl": "http://www.libertarianrepublican.net/2010/03/howard-stern-swears-off-democrats-fing.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Strong words… and reminiscent of unfounded Republican criticisms of Obama. But put it all together, and Stern seems politically confused–which is often a good way for Libertarians to be. They are sort of the party of people who are passionate about politics but don't fit into the Democrat/Republican paradigm."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

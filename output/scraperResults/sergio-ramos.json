@@ -33,85 +33,117 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sergio Ramos was born and raised in Camas, Seville, Andalusia, Spain."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.myspace.com/sergio_ramos_garcia",
+      "parentId": 2,
+      "type": "text",
+      "text": "Ramos is Catholic",
       "sourceTitle": "Sergio Ramos on Myspace.",
-      "text": "Ramos is Catholic"
+      "sourceUrl": "http://www.myspace.com/sergio_ramos_garcia"
     },
     {
-      "type": "sentence",
-      "text": "and considers it an important part of his life. He said in an interview,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and considers it an important part of his life. He said in an interview,",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=RelxoIZ3JY8",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I consider myself to be a believer, and I come from a Christian family, one that always had that belief. And at the end of the day, it's about where you're brought up and the way you take on all that's around you, so I consider myself religious.",
       "sourceTitle": "Sergio Ramos' most personal side.",
-      "text": "I consider myself to be a believer, and I come from a Christian family, one that always had that belief. And at the end of the day, it's about where you're brought up and the way you take on all that's around you, so I consider myself religious."
+      "sourceUrl": "http://www.youtube.com/watch?v=RelxoIZ3JY8"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://bleacherreport.com/articles/1052438-25-best-tattoos-in-world-football/page/7",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "And then there's that tattoo of the Virgin Mary that covers the top half of his left arm.",
       "sourceTitle": "Sergio Ramos – 25 Best Tattoos in World Football.",
-      "text": "And then there's that tattoo of the Virgin Mary that covers the top half of his left arm."
+      "sourceUrl": "http://bleacherreport.com/articles/1052438-25-best-tattoos-in-world-football/page/7"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://diplobugs.blogspot.com/2012/02/sergio-ramos-poetry.html",
+      "type": "text",
+      "text": "That takes some religious dedication for sure. Oh, and the one on his side that reads, \"Thanks God for my Unconquerable soul, I am The master.\"",
+      "parentId": 5,
       "sourceTitle": "Sergio Ramos' Poetry.",
-      "text": "That takes some religious dedication for sure. Oh, and the one on his side that reads, \"Thanks God for my Unconquerable soul, I am The master.\""
+      "sourceUrl": "http://diplobugs.blogspot.com/2012/02/sergio-ramos-poetry.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Free_will_in_theology#In_Catholicism",
+      "type": "text",
+      "text": "It appears he's a fan of the whole \"free will\" thing, a concept that Catholics are big on.",
+      "parentId": 5,
       "sourceTitle": "Free will in theology.",
-      "text": "It appears he's a fan of the whole \"free will\" thing, a concept that Catholics are big on."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Free_will_in_theology#In_Catholicism"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "So it seems clear, even with the little information we have, that Ramos is a devout adherent to his faith."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "It's Not About Politics. It's About Football."
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Ramos doesn't have much to say about politics in Spain–or anywhere else. As a well-paid professional athlete from a country going through a severe recession and austerity measures, I thought he might have something to say about the economy or the future of his country. But it seems that he stays out of the debate."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=ZjIhEb0Lyco",
+      "parentId": 9,
+      "type": "text",
+      "text": "For all his silence the Spanish population, he lends a hand in Senegal as an ambassador for UNICEF in that country.",
       "sourceTitle": "Sergio Ramos in Senegal with UNICEF.",
-      "text": "For all his silence the Spanish population, he lends a hand in Senegal as an ambassador for UNICEF in that country."
+      "sourceUrl": "http://www.youtube.com/watch?v=ZjIhEb0Lyco"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "But that's all we've got. There's no doubt that if I spoke decent Spanish, I'd be able to find a little more information on his religious and political beliefs, but this is all I've got so far. If you speak Spanish and have any good tips for us, please leave us a note in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

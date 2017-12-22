@@ -31,103 +31,177 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Daniel Craig was born in Chester, Cheshire, England and raised nearby on the Wirral Peninsula."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewlicious.com/2007/05/let-my-people-go-daniel-craig/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Jewish people really seem to want Craig to be part of their faith and history because he played Jews in several films.",
       "sourceTitle": "Let My People Go Daniel Craig!",
-      "text": "Jewish people really seem to want Craig to be part of their faith and history because he played Jews in several films."
+      "sourceUrl": "http://www.jewlicious.com/2007/05/let-my-people-go-daniel-craig/"
     },
     {
-      "type": "sentence",
-      "text": "But he's not. It was another role that brought out his views on religion."
+      "type": "text",
+      "text": "But he's not. It was another role that brought out his views on religion.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "The actor appeared in the film , which was criticized for being anti-religion. Craig, while defending the movie from these criticisms, summed up his views on religion succinctly:"
+      "parentId": 3,
+      "type": "text",
+      "text": "The actor appeared in the film"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "The Golden Compass"
+    },
+    {
+      "type": "text",
+      "text": ", which was criticized for being anti-religion. Craig, while defending the movie from these criticisms, summed up his views on religion succinctly:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.dailyrecord.co.uk/entertainment/celebrity/daniel-craig-my-new-movie-is-not-963516",
-      "sourceTitle": "Daniel Craig: My New Movie Is Not Anti-Religion.",
-      "text": "I've never been religious and I'm not a church-goer, but I do find religion fascinating because it has such a huge impact on our lives."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I've never been religious and I'm not a church-goer, but I do find religion fascinating because it has such a huge impact on our lives.",
+      "sourceTitle": "Daniel Craig: My New Movie Is Not Anti-Religion.",
+      "sourceUrl": "http://www.dailyrecord.co.uk/entertainment/celebrity/daniel-craig-my-new-movie-is-not-963516"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Despite this profession, Craig does not appear on any celebrity atheist or agnostic lists, underlying the fact that he is relatively tight-lipped on the subject."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Politicians are shitheads, except Obama of course"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "If Craig is dismissive about religion, he is spits on politics–or at least politicians who try to schmooze up actors."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2011/12/26/daniel-craig-politicians-shitheads_n_1169851.html",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Politicians are shitheads. That's how they become politicians, even the good ones. We're actors, we're artists, we're very nice to each other. They'll turn around and stab you in the fucking back.",
       "sourceTitle": "Daniel Craig: 'Politicians Are Shitheads, Backstabbers.'",
-      "text": "Politicians are shitheads. That's how they become politicians, even the good ones. We're actors, we're artists, we're very nice to each other. They'll turn around and stab you in the fucking back."
+      "sourceUrl": "http://www.huffingtonpost.com/2011/12/26/daniel-craig-politicians-shitheads_n_1169851.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2011/12/26/daniel-craig-politicians-shitheads_n_1169851.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "He is especially critical of Tony Blair for pandering to those in his profession. But that doesn't mean he's conservative. He grew up and started acting in the liberal crowd in Liverpool, and apparently still holds onto some of those beliefs. And he admires outspokenly liberal American actor George Clooney for being an eloquent political spokesman.",
       "sourceTitle": "Daniel Craig: 'Politicians Are Shitheads, Backstabbers.'",
-      "text": "He is especially critical of Tony Blair for pandering to those in his profession. But that doesn't mean he's conservative. He grew up and started acting in the liberal crowd in Liverpool, and apparently still holds onto some of those beliefs. And he admires outspokenly liberal American actor George Clooney for being an eloquent political spokesman."
+      "sourceUrl": "http://www.huffingtonpost.com/2011/12/26/daniel-craig-politicians-shitheads_n_1169851.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "And although he can't vote in elections in the US, he's a big Obama fan. He caught Obama fever in 2008 just like many of his Hollywood peers:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2008/10/17/daniel-james-bond-craig-s_n_135503.html",
-      "sourceTitle": "Daniel \"James Bond\" Craig Speaks Out For Obama.",
-      "text": "Barack Obama is pushing things in the right direction. . . . I'm hopeful for the first time in a long, long while. It's one of the most exciting elections in my lifetime."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Barack Obama is pushing things in the right direction. . . . I'm hopeful for the first time in a long, long while. It's one of the most exciting elections in my lifetime.",
+      "sourceTitle": "Daniel \"James Bond\" Craig Speaks Out For Obama.",
+      "sourceUrl": "http://www.huffingtonpost.com/2008/10/17/daniel-james-bond-craig-s_n_135503.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "On the wave of Obama's victorious 2008 election, Craig took the opportunity to speak about his concern for racial equality. He said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1083343/The-James-Bond-star-black-says-Daniel-Craig-salutes-Barack-Obama.html",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "If we can have a black US president we can have a black James Bond.",
       "sourceTitle": "'The next James Bond star should be black,' says Daniel Craig as he salutes Barack Obama.",
-      "text": "If we can have a black US president we can have a black James Bond."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1083343/The-James-Bond-star-black-says-Daniel-Craig-salutes-Barack-Obama.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "So he's liberal for sure, and undoubtedly has plenty of views he's not sharing with the rest of us. But aside from his loathing of all politicians except Obama, he's not going to enter the political arena."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

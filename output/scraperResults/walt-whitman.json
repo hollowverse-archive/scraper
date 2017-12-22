@@ -37,159 +37,276 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Walt Whitman was born on Long Island, New York. He grew up there and in Brooklyn, New York. He died in 1892 at the age of 72."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://classiclit.about.com/cs/articles/a/aa_wwhitmansong.htm",
+      "parentId": 2,
+      "type": "text",
+      "text": "Whitman was born a Quaker, although he did not follow the religion as an adult. Whitman instead created his own personal spirituality through his poetry, which existed outside the Christian tradition, with himself as the centerpiece.",
       "sourceTitle": "Spirituality and Religion in Walt Whitman's Song of Myself.",
-      "text": "Whitman was born a Quaker, although he did not follow the religion as an adult. Whitman instead created his own personal spirituality through his poetry, which existed outside the Christian tradition, with himself as the centerpiece."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://classiclit.about.com/cs/articles/a/aa_wwhitmansong.htm"
     },
     {
       "type": "heading",
+      "id": 3
+    },
+    {
+      "parentId": 3,
+      "type": "text",
       "text": "I celebrate myself, and sing myself"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pbs.org/wnet/religionandethics/episodes/january-9-2009/worshipping-walt/1891/",
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Literary scholars describe Whitman's seminal work,"
+    },
+    {
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "Leaves of Grass"
+    },
+    {
+      "type": "text",
+      "text": ", as a \"new American bible,\" a work of scripture, and Whitman himself as a prophet.",
+      "parentId": 4,
       "sourceTitle": "January 9, 2009 ~ Worshipping Walt.",
-      "text": "Literary scholars describe Whitman's seminal work, , as a \"new American bible,\" a work of scripture, and Whitman himself as a prophet."
+      "sourceUrl": "http://www.pbs.org/wnet/religionandethics/episodes/january-9-2009/worshipping-walt/1891/"
     },
     {
-      "type": "sentence",
-      "text": "Whitman writes in \"Song of Myself,\""
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Whitman writes in \"Song of Myself,\"",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.english.illinois.edu/maps/poets/s_z/whitman/song.htm",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Divine am I inside and out, and I make holy whatever I touch or am touch'd from,/ The scent of these arm-pits aroma finer than prayer,/ This head more than churches, bibles, and all the creeds.",
       "sourceTitle": "Whitman's \"Song of Myself.\"",
-      "text": "Divine am I inside and out, and I make holy whatever I touch or am touch'd from,/ The scent of these arm-pits aroma finer than prayer,/ This head more than churches, bibles, and all the creeds."
+      "sourceUrl": "http://www.english.illinois.edu/maps/poets/s_z/whitman/song.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pbs.org/wnet/religionandethics/episodes/january-9-2009/worshipping-walt/1891/",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "This belief in the poet's divinity was not only shared by Whitman, but by his contemporary disciples. The poet John Burroughs described"
+    },
+    {
+      "parentId": 7,
+      "type": "emphasis",
+      "text": "Leaves of Grass"
+    },
+    {
+      "type": "text",
+      "text": "as \"primarily a gospel and. . . only secondarily a poem.\"",
+      "parentId": 7,
       "sourceTitle": "January 9, 2009 ~ Worshipping Walt.",
-      "text": "This belief in the poet's divinity was not only shared by Whitman, but by his contemporary disciples. The poet John Burroughs described  as \"primarily a gospel and. . . only secondarily a poem.\""
+      "sourceUrl": "http://www.pbs.org/wnet/religionandethics/episodes/january-9-2009/worshipping-walt/1891/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.articlemyriad.com/transcendentalism-transcendentalist-movement-whitman/2/",
+      "type": "text",
+      "text": "This prophetic poetry was rooted in the transcendentalism,",
+      "parentId": 7,
       "sourceTitle": "Transcendentalism and the Transcendentalist Movement in the Poetry of Whitman.",
-      "text": "This prophetic poetry was rooted in the transcendentalism,"
+      "sourceUrl": "http://www.articlemyriad.com/transcendentalism-transcendentalist-movement-whitman/2/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://books.google.com/books?id=2uTCiN347lMC&pg=PA198&lpg=PA198&dq=walt+whitman+deism&source=bl&ots=cSfBbu97Kp&sig=WHGQ65GIilU1yHlaY5x0RiD7tF4&hl=en&sa=X&ei=CFsNUa7MOcbSigLN-YCoDw&ved=0CGYQ6AEwBA#v=onepage&q=walt%20whitman%20deism&f=false",
+      "type": "text",
+      "text": "deism,",
+      "parentId": 7,
       "sourceTitle": "A Companion to Walt Whitman.",
-      "text": "deism,"
+      "sourceUrl": "http://books.google.com/books?id=2uTCiN347lMC&pg=PA198&lpg=PA198&dq=walt+whitman+deism&source=bl&ots=cSfBbu97Kp&sig=WHGQ65GIilU1yHlaY5x0RiD7tF4&hl=en&sa=X&ei=CFsNUa7MOcbSigLN-YCoDw&ved=0CGYQ6AEwBA#v=onepage&q=walt%20whitman%20deism&f=false"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.religiondispatches.org/archive/politics/3962/walt_whitman_s_sacred_democracy/",
+      "type": "text",
+      "text": "democracy,",
+      "parentId": 7,
       "sourceTitle": "Walt Whitman's Sacred Democracy.",
-      "text": "democracy,"
+      "sourceUrl": "http://www.religiondispatches.org/archive/politics/3962/walt_whitman_s_sacred_democracy/"
     },
     {
-      "type": "sentence",
-      "text": "and Quakerism."
+      "type": "text",
+      "text": "and Quakerism.",
+      "parentId": 7
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.supenn.com/whitman.html",
+      "parentId": 8,
+      "type": "text",
+      "text": "Although some scholars view the concept of the divinity of the individual described in \"Song of Myself\" as part of a new religion Whitman declared to America, Quaker scholars point out that individual religious authority is integral to the Quaker belief system, and that Whitman's work is laced with Quaker concepts.",
       "sourceTitle": "Whitman & Quakers.",
-      "text": "Although some scholars view the concept of the divinity of the individual described in \"Song of Myself\" as part of a new religion Whitman declared to America, Quaker scholars point out that individual religious authority is integral to the Quaker belief system, and that Whitman's work is laced with Quaker concepts."
+      "sourceUrl": "http://www.supenn.com/whitman.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Whitman's spirituality is the topic of numerous books, articles, websites, and literary discussions and I'm unable to do it any justice in this article. Check out the sources listed below if you're interested in delving further into the world of the Whitman religion."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "But these savage, wolfish parties alarm me"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.english.illinois.edu/maps/poets/s_z/whitman/song.htm",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "When Whitman talks about a \"Religious Democracy\" in his essay \"Democratic Vistas,\" he's not talking about religion in government, but rather democracy"
+    },
+    {
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "as"
+    },
+    {
+      "type": "text",
+      "text": "religion. The concepts of individuality and equality–\"whoever degrades another degrades me\"",
+      "parentId": 11,
       "sourceTitle": "Whitman's \"Song of Myself.\"",
-      "text": "When Whitman talks about a \"Religious Democracy\" in his essay \"Democratic Vistas,\" he's not talking about religion in government, but rather democracy  religion. The concepts of individuality and equality–\"whoever degrades another degrades me\""
+      "sourceUrl": "http://www.english.illinois.edu/maps/poets/s_z/whitman/song.htm"
     },
     {
-      "type": "sentence",
-      "text": "–was central to Whitman's intense patriotism. Embracing our differences is what makes America beautiful. He wrote,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "–was central to Whitman's intense patriotism. Embracing our differences is what makes America beautiful. He wrote,",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://xroads.virginia.edu/~hyper/whitman/vistas/vistas.html",
-      "sourceTitle": "Walt Whitman: Democratic Vistas.",
-      "text": "This is the thought of identity — yours for you, whoever you are, as mine for me. . . . creeds, conventions, fall away and become of no account before this simple idea."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "This is the thought of identity — yours for you, whoever you are, as mine for me. . . . creeds, conventions, fall away and become of no account before this simple idea.",
+      "sourceTitle": "Walt Whitman: Democratic Vistas.",
+      "sourceUrl": "http://xroads.virginia.edu/~hyper/whitman/vistas/vistas.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "And the individual is ultimately responsible for carrying on the American ideal. In what sounds like a sentiment borne of today's brutish political animosity, Whitman writes,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 15
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://xroads.virginia.edu/~hyper/whitman/vistas/vistas.html",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "But these savage, wolfish parties alarm me. Owning no law but their own will, more and more combative, less and less tolerant of the idea of ensemble and of equal brotherhood, the perfect equality of the States, the ever-overarching American ideas, it behooves you to convey yourself implicitly to no party, nor submit blindly to their dictators, but steadily hold yourself judge and master over all of them.",
       "sourceTitle": "Walt Whitman: Democratic Values.",
-      "text": "But these savage, wolfish parties alarm me. Owning no law but their own will, more and more combative, less and less tolerant of the idea of ensemble and of equal brotherhood, the perfect equality of the States, the ever-overarching American ideas, it behooves you to convey yourself implicitly to no party, nor submit blindly to their dictators, but steadily hold yourself judge and master over all of them."
+      "sourceUrl": "http://xroads.virginia.edu/~hyper/whitman/vistas/vistas.html"
     },
     {
       "type": "heading",
+      "id": 17
+    },
+    {
+      "type": "heading",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "I am large, I contain multitudes."
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.whitmanarchive.org/criticism/current/encyclopedia/entry_51.html",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Whitman lived through the Civil War, the test of the viability of the American experiment, which the country managed to pass at tremendous cost. Prior to the war, Whitman was a Free Soiler who opposed the expansion of slavery into the territories. He believed that the institution would discourage white laborers from moving west, and therefore prohibit the unbridled expansion of democracy. Interestingly, though, he opposed abolition for fear that is would mean the destruction of the union. In one novel, he even goes so far as to defend slavery.",
       "sourceTitle": "Martin, Klammer, \"Slavery and Abolitionism.\"",
-      "text": "Whitman lived through the Civil War, the test of the viability of the American experiment, which the country managed to pass at tremendous cost. Prior to the war, Whitman was a Free Soiler who opposed the expansion of slavery into the territories. He believed that the institution would discourage white laborers from moving west, and therefore prohibit the unbridled expansion of democracy. Interestingly, though, he opposed abolition for fear that is would mean the destruction of the union. In one novel, he even goes so far as to defend slavery."
+      "sourceUrl": "http://www.whitmanarchive.org/criticism/current/encyclopedia/entry_51.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "But only a few years later, Whitman makes a dramatic shift toward fraternity, sympathy, and even empathy for slaves, which paves the way for the radical democratic equality professed in his poetry. In becoming \"the wounded person,\" he wrote,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.whitmanarchive.org/criticism/current/encyclopedia/entry_51.html",
+      "id": 21
+    },
+    {
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "I am the hounded slave, I wince at the bite of the dogs.",
       "sourceTitle": "Martin, Klammer, \"Slavery and Abolitionism.\"",
-      "text": "I am the hounded slave, I wince at the bite of the dogs."
+      "sourceUrl": "http://www.whitmanarchive.org/criticism/current/encyclopedia/entry_51.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 23
+    },
+    {
+      "parentId": 23,
+      "type": "text",
       "text": "Whether Whitman actually believed in the true equality of all humans, or whether his belief in equality was rooted in his belief in democracy–but still subject to the same racist views of even the most liberal of his peers–is a topic of much debate among scholars. But regardless of intent, his poetry is an inspiration to all Americans in search of equal rights and reasonable political discourse."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

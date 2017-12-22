@@ -32,130 +32,223 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Alejandro Sanz, whose name at birth was Alejandro Sánchez Pizarro, was born and raised in Madrid, Spain."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Spain",
+      "parentId": 2,
+      "type": "text",
+      "text": "I tried really hard to find a specific reference from Sanz that he's Catholic, but I just couldn't find one. But let's just assume that he joins the other 70% of Spaniards",
       "sourceTitle": "Religion in Spain.",
-      "text": "I tried really hard to find a specific reference from Sanz that he's Catholic, but I just couldn't find one. But let's just assume that he joins the other 70% of Spaniards"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Spain"
     },
     {
-      "type": "sentence",
-      "text": "that adhere to that particular denomination of Christianity. (If you have a link to some proof of his denomination, please let us know in the comments.)"
+      "type": "text",
+      "text": "that adhere to that particular denomination of Christianity. (If you have a link to some proof of his denomination, please let us know in the comments.)",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.latingossip.com/celebrity-weddings/alejandro-sanz-got-married.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "But now that we've gotten that out of the way, here's what we know for sure: Sanz is a believer. In 2012 he married his girlfriend in a \"religious ceremony,\" and although they had a child out of wedlock, they baptized him shortly after tying the knot.",
       "sourceTitle": "Alejandro Sanz Got Married.",
-      "text": "But now that we've gotten that out of the way, here's what we know for sure: Sanz is a believer. In 2012 he married his girlfriend in a \"religious ceremony,\" and although they had a child out of wedlock, they baptized him shortly after tying the knot."
+      "sourceUrl": "http://www.latingossip.com/celebrity-weddings/alejandro-sanz-got-married.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.google.com/imgres?um=1&hl=en&sa=N&tbo=d&rlz=1C1ASUT_enUS499US499&biw=1366&bih=643&tbm=isch&tbnid=EJP9UDr9060FkM:&imgrefurl=http://nowe-i.blogspot.com/2010/08/amor-sera-leyenda-i-tunes-single-by.html&docid=7DdLZKU55BHneM&itg=1&imgurl=http://1.bp.blogspot.com/_IByDaPF_3zc/TGne7wsyeRI/AAAAAAAABs8/EgJMc5WWYZk/s1600/Nuestro%252BAmor%252BSera%252BLeyenda%252B-%252BSingle.jpg&w=600&h=600&ei=85MVUcixIca2igLS-YHQCA&zoom=1&ved=1t:3588,r:11,s:0,i:118&iact=rc&dur=3037&sig=100862210527794923060&page=1&tbnh=191&tbnw=191&start=0&ndsp=17&tx=116&ty=80",
+      "type": "text",
+      "text": "He sometimes wears a cross around his neck,",
+      "parentId": 3,
       "sourceTitle": "Google Image Result.",
-      "text": "He sometimes wears a cross around his neck,"
+      "sourceUrl": "http://www.google.com/imgres?um=1&hl=en&sa=N&tbo=d&rlz=1C1ASUT_enUS499US499&biw=1366&bih=643&tbm=isch&tbnid=EJP9UDr9060FkM:&imgrefurl=http://nowe-i.blogspot.com/2010/08/amor-sera-leyenda-i-tunes-single-by.html&docid=7DdLZKU55BHneM&itg=1&imgurl=http://1.bp.blogspot.com/_IByDaPF_3zc/TGne7wsyeRI/AAAAAAAABs8/EgJMc5WWYZk/s1600/Nuestro%252BAmor%252BSera%252BLeyenda%252B-%252BSingle.jpg&w=600&h=600&ei=85MVUcixIca2igLS-YHQCA&zoom=1&ved=1t:3588,r:11,s:0,i:118&iact=rc&dur=3037&sig=100862210527794923060&page=1&tbnh=191&tbnw=191&start=0&ndsp=17&tx=116&ty=80"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/AlejandroSanz/status/297197370062544896",
+      "type": "text",
+      "text": "and every once in a while, he'll mention God on his Twitter feed.",
+      "parentId": 3,
       "sourceTitle": "AlejandroSanz: Grandes músicos en Brazil. …",
-      "text": "and every once in a while, he'll mention God on his Twitter feed."
+      "sourceUrl": "https://twitter.com/AlejandroSanz/status/297197370062544896"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "And finally, when talking about his song, \"Yo Hice Llorar Hasta Los Ángeles,\" he said he has a place \"in my head and in my heart\" for God:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 5
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.wmeentertainment.com/alejandro_sanz/Bio/alejandro_sanz_paraiso_express.pdf",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "As I did in many other previous songs, I talk of God. I've always said that I am a believer, and I have a relationship with Him.",
       "sourceTitle": "ALEJANDRO SANZ \"Paraíso Express.\"",
-      "text": "As I did in many other previous songs, I talk of God. I've always said that I am a believer, and I have a relationship with Him."
+      "sourceUrl": "http://www.wmeentertainment.com/alejandro_sanz/Bio/alejandro_sanz_paraiso_express.pdf"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Sanz and his Soapbox"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "And just as Sanz uses his songs to express his belief in God, he uses it as a platform to express his political views. He said the power afforded popular artists obligates them to speak out about world issues. He said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://articles.sun-sentinel.com/2004-04-18/entertainment/0404141050_1_alejandro-sanz-latin-pop-warner-music",
-      "sourceTitle": "A Singer On A Soapbox.",
-      "text": "I'm not a politician but a person who likes to keep himself informed. I don't believe that we do anyone a favor by not pointing out injustice."
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chron.com/entertainment/music/article/Alejandro-Sanz-sings-a-political-tune-on-new-album-1976360.php",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I'm not a politician but a person who likes to keep himself informed. I don't believe that we do anyone a favor by not pointing out injustice.",
+      "sourceTitle": "A Singer On A Soapbox.",
+      "sourceUrl": "http://articles.sun-sentinel.com/2004-04-18/entertainment/0404141050_1_alejandro-sanz-latin-pop-warner-music"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "On his most political album,"
+    },
+    {
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "No Es lo Mismo"
+    },
+    {
+      "type": "text",
+      "text": ", he sings about an oil spill that ravaged the Spanish coast in 2002, and another song looks at Cubans who fled Fidel Castro in makeshift boats and rafts.",
+      "parentId": 12,
       "sourceTitle": "Alejandro Sanz sings a political tune on new album.",
-      "text": "On his most political album, , he sings about an oil spill that ravaged the Spanish coast in 2002, and another song looks at Cubans who fled Fidel Castro in makeshift boats and rafts."
+      "sourceUrl": "http://www.chron.com/entertainment/music/article/Alejandro-Sanz-sings-a-political-tune-on-new-album-1976360.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.google.com/newspapers?nid=1346&dat=20040614&id=UAswAAAAIBAJ&sjid=z_0DAAAAIBAJ&pg=6342,4774913",
+      "type": "text",
+      "text": "The",
+      "parentId": 12
+    },
+    {
+      "parentId": 12,
+      "type": "link",
+      "text": "cover",
+      "sourceUrl": "https://www.google.com/search?q=album+cover+%22no+es+lo+mismo%22+alejandro+sanz&hl=en&rlz=1C1ASUT_enUS499US499&tbm=isch&tbo=u&source=univ&sa=X&ei=qeckUZCmKeKsjAK9moHIAw&ved=0CDMQsAQ&biw=1366&bih=643#imgrc=j2h6B9PshuihaM%3A%3BCHAZxXAsJ-ZHfM%3Bhttp%253A%252F%252Fuserserve-ak.last.fm%252Fserve%252F300x300%252F50218901.jpg%3Bhttp%253A%252F%252Fwww.last.fm%252Ftag%252Falejandro%252520sanz%252Falbums%3B300%3B300"
+    },
+    {
+      "type": "text",
+      "text": "of that album also features a picture of him with an image of the bull from Pablo Picasso's",
+      "parentId": 12
+    },
+    {
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "Guernica"
+    },
+    {
+      "type": "text",
+      "text": "painting tattooed on his arm, which has been a symbol of the anti-Iraq War sentiment in Spain.",
+      "parentId": 12,
       "sourceTitle": "Lakeland Ledge.",
-      "text": "The  of that album also features a picture of him with an image of the bull from Pablo Picasso's  painting tattooed on his arm, which has been a symbol of the anti-Iraq War sentiment in Spain."
+      "sourceUrl": "http://news.google.com/newspapers?nid=1346&dat=20040614&id=UAswAAAAIBAJ&sjid=z_0DAAAAIBAJ&pg=6342,4774913"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.sun-sentinel.com/2004-04-18/entertainment/0404141050_1_alejandro-sanz-latin-pop-warner-music",
+      "parentId": 13,
+      "type": "text",
+      "text": "He famously attacked Venezuelan president Hugo Chavez for stifling dissent in his country,",
       "sourceTitle": "A Singer On A Soapbox.",
-      "text": "He famously attacked Venezuelan president Hugo Chavez for stifling dissent in his country,"
+      "sourceUrl": "http://articles.sun-sentinel.com/2004-04-18/entertainment/0404141050_1_alejandro-sanz-latin-pop-warner-music"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.contactmusic.com/news/chavez-denies-banning-sanz-invites-him-to-perform_1060326",
+      "type": "text",
+      "text": "which led to a rumored ban of a performance by the singer in Venezuela, which Chavez insisted was not true.",
+      "parentId": 13,
       "sourceTitle": "Chavez Denies Banning Sanz, Invites Him To Perform.",
-      "text": "which led to a rumored ban of a performance by the singer in Venezuela, which Chavez insisted was not true."
+      "sourceUrl": "http://www.contactmusic.com/news/chavez-denies-banning-sanz-invites-him-to-perform_1060326"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.billboard.com/articles/news/950779/alejandro-sanz-back-in-venezuela-despite-tension-with-chavez",
+      "type": "text",
+      "text": "Sanz eventually did perform there despite, as he put it, \"the winds against us.\"",
+      "parentId": 13,
       "sourceTitle": "Alejandro Sanz Back in Venezuela Despite Tension with Chavez.",
-      "text": "Sanz eventually did perform there despite, as he put it, \"the winds against us.\""
+      "sourceUrl": "http://www.billboard.com/articles/news/950779/alejandro-sanz-back-in-venezuela-despite-tension-with-chavez"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cadenaser.com/espana/articulo/alejandro-sanz-defiende-twitter-luis-pizarro-honestos-psoe-a/csrcsrpor/20110407csrcsrnac_1/Tes",
+      "parentId": 14,
+      "type": "text",
+      "text": "His criticism of Chavez, however, doesn't mean he leans to the right. He's shown his support for the Socialist Workers' Party in Spain (PSOE),",
       "sourceTitle": "Alejandro Sanz on Twitter defends Luis Pizarro, \"one of the most honest of the PSOE-A.\"",
-      "text": "His criticism of Chavez, however, doesn't mean he leans to the right. He's shown his support for the Socialist Workers' Party in Spain (PSOE),"
+      "sourceUrl": "http://www.cadenaser.com/espana/articulo/alejandro-sanz-defiende-twitter-luis-pizarro-honestos-psoe-a/csrcsrpor/20110407csrcsrnac_1/Tes"
     },
     {
-      "type": "sentence",
-      "text": "and he definitely has a heart and an eye out for the little man, the victimized and the powerless. And those in Latin America have a voice in the pop artist. He said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and he definitely has a heart and an eye out for the little man, the victimized and the powerless. And those in Latin America have a voice in the pop artist. He said,",
+      "parentId": 14
     },
     {
       "type": "quote",
-      "sourceUrl": "http://articles.sun-sentinel.com/2004-04-18/entertainment/0404141050_1_alejandro-sanz-latin-pop-warner-music",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "In Latin America there is much injustice. I'm not saying anything new, but it has to be said. I feel like you have to say what you feel.",
       "sourceTitle": "A Singer On A Soapbox.",
-      "text": "In Latin America there is much injustice. I'm not saying anything new, but it has to be said. I feel like you have to say what you feel."
+      "sourceUrl": "http://articles.sun-sentinel.com/2004-04-18/entertainment/0404141050_1_alejandro-sanz-latin-pop-warner-music"
     }
   ],
   "wikipediaData": {
@@ -188,7 +281,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Alejandro Sanz|Self-published work",
+            "value": "Alejandro Sanz|Images by Unnika|Self-published work",
             "source": "commons-categories",
             "hidden": ""
           },

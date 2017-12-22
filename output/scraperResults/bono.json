@@ -33,110 +33,166 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Bono was born in Dublin, Ireland."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.answers.com/topic/bono",
+      "parentId": 2,
+      "type": "text",
+      "text": "Perhaps foreshadowing Bono's penchant for straddling ideologies, lifestyles, and causes, Bono was raised both Irish Anglican and Irish Catholic. His parents had agreed previous to Bono's birth that they would raise their first child Anglican and their second Catholic and Bono was the second. However, he was heavily influenced by both religions.",
       "sourceTitle": "Bono",
-      "text": "Perhaps foreshadowing Bono's penchant for straddling ideologies, lifestyles, and causes, Bono was raised both Irish Anglican and Irish Catholic. His parents had agreed previous to Bono's birth that they would raise their first child Anglican and their second Catholic and Bono was the second. However, he was heavily influenced by both religions."
+      "sourceUrl": "http://www.answers.com/topic/bono"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/US/popup?id=1189411",
+      "parentId": 3,
+      "type": "text",
+      "text": "Perhaps Bono embodies the political/religious conflict of Ireland at the time, a time of particularly violent struggle that pitted these two religions against each other. Later, when U2 was at the height of its initial success, Bono would rally to bring disparate British political factions together and draft the referendum on Ireland that eventually split the island between two nations and resulted in relative peace.",
       "sourceTitle": "Bono's Political Passions",
-      "text": "Perhaps Bono embodies the political/religious conflict of Ireland at the time, a time of particularly violent struggle that pitted these two religions against each other. Later, when U2 was at the height of its initial success, Bono would rally to bring disparate British political factions together and draft the referendum on Ireland that eventually split the island between two nations and resulted in relative peace."
+      "sourceUrl": "http://abcnews.go.com/US/popup?id=1189411"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Bono has generally been a religious antagonist, regularly suggesting that religion is a justification of violence and suffering. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.christianitytoday.com/ct/2001/februaryweb-only/43.0b.html",
-      "sourceTitle": "U2's Bono Says He'd 'Like to be a Christian.'",
-      "text": "I often wonder if religion is the enemy of God. It's almost like religion is what happens when the Spirit has left the building. God's Spirit moves through us and the world at a pace that can never be constricted by any one religious paradigm."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I often wonder if religion is the enemy of God. It's almost like religion is what happens when the Spirit has left the building. God's Spirit moves through us and the world at a pace that can never be constricted by any one religious paradigm.",
+      "sourceTitle": "U2's Bono Says He'd 'Like to be a Christian.'",
+      "sourceUrl": "http://www.christianitytoday.com/ct/2001/februaryweb-only/43.0b.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Though this quote may be critical of religion, it certainly points to a strong belief in God."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "More recently, Bono has become more sympathetic toward religion, most likely as a result of the realization that religious institutions are often instrumental in poverty and disease relief–a cause that Bono has passionately taken up himself. He said once at a National Prayer Breakfast event for Christian charities that:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.atu2.com/news/bono-after-years-of-skepticism-finds-partner-in-religion.html",
-      "sourceTitle": "Bono, After Years of Skepticism, Finds Partner in Religion",
-      "text": "I have avoided religious people for most of my life [but I've] started to like these church people."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I have avoided religious people for most of my life [but I've] started to like these church people.",
+      "sourceTitle": "Bono, After Years of Skepticism, Finds Partner in Religion",
+      "sourceUrl": "http://www.atu2.com/news/bono-after-years-of-skepticism-finds-partner-in-religion.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "He's also become quite enamored with the Christian concept of Grace, the idea that God is forgiving and merciful and kind and sent Jesus to teach humankind to be the same. Bono said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 12
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.ascensiongateway.com/quotes/bono/index.htm",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Grace defies reason and logic. Love interrupts, if you like, the consequences of your actions, which in my case is very good news indeed, because I've done a lot of stupid stuff.",
       "sourceTitle": "Bono Quotes",
-      "text": "Grace defies reason and logic. Love interrupts, if you like, the consequences of your actions, which in my case is very good news indeed, because I've done a lot of stupid stuff."
+      "sourceUrl": "http://www.ascensiongateway.com/quotes/bono/index.htm"
     },
     {
       "type": "heading",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Rock star politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Bono is nearly as famous for his political activism as he is for his job as front-man of one of the world's most successful rock bands. Most of his political work revolves around aid for poverty-stricken communities and particularly in Africa, where AIDS has become an epidemic."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/US/popup?id=1189411",
+      "parentId": 16,
+      "type": "text",
+      "text": "Like his work for the Irish referendum and the fact that he was brought up on both sides of that conflict, Bono is able to walk the line between political parties and has appealed directly to former U.S. Republican president George W. Bush and his Democratic predecessor Bill Clinton (not to mention their British counterparts).",
       "sourceTitle": "Bono's Political Passions",
-      "text": "Like his work for the Irish referendum and the fact that he was brought up on both sides of that conflict, Bono is able to walk the line between political parties and has appealed directly to former U.S. Republican president George W. Bush and his Democratic predecessor Bill Clinton (not to mention their British counterparts)."
+      "sourceUrl": "http://abcnews.go.com/US/popup?id=1189411"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.contactmusic.com/news/bono-awarded-nobel-man-of-peace-prize_1089431",
+      "parentId": 17,
+      "type": "text",
+      "text": "Bono doesn't seem to gravitate towards any political ideology, but rather uses any and all of them to meet his goals. And he's done some great work. He was awarded the Nobel 'Man of Peace' Prize for his humanitarian efforts",
       "sourceTitle": "Bono awarded Nobel 'Man of Peace' Prize",
-      "text": "Bono doesn't seem to gravitate towards any political ideology, but rather uses any and all of them to meet his goals. And he's done some great work. He was awarded the Nobel 'Man of Peace' Prize for his humanitarian efforts"
+      "sourceUrl": "http://www.contactmusic.com/news/bono-awarded-nobel-man-of-peace-prize_1089431"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.time.com/time/specials/packages/article/0,28804,1946375_1947772_1947758,00.html",
+      "type": "text",
+      "text": "and he's been named Time magazine's \"Person of the Year\" for the same reason.",
+      "parentId": 17,
       "sourceTitle": "Person of the year 2009",
-      "text": "and he's been named Time magazine's \"Person of the Year\" for the same reason."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.time.com/time/specials/packages/article/0,28804,1946375_1947772_1947758,00.html"
     }
   ],
   "wikipediaData": {

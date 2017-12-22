@@ -29,71 +29,97 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Aaron Taylor-Johnson, formerly Aaron Johnson, was born and raised in High Wycombe, Buckinghamshire, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "I couldn't find one crumb to include in Taylor-Johnson's religion section. Usually I can find something to talk about even if it doesn't relate exactly to the spiritual–meditation, yoga, an \"Oh my God!\" in an interview, Twitter prayers."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hellomagazine.com/celebrities/201206258429/sam-taylor-wood-marries-aaron-johnson/",
+      "parentId": 3,
+      "type": "text",
+      "text": "But I couldn't find anything. There no indication that his wedding had any element of religion in it,",
       "sourceTitle": "Sam Taylor-Wood marries Aaron Johnson.",
-      "text": "But I couldn't find anything. There no indication that his wedding had any element of religion in it,"
+      "sourceUrl": "http://www.hellomagazine.com/celebrities/201206258429/sam-taylor-wood-marries-aaron-johnson/"
     },
     {
-      "type": "sentence",
-      "text": "and Taylor-Johnson doesn't even have a Twitter account. It's pretty grim, for sure."
+      "type": "text",
+      "text": "and Taylor-Johnson doesn't even have a Twitter account. It's pretty grim, for sure.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_England",
+      "parentId": 4,
+      "type": "text",
+      "text": "Even though a predominantly Christian country, there are plenty of non-religious folks in England,",
       "sourceTitle": "Religion in England.",
-      "text": "Even though a predominantly Christian country, there are plenty of non-religious folks in England,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_England"
     },
     {
-      "type": "sentence",
-      "text": "and one can only assume that Taylor-Johnson is one of them."
+      "type": "text",
+      "text": "and one can only assume that Taylor-Johnson is one of them.",
+      "parentId": 4
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "As far as politics are concerned, Taylor-Johnson doesn't participate much in the partisan politics of the day, but does seem to have a feminist side. When he married filmmaker Sam Taylor-Wood, now Taylor-Johnson, the couple both took each other's names. About his own name change he said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.celebitchy.com/250011/aaron_taylor_johnson_i_just_dont_see_why_women_need_to_take_the_mans_name/",
-      "sourceTitle": "Aaron Taylor Johnson: 'I just don't see why women need to take the man's name.'",
-      "text": "I just don't see why women need to take the man's name. I wanted to be a part of her just as much as she wanted to be part of me."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I just don't see why women need to take the man's name. I wanted to be a part of her just as much as she wanted to be part of me.",
+      "sourceTitle": "Aaron Taylor Johnson: 'I just don't see why women need to take the man's name.'",
+      "sourceUrl": "http://www.celebitchy.com/250011/aaron_taylor_johnson_i_just_dont_see_why_women_need_to_take_the_mans_name/"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "That's very egalitarian of him. It might not be much, but it definitely appears to hint at a liberal worldview–that people deserve to be protected by the government from potential prejudice."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "If you know of anything else about this actor, please let us know in the comments!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

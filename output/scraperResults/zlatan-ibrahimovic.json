@@ -32,101 +32,165 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Zlatan Ibrahimovic was born and raised in Malmö, Sweden."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.elentorno.com/noticia/37724//",
+      "parentId": 2,
+      "type": "text",
+      "text": "Ibrahimovic was born to a Muslim father and a Catholic mother, but now practices the religion of his mother. He described himself as \"very Catholic\"",
       "sourceTitle": "Zlatan Ibrahimovic: \"El gol no lo es todo para mí, no estoy preocupado.\"",
-      "text": "Ibrahimovic was born to a Muslim father and a Catholic mother, but now practices the religion of his mother. He described himself as \"very Catholic\""
+      "sourceUrl": "http://www.elentorno.com/noticia/37724//"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://fcbtransfers.blogspot.com/2009/08/eleven-tattoos-of-zlatan.html",
+      "type": "text",
+      "text": "and even has a tattoo across his left side that reads, in English, \"Only God Can Judge Me.\"",
+      "parentId": 2,
       "sourceTitle": "The eleven tattoos of Zlatan.",
-      "text": "and even has a tattoo across his left side that reads, in English, \"Only God Can Judge Me.\""
+      "sourceUrl": "http://fcbtransfers.blogspot.com/2009/08/eleven-tattoos-of-zlatan.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/news/article-2233669/Zlatan-Ibrahimovic-The-craziest-superstar-planet.html",
+      "type": "text",
+      "text": "That wasn't necessarily an exclusively religious statement however. It also could have been a response to critics of his abrasive personality and wild lifestyle.",
+      "parentId": 2,
       "sourceTitle": "Zlatan Ibrahimovic: The craziest superstar on the planet.",
-      "text": "That wasn't necessarily an exclusively religious statement however. It also could have been a response to critics of his abrasive personality and wild lifestyle."
+      "sourceUrl": "http://www.dailymail.co.uk/news/article-2233669/Zlatan-Ibrahimovic-The-craziest-superstar-planet.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/football/2011/may/13/football-transfer-rumours",
+      "parentId": 3,
+      "type": "text",
+      "text": "I found an image or two of him praying on the field,",
       "sourceTitle": "Football transfer rumours: Manchester City on spending spree.",
-      "text": "I found an image or two of him praying on the field,"
+      "sourceUrl": "http://www.guardian.co.uk/football/2011/may/13/football-transfer-rumours"
     },
     {
-      "type": "sentence",
-      "text": "but nothing about him attending church or meeting the pope or anything else really. Except for a profession of love for (arguably) the world's most popular sport:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but nothing about him attending church or meeting the pope or anything else really. Except for a profession of love for (arguably) the world's most popular sport:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://blogs.bettor.com/Football-is-a-religion-in-its-own-right,-says-Zlatan-Ibrahimovic-a172637",
-      "sourceTitle": "Football is a religion in its own right, says Zlatan Ibrahimovic.",
-      "text": "Football is a religion in its own right, and everyone is welcome."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Football is a religion in its own right, and everyone is welcome.",
+      "sourceTitle": "Football is a religion in its own right, says Zlatan Ibrahimovic.",
+      "sourceUrl": "http://blogs.bettor.com/Football-is-a-religion-in-its-own-right,-says-Zlatan-Ibrahimovic-a172637"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Well said, Zlatan. Well said."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Non-political Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://sites.duke.edu/wcwp/research-projects/players-and-migration/immigration-in-sweden/",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Politics revolves around Ibrahimovic more than he immerses himself in it. He's often mentioned in conversations about immigration in Sweden. Ibrahimovic was born of a Bosnian father and a Croatian mother and grew up in a rough immigrant district. Sweden's liberal immigration policies and its generous social welfare programs cause some Swedes to resent the immigrant population–and in turn the famous footballer.",
       "sourceTitle": "Immigration in Sweden.",
-      "text": "Politics revolves around Ibrahimovic more than he immerses himself in it. He's often mentioned in conversations about immigration in Sweden. Ibrahimovic was born of a Bosnian father and a Croatian mother and grew up in a rough immigrant district. Sweden's liberal immigration policies and its generous social welfare programs cause some Swedes to resent the immigrant population–and in turn the famous footballer."
+      "sourceUrl": "http://sites.duke.edu/wcwp/research-projects/players-and-migration/immigration-in-sweden/"
     },
     {
-      "type": "sentence",
-      "text": "Although it's a minority viewpoint, one unimpressed citizen wrote,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Although it's a minority viewpoint, one unimpressed citizen wrote,",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://sites.duke.edu/wcwp/research-projects/players-and-migration/immigration-in-sweden/",
-      "sourceTitle": "Immigration in Sweden.",
-      "text": "Zlatan Ibrahimovic isn't Swedish. Swedish citizen? Yes, of course. An ethnic Swede that should represent our land, culture, and people? No."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Zlatan Ibrahimovic isn't Swedish. Swedish citizen? Yes, of course. An ethnic Swede that should represent our land, culture, and people? No.",
+      "sourceTitle": "Immigration in Sweden.",
+      "sourceUrl": "http://sites.duke.edu/wcwp/research-projects/players-and-migration/immigration-in-sweden/"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Ibrahimovic also became the target of outrage from some French politicians in 2012 when it was announced that his new French football club would be paying him an €11.3 million post-tax salary. The French budget minister called the figure \"indecent,\" but considering the country is set to tax his income at 75%, it seems to me like France is the real winner. Ibrahimovic himself said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.dailymail.co.uk/news/article-2233669/Zlatan-Ibrahimovic-The-craziest-superstar-planet.html",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I don't understand all the criticism. After all, the more money I earn, the more tax France receives.",
       "sourceTitle": "Zlatan Ibrahimovic: The craziest superstar on the planet.",
-      "text": "I don't understand all the criticism. After all, the more money I earn, the more tax France receives."
+      "sourceUrl": "http://www.dailymail.co.uk/news/article-2233669/Zlatan-Ibrahimovic-The-craziest-superstar-planet.html"
     },
     {
-      "type": "sentence",
-      "text": "And anyway, who could complain when he scores goals like ? But when it comes down to it, Ibrahimovic seems pretty much non-political. It's just when you're as high profile as he is, you're bound to get dragged in one way or another."
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "break"
+      "parentId": 14,
+      "type": "text",
+      "text": "And anyway, who could complain when he scores goals like"
+    },
+    {
+      "parentId": 14,
+      "type": "link",
+      "text": "this one",
+      "sourceUrl": "http://www.youtube.com/watch?feature=player_embedded&v=Xh_KNH8QqSw"
+    },
+    {
+      "type": "text",
+      "text": "? But when it comes down to it, Ibrahimovic seems pretty much non-political. It's just when you're as high profile as he is, you're bound to get dragged in one way or another.",
+      "parentId": 14
     }
   ],
   "wikipediaData": {

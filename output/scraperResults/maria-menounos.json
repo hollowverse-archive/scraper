@@ -34,145 +34,227 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Maria Menounos was born and raised in Medford, Massachusetts."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm1172764/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Menounos is a through-and-through Greek,",
       "sourceTitle": "Maria Menounos – Biography",
-      "text": "Menounos is a through-and-through Greek,"
+      "sourceUrl": "http://www.imdb.com/name/nm1172764/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guideposts.org/celebrities/inspirational-stories-maria-menounos-stays-connected-family-and-diabetic-dad",
+      "type": "text",
+      "text": "the daughter of first-generation immigrants.",
+      "parentId": 2,
       "sourceTitle": "Connected with Family",
-      "text": "the daughter of first-generation immigrants."
+      "sourceUrl": "http://www.guideposts.org/celebrities/inspirational-stories-maria-menounos-stays-connected-family-and-diabetic-dad"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guideposts.org/celebrities/inspirational-stories-maria-menounos-stays-connected-family-and-diabetic-dad",
+      "type": "text",
+      "text": "She has spoken about how connected she is with her family and their cultural traditions,",
+      "parentId": 2,
       "sourceTitle": "Connected with Family",
-      "text": "She has spoken about how connected she is with her family and their cultural traditions,"
+      "sourceUrl": "http://www.guideposts.org/celebrities/inspirational-stories-maria-menounos-stays-connected-family-and-diabetic-dad"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.whosdatedwho.com/sections/celebrities/religion/greek-orthodox_m",
+      "type": "text",
+      "text": "so it's natural that she has retained her adherence to the Greek Orthodox faith.",
+      "parentId": 2,
       "sourceTitle": "Celebrity Religion – Greek Orthodox (Celebrities): M",
-      "text": "so it's natural that she has retained her adherence to the Greek Orthodox faith."
+      "sourceUrl": "http://www.whosdatedwho.com/sections/celebrities/religion/greek-orthodox_m"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2164982/Maria-Menounos-glowing-Greece-celebrates-friends-birthday-family.html",
+      "type": "text",
+      "text": "And as a child, she attended the Dormition of the Virgin Mary Greek Orthodox Church in Somerville, Massachusetts.",
+      "parentId": 2,
       "sourceTitle": "Maria Menounos is glowing in Greece as she celebrates a friend's birthday with her family",
-      "text": "And as a child, she attended the Dormition of the Virgin Mary Greek Orthodox Church in Somerville, Massachusetts."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2164982/Maria-Menounos-glowing-Greece-celebrates-friends-birthday-family.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/mariamenounos",
+      "parentId": 3,
+      "type": "text",
+      "text": "She appears to be at least marginally religious. Her Twitter feed contains the occasional \"God bless\" and \"Pray for\" so and so.",
       "sourceTitle": "maria menounos (mariamenounos) on Twitter",
-      "text": "She appears to be at least marginally religious. Her Twitter feed contains the occasional \"God bless\" and \"Pray for\" so and so."
+      "sourceUrl": "https://twitter.com/mariamenounos"
     },
     {
-      "type": "sentence",
-      "text": "For example, when a family member was in the hospital, Menounos tweeted:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "For example, when a family member was in the hospital, Menounos tweeted:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/mariamenounos",
-      "sourceTitle": "maria menounos (mariamenounos) on Twitter",
-      "text": "Big hug from the hospital!!! …geno…my prayers are with u-stay strong. God bless"
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Big hug from the hospital!!! …geno…my prayers are with u-stay strong. God bless",
+      "sourceTitle": "maria menounos (mariamenounos) on Twitter",
+      "sourceUrl": "https://twitter.com/mariamenounos"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Her father, a diabetic, has had more than a few health scares. Menounos recounted one particularly scary incident when she and her family thought it was the end, but her father recovered, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guideposts.org/celebrities/inspirational-stories-maria-menounos-stays-connected-family-and-diabetic-dad",
-      "sourceTitle": "Connected with Family",
-      "text": "I was ready to die and stay there. But God told me I still had a lot more work to do."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I was ready to die and stay there. But God told me I still had a lot more work to do.",
+      "sourceTitle": "Connected with Family",
+      "sourceUrl": "http://www.guideposts.org/celebrities/inspirational-stories-maria-menounos-stays-connected-family-and-diabetic-dad"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "So, it appears her family (and thus Menounos herself) are faithful members of the Greek Orthodox Church."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Toeing the line of journalistic integrity"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://watch.accesshollywood.com/video/access-exclusive:-maria-menounos-the-obama-family-part-i/1310746779001",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Menounos is a journalist–of sorts–and attempts to stay unbiased. There are no official endorsements or campaign contributions from the Menounos camp, however, she seems to show her affinity to the liberal/Democrat side of things more than others of her ilk. Menounos is, to this day, the only journalist to have interviewed the Obama family in its entirety–kids and all.",
       "sourceTitle": "Access Exclusive: Maria Menounos & The Obama Family, Pt. 1",
-      "text": "Menounos is a journalist–of sorts–and attempts to stay unbiased. There are no official endorsements or campaign contributions from the Menounos camp, however, she seems to show her affinity to the liberal/Democrat side of things more than others of her ilk. Menounos is, to this day, the only journalist to have interviewed the Obama family in its entirety–kids and all."
+      "sourceUrl": "http://watch.accesshollywood.com/video/access-exclusive:-maria-menounos-the-obama-family-part-i/1310746779001"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.bostonmagazine.com/news/blog/2008/07/14/maria-menounos-reflects-on-the-obama-family-interview/",
+      "type": "text",
+      "text": "The interview took place before Obama was elected in 2008 and some say Menounos' portrayal of the Obamas as regular, everyday Americans went a long way in getting him elected, though Obama said he regretted doing the interview for the sake of his kids.",
+      "parentId": 11,
       "sourceTitle": "Maria Menounos Reflects on the Obama Family Interview",
-      "text": "The interview took place before Obama was elected in 2008 and some say Menounos' portrayal of the Obamas as regular, everyday Americans went a long way in getting him elected, though Obama said he regretted doing the interview for the sake of his kids."
+      "sourceUrl": "http://www.bostonmagazine.com/news/blog/2008/07/14/maria-menounos-reflects-on-the-obama-family-interview/"
     },
     {
-      "type": "sentence",
-      "text": "But Menounos was happy about it, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But Menounos was happy about it, saying:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.foxnews.com/entertainment/2011/04/27/maria-menounos-says-criticism-obama-family-interview-jealousy/",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "When I met them, my overwhelming feeling was, 'This could be my family.' This could be any one of our families. They were so grounded and normal and down to earth, that's what stuck with me the most.",
       "sourceTitle": "Maria Menounos Says Criticism Over Obama Family Interview Was Due To Jealousy",
-      "text": "When I met them, my overwhelming feeling was, 'This could be my family.' This could be any one of our families. They were so grounded and normal and down to earth, that's what stuck with me the most."
+      "sourceUrl": "http://www.foxnews.com/entertainment/2011/04/27/maria-menounos-says-criticism-obama-family-interview-jealousy/"
     },
     {
-      "type": "sentence",
-      "text": "Plus, check out this  of her at Mitt Romney's 2012 concession speech. She doesn't look disappointed that Romney lost. And she tweets supportive things from Obama, such as this retweet from the Huffington Post:"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "break"
+      "parentId": 14,
+      "type": "text",
+      "text": "Plus, check out this"
+    },
+    {
+      "parentId": 14,
+      "type": "link",
+      "text": "photo",
+      "sourceUrl": "http://sadrepublicans.com/post/35799919010/maria-menounos-is-very-sad-about-romney-losing"
+    },
+    {
+      "type": "text",
+      "text": "of her at Mitt Romney's 2012 concession speech. She doesn't look disappointed that Romney lost. And she tweets supportive things from Obama, such as this retweet from the Huffington Post:",
+      "parentId": 14
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/mariamenounos",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Pres. Obama: \"Our journey is not complete until our gay brothers and sisters are treated like anyone else under the law…\"",
       "sourceTitle": "maria menounos (mariamenounos) on Twitter",
-      "text": "Pres. Obama: \"Our journey is not complete until our gay brothers and sisters are treated like anyone else under the law…\""
+      "sourceUrl": "https://twitter.com/mariamenounos"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thedailygreen.com/environmental-news/latest/green-women-47042204#slide-3",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Beyond that, Menounos hosts a TV show highlighting the environmentally-friendly exploits of Hollywood celebrities,",
       "sourceTitle": "Green Celebrities – Alicia Silverstone Gloria Reuben Maria Menounos",
-      "text": "Beyond that, Menounos hosts a TV show highlighting the environmentally-friendly exploits of Hollywood celebrities,"
+      "sourceUrl": "http://www.thedailygreen.com/environmental-news/latest/green-women-47042204#slide-3"
     },
     {
-      "type": "sentence",
-      "text": "which seems like an endorsement of the liberal, \"green\" worldview to me."
+      "type": "text",
+      "text": "which seems like an endorsement of the liberal, \"green\" worldview to me.",
+      "parentId": 17
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "Ultimately, without explicitly saying it, Menounos appears to be left of center. What do you guys think?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

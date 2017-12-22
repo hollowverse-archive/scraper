@@ -34,99 +34,153 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Bill Kaulitz was born in Leipzig, Germany and grew up in Louitsche, Germany."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Germany",
+      "parentId": 2,
+      "type": "text",
+      "text": "Kaulitz doesn't seem to subscribe to any particular religion. Demographically, Germany is mostly Christian, with adherents being split fairly evenly between Catholic and Protestant–mostly Lutheran. Though Kaulitz grew up in Eastern Germany, which, as a result of Soviet influence, religion in all of its forms was largely suppressed.",
       "sourceTitle": "Religion in Germany.",
-      "text": "Kaulitz doesn't seem to subscribe to any particular religion. Demographically, Germany is mostly Christian, with adherents being split fairly evenly between Catholic and Protestant–mostly Lutheran. Though Kaulitz grew up in Eastern Germany, which, as a result of Soviet influence, religion in all of its forms was largely suppressed."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Germany"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "However, Kaulitz is no atheist. When asked about his religious preferences during an interview, he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://buzzworthy.mtv.com/2009/11/17/new-interview-tokio-hotel-talks-religion-worshipping-tom-kaulitz-and-david-hasselhoff/",
-      "sourceTitle": "New Interview: Tokio Hotel Talks Religion, Worshiping Tom Kaulitz, and David Hasselhoff",
-      "text": "I think it's OK if you have something you believe in, I think it's important. I believe in so many different things. I think there's something, I don't know what it is, but there's something out there."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I think it's OK if you have something you believe in, I think it's important. I believe in so many different things. I think there's something, I don't know what it is, but there's something out there.",
+      "sourceTitle": "New Interview: Tokio Hotel Talks Religion, Worshiping Tom Kaulitz, and David Hasselhoff",
+      "sourceUrl": "http://buzzworthy.mtv.com/2009/11/17/new-interview-tokio-hotel-talks-religion-worshipping-tom-kaulitz-and-david-hasselhoff/"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "It would appear that even Kaulitz can't put his finger on what he believes in, but it's definitely something. I'd say it puts him on the lighter side of agnostic. What do you Tokio Hotel fans out there think?"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Circus Act"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://oceanup.com/2010/11/23/bill-tom-kaulitz-peta-ad",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Kaulitz and his equally famous twin brother, Tom, are both vegetarians for moral reasons.",
       "sourceTitle": "Bill & Tom Kaulitz PETA AD",
-      "text": "Kaulitz and his equally famous twin brother, Tom, are both vegetarians for moral reasons."
+      "sourceUrl": "http://oceanup.com/2010/11/23/bill-tom-kaulitz-peta-ad"
     },
     {
-      "type": "sentence",
-      "text": "Kaulitz said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Kaulitz said:",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://oceanup.com/2010/11/23/bill-tom-kaulitz-peta-ad",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "We are vegetarians and we do this because we shouldn't hurt animals.",
       "sourceTitle": "Bill & Tom Kaulitz PETA AD",
-      "text": "We are vegetarians and we do this because we shouldn't hurt animals."
+      "sourceUrl": "http://oceanup.com/2010/11/23/bill-tom-kaulitz-peta-ad"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://oceanup.com/2010/11/23/bill-tom-kaulitz-peta-ad",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "The duo also did a photo shoot for PETA in which they chained themselves up in protest of living conditions for animals in traveling circuses.",
       "sourceTitle": "Bill & Tom Kaulitz PETA AD",
-      "text": "The duo also did a photo shoot for PETA in which they chained themselves up in protest of living conditions for animals in traveling circuses."
+      "sourceUrl": "http://oceanup.com/2010/11/23/bill-tom-kaulitz-peta-ad"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "In terms of German politics, Kaulitz has endorsed incumbent Chancellor Angela Merkel, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://tokiohotelmsia.wordpress.com/2012/12/19/bild-de-the-kaulitz-twins-on-love-germany-politics-music/",
-      "sourceTitle": "The Kaulitz Twins on Love, Germany, Politics & Music",
-      "text": "The policy of the Chancellor is understandable and comprehensible. For me, Merkel is a popular figure. With her I have the feeling to be in good hands."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "The policy of the Chancellor is understandable and comprehensible. For me, Merkel is a popular figure. With her I have the feeling to be in good hands.",
+      "sourceTitle": "The Kaulitz Twins on Love, Germany, Politics & Music",
+      "sourceUrl": "https://tokiohotelmsia.wordpress.com/2012/12/19/bild-de-the-kaulitz-twins-on-love-germany-politics-music/"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Merkel's party, the CDU (Christian Democratic Union) is a bit right of center, and Merkel has made that clear with her fiscal policy toward fellow-EU nations and her take on immigrants in Germany."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "One might think this is a contradiction–Kaulitz with his liberal, PETA-loving leanings supporting a somewhat conservative politician. But it's a cultural thing. What is considered liberal in the U.S. is often just accepted and un-political in Germany. I would say Kaulitz is a centrist."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

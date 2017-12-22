@@ -35,113 +35,197 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Justin Timberlake was born in Memphis, Tennessee."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Memphis was influential in Timberlake's life, both musically and religiously. He says:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/justin_timberlake.html",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I sang in church growing up. Memphis is the blues capital of the world, we like to say.",
       "sourceTitle": "Justin Timberlake Quotes.",
-      "text": "I sang in church growing up. Memphis is the blues capital of the world, we like to say."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/justin_timberlake.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://movies.yahoo.com/person/justin-timberlake/biography.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "In fact, Justin was raised a devout Southern Baptist. His grandfather was a preacher at a Baptist church and his father was a choir director at his local Baptist church.",
       "sourceTitle": "Justin Timberlake – Biography",
-      "text": "In fact, Justin was raised a devout Southern Baptist. His grandfather was a preacher at a Baptist church and his father was a choir director at his local Baptist church."
+      "sourceUrl": "http://movies.yahoo.com/person/justin-timberlake/biography.html"
     },
     {
-      "type": "sentence",
-      "text": "But stardom tends to take its toll on the religious devotion of its victims and even as early as the N'Sync days, Timberlake seems to have given up on the faith of his childhood. When asked if he was religious on the Larry King show, Timberlake said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But stardom tends to take its toll on the religious devotion of its victims and even as early as the N'Sync days, Timberlake seems to have given up on the faith of his childhood. When asked if he was religious on the Larry King show, Timberlake said:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pt/Justin_Timberlake.html",
-      "sourceTitle": "The religion of Justin Timberlake, singer with N'SYNC",
-      "text": "I think the term for me would be more spiritual than religious."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I think the term for me would be more spiritual than religious.",
+      "sourceTitle": "The religion of Justin Timberlake, singer with N'SYNC",
+      "sourceUrl": "http://www.adherents.com/people/pt/Justin_Timberlake.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "But that doesn't mean that when Timberlake goes home, he doesn't slip into his old religion like a glove. He said, speaking in the third person for some reason:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://thinkexist.com/quotes/justin_timberlake/3.html",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "When Justin comes home he would not even sit down and have a sandwich that he doesn't say a blessing for.",
       "sourceTitle": "Justin Timberlake quotes.",
-      "text": "When Justin comes home he would not even sit down and have a sandwich that he doesn't say a blessing for."
+      "sourceUrl": "http://thinkexist.com/quotes/justin_timberlake/3.html"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Timberlake has managed to keep out of politics–for the most part. But, like many, he was sucked into the Obama phenomenon. In 2008, he and then-girlfriend Jessica Biel publicly endorsed Obama–a first for both of them. Timberlake said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2008/10/13/justin-timberlake-and-jes_n_134318.html",
-      "sourceTitle": "Justin Timberlake And Jessica Biel Rally For Obama",
-      "text": "We've never publicly endorsed before. But we've never been so inspired by one person."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "We've never publicly endorsed before. But we've never been so inspired by one person.",
+      "sourceTitle": "Justin Timberlake And Jessica Biel Rally For Obama",
+      "sourceUrl": "http://www.huffingtonpost.com/2008/10/13/justin-timberlake-and-jes_n_134318.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "In 2012, when Obama made history by announcing his support for gay marriage, Timberlake was among the many celebrities to laud the president, tweeting:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.gigwise.com/news/72920/Justin-Timberlake-Obama-inspires-me-once-again",
-      "sourceTitle": "Justin Timberlake: 'Obama inspires me once again.'",
-      "text": "Barack Obama inspires me once again. True leadership is when you are willing to risk your power and voice so that ALL of ours can be heard."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Barack Obama inspires me once again. True leadership is when you are willing to risk your power and voice so that ALL of ours can be heard.",
+      "sourceTitle": "Justin Timberlake: 'Obama inspires me once again.'",
+      "sourceUrl": "http://www.gigwise.com/news/72920/Justin-Timberlake-Obama-inspires-me-once-again"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "This proves Timberlake to be, not only a Democrat and a liberal–at least in terms of gay rights and marriage and whatnot, but would indicate that he's completely deluded by the American political system. They got him! But wait, he did once say something of actual substance."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
+      "parentId": 19,
+      "type": "text",
       "text": "Timberlake, when asked if he would ever consider running for office, said he would \"suck\" at being president–maybe, maybe not. But he did say that he supports any politician willing to stand up against injustice–Ok, vague but still cool. Timberlake went on to comment on the current state of American society, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.video.lycos.com/news/view/justin-timberlake-rules-out-political-future-4812/",
+      "id": 20
+    },
+    {
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "America used to be the country of boundless possibilities, but today you don't get as many of them – unless you have money. And that's not fair. I just wish there would be a simple solution, then we could transform it into an philosophy.",
       "sourceTitle": "Justin Timberlake rules out political future.",
-      "text": "America used to be the country of boundless possibilities, but today you don't get as many of them – unless you have money. And that's not fair. I just wish there would be a simple solution, then we could transform it into an philosophy."
+      "sourceUrl": "http://www.video.lycos.com/news/view/justin-timberlake-rules-out-political-future-4812/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 22
+    },
+    {
+      "parentId": 22,
+      "type": "text",
       "text": "This quote seems intimate, like the real Timberlake is concerned, but humble. He sees a problem and like someone with a bit of wisdom, doesn't think he has the answers."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

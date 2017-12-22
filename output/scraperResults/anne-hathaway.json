@@ -35,102 +35,156 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Anne Hathaway was born in Brooklyn, New York and grew up in Millburn, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://web.archive.org/web/20080518053541/http://www.thehimalayantimes.com/GuffShuff.asp?filename=6a5a9a8sa.9amal&folder=aGDafTaSah4afaf&Name=GuffShuff&dtSiteDate=20060607",
+      "parentId": 2,
+      "type": "text",
+      "text": "Hathaway was raised a strict Catholic. It seems to have had quite an affect on her becauseat the age of 11, she says God called on her to be a nun.",
       "sourceTitle": "Anne Hathaway Wished To Be A Nun",
-      "text": "Hathaway was raised a strict Catholic. It seems to have had quite an affect on her becauseat the age of 11, she says God called on her to be a nun."
+      "sourceUrl": "http://web.archive.org/web/20080518053541/http://www.thehimalayantimes.com/GuffShuff.asp?filename=6a5a9a8sa.9amal&folder=aGDafTaSah4afaf&Name=GuffShuff&dtSiteDate=20060607"
     },
     {
-      "type": "sentence",
-      "text": "That only lasted 4 years, because at the age of 15, her devout Catholic family got quite a shock: her brother announced he was gay. She says:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "That only lasted 4 years, because at the age of 15, her devout Catholic family got quite a shock: her brother announced he was gay. She says:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2010/02/09/anne-hathaway-quit-cathol_n_455168.html",
-      "sourceTitle": "Anne Hathaway Quite Catholicism For Her Gay Brother.",
-      "text": "The whole family converted to Episcopalianism after my elder brother came out. Why should I support an organization that has a limited view of my beloved brother?"
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "The whole family converted to Episcopalianism after my elder brother came out. Why should I support an organization that has a limited view of my beloved brother?",
+      "sourceTitle": "Anne Hathaway Quite Catholicism For Her Gay Brother.",
+      "sourceUrl": "http://www.huffingtonpost.com/2010/02/09/anne-hathaway-quit-cathol_n_455168.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Wow, what a crisis of faith! And the whole family converted? So what is Anne, then? Catholic? Episcopalian? Scientologist? Or maybe she's a surfologist like Cameron Diaz. Hathaway says:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2010/02/09/anne-hathaway-quit-cathol_n_455168.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "So I'm … nothing. Fuck it, I'm forming. I'm a work in progress.",
       "sourceTitle": "Anne Hathaway Quite Catholicism For Her Gay Brother.",
-      "text": "So I'm … nothing. Fuck it, I'm forming. I'm a work in progress."
+      "sourceUrl": "http://www.huffingtonpost.com/2010/02/09/anne-hathaway-quit-cathol_n_455168.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.alivenotdead.com/kungfutofu/Anne-Hathaway-Faith-and-having-a-GLBT-family-member--profile-1138991.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Hathaway has since admitted to being a bit lost spiritually, as the previous quote indicates, and is looking for a religion that will be accepting of all this crazy world's peoples.",
       "sourceTitle": "Anne Hathaway, Faith and having a GLBT family member",
-      "text": "Hathaway has since admitted to being a bit lost spiritually, as the previous quote indicates, and is looking for a religion that will be accepting of all this crazy world's peoples."
+      "sourceUrl": "http://www.alivenotdead.com/kungfutofu/Anne-Hathaway-Faith-and-having-a-GLBT-family-member--profile-1138991.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Good luck with that."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "The Devil Wears Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Hathaway's politics are a bit easier to categorize. She's an Obama-loving celebrity Democrat."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cbsnews.com/8301-503544_162-57487218-503544/harvey-weinstein-anne-hathaway-host-obama-fundraiser/",
+      "parentId": 12,
+      "type": "text",
+      "text": "For the 2012 election, Hathaway co-hosted a $38,500-a-plate fundraiser for Obama.",
       "sourceTitle": "Harvey Weinstein, Anne Hathaway host Obama fundraiser",
-      "text": "For the 2012 election, Hathaway co-hosted a $38,500-a-plate fundraiser for Obama."
+      "sourceUrl": "http://www.cbsnews.com/8301-503544_162-57487218-503544/harvey-weinstein-anne-hathaway-host-obama-fundraiser/"
     },
     {
-      "type": "sentence",
-      "text": "Hathaway said of President Obama:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Hathaway said of President Obama:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.usatoday.com/life/movies/2008-08-26-4126460439_x.htm",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I was kind of afraid of Obama the first time I saw him. I thought, I've been burned by guys like you before. I've been burned by politicians before that I wanted to believe in and just didn't live up to it… It was around the time that he gave his speech on race that I just said 'I can't deny how I feel about you, Barack Obama. I want you to be the president. I want you in the White House.'",
       "sourceTitle": "Anne Hathaway's politics, in her own words",
-      "text": "I was kind of afraid of Obama the first time I saw him. I thought, I've been burned by guys like you before. I've been burned by politicians before that I wanted to believe in and just didn't live up to it… It was around the time that he gave his speech on race that I just said 'I can't deny how I feel about you, Barack Obama. I want you to be the president. I want you in the White House.'"
+      "sourceUrl": "http://www.usatoday.com/life/movies/2008-08-26-4126460439_x.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usatoday.com/life/movies/2008-08-26-4126460439_x.htm",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Despite the obvious allusion to wanting Barack Obama in her bed (maybethe White House too), Hathaway presents her political case well, discussing issues of war, poverty, universal health care, and income inequality.",
       "sourceTitle": "Anne Hathaway's politics, in her own words",
-      "text": "Despite the obvious allusion to wanting Barack Obama in her bed (maybethe White House too), Hathaway presents her political case well, discussing issues of war, poverty, universal health care, and income inequality."
+      "sourceUrl": "http://www.usatoday.com/life/movies/2008-08-26-4126460439_x.htm"
     },
     {
-      "type": "sentence",
-      "text": "She's clearly a woman who has given a fair amount of thought to her ideas. You've gotta respect that."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She's clearly a woman who has given a fair amount of thought to her ideas. You've gotta respect that.",
+      "parentId": 15
     }
   ],
   "wikipediaData": {

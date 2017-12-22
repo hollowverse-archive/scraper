@@ -33,107 +33,153 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Stone Cold Steve Austin, born Steven James Anderson, was born in Victoria, Texas and grew up in Edna, Texas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.myspace.com/steve_james_williams",
+      "parentId": 2,
+      "type": "text",
+      "text": "There's really no indication of Stone Cold's formal religious affiliation. His MySpace page has him listed as \"Christian – other.\"",
       "sourceTitle": "Stone Cold Steve Austin on MySpace",
-      "text": "There's really no indication of Stone Cold's formal religious affiliation. His MySpace page has him listed as \"Christian – other.\""
+      "sourceUrl": "http://www.myspace.com/steve_james_williams"
     },
     {
-      "type": "sentence",
-      "text": "I'm more interested in the \"other,\" to be honest."
+      "type": "text",
+      "text": "I'm more interested in the \"other,\" to be honest.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Possibly the most poignant–and famous–religious statement Stone Cold ever made was in response to beating the hyper-religious Jake \"The Snake\" Roberts in the wrestling ring. He said, coldly:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://bleacherreport.com/articles/1017885-wwes-stone-cold-steve-austin-has-a-challenge-for-tim-tebow",
-      "sourceTitle": "WWE Legend Steve Austin Challenges Tim Tebow",
-      "text": "You sit there and you thump your Bible, and you say your prayers, and it didn't get you anywhere! Talk about your psalms, talk about John 3:16… Austin 3:16 says I just whipped your ass!"
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "You sit there and you thump your Bible, and you say your prayers, and it didn't get you anywhere! Talk about your psalms, talk about John 3:16… Austin 3:16 says I just whipped your ass!",
+      "sourceTitle": "WWE Legend Steve Austin Challenges Tim Tebow",
+      "sourceUrl": "http://bleacherreport.com/articles/1017885-wwes-stone-cold-steve-austin-has-a-challenge-for-tim-tebow"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "I would say that's fairly critical of the devoutly Christian wrestler. But it was probably all show, and it launched a rather successful \"Austin 3:16″ merchandising campaign–one this wrestler would have no problem passing on to hardcore Evangelical football player Tim Tebow, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://bleacherreport.com/articles/1017885-wwes-stone-cold-steve-austin-has-a-challenge-for-tim-tebow",
-      "sourceTitle": "WWE Legend Steve Austin Challenges Tim Tebow",
-      "text": "If Tebow can throw for 316 yards again this weekend then hell, he can have the numbers and I'll have no problem with it."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "If Tebow can throw for 316 yards again this weekend then hell, he can have the numbers and I'll have no problem with it.",
+      "sourceTitle": "WWE Legend Steve Austin Challenges Tim Tebow",
+      "sourceUrl": "http://bleacherreport.com/articles/1017885-wwes-stone-cold-steve-austin-has-a-challenge-for-tim-tebow"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Oh, he's so cold!"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chacha.com/question/what-is-the-religion-of-stone-cold-steve-austin-the-wrestler",
+      "parentId": 10,
+      "type": "text",
+      "text": "But seriously, Austin just isn't religious–or if he is, he's not letting on.",
       "sourceTitle": "What is the religion of Stone Cold Steve Austin the wrestler?",
-      "text": "But seriously, Austin just isn't religious–or if he is, he's not letting on."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.chacha.com/question/what-is-the-religion-of-stone-cold-steve-austin-the-wrestler"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Stone Cold politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://righttruth.typepad.com/right_truth/2010/08/the-expendables-and-marketing.html",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Stone Cold hasn't had much to say on the political front, either, but I do have some corroboration of opinion that he's a Republican.",
       "sourceTitle": "The Expendables Works",
-      "text": "Stone Cold hasn't had much to say on the political front, either, but I do have some corroboration of opinion that he's a Republican."
+      "sourceUrl": "http://righttruth.typepad.com/right_truth/2010/08/the-expendables-and-marketing.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cowboysindians.com/Cowboys-Indians/April-2012/Stone-Cold-Steve-Austin/",
+      "parentId": 13,
+      "type": "text",
+      "text": "It wouldn't be surprising considering he likes to hunt",
       "sourceTitle": "Interview With Wrestler and Actor Stone Cold Steve Austin",
-      "text": "It wouldn't be surprising considering he likes to hunt"
+      "sourceUrl": "http://www.cowboysindians.com/Cowboys-Indians/April-2012/Stone-Cold-Steve-Austin/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://playingrickymorton.com/2011/11/28/stone-cold-steve-austin-hates-occupy-wall-street-endorses-use-of-water-cannons-and-systematic-torture/",
+      "type": "text",
+      "text": "and he seems to have come out against the Occupy Wall Street movement when he retweeted a complaint saying that Occupiers should go home.",
+      "parentId": 13,
       "sourceTitle": "Stone Cold Steve Austin hates Occupy Wall Street, endorses use of water cannons and systematic torture",
-      "text": "and he seems to have come out against the Occupy Wall Street movement when he retweeted a complaint saying that Occupiers should go home."
+      "sourceUrl": "http://playingrickymorton.com/2011/11/28/stone-cold-steve-austin-hates-occupy-wall-street-endorses-use-of-water-cannons-and-systematic-torture/"
     },
     {
-      "type": "sentence",
-      "text": "Sort of strange for the guy who built his wrestling image around the idea of an anti-corporate champion of the little guy."
+      "type": "text",
+      "text": "Sort of strange for the guy who built his wrestling image around the idea of an anti-corporate champion of the little guy.",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://bleacherreport.com/articles/741371-wwe-stone-cold-steve-austin-for-president",
+      "parentId": 14,
+      "type": "text",
+      "text": "Really, Stone Cold's political affiliation is pure speculation, but more than a few people wouldn't mind seeing his tough-guy routine in the White House. Calls for \"Stone Cold for President\" are a bit more prevalent than you'd think they would be.",
       "sourceTitle": "WWE: \"Stone Cold\" Steve Austin for President",
-      "text": "Really, Stone Cold's political affiliation is pure speculation, but more than a few people wouldn't mind seeing his tough-guy routine in the White House. Calls for \"Stone Cold for President\" are a bit more prevalent than you'd think they would be."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://bleacherreport.com/articles/741371-wwe-stone-cold-steve-austin-for-president"
     }
   ],
   "wikipediaData": {

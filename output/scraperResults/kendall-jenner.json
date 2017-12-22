@@ -35,127 +35,163 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kendall Jenner was born and raised in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.posh24.com/hot_news/kylie_and_kendall_jenner_are_skipping_school_to_become_famous",
+      "parentId": 2,
+      "type": "text",
+      "text": "Jenner appears to be a Christian just like the rest of her famous family. She didn't go to Catholic school like her Kardashian half-sisters,",
       "sourceTitle": "Kylie And Kendall Jenner Are Skipping School To Become Famous!.",
-      "text": "Jenner appears to be a Christian just like the rest of her famous family. She didn't go to Catholic school like her Kardashian half-sisters,"
+      "sourceUrl": "http://www.posh24.com/hot_news/kylie_and_kendall_jenner_are_skipping_school_to_become_famous"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.zimbio.com/photos/Kendall+Jenner/Kardashian+Family+Leaving+Church+Easter+Sunday/rzjOLaWLimM",
+      "type": "text",
+      "text": "but she goes to the church her family helped establish and currently supports.",
+      "parentId": 2,
       "sourceTitle": "The Kardashian Family Leaving Church On Easter Sunday.",
-      "text": "but she goes to the church her family helped establish and currently supports."
+      "sourceUrl": "http://www.zimbio.com/photos/Kendall+Jenner/Kardashian+Family+Leaving+Church+Easter+Sunday/rzjOLaWLimM"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2012/09/a-kardashian-kult-is-more-realistic-than-you-think/",
+      "parentId": 3,
+      "type": "text",
+      "text": "Jenner's godmother, Kathie Lee Gifford says the young socialite talks about her faith a lot.",
       "sourceTitle": "A Kardashian Kult Is More Realistic Than You Think.",
-      "text": "Jenner's godmother, Kathie Lee Gifford says the young socialite talks about her faith a lot."
+      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2012/09/a-kardashian-kult-is-more-realistic-than-you-think/"
     },
     {
-      "type": "sentence",
-      "text": "And when talking about Khloé Kardashian's struggles with fertility, she said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And when talking about Khloé Kardashian's struggles with fertility, she said,",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.digitalspy.com/celebrity/news/a405818/kendall-jenner-talks-khloe-kardashian-fertility-god-has-a-plan.html",
-      "sourceTitle": "Kendall Jenner talks Khloe Kardashian fertility: 'God has a plan.'",
-      "text": "God has a plan; something will happen soon enough."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "God has a plan; something will happen soon enough.",
+      "sourceTitle": "Kendall Jenner talks Khloe Kardashian fertility: 'God has a plan.'",
+      "sourceUrl": "http://www.digitalspy.com/celebrity/news/a405818/kendall-jenner-talks-khloe-kardashian-fertility-god-has-a-plan.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "It looks like she's pretty confident that God's plan is going to work out for family. And why wouldn't it? It seems to have worked out pretty well so far."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Politically safe"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "About Jenner's politics I could find exactly nothing. It's safe to say this girl might have some growing up to do before she gets too involved in her country's political process."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.politico.com/blogs/click/2012/04/kim-kardashian-on-running-for-mayor-stay-tuned-121938.html",
+      "parentId": 9,
+      "type": "text",
+      "text": "We know that conservative TV station Fox News plays regularly in the Kardashian/Jenner household, but half-sister Kim Kardashian says that all the kids are Democrats.",
       "sourceTitle": "Kim Kardashian, Democrat, on running for mayor: 'Stay tuned.'",
-      "text": "We know that conservative TV station Fox News plays regularly in the Kardashian/Jenner household, but half-sister Kim Kardashian says that all the kids are Democrats."
+      "sourceUrl": "http://www.politico.com/blogs/click/2012/04/kim-kardashian-on-running-for-mayor-stay-tuned-121938.html"
     },
     {
-      "type": "sentence",
-      "text": "She didn't say for sure whether than included her half-siblings, but I think it's reasonable to assume."
+      "type": "text",
+      "text": "She didn't say for sure whether than included her half-siblings, but I think it's reasonable to assume.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2146711/Kylie-Kendall-Jenner-parade-pins-snakeskin-metallic-jeans-charity-event.html",
+      "parentId": 10,
+      "type": "text",
+      "text": "Jenner does seem to have a desire to do some good with her silver-spooned position. She showed her support in charity events for multiple sclerosis",
       "sourceTitle": "Kylie and Kendall Jenner parade their pins in snakeskin and metallic jeans at a charity event.",
-      "text": "Jenner does seem to have a desire to do some good with her silver-spooned position. She showed her support in charity events for multiple sclerosis"
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2146711/Kylie-Kendall-Jenner-parade-pins-snakeskin-metallic-jeans-charity-event.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://act.mtv.com/posts/sweet-tweet-kendall-jenner-boy-leukemia/",
+      "type": "text",
+      "text": "and childhood leukemia.",
+      "parentId": 10,
       "sourceTitle": "Sweet Tweet: Kendall Jenner Rallies Twitter To Help Young Boy With Leukemia.",
-      "text": "and childhood leukemia."
+      "sourceUrl": "http://act.mtv.com/posts/sweet-tweet-kendall-jenner-boy-leukemia/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blog.starcam.com/post/Kendall-Jenner-Turns-Down-Big-Birthday-Bash-Makes-it-Charitable-Event-Instead.aspx",
+      "type": "text",
+      "text": "And she asked everyone invited to her sweet sixteen party to bring a toy for a children's hospital in lieu of one for herself.",
+      "parentId": 10,
       "sourceTitle": "Kendall Jenner Turns Down Big Birthday Bash, Makes it Charitable Event Instead.",
-      "text": "And she asked everyone invited to her sweet sixteen party to bring a toy for a children's hospital in lieu of one for herself."
+      "sourceUrl": "http://blog.starcam.com/post/Kendall-Jenner-Turns-Down-Big-Birthday-Bash-Makes-it-Charitable-Event-Instead.aspx"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "Who knows, maybe in the future we'll see her throw some money at causes that aren't so politically safe."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Kendall_Jenner",
     "title": "Kendall Jenner",
     "image": {
-      "name": "Kendal_Jenner_Cannes_2017.jpg",
+      "name": "KendallJ2017.jpg",
       "info": {
-        "canonicaltitle": "File:Kendal Jenner Cannes 2017.jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kendal_Jenner_Cannes_2017.jpg/212px-Kendal_Jenner_Cannes_2017.jpg",
-        "thumbwidth": 212,
+        "canonicaltitle": "File:KendallJ2017.jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/KendallJ2017.jpg/250px-KendallJ2017.jpg",
+        "thumbwidth": 250,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Kendal_Jenner_Cannes_2017.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kendal_Jenner_Cannes_2017.jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=59614491",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/KendallJ2017.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:KendallJ2017.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64955696",
         "extmetadata": {
           "DateTime": {
-            "value": "2017-06-05 11:42:25",
+            "value": "2017-12-21 02:11:01",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "Kendal Jenner Cannes 2017",
+            "value": "KendallJ2017",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -165,7 +201,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "2017 Cannes Film Festival|Images by Georges Biard|Items with OTRS permission confirmed|Kendall Jenner|Personality rights warning|Self-published work",
+            "value": "All media needing categories as of 2017|Deletion requests December 2017|Media needing categories as of 21 December 2017",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -175,34 +211,29 @@
             "hidden": ""
           },
           "ImageDescription": {
-            "value": "Kendall Jenner au festival de Cannes",
+            "value": "Kendall J",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "2017-05-18",
+            "value": "2017-08-01",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "value": "The Kardashian family",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "Georges Biard",
+            "value": "The kardashians",
             "source": "commons-desc-page"
           },
-          "Permission": {
-            "value": "<table class=\"messagebox layouttemplate\" style=\"margin:0.3em 0;width:100%;direction:ltr\"><tr>\n<td width=\"70\">\n<img alt=\"OTRS Wikimedia\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/70px-OTRS_Wikimedia.svg.png\" title=\"OTRS Wikimedia\" width=\"70\" height=\"38\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/105px-OTRS_Wikimedia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/140px-OTRS_Wikimedia.svg.png 2x\" data-file-width=\"120\" data-file-height=\"65\"><p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionOTRS 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2017060610019703 2%3D2017060610019703\"> </span></p>\n</td>\n<td>\n<span lang=\"en\" class=\"description en\">This work is <a href=\"http://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.</span>\n<p><span lang=\"en\" class=\"description en\">Wikimedia has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;\" title=\"transparent\">reviewed</span></b> by an <a href=\"//commons.wikimedia.org/wiki/Category:Commons_OTRS_volunteers\" title=\"Category:Commons OTRS volunteers\">OTRS member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:OTRS\" title=\"Commons:OTRS\">permission archive</a>. The correspondence is available to trusted volunteers <span class=\"plainlinksneverexpand\">as <b><a class=\"external text\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2017060610019703\">ticket #2017060610019703</a></b></span>.</span></p>\n<p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:OTRS/Noticeboard\" title=\"Commons:OTRS/Noticeboard\">OTRS noticeboard</a>.</small><br><small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2017060610019703\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2017060610019703</a></small> <span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2017060610019703\"></span></p>\n</td>\n</tr></table>\n<span class=\"autoconfonly\" id=\"otrstemplatewr\" style=\"display:none;\"></span>",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
           "LicenseShortName": {
-            "value": "CC BY-SA 3.0",
+            "value": "CC BY-SA 4.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "UsageTerms": {
-            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "value": "Creative Commons Attribution-Share Alike 4.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -211,13 +242,8 @@
             "source": "commons-desc-page",
             "hidden": ""
           },
-          "Attribution": {
-            "value": "Georges Biard",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
           "LicenseUrl": {
-            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -226,13 +252,18 @@
             "source": "commons-desc-page",
             "hidden": ""
           },
+          "DeletionReason": {
+            "value": "[[Commons:Deletion requests/Files uploaded by Family and Friends]]: Found elsewhere on the web; definitely not own work",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
           "Restrictions": {
-            "value": "personality",
+            "value": "",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "License": {
-            "value": "cc-by-sa-3.0",
+            "value": "cc-by-sa-4.0",
             "source": "commons-templates",
             "hidden": ""
           }

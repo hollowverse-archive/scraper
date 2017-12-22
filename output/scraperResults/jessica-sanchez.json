@@ -32,87 +32,139 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jessica Sanchez was born and raised in Chula Vista, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tv.yahoo.com/news/kecks-exclusives-idols-jessica-sanchez-booked-pbss-national-150200138.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Sanchez is a Roman Catholic, and as she puts it, \"very religious.\"",
       "sourceTitle": "Keck's Exclusives: Idol's Jessica Sanchez Booked For PBS's National Memorial Day Concert.",
-      "text": "Sanchez is a Roman Catholic, and as she puts it, \"very religious.\""
+      "sourceUrl": "http://tv.yahoo.com/news/kecks-exclusives-idols-jessica-sanchez-booked-pbss-national-150200138.html"
     },
     {
-      "type": "sentence",
-      "text": "Considering her father is Mexican American and her mother is from the Philippines, that shouldn't be a shocker."
+      "type": "text",
+      "text": "Considering her father is Mexican American and her mother is from the Philippines, that shouldn't be a shocker.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "She cites her grandmother as inspiration for her strong faith, prays before she goes on stage, and she carries a rosary with her everywhere she goes."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://tv.yahoo.com/news/kecks-exclusives-idols-jessica-sanchez-booked-pbss-national-150200138.html",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I used to pray with my rosary for nine straight days. My grandmother told me on the ninth day you make your last prayer and the prayer will come through. That's what I've been doing and hopefully it works.",
       "sourceTitle": "Keck's Exclusives: Idol's Jessica Sanchez Booked For PBS's National Memorial Day Concert.",
-      "text": "I used to pray with my rosary for nine straight days. My grandmother told me on the ninth day you make your last prayer and the prayer will come through. That's what I've been doing and hopefully it works."
+      "sourceUrl": "http://tv.yahoo.com/news/kecks-exclusives-idols-jessica-sanchez-booked-pbss-national-150200138.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.gmanetwork.com/news/story/257496/pinoyabroad/news/catholic-priest-urges-pinoys-worldwide-to-pray-for-jessica-sanchez",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "It seems to be working out pretty well for her, considering her success on the popular TV show"
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "American Idol"
+    },
+    {
+      "type": "text",
+      "text": "at the tender age of 16. And she's even got priests asking people to pray for her success.",
+      "parentId": 6,
       "sourceTitle": "Catholic priest urges Pinoys worldwide to pray for Jessica Sanchez.",
-      "text": "It seems to be working out pretty well for her, considering her success on the popular TV show  at the tender age of 16. And she's even got priests asking people to pray for her success."
+      "sourceUrl": "http://www.gmanetwork.com/news/story/257496/pinoyabroad/news/catholic-priest-urges-pinoys-worldwide-to-pray-for-jessica-sanchez"
     },
     {
-      "type": "sentence",
-      "text": "All this praying and she's bound to do pretty well, right?"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "All this praying and she's bound to do pretty well, right?",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "A Democrat before she can even vote"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Don't let Sanchez' young age fool you, she's more involved in the political process than a many stars who are twice her age–and she's standing behind the Democrats. At just 17-years-old she performed at the Democratic National Convention in 2012. She wrote on Twitter about the event,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.sunstar.com.ph/breaking-news/2012/09/02/jessica-sanchez-excited-perform-obamas-confab-240553",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I might not be old enough to vote, but I'm so honored and excited to perform at @BarackObama's big party in Charlotte next week!",
       "sourceTitle": "Jessica Sanchez excited to perform at Democratic national convention.",
-      "text": "I might not be old enough to vote, but I'm so honored and excited to perform at @BarackObama's big party in Charlotte next week!"
+      "sourceUrl": "http://www.sunstar.com.ph/breaking-news/2012/09/02/jessica-sanchez-excited-perform-obamas-confab-240553"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.americanidol.com/videos/season_11/finalist_diaries/jessica_sanchez_earth_day/",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "She also said that Earth Day was very important to her and that she is dedicated to recycling.",
       "sourceTitle": "Joshua Ledet: Earth Day – Finalist Diaries.",
-      "text": "She also said that Earth Day was very important to her and that she is dedicated to recycling."
+      "sourceUrl": "http://www.americanidol.com/videos/season_11/finalist_diaries/jessica_sanchez_earth_day/"
     },
     {
-      "type": "sentence",
-      "text": "That's not exactly a raving endorsement of environmentalism, but it's a start."
+      "type": "text",
+      "text": "That's not exactly a raving endorsement of environmentalism, but it's a start.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "It's possible that as she gets older, she'll go into a little more depth about her political beliefs. She likely has opinions on the immigration debate considering her mother immigrated to the U.S. herself. But for now, we can be confident that she's behind Obama's plan."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

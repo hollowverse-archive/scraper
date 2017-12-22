@@ -35,97 +35,164 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kris Jenner, born Kristen Houghton and formerly Kris Kardashian, was born and raised in San Diego, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1350685/Kim-Kardashian-reveals-Piers-Morgan-funds-mother-Kris-church.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Jenner is a Christian of the Protestant variety. We're not sure of Jenner's religious upbringing, but we do know that for a time she was a devotee of the Calvary Community Church in Westlake, California, an evangelical Christian denomination.",
       "sourceTitle": "Kim Kardashian reveals to Piers Morgan that she funds mother Kris' church",
-      "text": "Jenner is a Christian of the Protestant variety. We're not sure of Jenner's religious upbringing, but we do know that for a time she was a devotee of the Calvary Community Church in Westlake, California, an evangelical Christian denomination."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1350685/Kim-Kardashian-reveals-Piers-Morgan-funds-mother-Kris-church.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2012/09/a-kardashian-kult-is-more-realistic-than-you-think/",
+      "type": "text",
+      "text": "Interestingly, when the pastor of that church, Rev. Brad Johnson, was disgraced for sexual infidelity and left his leadership position, Jenner found him working at a Starbucks and funded the opening of a new church over which Johnson could preside. The new church is called the Life Change Community Church in Agora Hills, California.",
+      "parentId": 2,
       "sourceTitle": "A Kardashian Kult Is More Realistic Than You Think",
-      "text": "Interestingly, when the pastor of that church, Rev. Brad Johnson, was disgraced for sexual infidelity and left his leadership position, Jenner found him working at a Starbucks and funded the opening of a new church over which Johnson could preside. The new church is called the Life Change Community Church in Agora Hills, California."
+      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2012/09/a-kardashian-kult-is-more-realistic-than-you-think/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1350685/Kim-Kardashian-reveals-Piers-Morgan-funds-mother-Kris-church.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Jenner's daughters, particularly"
+    },
+    {
+      "parentId": 3,
+      "type": "link",
+      "text": "Kim",
+      "sourceUrl": "http://hollowverse.com/kim-kardashian/"
+    },
+    {
+      "type": "text",
+      "text": ", have admitted to helping finance the start-up costs of the new church, as well as contributing up to 10% of their income to various religious causes.",
+      "parentId": 3,
       "sourceTitle": "Kim Kardashian reveals to Piers Morgan that she funds mother Kris' church",
-      "text": "Jenner's daughters, particularly , have admitted to helping finance the start-up costs of the new church, as well as contributing up to 10% of their income to various religious causes."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1350685/Kim-Kardashian-reveals-Piers-Morgan-funds-mother-Kris-church.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://realitystarnow.com/star.asp?cid=1493",
+      "parentId": 4,
+      "type": "text",
+      "text": "Jenner is clearly very devout and faith plays a central role in her life. She even has a cross tattooed on her lower back.",
       "sourceTitle": "Kris Jenner Keeping Up With The Kardashians Reality Stars Now",
-      "text": "Jenner is clearly very devout and faith plays a central role in her life. She even has a cross tattooed on her lower back."
+      "sourceUrl": "http://realitystarnow.com/star.asp?cid=1493"
     },
     {
-      "type": "sentence",
-      "text": "Furthermore, Jenner leans on her faith in times of distress. Referring to various trails such as her divorce from Robert Kardashian and later, his death from throat cancer, she said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Furthermore, Jenner leans on her faith in times of distress. Referring to various trails such as her divorce from Robert Kardashian and later, his death from throat cancer, she said:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.withjosh.com/2011/06/01/kris-jenner-the-strength-within/",
-      "sourceTitle": "Kris Jenner: The Strength Within",
-      "text": "God got us through [Robert's death], it was in God's plan, we didn't like the plan at the moment, but there was a bigger picture out there somewhere. We had to have faith in that and it's so hard to do when you're crying."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "God got us through [Robert's death], it was in God's plan, we didn't like the plan at the moment, but there was a bigger picture out there somewhere. We had to have faith in that and it's so hard to do when you're crying.",
+      "sourceTitle": "Kris Jenner: The Strength Within",
+      "sourceUrl": "http://www.withjosh.com/2011/06/01/kris-jenner-the-strength-within/"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Incidentally, former husband and father of Jenner's now-famous daughters, was Serbian Orthodox and her daughters–to some extent–appear to identify with that religion as well as their mother's brand of Christianity. Refer to Hollowverse articles on Kim Kardashian, Khloé Kardashian, and/or Kourtney Kardashian. It's indeed a diverse family, and Jenner has addressed their religious differences, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.withjosh.com/2011/06/01/kris-jenner-the-strength-within/",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I don't think God wants us to fit into any mold… I mean that would be silly for us to think that we're all supposed to be exactly the same.",
       "sourceTitle": "Kris Jenner: The Strength Within",
-      "text": "I don't think God wants us to fit into any mold… I mean that would be silly for us to think that we're all supposed to be exactly the same."
+      "sourceUrl": "http://www.withjosh.com/2011/06/01/kris-jenner-the-strength-within/"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Jenner's unwanted political moment"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "We haven't got much to go on regarding Jenner's political leanings other than her daughter, Kim's, description of the household. Kim said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=rS2Fry0u4L0",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "My household is really split up. The parents are Republicans and the children are Democrats. So, it's like a political warfare in our household when we talk about politics.",
       "sourceTitle": "Kim Kardashian says there's 'political warfare' in her house, parents are Republicans",
-      "text": "My household is really split up. The parents are Republicans and the children are Democrats. So, it's like a political warfare in our household when we talk about politics."
+      "sourceUrl": "http://www.youtube.com/watch?v=rS2Fry0u4L0"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mediaite.com/tv/kris-jenner/",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Jenner got pretty fired up in 2012 over NBC's choice to air an interview with her during networks' TV stations' obligatory moment of silence in honor of the 9/11 attacks.",
       "sourceTitle": "Kris Jenner 'Furious' That NBC Aired Her Segment During 9/11 Moment Of Silence",
-      "text": "Jenner got pretty fired up in 2012 over NBC's choice to air an interview with her during networks' TV stations' obligatory moment of silence in honor of the 9/11 attacks."
+      "sourceUrl": "http://www.mediaite.com/tv/kris-jenner/"
     },
     {
-      "type": "sentence",
-      "text": "It didn't help that the topic of discussion was Jenner's breast augmentation surgery, but at least we know she's got some reverence for high-profile political events."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "It didn't help that the topic of discussion was Jenner's breast augmentation surgery, but at least we know she's got some reverence for high-profile political events.",
+      "parentId": 15
     }
   ],
   "wikipediaData": {

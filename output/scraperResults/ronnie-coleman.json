@@ -33,92 +33,158 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ronnie Coleman was born and raised in Bastrop, Louisiana."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Coleman is a very religious man and a Christian. He credits his mother and his upbringing to his strong faith, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "That's something my mom started, from day one, as far back as I can remember. I've had a good Christian background. We've always believed in God.",
+      "sourceTitle": "An Interview With Seven-Tim Mr. Olympia Ronnie Coleman",
+      "sourceUrl": "http://www.bodybuilding.com/fun/drobson91.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Now, as an adult and a mega-celebrity in the world of bodybuilding, Coleman thanks God in interviews and when winning his coveted Mr. Olympia titles. Check out this"
+    },
+    {
+      "parentId": 5,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.youtube.com/watch?v=ogt3aZcBZIg"
+    },
+    {
+      "type": "text",
+      "text": "of Coleman winning Mr. Olympia in 2005 and giving all the credit to his \"Lord and Savior Jesus Christ.\" When asked about his faith, he said:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.bodybuilding.com/fun/drobson91.htm",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "There is only one reason why I'm here and that is to serve God, and to do pretty much what he wants me to do. God is the person that put us here, and he put us here for a reason, and that reason is to serve him… It reiterates and confirms the reason why I'm Mr. Olympia, and the reason why I'm Mr. Olympia is because God has chosen that destiny for me. That makes it real easy for me to train.",
       "sourceTitle": "An Interview With Seven-Tim Mr. Olympia Ronnie Coleman",
-      "text": "That's something my mom started, from day one, as far back as I can remember. I've had a good Christian background. We've always believed in God."
-    },
-    {
-      "type": "sentence",
-      "text": "Now, as an adult and a mega-celebrity in the world of bodybuilding, Coleman thanks God in interviews and when winning his coveted Mr. Olympia titles. Check out this  of Coleman winning Mr. Olympia in 2005 and giving all the credit to his \"Lord and Savior Jesus Christ.\" When asked about his faith, he said:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.bodybuilding.com/fun/drobson91.htm",
-      "sourceTitle": "An Interview With Seven-Tim Mr. Olympia Ronnie Coleman",
-      "text": "There is only one reason why I'm here and that is to serve God, and to do pretty much what he wants me to do. God is the person that put us here, and he put us here for a reason, and that reason is to serve him… It reiterates and confirms the reason why I'm Mr. Olympia, and the reason why I'm Mr. Olympia is because God has chosen that destiny for me. That makes it real easy for me to train."
+      "sourceUrl": "http://www.bodybuilding.com/fun/drobson91.htm"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "If only muscles mattered in politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.getbig.com/boards/index.php?topic=247370.0",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Coleman, as far as I can tell, has never made a political statement in his life. I wonder why this could be? Even his diehard fans seem to think he's either a bit slow or a very limited speaker.",
       "sourceTitle": "How dumb is Ronnie Coleman?",
-      "text": "Coleman, as far as I can tell, has never made a political statement in his life. I wonder why this could be? Even his diehard fans seem to think he's either a bit slow or a very limited speaker."
+      "sourceUrl": "http://www.getbig.com/boards/index.php?topic=247370.0"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://forum.bodybuilding.com/showthread.php?t=4562453&page=1",
+      "type": "text",
+      "text": "On the other hand, some fans have suggested he enter the political arena like his predecessor, Arnold Schwarzenegger.",
+      "parentId": 10,
       "sourceTitle": "Could Ronnie Coleman enter politics like Arnold?",
-      "text": "On the other hand, some fans have suggested he enter the political arena like his predecessor, Arnold Schwarzenegger."
+      "sourceUrl": "http://forum.bodybuilding.com/showthread.php?t=4562453&page=1"
     },
     {
-      "type": "sentence",
-      "text": "He does say hilarious things like:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He does say hilarious things like:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://biggerstrongersmarter.wordpress.com/?s=ronnie+coleman+quotes",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Everybody wants to be a bodybuilder, but don't nobody want to lift no heavy-ass weights.",
       "sourceTitle": "Ronnie Coleman Quotes",
-      "text": "Everybody wants to be a bodybuilder, but don't nobody want to lift no heavy-ass weights."
+      "sourceUrl": "http://biggerstrongersmarter.wordpress.com/?s=ronnie+coleman+quotes"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ronnie-coleman.net/ronniecolemanbiography.html",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "But I might have to disagree that he's not intelligent. The man has a degree in accounting",
       "sourceTitle": "Ronnie Coleman Biography",
-      "text": "But I might have to disagree that he's not intelligent. The man has a degree in accounting"
+      "sourceUrl": "http://www.ronnie-coleman.net/ronniecolemanbiography.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ronnie-coleman.net/ronniecolemanbiography.html",
+      "type": "text",
+      "text": "–which I don't think I could pull off. And regarding his political views, or lack thereof, Coleman spent a few years as a police officer in Austin, Texas",
+      "parentId": 13,
       "sourceTitle": "Ronnie Coleman Biography",
-      "text": "–which I don't think I could pull off. And regarding his political views, or lack thereof, Coleman spent a few years as a police officer in Austin, Texas"
+      "sourceUrl": "http://www.ronnie-coleman.net/ronniecolemanbiography.html"
     },
     {
-      "type": "sentence",
-      "text": "indicating a respect for the rule of law and the state. However, it doesn't give us any clues as to his views on society or the current political situations and not even a passing mention of Obama."
+      "type": "text",
+      "text": "indicating a respect for the rule of law and the state. However, it doesn't give us any clues as to his views on society or the current political situations and not even a passing mention of Obama.",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "If y'all know anything, help us out in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

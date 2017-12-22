@@ -37,115 +37,188 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/kelly-rowland",
+      "parentId": 1,
+      "type": "text",
+      "text": "Kelly Rowland was born in Atlanta, Georgia and grew up there until she was eight-years-old when she and her mother moved to Houston, Texas."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Rowland is a Methodist",
       "sourceTitle": "Kelly Rowland's Charity Work, Events and Causes",
-      "text": "Rowland is a Methodist"
+      "sourceUrl": "http://www.looktothestars.org/celebrity/kelly-rowland"
     },
     {
-      "type": "sentence",
-      "text": "and is very devout. Like many religious stars, she credits her success to God, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and is very devout. Like many religious stars, she credits her success to God, saying:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.christianpost.com/news/kelly-rowland-cant-be-without-her-bible-on-tour-69264/",
-      "sourceTitle": "Kelly Rowland Can't Be Without Her Bible on Tour",
-      "text": "It's been my faith that has gotten me to where I am right now. It's been my faith that has kept me in the game for 15 years when I wanted to give up at certain times."
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.npr.org/templates/story/story.php?storyId=6480327",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "It's been my faith that has gotten me to where I am right now. It's been my faith that has kept me in the game for 15 years when I wanted to give up at certain times.",
+      "sourceTitle": "Kelly Rowland Can't Be Without Her Bible on Tour",
+      "sourceUrl": "http://www.christianpost.com/news/kelly-rowland-cant-be-without-her-bible-on-tour-69264/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Rowland's music career began in church",
       "sourceTitle": "Kelly Rowland on Destiny's Child and Her Gospel Turn",
-      "text": "Rowland's music career began in church"
+      "sourceUrl": "http://www.npr.org/templates/story/story.php?storyId=6480327"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/kelly-rowland",
+      "type": "text",
+      "text": "and much of Rowland's charity work revolves around her Houston Methodist church.",
+      "parentId": 5,
       "sourceTitle": "Kelly Rowland's Charity Work, Events and Causes",
-      "text": "and much of Rowland's charity work revolves around her Houston Methodist church."
+      "sourceUrl": "http://www.looktothestars.org/celebrity/kelly-rowland"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianpost.com/news/kelly-rowland-cant-be-without-her-bible-on-tour-69264/",
+      "type": "text",
+      "text": "Now, she says she can't go on tour without her Bible.",
+      "parentId": 5,
       "sourceTitle": "Kelly Rowland Can't Be Without Her Bible on Tour",
-      "text": "Now, she says she can't go on tour without her Bible."
+      "sourceUrl": "http://www.christianpost.com/news/kelly-rowland-cant-be-without-her-bible-on-tour-69264/"
     },
     {
-      "type": "sentence",
-      "text": "Really, Rowland \"can't live\" without her faith:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Really, Rowland \"can't live\" without her faith:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://news.rin.ru/eng/news///15397/",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I can't live without it. As kids we were so on fire for God… If all this were taken away from me right now I would still have my faith. If you don't have faith the world will eat you alive.",
       "sourceTitle": "Kelly Rowland couldn't live without religion",
-      "text": "I can't live without it. As kids we were so on fire for God… If all this were taken away from me right now I would still have my faith. If you don't have faith the world will eat you alive."
+      "sourceUrl": "http://news.rin.ru/eng/news///15397/"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Politics of Destiny"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebritytweet.com/KELLYROWLAND/link/243902088239783936/",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Rowland is a Democrat and an Obama supporter–though her support is a bit subdued compared to many other celebrities. She mostly shows her Obama allegiance through her Twitter account–tweeting quotes from both the president",
       "sourceTitle": "Kelly Rowland",
-      "text": "Rowland is a Democrat and an Obama supporter–though her support is a bit subdued compared to many other celebrities. She mostly shows her Obama allegiance through her Twitter account–tweeting quotes from both the president"
+      "sourceUrl": "http://www.celebritytweet.com/KELLYROWLAND/link/243902088239783936/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/KELLYROWLAND/status/243435437681680384",
+      "type": "text",
+      "text": "and the first lady.",
+      "parentId": 10,
       "sourceTitle": "Kelly Rowland: Another good Michelle Obama…",
-      "text": "and the first lady."
+      "sourceUrl": "https://twitter.com/KELLYROWLAND/status/243435437681680384"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "Proof that Rowland takes at least some liberal positions is her unwavering support of and by the gay community. In Australia, she just came out and said it:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 12
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.dailytelegraph.com.au/entertainment/sydney-confidential/kelly-rowland-believes-in-female-leaders-and-would-date-a-sydney-man/story-e6frewz0-1225898009167",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I think anyone who wants to be married should be married it doesn't matter if you are gay, straight or whatever, it's a celebration of love. Who am I to judge anybody?",
       "sourceTitle": "Kelly Rowland believes in female leaders and would date a Sydney man",
-      "text": "I think anyone who wants to be married should be married it doesn't matter if you are gay, straight or whatever, it's a celebration of love. Who am I to judge anybody?"
+      "sourceUrl": "http://www.dailytelegraph.com.au/entertainment/sydney-confidential/kelly-rowland-believes-in-female-leaders-and-would-date-a-sydney-man/story-e6frewz0-1225898009167"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=bgsIi7FdTOA",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "She participates in gay rallies and parades",
       "sourceTitle": "Kelly Rowland interviewed by Perez Hilton",
-      "text": "She participates in gay rallies and parades"
+      "sourceUrl": "http://www.youtube.com/watch?v=bgsIi7FdTOA"
     },
     {
-      "type": "sentence",
-      "text": "and is quick to express her gratitude to the gay community for their continued support of her and her music, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and is quick to express her gratitude to the gay community for their continued support of her and her music, saying:",
+      "parentId": 14
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.contactmusic.com/news/kelly-rowland-gay-fans-give-me-strength_1279288",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "My gay fans are the reason I'm here, you know what I mean. For me, the gay community provides so much strength and I really say this with from the heart.",
       "sourceTitle": "Kelly Rowland: Gay Fans Give Me Strength",
-      "text": "My gay fans are the reason I'm here, you know what I mean. For me, the gay community provides so much strength and I really say this with from the heart."
+      "sourceUrl": "http://www.contactmusic.com/news/kelly-rowland-gay-fans-give-me-strength_1279288"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Other political issues–economics, immigration, the environment–haven't made Rowland's list of hot topics–yet. Keep us posted in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

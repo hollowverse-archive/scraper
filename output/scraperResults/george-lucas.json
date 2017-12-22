@@ -34,96 +34,168 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "George Lucas was born and grew up in Modesto, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "He was raised in a devout Methodist family and still retains much of his childhood beliefs. He certainly believes in God but seems to have a very nuanced view of religious belief, reconciling God and evolution and making a distinction between the real God and the God of the bible. He has said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.boston.com/ae/movies/lucas_interview/",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "There's absolutely no conflict between Darwinism and God's design for the universe…The problem for me is that I see a very big difference between the Bible and God. And the problem they're getting into now is that they're trying to understand intelligent design through the Bible, not through God.",
       "sourceTitle": "George Lucas Interview",
-      "text": "There's absolutely no conflict between Darwinism and God's design for the universe…The problem for me is that I see a very big difference between the Bible and God. And the problem they're getting into now is that they're trying to understand intelligent design through the Bible, not through God."
+      "sourceUrl": "http://www.boston.com/ae/movies/lucas_interview/"
     },
     {
-      "type": "sentence",
-      "text": "Interestingly, Lucas has expressed an interest in Buddhism and much of the Eastern philosophies of the power within individuals was a large influence on Lucas' concept of \"The Force\" in the  film. He has called himself a \"Methodist Buddhist\" and said:"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "text",
+      "text": "Interestingly, Lucas has expressed an interest in Buddhism and much of the Eastern philosophies of the power within individuals was a large influence on Lucas' concept of \"The Force\" in the"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Star Wars"
+    },
+    {
+      "type": "text",
+      "text": "film. He has called himself a \"Methodist Buddhist\" and said:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pl/George_Lucas.html",
-      "sourceTitle": "The Religion of George Lucas, director",
-      "text": "I was raised Methodist. Now let's say I'm spiritual. It's Marin County [California, a very liberal area]. We're all Buddhists up here."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I was raised Methodist. Now let's say I'm spiritual. It's Marin County [California, a very liberal area]. We're all Buddhists up here.",
+      "sourceTitle": "The Religion of George Lucas, director",
+      "sourceUrl": "http://www.adherents.com/people/pl/George_Lucas.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Lucas has had some interesting things about humans' place in the universe. Where many religions promote a sense that humans are inherently evil and need the guidance of religion (Christianity) or that humans are inherently good and need to just tap into their true nature (Eastern religions), Lucas thinks we can go either way, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://partners.nytimes.com/library/film/032199lucas-wars-excerpts.html",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Only [humans] can exchange information. And the test of how accurate the information is will be whether we all die or not. If we all die, then it wasn't the right information. I would rather see us be a positive force in the universe than a cancer. We have the knowledge to be either one. That, in essence, is what \"Star Wars\" is about. We are both good and evil, and we have a choice.",
       "sourceTitle": "George Lucas: 'I'm a Cynic Who Has Hope for the Human Race",
-      "text": "Only [humans] can exchange information. And the test of how accurate the information is will be whether we all die or not. If we all die, then it wasn't the right information. I would rather see us be a positive force in the universe than a cancer. We have the knowledge to be either one. That, in essence, is what \"Star Wars\" is about. We are both good and evil, and we have a choice."
+      "sourceUrl": "http://partners.nytimes.com/library/film/032199lucas-wars-excerpts.html"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "The politics of outer space"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.boston.com/2010-08-05/news/29322741_1_gates-and-buffett-pledge-philanthropy",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Lucas is a good-hearted man. He has pledged to give at least half of his fortune to charity along with some of America's other extremely wealthy including Bill Gates and Warren Buffet.",
       "sourceTitle": "Gates, Buffet get 40 Pledges",
-      "text": "Lucas is a good-hearted man. He has pledged to give at least half of his fortune to charity along with some of America's other extremely wealthy including Bill Gates and Warren Buffet."
+      "sourceUrl": "http://articles.boston.com/2010-08-05/news/29322741_1_gates-and-buffett-pledge-philanthropy"
     },
     {
-      "type": "sentence",
-      "text": "Although what charities is still unclear."
+      "type": "text",
+      "text": "Although what charities is still unclear.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.campaignmoney.com/political/contributions/george-lucas.asp?cycle=08",
+      "parentId": 13,
+      "type": "text",
+      "text": "Lucas, we're going to have to say, is a Democrat. During the 2008 election, he made contributions to both McCain and Obama (and the very controversial Citizens United Political Victory Fund) but here's the funny thing: He gave $300 to McCain and over $33,000 to Obama.",
       "sourceTitle": "George Lucas Contribution List in 2008",
-      "text": "Lucas, we're going to have to say, is a Democrat. During the 2008 election, he made contributions to both McCain and Obama (and the very controversial Citizens United Political Victory Fund) but here's the funny thing: He gave $300 to McCain and over $33,000 to Obama."
+      "sourceUrl": "http://www.campaignmoney.com/political/contributions/george-lucas.asp?cycle=08"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "Lucas has spoken about the dangers of large vested interests and criticized America for allowing big business to influence legislation. He has explained his views, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.cbsnews.com/8301-505271_162-57362574/george-lucas-billionaire-down-on-capitalism/",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "I grew up in the '60s. I grew up in San Francisco. And so I'm informed in a certain kind of way about, you know, believing in democracy and believing in America. And I'm a very ardent patriot. But I'm also a very ardent believer in democracy, not capitalist democracy. And I do not believe that the rich should be able to buy the government. And that's just the way I feel.",
       "sourceTitle": "George Lucas: Billionaire down on capitalism",
-      "text": "I grew up in the '60s. I grew up in San Francisco. And so I'm informed in a certain kind of way about, you know, believing in democracy and believing in America. And I'm a very ardent patriot. But I'm also a very ardent believer in democracy, not capitalist democracy. And I do not believe that the rich should be able to buy the government. And that's just the way I feel."
+      "sourceUrl": "http://www.cbsnews.com/8301-505271_162-57362574/george-lucas-billionaire-down-on-capitalism/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "This would mean he's probably a supporter of the Occupy movement. And if you think about it, Star Wars was all about the little guy prevailing over the big behemoth that was the Empire. Who would've guessed at the spiritual and political messages in a sci-fi space movie?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

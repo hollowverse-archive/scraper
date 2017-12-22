@@ -35,105 +35,189 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sean Kingston, whose real name is Kisean Anderson, was born in Miami, Florida and grew up in Kingston, Jamaica."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wiki.answers.com/Q/What_is_the_religion_of_Sean_Kingston",
+      "parentId": 2,
+      "type": "text",
+      "text": "Kingston is very religious. He's a Christian of some kind. Some speculate that he's a Catholic,",
       "sourceTitle": "What is the religion of Sean Kingston",
-      "text": "Kingston is very religious. He's a Christian of some kind. Some speculate that he's a Catholic,"
+      "sourceUrl": "http://wiki.answers.com/Q/What_is_the_religion_of_Sean_Kingston"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Jamaica#Roman_Catholicism_in_Jamaica",
+      "type": "text",
+      "text": "but that would seem unlikely considering only 2% of Jamaicans are Catholic while the overwhelming majority are Protestants of some kind.",
+      "parentId": 2,
       "sourceTitle": "Religion in Jamaica",
-      "text": "but that would seem unlikely considering only 2% of Jamaicans are Catholic while the overwhelming majority are Protestants of some kind."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Jamaica#Roman_Catholicism_in_Jamaica"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Either way, he's certainly the faithful type. His Twitter feed is intermittently spattered with things like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/SeanKingston",
-      "sourceTitle": "Sean Kingston (SeanKingston) on Twitter",
-      "text": "Even when it looks like there is no way, GOD can make a way."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Even when it looks like there is no way, GOD can make a way.",
+      "sourceTitle": "Sean Kingston (SeanKingston) on Twitter",
+      "sourceUrl": "https://twitter.com/SeanKingston"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "And:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/SeanKingston",
-      "sourceTitle": "Sean Kingston (SeanKingston) on Twitter",
-      "text": "God gives us peace about our past, joy for our present & hope for our future. Your strength, peace & joy is in the LORD!"
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "God gives us peace about our past, joy for our present & hope for our future. Your strength, peace & joy is in the LORD!",
+      "sourceTitle": "Sean Kingston (SeanKingston) on Twitter",
+      "sourceUrl": "https://twitter.com/SeanKingston"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "When Kingston was seriously injured during a jet skiing accident, his aorta was torn–an injury with roughly a 10% survival rate. Kingston credited God for getting him through it:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 10
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2011/08/04/sean-kingston-on-almost-d_n_918198.html",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "It feels great, it's a blessing. God is great. For me to still be here it's only God's work. My work is not done. It wasn't my time yet.",
       "sourceTitle": "Sean Kingston On Almost Dying Twice. 'You Had A Guardian Angel.'",
-      "text": "It feels great, it's a blessing. God is great. For me to still be here it's only God's work. My work is not done. It wasn't my time yet."
+      "sourceUrl": "http://www.huffingtonpost.com/2011/08/04/sean-kingston-on-almost-d_n_918198.html"
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "type": "heading",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Getting Invloved"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.peoplepets.com/people/pets/article/0,,20493624,00.html",
+      "parentId": 14,
+      "type": "text",
+      "text": "Kingston is refreshingly involved politically. For example, he made a"
+    },
+    {
+      "parentId": 14,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.youtube.com/watch?v=sVXiPpOsZco"
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "in support of an organization called \"Do Something,\" the sole purpose of which is to get people involved in activism of any kind, be it environmentalism, fighting poverty, bullying or whatever you're into."
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "He lent his star power to PETA, encouraging people not to leave their dogs chained up for long periods of time.",
       "sourceTitle": "Rapper Sean Kingston Says Chill With Your Dogs, Don't Chain Them",
-      "text": "He lent his star power to PETA, encouraging people not to leave their dogs chained up for long periods of time."
+      "sourceUrl": "http://www.peoplepets.com/people/pets/article/0,,20493624,00.html"
     },
     {
-      "type": "sentence",
-      "text": "It's a bit of a stretch, but generally PETA is associated with liberals."
+      "type": "text",
+      "text": "It's a bit of a stretch, but generally PETA is associated with liberals.",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "We can be sure, however, that he's down with the Democrats. He's a big Obama supporter. When the president won reelection in 2012, Kingston tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/SeanKingston/status/265983024498368513",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Obama Sir, they can't hold u back! the proof is there u deserve the best lets go!! #2012.",
       "sourceTitle": "SeanKingston: Obama, Sir, they can't hold…",
-      "text": "Obama Sir, they can't hold u back! the proof is there u deserve the best lets go!! #2012."
+      "sourceUrl": "https://twitter.com/SeanKingston/status/265983024498368513"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "I'm reluctant to call Kingston a liberal Democrat–definitely a Democrat–but my guess is the PETA thing was only because Kingston really loves his dogs. There's really nothing else to indicate any leanings to the left."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

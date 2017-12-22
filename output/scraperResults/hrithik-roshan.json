@@ -31,104 +31,175 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.koimoi.com/actor/hrithik-roshan/",
+      "parentId": 1,
+      "type": "text",
+      "text": "Hrithik Roshan was born and raised in Mumbai, India."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Roshan was born into a Punjab Hindu family, though really it was a Bollywood cinema dynasty.",
       "sourceTitle": "Hrithik Roshan Biography",
-      "text": "Roshan was born into a Punjab Hindu family, though really it was a Bollywood cinema dynasty."
+      "sourceUrl": "http://www.koimoi.com/actor/hrithik-roshan/"
     },
     {
-      "type": "sentence",
-      "text": "One could say his stardom was destiny, though it's doubtful that Roshan himself would see it like that."
+      "type": "text",
+      "text": "One could say his stardom was destiny, though it's doubtful that Roshan himself would see it like that.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Roshan, despite his Hindu heritage, appears to be an unsatisfied atheist. He has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0004335/bio",
-      "sourceTitle": "Hrithik Roshan",
-      "text": "I'm not religious. I don't visit temples. But I hope there is a superpower."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I'm not religious. I don't visit temples. But I hope there is a superpower.",
+      "sourceTitle": "Hrithik Roshan",
+      "sourceUrl": "http://www.imdb.com/name/nm0004335/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "This was, no doubt, a disappointing revelation for the millions upon millions of Roshan's Hindu fans, but the actor looks around at this crazy world and just can't bring himself to believe that there's anything benevolent looking down on it:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0004335/bio",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Quite often I feel that there is no God. War, natural calamities, handicaps, suffering. When I see all this, I fear there's no God. And the thought scares me shitless.",
       "sourceTitle": "Hrithik Roshan",
-      "text": "Quite often I feel that there is no God. War, natural calamities, handicaps, suffering. When I see all this, I fear there's no God. And the thought scares me shitless."
+      "sourceUrl": "http://www.imdb.com/name/nm0004335/bio"
     },
     {
-      "type": "sentence",
-      "text": "Still, these words do betray a certain searching, don't they? As if Roshan really  to believe in a deity of some kind, he just can't justify it in his mind."
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "break"
+      "parentId": 9,
+      "type": "text",
+      "text": "Still, these words do betray a certain searching, don't they? As if Roshan really"
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "wants"
+    },
+    {
+      "type": "text",
+      "text": "to believe in a deity of some kind, he just can't justify it in his mind.",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Politics of people"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Roshan is quite light in the politics department. He doesn't even seem to exhibit the existential angst in regards to politics that he does when it comes to religion. Though, his stardom is such that he could probably sway elections in the world's most populous democracy."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0004335/bio",
+      "parentId": 12,
+      "type": "text",
+      "text": "Roshan has said that he believes in the inherent goodness of people,",
       "sourceTitle": "Hrithik Roshan",
-      "text": "Roshan has said that he believes in the inherent goodness of people,"
+      "sourceUrl": "http://www.imdb.com/name/nm0004335/bio"
     },
     {
-      "type": "sentence",
-      "text": "indicating he might identify with anarchism or libertarianism if he was so inclined."
+      "type": "text",
+      "text": "indicating he might identify with anarchism or libertarianism if he was so inclined.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "One quote I found seems to indicate some conservative social leanings–at least when it comes to sex. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0004335/bio",
-      "sourceTitle": "Hrithik Roshan",
-      "text": "[Pornography] exists because there is a market for it. It needs to exist but it should be properly channelized. It shouldn't be accessible to everyone."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "[Pornography] exists because there is a market for it. It needs to exist but it should be properly channelized. It shouldn't be accessible to everyone.",
+      "sourceTitle": "Hrithik Roshan",
+      "sourceUrl": "http://www.imdb.com/name/nm0004335/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Censorship of porn? This quote sounds like it could come from the mouth of an American religious Republican–but that might be taking this conjecture a bit too far."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "If any of you Hrithik Roshan fans know anything, let us know in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

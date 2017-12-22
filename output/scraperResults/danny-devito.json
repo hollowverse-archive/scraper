@@ -34,90 +34,153 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Danny DeVito was born in Neptune, New Jersey and raised in Asbury Park, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ellendickson.com/2012/02/07/oratory-prep-danny-devito/",
+      "parentId": 2,
+      "type": "text",
+      "text": "DeVito is of purebred Italian descent, so if you were to assume he's a Catholic, you'd be correct. He even attended a Catholic prep school as a kid.",
       "sourceTitle": "Orratory Prep & Danny DeVito",
-      "text": "DeVito is of purebred Italian descent, so if you were to assume he's a Catholic, you'd be correct. He even attended a Catholic prep school as a kid."
+      "sourceUrl": "http://ellendickson.com/2012/02/07/oratory-prep-danny-devito/"
     },
     {
-      "type": "sentence",
-      "text": "It was this school where DeVito had his first acting gig, playing St. Francis of Assisi."
+      "type": "text",
+      "text": "It was this school where DeVito had his first acting gig, playing St. Francis of Assisi.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "DeVito ended up marrying Jewish actress Rhea Perlman and they are still married to this day. DeVito spoke of how they reconcile their different faiths, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.esquire.com/features/what-ive-learned/meaning-of-life-2011/danny-devito-interview-0111",
-      "sourceTitle": "Danny DeVito Quotes",
-      "text": "I'm Catholic. It's always worked well. We do the seders and the Christmas tree. We hide the matzo and have the Easter Bunny. But we don't do things like Lent. We've never fasted when you're supposed to in the Jewish religion. We only do the fun stuff. We took away the burning-in-hell part."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I'm Catholic. It's always worked well. We do the seders and the Christmas tree. We hide the matzo and have the Easter Bunny. But we don't do things like Lent. We've never fasted when you're supposed to in the Jewish religion. We only do the fun stuff. We took away the burning-in-hell part.",
+      "sourceTitle": "Danny DeVito Quotes",
+      "sourceUrl": "http://www.esquire.com/features/what-ive-learned/meaning-of-life-2011/danny-devito-interview-0111"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "All fun without the burning in hell? That's barely Catholic. I don't think we could say he's devout."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "The comedy of politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Danny_DeVito.php",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "DeVito is a longtime, devoted Democrat. He's dropped a lot of money on the Democratic Party, stretching as far back as Ed Brown's bid for president in 1980. He supported Hillary Clinton for New York Senate–twice and he seemed to favor her for president in 2008. But when Obama got the nod over Hillary, he supported Barack. When you add it all up, DeVito has given Democrats and their support organizations a total of $145,700.",
       "sourceTitle": "Danny DeVito's Federal Campaign Contribution Report",
-      "text": "DeVito is a longtime, devoted Democrat. He's dropped a lot of money on the Democratic Party, stretching as far back as Ed Brown's bid for president in 1980. He supported Hillary Clinton for New York Senate–twice and he seemed to favor her for president in 2008. But when Obama got the nod over Hillary, he supported Barack. When you add it all up, DeVito has given Democrats and their support organizations a total of $145,700."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Danny_DeVito.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=46wakJ8oggM",
+      "parentId": 9,
+      "type": "text",
+      "text": "His Democratic leanings put him at odds with President George W. Bush. DeVito appeared on"
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "The View"
+    },
+    {
+      "type": "text",
+      "text": "after an all night party. He was noticeably drunk, called the president a \"numbnuts,\" and mocked him, stuttering and portraying him as a retarded buffoon.",
+      "parentId": 9,
       "sourceTitle": "Hard Drinking Devito Bashes Bush on \"The View.\"",
-      "text": "His Democratic leanings put him at odds with President George W. Bush. DeVito appeared on  after an all night party. He was noticeably drunk, called the president a \"numbnuts,\" and mocked him, stuttering and portraying him as a retarded buffoon."
+      "sourceUrl": "http://www.youtube.com/watch?v=46wakJ8oggM"
     },
     {
-      "type": "sentence",
-      "text": "The ladies seemed to like it–except for , who sat there stone-faced while the other three giggled."
+      "type": "text",
+      "text": "The ladies seemed to like it–except for",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "parentId": 9,
+      "type": "text",
+      "text": "Elisabeth Hasselbeck"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": ", who sat there stone-faced while the other three giggled.",
+      "parentId": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "In fact, the majority of DeVito's political activity seems to be trashing Republicans. His Twitter feed has been known to be a forum for political debate, with DeVito doling out sarcasm and insults. For example, when someone called Obama a \"fake,\" he replied:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.politico.com/blogs/click/2012/06/danny-devito-rips-republicans-127568.html",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Yes… but not Rush Limbaugh or George Bush or Mitt Romney…Dick Chaney…those are stand up guys.",
       "sourceTitle": "Danny DeVito rips Republicans",
-      "text": "Yes… but not Rush Limbaugh or George Bush or Mitt Romney…Dick Chaney…those are stand up guys."
+      "sourceUrl": "http://www.politico.com/blogs/click/2012/06/danny-devito-rips-republicans-127568.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "DeVito is certainly a funny little dude, but not one for civil discourse."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

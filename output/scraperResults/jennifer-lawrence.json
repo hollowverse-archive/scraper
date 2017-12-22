@@ -26,81 +26,113 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jennifer Lawrence was born and raised in Louisville, Kentucky."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wiki.answers.com/Q/What_religion_is_Jennifer_Lawrence",
+      "parentId": 2,
+      "type": "text",
+      "text": "She has not spoken about her religious views or the views of her family. Her fan sites speculate that she is Christian,",
       "sourceTitle": "What religion is Jennifer Lawrence",
-      "text": "She has not spoken about her religious views or the views of her family. Her fan sites speculate that she is Christian,"
+      "sourceUrl": "http://wiki.answers.com/Q/What_religion_is_Jennifer_Lawrence"
     },
     {
-      "type": "sentence",
-      "text": "which seems reasonable considering she's a white American girl. But I would submit that she's probably not very religious or devout if she is."
+      "type": "text",
+      "text": "which seems reasonable considering she's a white American girl. But I would submit that she's probably not very religious or devout if she is.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Louisville,_Kentucky#Religion",
+      "parentId": 3,
+      "type": "text",
+      "text": "Based on conjecture, my best guess for Lawrence is Catholic. Louisville, Kentucky is a very religious town, with 1 of 3 residents being Southern Baptist, the largest denomination in that city. But the second largest religion is Catholic, with 1 in 6 Louisville residents claiming that faith.",
       "sourceTitle": "Louisville, Kentucky",
-      "text": "Based on conjecture, my best guess for Lawrence is Catholic. Louisville, Kentucky is a very religious town, with 1 of 3 residents being Southern Baptist, the largest denomination in that city. But the second largest religion is Catholic, with 1 in 6 Louisville residents claiming that faith."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Louisville,_Kentucky#Religion"
     },
     {
-      "type": "sentence",
-      "text": "Given that a large proportion of Louisville's population is black, which probably accounts for much, if not most, of the Southern Baptists, I'm going to go out on a limb and say that Lawrence is Catholic."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Given that a large proportion of Louisville's population is black, which probably accounts for much, if not most, of the Southern Baptists, I'm going to go out on a limb and say that Lawrence is Catholic.",
+      "parentId": 3
     },
     {
       "type": "heading",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "Strange politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=H5Pr29nu-54",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Lawrence hasn't taken a political stand either, but she's fun to watch and an interesting and unorthodox person in interviews.",
       "sourceTitle": "Chelsea Lately interview of Jennifer Lawrence",
-      "text": "Lawrence hasn't taken a political stand either, but she's fun to watch and an interesting and unorthodox person in interviews."
+      "sourceUrl": "http://www.youtube.com/watch?v=H5Pr29nu-54"
     },
     {
-      "type": "sentence",
-      "text": "Given her talkativeness and candor, something controversial will slip eventually."
+      "type": "text",
+      "text": "Given her talkativeness and candor, something controversial will slip eventually.",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "She did make one statement that put her at odds with liberals, and might even officially put her in the conservative camp:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.evilbeetgossip.com/2012/04/11/quotables-jennifer-lawrence-says-screw-peta/",
-      "sourceTitle": "Quotables: Jennifer Lawrence Says \"Screw PETA.\"",
-      "text": "I should say it wasn't real, for PETA, but screw PETA."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I should say it wasn't real, for PETA, but screw PETA.",
+      "sourceTitle": "Quotables: Jennifer Lawrence Says \"Screw PETA.\"",
+      "sourceUrl": "http://www.evilbeetgossip.com/2012/04/11/quotables-jennifer-lawrence-says-screw-peta/"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Yes, that's PETA, People for the Ethical Treatment of Animals. Lawrence was referring to a scene in one of her films where she killed and gutted a squirrel. Apparently, it was real."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "I'm looking forward to more slip-ups from Lawrence, myself."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

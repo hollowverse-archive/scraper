@@ -31,102 +31,158 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "John Travolta was born in Englewood, New Jersey just outside of New York City."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Travolta was raised by the daughter of Irish immigrants and the son of Italian immigrants. That being the case, his childhood was dominated by Catholicism."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.smh.com.au/lifestyle/celebrity/the-resurrection-man-20100227-pa1y.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Though when he was 21 in 1975, at the height of young Travolta's fame, he converted to Scientology.",
       "sourceTitle": "The resurrection man",
-      "text": "Though when he was 21 in 1975, at the height of young Travolta's fame, he converted to Scientology."
+      "sourceUrl": "http://www.smh.com.au/lifestyle/celebrity/the-resurrection-man-20100227-pa1y.html"
     },
     {
-      "type": "sentence",
-      "text": "In fact, many argue that Travolta was one of the first celebrity Scientologists, paving the way for scores of famous followers from Tom Cruise to Jason Lee."
+      "type": "text",
+      "text": "In fact, many argue that Travolta was one of the first celebrity Scientologists, paving the way for scores of famous followers from Tom Cruise to Jason Lee.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Travolta is happy to talk about his faith and credits Scientology to everything from keeping him sane to helping him emotionally deal with the death of his young son. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.smh.com.au/lifestyle/celebrity/the-resurrection-man-20100227-pa1y.html",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Scientology has given me stability, given me the tools to handle life's issues, stresses and problems.",
       "sourceTitle": "The resurrection man",
-      "text": "Scientology has given me stability, given me the tools to handle life's issues, stresses and problems."
+      "sourceUrl": "http://www.smh.com.au/lifestyle/celebrity/the-resurrection-man-20100227-pa1y.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://jezebel.com/5123326/did-scientology-kill-john-travoltas-son",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "However, Travolta's son was autistic and prone to seizures. He died of seizures and the doctrine of Scientology forbids treatment of mental health issues with prescription medication, causing many to speculate that the young boy would have lived longer if the faith of his parents had been open to various chemical treatments.",
       "sourceTitle": "Did Scientology \"Kill\" John Travolta's Son?",
-      "text": "However, Travolta's son was autistic and prone to seizures. He died of seizures and the doctrine of Scientology forbids treatment of mental health issues with prescription medication, causing many to speculate that the young boy would have lived longer if the faith of his parents had been open to various chemical treatments."
+      "sourceUrl": "http://jezebel.com/5123326/did-scientology-kill-john-travoltas-son"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "text": "Scientology, at times, has not been kind to Travolta's career. In 2000, Travolta pushed a film based on a novel by the creator of Scientology, L. Ron Hubbard, called  The film was a box office flop, universally panned by critics, and is often used as a synonym for \"bad movie.\""
+      "parentId": 8,
+      "type": "text",
+      "text": "Scientology, at times, has not been kind to Travolta's career. In 2000, Travolta pushed a film based on a novel by the creator of Scientology, L. Ron Hubbard, called"
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "Battlefield Earth."
+    },
+    {
+      "type": "text",
+      "text": "The film was a box office flop, universally panned by critics, and is often used as a synonym for \"bad movie.\"",
+      "parentId": 8
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "No time for politics, the Thetans are calling"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/111-john-travolta",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Travolta tends to stay out of politics, U.S. or otherwise. He does participate in quite a bit of charity, much of which has to do with the Church of Scientology. But he has given to secular organizations as well such as the Red Cross and Meals on Wheels.",
       "sourceTitle": "John Travolta",
-      "text": "Travolta tends to stay out of politics, U.S. or otherwise. He does participate in quite a bit of charity, much of which has to do with the Church of Scientology. But he has given to secular organizations as well such as the Red Cross and Meals on Wheels."
+      "sourceUrl": "http://www.looktothestars.org/celebrity/111-john-travolta"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://voices.washingtonpost.com/behind-the-numbers/2008/04/the_economy_and_the_situation.html",
+      "parentId": 11,
+      "type": "text",
+      "text": "It is safe to assume that Travolta is a Democrat, or at least friends with Democrats. When the Clinton family was being investigated for fraud in 2008–just as Hillary was running for president–Travolta testified on their behalf.",
       "sourceTitle": "Behind the Numbers – A Democratic Edge on Top Issues",
-      "text": "It is safe to assume that Travolta is a Democrat, or at least friends with Democrats. When the Clinton family was being investigated for fraud in 2008–just as Hillary was running for president–Travolta testified on their behalf."
+      "sourceUrl": "http://voices.washingtonpost.com/behind-the-numbers/2008/04/the_economy_and_the_situation.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "And just as almost every celebrity was obligated to comment on Obama's 2008 victory, Travolta kept it short, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=WE5BbZaasAY",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Yeah, it's history, man.",
       "sourceTitle": "John Travolta talks about balding, Clooney and Obama in NYC",
-      "text": "Yeah, it's history, man."
+      "sourceUrl": "http://www.youtube.com/watch?v=WE5BbZaasAY"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Well, that's definitely not an endorsement–or anything at all for that matter."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

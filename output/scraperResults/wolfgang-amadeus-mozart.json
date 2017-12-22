@@ -32,110 +32,176 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Wolfgang Amadeus Mozart was born in Salzburg, Austria and grew up there, although as a child prodigy, much of his youth was spent traveling throughout Europe to perform."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://web.archive.org/web/20071204040828/http://ncronline.org/NCR_Online/archives2/2006c/090106/090106i.php",
+      "parentId": 2,
+      "type": "text",
+      "text": "Mozart was a Catholic, and remained so all his life. There is some disagreement as to how devout a Catholic Mozart was. Much of the dialog suggesting that Mozart wasn't totally devoted to Catholicism revolves around the fact that he was, by the end of his life, a high-ranking Freemason, an organization that would later become at odds with the church. However, during Mozart's time, the Freemasons and the Catholic Church were not so antagonistic toward each other.",
       "sourceTitle": "Mozart: Catholic, Master Mason, favorite of the pope",
-      "text": "Mozart was a Catholic, and remained so all his life. There is some disagreement as to how devout a Catholic Mozart was. Much of the dialog suggesting that Mozart wasn't totally devoted to Catholicism revolves around the fact that he was, by the end of his life, a high-ranking Freemason, an organization that would later become at odds with the church. However, during Mozart's time, the Freemasons and the Catholic Church were not so antagonistic toward each other."
+      "sourceUrl": "http://web.archive.org/web/20071204040828/http://ncronline.org/NCR_Online/archives2/2006c/090106/090106i.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Various historians have questioned how Mozart felt about his religion, with one Bruce MacIntyre writing:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.zoominfo.com/#!search/profile/person?personId=230994126&targetid=profile",
-      "sourceTitle": "Maria Anna Mozart, Freemasons",
-      "text": "[Mozart] seems to have been a freethinking Catholic with a private relationship to God."
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://web.archive.org/web/20071204040828/http://ncronline.org/NCR_Online/archives2/2006c/090106/090106i.php",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "[Mozart] seems to have been a freethinking Catholic with a private relationship to God.",
+      "sourceTitle": "Maria Anna Mozart, Freemasons",
+      "sourceUrl": "http://www.zoominfo.com/#!search/profile/person?personId=230994126&targetid=profile"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "However, the evidence is overwhelming that Mozart was, in fact, rather religious. He wrote over 60 pieces of religious music,",
       "sourceTitle": "Mozart: Catholic, Master Mason, favorite of the pope",
-      "text": "However, the evidence is overwhelming that Mozart was, in fact, rather religious. He wrote over 60 pieces of religious music,"
+      "sourceUrl": "http://web.archive.org/web/20071204040828/http://ncronline.org/NCR_Online/archives2/2006c/090106/090106i.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://areluctantsinner.blogspot.com/2011/08/wolfgang-amadeus-mozart-papal-knight-of.html",
+      "type": "text",
+      "text": "received honorary knighthood (a designation called the Order of the Golden Spur) by Pope Clement XIV,",
+      "parentId": 6,
       "sourceTitle": "Wolfgang Amadeus Mozart, papal knight of the golden spur",
-      "text": "received honorary knighthood (a designation called the Order of the Golden Spur) by Pope Clement XIV,"
+      "sourceUrl": "http://areluctantsinner.blogspot.com/2011/08/wolfgang-amadeus-mozart-papal-knight-of.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.zoominfo.com/#!search/profile/person?personId=230994126&targetid=profile",
+      "type": "text",
+      "text": "was given a Catholic funeral and his letters suggest that he attended services on a regular basis.",
+      "parentId": 6,
       "sourceTitle": "Maria Anna Mozart, Freemasons",
-      "text": "was given a Catholic funeral and his letters suggest that he attended services on a regular basis."
+      "sourceUrl": "http://www.zoominfo.com/#!search/profile/person?personId=230994126&targetid=profile"
     },
     {
-      "type": "sentence",
-      "text": "He once wrote:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He once wrote:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/wolfgang_amadeus_mozart.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I thank my God for graciously granting me the opportunity of learning that death is the key which unlocks the door to our true happiness.",
       "sourceTitle": "Wolfgang Amadeus Mozart Quotes",
-      "text": "I thank my God for graciously granting me the opportunity of learning that death is the key which unlocks the door to our true happiness."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/wolfgang_amadeus_mozart.html"
     },
     {
-      "type": "sentence",
-      "text": "That is quite the religious thing to say. For more information, Wikipedia has a pretty good  on Mozart's relationship to the church."
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "break"
+      "parentId": 9,
+      "type": "text",
+      "text": "That is quite the religious thing to say. For more information, Wikipedia has a pretty good"
+    },
+    {
+      "parentId": 9,
+      "type": "link",
+      "text": "article",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Mozart_and_Roman_Catholicism#cite_note-Eisen_and_Keefe_2006.2C_325-18"
+    },
+    {
+      "type": "text",
+      "text": "on Mozart's relationship to the church.",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Old school politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thee-online.com/Frameworks/Frameworks.aspx?value=%2FMyWebHelp%2Fthee_CSH.htm%233.%2520Politics%2F4.%2520Political%2520Maturation%2F4.b%2520St-1%2520Pluralist-I%2F2.09.02%2520Stage%25201%2520Politics%2520Starts%2520in%2520the%2520Pluralist%2520Mode.htm",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Politics was a different game in Mozart's time, a blatant rule by elites. Some call this system a sort of primitive pluralism",
       "sourceTitle": "Stage 1: Politics Starts in the Pluralist Mode",
-      "text": "Politics was a different game in Mozart's time, a blatant rule by elites. Some call this system a sort of primitive pluralism"
+      "sourceUrl": "http://www.thee-online.com/Frameworks/Frameworks.aspx?value=%2FMyWebHelp%2Fthee_CSH.htm%233.%2520Politics%2F4.%2520Political%2520Maturation%2F4.b%2520St-1%2520Pluralist-I%2F2.09.02%2520Stage%25201%2520Politics%2520Starts%2520in%2520the%2520Pluralist%2520Mode.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blog.europeana.eu/2012/01/wolfgang-amadeus-mozart/",
+      "type": "text",
+      "text": "in which an elite monarchy and the church ruled the masses, largely unquestioned, from the lap of luxury. Luckily for Mozart, he was in their good graces. From a young age, Mozart was a regular at European royal courts in France, Prussia, Austria, Britain and Spain.",
+      "parentId": 11,
       "sourceTitle": "Wolfgang Amadeus Mozart",
-      "text": "in which an elite monarchy and the church ruled the masses, largely unquestioned, from the lap of luxury. Luckily for Mozart, he was in their good graces. From a young age, Mozart was a regular at European royal courts in France, Prussia, Austria, Britain and Spain."
+      "sourceUrl": "http://blog.europeana.eu/2012/01/wolfgang-amadeus-mozart/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "The winds of change were blowing in Mozart's time, however, and the thinkers of the Enlightenment were spreading their ideas of democracy, science, individual freedom and questioning the legitimacy and authority of the monarchy and church. It doesn't appear that Mozart was impressed, and likely preferred the cushy lifestyle afforded to him by his royal benefactors. Upon the death of Voltaire, the spearhead of the French Enlightenment, Mozart wrote:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.musicwithease.com/mozart.html",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "The ungodly arch-villain, Voltaire, has died like a dog. I have always had God before my eyes… Friends who have no religion cannot long be my friends.",
       "sourceTitle": "Wolfgang Amadeus Mozart",
-      "text": "The ungodly arch-villain, Voltaire, has died like a dog. I have always had God before my eyes… Friends who have no religion cannot long be my friends."
+      "sourceUrl": "http://www.musicwithease.com/mozart.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "I suppose we could call Mozart a royalist, or loyalist. Really, though, music was his life."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -168,7 +234,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Artworks with Wikidata item|CC-PD-Mark|Extracted images|Johann Nepomuk della Croce|PD-Art (PD-old-100)|Portrait paintings of Wolfgang Amadeus Mozart",
+            "value": "Artworks with Wikidata item|CC-PD-Mark|Extracted images|Johann Nepomuk della Croce|PD-Art (PD-old-auto-1923)|PD-old-100-1923|Portrait paintings of Wolfgang Amadeus Mozart",
             "source": "commons-categories",
             "hidden": ""
           },

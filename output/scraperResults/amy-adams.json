@@ -34,80 +34,135 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Amy Adams was born in Vicenza, Italy and grew up in Castle Rock, Colorado."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/film/2007/nov/18/1",
+      "parentId": 2,
+      "type": "text",
+      "text": "Adams was raised in a Mormon family of seven children. When her parents divorced when Adams was eleven-years-old, it appears she split with that religion.",
       "sourceTitle": "Amy's fairytale of New York",
-      "text": "Adams was raised in a Mormon family of seven children. When her parents divorced when Adams was eleven-years-old, it appears she split with that religion."
+      "sourceUrl": "http://www.guardian.co.uk/film/2007/nov/18/1"
     },
     {
-      "type": "sentence",
-      "text": "However, it has stuck with her in some ways. She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "However, it has stuck with her in some ways. She said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://amyadamsblog.blogspot.com/",
-      "sourceTitle": "Amy Adams wants to play Galinda in 'Wicked.'",
-      "text": "I think [Mormonism] had more of an impact on my values than my beliefs. When you're raised in that sort of environment, with the \"golden rule,\" that always carries over. Religious guilt carries over, too. You can't really misbehave without feeling badly about it—at least I can't."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I think [Mormonism] had more of an impact on my values than my beliefs. When you're raised in that sort of environment, with the \"golden rule,\" that always carries over. Religious guilt carries over, too. You can't really misbehave without feeling badly about it—at least I can't.",
+      "sourceTitle": "Amy Adams wants to play Galinda in 'Wicked.'",
+      "sourceUrl": "http://amyadamsblog.blogspot.com/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "While unlike many ex-Mormons, Adams is rather kind to her former church (which might be because she doesn't want to offend some of her family members who are still devout), she has commented on the role of women in that faith:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 6
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.hollywood.com/news/Amy_Adams_scared_to_offend_Mormon_family_in_The_Master/38159643",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I definitely did see, growing up, a lot of women that were meant to be quiet and pleasant, and if you had something mean to say it's probably best to keep a journal…",
       "sourceTitle": "Amy Adams scared to offend Mormon family in The Master.",
-      "text": "I definitely did see, growing up, a lot of women that were meant to be quiet and pleasant, and if you had something mean to say it's probably best to keep a journal…"
+      "sourceUrl": "http://www.hollywood.com/news/Amy_Adams_scared_to_offend_Mormon_family_in_The_Master/38159643"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Politics of an Ex-Mormon"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "The question is: did she support Mitt Romney in the 2012 elections?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hollywoodreporter.com/risky-business/amy-adams-master-clint-eastwood-rnc-369783",
+      "parentId": 11,
+      "type": "text",
+      "text": "Well… sorry to disappoint, but she never said one way or the other. In fact, Adams comes off as totally non-political. However, she did refer to Clint Eastwood's infamous \"Nobama in the chair\" speech at the 2012 RNC as \"interesting.\"",
       "sourceTitle": "Amy Adams on 'The Master' and Clint Eastwood's RNC Speech",
-      "text": "Well… sorry to disappoint, but she never said one way or the other. In fact, Adams comes off as totally non-political. However, she did refer to Clint Eastwood's infamous \"Nobama in the chair\" speech at the 2012 RNC as \"interesting.\""
+      "sourceUrl": "http://www.hollywoodreporter.com/risky-business/amy-adams-master-clint-eastwood-rnc-369783"
     },
     {
-      "type": "sentence",
-      "text": "That it was. But do we take that as completely innocent or a subtle condemnation? It's up to you, readers."
+      "type": "text",
+      "text": "That it was. But do we take that as completely innocent or a subtle condemnation? It's up to you, readers.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=0vtHwWReGU0",
+      "parentId": 12,
+      "type": "text",
+      "text": "But she must care at least a little bit. In 2008, Adams appeared with a slew of other celebrities in a public service announcement to get people to vote.",
       "sourceTitle": "5 Friends Uncensored",
-      "text": "But she must care at least a little bit. In 2008, Adams appeared with a slew of other celebrities in a public service announcement to get people to vote."
+      "sourceUrl": "http://www.youtube.com/watch?v=0vtHwWReGU0"
     },
     {
-      "type": "sentence",
-      "text": "It was, however, non-partisan even though the vast majority of those involved are Democrats. Don't believe me? Check out the  and then refer to all of their respective profiles scattered across the Hollowverse."
+      "type": "text",
+      "text": "It was, however, non-partisan even though the vast majority of those involved are Democrats. Don't believe me? Check out the",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "parentId": 12,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.youtube.com/watch?v=0vtHwWReGU0"
+    },
+    {
+      "type": "text",
+      "text": "and then refer to all of their respective profiles scattered across the Hollowverse.",
+      "parentId": 12
     }
   ],
   "wikipediaData": {

@@ -32,130 +32,190 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Steve Nash was born in Johannesburg, South Africa and grew up in Regina, Saskatchewan, Canada and Victoria, British Columbia, Canada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://books.google.com/books?id=scoByYq6QGAC&pg=PA7&lpg=PA7&dq=Steve+Nash+religion&source=bl&ots=CBr5uNQf3g&sig=rimHAjLKD16yAZftV6qnVNBSm6E&hl=en&sa=X&ei=_C7TUOXPN4nIiwKPnYGoDw&ved=0CIwBEOgBMAk#v=onepage&q=Steve%20Nash%20religion&f=false",
+      "parentId": 2,
+      "type": "text",
+      "text": "Nash doesn't seem to want to speak of religion. Though he isn't a celebrity we can just write-off as non-religious or apathetic to spiritual matters. Nash holds two degrees in philosophy and religion.",
       "sourceTitle": "Steve Nash By Paul Arseneault, Peter Assaff",
-      "text": "Nash doesn't seem to want to speak of religion. Though he isn't a celebrity we can just write-off as non-religious or apathetic to spiritual matters. Nash holds two degrees in philosophy and religion."
+      "sourceUrl": "http://books.google.com/books?id=scoByYq6QGAC&pg=PA7&lpg=PA7&dq=Steve+Nash+religion&source=bl&ots=CBr5uNQf3g&sig=rimHAjLKD16yAZftV6qnVNBSm6E&hl=en&sa=X&ei=_C7TUOXPN4nIiwKPnYGoDw&ved=0CIwBEOgBMAk#v=onepage&q=Steve%20Nash%20religion&f=false"
     },
     {
-      "type": "sentence",
-      "text": "So we can assume that he has a genuine interest in these matters. Perhaps it's all intellectual, or maybe Nash learned that expressing one's spiritual beliefs doesn't serve any purpose. Whatever the case, he's not talking about it."
+      "type": "text",
+      "text": "So we can assume that he has a genuine interest in these matters. Perhaps it's all intellectual, or maybe Nash learned that expressing one's spiritual beliefs doesn't serve any purpose. Whatever the case, he's not talking about it.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chacha.com/question/what-religion-is-steve-nash",
+      "parentId": 3,
+      "type": "text",
+      "text": "The question & answer sites speculate widely, claiming Nash is a Mormon",
       "sourceTitle": "What religion is Steve Nash",
-      "text": "The question & answer sites speculate widely, claiming Nash is a Mormon"
+      "sourceUrl": "http://www.chacha.com/question/what-religion-is-steve-nash"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chacha.com/question/is-steve-nash-mormon",
+      "type": "text",
+      "text": "here and Catholic",
+      "parentId": 3,
       "sourceTitle": "Is Steve Nash mormon?",
-      "text": "here and Catholic"
+      "sourceUrl": "http://www.chacha.com/question/is-steve-nash-mormon"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.myspace.com/stevenash134life",
+      "type": "text",
+      "text": "there. A MySpace page claiming to be the \"official\" Steve Nash page lists him as Catholic.",
+      "parentId": 3,
       "sourceTitle": "The Official Steve Nash Myspace on Myspace",
-      "text": "there. A MySpace page claiming to be the \"official\" Steve Nash page lists him as Catholic."
+      "sourceUrl": "http://www.myspace.com/stevenash134life"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "If any of you readers have definitive evidence, let us know."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 5
     },
     {
-      "type": "heading",
+      "parentId": 5,
+      "type": "text",
       "text": "Politics from the key"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Nash is a Canadian citizen, living and working in the U.S. Most of his political activity is oriented toward issues in the U.S. and most of them have a liberal bent."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "He was an early opponent of America's war in Iraq. During an MVP All-Star game in 2003, Nash took advantage of the media circus to present his views:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://sportsillustrated.cnn.com/basketball/nba/2003/all_star/news/2003/02/07/nash_war/",
-      "sourceTitle": "Mavericks' star voices opposition to war in Iraq",
-      "text": "I believe that us going to war would be a mistake. Being a humanitarian, I think that war is wrong in 99.9 percent of all cases. I think it has much more to do with oil or some sort of distraction, because I don't feel as though we should be worrying about Iraq."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I believe that us going to war would be a mistake. Being a humanitarian, I think that war is wrong in 99.9 percent of all cases. I think it has much more to do with oil or some sort of distraction, because I don't feel as though we should be worrying about Iraq.",
+      "sourceTitle": "Mavericks' star voices opposition to war in Iraq",
+      "sourceUrl": "http://sportsillustrated.cnn.com/basketball/nba/2003/all_star/news/2003/02/07/nash_war/"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "In 2010, Nash spoke out against Arizona's controversial immigration law, SB 1070, which allowed Arizona law enforcement officers to stop people at-will and ask for their legal documents. Nash said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/commentisfree/cifamerica/2010/may/05/phoenix-los-suns-jersey-nba-immigration-arizona",
-      "sourceTitle": "'Los Suns' set against Arizona's immigration law",
-      "text": "The result of passing this law is that our basic principles of equal rights and protection under the law are being called into question…"
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "The result of passing this law is that our basic principles of equal rights and protection under the law are being called into question…",
+      "sourceTitle": "'Los Suns' set against Arizona's immigration law",
+      "sourceUrl": "http://www.guardian.co.uk/commentisfree/cifamerica/2010/may/05/phoenix-los-suns-jersey-nba-immigration-arizona"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Finally, Nash has stated his support for marriage equality and the legalization of gay marriage. He made a video to express his views, where he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://gayfaith.org/?p=212",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "A growing number of professional athletes are speaking out in support of gay and lesbian couples getting married. I'm proud to one of them.",
       "sourceTitle": "Steve Nash Supports Marriage Equality.",
-      "text": "A growing number of professional athletes are speaking out in support of gay and lesbian couples getting married. I'm proud to one of them."
+      "sourceUrl": "http://gayfaith.org/?p=212"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/sport/2009/feb/01/ussport-barackobama",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Nash is a giant Obama supporter, even penning a long, heartfelt essay about what Obama means to him for Britain's \"The Guardian.\"",
       "sourceTitle": "What Obama means to me: Steve Nash",
-      "text": "Nash is a giant Obama supporter, even penning a long, heartfelt essay about what Obama means to him for Britain's \"The Guardian.\""
+      "sourceUrl": "http://www.guardian.co.uk/sport/2009/feb/01/ussport-barackobama"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cbsnews.com/8301-18563_162-57559895/motive-remains-unclear-behind-newtown-shooting/",
+      "type": "text",
+      "text": "And after the instantly-infamous Newtown shootings,",
+      "parentId": 16,
       "sourceTitle": "Motive remains unclear behind Newtown shootings",
-      "text": "And after the instantly-infamous Newtown shootings,"
+      "sourceUrl": "http://www.cbsnews.com/8301-18563_162-57559895/motive-remains-unclear-behind-newtown-shooting/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/SteveNashFdn",
+      "type": "text",
+      "text": "when the U.S. erupted in gun control rhetoric, Nash was retweeting pro-gun control tweets.",
+      "parentId": 16,
       "sourceTitle": "Steve Nash Found'n",
-      "text": "when the U.S. erupted in gun control rhetoric, Nash was retweeting pro-gun control tweets."
+      "sourceUrl": "https://twitter.com/SteveNashFdn"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "Nash is possibly the most political active basketball player in the NBA, and a powerful spokesperson for liberal ideology. I wouldn't be surprised if Nash looked into a political career after retirement from basketball."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

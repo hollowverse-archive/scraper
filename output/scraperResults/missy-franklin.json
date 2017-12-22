@@ -32,103 +32,178 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Missy Franklin, full name Melissa Jeanette Franklin, was born in Pasadena, California and grew up (is still growing up?) in Aurora, Colorado."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.catholicreview.org/article/home/swimmer-says-having-worlds-best-friends-family-keeps-her-grounded",
+      "parentId": 2,
+      "type": "text",
+      "text": "Franklin's religious views are perhaps undeveloped, though there seems to be some trajectory. She has spoken of being raised Protestant,",
       "sourceTitle": "Swimmer says having 'world's best friends,' family keeps her grounded",
-      "text": "Franklin's religious views are perhaps undeveloped, though there seems to be some trajectory. She has spoken of being raised Protestant,"
+      "sourceUrl": "http://www.catholicreview.org/article/home/swimmer-says-having-worlds-best-friends-family-keeps-her-grounded"
     },
     {
-      "type": "sentence",
-      "text": "and she has mentioned that her upbringing has not been particularly religious:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and she has mentioned that her upbringing has not been particularly religious:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://blog.beliefnet.com/inspiringathletes/2012/06/a-conversation-with-u-s-olympian-missy-franklin.html",
-      "sourceTitle": "A conversation with U.S. Olympian Missy Franklin",
-      "text": "Religion was not important in my parents' upbringing. Therefore I never had a church home. We occasionally attended a church service but I felt so uncomfortable and self-conscious as I didn't know what was expected."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Religion was not important in my parents' upbringing. Therefore I never had a church home. We occasionally attended a church service but I felt so uncomfortable and self-conscious as I didn't know what was expected.",
+      "sourceTitle": "A conversation with U.S. Olympian Missy Franklin",
+      "sourceUrl": "http://blog.beliefnet.com/inspiringathletes/2012/06/a-conversation-with-u-s-olympian-missy-franklin.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "But, she began attending a Catholic school in Colorado, the Regis Jesuit High School, where she began feeling a kind of drive to become Catholic. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.catholicreview.org/article/home/swimmer-says-having-worlds-best-friends-family-keeps-her-grounded",
-      "sourceTitle": "Swimmer says having 'world's best friends,' family keeps her grounded",
-      "text": "Going into Regis Jesuit, my faith was not a very big aspect of my life. Taking my first theology classes, going to my first Masses, going on my first retreats, I began to realize how important God is in my life and how much I love him and need him."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Going into Regis Jesuit, my faith was not a very big aspect of my life. Taking my first theology classes, going to my first Masses, going on my first retreats, I began to realize how important God is in my life and how much I love him and need him.",
+      "sourceTitle": "Swimmer says having 'world's best friends,' family keeps her grounded",
+      "sourceUrl": "http://www.catholicreview.org/article/home/swimmer-says-having-worlds-best-friends-family-keeps-her-grounded"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Now, it appears she's a full-blown Catholic with the big faith to prove it. Of her swimming regimen and subsequent victories, she credits God's help and guidance, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://blog.beliefnet.com/inspiringathletes/2012/06/a-conversation-with-u-s-olympian-missy-franklin.html",
-      "sourceTitle": "A conversation with U.S. Olympian Missy Franklin",
-      "text": "God is always there for me. I talk with Him before, during and after practice and competitions. I pray to Him for guidance. I thank Him for this talent He has given me and promise to be a positive role model for young athletes in all sports."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "God is always there for me. I talk with Him before, during and after practice and competitions. I pray to Him for guidance. I thank Him for this talent He has given me and promise to be a positive role model for young athletes in all sports.",
+      "sourceTitle": "A conversation with U.S. Olympian Missy Franklin",
+      "sourceUrl": "http://blog.beliefnet.com/inspiringathletes/2012/06/a-conversation-with-u-s-olympian-missy-franklin.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Fair enough, faithful Catholic it is."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "Not politics, patriotism"
     },
     {
-      "type": "sentence",
-      "text": "As of the writing of this article, Franklin is not yet old enough to vote. It's difficult to say if she would if she could either. Her , for example, is completely devoid of anything remotely political."
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "text",
+      "text": "As of the writing of this article, Franklin is not yet old enough to vote. It's difficult to say if she would if she could either. Her"
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "link",
+      "text": "Twitter feed",
+      "sourceUrl": "https://twitter.com/FranklinMissy"
+    },
+    {
+      "type": "text",
+      "text": ", for example, is completely devoid of anything remotely political.",
+      "parentId": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "She has expressed some strong patriotism, saying things like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.catholicreview.org/article/home/swimmer-says-having-worlds-best-friends-family-keeps-her-grounded",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "…there is nothing like wearing a cap with my country's flag on it.",
       "sourceTitle": "Swimmer says having 'world's best friends,' family keeps her grounded",
-      "text": "…there is nothing like wearing a cap with my country's flag on it."
+      "sourceUrl": "http://www.catholicreview.org/article/home/swimmer-says-having-worlds-best-friends-family-keeps-her-grounded"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2010/08/18/sports/18swimmer.html?pagewanted=all&_r=0",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "And, as she holds dual citizenship in both the U.S. and Canada, there were suggestions from her family to have her swim competitively in Canada, where there would be less competition. However, she declined the easy route, citing her love for America.",
       "sourceTitle": "Swimmer Aims for the Top, But Prefers the Slow Lane",
-      "text": "And, as she holds dual citizenship in both the U.S. and Canada, there were suggestions from her family to have her swim competitively in Canada, where there would be less competition. However, she declined the easy route, citing her love for America."
+      "sourceUrl": "http://www.nytimes.com/2010/08/18/sports/18swimmer.html?pagewanted=all&_r=0"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "That's about all we've got on her political views. When/if things change, help us out, readers, by leaving a little note in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

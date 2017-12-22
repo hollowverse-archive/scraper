@@ -36,136 +36,247 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Herman Cain was born in Memphis, Tennessee and grew up in Atlanta, Georgia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blogs.cbn.com/thebrodyfile/archive/2011/03/22/herman-cains-story-of-gods-healing-power.aspx",
+      "parentId": 2,
+      "type": "text",
+      "text": "Cain is a lifelong, devoted Baptist. He's been attending the same Baptist Church in Atlanta since he was ten-years-old. Now, he's an associate minister there.",
       "sourceTitle": "Herman Cain's Story of God's Healing Power",
-      "text": "Cain is a lifelong, devoted Baptist. He's been attending the same Baptist Church in Atlanta since he was ten-years-old. Now, he's an associate minister there."
+      "sourceUrl": "http://blogs.cbn.com/thebrodyfile/archive/2011/03/22/herman-cains-story-of-gods-healing-power.aspx"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://religion.blogs.cnn.com/2011/10/18/the-liberal-church-of-herman-cain/",
+      "type": "text",
+      "text": "The funny thing is, this particular Baptist ministry (the Antioch Baptist Church) also produced the likes of civil rights Democrats such as Jessie Jackson and Andrew Young and is known as a bastion of Democratic, liberal Christianity. Even though Cain is a powerful member of his church, the pastors have no problem saying they disagree wholeheartedly with his politics.",
+      "parentId": 2,
       "sourceTitle": "The liberal church of Herman Cain",
-      "text": "The funny thing is, this particular Baptist ministry (the Antioch Baptist Church) also produced the likes of civil rights Democrats such as Jessie Jackson and Andrew Young and is known as a bastion of Democratic, liberal Christianity. Even though Cain is a powerful member of his church, the pastors have no problem saying they disagree wholeheartedly with his politics."
+      "sourceUrl": "http://religion.blogs.cnn.com/2011/10/18/the-liberal-church-of-herman-cain/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2011/10/18/herman-cain-jesus-liberal-court_n_1018061.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Religion plays a big role in Cain's politics. He's been known to say that Jesus was tried, convicted and sentenced by a \"liberal court\"",
       "sourceTitle": "Herman Cain: Jesus Was Killed By A 'Liberal Court.'",
-      "text": "Religion plays a big role in Cain's politics. He's been known to say that Jesus was tried, convicted and sentenced by a \"liberal court\""
+      "sourceUrl": "http://www.huffingtonpost.com/2011/10/18/herman-cain-jesus-liberal-court_n_1018061.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.religiondispatches.org/dispatches/guest_bloggers/4084/gop_hopeful_herman_cain%3A_jesus_was_%E2%80%9Cthe_perfect_conservative%E2%80%9D",
+      "type": "text",
+      "text": "and that Jesus was the \"perfect conservative.\"",
+      "parentId": 3,
       "sourceTitle": "GOP Hopeful Herman Cain: Jesus Was \"The Perfect Conservative.\"",
-      "text": "and that Jesus was the \"perfect conservative.\""
+      "sourceUrl": "http://www.religiondispatches.org/dispatches/guest_bloggers/4084/gop_hopeful_herman_cain%3A_jesus_was_%E2%80%9Cthe_perfect_conservative%E2%80%9D"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Cain announced that God told him to run for president in 2008, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2011/11/12/herman-cain-god-president-2012_n_1090068.html",
-      "sourceTitle": "Herman Cain: God Convinced Me To Run For President",
-      "text": "I prayed and prayed and prayed. I'm a man of faith, I had to do a lot of praying for this one, more praying than I'd ever done before in my life. And when I finally realized that it was God saying that this is what I needed to do, I was like Moses. 'You've got the wrong man, Lord. Are you sure?'"
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I prayed and prayed and prayed. I'm a man of faith, I had to do a lot of praying for this one, more praying than I'd ever done before in my life. And when I finally realized that it was God saying that this is what I needed to do, I was like Moses. 'You've got the wrong man, Lord. Are you sure?'",
+      "sourceTitle": "Herman Cain: God Convinced Me To Run For President",
+      "sourceUrl": "http://www.huffingtonpost.com/2011/11/12/herman-cain-god-president-2012_n_1090068.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "His faith hasn't left much room for tolerance of other religions. He said of Muslims, quite controversially at the time, during his bid for president:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.godvoter.org/2012/Herman-Cain-religion.html",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "And based upon the little knowledge that I have of the Muslim religion, you know, they have an objective to convert all infidels or kill them.",
       "sourceTitle": "Herman Cain Ignorant on Religion",
-      "text": "And based upon the little knowledge that I have of the Muslim religion, you know, they have an objective to convert all infidels or kill them."
+      "sourceUrl": "http://www.godvoter.org/2012/Herman-Cain-religion.html"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Performance art campaigning"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.religiondispatches.org/dispatches/guest_bloggers/4084/gop_hopeful_herman_cain%3A_jesus_was_%E2%80%9Cthe_perfect_conservative%E2%80%9D",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Cain is a Republican and ran for president on the Republican ticket in 2008. He ended"
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "up"
+    },
+    {
+      "type": "text",
+      "text": "representing the more extreme wing of the party, though, and paid for it. He originally began his campaign at Tea Party rallies.",
+      "parentId": 12,
       "sourceTitle": "GOP Hopeful Herman Cain: Jesus Was \"The Perfect Conservative.\"",
-      "text": "Cain is a Republican and ran for president on the Republican ticket in 2008. He ended  representing the more extreme wing of the party, though, and paid for it. He originally began his campaign at Tea Party rallies."
+      "sourceUrl": "http://www.religiondispatches.org/dispatches/guest_bloggers/4084/gop_hopeful_herman_cain%3A_jesus_was_%E2%80%9Cthe_perfect_conservative%E2%80%9D"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2011/10/18/999-plan-herman-cain_n_1018462.html",
+      "parentId": 13,
+      "type": "text",
+      "text": "During his campaign, people started wondering if this guy was for real. He started off strong and garnered quite a bit of support for his \"9-9-9″ plan, a proposal to reform the U.S. tax code to be simply: 9% sales tax, 9% income tax, and 9% corporate tax. People were initially attracted to the simplicity of it–then they started crunching the numbers and realized it would actually raise taxes for the vast majority of Americans.",
       "sourceTitle": "999 Plan: Herman Cain's Proposal Would Raise Taxes On 84 Percent, Study Shows",
-      "text": "During his campaign, people started wondering if this guy was for real. He started off strong and garnered quite a bit of support for his \"9-9-9″ plan, a proposal to reform the U.S. tax code to be simply: 9% sales tax, 9% income tax, and 9% corporate tax. People were initially attracted to the simplicity of it–then they started crunching the numbers and realized it would actually raise taxes for the vast majority of Americans."
+      "sourceUrl": "http://www.huffingtonpost.com/2011/10/18/999-plan-herman-cain_n_1018462.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.msnbc.msn.com/id/44881446/ns/politics-decision_2012/t/nbcwsj-poll-cain-now-leads-gop-pack/",
+      "type": "text",
+      "text": "But for a minute or two, Cain was leading in the polls.",
+      "parentId": 13,
       "sourceTitle": "NBC/WSJ Poll: Cain now leads GOP pack",
-      "text": "But for a minute or two, Cain was leading in the polls."
+      "sourceUrl": "http://www.msnbc.msn.com/id/44881446/ns/politics-decision_2012/t/nbcwsj-poll-cain-now-leads-gop-pack/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thedailybeast.com/articles/2011/12/03/cain-quotes-pok-mon-movie-in-final-speech.html",
+      "parentId": 14,
+      "type": "text",
+      "text": "Following that, it became apparent that Cain was quoting from the popular Japanese kids show,"
+    },
+    {
+      "parentId": 14,
+      "type": "emphasis",
+      "text": "Pokemon"
+    },
+    {
+      "type": "text",
+      "text": ", during political speeches,",
+      "parentId": 14,
       "sourceTitle": "Cain Quotes 'Pokemon' Movie in Final Speech",
-      "text": "Following that, it became apparent that Cain was quoting from the popular Japanese kids show, , during political speeches,"
+      "sourceUrl": "http://www.thedailybeast.com/articles/2011/12/03/cain-quotes-pok-mon-movie-in-final-speech.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=S6VnTqpTqvQ",
+      "type": "text",
+      "text": "releasing campaign ads of his",
+      "parentId": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "c"
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "ampaign"
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "manager"
+    },
+    {
+      "type": "text",
+      "text": "smoking cigarettes,",
+      "parentId": 14,
       "sourceTitle": "Herman Cain Thank You For Smoking Campaign Ad (Hilarious)",
-      "text": "releasing campaign ads of his   smoking cigarettes,"
+      "sourceUrl": "http://www.youtube.com/watch?v=S6VnTqpTqvQ"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/news/article-2068817/Herman-Cain-admits-DID-cash-affair-woman-Ginger-White.html",
+      "type": "text",
+      "text": "and had multiple extra-marital affairs spanning 13 years.",
+      "parentId": 14,
       "sourceTitle": "Herman Cain admits he Did give cash to 'affair' woman Ginger White",
-      "text": "and had multiple extra-marital affairs spanning 13 years."
+      "sourceUrl": "http://www.dailymail.co.uk/news/article-2068817/Herman-Cain-admits-DID-cash-affair-woman-Ginger-White.html"
     },
     {
-      "type": "sentence",
-      "text": "He dropped out of the race fairly early."
+      "type": "text",
+      "text": "He dropped out of the race fairly early.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "Cain's political philosophy is classic conservatism. He believes in keeping government out of business' way as much as possible, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://itemonline.com/opinion/x1990854092/Naomi-Lede-The-political-philosophy-of-Herman-Cain",
-      "sourceTitle": "Naomi Lede: The political philosophy of Herman Cain",
-      "text": "We must get the government off our backs, out of our pockets and out of our way in order to return to prosperity."
+      "id": 16
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "We must get the government off our backs, out of our pockets and out of our way in order to return to prosperity.",
+      "sourceTitle": "Naomi Lede: The political philosophy of Herman Cain",
+      "sourceUrl": "http://itemonline.com/opinion/x1990854092/Naomi-Lede-The-political-philosophy-of-Herman-Cain"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Cain is opposed to same-sex marriage, abortion and believes prayer and the Ten Commandments should be allowed in school.",
+      "sourceTitle": "Naomi Lede: The political philosophy of Herman Cain↩",
+      "sourceUrl": "http://itemonline.com/opinion/x1990854092/Naomi-Lede-The-political-philosophy-of-Herman-Cain"
     }
   ],
   "wikipediaData": {

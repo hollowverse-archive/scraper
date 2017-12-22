@@ -36,109 +36,175 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ashlee Simpson was born in Waco, Texas and grew up in Richardson, Texas and Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/2020/WinterConcert/story?id=207201&page=1",
+      "parentId": 2,
+      "type": "text",
+      "text": "Simpson doesn't talk about her faith all that much. Her father, a former Baptist youth minister, left his post when Ashlee was 15 in order to move the family to Los Angeles and focus on managing her sister"
+    },
+    {
+      "parentId": 2,
+      "type": "link",
+      "text": "Jessica",
+      "sourceUrl": "http://hollowverse.com/jessica-simpson/"
+    },
+    {
+      "type": "text",
+      "text": "'s burgeoning music career.",
+      "parentId": 2,
       "sourceTitle": "Pop Stars Jessica and Ashlee Are Pop's Stars.",
-      "text": "Simpson doesn't talk about her faith all that much. Her father, a former Baptist youth minister, left his post when Ashlee was 15 in order to move the family to Los Angeles and focus on managing her sister 's burgeoning music career."
+      "sourceUrl": "http://abcnews.go.com/2020/WinterConcert/story?id=207201&page=1"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2012/10/baptist-minister-and-celebrity-dad-joe-simpson-is-reportedly-coming-out-as-gay/",
+      "parentId": 3,
+      "type": "text",
+      "text": "Even before her dad managed to create his own special place in the legacy of Simpson family scandals by divorcing his wife amid rumors that he is gay, and then getting arrested for driving drunk (gotta love Hollywood),",
       "sourceTitle": "Baptist Minister and Celebrity Dad Joe Simpson Is Reportedly Coming Out as Gay.",
-      "text": "Even before her dad managed to create his own special place in the legacy of Simpson family scandals by divorcing his wife amid rumors that he is gay, and then getting arrested for driving drunk (gotta love Hollywood),"
+      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2012/10/baptist-minister-and-celebrity-dad-joe-simpson-is-reportedly-coming-out-as-gay/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/2020/WinterConcert/story?id=207201&page=1",
+      "type": "text",
+      "text": "Ashlee mentioned that he didn't have the kind of influence on her life that he had on her sister's.",
+      "parentId": 3,
       "sourceTitle": "Pop Stars Jessica and Ashlee Are Pop's Stars.",
-      "text": "Ashlee mentioned that he didn't have the kind of influence on her life that he had on her sister's."
+      "sourceUrl": "http://abcnews.go.com/2020/WinterConcert/story?id=207201&page=1"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ign.com/articles/2004/07/20/ashlee-simpson-11-questions",
+      "type": "text",
+      "text": "She also talks with some disdain about being forced to attend Christian concerts as a kid,",
+      "parentId": 3,
       "sourceTitle": "Ashlee Simpson: 11 Questions.",
-      "text": "She also talks with some disdain about being forced to attend Christian concerts as a kid,"
+      "sourceUrl": "http://www.ign.com/articles/2004/07/20/ashlee-simpson-11-questions"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ign.com/articles/2004/07/20/ashlee-simpson-11-questions",
+      "type": "text",
+      "text": "even though she still had her dad perform her wedding ceremony, albeit in a non-denominational role.",
+      "parentId": 3,
       "sourceTitle": "Ashlee Simpson and Pete Wentz Get Married!",
-      "text": "even though she still had her dad perform her wedding ceremony, albeit in a non-denominational role."
+      "sourceUrl": "http://www.ign.com/articles/2004/07/20/ashlee-simpson-11-questions"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "She mentioned an interest in religion in general when she announced she was considering taking college classes on the subject. She said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.dnaindia.com/entertainment/report_ashlee-simpson-to-study-religion_1211685",
-      "sourceTitle": "Ashlee Simpson to study religion.",
-      "text": "I've been contemplating taking a college course in religion. I love religion. I remember when the book  came out, the Discovery Channel did a three-night piece on it that I recorded and then watched eight times."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I've been contemplating taking a college course in religion. I love religion. I remember when the book"
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "The Da Vinci Code"
+    },
+    {
+      "type": "text",
+      "text": "came out, the Discovery Channel did a three-night piece on it that I recorded and then watched eight times.",
+      "parentId": 6,
+      "sourceTitle": "Ashlee Simpson to study religion.",
+      "sourceUrl": "http://www.dnaindia.com/entertainment/report_ashlee-simpson-to-study-religion_1211685"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "That's not exactly a profession of love for God or Jesus, but it's something I suppose. My guess is that she's not a terribly dedicated Christian, if she considers herself a Christian at all. If you have any insights into her religious views that I missed, please let us know in the comments."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Another pop vote for Obama"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.inquisitr.com/16681/ashlee-simpson-speaks-out-on-fat-sister-cites-obama-inauguration-in-defense/",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "In another indication that she departs from the influence of her family, Ashlee is a Democrat and a supporter of President Obama. In 2009, just after his inauguration, Simpson described \"a feeling of hope in the air for our country.\"",
       "sourceTitle": "Ashlee Simpson speaks out on fat sister, cites Obama Inauguration in defense.",
-      "text": "In another indication that she departs from the influence of her family, Ashlee is a Democrat and a supporter of President Obama. In 2009, just after his inauguration, Simpson described \"a feeling of hope in the air for our country.\""
+      "sourceUrl": "http://www.inquisitr.com/16681/ashlee-simpson-speaks-out-on-fat-sister-cites-obama-inauguration-in-defense/"
     },
     {
-      "type": "sentence",
-      "text": "And on election night in 2012, she tweeted,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And on election night in 2012, she tweeted,",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/ashleesimpson/status/266032964423528448",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "4 more years!! #Obama",
       "sourceTitle": "ashleesimpson: 4 more years!! #Obama.",
-      "text": "4 more years!! #Obama"
+      "sourceUrl": "https://twitter.com/ashleesimpson/status/266032964423528448"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://backseatcuddler.com/2009/06/11/ashlee-simpson-pete-wentz-pose-for-prop-8/",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "She supports at least one other liberal causes as well. She posed for pictures with her former husband in support of the NoH8 campaign, to show her support for gay marriage.",
       "sourceTitle": "Ashlee Simpson & Pete Wentz Pose For Prop 8.",
-      "text": "She supports at least one other liberal causes as well. She posed for pictures with her former husband in support of the NoH8 campaign, to show her support for gay marriage."
+      "sourceUrl": "http://backseatcuddler.com/2009/06/11/ashlee-simpson-pete-wentz-pose-for-prop-8/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.articlesbase.com/environment-articles/8-tips-to-having-an-ecofriendly-green-wedding-413614.html",
+      "type": "text",
+      "text": "She also apparently had an eco-friendly wedding,",
+      "parentId": 12,
       "sourceTitle": "8 Tips To Having An Eco-Friendly, Green Wedding!",
-      "text": "She also apparently had an eco-friendly wedding,"
+      "sourceUrl": "http://www.articlesbase.com/environment-articles/8-tips-to-having-an-ecofriendly-green-wedding-413614.html"
     },
     {
-      "type": "sentence",
-      "text": "if that's any indication of her jumping on that liberal bandwagon."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "if that's any indication of her jumping on that liberal bandwagon.",
+      "parentId": 12
     }
   ],
   "wikipediaData": {

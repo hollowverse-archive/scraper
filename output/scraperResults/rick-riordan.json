@@ -32,129 +32,208 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Rick Riordan was born and raised in San Antonio, Texas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.csmonitor.com/Books/chapter-and-verse/2011/1003/Percy-Jackson-author-Rick-Riordan-ventures-into-Norse-mythology.",
+      "parentId": 2,
+      "type": "text",
+      "text": "Riordan doesn't seem to want to talk about his own religious beliefs. Maybe that's because he's not religious, or maybe he's an atheist, and he doesn't want to stir any controversy with Christians over his books, which are based in various ancient mythologies.",
       "sourceTitle": "'Percy Jackson' author Rick Riordan ventures into Norse mythology.",
-      "text": "Riordan doesn't seem to want to talk about his own religious beliefs. Maybe that's because he's not religious, or maybe he's an atheist, and he doesn't want to stir any controversy with Christians over his books, which are based in various ancient mythologies."
+      "sourceUrl": "http://www.csmonitor.com/Books/chapter-and-verse/2011/1003/Percy-Jackson-author-Rick-Riordan-ventures-into-Norse-mythology."
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://deenasbooks.blogspot.com/2009/12/lightening-thief-by-rick-riordan.html",
+      "type": "text",
+      "text": "After all the heat Harry Potter and Twilight received from Christian communities for their supernatural premises,",
+      "parentId": 2,
       "sourceTitle": "The Lightening Thief by Rick Riordan.",
-      "text": "After all the heat Harry Potter and Twilight received from Christian communities for their supernatural premises,"
+      "sourceUrl": "http://deenasbooks.blogspot.com/2009/12/lightening-thief-by-rick-riordan.html"
     },
     {
-      "type": "sentence",
-      "text": "it would be understandable. But, that is purely speculation."
+      "type": "text",
+      "text": "it would be understandable. But, that is purely speculation.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Here's what Riordan says about how his books deal with religion, both mono- and polytheistic:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.rickriordan.com/about-rick/an-interview-with-rick.aspx",
-      "sourceTitle": "An Interview With Rick.",
-      "text": "In Western Civilization, we've always had an uneasy mix between Classical mythology and Judeo-Christian values. As a culture, we tend to believe in one God, but we also grow up steeped in these wonderful old stories about the Olympians. As long as we recognize them as stories that are part of our heritage and long-since stopped being any kind of serious religion, I don't see the harm in learning mythology."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "In Western Civilization, we've always had an uneasy mix between Classical mythology and Judeo-Christian values. As a culture, we tend to believe in one God, but we also grow up steeped in these wonderful old stories about the Olympians. As long as we recognize them as stories that are part of our heritage and long-since stopped being any kind of serious religion, I don't see the harm in learning mythology.",
+      "sourceTitle": "An Interview With Rick.",
+      "sourceUrl": "http://www.rickriordan.com/about-rick/an-interview-with-rick.aspx"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "He distances himself from Christianity by saying that \"we tend to believe\" in it. As in, it's not necessarily true. But, he also makes a point to distinguish the old mythologies as simply myths, as opposed to modern religion which is more serious."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "And in his book, \"The Lightening Thief,\" he again makes a point to distinguish the religion of his books from modern monotheism. After one character asks another if he's trying to say that God exists, the second character responds,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://550wordsorless.wordpress.com/2012/03/14/book-review-percy-jackson-christianity-and-neo-paganism/",
-      "sourceTitle": "Book Review: Percy Jackson, Christianity, and Neo-Paganism.",
-      "text": "Well, now. . . God—capital G, God.  That's a different matter altogether.  We shan't deal with the metaphysical."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Well, now. . . God—capital G, God.  That's a different matter altogether.  We shan't deal with the metaphysical.",
+      "sourceTitle": "Book Review: Percy Jackson, Christianity, and Neo-Paganism.",
+      "sourceUrl": "http://550wordsorless.wordpress.com/2012/03/14/book-review-percy-jackson-christianity-and-neo-paganism/"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "In other words, don't bother me, Christians. I'm not trying to get up in your business. Just enjoy the show. So, I suppose that was a whole lot of words to get not very far. But from all that, I'm going to assume he's not very religious."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "John Boner and Dirt-Flavored Ice Cream"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newsmeat.com/fec/bystate_detail.php?city=San+Antonio&st=TX&last=riordan&first=richard",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "As with his religious beliefs, he's not overly forward about his political beliefs. But still, he sure sounds like a Democrat. First there's his campaign contribution report. His one and only donation for which there is a record was $250 for Barack Obama in 2008.",
       "sourceTitle": "richard riordan's federal campaign contribution search results.",
-      "text": "As with his religious beliefs, he's not overly forward about his political beliefs. But still, he sure sounds like a Democrat. First there's his campaign contribution report. His one and only donation for which there is a record was $250 for Barack Obama in 2008."
+      "sourceUrl": "http://newsmeat.com/fec/bystate_detail.php?city=San+Antonio&st=TX&last=riordan&first=richard"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "He gives a few clues in his Twitter feed as well. Although this is a sentiment shared by plenty of Republicans as well, Riordan shared this little anecdote between him and his wife about Republican John Boehner:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/camphalfblood/status/279659313553870848",
-      "sourceTitle": "camphalfblood: Becky couldn't remember Speaker …",
-      "text": "Becky couldn't remember Speaker of House's name. Her: \"is it Boner?\" Me: \"Close enough.\""
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Becky couldn't remember Speaker of House's name. Her: \"is it Boner?\" Me: \"Close enough.\"",
+      "sourceTitle": "camphalfblood: Becky couldn't remember Speaker …",
+      "sourceUrl": "https://twitter.com/camphalfblood/status/279659313553870848"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "He also retweeted a post from the American Libraries feed, which was in response to a National Rifle Association (NRA) press conference after the elementary school shooting in Connecticut in 2012 in which the organization called for armed guards in every school:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/camphalfblood",
-      "sourceTitle": "Rick Riordan (camphalfblood) on Twitter.",
-      "text": "Librarians in every school. #nra First things first."
+      "id": 17
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Librarians in every school. #nra First things first.",
+      "sourceTitle": "Rick Riordan (camphalfblood) on Twitter.",
+      "sourceUrl": "https://twitter.com/camphalfblood"
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "But then again, he seems disillusioned with partisan politics. He tweeted,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/camphalfblood/status/265070295839297536",
+      "id": 20
+    },
+    {
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "Sometimes the polarization of Democrat & Republican feels like being in an ice cream shop where the only 2 flavors are 'dirt' and 'rocks.'",
       "sourceTitle": "camphalfblood: Sometimes the polarization …",
-      "text": "Sometimes the polarization of Democrat & Republican feels like being in an ice cream shop where the only 2 flavors are 'dirt' and 'rocks.'"
+      "sourceUrl": "https://twitter.com/camphalfblood/status/265070295839297536"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 22
+    },
+    {
+      "parentId": 22,
+      "type": "text",
       "text": "So maybe in the end he's more of a liberal than a Democrat."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

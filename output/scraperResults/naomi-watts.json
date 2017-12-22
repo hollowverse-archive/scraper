@@ -32,109 +32,184 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Naomi Watts was born in Shoreham, Kent, England and grew up on Anglesey Island, North Wales, UK, London, England and Sydney, Australia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Watts hasn't spoken of any childhood religion. Given her British and Commonwealth upbringing, however, it's likely some form of Christianity existed in her family. She's not all that religious today, as she'll tell you:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.americareadsspanish.org/amigos-del-espanol/one-by-one/1818-naomi-watts-i-certainly-learned-a-lot-more-of-the-spanish-culture.html",
-      "sourceTitle": "Naomi Watts: 'I certainly learned a lot more of the Spanish culture.'",
-      "text": "I am fairly pragmatic I would say, I am more on the pragmatic side of things, I like to think I have a spiritual side, and I do, I believe in, I don't know, I am not religious. I am definitely not religious."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I am fairly pragmatic I would say, I am more on the pragmatic side of things, I like to think I have a spiritual side, and I do, I believe in, I don't know, I am not religious. I am definitely not religious.",
+      "sourceTitle": "Naomi Watts: 'I certainly learned a lot more of the Spanish culture.'",
+      "sourceUrl": "http://www.americareadsspanish.org/amigos-del-espanol/one-by-one/1818-naomi-watts-i-certainly-learned-a-lot-more-of-the-spanish-culture.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "There was a time when Watts seemed cruising down the religious road toward Buddhism. She said she was \"drawn\" to the religion and studying it, but qualified any sort of conversion, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://ohnotheydidnt.livejournal.com/5405121.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I have some belief but I am not a strict Buddhist or anything yet. There was a lot of excitement and energy there.",
       "sourceTitle": "Naomi Watts trying out Buddhism",
-      "text": "I have some belief but I am not a strict Buddhist or anything yet. There was a lot of excitement and energy there."
+      "sourceUrl": "http://ohnotheydidnt.livejournal.com/5405121.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=751",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "That was in 2006, and nothing has popped up since then to indicate she followed through with it. Her most recent religious escapade was to travel to Israel with her vaguely Jewish",
       "sourceTitle": "Liev Schreiber.",
-      "text": "That was in 2006, and nothing has popped up since then to indicate she followed through with it. Her most recent religious escapade was to travel to Israel with her vaguely Jewish"
+      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=751"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewishjournal.com/hollywoodjew/item/naomi_watts_and_liev_schreiber_visit_israel_20090616",
+      "type": "text",
+      "text": "partner, Liev Schreiber. She was photographed praying at the famous Western Wall there",
+      "parentId": 8,
       "sourceTitle": "Naomi Watts and Liev Schreiber visit Israel",
-      "text": "partner, Liev Schreiber. She was photographed praying at the famous Western Wall there"
+      "sourceUrl": "http://www.jewishjournal.com/hollywoodjew/item/naomi_watts_and_liev_schreiber_visit_israel_20090616"
     },
     {
-      "type": "sentence",
-      "text": "but that certainly doesn't indicate any sort of adherence to the Jewish faith."
+      "type": "text",
+      "text": "but that certainly doesn't indicate any sort of adherence to the Jewish faith.",
+      "parentId": 8
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Ultimately, we'll just have to say Watts is non-religious."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "First world problems"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.amfar.org/content.aspx?id=8226",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Watts is almost completely non-political. Sure, she has her innocuous charity work, mostly related to her UNAIDS post, from which she raises awareness of the proliferation of the disease.",
       "sourceTitle": "Light for Rights: World AIDS Day 2009",
-      "text": "Watts is almost completely non-political. Sure, she has her innocuous charity work, mostly related to her UNAIDS post, from which she raises awareness of the proliferation of the disease."
+      "sourceUrl": "http://www.amfar.org/content.aspx?id=8226"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "text": "She has starred in a number of films with outwardly and vocal liberal Sean Penn. One of those films was even a political thriller (), but even the interviewers during the promotion of that film couldn't get anything really political out of Watts. For example, she said:"
+      "parentId": 12,
+      "type": "text",
+      "text": "She has starred in a number of films with outwardly and vocal liberal Sean Penn. One of those films was even a political thriller ("
     },
     {
-      "type": "break"
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "Fair Game"
+    },
+    {
+      "type": "text",
+      "text": "), but even the interviewers during the promotion of that film couldn't get anything really political out of Watts. For example, she said:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.hitfix.com/articles/watch-naomi-watts-talks-politics-and-entertainment-in-fair-game-interview",
-      "sourceTitle": "Interview: Naomi Watts on Fair Game, Valerie Plame and politics in Hollywood",
-      "text": "It's not about 'this is my chance to take a stance or opinion.' It's about the essence of the character [in the film]."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "It's not about 'this is my chance to take a stance or opinion.' It's about the essence of the character [in the film].",
+      "sourceTitle": "Interview: Naomi Watts on Fair Game, Valerie Plame and politics in Hollywood",
+      "sourceUrl": "http://www.hitfix.com/articles/watch-naomi-watts-talks-politics-and-entertainment-in-fair-game-interview"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "The only vaguely political thing she's said that I can find was during a red carpet interview at the Oscars in 2006:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.treehugger.com/culture/naomi-watts-stays-on-green-message-at-oscars.html",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I opted not to go for a limousine. The hybrids are just all what it's about and we're just doing what we can to try and change the environment.",
       "sourceTitle": "Naomi Watts Stays On (Green) Message At Oscars",
-      "text": "I opted not to go for a limousine. The hybrids are just all what it's about and we're just doing what we can to try and change the environment."
+      "sourceUrl": "http://www.treehugger.com/culture/naomi-watts-stays-on-green-message-at-oscars.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "Nice. I always opt out of the limo as well… you know… for the environment."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

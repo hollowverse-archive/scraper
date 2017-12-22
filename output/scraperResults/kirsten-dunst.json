@@ -35,119 +35,191 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000379/bio",
+      "parentId": 1,
+      "type": "text",
+      "text": "Kirsten Dunst was born in Point Pleasant, New Jersey and grew up in Brick Township, New Jersey and Los Angeles, California."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "In Los Angeles, Dunst attended and graduated from a Catholic school",
       "sourceTitle": "Kirsten Dunst – Biography",
-      "text": "In Los Angeles, Dunst attended and graduated from a Catholic school"
+      "sourceUrl": "http://www.imdb.com/name/nm0000379/bio"
     },
     {
-      "type": "sentence",
-      "text": "but as far as I can tell, she's not Catholic."
+      "type": "text",
+      "text": "but as far as I can tell, she's not Catholic.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/largecom/fam_lutheran.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Most sites of repute have her listed as a Lutheran,",
       "sourceTitle": "Famous Lutherans",
-      "text": "Most sites of repute have her listed as a Lutheran,"
+      "sourceUrl": "http://www.adherents.com/largecom/fam_lutheran.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000379/bio",
+      "type": "text",
+      "text": "which makes sense given her German heritage (Dunst holds dual citizenship in Germany and the U.S.).",
+      "parentId": 3,
       "sourceTitle": "Kirsten Dunst – Biography",
-      "text": "which makes sense given her German heritage (Dunst holds dual citizenship in Germany and the U.S.)."
+      "sourceUrl": "http://www.imdb.com/name/nm0000379/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wisdomquarterly.blogspot.com/2010/01/kirsten-dunst-zen-dalai-lama-in-india.html",
+      "type": "text",
+      "text": "But there have been rumors that Dunst adheres to Buddhism, apparently because she does yoga and dated famous Buddhist Orlando Bloom.",
+      "parentId": 3,
       "sourceTitle": "Kirsten Dunst Zen; Dalai Lama in India",
-      "text": "But there have been rumors that Dunst adheres to Buddhism, apparently because she does yoga and dated famous Buddhist Orlando Bloom."
+      "sourceUrl": "http://wisdomquarterly.blogspot.com/2010/01/kirsten-dunst-zen-dalai-lama-in-india.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://quotes.lucywho.com/kirsten-dunst-quotes-t1446.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "Perhaps much of the confusion and rumor stems from the likelihood that Dunst just isn't that religious. She doesn't appear to have spoken about her faith or lack thereof to the press as of yet. The only weak, tenuous piece of evidence I could find was a quote about how Dunst considered getting angel wings tattooed on her back so as to have a guardian with her at all times.",
       "sourceTitle": "Kirsten Dunst Quotes",
-      "text": "Perhaps much of the confusion and rumor stems from the likelihood that Dunst just isn't that religious. She doesn't appear to have spoken about her faith or lack thereof to the press as of yet. The only weak, tenuous piece of evidence I could find was a quote about how Dunst considered getting angel wings tattooed on her back so as to have a guardian with her at all times."
+      "sourceUrl": "http://quotes.lucywho.com/kirsten-dunst-quotes-t1446.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "We're going with Lutheran until further notice."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 6
     },
     {
-      "type": "heading",
+      "parentId": 6,
+      "type": "text",
       "text": "Interview with a Democrat"
     },
     {
-      "type": "sentence",
-      "text": "Dunst is a Democrat. In 2004, she came out strong for John Kerry–or should I say strong  Bush, saying:"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "break"
+      "parentId": 7,
+      "type": "text",
+      "text": "Dunst is a Democrat. In 2004, she came out strong for John Kerry–or should I say strong"
+    },
+    {
+      "parentId": 7,
+      "type": "emphasis",
+      "text": "against"
+    },
+    {
+      "type": "text",
+      "text": "Bush, saying:",
+      "parentId": 7
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.mtv.com/news/articles/1485533/reese-kirsten-leo-attend-pro-vote-party.jhtml",
-      "sourceTitle": "Celebs Go To The Post Office To Deliver Pro-Vote Message",
-      "text": "Our country in general is kind of a mess right now, and our environment, and I just hope that [Bush] is out of office."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Our country in general is kind of a mess right now, and our environment, and I just hope that [Bush] is out of office.",
+      "sourceTitle": "Celebs Go To The Post Office To Deliver Pro-Vote Message",
+      "sourceUrl": "http://www.mtv.com/news/articles/1485533/reese-kirsten-leo-attend-pro-vote-party.jhtml"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "In 2008, she went full-on for Obama and directed a political documentary explaining why America votes on Tuesdays. The film was non-partisan, but while promoting it, Dunst used the spotlight to talk Obama. She said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 11
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.couriermail.com.au/entertainment/movies/dunst-on-the-up-after-rehab/story-e6freqex-1111117780537",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I adore him and I'll do whatever is necessary to help him become the next president. I think he can do a lot for people of my generation . . . I love that he just lays it all on the table. . . . he's just like everything you want a president to be, I think.",
       "sourceTitle": "Kirsten Dunst back in action after stint in rehab",
-      "text": "I adore him and I'll do whatever is necessary to help him become the next president. I think he can do a lot for people of my generation . . . I love that he just lays it all on the table. . . . he's just like everything you want a president to be, I think."
+      "sourceUrl": "http://www.couriermail.com.au/entertainment/movies/dunst-on-the-up-after-rehab/story-e6freqex-1111117780537"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://liberalhollywood3.blogspot.com/",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "On social issues, Dunst leans fairly far to the left. She's a supporter of the pro-life organization March for Women's Lives Celebrity Coalition",
       "sourceTitle": "Liberal Hollywood Celebrities",
-      "text": "On social issues, Dunst leans fairly far to the left. She's a supporter of the pro-life organization March for Women's Lives Celebrity Coalition"
+      "sourceUrl": "http://liberalhollywood3.blogspot.com/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.contactmusic.com/news-article/hypocritical-kirsten-gets-environmental",
+      "type": "text",
+      "text": "and drives a hybrid so she won't feel like a hypocrite at all of the environmental events she hosts.",
+      "parentId": 13,
       "sourceTitle": "Hypocritical Kirsten Gets Environmental",
-      "text": "and drives a hybrid so she won't feel like a hypocrite at all of the environmental events she hosts."
+      "sourceUrl": "http://www.contactmusic.com/news-article/hypocritical-kirsten-gets-environmental"
     },
     {
-      "type": "sentence",
-      "text": "She did rail on vegetarians once, however, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She did rail on vegetarians once, however, saying:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://quotes.lucywho.com/kirsten-dunst-quotes-t1446.html",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I think vegetarians – for a lot of them – it's about a lack of commitment to life and relationships. There are some who just like the fact that they're controlling something in their life.",
       "sourceTitle": "Kirsten Dunst Quotes",
-      "text": "I think vegetarians – for a lot of them – it's about a lack of commitment to life and relationships. There are some who just like the fact that they're controlling something in their life."
+      "sourceUrl": "http://quotes.lucywho.com/kirsten-dunst-quotes-t1446.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "That certainly won't help her popularity among the religiously liberal."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

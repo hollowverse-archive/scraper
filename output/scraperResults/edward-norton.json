@@ -37,120 +37,196 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Edward Norton was born just outside of Baltimore, Maryland, the son of an environmental lawyer working in Asia and an English teacher."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thisislondon.co.uk/arts/film/ed-takes-a-leap-of-faith-6304474.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "He was raised Anglican and Episcopalian but doesn't currently subscribe to any faith or denomination.",
       "sourceTitle": "Ed takes a leap of faith",
-      "text": "He was raised Anglican and Episcopalian but doesn't currently subscribe to any faith or denomination."
+      "sourceUrl": "http://www.thisislondon.co.uk/arts/film/ed-takes-a-leap-of-faith-6304474.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "When it comes to the religious upbringing of his childhood, Norton identifies more with Judaism than anything else. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0001570/news?year=2000",
-      "sourceTitle": "Edward Norton: Honorary Jew?",
-      "text": "I grew up an honorary Jew. If you go to more than ten barmitzvahs you get an honorary Jew certificate. I went to at least ten in one year. I was drunk on Manischevitz half of 1987!"
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I grew up an honorary Jew. If you go to more than ten barmitzvahs you get an honorary Jew certificate. I went to at least ten in one year. I was drunk on Manischevitz half of 1987!",
+      "sourceTitle": "Edward Norton: Honorary Jew?",
+      "sourceUrl": "http://www.imdb.com/name/nm0001570/news?year=2000"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "There is a depth and humility to Norton that implies some sort of spirituality, but the notoriously reclusive actor doesn't much talk about these kinds of things. His attitude is that of a man not comfortable with fame and notoriety, a sort of Buddhist Zen. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/e/edward_norton.html",
-      "sourceTitle": "Edward Norton",
-      "text": "If I ever have to stop taking the subway, I'm going to have a heart attack."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "If I ever have to stop taking the subway, I'm going to have a heart attack.",
+      "sourceTitle": "Edward Norton",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/e/edward_norton.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "He just wants to be a normal guy."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2009/10/29/edward-norton-discusses-h_n_339450.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Norton's political contributions point to someone who has gone to great lengths to formulate his views. First of all, he's a Democrat who even made a documentary film about the election of Barack Obama.",
       "sourceTitle": "Edward Norton Discusses His HBO Obama Documentary On Countdown",
-      "text": "Norton's political contributions point to someone who has gone to great lengths to formulate his views. First of all, he's a Democrat who even made a documentary film about the election of Barack Obama."
+      "sourceUrl": "http://www.huffingtonpost.com/2009/10/29/edward-norton-discusses-h_n_339450.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2008/01/16/nyregion/16campaign.html?_r=1",
+      "type": "text",
+      "text": "He was a big supporter of Democratic former New York governor Elliot Spitzer, donating thousands of dollars and rallying other stars to do so when it looked like his 2008 re-election campaign was losing steam.",
+      "parentId": 11,
       "sourceTitle": "As Spitzer's Popularity Fell, Donors Rallied to His Side",
-      "text": "He was a big supporter of Democratic former New York governor Elliot Spitzer, donating thousands of dollars and rallying other stars to do so when it looked like his 2008 re-election campaign was losing steam."
+      "sourceUrl": "http://www.nytimes.com/2008/01/16/nyregion/16campaign.html?_r=1"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Norton hated George W. Bush (like so many others), and even told a crowd at Cuyahoga Community College in Cleveland to please vote him out in 2004, basically calling the president stupid and ignorant and asking the crowd:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.edward-norton.org/articles/plaindealer21oct04.html",
-      "sourceTitle": "Actor urges audience to vote Bush out",
-      "text": "Do tax breaks for movie stars make any sense to you?"
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Do tax breaks for movie stars make any sense to you?",
+      "sourceTitle": "Actor urges audience to vote Bush out",
+      "sourceUrl": "http://www.edward-norton.org/articles/plaindealer21oct04.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "And it was well into the Bush years when Norton confessed:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/e/edward_norton.html",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I almost forgot what it's like to be proud of my government.",
       "sourceTitle": "Edward Norton",
-      "text": "I almost forgot what it's like to be proud of my government."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/e/edward_norton.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://grist.org/living/little-norton/",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Norton is also an environmental activist. He has helped provide solar power to low-income families, which is cool, even if he did it by teaming up with oil giant BP.",
       "sourceTitle": "An interview with actor and solar advocate Edward Norton",
-      "text": "Norton is also an environmental activist. He has helped provide solar power to low-income families, which is cool, even if he did it by teaming up with oil giant BP."
+      "sourceUrl": "http://grist.org/living/little-norton/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
+      "parentId": 19,
+      "type": "text",
       "text": "He also addressed Congress, imploring them to take global warming seriously, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 20
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=1kz4jfjDDZg",
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "I have very little doubt that the legacy of my generation is going to hinge on how we respond to these revelations that we're not living sustainably and that we are altering the environment.",
       "sourceTitle": "Ed Norton calls on Congress to fight global warming",
-      "text": "I have very little doubt that the legacy of my generation is going to hinge on how we respond to these revelations that we're not living sustainably and that we are altering the environment."
+      "sourceUrl": "http://www.youtube.com/watch?v=1kz4jfjDDZg"
     }
   ],
   "wikipediaData": {

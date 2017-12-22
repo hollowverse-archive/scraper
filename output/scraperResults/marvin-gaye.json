@@ -35,119 +35,187 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Marvin Gaye was born and raised in Washington D.C. He was fatally shot by his father in Los Angeles, California in 1984."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://rockhall.com/inductees/marvin-gaye/bio/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Gaye was raised by a minister of the Washington D.C. House of God, a church expressing aspects of both Orthodox Judaism and fundamentalist Christianity.",
       "sourceTitle": "Marvin Gaye Biography",
-      "text": "Gaye was raised by a minister of the Washington D.C. House of God, a church expressing aspects of both Orthodox Judaism and fundamentalist Christianity."
+      "sourceUrl": "http://rockhall.com/inductees/marvin-gaye/bio/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.todayschristianmusic.com/artists/marvin-gaye/features/wayward-son/",
+      "type": "text",
+      "text": "The church describes itself as a \"Hebrew Pentecostal movement,\" asking its followers to adhere to Abrahamic law as outlined in the Old Testament and the teachings of Jesus Christ as outlined in the New Testament. Regarding the Pentecostal aspects, it teaches that people cannot attain salvation unless they speak in tongues.",
+      "parentId": 2,
       "sourceTitle": "Marvin Gaye – Wayward Son",
-      "text": "The church describes itself as a \"Hebrew Pentecostal movement,\" asking its followers to adhere to Abrahamic law as outlined in the Old Testament and the teachings of Jesus Christ as outlined in the New Testament. Regarding the Pentecostal aspects, it teaches that people cannot attain salvation unless they speak in tongues."
+      "sourceUrl": "http://www.todayschristianmusic.com/artists/marvin-gaye/features/wayward-son/"
     },
     {
-      "type": "sentence",
-      "text": "Not surprisingly, Gaye's musical beginnings were at church."
+      "type": "text",
+      "text": "Not surprisingly, Gaye's musical beginnings were at church.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.trutv.com/library/crime/notorious_murders/celebrity/marvin_gaye/3.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Gaye's upbringing was strictly religious and violent. He was regularly beaten for his \"sins\" and transgressions against his father and faith.",
       "sourceTitle": "The Life and Death of Marvin Gaye – Nightmare Childhood",
-      "text": "Gaye's upbringing was strictly religious and violent. He was regularly beaten for his \"sins\" and transgressions against his father and faith."
+      "sourceUrl": "http://www.trutv.com/library/crime/notorious_murders/celebrity/marvin_gaye/3.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://hub.aa.com/en/aw/marvin-gaye-belgium-whats-going-on-english-channel",
+      "type": "text",
+      "text": "Most likely as a result, Gaye turned away from Christianity and lived much of his adult life addicted to hard drugs and probably suffering from lifelong depression.",
+      "parentId": 3,
       "sourceTitle": "Marvin Gaye: Ostend",
-      "text": "Most likely as a result, Gaye turned away from Christianity and lived much of his adult life addicted to hard drugs and probably suffering from lifelong depression."
+      "sourceUrl": "http://hub.aa.com/en/aw/marvin-gaye-belgium-whats-going-on-english-channel"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://hub.aa.com/en/aw/marvin-gaye-belgium-whats-going-on-english-channel?zonemode=page5",
+      "parentId": 4,
+      "type": "text",
+      "text": "Gaye did seek sanctuary in a small fishing village in Belgium for two years, where he occasionally attended a Christian church,",
       "sourceTitle": "Marvin Gaye: Ostend",
-      "text": "Gaye did seek sanctuary in a small fishing village in Belgium for two years, where he occasionally attended a Christian church,"
+      "sourceUrl": "http://hub.aa.com/en/aw/marvin-gaye-belgium-whats-going-on-english-channel?zonemode=page5"
     },
     {
-      "type": "sentence",
-      "text": "though ultimately he didn't consider himself a Christian:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "though ultimately he didn't consider himself a Christian:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.todayschristianmusic.com/artists/marvin-gaye/features/wayward-son/",
-      "sourceTitle": "Marvin Gaye – Wayward Son",
-      "text": "I don't think I'm a Christian. A Christian is a man who follows Christ, and that takes a hell–I should say a heaven–of a man to do. My church is within me."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I don't think I'm a Christian. A Christian is a man who follows Christ, and that takes a hell–I should say a heaven–of a man to do. My church is within me.",
+      "sourceTitle": "Marvin Gaye – Wayward Son",
+      "sourceUrl": "http://www.todayschristianmusic.com/artists/marvin-gaye/features/wayward-son/"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Conversely, when asked about the religious content of his music (of which there is quite a bit), Gaye responded by saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=XDo4mqORN5c",
-      "sourceTitle": "Marvin Gaye – Sexuality and Spirituality",
-      "text": "I'm the son of an apostolic minister and I know a great deal about God and I've been with God all my life and… it sounds a bit hypocritical, but I'm a pretty religious guy."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I'm the son of an apostolic minister and I know a great deal about God and I've been with God all my life and… it sounds a bit hypocritical, but I'm a pretty religious guy.",
+      "sourceTitle": "Marvin Gaye – Sexuality and Spirituality",
+      "sourceUrl": "http://www.youtube.com/watch?v=XDo4mqORN5c"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Ultimately, Gaye was conflicted and clearly moved–maybe even irreparably damaged–by his religious upbringing. But it seems he was unwilling to completely write it off."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "\"What's going on?\" \"Just Vietnam, man, what's going on with you?\""
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.marvingayepage.net/biography/",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Gaye is considered a political icon of the 1970s, aligning with the hippies and anti-war liberals of his day. Most of this is a result of his 1971 mega-hit, \"What's Going On.\" It was his most politically/socially relevant song, sandwiched between his record label-influenced cookie cutter Motown and when his music became more inwardly-directed and introspective.",
       "sourceTitle": "Biography – Marvin Gaye",
-      "text": "Gaye is considered a political icon of the 1970s, aligning with the hippies and anti-war liberals of his day. Most of this is a result of his 1971 mega-hit, \"What's Going On.\" It was his most politically/socially relevant song, sandwiched between his record label-influenced cookie cutter Motown and when his music became more inwardly-directed and introspective."
+      "sourceUrl": "http://www.marvingayepage.net/biography/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.academia.edu/1829671/Trouble_Man_The_Art_and_Politics_of_Marvin_Gaye",
+      "parentId": 13,
+      "type": "text",
+      "text": "Historically, the song is seen as having synthesized the frustration and concurrent empowerment of American blacks as they continued to fight for equality and against exploitation while railing against the Vietnam War and the corruption of the Nixon era.",
       "sourceTitle": "Trouble Man: The Art and Politics of Marvin Gaye",
-      "text": "Historically, the song is seen as having synthesized the frustration and concurrent empowerment of American blacks as they continued to fight for equality and against exploitation while railing against the Vietnam War and the corruption of the Nixon era."
+      "sourceUrl": "http://www.academia.edu/1829671/Trouble_Man_The_Art_and_Politics_of_Marvin_Gaye"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "text": "The full lyrics can be viewed , but here are some choice lines:"
+      "parentId": 14,
+      "type": "text",
+      "text": "The full lyrics can be viewed"
     },
     {
-      "type": "break"
+      "parentId": 14,
+      "type": "link",
+      "text": "here",
+      "sourceUrl": "http://www.azlyrics.com/lyrics/marvingaye/whatsgoingon.html"
+    },
+    {
+      "type": "text",
+      "text": ", but here are some choice lines:",
+      "parentId": 14
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.azlyrics.com/lyrics/marvingaye/whatsgoingon.html",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "You see, war is not the answer/For only love can conquer hate/You know we've got to find a way/To bring some lovin' here today/Picket lines and picket signs/Don't punish me with brutality/Talk to me, so you can see/Oh, what's going on",
       "sourceTitle": "Marvin Gaye Lyrics – What's Going On",
-      "text": "You see, war is not the answer/For only love can conquer hate/You know we've got to find a way/To bring some lovin' here today/Picket lines and picket signs/Don't punish me with brutality/Talk to me, so you can see/Oh, what's going on"
+      "sourceUrl": "http://www.azlyrics.com/lyrics/marvingaye/whatsgoingon.html"
     }
   ],
   "wikipediaData": {

@@ -35,105 +35,168 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Michael Fassbender was born in Heidelberg, Baden-Württemberg, in what was then West Germany. He moved to Killarney, County Kerry, Ireland when he was two-years-old and spent the rest of his childhood there."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.stbrendanskillarney.com/Michael-Fassbender-visits-the-Sem-58-article.htm?saint=471ef2db39536a9745adb7ff53660b08",
+      "parentId": 2,
+      "type": "text",
+      "text": "Fassbender grew up Catholic, went to Catholic secondary school,",
       "sourceTitle": "Michael Fassbender visits the Sem.",
-      "text": "Fassbender grew up Catholic, went to Catholic secondary school,"
+      "sourceUrl": "http://www.stbrendanskillarney.com/Michael-Fassbender-visits-the-Sem-58-article.htm?saint=471ef2db39536a9745adb7ff53660b08"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/film/2012/jan/06/michael-fassbender-shame-mcqueen",
+      "type": "text",
+      "text": "and was head altar boy at 12-years-old.",
+      "parentId": 2,
       "sourceTitle": "What's a nice boy like Michael Fassbender doing in a film like Shame?",
-      "text": "and was head altar boy at 12-years-old."
+      "sourceUrl": "http://www.guardian.co.uk/film/2012/jan/06/michael-fassbender-shame-mcqueen"
     },
     {
-      "type": "sentence",
-      "text": "He remembers the church of his youth with fondness."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He remembers the church of his youth with fondness.",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/film/2012/jan/06/michael-fassbender-shame-mcqueen",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "It's not all bad and abuse of boys. A lot of people relied on [the priest]. He would be there to listen. Obviously the idea of hell and suffering is kind of heavy-duty, but there was a lot of positivity.",
       "sourceTitle": "What's a nice boy like Michael Fassbender doing in a film like Shame?",
-      "text": "It's not all bad and abuse of boys. A lot of people relied on [the priest]. He would be there to listen. Obviously the idea of hell and suffering is kind of heavy-duty, but there was a lot of positivity."
+      "sourceUrl": "http://www.guardian.co.uk/film/2012/jan/06/michael-fassbender-shame-mcqueen"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/film/2012/jan/06/michael-fassbender-shame-mcqueen",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "But these days the Catholic church doesn't impress him much. \"Too many contradications,\" he says.",
       "sourceTitle": "What's a nice boy like Michael Fassbender doing in a film like Shame?",
-      "text": "But these days the Catholic church doesn't impress him much. \"Too many contradications,\" he says."
+      "sourceUrl": "http://www.guardian.co.uk/film/2012/jan/06/michael-fassbender-shame-mcqueen"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/film/2012/jan/06/michael-fassbender-shame-mcqueen",
+      "type": "text",
+      "text": "He seems to still feel a connection to the church, considering he pops into one now and then to light a candle,",
+      "parentId": 5,
       "sourceTitle": "What's a nice boy like Michael Fassbender doing in a film like Shame?",
-      "text": "He seems to still feel a connection to the church, considering he pops into one now and then to light a candle,"
+      "sourceUrl": "http://www.guardian.co.uk/film/2012/jan/06/michael-fassbender-shame-mcqueen"
     },
     {
-      "type": "sentence",
-      "text": "but he's a long way from his altar boy days."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but he's a long way from his altar boy days.",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://fassbendertheginger.tumblr.com/post/14381657260/you-cant-not-be-religious-in-ireland-i-was-an",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I don't practice any more. I think religion is here and now (he beats his heart), I don't believe in heaven or hell, I think you just have to treat other people the way you'd like to be treated.",
       "sourceTitle": "Michael Fassbender on religion.",
-      "text": "I don't practice any more. I think religion is here and now (he beats his heart), I don't believe in heaven or hell, I think you just have to treat other people the way you'd like to be treated."
+      "sourceUrl": "http://fassbendertheginger.tumblr.com/post/14381657260/you-cant-not-be-religious-in-ireland-i-was-an"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "That sounds like atheism to me, although Fassbender hasn't said as much in public. For now I suppose we can put him in the non-practicing Catholic category."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Neutral Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Fassbender grew up in a bilingual home with an Irish mother and a German father. He feels both of those nations in his blood."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://irishamerica.com/2012/07/the-year-of-michael-fassbender/",
-      "sourceTitle": "The Year of Michael.",
-      "text": "I suppose the German side wants to keep everything in control, and the Irish side wants to wreak havoc!"
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I suppose the German side wants to keep everything in control, and the Irish side wants to wreak havoc!",
+      "sourceTitle": "The Year of Michael.",
+      "sourceUrl": "http://irishamerica.com/2012/07/the-year-of-michael-fassbender/"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "His mother is from Northern Ireland, and the actor can remember visiting relatives while the region was at war. But he seems more concerned with peace than taking sides with the Catholic Nationalists."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=QyBd_uGNyiE",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "My mum came from the North so for me I was always going up there for my holidays. . . . And there was a marked difference, once you went over the border, there was soldiers, and there was watch towers and helicopters. . . . So it's always sort of been part of my life. Now it's great to go up there and see a Northern Ireland where people are just sort of just getting on with living and enjoying peace.",
       "sourceTitle": "Michael Fassbender on the Troubles in Ireland.",
-      "text": "My mum came from the North so for me I was always going up there for my holidays. . . . And there was a marked difference, once you went over the border, there was soldiers, and there was watch towers and helicopters. . . . So it's always sort of been part of my life. Now it's great to go up there and see a Northern Ireland where people are just sort of just getting on with living and enjoying peace."
+      "sourceUrl": "http://www.youtube.com/watch?v=QyBd_uGNyiE"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Neutrality seems to be a theme with Fassbender. He hasn't taken a position on any political issues or candidates in Ireland, Germany, or his current home in England. Maybe he feels about politics like he does about Catholicism. Just too many contradictions to get involved."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -32,78 +32,142 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "David Cook was born in Houston, Texas and raised in Blue Springs, Missouri."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "I have exactly three clues to help us decipher Cook's religion, some of them more useless than others. I'll go in order from least helpful to most. Here we go:"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://fredericksburg.com/News/FLS/2009/102009/10082009/498612/index_html?page=1#",
+      "parentId": 3,
+      "type": "text",
+      "text": "First, one time in an interview he thanked God that he got a chance to go on the show"
+    },
+    {
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "American Idol"
+    },
+    {
+      "type": "text",
+      "text": "and that music didn't just turn into his hobby.",
+      "parentId": 3,
       "sourceTitle": "'American Idol' Winner David Cook Talks About Life After 'Idol,' And Not Making Compromises.",
-      "text": "First, one time in an interview he thanked God that he got a chance to go on the show  and that music didn't just turn into his hobby."
+      "sourceUrl": "http://fredericksburg.com/News/FLS/2009/102009/10082009/498612/index_html?page=1#"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/thedavidcook/status/197469895926095872",
+      "type": "text",
+      "text": "Second, he sent out prayers through his Twitter account after hearing about the death of one of his fans.",
+      "parentId": 3,
       "sourceTitle": "thedavidcook: Lets all send out thoughts …",
-      "text": "Second, he sent out prayers through his Twitter account after hearing about the death of one of his fans."
+      "sourceUrl": "https://twitter.com/thedavidcook/status/197469895926095872"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "text": "Third and finally, the only really significant piece of information we have: He sometimes wears what appears to be a rosary. You can see it in  picture. So one would have to assume he's Catholic, but I couldn't find any other information to corroborate that assumption. But then again, who wears a rosary that isn't Catholic?"
+      "parentId": 4,
+      "type": "text",
+      "text": "Third and finally, the only really significant piece of information we have: He sometimes wears what appears to be a rosary. You can see it in"
     },
     {
-      "type": "break"
+      "parentId": 4,
+      "type": "link",
+      "text": "this",
+      "sourceUrl": "http://www.mjsbigblog.com/david-cook-attends-the-pink-party-in-los-angeles.htm/comment-page-1/"
+    },
+    {
+      "type": "text",
+      "text": "picture. So one would have to assume he's Catholic, but I couldn't find any other information to corroborate that assumption. But then again, who wears a rosary that isn't Catholic?",
+      "parentId": 4
     },
     {
       "type": "heading",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Liberalism and Middle America"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Cook isn't too overtly political either, but just like with his religious beliefs, he gave us one clue that's actually worth something. He never came out and endorsed Obama as far as I can tell, but he did throw his support behind gay marriage. The singer lamented that he wasn't a resident in California when Proposition 8 was on the ballot, a measure that banned gay marriage in the state. He said, and I only include such a long quote because there's a lot of juice in there:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "text": "I would have loved to have seen it [go] the other way. Human rights is human rights and I don't really see how sexuality parlays into whether or not you're a human being. I grew up in a really cool area of the country where tolerance was kind of the norm. I can't recall at any point in my life ever feeling uncomfortable about sexuality whether it be my own or anyone else's. . . . It's an interesting time to be a homosexual in this country. I hope that very soon we get to this point where we look back now, [like] on women's rights and that struggle in the 20s–I hope this is another hurdle this country can overcome really quick. (( Towleroad.))"
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I would have loved to have seen it [go] the other way. Human rights is human rights and I don't really see how sexuality parlays into whether or not you're a human being. I grew up in a really cool area of the country where tolerance was kind of the norm. I can't recall at any point in my life ever feeling uncomfortable about sexuality whether it be my own or anyone else's. . . . It's an interesting time to be a homosexual in this country. I hope that very soon we get to this point where we look back now, [like] on women's rights and that struggle in the 20s–I hope this is another hurdle this country can overcome really quick. (("
+    },
+    {
+      "parentId": 8,
+      "type": "link",
+      "text": "David Cook Speaks Out Against Prop 8.",
+      "sourceUrl": "http://www.towleroad.com/2008/11/david-cook-on-p.html"
+    },
+    {
+      "type": "text",
+      "text": "Towleroad.))",
+      "parentId": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "That quote is telling in several different ways. First, obviously, he wholeheartedly supports a cause that is typically associated with socially liberal folks–although supporting gay marriage is moving more towards the center of the political divide. And then he also included women's rights in there, which is a pretty strong rallying cry of the Democrats."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://elections.huffingtonpost.com/2012/results/missouri",
+      "parentId": 10,
+      "type": "text",
+      "text": "But there's that part about the area of the country in which he grew up thrown in there. Missouri is not a particularly liberal place when it comes to presidential elections, although the county where he grew up is one of only three in the state that went for Obama in 2012.",
       "sourceTitle": "Missouri Election Results.",
-      "text": "But there's that part about the area of the country in which he grew up thrown in there. Missouri is not a particularly liberal place when it comes to presidential elections, although the county where he grew up is one of only three in the state that went for Obama in 2012."
+      "sourceUrl": "http://elections.huffingtonpost.com/2012/results/missouri"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "We'll assume that Cook is liberal for now, but it wouldn't surprise me a bit if he was pretty middle-of-the-road when it comes to politics. Let us know in the comments if you know anything else."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -35,143 +35,235 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kiefer Sutherland was born in London, England and raised mostly in Toronto, Canada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/912/000022846/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Several sites around the internet of more",
       "sourceTitle": "Kiefer Sutherland.",
-      "text": "Several sites around the internet of more"
+      "sourceUrl": "http://www.nndb.com/people/912/000022846/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chacha.com/question/what-religion-is-kiefer-sutherland-currently-practicing",
+      "type": "text",
+      "text": "or less",
+      "parentId": 2,
       "sourceTitle": "What religion is Kiefer Sutherland currently practicing?",
-      "text": "or less"
+      "sourceUrl": "http://www.chacha.com/question/what-religion-is-kiefer-sutherland-currently-practicing"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biography.com/people/kiefer-sutherland-9542539",
+      "type": "text",
+      "text": "credibility claim Sutherland is Catholic. It may have some merit, considering he went to a Catholic school",
+      "parentId": 2,
       "sourceTitle": "Kiefer Sutherland Biography.",
-      "text": "credibility claim Sutherland is Catholic. It may have some merit, considering he went to a Catholic school"
+      "sourceUrl": "http://www.biography.com/people/kiefer-sutherland-9542539"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tattoos.lovetoknow.com/Kiefer_Sutherland_Tattoo",
+      "type": "text",
+      "text": "and has a tattoo of the Virgin Mary on his arm.",
+      "parentId": 2,
       "sourceTitle": "Kiefer Sutherland Tattoo.",
-      "text": "and has a tattoo of the Virgin Mary on his arm."
+      "sourceUrl": "http://tattoos.lovetoknow.com/Kiefer_Sutherland_Tattoo"
     },
     {
-      "type": "sentence",
-      "text": "I mean, a religious tattoo is usually a pretty good indicator."
+      "type": "text",
+      "text": "I mean, a religious tattoo is usually a pretty good indicator.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "But when asked about his religion in 2013, Sutherland replied,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=oxfeFmE5vHU",
-      "sourceTitle": "Kiefer Sutherland tight lipped on religion.",
-      "text": "I'm more of a spiritual person, and that's my private thing."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I'm more of a spiritual person, and that's my private thing.",
+      "sourceTitle": "Kiefer Sutherland tight lipped on religion.",
+      "sourceUrl": "http://www.youtube.com/watch?v=oxfeFmE5vHU"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Well, all right. I guess he doesn't want to talk about it. I can respect that, but it doesn't do us much good here. If I had to guess, I'd say he was raised Catholic, but doesn't subscribe to the whole organized religion thing anymore. What do you think? Let us know if you've got some more insight, but until then, we'll go with spiritual, non-religious Catholic."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Socialist Politics and a Conservative Show"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://mediamatters.org/research/2007/02/02/conservatives-continue-to-use-foxs-24-to-suppor/137925",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Considering the way conservative pundits have embraced Sutherland's TV show"
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "24"
+    },
+    {
+      "type": "text",
+      "text": "and his terrorist-fighting character Jack Bauer,",
+      "parentId": 8,
       "sourceTitle": "Conservatives continue to use Fox's 24 to support hawkish policies.",
-      "text": "Considering the way conservative pundits have embraced Sutherland's TV show  and his terrorist-fighting character Jack Bauer,"
+      "sourceUrl": "http://mediamatters.org/research/2007/02/02/conservatives-continue-to-use-foxs-24-to-suppor/137925"
     },
     {
-      "type": "sentence",
-      "text": "you might assume the actor's politics lean to the right. You'd be wrong."
+      "type": "text",
+      "text": "you might assume the actor's politics lean to the right. You'd be wrong.",
+      "parentId": 8
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Here's what he told interviewer Charlie Rose:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=jv9js10Fgug",
-      "sourceTitle": "Kiefer Sutherland interview on his politics.",
-      "text": "I believe inherently that we have a responsibility to take care of each other, so when you talk about socialized health care: absolutely, that's a no-brainer. Free universities: absolutely, that's a no-brainer. So, in the definition, I guess those are leaning toward socialist politics. To me, it's common sense."
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://soundcloud.com/tobyknapp/kiefer-sutherland-endorses",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I believe inherently that we have a responsibility to take care of each other, so when you talk about socialized health care: absolutely, that's a no-brainer. Free universities: absolutely, that's a no-brainer. So, in the definition, I guess those are leaning toward socialist politics. To me, it's common sense.",
+      "sourceTitle": "Kiefer Sutherland interview on his politics.",
+      "sourceUrl": "http://www.youtube.com/watch?v=jv9js10Fgug"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "On top of that, he endorsed Barack Obama,",
       "sourceTitle": "Kiefer Sutherland back Barack Obama in 2012!",
-      "text": "On top of that, he endorsed Barack Obama,"
+      "sourceUrl": "https://soundcloud.com/tobyknapp/kiefer-sutherland-endorses"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.express.co.uk/news/showbiz/381814/Dustin-Hoffman-and-Kiefer-Sutherland-back-Piers-Morgan-on-gun-control",
+      "type": "text",
+      "text": "supports gun control,",
+      "parentId": 12,
       "sourceTitle": "Dustin Hoffman and Kiefer Sutherland back Piers Morgan on gun control.",
-      "text": "supports gun control,"
+      "sourceUrl": "http://www.express.co.uk/news/showbiz/381814/Dustin-Hoffman-and-Kiefer-Sutherland-back-Piers-Morgan-on-gun-control"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.opensecrets.org/indivs/search.php?name=sutherland%2C+kiefer&state=&zip=&employ=&cand=&c2012=Y&c2010=Y&c2008=Y&sort=N&capcode=c7ztm",
+      "type": "text",
+      "text": "and donated a whopping $30,600 to the Democratic National Committee in 2009.",
+      "parentId": 12,
       "sourceTitle": "Donor Lookup.",
-      "text": "and donated a whopping $30,600 to the Democratic National Committee in 2009."
+      "sourceUrl": "http://www.opensecrets.org/indivs/search.php?name=sutherland%2C+kiefer&state=&zip=&employ=&cand=&c2012=Y&c2010=Y&c2008=Y&sort=N&capcode=c7ztm"
     },
     {
-      "type": "sentence",
-      "text": "So, sorry to disappoint you conservatives, but Sutherland is nowhere near the right side of politics."
+      "type": "text",
+      "text": "So, sorry to disappoint you conservatives, but Sutherland is nowhere near the right side of politics.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=jv9js10Fgug",
+      "parentId": 13,
+      "type": "text",
+      "text": "Commenting on the use of torture on his show, Sutherland made it clear that he does not support its use in any case, nor does he think it works. He said the abuse and torture of detainees at Abu Ghraib Prison during the Iraq War was \"inexcusable\" and \"absolutely criminal.\"",
       "sourceTitle": "Kiefer Sutherland interview on his politics.",
-      "text": "Commenting on the use of torture on his show, Sutherland made it clear that he does not support its use in any case, nor does he think it works. He said the abuse and torture of detainees at Abu Ghraib Prison during the Iraq War was \"inexcusable\" and \"absolutely criminal.\""
+      "sourceUrl": "http://www.youtube.com/watch?v=jv9js10Fgug"
     },
     {
-      "type": "sentence",
-      "text": "About his character's use of torture on , he said,"
+      "type": "text",
+      "text": "About his character's use of torture on",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "24"
+    },
+    {
+      "type": "text",
+      "text": ", he said,",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=jv9js10Fgug",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Within the context of our show, which is a fantastical show to begin with, the torture is a dramatic device to show you how desperate a situation is, and how urgent and desperate these characters are to solve this one specific thing, and time is running out. . . . It's a dramatic device, and it's not to be confused with what we think is right or wrong. It's a television show.",
       "sourceTitle": "Kiefer Sutherland interview on his politics.",
-      "text": "Within the context of our show, which is a fantastical show to begin with, the torture is a dramatic device to show you how desperate a situation is, and how urgent and desperate these characters are to solve this one specific thing, and time is running out. . . . It's a dramatic device, and it's not to be confused with what we think is right or wrong. It's a television show."
+      "sourceUrl": "http://www.youtube.com/watch?v=jv9js10Fgug"
     },
     {
-      "type": "sentence",
-      "text": "What do you think about that? Was torture glorified on the show? How did  change your views on the issue? Are you surprised Sutherland is liberal? Let us know what you think in the comments."
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "break"
+      "parentId": 16,
+      "type": "text",
+      "text": "What do you think about that? Was torture glorified on the show? How did"
+    },
+    {
+      "parentId": 16,
+      "type": "emphasis",
+      "text": "24"
+    },
+    {
+      "type": "text",
+      "text": "change your views on the issue? Are you surprised Sutherland is liberal? Let us know what you think in the comments.",
+      "parentId": 16
     }
   ],
   "wikipediaData": {

@@ -35,143 +35,196 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Dwight D. Eisenhower was born in Denison, Texas and grew up in Abilene, Kansas. He died of heart failure in Washington D.C. in 1969."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pe/Dwight_Eisenhower.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Eisenhower's family (mostly his mother–but also his father to a lesser extent) were members of a precursor to the Jehovah's Witnesses. Back then, this church had a few names, including the River Brethren,",
       "sourceTitle": "The religion of Dwight D. Eisenhower, U.S. President",
-      "text": "Eisenhower's family (mostly his mother–but also his father to a lesser extent) were members of a precursor to the Jehovah's Witnesses. Back then, this church had a few names, including the River Brethren,"
+      "sourceUrl": "http://www.adherents.com/people/pe/Dwight_Eisenhower.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dwightdeisenhower.com/dreams/newchurch99.html",
+      "type": "text",
+      "text": "the Brethren in Christ,",
+      "parentId": 2,
       "sourceTitle": "Dreams of a Barefoot Boy – Church and Religion",
-      "text": "the Brethren in Christ,"
+      "sourceUrl": "http://www.dwightdeisenhower.com/dreams/newchurch99.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pe/Dwight_Eisenhower.html",
+      "type": "text",
+      "text": "or the Watchtower Society.",
+      "parentId": 2,
       "sourceTitle": "The religion of Dwight D. Eisenhower, U.S. President",
-      "text": "or the Watchtower Society."
+      "sourceUrl": "http://www.adherents.com/people/pe/Dwight_Eisenhower.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.seanet.com/~raines/eisenhower.html",
+      "type": "text",
+      "text": "Members of these churches apparently disagreed at times regarding practices, ritual and interpretation of the Bible but in 1931, they largely synthesized into the modern Jehovah's Witnesses.",
+      "parentId": 2,
       "sourceTitle": "Why Eisenhower Hid His Jehovah's Witness Background",
-      "text": "Members of these churches apparently disagreed at times regarding practices, ritual and interpretation of the Bible but in 1931, they largely synthesized into the modern Jehovah's Witnesses."
+      "sourceUrl": "http://www.seanet.com/~raines/eisenhower.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dwightdeisenhower.com/dreams/newchurch99.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Eisenhower's childhood was quite religious, with Bible-reading sessions every night and meetings held at his family home on a regular basis.",
       "sourceTitle": "Dreams of a Barefoot Boy – Church and Religion",
-      "text": "Eisenhower's childhood was quite religious, with Bible-reading sessions every night and meetings held at his family home on a regular basis."
+      "sourceUrl": "http://www.dwightdeisenhower.com/dreams/newchurch99.html"
     },
     {
-      "type": "sentence",
-      "text": "However, as an adult, Eisenhower receded from his family's church, citing objections with their doomsday, end-of-days teachings and their beliefs regarding medical treatment.  ((. Seanet.)) Furthermore, it is clear Eisenhower didn't adhere to his pacifist/religious roots considering he was the Supreme Commander of the Allied Forces in Europe during World War II."
+      "type": "text",
+      "text": "However, as an adult, Eisenhower receded from his family's church, citing objections with their doomsday, end-of-days teachings and their beliefs regarding medical treatment.  ((",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "link",
+      "text": "Why Eisenhower Hid His Jehovah's Witness Background",
+      "sourceUrl": "http://www.seanet.com/~raines/eisenhower.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pe/Dwight_Eisenhower.html",
+      "type": "text",
+      "text": ". Seanet.)) Furthermore, it is clear Eisenhower didn't adhere to his pacifist/religious roots considering he was the Supreme Commander of the Allied Forces in Europe during World War II.",
+      "parentId": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "That doesn't mean Eisenhower wasn't religious. Just weeks after being sworn-in as president, Eisenhower was baptized into the Presbyterian Church",
       "sourceTitle": "The religion of Dwight D. Eisenhower, U.S. President",
-      "text": "That doesn't mean Eisenhower wasn't religious. Just weeks after being sworn-in as president, Eisenhower was baptized into the Presbyterian Church"
+      "sourceUrl": "http://www.adherents.com/people/pe/Dwight_Eisenhower.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.seanet.com/~raines/eisenhower.html",
+      "type": "text",
+      "text": "and he was considered the most religious U.S. president in history at the time.",
+      "parentId": 4,
       "sourceTitle": "Why Eisenhower Hid His Jehovah's Witness Background",
-      "text": "and he was considered the most religious U.S. president in history at the time."
+      "sourceUrl": "http://www.seanet.com/~raines/eisenhower.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.seanet.com/~raines/eisenhower.html",
+      "parentId": 5,
+      "type": "text",
+      "text": "Why? In office, he would hold \"Prayer Breakfasts,\" and the press was invited. He waged a crusade to bring back what he considered the decline in American religious values and he passed a law, putting the words \"Under God\" into the Pledge of Allegiance.",
       "sourceTitle": "Why Eisenhower Hid His Jehovah's Witness Background",
-      "text": "Why? In office, he would hold \"Prayer Breakfasts,\" and the press was invited. He waged a crusade to bring back what he considered the decline in American religious values and he passed a law, putting the words \"Under God\" into the Pledge of Allegiance."
+      "sourceUrl": "http://www.seanet.com/~raines/eisenhower.html"
     },
     {
-      "type": "sentence",
-      "text": "He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pe/Dwight_Eisenhower.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "In this way we are reaffirming the transcendence of religious faith in America's heritage and future; in this way we shall constantly strengthen those spiritual weapons which forever will be our country's most powerful resource in peace and war.",
       "sourceTitle": "The religion of Dwight D. Eisenhower, U.S. President",
-      "text": "In this way we are reaffirming the transcendence of religious faith in America's heritage and future; in this way we shall constantly strengthen those spiritual weapons which forever will be our country's most powerful resource in peace and war."
+      "sourceUrl": "http://www.adherents.com/people/pe/Dwight_Eisenhower.html"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Hower the politics going Dwight?"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsinhistory.com/blog/ex-president-and-general-dwight-d-eisenhower-dies",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Eisenhower was a Republican, but rather moderate by today's standards. In fact, he was often at odds with the \"Old Guard\" Republicans (the more conservative wing of the Republican Party) in Congress. The Old Guard didn't like Eisenhower's extension and expansion of Roosevelt's New Deal programs, including Social Security, social welfare and concessions to labor unions.",
       "sourceTitle": "Ex-President and General Dwight D. Eisenhower Dies",
-      "text": "Eisenhower was a Republican, but rather moderate by today's standards. In fact, he was often at odds with the \"Old Guard\" Republicans (the more conservative wing of the Republican Party) in Congress. The Old Guard didn't like Eisenhower's extension and expansion of Roosevelt's New Deal programs, including Social Security, social welfare and concessions to labor unions."
+      "sourceUrl": "http://www.newsinhistory.com/blog/ex-president-and-general-dwight-d-eisenhower-dies"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pbs.org/wgbh/americanexperience/features/general-article/eisenhower-domestic/",
+      "type": "text",
+      "text": "Furthermore, Ike (as he was affectionately called) sided with Democrats in his stance against racial segregation. He only pushed for it, however in Washington D.C., federal agencies and the military.",
+      "parentId": 10,
       "sourceTitle": "Domestic Politics – Eisenhower",
-      "text": "Furthermore, Ike (as he was affectionately called) sided with Democrats in his stance against racial segregation. He only pushed for it, however in Washington D.C., federal agencies and the military."
+      "sourceUrl": "http://www.pbs.org/wgbh/americanexperience/features/general-article/eisenhower-domestic/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.edchange.org/multicultural/speeches/ike_chance_for_peace.html",
+      "parentId": 11,
+      "type": "text",
+      "text": "He was president during the death of Joseph Stalin, which many hoped would be the decline of the Cold War–but it wasn't. And Eisenhower, unlike his Republican successor in the 80s Ronald Reagan, always advocated that we do not try to beat the Russians in an arms race.",
       "sourceTitle": "Dwight D. Eisenhower: The Chance for Peace",
-      "text": "He was president during the death of Joseph Stalin, which many hoped would be the decline of the Cold War–but it wasn't. And Eisenhower, unlike his Republican successor in the 80s Ronald Reagan, always advocated that we do not try to beat the Russians in an arms race."
+      "sourceUrl": "http://www.edchange.org/multicultural/speeches/ike_chance_for_peace.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "For the most part, Eisenhower's presidency was uncontroversial. He led during the post-war, idyllic America that so many of today's conservatives like to look at as what America should \"go back to.\" It was the presidents who followed him–Nixon and Kennedy–who had to grapple with the most disturbing parts of the Cold War and the Civil Rights Movement."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
     "title": "Dwight D. Eisenhower",
     "image": {
-      "name": "Dwight_D._Eisenhower,_White_House_photo_portrait,_February_1959.jpg",
+      "name": "Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg",
       "info": {
-        "canonicaltitle": "File:Dwight D. Eisenhower, White House photo portrait, February 1959.jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dwight_D._Eisenhower%2C_White_House_photo_portrait%2C_February_1959.jpg/248px-Dwight_D._Eisenhower%2C_White_House_photo_portrait%2C_February_1959.jpg",
-        "thumbwidth": 248,
+        "canonicaltitle": "File:Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/239px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg",
+        "thumbwidth": 239,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dwight_D._Eisenhower%2C_White_House_photo_portrait%2C_February_1959.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_White_House_photo_portrait,_February_1959.jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1765909",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3025709",
         "extmetadata": {
           "DateTime": {
-            "value": "2016-05-18 18:31:03",
+            "value": "2014-12-10 02:35:15",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "Dwight D. Eisenhower, White House photo portrait, February 1959",
+            "value": "Dwight D. Eisenhower, official photo portrait, May 29, 1959",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -181,7 +234,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Dwight Eisenhower in 1959|Executive Office of the President files|Official portraits of Dwight D. Eisenhower|Photographs taken on 1959-02-13",
+            "value": "Dwight Eisenhower in 1959|Executive Office of the President files|Images with extracted images|Men looking at viewer|Official portraits of Dwight D. Eisenhower|People in 1959",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -191,20 +244,20 @@
             "hidden": ""
           },
           "ImageDescription": {
-            "value": "<a href=\"//commons.wikimedia.org/wiki/Dwight_D._Eisenhower\" title=\"Dwight D. Eisenhower\">Dwight D. Eisenhower</a>, President of the United States",
+            "value": "<a href=\"//commons.wikimedia.org/wiki/Dwight_D._Eisenhower\" title=\"Dwight D. Eisenhower\">Dwight D. Eisenhower</a> photo portrait.",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "1959-02-13",
+            "value": "1959-05-29",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.eisenhower.archives.gov/audiovisual/select_list_of_portraits.html\">Metadata</a> - <a rel=\"nofollow\" class=\"external text\" href=\"http://www.eisenhower.archives.gov/audiovisual/Portraits/index.htm\">High res</a>",
+            "value": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.eisenhower.archives.gov/Research/Audiovisual/audiovisual/Photos/PORTPRES.pdf\">[1]</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "Presumably a White House photographer, since it is in the Presidential years collection and no assertion of copyright is made.",
+            "value": "White House",
             "source": "commons-desc-page"
           },
           "Permission": {

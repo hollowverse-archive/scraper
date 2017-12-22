@@ -36,131 +36,220 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Prince, originally Prince Rogers Nelson and formerly referred to as \"The Artist Formerly Known as Prince,\" was born and raised in Minneapolis, Minnesota. In fact, his music and its many imitators is often called \"The Minneapolis Sound.\""
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pp/Prince.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Prince was raised a Seventh-day Adventist, a small but significant Christian denomination.",
       "sourceTitle": "The religion of Prince, pop singer",
-      "text": "Prince was raised a Seventh-day Adventist, a small but significant Christian denomination."
+      "sourceUrl": "http://www.adherents.com/people/pp/Prince.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/music/2011/jun/23/prince-islamic-countries-fun",
+      "parentId": 3,
+      "type": "text",
+      "text": "It's hard to believe that while Prince was coming up, selling millions of records, and singing X-rated lyrics about one-night stands and sexual positions, that he was that devout a Christian. But that all changed when, in 2001, Prince converted to Jehovah's Witness.",
       "sourceTitle": "Prince: 'It's fun being in Islamic countries.'",
-      "text": "It's hard to believe that while Prince was coming up, selling millions of records, and singing X-rated lyrics about one-night stands and sexual positions, that he was that devout a Christian. But that all changed when, in 2001, Prince converted to Jehovah's Witness."
+      "sourceUrl": "http://www.guardian.co.uk/music/2011/jun/23/prince-islamic-countries-fun"
     },
     {
-      "type": "sentence",
-      "text": "He has even admitted to proselytizing, that is, knocking on random doors to hand out  magazine and preach his faith."
+      "type": "text",
+      "text": "He has even admitted to proselytizing, that is, knocking on random doors to hand out",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Watchtower"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": "magazine and preach his faith.",
+      "parentId": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "Now, Prince is all into Christianity and isn't afraid to show it. He seems to have changed directions and now preaches the virtues of a moral life, contrary to most of his song lyrics. He has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pp/Prince.html",
-      "sourceTitle": "The religion of Prince, pop singer",
-      "text": "When I look at the violence, I wonder where the parents are, but also where is God in their lives? A kid is an open computer ready for programming. Some weird relationships happen, smoking too early and sex."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "When I look at the violence, I wonder where the parents are, but also where is God in their lives? A kid is an open computer ready for programming. Some weird relationships happen, smoking too early and sex.",
+      "sourceTitle": "The religion of Prince, pop singer",
+      "sourceUrl": "http://www.adherents.com/people/pp/Prince.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "I wonder how much programming Prince has done in his lifetime."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://voices.washingtonpost.com/postrock/2009/06/prince_hips_the_world_to_his_j.html",
+      "parentId": 8,
+      "type": "text",
+      "text": "The Jehovah's Witnesses will not accept blood transfusions for religious reasons, based on the interpretation of a Bible verse, no doubt. However, the fact that Prince won't get a sorely needed hip replacement is proof of how devout he is.",
       "sourceTitle": "Prince Hips the World to His Jehovah's Witness Ways; Phil Spector's Streamlined Prison Look",
-      "text": "The Jehovah's Witnesses will not accept blood transfusions for religious reasons, based on the interpretation of a Bible verse, no doubt. However, the fact that Prince won't get a sorely needed hip replacement is proof of how devout he is."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://voices.washingtonpost.com/postrock/2009/06/prince_hips_the_world_to_his_j.html"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Who needs politics when you're royalty?"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Politically and socially, Prince is a mixed bag. He's like time measurement, divided between before and after Jesus Christ–though there is still some consistency in his views. Following Prince's conversion to Jehovah's Witness, the observant Prince fans noticed a drastic change in his political and social focus. Suddenly, this seemingly sexually depraved super-freak was condemning gays (who are a huge part of his fan base, by the way). He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 11
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.newyorker.com/talk/2008/11/24/081124ta_talk_hoffman#ixzz0WgnOe2m",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "God came to Earth and saw people sticking it wherever and doing it with whatever, and he just cleared it all out. He was like, 'Enough.' I just live according to this [referring to the Bible].",
       "sourceTitle": "Home Visit: Soup With Prince",
-      "text": "God came to Earth and saw people sticking it wherever and doing it with whatever, and he just cleared it all out. He was like, 'Enough.' I just live according to this [referring to the Bible]."
+      "sourceUrl": "http://www.newyorker.com/talk/2008/11/24/081124ta_talk_hoffman#ixzz0WgnOe2m"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Prince.php",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Prince is a Republican, having only donated money to one political candidate in 1990, Rudy Boschwitz, a Republican U.S. Senate candidate from Minnesota–who lost.",
       "sourceTitle": "Prince's Federal Campaign Contribution Report",
-      "text": "Prince is a Republican, having only donated money to one political candidate in 1990, Rudy Boschwitz, a Republican U.S. Senate candidate from Minnesota–who lost."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Prince.php"
     },
     {
-      "type": "sentence",
-      "text": "But he seems to think both political parties are a lost cause and, again, the Bible is his reference point. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But he seems to think both political parties are a lost cause and, again, the Bible is his reference point. He said:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://fdlaction.firedoglake.com/2008/11/18/prince-talks-politics-religion-and-gays-then-recants/",
-      "sourceTitle": "Prince Talks Politics, Religion, and Gays, Then Recants",
-      "text": "So here's how it is: you've got the Republicans, and basically they want to live according to this [the Bible]. But there's the problem of interpretation, and you've got some churches, some people, basically doing things and saying it comes from here [again, the Bible], but it doesn't. And then on the opposite end of the spectrum you've got blue, you've got the Democrats, and they're, like, 'You can do whatever you want.' Gay marriage, whatever. But neither of them is right."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "So here's how it is: you've got the Republicans, and basically they want to live according to this [the Bible]. But there's the problem of interpretation, and you've got some churches, some people, basically doing things and saying it comes from here [again, the Bible], but it doesn't. And then on the opposite end of the spectrum you've got blue, you've got the Democrats, and they're, like, 'You can do whatever you want.' Gay marriage, whatever. But neither of them is right.",
+      "sourceTitle": "Prince Talks Politics, Religion, and Gays, Then Recants",
+      "sourceUrl": "http://fdlaction.firedoglake.com/2008/11/18/prince-talks-politics-religion-and-gays-then-recants/"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "The early Prince, however (and to some extent, the Prince of today), was more focused on social inequalities, poverty, and the hypocrisy of the political establishment. Some of his choice political lyrics include:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thegrio.com/entertainment/why-prince-deserves-props-for-his-political-activism.php?page=2",
-      "sourceTitle": "Why Prince deserves props for his political activism",
-      "text": "Who said that to kill is a sin, then started every single war that your people been in? Who said that water is a precious commodity, then dropped a big old black oil slick in the deep blue sea?"
+      "id": 17
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Who said that to kill is a sin, then started every single war that your people been in? Who said that water is a precious commodity, then dropped a big old black oil slick in the deep blue sea?",
+      "sourceTitle": "Why Prince deserves props for his political activism",
+      "sourceUrl": "http://www.thegrio.com/entertainment/why-prince-deserves-props-for-his-political-activism.php?page=2"
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "And this criticism of a still controversial contemporary subject:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thegrio.com/entertainment/why-prince-deserves-props-for-his-political-activism.php",
+      "id": 20
+    },
+    {
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "The people I know, they been struggling, at least it seems that way. Fat cats on Wall Street, they got a bailout. Why somebody else got to wait. 700 billion, but my old neighborhood, ain't nothing changed but the date.",
       "sourceTitle": "Why Prince deserves props for his political activism",
-      "text": "The people I know, they been struggling, at least it seems that way. Fat cats on Wall Street, they got a bailout. Why somebody else got to wait. 700 billion, but my old neighborhood, ain't nothing changed but the date."
+      "sourceUrl": "http://www.thegrio.com/entertainment/why-prince-deserves-props-for-his-political-activism.php"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 22
+    },
+    {
+      "parentId": 22,
+      "type": "text",
       "text": "But hey, people are certainly allowed to change, even beloved pop stars."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

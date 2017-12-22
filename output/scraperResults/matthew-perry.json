@@ -36,105 +36,220 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Mathew Perry was born in Williamstown, Massachusetts and grew up in Ottawa, Ontario, Canada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://nickshell1983.wordpress.com/2010/05/26/the-ethnic-backgrounds-of-the-cast-of-friends-and-seinfeld/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Rumors abound that Perry is part Jewish.",
       "sourceTitle": "The Ethnic Backgrounds of the Cast of Friends and Seinfeld (Yes, Most of Them are Jewish; Even Matthew Perry)",
-      "text": "Rumors abound that Perry is part Jewish."
+      "sourceUrl": "http://nickshell1983.wordpress.com/2010/05/26/the-ethnic-backgrounds-of-the-cast-of-friends-and-seinfeld/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.google.com/newspapers?id=lboyAAAAIBAJ&sjid=5ewFAAAAIBAJ&pg=4626,2377310&dq=john-bennett-perry&hl=en.",
+      "type": "text",
+      "text": "But that may not be the case as his parents were married in a Catholic ceremony.",
+      "parentId": 2,
       "sourceTitle": "Ottawa Citizen – Google News Archive Search",
-      "text": "But that may not be the case as his parents were married in a Catholic ceremony."
+      "sourceUrl": "http://news.google.com/newspapers?id=lboyAAAAIBAJ&sjid=5ewFAAAAIBAJ&pg=4626,2377310&dq=john-bennett-perry&hl=en."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "Perry does not come off as religious. The closest he's come to religion seems to have been during his struggles with addiction. At some point, while shooting for his now-defunct TV show, , he had a moment of clarity. He said:"
+      "parentId": 3,
+      "type": "text",
+      "text": "Perry does not come off as religious. The closest he's come to religion seems to have been during his struggles with addiction. At some point, while shooting for his now-defunct TV show,"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Serving Sara"
+    },
+    {
+      "type": "text",
+      "text": ", he had a moment of clarity. He said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.nytimes.com/2002/08/18/arts/film-the-fame-he-craved-came-but-it-wasn-t-enough.html",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "[I had] this very lovely spiritual moment… Everything's clear for one split second. I realize, I've got to go save myself. I got on the phone and called the people who were willing to help me.",
       "sourceTitle": "The Fame He Craved Came, But It Wasn't Enough",
-      "text": "[I had] this very lovely spiritual moment… Everything's clear for one split second. I realize, I've got to go save myself. I got on the phone and called the people who were willing to help me."
+      "sourceUrl": "http://www.nytimes.com/2002/08/18/arts/film-the-fame-he-craved-came-but-it-wasn-t-enough.html"
     },
     {
-      "type": "sentence",
-      "text": "However, he's been known to take cracks at religious people and their faith. For example, he made a parody video making fun of Angus T. Jones'  in which he implored viewers to not watch his \"immoral\" show  for religious reasons. Perry says:"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "text",
+      "text": "However, he's been known to take cracks at religious people and their faith. For example, he made a parody video making fun of Angus T. Jones'"
+    },
+    {
+      "parentId": 6,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://tvline.com/2012/11/26/angus-t-jones-two-and-a-half-men-controversy/"
+    },
+    {
+      "type": "text",
+      "text": "in which he implored viewers to not watch his \"immoral\" show",
+      "parentId": 6
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "2 and a Half Men"
+    },
+    {
+      "type": "text",
+      "text": "for religious reasons. Perry says:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.funnyordie.com/videos/71b785e64e/matthew-perry-s-testimony-pt-2",
-      "sourceTitle": "Matthew Perry's Testimony (Pt.2)",
-      "text": "I decided to sit down for an hour and skim the entire Bible… crazy stuff… glancing at the Bible has led me to realize that my show, , is a complete abomination with terrible morals. Don't watch my show… Because I think all of my TV shows were immoral, I'm gonna give all the money back. I assume that's what Angus is going to do."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I decided to sit down for an hour and skim the entire Bible… crazy stuff… glancing at the Bible has led me to realize that my show,"
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "Go On"
+    },
+    {
+      "type": "text",
+      "text": ", is a complete abomination with terrible morals. Don't watch my show… Because I think all of my TV shows were immoral, I'm gonna give all the money back. I assume that's what Angus is going to do.",
+      "parentId": 8,
+      "sourceTitle": "Matthew Perry's Testimony (Pt.2)",
+      "sourceUrl": "http://www.funnyordie.com/videos/71b785e64e/matthew-perry-s-testimony-pt-2"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "So, it's mostly a big joke for Perry. We're going with the non-religious tag."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Witty, sarcastic politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mediaite.com/tv/matthew-perry-calls-foxs-bret-baier-a-scared-asshole-on-bill-maher-panel/",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Perry isn't all that political either. However, it's pretty easy to see which side of the fence he sits on. He's gone on Bill Maher's"
+    },
+    {
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "Real Time with Bill Maher"
+    },
+    {
+      "type": "text",
+      "text": "to talk about his negative opinion of the outrageous conservatism rampant in Fox News.",
+      "parentId": 11,
       "sourceTitle": "Matthew Perry – Bill Maher – Brett Baier",
-      "text": "Perry isn't all that political either. However, it's pretty easy to see which side of the fence he sits on. He's gone on Bill Maher's  to talk about his negative opinion of the outrageous conservatism rampant in Fox News."
+      "sourceUrl": "http://www.mediaite.com/tv/matthew-perry-calls-foxs-bret-baier-a-scared-asshole-on-bill-maher-panel/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "And though he never endorsed Obama, during election day 2012, Perry tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/MatthewPerry",
-      "sourceTitle": "matthew perry (MatthewPerry) on Twitter.",
-      "text": "Now that's what I call a speech. #GoBama"
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Now that's what I call a speech. #GoBama",
+      "sourceTitle": "matthew perry (MatthewPerry) on Twitter.",
+      "sourceUrl": "https://twitter.com/MatthewPerry"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "And after the Sandy Hook shooting, Perry started retweeting gun control tweets and when a longtime fan misinterpreted one and asked him if he was pro-gun, he replied:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/MatthewPerry",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "No, twit, I was saying quite the opposite.",
       "sourceTitle": "matthew perry (MatthewPerry) on Twitter.",
-      "text": "No, twit, I was saying quite the opposite."
+      "sourceUrl": "https://twitter.com/MatthewPerry"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "So, we've got ourselves another Hollywood liberal Democrat–not that there's anything wrong with that."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -37,132 +37,212 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Mike Myers was born and raised in Scarborough, Ontario, Canada to first generation British immigrants."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Myers was raised a Protestant, and considering his British heritage, that probably means Anglican. He married a Jew, though, and speaking of their differences, he said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://persona.rin.ru/eng/view/f/0/18638/MYERS-Mike--Mike-Myers-",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I am a Canadian Protestant of English descent. My wife – an American Jewish Russian-Polish origin. For us, it became clear that, despite the different roots, we must have identical values in life… However, we are far from that policy.",
       "sourceTitle": "Myers, Mike (Mike Myers), photo, biography",
-      "text": "I am a Canadian Protestant of English descent. My wife – an American Jewish Russian-Polish origin. For us, it became clear that, despite the different roots, we must have identical values in life… However, we are far from that policy."
+      "sourceUrl": "http://persona.rin.ru/eng/view/f/0/18638/MYERS-Mike--Mike-Myers-"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000196/bio",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Who knows if religion had anything to do with it, but Myers and the wife he was referring to divorced in 2006.",
       "sourceTitle": "Mike Myers (I) – Biography",
-      "text": "Who knows if religion had anything to do with it, but Myers and the wife he was referring to divorced in 2006."
+      "sourceUrl": "http://www.imdb.com/name/nm0000196/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "text": "One of his films, , was about an Indian Maharishi Mahesh-type spiritual guide. Myers said he did use the film's premise to preach some of his own spiritual views, though we're not sure what that means. Karma? Reincarnation? The power of love? He said:"
+      "parentId": 6,
+      "type": "text",
+      "text": "One of his films,"
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "The Love Guru"
+    },
+    {
+      "type": "text",
+      "text": ", was about an Indian Maharishi Mahesh-type spiritual guide. Myers said he did use the film's premise to preach some of his own spiritual views, though we're not sure what that means. Karma? Reincarnation? The power of love? He said:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.npr.org/templates/story/story.php?storyId=91620730",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I wanted to have a very silly delivery system for some of the ideas I actually believe in.",
       "sourceTitle": "Mike Myers: Doctor Evil Turns 'Love Guru.'",
-      "text": "I wanted to have a very silly delivery system for some of the ideas I actually believe in."
+      "sourceUrl": "http://www.npr.org/templates/story/story.php?storyId=91620730"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.soulscode.com/pk-draft-the-deepak-chopra-mike-myers-dana-carvey-love-guru-connection/",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "We do know that Myers is an adherent (of some sort) ofNew Age/Eastern spiritual guide Deepak Chopra–who also had a cameo appearance in"
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "The Love Guru"
+    },
+    {
+      "type": "text",
+      "text": ",",
+      "parentId": 9,
       "sourceTitle": "The Deepak Chopra-Mike Myers-Dana Carvey \"Love Guru\" Connection",
-      "text": "We do know that Myers is an adherent (of some sort) ofNew Age/Eastern spiritual guide Deepak Chopra–who also had a cameo appearance in ,"
+      "sourceUrl": "http://www.soulscode.com/pk-draft-the-deepak-chopra-mike-myers-dana-carvey-love-guru-connection/"
     },
     {
-      "type": "sentence",
-      "text": "so perhaps Myers has ditched Christianity for a more ambiguous spirituality. Or it could just supplement any Western worldview."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "so perhaps Myers has ditched Christianity for a more ambiguous spirituality. Or it could just supplement any Western worldview.",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Tri-National Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.anglotopia.net/british-identity/humor/famous-anglophiles-part-2/",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Myers is a citizen in three different nations: The U.S., Canada, and the U.K.",
       "sourceTitle": "Famous Anglophiles Part 2",
-      "text": "Myers is a citizen in three different nations: The U.S., Canada, and the U.K."
+      "sourceUrl": "http://www.anglotopia.net/british-identity/humor/famous-anglophiles-part-2/"
     },
     {
-      "type": "sentence",
-      "text": "That's a whole lotta politics for one person. But we can probably eliminate Canada. Myers said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "That's a whole lotta politics for one person. But we can probably eliminate Canada. Myers said:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000196/bio",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Canada is the essence of not being. Not English, not American, it is the mathematic of not being. And a subtle flavor – we're more like celery as a flavor.",
       "sourceTitle": "Mike Myers (I) – Biography",
-      "text": "Canada is the essence of not being. Not English, not American, it is the mathematic of not being. And a subtle flavor – we're more like celery as a flavor."
+      "sourceUrl": "http://www.imdb.com/name/nm0000196/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://canadianjewishnews.blogspot.com/2011/10/mike-myers-joins-protest-on-wall-street.html",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Although, Myers did participate in Occupy Wall Street protests in Toronto.",
       "sourceTitle": "Mike Myers joins protest on Wall Street",
-      "text": "Although, Myers did participate in Occupy Wall Street protests in Toronto."
+      "sourceUrl": "http://canadianjewishnews.blogspot.com/2011/10/mike-myers-joins-protest-on-wall-street.html"
     },
     {
-      "type": "sentence",
-      "text": "Which is probably a fair indication of liberal leanings."
+      "type": "text",
+      "text": "Which is probably a fair indication of liberal leanings.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "No comment to be found regarding British politics."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Mike_Myers.php",
+      "parentId": 16,
+      "type": "text",
+      "text": "In U.S. politics, Myers has donated $12,000 to Democrats and Democrat organizations,",
       "sourceTitle": "Mike Myers Federal Campaign Contribution Report",
-      "text": "In U.S. politics, Myers has donated $12,000 to Democrats and Democrat organizations,"
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Mike_Myers.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.businessinsider.com/watch-mike-myers-strips-down-into-a-sparkly-bodysuit-in-front-of-the-obamas-2012-5",
+      "type": "text",
+      "text": "performed for Obama,",
+      "parentId": 16,
       "sourceTitle": "Mike Myers Strips Down Into A Sparkly Blue Bodysuit in Front of the Obamas",
-      "text": "performed for Obama,"
+      "sourceUrl": "http://www.businessinsider.com/watch-mike-myers-strips-down-into-a-sparkly-bodysuit-in-front-of-the-obamas-2012-5"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://latimesblogs.latimes.com/washington/2008/08/mccain-mike-mye.html",
+      "type": "text",
+      "text": "and when 2008 Republican presidential candidate, John McCain, used Myers' old Saturday Night Live \"Wayne's World\" schtick in an attempt to disparage Obama, Myers threw a fit and demanded McCain cease and desist.",
+      "parentId": 16,
       "sourceTitle": "John McCain enters Wayne's World and learns a Hollywood Lesson",
-      "text": "and when 2008 Republican presidential candidate, John McCain, used Myers' old Saturday Night Live \"Wayne's World\" schtick in an attempt to disparage Obama, Myers threw a fit and demanded McCain cease and desist."
+      "sourceUrl": "http://latimesblogs.latimes.com/washington/2008/08/mccain-mike-mye.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.politico.com/blogs/click/0811/Mike_Myers_Im_mad_about_Maddow.html",
+      "parentId": 17,
+      "type": "text",
+      "text": "And if you weren't sure if he is a liberal or what, know that Myers is a huge fan of liberal pundit, Rachel Maddow.",
       "sourceTitle": "Mike Myers: I'm mad about Maddow",
-      "text": "And if you weren't sure if he is a liberal or what, know that Myers is a huge fan of liberal pundit, Rachel Maddow."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.politico.com/blogs/click/0811/Mike_Myers_Im_mad_about_Maddow.html"
     }
   ],
   "wikipediaData": {

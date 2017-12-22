@@ -36,133 +36,229 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Robin WIlliams was born in Chicago, Illinois and grew up outside of Detroit, Michigan."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pw/Robin_Williams.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Williams' father was Episcopalian and his mother was a devout Christian Scientist. Though Williams is not very religious today, he considers the possibility that his mother's faith and its idea of \"mind over matter\" helped him kick his drug and alcohol addictions.",
       "sourceTitle": "The religion of Robin Williams, actor, comedian",
-      "text": "Williams' father was Episcopalian and his mother was a devout Christian Scientist. Though Williams is not very religious today, he considers the possibility that his mother's faith and its idea of \"mind over matter\" helped him kick his drug and alcohol addictions."
+      "sourceUrl": "http://www.adherents.com/people/pw/Robin_Williams.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cbsnews.com/stories/2007/07/03/earlyshow/leisure/boxoffice/main3011495.shtml",
+      "parentId": 3,
+      "type": "text",
+      "text": "It's difficult to know when Williams is being serious about religion or if it's all part of the act. He now seems to identify Episcopalian–like his father–which he describes as \"Catholic light: half the religion, half the guilt.\"",
       "sourceTitle": "Robin WIlliams: A \"License\"",
-      "text": "It's difficult to know when Williams is being serious about religion or if it's all part of the act. He now seems to identify Episcopalian–like his father–which he describes as \"Catholic light: half the religion, half the guilt.\""
+      "sourceUrl": "http://www.cbsnews.com/stories/2007/07/03/earlyshow/leisure/boxoffice/main3011495.shtml"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "But God is often the subject of his jokes–or at least a pivot point, such as:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000245/bio",
-      "sourceTitle": "Robin Williams (I) – Biography",
-      "text": "Cocaine is God's way of telling you you are making too much money."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Cocaine is God's way of telling you you are making too much money.",
+      "sourceTitle": "Robin Williams (I) – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0000245/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Or:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000245/bio",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "See, the problem is that God gives men a brain and a penis, and only enough blood to run one at a time.",
       "sourceTitle": "Robin Williams (I) – Biography",
-      "text": "See, the problem is that God gives men a brain and a penis, and only enough blood to run one at a time."
+      "sourceUrl": "http://www.imdb.com/name/nm0000245/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://sensuouscurmudgeon.wordpress.com/2010/04/01/buffoon-award-winner-robin-williams/",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "My guess is that in reality, Williams is an atheist, an opinion shared by more than one online speculator.",
       "sourceTitle": "Buffoon Award Winner: Robin Williams",
-      "text": "My guess is that in reality, Williams is an atheist, an opinion shared by more than one online speculator."
+      "sourceUrl": "http://sensuouscurmudgeon.wordpress.com/2010/04/01/buffoon-award-winner-robin-williams/"
     },
     {
-      "type": "sentence",
-      "text": "Just watch how he ."
+      "type": "text",
+      "text": "Just watch how he",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "parentId": 10,
+      "type": "link",
+      "text": "makes a big joke out of Biblical miracles",
+      "sourceUrl": "http://www.youtube.com/watch?v=gFI_8pHf2f0&feature=relmfu"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 10
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "All jokes aside–politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000245/bio",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Williams is a staunch supporter of the Democratic Party",
       "sourceTitle": "Robin Williams (I) – Biography",
-      "text": "Williams is a staunch supporter of the Democratic Party"
+      "sourceUrl": "http://www.imdb.com/name/nm0000245/bio"
     },
     {
-      "type": "sentence",
-      "text": "and perhaps one of the most liberal actors in Hollywood–which is saying a lot. He's pushed the limits of social convention in his films from a cross-dressing nanny in  to a gay father who makes a fool (and a cross dresser) out of a conservative politician in"
+      "type": "text",
+      "text": "and perhaps one of the most liberal actors in Hollywood–which is saying a lot. He's pushed the limits of social convention in his films from a cross-dressing nanny in",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "Mrs. Doubtfire"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.advocate.com/news/daily-news/2011/06/30/daniel-radcliffe-accepts-hero-award-dedicates-it-suicide-prevention",
+      "type": "text",
+      "text": "to a gay father who makes a fool (and a cross dresser) out of a conservative politician in",
+      "parentId": 12
+    },
+    {
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "The Birdcage."
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "But in the real world, Williams has said he thinks gay marriage should be legal,",
       "sourceTitle": "Daneil Radcliffe Accepts Hero Award, Dedicates It To Suicide Prevention Volunteers",
-      "text": "But in the real world, Williams has said he thinks gay marriage should be legal,"
+      "sourceUrl": "http://www.advocate.com/news/daily-news/2011/06/30/daniel-radcliffe-accepts-hero-award-dedicates-it-suicide-prevention"
     },
     {
-      "type": "sentence",
-      "text": "but throws a joke in for good measure:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but throws a joke in for good measure:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://thinkexist.com/quotation/you_could_talk_about_same-sex_marriage-but_people/332599.html",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "You could talk about same-sex marriage, but people who have been married [say] 'It's the same sex all the time.'",
       "sourceTitle": "Robin Williams quotes",
-      "text": "You could talk about same-sex marriage, but people who have been married [say] 'It's the same sex all the time.'"
+      "sourceUrl": "http://thinkexist.com/quotation/you_could_talk_about_same-sex_marriage-but_people/332599.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/Robin_Williams.php",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "His support of the Democratic Party goes into six-figure territory, with his political donations to the party and left-leaning special interest groups totaling over $150,000.",
       "sourceTitle": "Robin Williams's Federal Campaign Contribution Report",
-      "text": "His support of the Democratic Party goes into six-figure territory, with his political donations to the party and left-leaning special interest groups totaling over $150,000."
+      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/Robin_Williams.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "His liberalism extends into criticisms of Republicans and conservatives with the full weight of his comedic and critical genius going to former U.S. president George W. Bush. For example, when Obama was elected he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=KW2jSLuHlz4",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "It's the end of the reign of George the 2nd. The reign of error is over. America is officially out of rehab…He's a gift to comedy, though, he's a comedy pinata. I'm going to miss him.",
       "sourceTitle": "Robin Williams! Destroys President Bush",
-      "text": "It's the end of the reign of George the 2nd. The reign of error is over. America is officially out of rehab…He's a gift to comedy, though, he's a comedy pinata. I'm going to miss him."
+      "sourceUrl": "http://www.youtube.com/watch?v=KW2jSLuHlz4"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "Aren't we all."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

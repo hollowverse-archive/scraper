@@ -37,137 +37,217 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Steve Martin was born in Waco, Texas and grew up in Inglewood, California and Garden Grove, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.goodreads.com/author/show/7103.Steve_Martin",
+      "parentId": 2,
+      "type": "text",
+      "text": "Martin was raised in a Baptist family.",
       "sourceTitle": "Steve Martin (Author of Born Standing Up)",
-      "text": "Martin was raised in a Baptist family."
+      "sourceUrl": "http://www.goodreads.com/author/show/7103.Steve_Martin"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000188/bio",
+      "type": "text",
+      "text": "It's not something he really talks about, and it is clear that being a Baptist isn't something he stuck with. In college, Martin studied philosophy–and even seriously considered becoming a philosophy professor–but went with show business instead.",
+      "parentId": 2,
       "sourceTitle": "Steve Martin (I) – Biography",
-      "text": "It's not something he really talks about, and it is clear that being a Baptist isn't something he stuck with. In college, Martin studied philosophy–and even seriously considered becoming a philosophy professor–but went with show business instead."
+      "sourceUrl": "http://www.imdb.com/name/nm0000188/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Now, Martin's views are vaguely agnostic–perhaps atheist–but certainly philosophical. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/quotes/71836-it-s-so-hard-to-believe-in-anything-anymore-i-mean",
-      "sourceTitle": "Quote by Steve Martin: \"It's so hard to believe anything anymore. I…",
-      "text": "It's so hard to believe in anything anymore. I mean, it's like, religion, you really can't take it seriously, because it seems so mythological, it seems so arbitrary…but, on the other hand, science is just pure empiricism, and by virtue of its method, it excludes metaphysics. I guess I wouldn't believe in anything anymore if it weren't for my lucky astrology mood watch."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "It's so hard to believe in anything anymore. I mean, it's like, religion, you really can't take it seriously, because it seems so mythological, it seems so arbitrary…but, on the other hand, science is just pure empiricism, and by virtue of its method, it excludes metaphysics. I guess I wouldn't believe in anything anymore if it weren't for my lucky astrology mood watch.",
+      "sourceTitle": "Quote by Steve Martin: \"It's so hard to believe anything anymore. I…",
+      "sourceUrl": "http://www.goodreads.com/quotes/71836-it-s-so-hard-to-believe-in-anything-anymore-i-mean"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Despite ending with a joke in classic Martin style, I think this quote indicates a real thoughtfulness, a true sense of wonder. Martin, much like his college self, is still looking for answers. My interpretation is: Religion and its mythology is hard to take seriously for reasons of real-world credibility. But science has problems too, as it does not take into account anything beyond the physical world (metaphysics). Therefore, it seems a stretch to call Martin an atheist. He seems to feel that important \"stuff\" does exist beyond the physical world."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "That being said, he did write a song for atheists, called \"Atheists Don't Have No Songs.\" Some of the choice lyrics read:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.lyricsmode.com/lyrics/s/steve_martin/atheists_dont_have_no_songs.html",
-      "sourceTitle": "Steve Martin – Atheists Don't Have No Songs Lyrics",
-      "text": "Romantics play Claire de Lune/Born agains sing He is risen/But no one ever wrote a tune/For godless existentialism."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Romantics play Claire de Lune/Born agains sing He is risen/But no one ever wrote a tune/For godless existentialism.",
+      "sourceTitle": "Steve Martin – Atheists Don't Have No Songs Lyrics",
+      "sourceUrl": "http://www.lyricsmode.com/lyrics/s/steve_martin/atheists_dont_have_no_songs.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "He's a funny guy, but also a thinker. This combination makes him particularly difficult to nail down."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "Well Excuse My Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Steve_Martin.php",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Martin's political stance is even more difficult to discern through the smokescreen of comedy. We can say for certain that he's a Democrat. His political financial donations, totaling $18,300 as of 2010, have all gone to Democrats. No Republicans, no special interest groups, only Democrats.",
       "sourceTitle": "Steve Martin's Federal Campaign Contribution Report",
-      "text": "Martin's political stance is even more difficult to discern through the smokescreen of comedy. We can say for certain that he's a Democrat. His political financial donations, totaling $18,300 as of 2010, have all gone to Democrats. No Republicans, no special interest groups, only Democrats."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Steve_Martin.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.democraticunderground.com/1014257410",
+      "type": "text",
+      "text": "Plus, he has explicitly endorsed Democrats, such as former Nebraska governor, Bob Kerrey, for U.S. Senate–hilariously of course.",
+      "parentId": 12,
       "sourceTitle": "Steve Martin Endorses Bob Kerrey (D-NE) For Senate",
-      "text": "Plus, he has explicitly endorsed Democrats, such as former Nebraska governor, Bob Kerrey, for U.S. Senate–hilariously of course."
+      "sourceUrl": "http://www.democraticunderground.com/1014257410"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thewrap.com/tv/article/steve-martin-proposes-alec-baldwin-stars-celebrate-ny-gay-marriage-vote-28572",
+      "parentId": 13,
+      "type": "text",
+      "text": "Beyond that, it's just jokes. For example, when gay marriage passed in New York state, Martin tweeted to Alec Baldwin: \"Alec. Now we can get married!\"",
       "sourceTitle": "Steve Martin Proposes to Alec Baldwin as Stars Celebrate N.Y. Gay Marriage Vote",
-      "text": "Beyond that, it's just jokes. For example, when gay marriage passed in New York state, Martin tweeted to Alec Baldwin: \"Alec. Now we can get married!\""
+      "sourceUrl": "http://www.thewrap.com/tv/article/steve-martin-proposes-alec-baldwin-stars-celebrate-ny-gay-marriage-vote-28572"
     },
     {
-      "type": "sentence",
-      "text": "And the Chic-Fil-A scandal in which the restaurant's CEO spoke out against gay marriage got this tweet out of Martin:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And the Chic-Fil-A scandal in which the restaurant's CEO spoke out against gay marriage got this tweet out of Martin:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.pbs.org/newshour/rundown/2012/08/chick-fil-a-gay-marriage-fight-makes-some-want-to-eat-mor-chicken.html",
-      "sourceTitle": "Chick-Fil-A Gay Marriage Fight Makes Some Want to Eat (Mor) Chicken",
-      "text": "Had dinner at Chick-fil-A, then I married a man. There was something about that sandwich…"
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Had dinner at Chick-fil-A, then I married a man. There was something about that sandwich…",
+      "sourceTitle": "Chick-Fil-A Gay Marriage Fight Makes Some Want to Eat (Mor) Chicken",
+      "sourceUrl": "http://www.pbs.org/newshour/rundown/2012/08/chick-fil-a-gay-marriage-fight-makes-some-want-to-eat-mor-chicken.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Of the Occupy Wall Street Movement, Martin joked:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/s/steve_martin_2.html",
-      "sourceTitle": "Steve Martin Quotes",
-      "text": "I'm for the Wall Street Occupiers. But will they accept me when they find out I sell packaged mortgage default instruments to children?"
+      "id": 17
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I'm for the Wall Street Occupiers. But will they accept me when they find out I sell packaged mortgage default instruments to children?",
+      "sourceTitle": "Steve Martin Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/s/steve_martin_2.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "And even liberals are the butt of his jokes from time to time:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://liberalcoalition.blogspot.com/2005_12_25_archive.html",
+      "id": 20
+    },
+    {
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "I remember liberals at a party saying, 'let's add a second to the year' and I was the only one who spoke up against it. Why would they want to add a second to the year? Because it gives them a second longer to hate Bush.",
       "sourceTitle": "Steve Martin Blogs",
-      "text": "I remember liberals at a party saying, 'let's add a second to the year' and I was the only one who spoke up against it. Why would they want to add a second to the year? Because it gives them a second longer to hate Bush."
+      "sourceUrl": "http://liberalcoalition.blogspot.com/2005_12_25_archive.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 22
+    },
+    {
+      "parentId": 22,
+      "type": "text",
       "text": "My best guess is that Martin is a liberal Democrat. Disagree? Let's hear your comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

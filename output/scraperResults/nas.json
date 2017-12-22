@@ -34,135 +34,234 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Nas, whose real name is Nasir Bin Olu Dara Jones, was born in Brooklyn, New York and grew up in Queens, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "The religious views of Nas are highly disputed and his lyrics paint a very diverse picture. Some seem atheist, such as:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://slumz.boxden.com/f87/nas-atheist-his-early-rap-career-1197724/",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Won't even run about gods, I don't believe in none of that shit. Your facts are backwards.",
       "sourceTitle": "Was NaS an atheist in his early rap career.",
-      "text": "Won't even run about gods, I don't believe in none of that shit. Your facts are backwards."
+      "sourceUrl": "http://slumz.boxden.com/f87/nas-atheist-his-early-rap-career-1197724/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://rapgenius.com/Nas-one-mic-lyrics",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Other lyrics feature Christian themes",
       "sourceTitle": "Nas – One Mic Lyrics",
-      "text": "Other lyrics feature Christian themes"
+      "sourceUrl": "http://rapgenius.com/Nas-one-mic-lyrics"
     },
     {
-      "type": "sentence",
-      "text": "while still others directly reference Allah, such as:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "while still others directly reference Allah, such as:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.beliefnet.com/Entertainment/Music/2004/09/Top-10-Muslim-Hip-Hop-Lyrics.aspx",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "A lot of rules, some locked in solitude/Curse the day of they birth confused, who's to be praised?/The mighty dollar — or almighty Allah.",
       "sourceTitle": "Top 10 Muslim Hip-Hop Lyrics",
-      "text": "A lot of rules, some locked in solitude/Curse the day of they birth confused, who's to be praised?/The mighty dollar — or almighty Allah."
+      "sourceUrl": "http://www.beliefnet.com/Entertainment/Music/2004/09/Top-10-Muslim-Hip-Hop-Lyrics.aspx"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.scalc.net/decisions.aspx?q=4&id=3297",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "There seems to be"
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "some"
+    },
+    {
+      "type": "text",
+      "text": "consensus among Nas' fans that he is what's called a \"5 percenter.\" This means he belongs to a fringe religion called the Nation of Gods and Earths. This faith, originating in the Manhattan neighborhood of Harlem, has not been without significant controversy with, for example, some state prison systems having designated 5 percenters as a Security Threat Group (STG).",
+      "parentId": 8,
       "sourceTitle": "Decisions",
-      "text": "There seems to be  consensus among Nas' fans that he is what's called a \"5 percenter.\" This means he belongs to a fringe religion called the Nation of Gods and Earths. This faith, originating in the Manhattan neighborhood of Harlem, has not been without significant controversy with, for example, some state prison systems having designated 5 percenters as a Security Threat Group (STG)."
+      "sourceUrl": "http://www.scalc.net/decisions.aspx?q=4&id=3297"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "5 Percenters believe that 85% of the world's population is ignorant of the truth about the world and god, 10% knows the truth and willfully spreads lies for their own gain, leaving 5% of the Earth to be Enlightened. The Nation of Gods and Earths is often considered a hodge-podge conglomeration of various religions. Right or wrong, this could explain what seems to be Nas' religious confusion."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usatoday.com/news/opinion/2002-10-29-oped-goldblatt_x.htm",
+      "parentId": 10,
+      "type": "text",
+      "text": "Nas is listed among the members of the Nation of Gods and Earths by a couple of reputable sources including USA Today.",
       "sourceTitle": "Hip Hop's grim undertones",
-      "text": "Nas is listed among the members of the Nation of Gods and Earths by a couple of reputable sources including USA Today."
+      "sourceUrl": "http://www.usatoday.com/news/opinion/2002-10-29-oped-goldblatt_x.htm"
     },
     {
-      "type": "sentence",
-      "text": "But most of the basis for these allegations come from one lyric:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But most of the basis for these allegations come from one lyric:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://hiphopwired.com/2010/03/24/the-gods-of-hip-hop-a-reflection-on-the-five-percenter-influence-on-rap-music-culture/",
-      "sourceTitle": "The GODS Of Hip-Hop: A Reflection On The Five Percenter Influence On Rap Music & Culture",
-      "text": "We were beginner's in the hood as Five Percenters/But something must've got in us, 'cause all of us turned to sinners."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "We were beginner's in the hood as Five Percenters/But something must've got in us, 'cause all of us turned to sinners.",
+      "sourceTitle": "The GODS Of Hip-Hop: A Reflection On The Five Percenter Influence On Rap Music & Culture",
+      "sourceUrl": "http://hiphopwired.com/2010/03/24/the-gods-of-hip-hop-a-reflection-on-the-five-percenter-influence-on-rap-music-culture/"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "But it is important to note that this lyric was said not by Nas, but by rapper AZ on a Nas album, leaving the faith of Nas still in question."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 14
     },
     {
-      "type": "heading",
+      "parentId": 14,
+      "type": "text",
       "text": "Gangsta Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "First, Nas doesn't believe the current political system can do anything for him or his people, with one caveat of course–that being Barack Obama. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=9eC6XfJdIa0",
-      "sourceTitle": "HOT 97 – Angie & Nas Speak Politics (7-14-08)",
-      "text": "I don't believe in politics… I believe there's a system that's been here to keep America the number one country in the world but I haven't seen anything that politicians have done to help my peers… I had to make raps to get out the hood. They forgot us. Barack is a different story."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I don't believe in politics… I believe there's a system that's been here to keep America the number one country in the world but I haven't seen anything that politicians have done to help my peers… I had to make raps to get out the hood. They forgot us. Barack is a different story.",
+      "sourceTitle": "HOT 97 – Angie & Nas Speak Politics (7-14-08)",
+      "sourceUrl": "http://www.youtube.com/watch?v=9eC6XfJdIa0"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "Most of Nas' political statements–outside of whatever he may say on his albums–has come in response to criticisms against his music, his character, or the people he respects. He even took shots at Jesse Jackson when the reverend expressed disappointment in Obama's relations with the black community. Nas said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.mtv.com/news/articles/1590708/nas-jesse-jacksons-time-up-after-obama-comments.jhtml",
-      "sourceTitle": "Nas Takes Jesse Jackson To Task For Barack Obama Comments: 'His Time Is Up.\"",
-      "text": "His time is up. All you old niggas, time is up. We heard your voice, we saw your marching, we heard your sermons. We don't wanna hear that shit no more. It's a new day. It's a new voice. I'm here now. We don't need Jesse; I'm here. I got this. We got Barack, we got David Banners and Young Jeezys."
+      "id": 19
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "His time is up. All you old niggas, time is up. We heard your voice, we saw your marching, we heard your sermons. We don't wanna hear that shit no more. It's a new day. It's a new voice. I'm here now. We don't need Jesse; I'm here. I got this. We got Barack, we got David Banners and Young Jeezys.",
+      "sourceTitle": "Nas Takes Jesse Jackson To Task For Barack Obama Comments: 'His Time Is Up.\"",
+      "sourceUrl": "http://www.mtv.com/news/articles/1590708/nas-jesse-jacksons-time-up-after-obama-comments.jhtml"
+    },
+    {
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "When conservative Fox News pundit Bill O'Reilly condemned Nas' performance at Virginia Tech after a tragic shooting at that university because Nas has a weapons charge on his criminal record, Nas responded:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.mtv.com/news/articles/1569047/nas-lashes-out-at-bill-oreilly.jhtml",
+      "id": 22
+    },
+    {
+      "type": "paragraph",
+      "id": 23,
+      "parentId": 22
+    },
+    {
+      "parentId": 23,
+      "type": "text",
+      "text": "He doesn't understand the younger generation. He deals with the past. The people he represents are Republican, older, a generation that has nothing to do with the reality of what's happening now with my generation.",
       "sourceTitle": "Nas Slams Bill O'Reilly Over Virginia Tech Comments",
-      "text": "He doesn't understand the younger generation. He deals with the past. The people he represents are Republican, older, a generation that has nothing to do with the reality of what's happening now with my generation."
+      "sourceUrl": "http://www.mtv.com/news/articles/1569047/nas-lashes-out-at-bill-oreilly.jhtml"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 24
+    },
+    {
+      "parentId": 24,
+      "type": "text",
       "text": "Despite the many debates that could be had over Nas' comments and political positions (especially the disparaging of a black civil rights icon), one thing seems certain: Nas is a huge Obama supporter, putting him squarely in the Democrat corner."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -195,7 +294,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Extracted images|Files with no machine-readable author|Flickr images verified by UploadWizard|Media lacking a description|Media lacking author information|Nas",
+            "value": "Extracted images|Flickr images verified by UploadWizard|Nas",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -204,14 +303,22 @@
             "source": "commons-categories",
             "hidden": ""
           },
+          "ImageDescription": {
+            "value": "Paris Hip Hop 2014 coupdoreille.fr/",
+            "source": "commons-desc-page"
+          },
           "DateTimeOriginal": {
             "value": "2014-07-06 21:51:01",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://cps-static.rovicorp.com/3/JPG_500/MI0003/880/MI0003880837.jpg?partner=allrovi.com\">https://cps-static.rovicorp.com/3/JPG_500/MI0003/880/MI0003880837.jpg?partner=allrovi.com</a>",
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/coupdoreille/14405002787/\">https://www.flickr.com/photos/coupdoreille/14405002787/</a>",
             "source": "commons-desc-page",
             "hidden": ""
+          },
+          "Artist": {
+            "value": "Coup d'Oreille",
+            "source": "commons-desc-page"
           },
           "LicenseShortName": {
             "value": "CC BY-SA 2.0",

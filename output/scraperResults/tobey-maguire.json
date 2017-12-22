@@ -32,113 +32,150 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Tobias \"Tobey\" Maguire was born in Santa Monica, California. He grew up moving frequently between California, Oregon, and Washington."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0001497/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Maguire doesn't talk about religion at all, so the only conclusion I can come to is that he's totally non-religious. It could have been because he had a relatively unstable early life: his parents had him when they were quite young and divorced early, he never spent too much time in one place, and then he dropped out of high school during his freshman year.",
       "sourceTitle": "Tobey Maguire – Biography.",
-      "text": "Maguire doesn't talk about religion at all, so the only conclusion I can come to is that he's totally non-religious. It could have been because he had a relatively unstable early life: his parents had him when they were quite young and divorced early, he never spent too much time in one place, and then he dropped out of high school during his freshman year."
+      "sourceUrl": "http://www.imdb.com/name/nm0001497/bio"
     },
     {
-      "type": "sentence",
-      "text": "But who's to say, really."
+      "type": "text",
+      "text": "But who's to say, really.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.examiner.com/article/hollywood-fit-why-celebs-like-madonna-tobey-maguire-love-yoga",
+      "parentId": 3,
+      "type": "text",
+      "text": "The closest Maguire comes to spirituality, as far as I could tell, is that he practices yoga, which can sometimes have an element of meditation.",
       "sourceTitle": "Hollywood fit: Why celebs like Madonna & Tobey Maguire love yoga.",
-      "text": "The closest Maguire comes to spirituality, as far as I could tell, is that he practices yoga, which can sometimes have an element of meditation."
+      "sourceUrl": "http://www.examiner.com/article/hollywood-fit-why-celebs-like-madonna-tobey-maguire-love-yoga"
     },
     {
-      "type": "sentence",
-      "text": "But that's a stretch, and I know it."
+      "type": "text",
+      "text": "But that's a stretch, and I know it.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Do you know something about Maguire's religious beliefs? Let us know!"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 5
     },
     {
-      "type": "heading",
+      "parentId": 5,
+      "type": "text",
       "text": "Spidey Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.opensecrets.org/indivs/search.php?name=maguire%2C+tobey&state=CA&zip=&employ=&cand=&c2012=Y&c2010=Y&c2008=Y&sort=N&capcode=mvjxb&submit=Submit+your+Donor+Query",
-      "sourceTitle": "Donor Lookup: Find Individual and Soft Money Contributors.",
-      "text": "Politically, Maguire not ambiguous in the least: he is definitely a Democrat. Between 2007 and 2012, the actor donated $80,432 to Democratic candidates and organization, which includes over $30,000 to the Democratic National Committee during the 2012 presidential election."
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.opensecrets.org/indivs/search.php?name=maguire%2C+jennifer&state=CA&zip=&employ=&cand=&c2012=Y&c2010=Y&c2008=Y&sort=N&capcode=yyms9&submit=Submit+your+Donor+Query",
+      "parentId": 6,
+      "type": "text",
+      "text": "Politically, Maguire not ambiguous in the least: he is definitely a Democrat. Between 2007 and 2012, the actor donated $80,432 to Democratic candidates and organization, which includes over $30,000 to the Democratic National Committee during the 2012 presidential election.",
       "sourceTitle": "Donor Lookup: Find Individual and Soft Money Contributors.",
-      "text": "If you include his wife's donations during that period, the figure is well over $100,000."
+      "sourceUrl": "http://www.opensecrets.org/indivs/search.php?name=maguire%2C+tobey&state=CA&zip=&employ=&cand=&c2012=Y&c2010=Y&c2008=Y&sort=N&capcode=mvjxb&submit=Submit+your+Donor+Query"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mtv.com/news/articles/1684924/president-obama-robert-downey-jr-fundraiser.jhtml",
+      "type": "text",
+      "text": "If you include his wife's donations during that period, the figure is well over $100,000.",
+      "parentId": 6,
+      "sourceTitle": "Donor Lookup: Find Individual and Soft Money Contributors.",
+      "sourceUrl": "http://www.opensecrets.org/indivs/search.php?name=maguire%2C+jennifer&state=CA&zip=&employ=&cand=&c2012=Y&c2010=Y&c2008=Y&sort=N&capcode=yyms9&submit=Submit+your+Donor+Query"
+    },
+    {
+      "type": "text",
+      "text": "He also attended a fundraiser at George Clooney's house in 2012 which cost $40,000 per ticket,",
+      "parentId": 6,
       "sourceTitle": "Obama's $15 Million Fundraiser Draws Robert Downey Jr., Tobey Maguire.",
-      "text": "He also attended a fundraiser at George Clooney's house in 2012 which cost $40,000 per ticket,"
+      "sourceUrl": "http://www.mtv.com/news/articles/1684924/president-obama-robert-downey-jr-fundraiser.jhtml"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/05/11/obama-basketball-george-clooney-tobey-maguire_n_1509945.html",
+      "type": "text",
+      "text": "and he even played basketball with the president the next day.",
+      "parentId": 6,
       "sourceTitle": "Obama Plays Basketball With George Clooney, Tobey Maguire.",
-      "text": "and he even played basketball with the president the next day."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/05/11/obama-basketball-george-clooney-tobey-maguire_n_1509945.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/TobeyMaguire/status/200418093506375680",
+      "parentId": 7,
+      "type": "text",
+      "text": "He doesn't appear to be interested in talking about politics all that much, but nonetheless he's shown support for a few other liberal causes. He tweeted his support of gay marriage,",
       "sourceTitle": "TobeyMaguire: I agree.",
-      "text": "He doesn't appear to be interested in talking about politics all that much, but nonetheless he's shown support for a few other liberal causes. He tweeted his support of gay marriage,"
+      "sourceUrl": "https://twitter.com/TobeyMaguire/status/200418093506375680"
     },
     {
-      "type": "sentence",
-      "text": "and he's very concerned with animal rights issues. Maguire was a long-time vegetarian and more recently became a vegan. He said about his decision not to eat any animal products:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and he's very concerned with animal rights issues. Maguire was a long-time vegetarian and more recently became a vegan. He said about his decision not to eat any animal products:",
+      "parentId": 7
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.news.com.au/entertainment/celebrity/why-leather-seats-in-his-luxury-car-made-tobey-maguires-skin-crawl/story-fn907478-1226164480346",
-      "sourceTitle": "Tobey Maguire rejects luxury car with leather seats.",
-      "text": "It's never really been that hard for me. I've never had any desire to eat meat. In fact, when I was a kid I would have a really difficult time eating meat at all. . . . I don't judge people who eat meat–that's not for me to say–but the whole thing just sort of bums me out."
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.news.com.au/entertainment/celebrity/why-leather-seats-in-his-luxury-car-made-tobey-maguires-skin-crawl/story-fn907478-1226164480346",
-      "sourceTitle": "Tobey Maguire rejects luxury car with leather seats.",
-      "text": "He also reportedly refuses to drive a vehicle with leather seats, was named one of PETA's sexiest vegetarians,"
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/TobeyMaguire/status/304425938886721536",
+      "parentId": 9,
+      "type": "text",
+      "text": "It's never really been that hard for me. I've never had any desire to eat meat. In fact, when I was a kid I would have a really difficult time eating meat at all. . . . I don't judge people who eat meat–that's not for me to say–but the whole thing just sort of bums me out.",
+      "sourceTitle": "Tobey Maguire rejects luxury car with leather seats.",
+      "sourceUrl": "http://www.news.com.au/entertainment/celebrity/why-leather-seats-in-his-luxury-car-made-tobey-maguires-skin-crawl/story-fn907478-1226164480346"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "He also reportedly refuses to drive a vehicle with leather seats, was named one of PETA's sexiest vegetarians,",
+      "sourceTitle": "Tobey Maguire rejects luxury car with leather seats.",
+      "sourceUrl": "http://www.news.com.au/entertainment/celebrity/why-leather-seats-in-his-luxury-car-made-tobey-maguires-skin-crawl/story-fn907478-1226164480346"
+    },
+    {
+      "type": "text",
+      "text": "and has expressed support for other animal rights causes.",
+      "parentId": 10,
       "sourceTitle": "TobeyMaguire: RT @LeoDiCaprio 10,000+ …",
-      "text": "and has expressed support for other animal rights causes."
+      "sourceUrl": "https://twitter.com/TobeyMaguire/status/304425938886721536"
     },
     {
-      "type": "sentence",
-      "text": "Sounds like a legitimate Hollywood liberal to me."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Sounds like a legitimate Hollywood liberal to me.",
+      "parentId": 10
     }
   ],
   "wikipediaData": {

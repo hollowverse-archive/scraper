@@ -34,114 +34,179 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Fergie, whose real name is Stacy Ann Ferguson, was born and raised in Hacienda Heights, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.patheos.com/blogs/deaconsbench/2012/06/fergie-good-catholic-girl/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Fergie was brought up a devout Catholic. But as a teenager and young woman, Fergie faced a hard battle with methamphetamine.",
       "sourceTitle": "Fergie: good Catholic girl",
-      "text": "Fergie was brought up a devout Catholic. But as a teenager and young woman, Fergie faced a hard battle with methamphetamine."
+      "sourceUrl": "http://www.patheos.com/blogs/deaconsbench/2012/06/fergie-good-catholic-girl/"
     },
     {
-      "type": "sentence",
-      "text": "Now, the singer seems to have come full-circle and rejoined the flock. Fergie credits God for helping her kick her habit, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Now, the singer seems to have come full-circle and rejoined the flock. Fergie credits God for helping her kick her habit, saying:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.contactmusic.com/news-article/god-+-peas-saved-fergie-from-homeless-druggie-hell_24_02_2006",
-      "sourceTitle": "Black Eyed Peas – God + Peas Saved Fergie From Homeless Druggie Hell",
-      "text": "I had a conversation with God, basically. I don't know how to interpret this, but he said, 'I've given you this beautiful gift (singing) and you're throwing it away.'"
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I had a conversation with God, basically. I don't know how to interpret this, but he said, 'I've given you this beautiful gift (singing) and you're throwing it away.'",
+      "sourceTitle": "Black Eyed Peas – God + Peas Saved Fergie From Homeless Druggie Hell",
+      "sourceUrl": "http://www.contactmusic.com/news-article/god-+-peas-saved-fergie-from-homeless-druggie-hell_24_02_2006"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Now she lists going to church as one of her favorite activities, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.patheos.com/blogs/deaconsbench/2012/06/fergie-good-catholic-girl/",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "On Saturday nights, we [she and husband Josh Duhamel] like going to mass, then dinner. It feeds our spiritual side, and it's great to hear Josh sing in church – he's a great singer. Then we go out and have a really nice wine, like all good Catholics.",
       "sourceTitle": "Fergie: good Catholic girl",
-      "text": "On Saturday nights, we [she and husband Josh Duhamel] like going to mass, then dinner. It feeds our spiritual side, and it's great to hear Josh sing in church – he's a great singer. Then we go out and have a really nice wine, like all good Catholics."
+      "sourceUrl": "http://www.patheos.com/blogs/deaconsbench/2012/06/fergie-good-catholic-girl/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.elle.com/pop-culture/reviews/fergie-josh-286269",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Furthermore, she and Duhamel were married in a Catholic ceremony.",
       "sourceTitle": "Fergie and Josh Wedding Photos",
-      "text": "Furthermore, she and Duhamel were married in a Catholic ceremony."
+      "sourceUrl": "http://www.elle.com/pop-culture/reviews/fergie-josh-286269"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "But judging from Fergie's on-stage performances, one would have to conclude that she's one of those \"open-to-gratuitous-exhibitionism\" Catholics."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Black Eyed Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nme.com/news/nme/39387",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Politically, Fergie comes off pretty liberal. She's certainly a Democrat, having actively supported Obama in 2008. She even called his nomination acceptance speech \"amazing\" and \"excellent.\"",
       "sourceTitle": "Fergie on Obama's speech: 'It was amazing.'",
-      "text": "Politically, Fergie comes off pretty liberal. She's certainly a Democrat, having actively supported Obama in 2008. She even called his nomination acceptance speech \"amazing\" and \"excellent.\""
+      "sourceUrl": "http://www.nme.com/news/nme/39387"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.popcrunch.com/fergie-white-house-concert-for-obama-girls/",
+      "type": "text",
+      "text": "Fergie has been a regular at the White House since good 'ol Obama took office. She gave a private concert to Obama's daughters",
+      "parentId": 11,
       "sourceTitle": "Fergie White House Concert For Obama Girls",
-      "text": "Fergie has been a regular at the White House since good 'ol Obama took office. She gave a private concert to Obama's daughters"
+      "sourceUrl": "http://www.popcrunch.com/fergie-white-house-concert-for-obama-girls/"
     },
     {
-      "type": "sentence",
-      "text": "and performed at the White House Easter Egg Hunt. Though, that performance didn't go over too well and some parents complained, particularly after Fergie, while dressed in less-than-modest attire, sang:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and performed at the White House Easter Egg Hunt. Though, that performance didn't go over too well and some parents complained, particularly after Fergie, while dressed in less-than-modest attire, sang:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.ihatethemedia.com/fergie-performance-horrifies-parents-at-white-house-easter-egg-hunt",
-      "sourceTitle": "Fergie's performance horrifies parents at Obama White House Easter Egg Hunt",
-      "text": "If you ain't got no money take your broke ass home."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "If you ain't got no money take your broke ass home.",
+      "sourceTitle": "Fergie's performance horrifies parents at Obama White House Easter Egg Hunt",
+      "sourceUrl": "http://www.ihatethemedia.com/fergie-performance-horrifies-parents-at-white-house-easter-egg-hunt"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Fergie does have a bit of a political agenda. She sang Obama's praises in 2010, with one caveat, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thefabfemme.com/?p=7479",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "I think Barack Obama definitely gave a different perspective of America on other countries and I think in terms of foreign relations he's really helped us and the way people think about America. But I wish he would do more for gay marriages, though. That's the one thing I want to happen!",
       "sourceTitle": "Fergie talks gay marriage",
-      "text": "I think Barack Obama definitely gave a different perspective of America on other countries and I think in terms of foreign relations he's really helped us and the way people think about America. But I wish he would do more for gay marriages, though. That's the one thing I want to happen!"
+      "sourceUrl": "http://www.thefabfemme.com/?p=7479"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtonpost.com/blogs/compost/post/obama-comes-out-for-same-sex-marriage-world-ends/2012/05/09/gIQAy60iDU_blog.html",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Obviously, this was before Obama became the first president to explicitly endorse gay marriage, subsequently causing the end of the world for millions of religious conservatives.",
       "sourceTitle": "Obama comes out for same-sex marriage, world ends",
-      "text": "Obviously, this was before Obama became the first president to explicitly endorse gay marriage, subsequently causing the end of the world for millions of religious conservatives."
+      "sourceUrl": "http://www.washingtonpost.com/blogs/compost/post/obama-comes-out-for-same-sex-marriage-world-ends/2012/05/09/gIQAy60iDU_blog.html"
     },
     {
-      "type": "sentence",
-      "text": "Now, Fergie must just think Obama's the greatest thing since meth."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Now, Fergie must just think Obama's the greatest thing since meth.",
+      "parentId": 17
     }
   ],
   "wikipediaData": {

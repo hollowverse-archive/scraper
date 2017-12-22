@@ -31,113 +31,185 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://princessdaina.wordpress.com/",
+      "parentId": 1,
+      "type": "text",
+      "text": "Diana, Princess of Wales, who was born Diana Spencer, was born and raised in Sandringham, Norfolk, England. She died in a car accident in Paris, France in 1997."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Princess Diana was an Anglican Christian, having been baptized in the St. Mary Magdalene Anglican Church in Sandringham.",
       "sourceTitle": "Diana the princess of Wales",
-      "text": "Princess Diana was an Anglican Christian, having been baptized in the St. Mary Magdalene Anglican Church in Sandringham."
+      "sourceUrl": "http://princessdaina.wordpress.com/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.catholicnewsagency.com/news/british-monarch-can-now-marry-a-catholic-but-cannot-be-one/",
+      "type": "text",
+      "text": "It was, at the time, required that anyone who marries into the British Royal Family must be Anglican (though the rule has changed and they can now marry a Catholic if they so choose.",
+      "parentId": 2,
       "sourceTitle": "British monarchy can now marry a Catholic but cannot be one",
-      "text": "It was, at the time, required that anyone who marries into the British Royal Family must be Anglican (though the rule has changed and they can now marry a Catholic if they so choose."
+      "sourceUrl": "http://www.catholicnewsagency.com/news/british-monarch-can-now-marry-a-catholic-but-cannot-be-one/"
     },
     {
-      "type": "sentence",
-      "text": ")"
+      "type": "text",
+      "text": ")",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "As a result of the rule, the devotion to religion of royals is often questioned, with rarely a religious comment (for or against) coming from the royal family in modern times. However, we can be sure that Diana did, in fact, believe in an afterlife at the very least. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/p/princess_diana_2.html",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I'm aware that people I have loved and have died and are in the spirit world looking after me.",
       "sourceTitle": "Princess Diana Quotes",
-      "text": "I'm aware that people I have loved and have died and are in the spirit world looking after me."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/p/princess_diana_2.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.xtimeline.com/evt/view.aspx?id=50775",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Beyond that, her level of devotion to Anglicanism was never tested or questioned. She did, after her divorce from Prince Charles, keep some oddly non-Christian company however.",
       "sourceTitle": "Diana's Personal Life After Divorce",
-      "text": "Beyond that, her level of devotion to Anglicanism was never tested or questioned. She did, after her divorce from Prince Charles, keep some oddly non-Christian company however."
+      "sourceUrl": "http://www.xtimeline.com/evt/view.aspx?id=50775"
     },
     {
-      "type": "sentence",
-      "text": "Check out this  of Princess Diana and Indian, Eastern-religion cultist Sri Chimnoy."
+      "type": "text",
+      "text": "Check out this",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "link",
+      "text": "photo",
+      "sourceUrl": "http://www.srichinmoy.org/images/diana/view/"
+    },
+    {
+      "type": "text",
+      "text": "of Princess Diana and Indian, Eastern-religion cultist Sri Chimnoy.",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Politics of a princess"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Similar to the religious bondage that comes with being a British royal, political views are extremely limited. Rather than take sides on political issues–controversial or otherwise–British royals are encouraged to donate time and money to charities and causes of their choice. And the princess seemed fine with it. She said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://quotespassion.blogspot.com/2009/03/princess-diana-i-am-not-political.html",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I am not a political figure. The fact is I am a humanitarian figure and always will be.",
       "sourceTitle": "Princess Diana: \"I am not a political figure…\"",
-      "text": "I am not a political figure. The fact is I am a humanitarian figure and always will be."
+      "sourceUrl": "http://quotespassion.blogspot.com/2009/03/princess-diana-i-am-not-political.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biographyonline.net/people/diana/charity_work.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "She reveled in her causes, particularly those involving AIDS and landmines. Her work with AIDS victims was somewhat controversial. In the 1980s, it was a much less understood disease and unwarranted fear and paranoia surrounded it. Princess Diana was perhaps the first high-profile figure to try to dispel that fear.",
       "sourceTitle": "Charity work Princess Diana of Wales",
-      "text": "She reveled in her causes, particularly those involving AIDS and landmines. Her work with AIDS victims was somewhat controversial. In the 1980s, it was a much less understood disease and unwarranted fear and paranoia surrounded it. Princess Diana was perhaps the first high-profile figure to try to dispel that fear."
+      "sourceUrl": "http://www.biographyonline.net/people/diana/charity_work.html"
     },
     {
-      "type": "sentence",
-      "text": "She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She said:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.biographyonline.net/people/diana/charity_work.html",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "HIV does not make people dangerous to know. You can shake their hands and give them hug heaven knows they need it.",
       "sourceTitle": "Charity work Princess Diana of Wales",
-      "text": "HIV does not make people dangerous to know. You can shake their hands and give them hug heaven knows they need it."
+      "sourceUrl": "http://www.biographyonline.net/people/diana/charity_work.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biographyonline.net/people/diana/charity_work.html",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Princess Diana's work with landmines is said to have had political implications. Her tireless efforts to raise awareness of the dangers of old landmines was a catalyst for the Ottawa Treaty, an international agreement seeking to ban the use of anti-personnel landmines.",
       "sourceTitle": "Charity work Princess Diana of Wales",
-      "text": "Princess Diana's work with landmines is said to have had political implications. Her tireless efforts to raise awareness of the dangers of old landmines was a catalyst for the Ottawa Treaty, an international agreement seeking to ban the use of anti-personnel landmines."
+      "sourceUrl": "http://www.biographyonline.net/people/diana/charity_work.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.xtimeline.com/evt/view.aspx?id=50775",
+      "parentId": 15,
+      "type": "text",
+      "text": "Furthermore, her divorce from Prince Charles was a scandalous and controversial affair–and some say a step forward for womankind.",
       "sourceTitle": "Diana's Personal Life After Divorce",
-      "text": "Furthermore, her divorce from Prince Charles was a scandalous and controversial affair–and some say a step forward for womankind."
+      "sourceUrl": "http://www.xtimeline.com/evt/view.aspx?id=50775"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Princess Diana was beloved the world over and her influence cannot be understated. She is perhaps one of the most political, non-political figures in history."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

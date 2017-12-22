@@ -33,111 +33,160 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Austin Mahone was born in San Antonio, Texas. He was raised in and near San Antonio."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/AustinMahone/status/283318959623766016",
+      "parentId": 2,
+      "type": "text",
+      "text": "Although he hasn't said it outright, Mahone appears to be a Catholic. He's definitely a Christian of some sort. He tweeted a simple \"#Church\" on Christmas Eve in 2012",
       "sourceTitle": "AustinMahone: #Church.",
-      "text": "Although he hasn't said it outright, Mahone appears to be a Catholic. He's definitely a Christian of some sort. He tweeted a simple \"#Church\" on Christmas Eve in 2012"
+      "sourceUrl": "https://twitter.com/AustinMahone/status/283318959623766016"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://web.stagram.com/p/190450123248845820_12277895",
+      "type": "text",
+      "text": "and he posted a picture of himself on Instagram with the caption, \"Me and Dave in our new Church!! #beautiful.\"",
+      "parentId": 2,
       "sourceTitle": ".@austinmahone.",
-      "text": "and he posted a picture of himself on Instagram with the caption, \"Me and Dave in our new Church!! #beautiful.\""
+      "sourceUrl": "http://web.stagram.com/p/190450123248845820_12277895"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/AustinMahone/status/283453883290882048",
+      "type": "text",
+      "text": "He's also really excited about Christmas,",
+      "parentId": 2,
       "sourceTitle": "Austin Mahone: MERRY CHRISTMAS!! …",
-      "text": "He's also really excited about Christmas,"
+      "sourceUrl": "https://twitter.com/AustinMahone/status/283453883290882048"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/AustinMahone/status/279730263230136322",
+      "type": "text",
+      "text": "and occasionally sends prayers out over Twitter.",
+      "parentId": 2,
       "sourceTitle": "AustinMahone: Praying for the children and …",
-      "text": "and occasionally sends prayers out over Twitter."
+      "sourceUrl": "https://twitter.com/AustinMahone/status/279730263230136322"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=cNoXDEyzzt8",
+      "parentId": 3,
+      "type": "text",
+      "text": "So, we've established he's a Christian. The Catholic part comes in through"
+    },
+    {
+      "parentId": 3,
+      "type": "link",
+      "text": "this video",
+      "sourceUrl": "http://www.youtube.com/watch?v=cNoXDEyzzt8"
+    },
+    {
+      "type": "text",
+      "text": "of him singing Justin Beiber's tune, \"Pray.\" It opens with him kneeling by the bed praying, and before he stands up, he crosses himself in the Catholic way.",
+      "parentId": 3,
       "sourceTitle": "Pray – Austin Mahone.",
-      "text": "So, we've established he's a Christian. The Catholic part comes in through  of him singing Justin Beiber's tune, \"Pray.\" It opens with him kneeling by the bed praying, and before he stands up, he crosses himself in the Catholic way."
+      "sourceUrl": "http://www.youtube.com/watch?v=cNoXDEyzzt8"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "There you have it. For all you Mahomies who were dying for a smoking gun in the religion department, that's as good as I've got. And it's a lot more than I've got for politics."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 5
     },
     {
-      "type": "heading",
+      "parentId": 5,
+      "type": "text",
       "text": "Obama Self"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "What can you expect from a guy who, as of the writing of this article, isn't even old enough to vote? And that's beside the fact that he's obviously very focused on his music career at the moment. Well, you can expect this joke from his Twitter feed:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/AustinMahone/status/260877991138189313",
-      "sourceTitle": "Austin Mahone: What did Barack Obama say to …",
-      "text": "What did Barack Obama say to Michelle when he proposed? . . . I don't wanna be Obama self!"
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "What did Barack Obama say to Michelle when he proposed? . . . I don't wanna be Obama self!",
+      "sourceTitle": "Austin Mahone: What did Barack Obama say to …",
+      "sourceUrl": "https://twitter.com/AustinMahone/status/260877991138189313"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Nice one. He's got time for the world of partisan politics to seep into his consciousness. In the meantime, let's engage in some gross speculation."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Politics_of_Texas#Current_situation",
+      "parentId": 10,
+      "type": "text",
+      "text": "Although the political makeup of Texas is predominantly Republican,",
       "sourceTitle": "Politics of Texas.",
-      "text": "Although the political makeup of Texas is predominantly Republican,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Politics_of_Texas#Current_situation"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.city-data.com/city/San-Antonio-Texas.html",
+      "type": "text",
+      "text": "it doesn't appear that the city of San Antonio is necessarily a completely red town. Although Republican George W. Bush won the presidential election there in 2004, Democrat Barack Obama won in 2008.",
+      "parentId": 10,
       "sourceTitle": "San Antonio, Texas profile.",
-      "text": "it doesn't appear that the city of San Antonio is necessarily a completely red town. Although Republican George W. Bush won the presidential election there in 2004, Democrat Barack Obama won in 2008."
+      "sourceUrl": "http://www.city-data.com/city/San-Antonio-Texas.html"
     },
     {
-      "type": "sentence",
-      "text": "Maybe they just like to pick winners. Either way, it doesn't tell us a whole lot about Mahone, except that perhaps he grew up around a diversity of political opinions."
+      "type": "text",
+      "text": "Maybe they just like to pick winners. Either way, it doesn't tell us a whole lot about Mahone, except that perhaps he grew up around a diversity of political opinions.",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "And then there's the fact that he's a pop star. Lot of those famous artist-types in the Hollywood actor/pop scene tend to be liberal. Even if he didn't start off that way, maybe they'll indoctrinate him."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "But until further notice (you'll keep us informed in the comments, won't you) we'll call him non-political."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

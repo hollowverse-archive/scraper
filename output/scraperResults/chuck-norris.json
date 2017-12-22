@@ -36,123 +36,211 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cbn.com/700club/guests/interviews/chuck_norris_110304.aspx",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
+      "text": "Chuck Norris was born in Ryan, Oklahoma. He grew up in a Baptist home and is still very devout to this day.",
       "sourceTitle": "Chuck Norris: Against All Odds",
-      "text": "Chuck Norris was born in Ryan, Oklahoma. He grew up in a Baptist home and is still very devout to this day."
+      "sourceUrl": "http://www.cbn.com/700club/guests/interviews/chuck_norris_110304.aspx"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Mostly known for his martial arts films and television shows and the proliferation of jokes about how awesome he is, Norris is actually an active social/political/religious commentator. In fact, if you want to know Chuck Norris' views on anything, there's no one better to ask than Chuck himself."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "For Norris, when it comes to religion and politics, these two entities are largely one homogeneous unit. Norris is very outspoken about his religious views and how they affect his politics. According to Norris:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "\"True patriots\" do not stay clear of discussing religion and politics.",
+      "sourceTitle": "Personal Life",
+      "sourceUrl": "http://dsd7.customsource.be/personal-life"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Norris has written a few books about Christianity. His most-often cited book is"
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "The Justice Riders"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 6,
+      "sourceTitle": "Personal Life",
+      "sourceUrl": "http://dsd7.customsource.be/personal-life"
+    },
+    {
+      "type": "text",
+      "text": "He writes a regular column for the Christian conservative website called",
+      "parentId": 6
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "WorldNetDaily"
+    },
+    {
+      "type": "text",
+      "text": ". This is where Norris' views really shine. He once responded to the joke: \"Chuck Norris' tears can cure cancer. Too bad he never cries. Ever\" saying:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://dsd7.customsource.be/personal-life",
-      "sourceTitle": "Personal Life",
-      "text": "\"True patriots\" do not stay clear of discussing religion and politics."
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://dsd7.customsource.be/personal-life",
-      "sourceTitle": "Personal Life",
-      "text": "Norris has written a few books about Christianity. His most-often cited book is ."
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
     },
     {
-      "type": "sentence",
-      "text": "He writes a regular column for the Christian conservative website called . This is where Norris' views really shine. He once responded to the joke: \"Chuck Norris' tears can cure cancer. Too bad he never cries. Ever\" saying:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.wnd.com/2006/10/38499/",
+      "parentId": 8,
+      "type": "text",
+      "text": "There was a man whose tears could cure cancer or any other disease, including the real cause of all diseases – sin. His blood did. His name was Jesus, not Chuck Norris. If your soul needs healing, the prescription you need is not Chuck Norris' tears, it's Jesus' blood.",
       "sourceTitle": "On Chuck Norris 'Mania' Sweeping the Net",
-      "text": "There was a man whose tears could cure cancer or any other disease, including the real cause of all diseases – sin. His blood did. His name was Jesus, not Chuck Norris. If your soul needs healing, the prescription you need is not Chuck Norris' tears, it's Jesus' blood."
+      "sourceUrl": "http://www.wnd.com/2006/10/38499/"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "A roundhouse kick to the left"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://atheism.about.com/b/2007/05/23/chuck-norris-anti-atheist-bigot-real-christians-dont-vote-for-atheists.htm",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Norris is on a crusade, a crusade to maintain Christianity's dominance over American public policy. Whether it's chastising Americans for their (reported) willingness to elect an atheist",
       "sourceTitle": "Chuck Norris, Anti-Atheist Bigot: Real Christians Don't Vote for Atheists",
-      "text": "Norris is on a crusade, a crusade to maintain Christianity's dominance over American public policy. Whether it's chastising Americans for their (reported) willingness to elect an atheist"
+      "sourceUrl": "http://atheism.about.com/b/2007/05/23/chuck-norris-anti-atheist-bigot-real-christians-dont-vote-for-atheists.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.bibleinschools.net/About-Us/Chuck-Norris-Bringing-the-Bible-back-into-schools-WorldNet-Daily",
+      "type": "text",
+      "text": ", trying to get U.S. public schools to teach creationism and sitting on the board of directors of the National Council on Bible Curriculum in Public Schools–an organization dedicated to that cause,",
+      "parentId": 10,
       "sourceTitle": "Chuck Norris: Bringing the Bible back into schools",
-      "text": ", trying to get U.S. public schools to teach creationism and sitting on the board of directors of the National Council on Bible Curriculum in Public Schools–an organization dedicated to that cause,"
+      "sourceUrl": "http://www.bibleinschools.net/About-Us/Chuck-Norris-Bringing-the-Bible-back-into-schools-WorldNet-Daily"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2008/11/18/chuck-norris-likens-prop_n_144780.html",
+      "type": "text",
+      "text": "or holding up California's infamous Proposition 8 (the ban on gay marriage) for religious reasons,",
+      "parentId": 10,
       "sourceTitle": "Chuck Norris Likens Prop 8 Fight To Anarchy",
-      "text": "or holding up California's infamous Proposition 8 (the ban on gay marriage) for religious reasons,"
+      "sourceUrl": "http://www.huffingtonpost.com/2008/11/18/chuck-norris-likens-prop_n_144780.html"
     },
     {
-      "type": "sentence",
-      "text": "Norris' religion is Norris' politics."
+      "type": "text",
+      "text": "Norris' religion is Norris' politics.",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Chuck_Norris.php",
+      "parentId": 11,
+      "type": "text",
+      "text": "He's a staunch Republican and has donated tens of thousands of dollars to the Republican party.",
       "sourceTitle": "Chuck Norris's Federal Campaign Contribution Report",
-      "text": "He's a staunch Republican and has donated tens of thousands of dollars to the Republican party."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Chuck_Norris.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.wnd.com/2007/10/44131/",
+      "parentId": 12,
+      "type": "text",
+      "text": "In the 2008 presidential election cycle, Norris endorsed Republican Mike Huckabee,",
       "sourceTitle": "My choice for presiden",
-      "text": "In the 2008 presidential election cycle, Norris endorsed Republican Mike Huckabee,"
+      "sourceUrl": "http://www.wnd.com/2007/10/44131/"
     },
     {
-      "type": "sentence",
-      "text": "who didn't even win the primaries and when Democrat Barack Obama won the election, Norris wrote the president a letter, entitled , saying:"
+      "type": "text",
+      "text": "who didn't even win the primaries and when Democrat Barack Obama won the election, Norris wrote the president a letter, entitled",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "Obama, now that you work for me…"
+    },
+    {
+      "type": "text",
+      "text": ", saying:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.wnd.com/2008/11/80577/",
-      "sourceTitle": "Obama, now that you work for me",
-      "text": "It's no big surprise that I don't see politically eye-to-eye with you. Actually, I stand in stark opposition to most of your politics…"
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "It's no big surprise that I don't see politically eye-to-eye with you. Actually, I stand in stark opposition to most of your politics…",
+      "sourceTitle": "Obama, now that you work for me",
+      "sourceUrl": "http://www.wnd.com/2008/11/80577/"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "He went on to ask him to \"learn from the mistakes of your Democratic predecessors\" and \"lead from the center.\""
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "It would seem that all the \"Chuck Norris is awesome\" jokes may have gone to Norris' head."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

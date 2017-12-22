@@ -33,115 +33,207 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Brantley Gilbert was born and raised in Jefferson, Georgia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=h6HOeb-YuwQ",
+      "parentId": 2,
+      "type": "text",
+      "text": "Gilbert comes from a religious Christian family, and although I couldn't figure out which denomination, Baptist seems at least likely. The country musician said his mother and Jesus are tight,",
       "sourceTitle": "Brantley Gilbert-The truth on old 129 (high q).",
-      "text": "Gilbert comes from a religious Christian family, and although I couldn't figure out which denomination, Baptist seems at least likely. The country musician said his mother and Jesus are tight,"
+      "sourceUrl": "http://www.youtube.com/watch?v=h6HOeb-YuwQ"
     },
     {
-      "type": "sentence",
-      "text": "but his own devotion and reverence for God were strengthened by a near death experience."
+      "type": "text",
+      "text": "but his own devotion and reverence for God were strengthened by a near death experience.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=h6HOeb-YuwQ",
+      "parentId": 3,
+      "type": "text",
+      "text": "After getting into a serious drunk driving accident, he said he knew God saved him in order to pursue his music career–and pursue it he did.",
       "sourceTitle": "Brantley Gilbert-The truth on old 129 (high q).",
-      "text": "After getting into a serious drunk driving accident, he said he knew God saved him in order to pursue his music career–and pursue it he did."
+      "sourceUrl": "http://www.youtube.com/watch?v=h6HOeb-YuwQ"
     },
     {
-      "type": "sentence",
-      "text": "In the title track to his hit album, , in which he describes the experience, he sings that after the accident,"
+      "type": "text",
+      "text": "In the title track to his hit album,",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Halfway to Heaven"
+    },
+    {
+      "type": "text",
+      "text": ", in which he describes the experience, he sings that after the accident,",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.azlyrics.com/lyrics/brantleygilbert/halfwaytoheaven.html",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I'm in church every sunday mornin/ I pray everyday",
       "sourceTitle": "Brantley Gilbert Lyrics – Halfway To Heaven.",
-      "text": "I'm in church every sunday mornin/ I pray everyday"
+      "sourceUrl": "http://www.azlyrics.com/lyrics/brantleygilbert/halfwaytoheaven.html"
     },
     {
-      "type": "sentence",
-      "text": "Judging by the , that looks to be true. And when asked in one interview who would be the first person he'd like to thank, he said,"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "text",
+      "text": "Judging by the"
+    },
+    {
+      "parentId": 6,
+      "type": "link",
+      "text": "album cover",
+      "sourceUrl": "https://www.google.com/search?q=album+cover+halfway+to+heaven+brantley+gilbert&hl=en&rlz=1C1ASUT_enUS499US499&source=lnms&tbm=isch&sa=X&ei=OhE9UZHeE9StyAHc_IGYAQ&ved=0CAoQ_AUoAQ&biw=1366&bih=643#imgrc=IECYlPtc6giogM%3A%3B--UtlPy3jg2lyM%3Bhttp%253A%252F%252Facharts.us%252Fc%252F65562-l.jpg%3Bhttp%253A%252F%252Facharts.us%252Falbum%252F65562%3B500%3B500"
+    },
+    {
+      "type": "text",
+      "text": ", that looks to be true. And when asked in one interview who would be the first person he'd like to thank, he said,",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://tasteofcountry.com/brantley-gilbert-acm-nominee-trouble/",
-      "sourceTitle": "Brantley Gilbert Interview: ACM New Artist Nominee Reveals What Keeps Him Out of Trouble.",
-      "text": "I'd have to say God. I don't think any of this would be possible [without God]."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I'd have to say God. I don't think any of this would be possible [without God].",
+      "sourceTitle": "Brantley Gilbert Interview: ACM New Artist Nominee Reveals What Keeps Him Out of Trouble.",
+      "sourceUrl": "http://tasteofcountry.com/brantley-gilbert-acm-nominee-trouble/"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "I'm sure he made his mama proud."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.politico.com/blogs/click/2012/10/mitt-romneys-campaign-rally-play-list-147738.html",
+      "parentId": 10,
+      "type": "text",
+      "text": "God Bless the Troops"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Gilbert isn't expressly political even though he made it onto Republican Mitt Romney's campaign song list in 2012.",
       "sourceTitle": "Mitt Romney's campaign rally playlist.",
-      "text": "Gilbert isn't expressly political even though he made it onto Republican Mitt Romney's campaign song list in 2012."
+      "sourceUrl": "http://www.politico.com/blogs/click/2012/10/mitt-romneys-campaign-rally-play-list-147738.html"
     },
     {
-      "type": "sentence",
-      "text": "It doesn't look like he's made any campaign contributions, and his Twitter feed makes no mention of partisan politics, although he seems to use it as more of a promotional tool than a record of his stream of consciousness."
+      "type": "text",
+      "text": "It doesn't look like he's made any campaign contributions, and his Twitter feed makes no mention of partisan politics, although he seems to use it as more of a promotional tool than a record of his stream of consciousness.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "If there's one issue he seems to be dedicated to though, it's his respect for the troops. On July 4th in 2012, he tweeted a shout-out:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 13
     },
     {
-      "type": "quote",
-      "sourceUrl": "https://twitter.com/BrantleyGilbert/status/220550393095131136",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Happy Independence Day BG Nation…. God Bless America and more importantly our Troops….!",
       "sourceTitle": "BrantleyGilbert: Happy Independence Day BG …",
-      "text": "Happy Independence Day BG Nation…. God Bless America and more importantly our Troops….!"
+      "sourceUrl": "https://twitter.com/BrantleyGilbert/status/220550393095131136"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://kixs.com/brantley-gilbert-helps-out-the-boot-campaign/",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "He has worked with the Boot Campaign which raises awareness and money to help soldiers transition to civilian life after combat.",
       "sourceTitle": "Brantley Gilbert Helps Out The Boot Campaign.",
-      "text": "He has worked with the Boot Campaign which raises awareness and money to help soldiers transition to civilian life after combat."
+      "sourceUrl": "http://kixs.com/brantley-gilbert-helps-out-the-boot-campaign/"
     },
     {
-      "type": "sentence",
-      "text": "He also took time out of his touring schedule to visit with and play a few tunes for hospitalized veterans. He said about the experience,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He also took time out of his touring schedule to visit with and play a few tunes for hospitalized veterans. He said about the experience,",
+      "parentId": 15
     },
     {
       "type": "quote",
-      "sourceUrl": "http://newyork.cbslocal.com/2012/11/28/brantley-gilbert-visits-with-u-s-veterans/",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "These men and women have sacrificed their lives for our freedom. . . . I have so much respect for them. It was an honor to be able to spend time with them and hopefully brighten their day a little. I know it has certainly changed my life.",
       "sourceTitle": "Brantley Gilbert Visits With U.S. Veterans.",
-      "text": "These men and women have sacrificed their lives for our freedom. . . . I have so much respect for them. It was an honor to be able to spend time with them and hopefully brighten their day a little. I know it has certainly changed my life."
+      "sourceUrl": "http://newyork.cbslocal.com/2012/11/28/brantley-gilbert-visits-with-u-s-veterans/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "It might not be a political position per se, but it definitely shows some dedication to his country and pride for his military."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

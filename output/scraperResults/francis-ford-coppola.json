@@ -33,79 +33,139 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Francis Ford Coppola was born in Detroit, Michigan and raised in Queens, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pc/Francis_Ford_Coppola.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Coppola's heritage is fully Italian–and by association, fully Catholic. You can obviously see the influence in his films, explicitly such as in the"
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "Godfather"
+    },
+    {
+      "type": "text",
+      "text": "trilogy where members of the Mafia often adhere to ancient and archaic Catholic traditions, mythology and symbology. But film scholars also argue that some of Coppola's other films, such as",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "The Conversation"
+    },
+    {
+      "type": "text",
+      "text": ", implicitly contain Catholic themes as well.",
+      "parentId": 2,
       "sourceTitle": "The religion of Francis Ford Coppola",
-      "text": "Coppola's heritage is fully Italian–and by association, fully Catholic. You can obviously see the influence in his films, explicitly such as in the  trilogy where members of the Mafia often adhere to ancient and archaic Catholic traditions, mythology and symbology. But film scholars also argue that some of Coppola's other films, such as , implicitly contain Catholic themes as well."
+      "sourceUrl": "http://www.adherents.com/people/pc/Francis_Ford_Coppola.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "However, Coppola isn't a Catholic anymore and we're not quite sure what he is–but he's religious somehow. He once said, after being asked if he was religious:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.nytimes.com/2007/12/16/magazine/16wwln-Q4-t.html",
-      "sourceTitle": "Francis Ford Coppola – Deborah Solomon",
-      "text": "I think I am very religious… I was raised as a Catholic, but I didn't like the Catholic Church at all. I thought the nuns were mean… I sort of think that the people I have loved and lost are somehow still there. I can't believe that something so specific is gone."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I think I am very religious… I was raised as a Catholic, but I didn't like the Catholic Church at all. I thought the nuns were mean… I sort of think that the people I have loved and lost are somehow still there. I can't believe that something so specific is gone.",
+      "sourceTitle": "Francis Ford Coppola – Deborah Solomon",
+      "sourceUrl": "http://www.nytimes.com/2007/12/16/magazine/16wwln-Q4-t.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "So we are left with a vague, ambiguous sense of spirituality from Coppola. But we'd be remiss to ignore the heavy influence Catholicism has played in his life and on his work."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "San Francisco politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000338/bio",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Coppola now resides in San Francisco, California",
       "sourceTitle": "Francis Ford Coppola – Biography",
-      "text": "Coppola now resides in San Francisco, California"
+      "sourceUrl": "http://www.imdb.com/name/nm0000338/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Francis_Ford_Coppola.php",
+      "type": "text",
+      "text": "–perhaps the brightest beacon of liberal progressivism in the world. And he seems to fit in nicely. For example, Coppola is a confirmed Democrat. His financial political contributions are 100% Democrat, totaling $8,518. Interestingly, no contributions to Obama. And perhaps more interestingly, all of the candidates to which Coppola has given money have won.",
+      "parentId": 8,
       "sourceTitle": "Francis Ford Coppola's Federal Campaign Contribution Report",
-      "text": "–perhaps the brightest beacon of liberal progressivism in the world. And he seems to fit in nicely. For example, Coppola is a confirmed Democrat. His financial political contributions are 100% Democrat, totaling $8,518. Interestingly, no contributions to Obama. And perhaps more interestingly, all of the candidates to which Coppola has given money have won."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Francis_Ford_Coppola.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Coppola is suspicious of power, understanding its ability to corrupt. And as a rich and influential man, Coppola has considered trying to tip the political scales but thought better of it. Speaking of his influence in his adopted hometown, he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000338/bio",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "What if I and five other powerful guys with cigars got together in a smoke-filled room to decide who would be the next mayor of San Francisco? We'd do it because we're good guys and we really want the city to be wonderful for everybody. Then I thought, what's the difference between five good guys holding that kind of power and five bad guys? Just good intentions, and intentions can be corrupted.",
       "sourceTitle": "Francis Ford Coppola – Biography",
-      "text": "What if I and five other powerful guys with cigars got together in a smoke-filled room to decide who would be the next mayor of San Francisco? We'd do it because we're good guys and we really want the city to be wonderful for everybody. Then I thought, what's the difference between five good guys holding that kind of power and five bad guys? Just good intentions, and intentions can be corrupted."
+      "sourceUrl": "http://www.imdb.com/name/nm0000338/bio"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Now that's an impressive display of restraint and wisdom."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

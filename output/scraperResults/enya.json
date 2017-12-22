@@ -34,120 +34,168 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Enya, whose real name is Eithne Ní Bhraonáin, was born and raised in Gaoth Dobhair, County Donegal, Ireland."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.musicandmeaning.com/site/enya_ksca_2.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Unsurprisingly, considering she's Irish, Enya was raised a Catholic.",
       "sourceTitle": "Enya interview on KSCA-FM (transcript) – Part 2",
-      "text": "Unsurprisingly, considering she's Irish, Enya was raised a Catholic."
+      "sourceUrl": "http://www.musicandmeaning.com/site/enya_ksca_2.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.musicandmeaning.com/site/enya_ksca_2.html",
+      "type": "text",
+      "text": "As an adult, she finds herself in a sort of purgatory when it comes to the religion of her upbringing. It seems that, in a way, she's held on to Catholicism, but in a way, she's let go of it. She has said she had \"derived from religion\" what she \"enjoys\"",
+      "parentId": 2,
       "sourceTitle": "Enya interview on KSCA-FM (transcript) – Part 2",
-      "text": "As an adult, she finds herself in a sort of purgatory when it comes to the religion of her upbringing. It seems that, in a way, she's held on to Catholicism, but in a way, she's let go of it. She has said she had \"derived from religion\" what she \"enjoys\""
+      "sourceUrl": "http://www.musicandmeaning.com/site/enya_ksca_2.html"
     },
     {
-      "type": "sentence",
-      "text": "and left out the rest:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and left out the rest:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.enyabookofdays.com/articles/ptsws-12.htm",
-      "sourceTitle": "Enya: Paint the Sky with Stars",
-      "text": "It's difficult when you've been brought up Catholic to turn completely away from it… I've been known to go to church when there's nobody else there. It's very therapeutic when it's quite empty. It's so hard in a moment of despair not to say a prayer."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "It's difficult when you've been brought up Catholic to turn completely away from it… I've been known to go to church when there's nobody else there. It's very therapeutic when it's quite empty. It's so hard in a moment of despair not to say a prayer.",
+      "sourceTitle": "Enya: Paint the Sky with Stars",
+      "sourceUrl": "http://www.enyabookofdays.com/articles/ptsws-12.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Then, at other times, she expresses a real distance from organized religion and claims only to be a \"spiritual\" person:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://music.barnesandnoble.com/search/interview.asp?CTR=68231",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I consider myself to be a spiritual person, not necessarily a religious one, although I have to say that one of the highlights of my career was when I performed at the Vatican for the Pope and had an audience with him. My core beliefs would revolve around the idea that we should live to the best of our abilities — we should live and let live.",
       "sourceTitle": "Enya Interview",
-      "text": "I consider myself to be a spiritual person, not necessarily a religious one, although I have to say that one of the highlights of my career was when I performed at the Vatican for the Pope and had an audience with him. My core beliefs would revolve around the idea that we should live to the best of our abilities — we should live and let live."
+      "sourceUrl": "http://music.barnesandnoble.com/search/interview.asp?CTR=68231"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cnn.com/SHOWBIZ/Music/9601/Enya/index.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "There is an undeniable spiritual quality to Enya's music, and she acknowledges it, even admitting that spirituality inspires her creatively.",
       "sourceTitle": "Enya's music inspired by faith",
-      "text": "There is an undeniable spiritual quality to Enya's music, and she acknowledges it, even admitting that spirituality inspires her creatively."
+      "sourceUrl": "http://www.cnn.com/SHOWBIZ/Music/9601/Enya/index.html"
     },
     {
-      "type": "sentence",
-      "text": "And, her music is usually described as \"New Age,\" which is not only genre in the arts, but a sort of spiritual movement. Though, I can't find anything to suggest that Enya herself follows any sort of New Age philosophy–if there is such a thing."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And, her music is usually described as \"New Age,\" which is not only genre in the arts, but a sort of spiritual movement. Though, I can't find anything to suggest that Enya herself follows any sort of New Age philosophy–if there is such a thing.",
+      "parentId": 8
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Politics and privacy"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/2008%E2%80%932012_Irish_financial_crisis",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Enya seems the thoughtful type. I have no doubt she has political views, possibly about her country's fiscal problems,",
       "sourceTitle": "2008-2012 Irish fiscal crisis",
-      "text": "Enya seems the thoughtful type. I have no doubt she has political views, possibly about her country's fiscal problems,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/2008%E2%80%932012_Irish_financial_crisis"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/The_Troubles",
+      "type": "text",
+      "text": "her country's long history of violence, known as \"The Troubles,\"",
+      "parentId": 10,
       "sourceTitle": "The Troubles",
-      "text": "her country's long history of violence, known as \"The Troubles,\""
+      "sourceUrl": "http://en.wikipedia.org/wiki/The_Troubles"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.showbiz.ie/news/november00/23-enya02.shtml",
+      "type": "text",
+      "text": "some of which she must have witnessed. But she's not talking. In fact, this mega-star–the richest woman in Ireland–is notoriously private and reserved.",
+      "parentId": 10,
       "sourceTitle": "Enya, Ireland's richest woman, A Day Without Rain",
-      "text": "some of which she must have witnessed. But she's not talking. In fact, this mega-star–the richest woman in Ireland–is notoriously private and reserved."
+      "sourceUrl": "http://www.showbiz.ie/news/november00/23-enya02.shtml"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cornel1801.com/enya/biography.html",
+      "parentId": 11,
+      "type": "text",
+      "text": "She is a generous donor to various charities, mostly involving sick children, but interestingly, the New York City Uniformed Firefighters Association's Widows and Children Fund,",
       "sourceTitle": "Enya",
-      "text": "She is a generous donor to various charities, mostly involving sick children, but interestingly, the New York City Uniformed Firefighters Association's Widows and Children Fund,"
+      "sourceUrl": "http://www.cornel1801.com/enya/biography.html"
     },
     {
-      "type": "sentence",
-      "text": "indicating, perhaps that she was moved by the events of Sept. 11, 2001 in the U.S."
+      "type": "text",
+      "text": "indicating, perhaps that she was moved by the events of Sept. 11, 2001 in the U.S.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://lesien.free.fr/DomLibrary/quotes09.htm",
+      "parentId": 12,
+      "type": "text",
+      "text": "She's a favorite of the King of Sweden too,",
       "sourceTitle": "Enya Music of Dreams",
-      "text": "She's a favorite of the King of Sweden too,"
+      "sourceUrl": "http://lesien.free.fr/DomLibrary/quotes09.htm"
     },
     {
-      "type": "sentence",
-      "text": "but is that even a political position?"
+      "type": "text",
+      "text": "but is that even a political position?",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "If there's something we've missed, please do let us know."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

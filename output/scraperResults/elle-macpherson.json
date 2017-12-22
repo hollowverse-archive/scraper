@@ -36,109 +36,176 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Elle Macpherson, whose name at birth was Eleanor Gow, was born and raised in Sydney, Australia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Australia",
+      "parentId": 2,
+      "type": "text",
+      "text": "Macpherson described the education of her youth as \"academic and religious\" and her upbringing as \"liberal '70s. . . but with a religious twist.\" (("
+    },
+    {
+      "parentId": 2,
+      "type": "link",
+      "text": "Elle Macpherson Visits (3-13-12).",
+      "sourceUrl": "http://www.youtube.com/watch?v=HPdHaXf1b04"
+    },
+    {
+      "type": "text",
+      "text": "YouTube.)) The rub is that she never said what religion, and I couldn't figure it out for the life of me. Considering most of the religious people in Australia are Christian",
+      "parentId": 2,
       "sourceTitle": "Religion in Australia.",
-      "text": "Macpherson described the education of her youth as \"academic and religious\" and her upbringing as \"liberal '70s. . . but with a religious twist.\" (( YouTube.)) The rub is that she never said what religion, and I couldn't figure it out for the life of me. Considering most of the religious people in Australia are Christian"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Australia"
     },
     {
-      "type": "sentence",
-      "text": "and she wasn't raised Catholic, it's a safe bet that she was raised in some Protestant religion."
+      "type": "text",
+      "text": "and she wasn't raised Catholic, it's a safe bet that she was raised in some Protestant religion.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1033896/Why-Uma-Thurman-feeling-insecure-engagement-Arpad-Arki-Busson.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Regardless of all that, apparently she converted to Catholicism after she began dating French businessman Arpad Busson, the father of her children. (It wasn't quite enough for him though. He wouldn't marry her because she had been divorced.)",
       "sourceTitle": "Why is Uma Thurman feeling so insecure about her engagement to Arpad 'Arki' Busson?",
-      "text": "Regardless of all that, apparently she converted to Catholicism after she began dating French businessman Arpad Busson, the father of her children. (It wasn't quite enough for him though. He wouldn't marry her because she had been divorced.)"
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1033896/Why-Uma-Thurman-feeling-insecure-engagement-Arpad-Arki-Busson.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Perhaps her devotion to Catholicism walked out the door with Busson when the two broke up, because she doesn't give any indication of being particularly religious now. Even when she mentioned God in one interview, she used the term synonymously with \"Mother Nature,\" making her sound more like a pantheist than a Catholic. Talking about turning 40, she said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.examiner.com/article/elle-macpherson-talks-about-fashion-star-and-her-supermodel-detour",
-      "sourceTitle": "Elle Macpherson talks about 'Fashion Star' and her supermodel detour.",
-      "text": "It's truly a gift from God. . . that my eyesight went about the same time as the elasticity in my skin. . . . I just feel I've been totally blessed with having the two go at the same time because I don't see it so much. Mother Nature was good to me."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "It's truly a gift from God. . . that my eyesight went about the same time as the elasticity in my skin. . . . I just feel I've been totally blessed with having the two go at the same time because I don't see it so much. Mother Nature was good to me.",
+      "sourceTitle": "Elle Macpherson talks about 'Fashion Star' and her supermodel detour.",
+      "sourceUrl": "http://www.examiner.com/article/elle-macpherson-talks-about-fashion-star-and-her-supermodel-detour"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "As a side note, she was accused of antisemitism during an interview with Howard Stern. After talking about how many Jewish men she had dated and how she \"loves Jewish boys,\" in response to some heckling from Stern, she said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=HPdHaXf1b04",
-      "sourceTitle": "Elle Macpherson Visits (3-13-12).",
-      "text": "Howard, I think you are just being absolutely Jewish! . . . You're being overprotective! You sound like a nagging mother!"
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Howard, I think you are just being absolutely Jewish! . . . You're being overprotective! You sound like a nagging mother!",
+      "sourceTitle": "Elle Macpherson Visits (3-13-12).",
+      "sourceUrl": "http://www.youtube.com/watch?v=HPdHaXf1b04"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Take that as you will, and feel free to debate its meaning in the comments."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "A socialist, of course"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Macpherson doesn't talk about politics all that much, but she's still got some opinions. When asked who she thought would win the 2012 presidential election in the U.S., the model said she was pretty sure Obama would come out ahead. Then when asked if she liked him, she said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=HPdHaXf1b04",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Yeah, I'm living in London and I'm socialist. What do you expect?",
       "sourceTitle": "Elle Macpherson Visits (3-13-12).",
-      "text": "Yeah, I'm living in London and I'm socialist. What do you expect?"
+      "sourceUrl": "http://www.youtube.com/watch?v=HPdHaXf1b04"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=HPdHaXf1b04",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "She went on to say that she thought people like Obama because of his policies and not his image,",
       "sourceTitle": "Elle Macpherson Visits (3-13-12).",
-      "text": "She went on to say that she thought people like Obama because of his policies and not his image,"
+      "sourceUrl": "http://www.youtube.com/watch?v=HPdHaXf1b04"
     },
     {
-      "type": "sentence",
-      "text": "but whether or not she thinks his policies are actually socialist remains a little unclear."
+      "type": "text",
+      "text": "but whether or not she thinks his policies are actually socialist remains a little unclear.",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blogs.courier-journal.com/watchdogearth/2012/06/20/elle-macpherson-on-coal-senate-rejects-bill-to-curb-epa-on-mercury/",
+      "parentId": 16,
+      "type": "text",
+      "text": "And although I couldn't find any opinion from Macpherson about politics in her home country or the country of her residence, she's been involved in some environmental activism,",
       "sourceTitle": "Elle Macpherson on coal; Senate rejects bill to curb EPA on mercury.",
-      "text": "And although I couldn't find any opinion from Macpherson about politics in her home country or the country of her residence, she's been involved in some environmental activism,"
+      "sourceUrl": "http://blogs.courier-journal.com/watchdogearth/2012/06/20/elle-macpherson-on-coal-senate-rejects-bill-to-curb-epa-on-mercury/"
     },
     {
-      "type": "sentence",
-      "text": "so we'll go ahead and solidify her spot as another liberal starlet."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "so we'll go ahead and solidify her spot as another liberal starlet.",
+      "parentId": 16
     }
   ],
   "wikipediaData": {

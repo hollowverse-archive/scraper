@@ -34,96 +34,172 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rte.ie/ten/2008/0208/gibsonm.html",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
+      "text": "Mel Gibson grew up in New York and Australia in a giant Catholic family of 11 children. Mel was even named after a saint.",
       "sourceTitle": "Mel Gibson to be honoured at IFTA ceremony.",
-      "text": "Mel Gibson grew up in New York and Australia in a giant Catholic family of 11 children. Mel was even named after a saint."
+      "sourceUrl": "http://www.rte.ie/ten/2008/0208/gibsonm.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Traditionalist_Catholic",
+      "parentId": 2,
+      "type": "text",
+      "text": "Gibson has taken a lot of criticism for his religious views. He belongs to a small sect of Catholicism called Catholic Traditionalism.",
       "sourceTitle": "Traditionalist Catholic",
-      "text": "Gibson has taken a lot of criticism for his religious views. He belongs to a small sect of Catholicism called Catholic Traditionalism."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Traditionalist_Catholic"
     },
     {
-      "type": "sentence",
-      "text": "Gibson has said that mainstream Catholicism got it all wrong:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Gibson has said that mainstream Catholicism got it all wrong:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.adl.org/Interfaith/gibson_ii.asp",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I probably sound like some egotist, you know, saying that the Roman Church is wrong, but I believe it is at the moment, since Vatican II.",
       "sourceTitle": "Mel Gibson in his Own Words",
-      "text": "I probably sound like some egotist, you know, saying that the Roman Church is wrong, but I believe it is at the moment, since Vatican II."
+      "sourceUrl": "http://www.adl.org/Interfaith/gibson_ii.asp"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Hutton_Gibson",
+      "parentId": 5,
+      "type": "text",
+      "text": "Really, you went there?"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Traditionalist Catholicism was actually started by Gibson's father, Hutton Gibson",
       "sourceTitle": "Hutton Gibson",
-      "text": "Traditionalist Catholicism was actually started by Gibson's father, Hutton Gibson"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Hutton_Gibson"
     },
     {
-      "type": "sentence",
-      "text": ", who was a rabid anti-Semite. He denies that the holocaust ever happened and said of the Jews in Germany during World War II:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": ", who was a rabid anti-Semite. He denies that the holocaust ever happened and said of the Jews in Germany during World War II:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.rickross.com/reference/general/general645.html",
-      "sourceTitle": "The extreme religious sect that fueled the passion of Mel Gibson",
-      "text": "They simply got up and left! They were all over the Bronx and Brooklyn and Sydney, Australia, and Los Angeles."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "They simply got up and left! They were all over the Bronx and Brooklyn and Sydney, Australia, and Los Angeles.",
+      "sourceTitle": "The extreme religious sect that fueled the passion of Mel Gibson",
+      "sourceUrl": "http://www.rickross.com/reference/general/general645.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Mel Gibson is no stranger to controversial quotes himself. He's weighed in on everything from abortion to women's equality. He has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://lippard.blogspot.com/2005/12/mel-gibson-on-evolution-women-and.html",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I'll get kicked around for saying it, but men and women are just different. They're not equal.",
       "sourceTitle": "The Lippard Blog: Mel Gibson on evolution, women, and political conspiracy theory",
-      "text": "I'll get kicked around for saying it, but men and women are just different. They're not equal."
+      "sourceUrl": "http://lippard.blogspot.com/2005/12/mel-gibson-on-evolution-women-and.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
+      "text": "We're all stupid sheep"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "When it comes to politics, Gibson thinks it's all a show. Presidents and Prime Ministers are all puppets of some grand master who runs the world from the shadows. When asked what he thought of then-president Bill Clinton, he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://lippard.blogspot.com/2005/12/mel-gibson-on-evolution-women-and.html",
-      "sourceTitle": "The Lippard Blog: Mel Gibson on evolution, women, and political conspiracy theory",
-      "text": "The guy who's in charge isn't going to be the front man, ever. If I were going to be calling the shots I wouldn't make an appearance. Would you? You'd end up losing your head. It happens all the time. All those monarchs. If he's the leader, he's getting shafted. What's keeping him in there? Why would you stay for that kind of abuse? Except that he has to stay for some reason. He (Clinton) was meant to be the president 30 years ago, if you ask me."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "The guy who's in charge isn't going to be the front man, ever. If I were going to be calling the shots I wouldn't make an appearance. Would you? You'd end up losing your head. It happens all the time. All those monarchs. If he's the leader, he's getting shafted. What's keeping him in there? Why would you stay for that kind of abuse? Except that he has to stay for some reason. He (Clinton) was meant to be the president 30 years ago, if you ask me.",
+      "sourceTitle": "The Lippard Blog: Mel Gibson on evolution, women, and political conspiracy theory",
+      "sourceUrl": "http://lippard.blogspot.com/2005/12/mel-gibson-on-evolution-women-and.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Other than that, it's standard Catholic stuff. Abortion is wrong, birth control is wrong, everybody who isn't Catholic is going to hell–pretty standard. When asked about these issues, he said they weren't even worth debating:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 17
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://lippard.blogspot.com/2005/12/mel-gibson-on-evolution-women-and.html",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "People always focus on stuff like that. Those aren't issues. Those are unquestionable. You don't even argue those points.",
       "sourceTitle": "The Lippard Blog: Mel Gibson on evolution, women, and political conspiracy theory",
-      "text": "People always focus on stuff like that. Those aren't issues. Those are unquestionable. You don't even argue those points."
+      "sourceUrl": "http://lippard.blogspot.com/2005/12/mel-gibson-on-evolution-women-and.html"
     }
   ],
   "wikipediaData": {

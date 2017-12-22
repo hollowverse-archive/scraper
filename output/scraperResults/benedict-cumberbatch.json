@@ -31,108 +31,183 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Benedict Cumberbatch was born and raised in London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "We don't have a whole lot to go on with Cumberbatch's religion. It's about as hard to find anything about his personal philosophy as it is to say his name ten times fast. But I'll do my best."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Cumberbatch spent a year teaching English at a Tibetan monastery before he attended University. He says this about how the monks influenced him:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.benedictcumberbatch.co.uk/shifting-sherlock-holmes-in.html",
-      "sourceTitle": "Shifting Sherlock Holmes into the 21st century.",
-      "text": "They taught me about the duplicity of human nature but also the humanity of it and the ridiculous sense of humour you need to live a full spiritual life."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "They taught me about the duplicity of human nature but also the humanity of it and the ridiculous sense of humour you need to live a full spiritual life.",
+      "sourceTitle": "Shifting Sherlock Holmes into the 21st century.",
+      "sourceUrl": "http://www.benedictcumberbatch.co.uk/shifting-sherlock-holmes-in.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "That would imply he thinks highly of the \"spiritual life,\" making it unlikely that he's an atheist. Regardless, he seems to have a lot of respect for the Buddhists with whom he spent a year of his life. But that doesn't make him a Buddhist."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "The only other sort of religious comment I found didn't clear anything up. During an interview in Los Angeles, he explained, sarcastically, how hard it was to find someone to do him a favor in England around the holidays:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://trekmovie.com/2012/04/27/benedict-cumberbatch-auditioned-for-star-trek-sequel-with-iphone/",
-      "sourceTitle": "Benedict Cumberbatch Auditioned For Star Trek With iPhone + Talks About Shooting At Bud Plant.",
-      "text": "We observe this little Judeo-Christian cult holiday called Christmas. Whereas, you know, some kids in this part of town [Los Angeles] with their Crackberrys, don't."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "We observe this little Judeo-Christian cult holiday called Christmas. Whereas, you know, some kids in this part of town [Los Angeles] with their Crackberrys, don't.",
+      "sourceTitle": "Benedict Cumberbatch Auditioned For Star Trek With iPhone + Talks About Shooting At Bud Plant.",
+      "sourceUrl": "http://trekmovie.com/2012/04/27/benedict-cumberbatch-auditioned-for-star-trek-sequel-with-iphone/"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Sarcasm can be a tough thing to gauge, and he could either have been saying that from the perspective of one who celebrates Christmas or not. Regardless, he doesn't appear to take it so seriously as to avoid making fun of it."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "A Posh Man for the Common Man"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Cumberbatch's opinion on politics is a little easier to decipher. He tends to play \"posh\" roles that make him seem removed from the common Brit. And he didn't endear himself to the working class any more by complaining about how people are always bashing the upper class:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.co.uk/2012/08/14/sherlock-benedict-cumberbatch-posh_n_1774576.html",
-      "sourceTitle": "Sherlock Actor Benedict Cumberbatch Wants To Quit UK Over 'Posh-Bashing.'",
-      "text": "[I'm] castigated as a moaning, rich, public-school bastard, complaining about only getting posh roles. . . . It's just so predictable. . . so domestic, and so dumb. . . . It makes me think I want to go to America."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "[I'm] castigated as a moaning, rich, public-school bastard, complaining about only getting posh roles. . . . It's just so predictable. . . so domestic, and so dumb. . . . It makes me think I want to go to America.",
+      "sourceTitle": "Sherlock Actor Benedict Cumberbatch Wants To Quit UK Over 'Posh-Bashing.'",
+      "sourceUrl": "http://www.huffingtonpost.co.uk/2012/08/14/sherlock-benedict-cumberbatch-posh_n_1774576.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "But that doesn't mean he's conservative. He's just as willing to bash David Cameron as other people seem willing to bash him. When talking about his country during World War I, he said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/culture/tvandradio/9509662/Benedict-Cumberbatch-takes-a-swipe-at-flatulent-David-Cameron.html",
-      "sourceTitle": "Benedict Cumberbatch takes a swipe at 'flatulent' David Cameron.",
-      "text": "Everyone was held in their place, but what was honourable about it was that there was a duty of care from the top down. That shouldn't be tied in with any sort of fat-faced, flatulent Cameron effort at what Toryism – horribly – is now."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Everyone was held in their place, but what was honourable about it was that there was a duty of care from the top down. That shouldn't be tied in with any sort of fat-faced, flatulent Cameron effort at what Toryism – horribly – is now.",
+      "sourceTitle": "Benedict Cumberbatch takes a swipe at 'flatulent' David Cameron.",
+      "sourceUrl": "http://www.telegraph.co.uk/culture/tvandradio/9509662/Benedict-Cumberbatch-takes-a-swipe-at-flatulent-David-Cameron.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "He also demonstrated his liberal worldview by speaking at a rally of public sector workers protesting government spending cuts. He spoke to the crowd of several thousand in support of the Arts Council. In an interview after the event, he stated why he believes the government should subsidize certain services:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=PZj8EMbjorI&feature=related",
+      "id": 19
+    },
+    {
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "Because you have more money, doesn't mean should be entitled to more health care and more art or culture. . . . I selfishly as a performer would like to perform to as diverse a crowd as possible.",
       "sourceTitle": "Benedict Cumberlatch on the Government cuts.",
-      "text": "Because you have more money, doesn't mean should be entitled to more health care and more art or culture. . . . I selfishly as a performer would like to perform to as diverse a crowd as possible."
+      "sourceUrl": "http://www.youtube.com/watch?v=PZj8EMbjorI&feature=related"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "Considering the U.K. subsidizes a whole lot more than the U.S., maybe he should stick to his side of the Atlantic."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

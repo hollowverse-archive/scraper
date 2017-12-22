@@ -36,137 +36,232 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Tori Amos, born Myra Ellen Amos, was born in Newton, North Carolina and grew up in various places in the U.S. state of Maryland."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.news.com.au/entertainment/music/tori-amos-still-battling-sin-and-the-church/story-e6frfn09-1225790284054",
+      "parentId": 2,
+      "type": "text",
+      "text": "Amos was raised a Methodist and her father is, to this day, a Methodist preacher.",
       "sourceTitle": "Tori Amos still battling sin and the church",
-      "text": "Amos was raised a Methodist and her father is, to this day, a Methodist preacher."
+      "sourceUrl": "http://www.news.com.au/entertainment/music/tori-amos-still-battling-sin-and-the-church/story-e6frfn09-1225790284054"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2012/10/tori-amos-i-chose-to-look-at-christianity-as-another-myth/",
+      "type": "text",
+      "text": "She describes her religious upbringing as quite strict,",
+      "parentId": 2,
       "sourceTitle": "Tori Amos: 'I chose to look at Christianity as another myth.'",
-      "text": "She describes her religious upbringing as quite strict,"
+      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2012/10/tori-amos-i-chose-to-look-at-christianity-as-another-myth/"
     },
     {
-      "type": "sentence",
-      "text": "and it apparently didn't sit well with her because as an adult, Amos appears to have largely rejected Christianity and organized religion in favor of a more Native American-inspired pantheistic belief system:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and it apparently didn't sit well with her because as an adult, Amos appears to have largely rejected Christianity and organized religion in favor of a more Native American-inspired pantheistic belief system:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2012/10/tori-amos-i-chose-to-look-at-christianity-as-another-myth/",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I have built my world through Native American mythology. Growing up in a strict Methodist household in Maryland, there was no room for me to explore spirituality. When I got older, I chose to look at Christianity as another myth.",
       "sourceTitle": "Tori Amos: 'I chose to look at Christianity as another myth.'",
-      "text": "I have built my world through Native American mythology. Growing up in a strict Methodist household in Maryland, there was no room for me to explore spirituality. When I got older, I chose to look at Christianity as another myth."
+      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2012/10/tori-amos-i-chose-to-look-at-christianity-as-another-myth/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://books.google.com/books?id=wP3xiglTL2EC&pg=PA2&lpg=PA2&dq=Tori+Amos+Calvin+Clinton+Copeland&source=bl&ots=d8GJlJzOnq&sig=MXxbcv0u3W7EOBncUGi0sMcxfX8&hl=en&sa=X&ei=i62IUfdVgoyKArnsgJgG&ved=0CFMQ6AEwBA#v=onepage&q=Tori%20Amos%20Calvin%20Clinton%20Copeland&f=false",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "This came from Amos' maternal grandparents, particularly her grandfather, who were part Cherokee and guided Amos toward the Native American worldview.",
       "sourceTitle": "Pretty Good Years: A Biography of Tori Amos by Jay S. Jacobs",
-      "text": "This came from Amos' maternal grandparents, particularly her grandfather, who were part Cherokee and guided Amos toward the Native American worldview."
+      "sourceUrl": "http://books.google.com/books?id=wP3xiglTL2EC&pg=PA2&lpg=PA2&dq=Tori+Amos+Calvin+Clinton+Copeland&source=bl&ots=d8GJlJzOnq&sig=MXxbcv0u3W7EOBncUGi0sMcxfX8&hl=en&sa=X&ei=i62IUfdVgoyKArnsgJgG&ved=0CFMQ6AEwBA#v=onepage&q=Tori%20Amos%20Calvin%20Clinton%20Copeland&f=false"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "Still, Amos' Christian background seeps into the lyrical imagery of her music. Take some lyrics from her song, \"Crucify,\" for example:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.lyricsfreak.com/t/tori+amos/crucify_20139485.html",
-      "sourceTitle": "Crucify Lyrics – Tori Amos",
-      "text": "I've been looking for a savior in these dirty streets/Looking for a savior beneath these dirty sheets/I've been raising up my hands/Drive another nail in/Got enough guilt to start/My own religion."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I've been looking for a savior in these dirty streets/Looking for a savior beneath these dirty sheets/I've been raising up my hands/Drive another nail in/Got enough guilt to start/My own religion.",
+      "sourceTitle": "Crucify Lyrics – Tori Amos",
+      "sourceUrl": "http://www.lyricsfreak.com/t/tori+amos/crucify_20139485.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Ultimately, Amos is a very spiritual person who carries her past and current faith around with her and expresses it through her art. Let's hope her politics are equally stimulating."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Not a fan of \"King George\""
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "It's quite apparent that Amos is liberal. In fact, she seems to see herself and the left locked in battle with those evil right-wingers. She said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "The way to really combat the right wing is to not be subservient to them on any level, particularly when it comes to ideology. Therefore, you better offer up another ideology that can combat theirs, and as a preacher's daughter, I understand their ideology inside and out.",
+      "sourceTitle": "Tori Amos Forms Anti-Bush Posse By Mutating Into Greek Goddesses",
+      "sourceUrl": "http://www.mtv.com/news/articles/1556300/tori-amos-forms-anti-bush-posse.jhtml"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "She was speaking of the American Christian right's penchant for invoking God in its politics."
+    },
+    {
+      "type": "text",
+      "text": "Clearly, she's not a fan of that approach.",
+      "parentId": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "These comments came in the wake of the release of her 2007 album,"
+    },
+    {
+      "parentId": 15,
+      "type": "emphasis",
+      "text": "American Doll Posse"
+    },
+    {
+      "type": "text",
+      "text": ", for which Amos penned a number of anti-George Bush songs. The opening track of this record is called \"Yo George,\" which opens with the lyric:",
+      "parentId": 15
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.mtv.com/news/articles/1556300/tori-amos-forms-anti-bush-posse.jhtml",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Where have we gone wrong, America?/Is this just the madness of King George?",
       "sourceTitle": "Tori Amos Forms Anti-Bush Posse By Mutating Into Greek Goddesses",
-      "text": "The way to really combat the right wing is to not be subservient to them on any level, particularly when it comes to ideology. Therefore, you better offer up another ideology that can combat theirs, and as a preacher's daughter, I understand their ideology inside and out."
+      "sourceUrl": "http://www.mtv.com/news/articles/1556300/tori-amos-forms-anti-bush-posse.jhtml"
     },
     {
-      "type": "sentence",
-      "text": "Clearly, she's not a fan of that approach."
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "break"
-    },
-    {
-      "type": "sentence",
-      "text": "These comments came in the wake of the release of her 2007 album, , for which Amos penned a number of anti-George Bush songs. The opening track of this record is called \"Yo George,\" which opens with the lyric:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.mtv.com/news/articles/1556300/tori-amos-forms-anti-bush-posse.jhtml",
-      "sourceTitle": "Tori Amos Forms Anti-Bush Posse By Mutating Into Greek Goddesses",
-      "text": "Where have we gone wrong, America?/Is this just the madness of King George?"
-    },
-    {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "But does her contempt for the right wing translate into allegiance to the Democrats? We're silly to even ask. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.co.uk/2012/09/27/tori-amos-new-album-gold-dust-interview_n_1919068.html",
+      "id": 19
+    },
+    {
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "I voted for Obama, of course.",
       "sourceTitle": "Tori Amos Interview: Her New Album 'Gold Dust', US Politics and the Dark Side of the Internet",
-      "text": "I voted for Obama, of course."
+      "sourceUrl": "http://www.huffingtonpost.co.uk/2012/09/27/tori-amos-new-album-gold-dust-interview_n_1919068.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://accidentalbear.com/exclusive-interview-tori-amos-speaks-passionately-on-gay-fans-bullying-and-politics/",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "There's a special place in Amos' heart for gay rights issues–cementing her place in the pantheon of liberal art rockers. Many of her early performances were at gay clubs in Washington D.C. and Amos still fights for their rights to this day.",
       "sourceTitle": "Exclusive Interview: Tori Amos Speaks Passionately On Gay Fans, Bullying and Politics",
-      "text": "There's a special place in Amos' heart for gay rights issues–cementing her place in the pantheon of liberal art rockers. Many of her early performances were at gay clubs in Washington D.C. and Amos still fights for their rights to this day."
+      "sourceUrl": "http://accidentalbear.com/exclusive-interview-tori-amos-speaks-passionately-on-gay-fans-bullying-and-politics/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://accidentalbear.com/exclusive-interview-tori-amos-speaks-passionately-on-gay-fans-bullying-and-politics/",
+      "type": "text",
+      "text": "And Amos credits some of the gay men in her life for teaching her to \"present [herself] as a woman and not as an object\" during her performances.",
+      "parentId": 21,
       "sourceTitle": "Exclusive Interview: Tori Amos Speaks Passionately On Gay Fans, Bullying and Politics",
-      "text": "And Amos credits some of the gay men in her life for teaching her to \"present [herself] as a woman and not as an object\" during her performances."
+      "sourceUrl": "http://accidentalbear.com/exclusive-interview-tori-amos-speaks-passionately-on-gay-fans-bullying-and-politics/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 22
     },
     {
-      "type": "sentence",
+      "parentId": 22,
+      "type": "text",
       "text": "Amos is not shy when it comes to divulging her religious and political views, and we thank her for that. And it's clear that she brings much of the same passion to her views as she does to her music."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

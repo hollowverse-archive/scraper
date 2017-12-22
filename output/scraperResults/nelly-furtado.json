@@ -34,119 +34,186 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Nelly Furtado was born and raised in Victoria, British Columbia, Canada by Portuguese immigrants."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lyricsmania.com/biography/nelly_furtado_biography_240.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Furtado grew up in a devout Catholic home and has said the Catholic culture in her family was a \"big part of her life.\"",
       "sourceTitle": "Nelly Furtado Biography",
-      "text": "Furtado grew up in a devout Catholic home and has said the Catholic culture in her family was a \"big part of her life.\""
+      "sourceUrl": "http://www.lyricsmania.com/biography/nelly_furtado_biography_240.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lyricsfreak.com/n/nelly+furtado/biography.html",
+      "type": "text",
+      "text": "Her first experience performing was at a church event in honor of Portugal Day.",
+      "parentId": 2,
       "sourceTitle": "Nelly Furtado – Biography",
-      "text": "Her first experience performing was at a church event in honor of Portugal Day."
+      "sourceUrl": "http://www.lyricsfreak.com/n/nelly+furtado/biography.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "She seems to still identify with her religious and cultural roots to this day. She said of visiting Portugal:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.musicianguide.com/biographies/1608004012/Nelly-Furtado.html",
-      "sourceTitle": "Nelly Furtado Biography",
-      "text": "Just from seeing the old buildings and the wonderful elderly people and their faces and their devotion to religion, or the devotion to keeping their houses looking nice, or their devotion to making the best stew. I have that in me."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Just from seeing the old buildings and the wonderful elderly people and their faces and their devotion to religion, or the devotion to keeping their houses looking nice, or their devotion to making the best stew. I have that in me.",
+      "sourceTitle": "Nelly Furtado Biography",
+      "sourceUrl": "http://www.musicianguide.com/biographies/1608004012/Nelly-Furtado.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "But one gets the sense that Furtado hasn't always followed the advice of the church, and she's said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.macleans.ca/article.jsp?content=20060828_132446_132446",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I'm not Mother Teresa.",
       "sourceTitle": "Nelly Furtado: 'I'm Not Mother Teresa.'",
-      "text": "I'm not Mother Teresa."
+      "sourceUrl": "http://www.macleans.ca/article.jsp?content=20060828_132446_132446"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.macleans.ca/article.jsp?content=20060828_132446_132446",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "She also said she's \"done all the wrong things\" in her personal life, including moving away from her family as a teenager and having a baby before getting married.",
       "sourceTitle": "Nelly Furtado: 'I'm Not Mother Teresa.'",
-      "text": "She also said she's \"done all the wrong things\" in her personal life, including moving away from her family as a teenager and having a baby before getting married."
+      "sourceUrl": "http://www.macleans.ca/article.jsp?content=20060828_132446_132446"
     },
     {
-      "type": "sentence",
-      "text": "But that might just be the whole Catholic guilt thing happening. She seems to be doing alright."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But that might just be the whole Catholic guilt thing happening. She seems to be doing alright.",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Politics is like a bird. It only flies away. Ugh… Is this thing on?"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.politicolnews.com/nelly-furtado-canada-get-out-and-vote/",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Furtado is a proud Canadian who involves herself–to some degree–in Canadian politics. If nothing more, she's encouraged Canada's youth to go out and vote, talking about how cool and exciting it is to participate in the democratic process.",
       "sourceTitle": "Nelly Furtado–Voting for Dummies",
-      "text": "Furtado is a proud Canadian who involves herself–to some degree–in Canadian politics. If nothing more, she's encouraged Canada's youth to go out and vote, talking about how cool and exciting it is to participate in the democratic process."
+      "sourceUrl": "http://www.politicolnews.com/nelly-furtado-canada-get-out-and-vote/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=TYKDoSrRxiw",
+      "parentId": 12,
+      "type": "text",
+      "text": "I'm not sure if you have to be liberal to be an environmentalist in Canada, but if so, she's liberal. She adapted her hit song, \"Turn Off the Lights,\""
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "into a commercial"
+    },
+    {
+      "type": "text",
+      "text": "to encourage kids to… well, turn off the lights,",
+      "parentId": 12,
       "sourceTitle": "Nelly Furtado| \"Turn Off The Lights\" Commercial",
-      "text": "I'm not sure if you have to be liberal to be an environmentalist in Canada, but if so, she's liberal. She adapted her hit song, \"Turn Off the Lights,\" to encourage kids to… well, turn off the lights,"
+      "sourceUrl": "http://www.youtube.com/watch?v=TYKDoSrRxiw"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wx.toronto.ca/inter/it/newsrel.nsf/0/1b44197fcf8a5a04852574050066becf?OpenDocument",
+      "type": "text",
+      "text": "and she headlined an \"Earth Hour\" concert for an organization that attempts to convince the world to use no electricity for one hour per year. Appropriately, she played the concert unplugged.",
+      "parentId": 12,
       "sourceTitle": "Nelly Furtado headlines Earth Hour",
-      "text": "and she headlined an \"Earth Hour\" concert for an organization that attempts to convince the world to use no electricity for one hour per year. Appropriately, she played the concert unplugged."
+      "sourceUrl": "http://wx.toronto.ca/inter/it/newsrel.nsf/0/1b44197fcf8a5a04852574050066becf?OpenDocument"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "But the liberal clincher is this quote:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.ontopmag.com/article.aspx?id=7047&MediaType=1&Category=22",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I'm proud to live in Canada, a country that supports gay marriage, because I can speak openly about it to my child. Children shouldn't be raised in a bubble. There's nothing wrong with it, so why wouldn't I treat it as normal?",
       "sourceTitle": "Nelly Furtado Says She's Proud To Support Gay Marriage",
-      "text": "I'm proud to live in Canada, a country that supports gay marriage, because I can speak openly about it to my child. Children shouldn't be raised in a bubble. There's nothing wrong with it, so why wouldn't I treat it as normal?"
+      "sourceUrl": "http://www.ontopmag.com/article.aspx?id=7047&MediaType=1&Category=22"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://web.archive.org/web/20060615065601/http://www.genremagazine.com/2006/6-1/magazine/content/nelly.cfm",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Plus, Furtado has hinted at being bisexual,",
       "sourceTitle": "Nelly on the Loose",
-      "text": "Plus, Furtado has hinted at being bisexual,"
+      "sourceUrl": "http://web.archive.org/web/20060615065601/http://www.genremagazine.com/2006/6-1/magazine/content/nelly.cfm"
     },
     {
-      "type": "sentence",
-      "text": "which might shed a whole new light on her song, \"Promiscuous.\""
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "which might shed a whole new light on her song, \"Promiscuous.\"",
+      "parentId": 16
     }
   ],
   "wikipediaData": {

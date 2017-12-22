@@ -34,118 +34,195 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Michael Jackson was born in Gary, Indiana in a large family of performers. His childhood was riddled with strife and it is well known that his father was a bit of a tyrant. In fact, what can be said about this man's life that hasn't already been scrutinized to the point of ridiculousness?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "He was raised a Jehovah's Witness. The most common characteristic of this religion, at least to outsiders, is their missionary work and . Little Michael, the would-be King of Pop, was not above missionary work and wrote about it once, saying:"
+      "parentId": 2,
+      "type": "text",
+      "text": "He was raised a Jehovah's Witness. The most common characteristic of this religion, at least to outsiders, is their missionary work and"
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "Watchtower Magazine"
+    },
+    {
+      "type": "text",
+      "text": ". Little Michael, the would-be King of Pop, was not above missionary work and wrote about it once, saying:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.boston.com/news/local/articles_of_faith/2009/07/michael_jackson.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Sundays were my day for 'Pioneering,' the term used for the missionary work that Jehovah's Witnesses do. We would spend the day in the suburbs of Southern California, going door to door or making the rounds of a shopping mall, distributing our Watchtower magazine. I continued my pioneering work for years and years after my career had been launched.",
       "sourceTitle": "Religion thriller: Michael Jackson & faith",
-      "text": "Sundays were my day for 'Pioneering,' the term used for the missionary work that Jehovah's Witnesses do. We would spend the day in the suburbs of Southern California, going door to door or making the rounds of a shopping mall, distributing our Watchtower magazine. I continued my pioneering work for years and years after my career had been launched."
+      "sourceUrl": "http://www.boston.com/news/local/articles_of_faith/2009/07/michael_jackson.html"
     },
     {
-      "type": "sentence",
-      "text": "Imagine Michael Jackson knocking on your door with a . You'd let him in, right? Give him a listen?"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "text",
+      "text": "Imagine Michael Jackson knocking on your door with a"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lasentinel.net/Michael-Jackson-Jehovah-s-Witnesses.html",
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Watchtower"
+    },
+    {
+      "type": "text",
+      "text": ". You'd let him in, right? Give him a listen?",
+      "parentId": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "After a certain amount of success, however, Jackson was excommunicated from the Jehovah's Witnesses for being too \"worldly.\"",
       "sourceTitle": "Michael Jackson & Jehovah's Witnesses",
-      "text": "After a certain amount of success, however, Jackson was excommunicated from the Jehovah's Witnesses for being too \"worldly.\""
+      "sourceUrl": "http://www.lasentinel.net/Michael-Jackson-Jehovah-s-Witnesses.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1088225/Michael-Jackson-Muslim-changes-Mikaeel.html",
+      "parentId": 7,
+      "type": "text",
+      "text": "Throughout his life, Jackson's secret, but highly public, life was highly scrutinized and his religious activities were a subject of interest. It is rumored that he converted to Islam at the age of 50,",
       "sourceTitle": "Michael Jackson 'becomes a Muslim and changes name to Mikaeel.",
-      "text": "Throughout his life, Jackson's secret, but highly public, life was highly scrutinized and his religious activities were a subject of interest. It is rumored that he converted to Islam at the age of 50,"
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1088225/Michael-Jackson-Muslim-changes-Mikaeel.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.boston.com/news/local/articles_of_faith/2009/07/michael_jackson.html",
+      "type": "text",
+      "text": "dabbled in Judaism and Kabbalah in particular,",
+      "parentId": 7,
       "sourceTitle": "Religion thriller: Michael Jackson & faith",
-      "text": "dabbled in Judaism and Kabbalah in particular,"
+      "sourceUrl": "http://www.boston.com/news/local/articles_of_faith/2009/07/michael_jackson.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blackchristiannews.com/news/2009/06/michael-jackson-reportedly-accepted-jesus-christ-before-his-death.html",
+      "type": "text",
+      "text": "and \"found Christ\" as some sort of Evangelical Christian.",
+      "parentId": 7,
       "sourceTitle": "Michael Jackson Reportedly Accepted Jesus Christ as his Savior Three Weeks Before His Death",
-      "text": "and \"found Christ\" as some sort of Evangelical Christian."
+      "sourceUrl": "http://blackchristiannews.com/news/2009/06/michael-jackson-reportedly-accepted-jesus-christ-before-his-death.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "This is mostly speculation based on conjectures or some inference from a photograph and if one had to categorize Jackson religiously, it would probably be in some kind of Eastern Zen Buddhism or New Age philosophy. His true spirituality probably came from performing and being an iconic, influential, larger-than-life figure. He once said of performing:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://inspiringnews.wordpress.com/2009/07/08/michael-jackson-quotes-on-his-relationship-with-god/",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "…you're connected to a higher source [when performing] and you just go with the moment and you become one with, you know, the spirit. Not to sound religious or anything, but it's a very spiritual… very much like religion, and it's a God-given gift and you just go with it. And I'm honored to have been given it. And, uh, as fun to become one with the audience. It's a one-ness, you know?",
       "sourceTitle": "Michael Jackson: Quotes on his relationship with God",
-      "text": "…you're connected to a higher source [when performing] and you just go with the moment and you become one with, you know, the spirit. Not to sound religious or anything, but it's a very spiritual… very much like religion, and it's a God-given gift and you just go with it. And I'm honored to have been given it. And, uh, as fun to become one with the audience. It's a one-ness, you know?"
+      "sourceUrl": "http://inspiringnews.wordpress.com/2009/07/08/michael-jackson-quotes-on-his-relationship-with-god/"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "The Politics of a King"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.eyesonobama.com/blog/content/id_56397/title_Michael-Jackson-Not-Political-But-Politics-Loved-Him/",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Jackson was not overtly political. He never donated to any political party or endorsed any candidates.",
       "sourceTitle": "Michael Jackson: Not Political, But Politics Loved Him",
-      "text": "Jackson was not overtly political. He never donated to any political party or endorsed any candidates."
+      "sourceUrl": "http://www.eyesonobama.com/blog/content/id_56397/title_Michael-Jackson-Not-Political-But-Politics-Loved-Him/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.eyesonobama.com/blog/content/id_56397/title_Michael-Jackson-Not-Political-But-Politics-Loved-Him/",
+      "parentId": 13,
+      "type": "text",
+      "text": "He was an influential, high-profile figure and as such, was somewhat desirable to politicians who might have thought that being associated with Michael Jackson would score them points with voters. He was invited to the White House and recognized by every president from Reagen to George W. Bush.",
       "sourceTitle": "Michael Jackson: Not Political, But Politics Loved Him",
-      "text": "He was an influential, high-profile figure and as such, was somewhat desirable to politicians who might have thought that being associated with Michael Jackson would score them points with voters. He was invited to the White House and recognized by every president from Reagen to George W. Bush."
+      "sourceUrl": "http://www.eyesonobama.com/blog/content/id_56397/title_Michael-Jackson-Not-Political-But-Politics-Loved-Him/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thecelebritycafe.com/features/29527.html",
+      "parentId": 14,
+      "type": "text",
+      "text": "He was an activist who sometimes seemed overly preoccupied with causes such as underprivileged African children to AIDS to battling drug addiction.",
       "sourceTitle": "The Politics of Michael Jackson",
-      "text": "He was an activist who sometimes seemed overly preoccupied with causes such as underprivileged African children to AIDS to battling drug addiction."
+      "sourceUrl": "http://thecelebritycafe.com/features/29527.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "Jackson's view of a perfect society, however, was one of tolerance and acceptance. Many of his biggest hits (\"Man in the Mirror\" and \"We Are the World\" for example) were odes to a more loving and accepting world. He once said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 16
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/michael_jackson_2.html",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Let us dream of tomorrow where we can truly love from the soul, and know love as the ultimate truth at the heart of all creation.",
       "sourceTitle": "Michael Jackson Quotes",
-      "text": "Let us dream of tomorrow where we can truly love from the soul, and know love as the ultimate truth at the heart of all creation."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/michael_jackson_2.html"
     }
   ],
   "wikipediaData": {

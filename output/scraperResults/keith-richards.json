@@ -35,146 +35,268 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Keith Richards was born in Dartford, Kent, England and grew up there and in London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Richards didn't have much of a religious upbringing, apparently. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://music.yahoo.com/blogs/stop-the-presses/justin-bieber-vs-keith-richards-comparing-the-memoirs.html",
-      "sourceTitle": "Justin Bieber Vs. Keith Richards: Comparing The Memoirs",
-      "text": "There's nobody in my family that ever had anything to do with organized religion… Thank God, otherwise Sundays would have been even more boring than they were… I don't want to see my old friend Lucifer just yet. He's the guy I'm gonna see, isn't it? I'm not going to the Other Place, let's face it."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "There's nobody in my family that ever had anything to do with organized religion… Thank God, otherwise Sundays would have been even more boring than they were… I don't want to see my old friend Lucifer just yet. He's the guy I'm gonna see, isn't it? I'm not going to the Other Place, let's face it.",
+      "sourceTitle": "Justin Bieber Vs. Keith Richards: Comparing The Memoirs",
+      "sourceUrl": "http://music.yahoo.com/blogs/stop-the-presses/justin-bieber-vs-keith-richards-comparing-the-memoirs.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Notice how he speaks in terms of Christian cosmology. I suppose, like most English boys, the Anglican religion crept into his psyche through the culture. And it was enough to have him worrying about his place in the afterlife."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://pierresetparoles.blogspot.com/2004/10/patti-hansen.html",
+      "parentId": 6,
+      "type": "text",
+      "text": "Now, Richards' wife, Patti Hansen, is a devout born-again Christian",
       "sourceTitle": "Patti Hansen",
-      "text": "Now, Richards' wife, Patti Hansen, is a devout born-again Christian"
+      "sourceUrl": "http://pierresetparoles.blogspot.com/2004/10/patti-hansen.html"
     },
     {
-      "type": "sentence",
-      "text": "but it would seem that it hasn't rubbed off on Keith. He still claims to operate outside the boundaries of organized religion–though he is spiritual in some way:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but it would seem that it hasn't rubbed off on Keith. He still claims to operate outside the boundaries of organized religion–though he is spiritual in some way:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://books.google.com/books?id=P_lzbHj_jS0C&pg=PA431&lpg=PA431&dq=Keith+Richards+religion&source=bl&ots=FcCjMikSrw&sig=JixdnJc70Xn2J1pkynV40q2_Je8&hl=en&sa=X&ei=sdIPUfesHcqGrgGgyIGIBQ&ved=0CDAQ6AEwAA#v=onepage&q=Keith%20Richards%20religion&f=false",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Spirit is all around me. Very much. That's why I did the"
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "Wingless Angels"
+    },
+    {
+      "type": "text",
+      "text": "album: very spiritual music. But mine is a very nebulous spirituality. I wouldn't care to put a name on it. I wouldn't want to place any bets. Religion is too much like Las Vegas. 'Oh, you've picked the wrong God. Sorry, it's Allah.' I prefer to take the larger point of view. Hey, give thanks and praise, whoever you are, wherever you are, whatever you are.",
+      "parentId": 8,
       "sourceTitle": "eith Richards: The Biography by Richard Bockris",
-      "text": "Spirit is all around me. Very much. That's why I did the  album: very spiritual music. But mine is a very nebulous spirituality. I wouldn't care to put a name on it. I wouldn't want to place any bets. Religion is too much like Las Vegas. 'Oh, you've picked the wrong God. Sorry, it's Allah.' I prefer to take the larger point of view. Hey, give thanks and praise, whoever you are, wherever you are, whatever you are."
+      "sourceUrl": "http://books.google.com/books?id=P_lzbHj_jS0C&pg=PA431&lpg=PA431&dq=Keith+Richards+religion&source=bl&ots=FcCjMikSrw&sig=JixdnJc70Xn2J1pkynV40q2_Je8&hl=en&sa=X&ei=sdIPUfesHcqGrgGgyIGIBQ&ved=0CDAQ6AEwAA#v=onepage&q=Keith%20Richards%20religion&f=false"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.freerepublic.com/focus/f-chat/1662499/posts",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Speaking of his album,"
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "Wingless Angels"
+    },
+    {
+      "type": "text",
+      "text": ", it is a somewhat religious work said to be inspired by a near-death experience Richards had after falling from a palm tree.",
+      "parentId": 9,
       "sourceTitle": "Keith Richards is now 'jamming with Jehovah.'",
-      "text": "Speaking of his album, , it is a somewhat religious work said to be inspired by a near-death experience Richards had after falling from a palm tree."
+      "sourceUrl": "http://www.freerepublic.com/focus/f-chat/1662499/posts"
     },
     {
-      "type": "sentence",
-      "text": "After all the drugs and crazy rock star antics, it was a palm tree that got Keith thinking about religion."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "After all the drugs and crazy rock star antics, it was a palm tree that got Keith thinking about religion.",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "No political satisfaction"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dcjunkies.com/archive/index.php/t-11637.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Richards has deep roots in politics. His grandparents were civic organizers and explicit socialists.",
       "sourceTitle": "Politcally speaking, do you think Mick Jagger and Keith Richards are socialists?",
-      "text": "Richards has deep roots in politics. His grandparents were civic organizers and explicit socialists."
+      "sourceUrl": "http://www.dcjunkies.com/archive/index.php/t-11637.html"
     },
     {
-      "type": "sentence",
-      "text": "But his current views are a bit tough to nail down."
+      "type": "text",
+      "text": "But his current views are a bit tough to nail down.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Richards seems to have a bit of an aversion to authority of any kind. He has said things like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/author/quotes/45539.Keith_Richards",
-      "sourceTitle": "Keith Richards Quotes (Author of Life)",
-      "text": "If you're going to kick authority in the teeth, you might as well use two feet."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "If you're going to kick authority in the teeth, you might as well use two feet.",
+      "sourceTitle": "Keith Richards Quotes (Author of Life)",
+      "sourceUrl": "http://www.goodreads.com/author/quotes/45539.Keith_Richards"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "And:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/author/quotes/45539.Keith_Richards",
-      "sourceTitle": "Keith Richards Quotes (Author of Life)",
-      "text": "I don't have a problem with drugs, I have a problem with policemen."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I don't have a problem with drugs, I have a problem with policemen.",
+      "sourceTitle": "Keith Richards Quotes (Author of Life)",
+      "sourceUrl": "http://www.goodreads.com/author/quotes/45539.Keith_Richards"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "Interestingly, he was supportive of Britain's involvement in the Iraq War, something many Brits were rather unhappy about. He wrote Prime Minister Tony Blair a letter, telling him to brush off all the criticism and stay the course. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://blogs.wsj.com/iainmartin/2010/10/15/keith-richards-wrote-to-blair-backing-iraq-war/",
-      "sourceTitle": "Keith Richards Wrote to Blair Backing Iraq War",
-      "text": "I wrote him a letter, telling him he had to stick to his guns. I got a letter back, saying: 'Thanks for the support'."
+      "id": 19
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "I wrote him a letter, telling him he had to stick to his guns. I got a letter back, saying: 'Thanks for the support'.",
+      "sourceTitle": "Keith Richards Wrote to Blair Backing Iraq War",
+      "sourceUrl": "http://blogs.wsj.com/iainmartin/2010/10/15/keith-richards-wrote-to-blair-backing-iraq-war/"
+    },
+    {
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "That seems a rather poignant show of force and authority, invading a sovereign nation and all, so perhaps Richards is just playing up the rock 'n roll persona with all that other stuff."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 22
     },
     {
-      "type": "sentence",
+      "parentId": 22,
+      "type": "text",
       "text": "Despite his support of Blair (a Labour politician), perhaps the closest thing to Richards' socialist heritage–the modern Labour Party–doesn't appear to be Richards' cup of tea, really. He turned down a chance to play a Live 8 concert, benefiting Africa's poor children, because he thought the musician Bob Geldof was too involved in the politics of the event:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.femalefirst.co.uk/celebrity/The+Rolling+Stones-5955.html",
+      "id": 23
+    },
+    {
+      "type": "paragraph",
+      "id": 24,
+      "parentId": 23
+    },
+    {
+      "parentId": 24,
+      "type": "text",
+      "text": "I just thought the connection between Geldof and the Labour Party was just too tight, and I don't see debt reduction as being like – it's not going to feed the babies down there. I mean, who's this gratifying and where are the Africans? Where was their say?\"",
       "sourceTitle": "Bob Geldof's Politics Caused Keith Richards to Refuse Live 8",
-      "text": "I just thought the connection between Geldof and the Labour Party was just too tight, and I don't see debt reduction as being like – it's not going to feed the babies down there. I mean, who's this gratifying and where are the Africans? Where was their say?\""
+      "sourceUrl": "http://www.femalefirst.co.uk/celebrity/The+Rolling+Stones-5955.html"
     },
     {
-      "type": "sentence",
-      "text": "There's that anti-authority thing again. Richards doesn't like poor people being used as political currency. Fair enough, maybe it's not a ruse. Still, what exactly he believe is still up for question. What do you guys think?"
+      "type": "paragraph",
+      "id": 25
     },
     {
-      "type": "break"
+      "parentId": 25,
+      "type": "text",
+      "text": "There's that anti-authority thing again. Richards doesn't like poor people being used as political currency. Fair enough, maybe it's not a ruse. Still, what exactly he"
+    },
+    {
+      "parentId": 25,
+      "type": "emphasis",
+      "text": "does"
+    },
+    {
+      "type": "text",
+      "text": "believe is still up for question. What do you guys think?",
+      "parentId": 25
     }
   ],
   "wikipediaData": {

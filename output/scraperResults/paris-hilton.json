@@ -37,129 +37,220 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Paris Hilton is a daughter of Richard Hilton, head of Hilton Hotels. Her family is Roman Catholic, but Paris seems extremely confused about her spirituality."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "In 2007, Paris did a short time in jail for a driving under the influence charge. Since her release, she's been a bit more preoccupied with spirituality, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://articles.cnn.com/2007-06-27/entertainment/king.hilton.transcript_1_first-post-jail-interview-celebutante-larry-king-live/14?_s=PM:SHOWBIZ",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I've always been religious. I went to Catholic school as a child. And I've always had a sense of spirituality, but even more so now, after being in jail.",
       "sourceTitle": "Paris Hilton on 'Larry King Live.'",
-      "text": "I've always been religious. I went to Catholic school as a child. And I've always had a sense of spirituality, but even more so now, after being in jail."
+      "sourceUrl": "http://articles.cnn.com/2007-06-27/entertainment/king.hilton.transcript_1_first-post-jail-interview-celebutante-larry-king-live/14?_s=PM:SHOWBIZ"
     },
     {
-      "type": "sentence",
-      "text": "The question is, where is her \"sense of spirituality\" pointed? She's been spotted with a bible and Eckhart Tolle's –the guidebook to a New Age religion endorsed by the great Oprah herself."
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "text",
+      "text": "The question is, where is her \"sense of spirituality\" pointed? She's been spotted with a bible and Eckhart Tolle's"
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "The Power of Now"
+    },
+    {
+      "type": "text",
+      "text": "–the guidebook to a New Age religion endorsed by the great Oprah herself.",
+      "parentId": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "So Christian or Astrology, then?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "That's not all, she might also be practicing Kabbalah Judaism, a relatively new sect championed by the likes of Madonna and Demi Moore. She has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.femalefirst.co.uk/celebrity/Paris+Hilton-685.html",
-      "sourceTitle": "Paris Hilton 'converts to Kabbalah.'",
-      "text": "When I split with Nick [Carter] I coped by going straight to the Kabbalah Centre in Los Angeles, told everyone about the break-up and got a new [red string Kabbalah] bracelet. I go there regularly – it helps me deal with my life."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "When I split with Nick [Carter] I coped by going straight to the Kabbalah Centre in Los Angeles, told everyone about the break-up and got a new [red string Kabbalah] bracelet. I go there regularly – it helps me deal with my life.",
+      "sourceTitle": "Paris Hilton 'converts to Kabbalah.'",
+      "sourceUrl": "http://www.femalefirst.co.uk/celebrity/Paris+Hilton-685.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "All that's missing is Scientology."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "Paris for president? We might have to change the name of \"freedom fries.\""
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "High politics seems to be a bit above the world's most famous heiress. None of her quotes involve Keynesian economics or a debate about the welfare state. But she has donated much of her time, money, and reputation to various causes."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "About animal rights, she's said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/quotes/show/107078",
-      "sourceTitle": "Paris Hilton Quotes",
-      "text": "I'm an animal activist. Many people say that I'm a hypocrite, because I eat burgers and stuff like that but I won't wear fur. But I'm not a hypocrite. I just only wear fake fur."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I'm an animal activist. Many people say that I'm a hypocrite, because I eat burgers and stuff like that but I won't wear fur. But I'm not a hypocrite. I just only wear fake fur.",
+      "sourceTitle": "Paris Hilton Quotes",
+      "sourceUrl": "http://www.goodreads.com/quotes/show/107078"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "That certainly clears up any misunderstanding."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "Beyond spirituality, Paris' jail term also seemed to awaken a joy for giving. Soon after her release, she said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://nymag.com/news/intelligencer/38371/",
-      "sourceTitle": "Paris Hilton Reborn as a Philanthropist",
-      "text": "I just went down to Majorca and donated a lot to a hospital, and I'm going to Africa and Rwanda. I'm excited for the new chapter of my life, where I'm giving back and getting so much in return for me, like, inside my heart."
+      "id": 18
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "I just went down to Majorca and donated a lot to a hospital, and I'm going to Africa and Rwanda. I'm excited for the new chapter of my life, where I'm giving back and getting so much in return for me, like, inside my heart.",
+      "sourceTitle": "Paris Hilton Reborn as a Philanthropist",
+      "sourceUrl": "http://nymag.com/news/intelligencer/38371/"
+    },
+    {
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "Hilton's foray into politics got really interesting when presidential hopeful Arizona Senator John McCain made a campaign ad comparing Barack Obama to \"celebrities like Paris Hilton.\" Paris responded with an ad of her own where she announced her candidacy for president and unveiled her energy plan, among other things. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://popwatch.ew.com/2008/08/06/paris-hilton-mc/",
-      "sourceTitle": "Paris Hilton's political ad gets at least one thing right",
-      "text": "I want America to know that I'm, like, totally ready to lead….I'll see you at the debates, bitches."
+      "id": 21
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "I want America to know that I'm, like, totally ready to lead….I'll see you at the debates, bitches.",
+      "sourceTitle": "Paris Hilton's political ad gets at least one thing right",
+      "sourceUrl": "http://popwatch.ew.com/2008/08/06/paris-hilton-mc/"
+    },
+    {
+      "type": "paragraph",
+      "id": 23
+    },
+    {
+      "parentId": 23,
+      "type": "text",
       "text": "Awesome."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 24
     },
     {
-      "type": "sentence",
+      "parentId": 24,
+      "type": "text",
       "text": "Actually, it's hard to imagine her being any worse at being president than most of the cartoon characters that run."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

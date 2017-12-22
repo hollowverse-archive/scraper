@@ -32,91 +32,161 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cnn.com/TRANSCRIPTS/0805/19/lkl.01.html",
+      "parentId": 1,
+      "type": "text",
+      "text": "Denise Richards was born in Downers Grove, Illinois and grew up in Oceanside, California."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Richards is a Catholic. We get the sense she sees herself as devout, telling Larry King that she has faith.",
       "sourceTitle": "Transcripts",
-      "text": "Richards is a Catholic. We get the sense she sees herself as devout, telling Larry King that she has faith."
+      "sourceUrl": "http://www.cnn.com/TRANSCRIPTS/0805/19/lkl.01.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://celebritybabies.people.com/2008/05/14/denise-richards-6/",
+      "type": "text",
+      "text": "And though she married Charlie Sheen in a Catholic ceremony in 2002,",
+      "parentId": 2,
       "sourceTitle": "Denise Richards puts an end to rumors about her life in new Redbook interview",
-      "text": "And though she married Charlie Sheen in a Catholic ceremony in 2002,"
+      "sourceUrl": "http://celebritybabies.people.com/2008/05/14/denise-richards-6/"
     },
     {
-      "type": "sentence",
-      "text": "it seems she wasn't truly awakened to her faith until her mother died in 2008. She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "it seems she wasn't truly awakened to her faith until her mother died in 2008. She said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.cnn.com/TRANSCRIPTS/0805/19/lkl.01.html",
-      "sourceTitle": "Transcripts",
-      "text": "With my mother passing away, you really are faced with death and heaven and then having to explain that to my children. And so between [my religion] and between my family… friends have helped me get through [it]."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "With my mother passing away, you really are faced with death and heaven and then having to explain that to my children. And so between [my religion] and between my family… friends have helped me get through [it].",
+      "sourceTitle": "Transcripts",
+      "sourceUrl": "http://www.cnn.com/TRANSCRIPTS/0805/19/lkl.01.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "However, Richards' mother's death also led her to an interest in a more mystical–or even occult–side of spirituality. She has spoken about speaking to her mother (and various other deceased loved ones) through a psychic medium named Natalie. She reveals her motivation for pursuing the psychic:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 6
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.evilbeetgossip.com/2009/06/18/denise-richards-is-like-spiritual/",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I wanted to believe Mom was still around. I wanted a reading. I wanted to believe in some form of reincarnation. I need to think in whatever way I can that my mother is still with us.",
       "sourceTitle": "Denise Richards is, Like, Spiritual",
-      "text": "I wanted to believe Mom was still around. I wanted a reading. I wanted to believe in some form of reincarnation. I need to think in whatever way I can that my mother is still with us."
+      "sourceUrl": "http://www.evilbeetgossip.com/2009/06/18/denise-richards-is-like-spiritual/"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Politics in deed, not word"
     },
     {
-      "type": "sentence",
-      "text": "Richards hasn't endorsed any candidates that I've seen–but I haven't found the time to watch her reality show, , so maybe something is being overlooked there. Nor is there any evidence of her contributing financially to any candidates or parties."
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "break"
+      "parentId": 10,
+      "type": "text",
+      "text": "Richards hasn't endorsed any candidates that I've seen–but I haven't found the time to watch her reality show,"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://g3mag.co.uk/index.php?option=com_content&view=article&id=845:denise-richards-discusses-gay-affairs&catid=3:celebrity&Itemid=17",
+      "parentId": 10,
+      "type": "emphasis",
+      "text": "It's Complicated"
+    },
+    {
+      "type": "text",
+      "text": ", so maybe something is being overlooked there. Nor is there any evidence of her contributing financially to any candidates or parties.",
+      "parentId": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "But, given her lifestyle, Richards appears to be liberal. She has admitted to having a homosexual relationship and has supported various marriage equality causes and events, even publicly supporting gay marriage.",
       "sourceTitle": "Denise Richards discusses gay affairs",
-      "text": "But, given her lifestyle, Richards appears to be liberal. She has admitted to having a homosexual relationship and has supported various marriage equality causes and events, even publicly supporting gay marriage."
+      "sourceUrl": "http://g3mag.co.uk/index.php?option=com_content&view=article&id=845:denise-richards-discusses-gay-affairs&catid=3:celebrity&Itemid=17"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Plus, she's a bit of an environmentalist. She has forbidden the use of plastic bottles in her household and she wrote in her blog:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.ecorazzi.com/2012/01/02/denise-richards-says-give-up-plastic-bottles-in-2012/",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Why not take one simple step that will help the environment, the health of your family and your pocketbook all at once? I recently made the commitment to get rid of bottled water in my home for all of those reasons.",
       "sourceTitle": "Denise Richards Says Give Up Plastic Bottles in 2012",
-      "text": "Why not take one simple step that will help the environment, the health of your family and your pocketbook all at once? I recently made the commitment to get rid of bottled water in my home for all of those reasons."
+      "sourceUrl": "http://www.ecorazzi.com/2012/01/02/denise-richards-says-give-up-plastic-bottles-in-2012/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ecorazzi.com/2011/03/01/denise-richards-partners-with-access-hollywood-to-help-shelter-dogs/",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Richards has a bit of an animal rights bent as well, supporting programs to help orphaned dogs find a home.",
       "sourceTitle": "Denise Richards Partners With Access Hollywood To Help Shelter Dogs",
-      "text": "Richards has a bit of an animal rights bent as well, supporting programs to help orphaned dogs find a home."
+      "sourceUrl": "http://www.ecorazzi.com/2011/03/01/denise-richards-partners-with-access-hollywood-to-help-shelter-dogs/"
     },
     {
-      "type": "sentence",
-      "text": "So, in the end, Richards is a soft liberal. I doubt you'll find her chaining herself to redwood trees or confronting swarthy shark poachers off the coast of Costa Rica (Gordon Ramsay did it), but she'll do her part at home and on the TV."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "So, in the end, Richards is a soft liberal. I doubt you'll find her chaining herself to redwood trees or confronting swarthy shark poachers off the coast of Costa Rica (Gordon Ramsay did it), but she'll do her part at home and on the TV.",
+      "parentId": 15
     }
   ],
   "wikipediaData": {

@@ -32,107 +32,185 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Tom Hiddleston was born and raised in London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/home/moslive/article-2125013/The-Avengers-Tom-Hiddleston-People-think-Eton-arrogant-braying-toffs-It-just-isnt-true.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Hiddleston didn't make it very easy on me to decipher his religious views, but we'll do our best here. He said in one interview that his father was from \"strong, Presbyterian Scottish working-class stock.\"",
       "sourceTitle": "The Avengers' Tom Hiddleston: 'People think Eton is full of arrogance, braying toffs. It just isn't true.'",
-      "text": "Hiddleston didn't make it very easy on me to decipher his religious views, but we'll do our best here. He said in one interview that his father was from \"strong, Presbyterian Scottish working-class stock.\""
+      "sourceUrl": "http://www.dailymail.co.uk/home/moslive/article-2125013/The-Avengers-Tom-Hiddleston-People-think-Eton-arrogant-braying-toffs-It-just-isnt-true.html"
     },
     {
-      "type": "sentence",
-      "text": "But he makes no indication that he was raised Presbyterian."
+      "type": "text",
+      "text": "But he makes no indication that he was raised Presbyterian.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "He commented on \"our increasingly secular society\" in one interview, but not in a negative way. And in another he discussed the human role in the creation of religion and mythology. He said,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://defiantdolly.com/2012/09/11/is-tom-hiddleston-an-atheist/",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "The thing about playing gods, whether you're playing Thor and Loki or Greco Roman gods or Indian gods or characters in any mythology, the reason that gods were invented was because they were basically larger versions of ourselves.",
       "sourceTitle": "Is Tom Hiddleston an Atheist?",
-      "text": "The thing about playing gods, whether you're playing Thor and Loki or Greco Roman gods or Indian gods or characters in any mythology, the reason that gods were invented was because they were basically larger versions of ourselves."
+      "sourceUrl": "http://defiantdolly.com/2012/09/11/is-tom-hiddleston-an-atheist/"
     },
     {
-      "type": "sentence",
-      "text": "So maybe he's an atheist. This  makes a pretty good case for it. But then there's all those tweets about God on his  like,"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "text",
+      "text": "So maybe he's an atheist. This"
+    },
+    {
+      "parentId": 6,
+      "type": "link",
+      "text": "blogger",
+      "sourceUrl": "http://defiantdolly.com/2012/09/11/is-tom-hiddleston-an-atheist/"
+    },
+    {
+      "type": "text",
+      "text": "makes a pretty good case for it. But then there's all those tweets about God on his",
+      "parentId": 6
+    },
+    {
+      "parentId": 6,
+      "type": "link",
+      "text": "Twitter feed",
+      "sourceUrl": "https://twitter.com/twhiddleston"
+    },
+    {
+      "type": "text",
+      "text": "like,",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/twhiddleston/status/189092517021618176",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "\"The lord in heaven bless thee!\" (bit of casual Shakespeare on a Sunday night)",
       "sourceTitle": "twhiddleston: @jack_r_m \"The lord in heaven …",
-      "text": "\"The lord in heaven bless thee!\" (bit of casual Shakespeare on a Sunday night)"
+      "sourceUrl": "https://twitter.com/twhiddleston/status/189092517021618176"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/twhiddleston/status/189712091408637952",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "But in nearly every case where God is mentioned, it's in the context of a Shakespeare quote.",
       "sourceTitle": "twhiddleston: @The_Globe @LivEveryPlay \"You …",
-      "text": "But in nearly every case where God is mentioned, it's in the context of a Shakespeare quote."
+      "sourceUrl": "https://twitter.com/twhiddleston/status/189712091408637952"
     },
     {
-      "type": "sentence",
-      "text": "I did find an unsourced Hiddleston quote about how \"God always laughs at your plans\" so he tries not to make any, but it's unsourced. I can find no confirmation that he actually said it."
+      "type": "text",
+      "text": "I did find an unsourced Hiddleston quote about how \"God always laughs at your plans\" so he tries not to make any, but it's unsourced. I can find no confirmation that he actually said it.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "Alas, we have no smoking gun. I'm going to go with mostly non-religious, but maybe a little religious for now. If you have evidence one way or the other, leave me a link in the comments!"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "Class Avenger"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "There's not too much information about Hiddleston's political beliefs either. I couldn't find any endorsements or criticisms of political parties and candidates. But he does seem to be interested in class divisions in the U.K. He said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.dailymail.co.uk/home/moslive/article-2125013/The-Avengers-Tom-Hiddleston-People-think-Eton-arrogant-braying-toffs-It-just-isnt-true.html",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "The one thing I despise is how everything artistic, political or intellectual has to be refracted through this prism of class consciousness. It probably is more sensitive to me but everything becomes really narrow-minded and pedantic and bigoted.",
       "sourceTitle": "The Avengers' Tom Hiddleston: 'People think Eton is full of arrogant, braying toffs. It just isn't true.'",
-      "text": "The one thing I despise is how everything artistic, political or intellectual has to be refracted through this prism of class consciousness. It probably is more sensitive to me but everything becomes really narrow-minded and pedantic and bigoted."
+      "sourceUrl": "http://www.dailymail.co.uk/home/moslive/article-2125013/The-Avengers-Tom-Hiddleston-People-think-Eton-arrogant-braying-toffs-It-just-isnt-true.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/twhiddleston/status/228553976071725056",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Perhaps his passion for social equality makes him sound liberal. Hiddleston also appealed to fans through his Twitter account to tell Prime Minister David Cameron to support a UNICEF campaign to end childhood hunger across the globe.",
       "sourceTitle": "twhiddleston: 180m children suffer from #hunger …",
-      "text": "Perhaps his passion for social equality makes him sound liberal. Hiddleston also appealed to fans through his Twitter account to tell Prime Minister David Cameron to support a UNICEF campaign to end childhood hunger across the globe."
+      "sourceUrl": "https://twitter.com/twhiddleston/status/228553976071725056"
     },
     {
-      "type": "sentence",
-      "text": "But that is hardly a partisan topic to be sure."
+      "type": "text",
+      "text": "But that is hardly a partisan topic to be sure.",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "That's all we have on this actor so far. If you catch an candidate endorsement or anything else from Hiddleston, keep us updated in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

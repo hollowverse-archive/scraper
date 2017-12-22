@@ -35,107 +35,153 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Martha Stewart, who was born Martha Kostyra, was born in Jersey City, New Jersey and grew up in Nutley, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.businessweek.com/stories/2002-04-21/behind-the-martha-mystique",
+      "parentId": 2,
+      "type": "text",
+      "text": "Stewart was raised in a strict Polish Catholic home in a family of six children.",
       "sourceTitle": "Behind the Martha Mystique",
-      "text": "Stewart was raised in a strict Polish Catholic home in a family of six children."
+      "sourceUrl": "http://www.businessweek.com/stories/2002-04-21/behind-the-martha-mystique"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.latimes.com/2007/nov/18/local/me-kostyra18",
+      "type": "text",
+      "text": "Her mother, a homemaker and affectionately known as \"Big Martha,\" taught her everything she knew to later build her domestic entertainment empire.",
+      "parentId": 2,
       "sourceTitle": "Martha Kostyra, 93; passed skills to her daughter, Martha Stewart",
-      "text": "Her mother, a homemaker and affectionately known as \"Big Martha,\" taught her everything she knew to later build her domestic entertainment empire."
+      "sourceUrl": "http://articles.latimes.com/2007/nov/18/local/me-kostyra18"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.marthastewart.com/christmas",
+      "parentId": 3,
+      "type": "text",
+      "text": "Catholicism, religion, faith, God or anything else remotely spiritual are topics Stewart habitually avoids–unless you count her millions of happy Christmas tips.",
       "sourceTitle": "Christmas",
-      "text": "Catholicism, religion, faith, God or anything else remotely spiritual are topics Stewart habitually avoids–unless you count her millions of happy Christmas tips."
+      "sourceUrl": "http://www.marthastewart.com/christmas"
     },
     {
-      "type": "sentence",
-      "text": "Why is this, one wonders?"
+      "type": "text",
+      "text": "Why is this, one wonders?",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.colbertnation.com/the-colbert-report-videos/365267/november-10-2010/martha-stewart",
+      "parentId": 4,
+      "type": "text",
+      "text": "Stewart tipped her hand during an interview with satirist Stephen Colbert, a man that can clearly throw the most seasoned celebrity off their guard. Colbert is a devout Catholic to this day and when the topic came up, Stewart said she \"used to be Catholic.\"",
       "sourceTitle": "Martha Stewart – The Colbert Report – 2010-10-11 – Video Clip",
-      "text": "Stewart tipped her hand during an interview with satirist Stephen Colbert, a man that can clearly throw the most seasoned celebrity off their guard. Colbert is a devout Catholic to this day and when the topic came up, Stewart said she \"used to be Catholic.\""
+      "sourceUrl": "http://www.colbertnation.com/the-colbert-report-videos/365267/november-10-2010/martha-stewart"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "One can only speculate as to the further implications of that comment. Is she an atheist? Scientologist? Zoroastrian? We just can't say."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 6
     },
     {
-      "type": "heading",
+      "parentId": 6,
+      "type": "text",
       "text": "A political force all her own"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Stewart's influence is such that she could probably turn the tide of an election with her fans if she so desired. That we know of, this hasn't happened–yet. She does seem to be invested in American politics, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://articles.nydailynews.com/2010-09-02/entertainment/27074305_1_martha-stewart-iraq-war-politics",
-      "sourceTitle": "Martha Stewart thinks Nancy Pelosi is 'absolutely beautiful' and wants to interview her on new show",
-      "text": "I'm involved as much as anyone in the political future of this country."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I'm involved as much as anyone in the political future of this country.",
+      "sourceTitle": "Martha Stewart thinks Nancy Pelosi is 'absolutely beautiful' and wants to interview her on new show",
+      "sourceUrl": "http://articles.nydailynews.com/2010-09-02/entertainment/27074305_1_martha-stewart-iraq-war-politics"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "And don't you dare call her a Republican. When one journalist made that mistake on live television, Stewart replied:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.politico.com/blogs/click/1011/Martha_Stewart_Im_not_a_Republican.html",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Where did you get that? I have always been a registered Democrat.",
       "sourceTitle": "Martha Stewart: I'm Not a Republican",
-      "text": "Where did you get that? I have always been a registered Democrat."
+      "sourceUrl": "http://www.politico.com/blogs/click/1011/Martha_Stewart_Im_not_a_Republican.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/ceo_political_donations/Martha_Stewart.php",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "And there is ample evidence of that in Stewart's financial contributions to political candidates with (the most this author has seen to date) a total of $183,224. Only $1,000 went to Republicans.",
       "sourceTitle": "Martha Stewart's Federal Campaign Contribution Report",
-      "text": "And there is ample evidence of that in Stewart's financial contributions to political candidates with (the most this author has seen to date) a total of $183,224. Only $1,000 went to Republicans."
+      "sourceUrl": "http://www.newsmeat.com/ceo_political_donations/Martha_Stewart.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://marthamoments.blogspot.com/2011/01/toast-to-grooms.html",
+      "parentId": 14,
+      "type": "text",
+      "text": "Plus, Martha's even liberal enough to host a gay wedding at her house–and even pose with the grooms.",
       "sourceTitle": "A Toast to the Grooms!",
-      "text": "Plus, Martha's even liberal enough to host a gay wedding at her house–and even pose with the grooms."
+      "sourceUrl": "http://marthamoments.blogspot.com/2011/01/toast-to-grooms.html"
     },
     {
-      "type": "sentence",
-      "text": "That's a woman of the people."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "That's a woman of the people.",
+      "parentId": 14
     }
   ],
   "wikipediaData": {

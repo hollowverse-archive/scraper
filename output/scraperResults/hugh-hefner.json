@@ -33,156 +33,250 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://jezebel.com/5594680/hugh-hefner-on-his-role-in-fighting-segregation",
+      "parentId": 1,
+      "type": "text",
+      "text": "Hugh Hefner was born and raised in Chicago, Illinois."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Hefner describes his religious upbringing as in a \"conservative, Midwestern, Methodist\" family.",
       "sourceTitle": "Hugh Hefner On His Role In Fighting Segregation",
-      "text": "Hefner describes his religious upbringing as in a \"conservative, Midwestern, Methodist\" family."
+      "sourceUrl": "http://jezebel.com/5594680/hugh-hefner-on-his-role-in-fighting-segregation"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0005005/bio",
+      "type": "text",
+      "text": "And in talking about it, Hefner paints a picture of guilt-ridden Puritanism, an environment and lifestyle he rejected and that caused him to become the \"pamphleteer\"",
+      "parentId": 2,
       "sourceTitle": "Hugh M. Hefner – Biography",
-      "text": "And in talking about it, Hefner paints a picture of guilt-ridden Puritanism, an environment and lifestyle he rejected and that caused him to become the \"pamphleteer\""
+      "sourceUrl": "http://www.imdb.com/name/nm0005005/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.somareview.com/hughhefnermanofgod.cfm",
+      "type": "text",
+      "text": "of the sexual revolution.",
+      "parentId": 2,
       "sourceTitle": "Hugh Hefner: Man of God?",
-      "text": "of the sexual revolution."
+      "sourceUrl": "http://www.somareview.com/hughhefnermanofgod.cfm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "His current views of religion are:"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "a) it's ridiculous."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "b) no one should claim to know the answers to these cosmic questions."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "It all amounts to a somewhat antagonistic agnosticism. He has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Hugh_Hefner",
-      "sourceTitle": "Hugh Hefner.",
-      "text": "It's perfectly clear to me that religion is a myth. It's something we have invented to explain the inexplicable… What does it all mean — if it has any meaning at all? But how can it all exist if it doesn't have some kind of meaning? I think anyone who suggests that they have the answer is motivated by the need to invent answers, because we have no such answers."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "It's perfectly clear to me that religion is a myth. It's something we have invented to explain the inexplicable… What does it all mean — if it has any meaning at all? But how can it all exist if it doesn't have some kind of meaning? I think anyone who suggests that they have the answer is motivated by the need to invent answers, because we have no such answers.",
+      "sourceTitle": "Hugh Hefner.",
+      "sourceUrl": "http://www.celebatheists.com/wiki/Hugh_Hefner"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "So we can't know the answer to tough, cosmological questions. Fair enough. But what about religion's utility as instilling morals into society (for fear of damnation in the afterlife, of course)? He says:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 10
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.somareview.com/hughhefnermanofgod.cfm",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "An afterlife would be a really good deal. Yeah, I would vote in favor of that. But in the meantime, I urge one and all to live this life as if there is no reward in the afterlife and to do it in a moral way that leaves this world a little better place than you found it.",
       "sourceTitle": "Hugh Hefner: Man of God?",
-      "text": "An afterlife would be a really good deal. Yeah, I would vote in favor of that. But in the meantime, I urge one and all to live this life as if there is no reward in the afterlife and to do it in a moral way that leaves this world a little better place than you found it."
+      "sourceUrl": "http://www.somareview.com/hughhefnermanofgod.cfm"
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "type": "heading",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Politics and Pornography"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Unsurprisingly, Hefner's politics have historically been oriented toward First Amendment rights and positioned against conservatism. His business has, for its entire existence, been pitted against \"traditional\" values of morality, decency and purity–and he's become quite the warrior."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.playboyenterprises.com/home/content.cfm?content=t_title_as_division&ArtTypeID=0008B752-BBD0-1C76-8FEA8304E50A010D&packet=0001F2B3-75D2-1C7A-9B578304E50A011A&MmenuFlag=foundation&viewMe=1",
+      "parentId": 15,
+      "type": "text",
+      "text": "So important is freedom of expression to Hefner that he has established two awards that he gives out to deserving recipients. One is the Hugh M. Hefner First Amendment award, given to 100 embattled defenders of First Amendment rights every year. The second is the Freedom of Expression Award, given to one person every year who is \"dedicated to defending, advocating, or supporting the First Amendment through their personal or professional pursuits.\"",
       "sourceTitle": "The Playboy Foundation",
-      "text": "So important is freedom of expression to Hefner that he has established two awards that he gives out to deserving recipients. One is the Hugh M. Hefner First Amendment award, given to 100 embattled defenders of First Amendment rights every year. The second is the Freedom of Expression Award, given to one person every year who is \"dedicated to defending, advocating, or supporting the First Amendment through their personal or professional pursuits.\""
+      "sourceUrl": "http://www.playboyenterprises.com/home/content.cfm?content=t_title_as_division&ArtTypeID=0008B752-BBD0-1C76-8FEA8304E50A010D&packet=0001F2B3-75D2-1C7A-9B578304E50A011A&MmenuFlag=foundation&viewMe=1"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "In the realm of party politics, Hefner is a longtime Democrat–a very longtime Democrat. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.foxnews.com/entertainment/2010/08/02/hugh-hefner-obama-wars-fdr-best-president/",
-      "sourceTitle": "Hugh Hefner: Obama Should 'Get Out Of the Wars,' FDR Was Best President",
-      "text": "I was a Democrat in a Republican household before I could even vote."
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/media_political_donations/Hugh_Hefner.php",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I was a Democrat in a Republican household before I could even vote.",
+      "sourceTitle": "Hugh Hefner: Obama Should 'Get Out Of the Wars,' FDR Was Best President",
+      "sourceUrl": "http://www.foxnews.com/entertainment/2010/08/02/hugh-hefner-obama-wars-fdr-best-president/"
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Hefner has given over $130,000 to political candidates and organizations–and not a single Republican.",
       "sourceTitle": "Hugh Hefner's Federal Campaign Contribution Report",
-      "text": "Hefner has given over $130,000 to political candidates and organizations–and not a single Republican."
+      "sourceUrl": "http://www.newsmeat.com/media_political_donations/Hugh_Hefner.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0005005/bio",
+      "parentId": 20,
+      "type": "text",
+      "text": "And he's quite liberal. Hefner feels that his media empire has been a liberating force for women, that what some feminists might consider sexual exploitation, he considers a chance to strut their stuff and fly in the face of Puritanical bondage.",
       "sourceTitle": "Hugh M. Hefner – Biography",
-      "text": "And he's quite liberal. Hefner feels that his media empire has been a liberating force for women, that what some feminists might consider sexual exploitation, he considers a chance to strut their stuff and fly in the face of Puritanical bondage."
+      "sourceUrl": "http://www.imdb.com/name/nm0005005/bio"
     },
     {
-      "type": "sentence",
-      "text": "He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said:",
+      "parentId": 20
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.foxnews.com/entertainment/2010/08/02/hugh-hefner-obama-wars-fdr-best-president/",
-      "sourceTitle": "Hugh Hefner: Obama Should 'Get Out Of the Wars,' FDR Was Best President",
-      "text": "We fought for birth control rights and the change in birth control laws, the change in abortion laws, we fought cases to give women the right to choose…"
+      "id": 21
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "We fought for birth control rights and the change in birth control laws, the change in abortion laws, we fought cases to give women the right to choose…",
+      "sourceTitle": "Hugh Hefner: Obama Should 'Get Out Of the Wars,' FDR Was Best President",
+      "sourceUrl": "http://www.foxnews.com/entertainment/2010/08/02/hugh-hefner-obama-wars-fdr-best-president/"
+    },
+    {
+      "type": "paragraph",
+      "id": 23
+    },
+    {
+      "parentId": 23,
+      "type": "text",
       "text": "Most recently, Hefner has thrown his considerable clout behind the gay marriage movement, making an official statement on the subject. An excerpt:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.nydailynews.com/entertainment/gossip/playboy-founder-hugh-hefner-writes-passionate-plea-support-gay-marriage-article-1.1142988",
+      "id": 24
+    },
+    {
+      "type": "paragraph",
+      "id": 25,
+      "parentId": 24
+    },
+    {
+      "parentId": 25,
+      "type": "text",
+      "text": "Today, in every instance of sexual rights falling under attack, you'll find legislation forced into place by people who practice discrimination disguised as religious freedom. Their goal is to dehumanize everyone's sexuality and reduce us to using sex for the sole purpose of perpetuating our species. To that end, they will criminalize your entire sex life.",
       "sourceTitle": "Playboy founder Hugh Hefner writes passionate plea in support of gay marriage",
-      "text": "Today, in every instance of sexual rights falling under attack, you'll find legislation forced into place by people who practice discrimination disguised as religious freedom. Their goal is to dehumanize everyone's sexuality and reduce us to using sex for the sole purpose of perpetuating our species. To that end, they will criminalize your entire sex life."
+      "sourceUrl": "http://www.nydailynews.com/entertainment/gossip/playboy-founder-hugh-hefner-writes-passionate-plea-support-gay-marriage-article-1.1142988"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 26
+    },
+    {
+      "parentId": 26,
+      "type": "text",
       "text": "Keep on truckin' Hef. You and your scantily-clad bunnies are as American as apple pie and baseball."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

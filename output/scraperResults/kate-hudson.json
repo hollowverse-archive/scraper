@@ -33,97 +33,141 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kate Hudson was born in Los Angeles, California and grew up in Colorado."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0005028/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Hudson considers herself both Jewish and Buddhist, or \"Jewbu\" if you will. Her Jewish roots are confined to her maternal grandmother's lineage.",
       "sourceTitle": "Kate Hudson (I) – Biography.",
-      "text": "Hudson considers herself both Jewish and Buddhist, or \"Jewbu\" if you will. Her Jewish roots are confined to her maternal grandmother's lineage."
+      "sourceUrl": "http://www.imdb.com/name/nm0005028/bio"
     },
     {
-      "type": "sentence",
-      "text": "From the few interviews I could find where she talked about her spiritual side, she seemed to consider herself Jewish in identity and Buddhist in practice."
+      "type": "text",
+      "text": "From the few interviews I could find where she talked about her spiritual side, she seemed to consider herself Jewish in identity and Buddhist in practice.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.tribute.ca/newsletter/90/starchat_01.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "For example, when she talks about being Jewish it's more in the context of identifying with a character",
       "sourceTitle": "Kate Hudson Interview: Alex and Emma.",
-      "text": "For example, when she talks about being Jewish it's more in the context of identifying with a character"
+      "sourceUrl": "http://www.tribute.ca/newsletter/90/starchat_01.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0005028/bio",
+      "type": "text",
+      "text": "or experiencing antisemitism.",
+      "parentId": 3,
       "sourceTitle": "Kate Hudson (I) – Biography.",
-      "text": "or experiencing antisemitism."
+      "sourceUrl": "http://www.imdb.com/name/nm0005028/bio"
     },
     {
-      "type": "sentence",
-      "text": "But when she talks about Buddhism, it's in the context of how she lives her life:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But when she talks about Buddhism, it's in the context of how she lives her life:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.dailymail.co.uk/home/you/article-1378083/KATE-HUDSON-You-live-life-heart.html",
-      "sourceTitle": "Kate Hudson: 'You have to live life with your heart.'",
-      "text": "Mum is a Buddhist. She has taught me to look at life as lessons to be learned: we all experience love and disappointment, laughter and pain. Her philosophy has stopped me from becoming cynical, which squashes the good things. If you focus on positivity and honesty, you'll be happy."
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/home/you/article-1378083/KATE-HUDSON-You-live-life-heart.html",
-      "sourceTitle": "Kate Hudson: 'You have to live life with your heart.'",
-      "text": "But whatever form it takes, it's clear that Hudson is, as she puts it, a spiritual person."
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "text",
+      "text": "Mum is a Buddhist. She has taught me to look at life as lessons to be learned: we all experience love and disappointment, laughter and pain. Her philosophy has stopped me from becoming cynical, which squashes the good things. If you focus on positivity and honesty, you'll be happy.",
+      "sourceTitle": "Kate Hudson: 'You have to live life with your heart.'",
+      "sourceUrl": "http://www.dailymail.co.uk/home/you/article-1378083/KATE-HUDSON-You-live-life-heart.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "But whatever form it takes, it's clear that Hudson is, as she puts it, a spiritual person.",
+      "sourceTitle": "Kate Hudson: 'You have to live life with your heart.'",
+      "sourceUrl": "http://www.dailymail.co.uk/home/you/article-1378083/KATE-HUDSON-You-live-life-heart.html"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "The Silent Democrat"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Kate_Hudson.php",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Hudson's campaign finance contribution report makes clear that she's a Democrat. She has only made two contributions, both to blue candidates, but her $15,000 contribution to Barack Obama in 2008",
       "sourceTitle": "Kate Hudson's Federal Campaign Contribution Report.",
-      "text": "Hudson's campaign finance contribution report makes clear that she's a Democrat. She has only made two contributions, both to blue candidates, but her $15,000 contribution to Barack Obama in 2008"
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Kate_Hudson.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://skyliving.sky.com/news-gossip/president-obama-white-house-dinner-kate-hudson-lindsay-lohan-elle-macpherson#!imageId=8ad5890136e987540137026c1f934262",
+      "type": "text",
+      "text": "makes it seem like she really cared about that one. And she apparently still supported the president in 2012 by attending a fundraiser early in the year.",
+      "parentId": 8,
       "sourceTitle": "Kate Hudson, Lindsay Lohan And Eva Longoria All Turned Out For President Obama's White House Dinner.",
-      "text": "makes it seem like she really cared about that one. And she apparently still supported the president in 2012 by attending a fundraiser early in the year."
+      "sourceUrl": "http://skyliving.sky.com/news-gossip/president-obama-white-house-dinner-kate-hudson-lindsay-lohan-elle-macpherson#!imageId=8ad5890136e987540137026c1f934262"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/11/05/glee-modern-family-hollywood-reporter-gay-tv-poll_n_2077149.html",
+      "parentId": 9,
+      "type": "text",
+      "text": "But aside from that generous support, Hudson hasn't spoken up about any political issues at all. Nothing on healthcare, immigration reform, gun control, or gay marriage. Maybe her cameo on the TV show"
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "Glee"
+    },
+    {
+      "type": "text",
+      "text": "can be an endorsement of sort for the gay rights movement, since the show is, at least for fans, an icon of the movement.",
+      "parentId": 9,
       "sourceTitle": "'Glee,' 'Modern Family' And Other LGBT-Themed TV Shows Drive Gay Marriage Support: Poll.",
-      "text": "But aside from that generous support, Hudson hasn't spoken up about any political issues at all. Nothing on healthcare, immigration reform, gun control, or gay marriage. Maybe her cameo on the TV show  can be an endorsement of sort for the gay rights movement, since the show is, at least for fans, an icon of the movement."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/11/05/glee-modern-family-hollywood-reporter-gay-tv-poll_n_2077149.html"
     },
     {
-      "type": "sentence",
-      "text": "But that might be a bit of a stretch."
+      "type": "text",
+      "text": "But that might be a bit of a stretch.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "So even though she clearly cares about politics, she doesn't talk about it. Just like her religious beliefs, she doesn't seem too interested in telling everybody all about it."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

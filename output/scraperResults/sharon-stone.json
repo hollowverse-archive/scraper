@@ -35,111 +35,178 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sharon Stone was born and raised in Meadville, Pennsylvania."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/sharon-stone-blonde-bombshell-837479.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "After apparently not having much religion to speak of, Stone had a brief foray into the Church of Scientology, after which she became a Buddhist.",
       "sourceTitle": "Sharon Stone: Blonde bombshell.",
-      "text": "After apparently not having much religion to speak of, Stone had a brief foray into the Church of Scientology, after which she became a Buddhist."
+      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/sharon-stone-blonde-bombshell-837479.html"
     },
     {
-      "type": "sentence",
-      "text": "She makes it clear, however, that she still believes in God–but she clarifies, not the Buddha as God. Buddhism, she says, is more of a way of living life than it is belief in a deity. She described her spirituality when she said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She makes it clear, however, that she still believes in God–but she clarifies, not the Buddha as God. Buddhism, she says, is more of a way of living life than it is belief in a deity. She described her spirituality when she said,",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.livingdharma.org/Real.World.Buddhism/S.Stone-BuddhismPractice.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I'm religious. Probably, to a lot of people's thought, I'm extremely religious. My practice is Buddhism, but I believe in God. . . . I've really given up my life to God and I know that's why I'm OK and at peace.",
       "sourceTitle": "Sharon Stone-Balancing Religion and Acting, Buddha and God.",
-      "text": "I'm religious. Probably, to a lot of people's thought, I'm extremely religious. My practice is Buddhism, but I believe in God. . . . I've really given up my life to God and I know that's why I'm OK and at peace."
+      "sourceUrl": "http://www.livingdharma.org/Real.World.Buddhism/S.Stone-BuddhismPractice.html"
     },
     {
-      "type": "sentence",
-      "text": "It's tough to say exactly what she means by that, but if I had to guess, I'd say she probably has blended together some sense of a Christian God with her practice of Buddhism. But she reveals that it isn't just Buddhist meditation she's into–she believes in , a concept in several eastern traditions relating to cause and effect."
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "text",
+      "text": "It's tough to say exactly what she means by that, but if I had to guess, I'd say she probably has blended together some sense of a Christian God with her practice of Buddhism. But she reveals that it isn't just Buddhist meditation she's into–she believes in"
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "link",
+      "text": "karma",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Karma_in_Buddhism"
+    },
+    {
+      "type": "text",
+      "text": ", a concept in several eastern traditions relating to cause and effect.",
+      "parentId": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Stone's interpretation of karmic law got her into a little bit of a public relations mess in 2008. After a massive earthquake in China that year which killed 68,000 people, Stone publicly pontificated that maybe it was bad karma being visited on the people of China for that country's policies toward the Buddhist state of Tibet. She said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/sharon-stone-blonde-bombshell-837479.html",
-      "sourceTitle": "Sharon Stone: Blonde bombshell.",
-      "text": "I am not happy about the way the Chinese are treating the Tibetans because I don't think anyone should be unkind to anyone else. . . . And this earthquake and all that stuff happened, and I thought 'is that karma–when you're not nice and then the bad things happen to you.'"
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I am not happy about the way the Chinese are treating the Tibetans because I don't think anyone should be unkind to anyone else. . . . And this earthquake and all that stuff happened, and I thought 'is that karma–when you're not nice and then the bad things happen to you.'",
+      "sourceTitle": "Sharon Stone: Blonde bombshell.",
+      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/sharon-stone-blonde-bombshell-837479.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "It's understandable that, after such a tragedy, some would consider that a callous remark from a rich white lady, safe and happy in Los Angeles. But maybe she was just trying to explore her faith. Either way, maybe she should have done that privately."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Basic Political Instincts"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Sharon_Stone.php",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "But then again, being private about her beliefs is not something for which Sharon Stone is known. She's a long-time supporter of the Democrats, having donated nearly $45,000 to politicians and special interest groups associated with that party.",
       "sourceTitle": "Sharon Stone's Federal Campaign Contribution Report.",
-      "text": "But then again, being private about her beliefs is not something for which Sharon Stone is known. She's a long-time supporter of the Democrats, having donated nearly $45,000 to politicians and special interest groups associated with that party."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Sharon_Stone.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thehill.com/capital-living/in-the-know/239627-actress-sharon-stone-says-that-obamas-reelection-chances-are-spectacular-",
+      "parentId": 12,
+      "type": "text",
+      "text": "During Barack Obama's reelection campaign she said her \"support for him has never wavered.\"",
       "sourceTitle": "Actress Sharon Stone says that Obama's reelection chances are 'spectacular.'",
-      "text": "During Barack Obama's reelection campaign she said her \"support for him has never wavered.\""
+      "sourceUrl": "http://thehill.com/capital-living/in-the-know/239627-actress-sharon-stone-says-that-obamas-reelection-chances-are-spectacular-"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imnotobsessed.com/2012/11/01/sharon-stone-wears-her-politics-on-her-purse/#.ULENV4fAdf1",
+      "type": "text",
+      "text": "And for those who may have missed her endorsement, she wore around an Obama purse in 2012 just to make sure everybody knew for whom she was voting.",
+      "parentId": 12,
       "sourceTitle": "Sharon Stone Wears Her Politics On Her Purse.",
-      "text": "And for those who may have missed her endorsement, she wore around an Obama purse in 2012 just to make sure everybody knew for whom she was voting."
+      "sourceUrl": "http://www.imnotobsessed.com/2012/11/01/sharon-stone-wears-her-politics-on-her-purse/#.ULENV4fAdf1"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.contactmusic.com/news-article/stone-urges-women-to-join-middle-east-peace-effort_09_03_2006",
+      "parentId": 13,
+      "type": "text",
+      "text": "She's interested in international politics as well, as we saw from her comment on China. In a press conference during a trip to Israel promoting both peace for the Israeli-Palestinian conflict and women's rights, she said she \"would kiss just about anybody for peace in the Middle East!\"",
       "sourceTitle": "Stone Urges Women To Join Middle East Peace Effort.",
-      "text": "She's interested in international politics as well, as we saw from her comment on China. In a press conference during a trip to Israel promoting both peace for the Israeli-Palestinian conflict and women's rights, she said she \"would kiss just about anybody for peace in the Middle East!\""
+      "sourceUrl": "http://www.contactmusic.com/news-article/stone-urges-women-to-join-middle-east-peace-effort_09_03_2006"
     },
     {
-      "type": "sentence",
-      "text": "She continued, saying men and women need to work together to promote peace efforts:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She continued, saying men and women need to work together to promote peace efforts:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.contactmusic.com/news-article/stone-urges-women-to-join-middle-east-peace-effort_09_03_2006",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "The most wonderful thing that has happened is that women found freedom, but what do we do with it? Are we women in our freedom? We didn't ask for freedom to become men, but to aid them with our feminine instinct.",
       "sourceTitle": "Stone Urges Women To Join Middle East Peace Effort.",
-      "text": "The most wonderful thing that has happened is that women found freedom, but what do we do with it? Are we women in our freedom? We didn't ask for freedom to become men, but to aid them with our feminine instinct."
+      "sourceUrl": "http://www.contactmusic.com/news-article/stone-urges-women-to-join-middle-east-peace-effort_09_03_2006"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Okay, so that might not have been the most productive press conference on peace in the Middle East ever held, but we get the point. She just wants everybody to get along."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

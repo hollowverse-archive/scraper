@@ -35,128 +35,197 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
+      "parentId": 1,
+      "type": "text",
+      "text": "Taylor Momsen was born in St. Louis, Missouri and grew up in New York City."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
       "text": "Momsen was raised a Catholic, but let's just say she's probably not Catholic anymore. In fact, she has no trouble at all cracking crude jokes at the church's expense and, taking it a step further, totally blasting Catholic policies and beliefs. On a radio show in New Zealand, Momsen said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://nymag.com/daily/intel/2010/08/taylor_momsen_gets_spiritual.html",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I was raised Catholic. I fucked a priest once–I'm just kidding.",
       "sourceTitle": "Taylor Momsen Gets Spiritual",
-      "text": "I was raised Catholic. I fucked a priest once–I'm just kidding."
+      "sourceUrl": "http://nymag.com/daily/intel/2010/08/taylor_momsen_gets_spiritual.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0597410/bio",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "All joking aside, (Momsen has self-identified as \"out of my fucking mind.\"",
       "sourceTitle": "Taylor Momsen – Biography",
-      "text": "All joking aside, (Momsen has self-identified as \"out of my fucking mind.\""
+      "sourceUrl": "http://www.imdb.com/name/nm0597410/bio"
     },
     {
-      "type": "sentence",
-      "text": ") Momsen may have been taking a back-handed stab at allegations regarding Catholic priests molesting little boys. She has formally addressed that issue, as well as the Catholic Church's stance on masturbation, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": ") Momsen may have been taking a back-handed stab at allegations regarding Catholic priests molesting little boys. She has formally addressed that issue, as well as the Catholic Church's stance on masturbation, saying:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.digitalspy.com/celebrity/news/a257742/taylor-momsen-blasts-catholic-church.html",
-      "sourceTitle": "Taylor Momsen blasts Catholic Church",
-      "text": "[My Song \"Goin' Down\"] was kind of a fuck you to all the molestation going on. It was just insane. I'm not a whore for masturbating, so fuck you if you want to call me one. I think women should equally be allowed to pleasure themselves as much as men."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "[My Song \"Goin' Down\"] was kind of a fuck you to all the molestation going on. It was just insane. I'm not a whore for masturbating, so fuck you if you want to call me one. I think women should equally be allowed to pleasure themselves as much as men.",
+      "sourceTitle": "Taylor Momsen blasts Catholic Church",
+      "sourceUrl": "http://www.digitalspy.com/celebrity/news/a257742/taylor-momsen-blasts-catholic-church.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Not a fan of the Catholic Church, fine. But does that make her an atheist? Momsen says no, but again it's ambiguous and confusing:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.zimbio.com/Beyond+the+Charts/articles/sAYhUJ-S4AM/Taylor+Momsen+God+Getting+Naked+Going+Crazy",
-      "sourceTitle": "Taylor Momsen on God, Getting Naked, and Going Crazy for Her Art",
-      "text": "I'm not an atheist, because I believe that I know nothing. But I also don't believe in anything, either… So… you don't want to know what I think, I've got a fucked up brain."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I'm not an atheist, because I believe that I know nothing. But I also don't believe in anything, either… So… you don't want to know what I think, I've got a fucked up brain.",
+      "sourceTitle": "Taylor Momsen on God, Getting Naked, and Going Crazy for Her Art",
+      "sourceUrl": "http://www.zimbio.com/Beyond+the+Charts/articles/sAYhUJ-S4AM/Taylor+Momsen+God+Getting+Naked+Going+Crazy"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Fair enough, we'll leave it at that. As a side-note, when Momsen was asked if she believes in life after death, she replied:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://taylormomsenquotes.tumblr.com/",
-      "sourceTitle": "Taylor Momsen Quotes",
-      "text": "I believe in death after life."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I believe in death after life.",
+      "sourceTitle": "Taylor Momsen Quotes",
+      "sourceUrl": "http://taylormomsenquotes.tumblr.com/"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "At first interpretation, one could think it means she believes you live, you die and that's it, or everybody dies? On second interpretation, it could be thought of as an attempt at being profound by a 17 year-old who thinks rather highly of herself. You be the judge."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 15
     },
     {
-      "type": "heading",
+      "parentId": 15,
+      "type": "text",
       "text": "Politics or just blatant disregard for rule of law?"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Momsen is too young to (as of the writing of this article) have participated in any elections in the U.S. And considering her penchant for saying outrageous things, it's surprising that she hasn't really made any explicit political comments despite her age."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://hollywoodlife.com/pics/taylor-momsen-pics-pasties-boobs-shocking-pretty-reckless-skanky-concert/",
+      "parentId": 17,
+      "type": "text",
+      "text": "However, she does seem to really want to push the limits of socially-accepted sexual convention, flashing crowds at her rock shows at the age of 17",
       "sourceTitle": "Taylor Momsen Flashes Her 17-Year-Old Chest At NYC Concert",
-      "text": "However, she does seem to really want to push the limits of socially-accepted sexual convention, flashing crowds at her rock shows at the age of 17"
+      "sourceUrl": "http://hollywoodlife.com/pics/taylor-momsen-pics-pasties-boobs-shocking-pretty-reckless-skanky-concert/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://taylormomsenquotes.tumblr.com/",
+      "type": "text",
+      "text": "and thumbing her nose at fathers of young girls that might look up to the singer's risque outfits.",
+      "parentId": 17,
       "sourceTitle": "Taylor Momsen Quotes",
-      "text": "and thumbing her nose at fathers of young girls that might look up to the singer's risque outfits."
+      "sourceUrl": "http://taylormomsenquotes.tumblr.com/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "But hey, Momsen fans, let us know if she runs for office or endorses the Libertarian Party or something like that in 2016."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Taylor_Momsen",
     "title": "Taylor Momsen",
     "image": {
-      "name": "Taylor_Momsen_Summer_2017.jpg",
+      "name": "Taylor_Momsen_at_Met_Opera.jpg",
       "info": {
-        "canonicaltitle": "File:Taylor Momsen Summer 2017.jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Taylor_Momsen_Summer_2017.jpg/200px-Taylor_Momsen_Summer_2017.jpg",
-        "thumbwidth": 200,
+        "canonicaltitle": "File:Taylor Momsen at Met Opera.jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Taylor_Momsen_at_Met_Opera.jpg/172px-Taylor_Momsen_at_Met_Opera.jpg",
+        "thumbwidth": 172,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Taylor_Momsen_Summer_2017.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Taylor_Momsen_Summer_2017.jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=61228262",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Taylor_Momsen_at_Met_Opera.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Taylor_Momsen_at_Met_Opera.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7382166",
         "extmetadata": {
           "DateTime": {
-            "value": "2017-07-21 15:34:25",
+            "value": "2010-10-22 20:45:57",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "Taylor Momsen Summer 2017",
+            "value": "Taylor Momsen at Met Opera",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -166,7 +235,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Rock and roll|Rock music groups|Self-published work|Taylor Momsen in 2017|The Pretty Reckless",
+            "value": "2000s dresses|Flickr images reviewed by File Upload Bot (Magnus Manske)|Personality rights warning|Red dresses|Taylor Momsen",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -176,29 +245,29 @@
             "hidden": ""
           },
           "ImageDescription": {
-            "value": "Taylor Momsen Summer 2017",
+            "value": "Taylor Momsen at the Metropolitan Opera opening in 2008. Rubenstein, photographer Martyna Borkowski",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "2017-07-21",
+            "value": "2008-09-22 18:39",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/23357263@N03/3101757788/\">Taylor Momsen</a>\n<ul>\n<li>Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:Tabercil\" title=\"User:Tabercil\">Tabercil</a>\n</li>\n</ul>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:DASCom&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:DASCom (page does not exist)\">DASCom</a>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/people/23357263@N03\">Rubenstein</a>",
             "source": "commons-desc-page"
           },
           "LicenseShortName": {
-            "value": "CC BY-SA 4.0",
+            "value": "CC BY 2.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "UsageTerms": {
-            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "value": "Creative Commons Attribution 2.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -208,7 +277,7 @@
             "hidden": ""
           },
           "LicenseUrl": {
-            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "value": "http://creativecommons.org/licenses/by/2.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -218,12 +287,12 @@
             "hidden": ""
           },
           "Restrictions": {
-            "value": "",
+            "value": "personality",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "License": {
-            "value": "cc-by-sa-4.0",
+            "value": "cc-by-2.0",
             "source": "commons-templates",
             "hidden": ""
           }

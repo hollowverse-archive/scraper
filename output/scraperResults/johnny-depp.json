@@ -32,84 +32,140 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=Jt0eqVAwhP8",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
+      "text": "Depp was born into a middle-class American family. His family moved around a lot and before his parents' divorce in 1978, he had lived in 20 different locations in the U.S.",
       "sourceTitle": "Inside the Actor's Studio Johnny Depp 1",
-      "text": "Depp was born into a middle-class American family. His family moved around a lot and before his parents' divorce in 1978, he had lived in 20 different locations in the U.S."
+      "sourceUrl": "http://www.youtube.com/watch?v=Jt0eqVAwhP8"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "text",
+      "text": "Worshipping Children?"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 3
+    },
+    {
+      "parentId": 3,
+      "type": "text",
       "text": "Depp has given hundreds of interviews in his career and managed to skirt the issue of religion in almost all of them. In 2011, Larry King asked him directly if he had faith, and Depp replied:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Johnny_Depp",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I have faith in my kids. Yeah, I have faith in my kids. And I have, I have faith, you know, as long as you keep moving forward, just keep walking forward things will be alright, I suppose, you know. Faith in terms of religion, I don't, religion is not my specialty.",
       "sourceTitle": "Interview with Larry King (October 16, 2011)",
-      "text": "I have faith in my kids. Yeah, I have faith in my kids. And I have, I have faith, you know, as long as you keep moving forward, just keep walking forward things will be alright, I suppose, you know. Faith in terms of religion, I don't, religion is not my specialty."
+      "sourceUrl": "http://www.celebatheists.com/wiki/Johnny_Depp"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Agnosticism",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Obviously, he loves his kids. But this quote points more towards either agnosticism",
       "sourceTitle": "Agnosticism",
-      "text": "Obviously, he loves his kids. But this quote points more towards either agnosticism"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Agnosticism"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Atheism",
+      "type": "text",
+      "text": "or atheism.",
+      "parentId": 6,
       "sourceTitle": "Atheism",
-      "text": "or atheism."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Atheism"
     },
     {
-      "type": "sentence",
-      "text": "Either way, you get the feeling Depp doesn't care much for religion."
+      "type": "text",
+      "text": "Either way, you get the feeling Depp doesn't care much for religion.",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "break"
+      "parentId": 7,
+      "type": "text",
+      "text": "Stupid America"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Depp, as a successful actor, has surely earned the right to analyze U.S. foreign policy. During the beginning of the U.S.'s second war in Iraq, Depp, like many celebrities at the time, came out strongly against the war. Depp said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.cnn.com/2003/SHOWBIZ/Movies/09/03/depp.us.reax.reut/",
-      "sourceTitle": "Johnny Depp: U.S. is like a stupid puppy",
-      "text": "I was ecstatic they re-named 'French Fries' as 'Freedom Fries'. Grown men and women in positions of power in the U.S. government showing themselves as idiots."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I was ecstatic they re-named 'French Fries' as 'Freedom Fries'. Grown men and women in positions of power in the U.S. government showing themselves as idiots.",
+      "sourceTitle": "Johnny Depp: U.S. is like a stupid puppy",
+      "sourceUrl": "http://www.cnn.com/2003/SHOWBIZ/Movies/09/03/depp.us.reax.reut/"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "War supporters in the U.S. made such a fuss about Depp's comments, that he felt the need to retract his statement and added:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.ohjohnny.net/quotes/quotes.html",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Taken in context, what I was saying was that, compared to Europe, America is a very young country and we are still growing as a nation.",
       "sourceTitle": "Johnny Depp Quotes",
-      "text": "Taken in context, what I was saying was that, compared to Europe, America is a very young country and we are still growing as a nation."
+      "sourceUrl": "http://www.ohjohnny.net/quotes/quotes.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "No, Johnny, you were probably right about that one."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -34,131 +34,211 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Bob Dylan, originally Robert Allen Zimmerman, was born in Duluth, Minnesota and raised in Hibbing, Minnesota."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Dylan was brought up in a devoutly Jewish family. He had a bar mitzvah at 13, like all normal Jewish boys."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://cco.cambridge.org/extract?id=ccol9780521886949_CCOL9780521886949A009",
+      "parentId": 3,
+      "type": "text",
+      "text": "Dylan's religious beliefs are a subject of controversy, intrigue, debate, and fascination. Throughout his decades-long career in the spotlight, Dylan has amended his official religious views and even switched religions outright. In 1979, Dylan \"found Christ,\" was \"born-again,\" and proceeded to release two Christian gospel albums.",
       "sourceTitle": "Cambridge Collections Online: Bob Dylan and religion",
-      "text": "Dylan's religious beliefs are a subject of controversy, intrigue, debate, and fascination. Throughout his decades-long career in the spotlight, Dylan has amended his official religious views and even switched religions outright. In 1979, Dylan \"found Christ,\" was \"born-again,\" and proceeded to release two Christian gospel albums."
+      "sourceUrl": "http://cco.cambridge.org/extract?id=ccol9780521886949_CCOL9780521886949A009"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Apparently, many of Dylan's fans were very dissapointed by this move, but Dylan didn't seem to care. Responding to critics, Dylan said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://content.yudu.com/Library/A1plqd/BobDylanEveryMindPol/resources/765.htm",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I've never said I'm born again. That's just a media term. I don't think I've been an agnostic. I've always thought there's a superior power, that this is not the real world and that there's a world to come.",
       "sourceTitle": "Every Mind Polluting Word: Bob Dylan Interviews",
-      "text": "I've never said I'm born again. That's just a media term. I don't think I've been an agnostic. I've always thought there's a superior power, that this is not the real world and that there's a world to come."
+      "sourceUrl": "http://content.yudu.com/Library/A1plqd/BobDylanEveryMindPol/resources/765.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/1997/09/28/arts/pop-jazz-a-wiser-voice-blowin-in-the-autumn-wind.html",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Nearly fifteen years later, Dylan was saying that he doesn't believe in any organized religion and that music was his spirituality.",
       "sourceTitle": "A Wiser Voice Blowin' In the Autumn Wind",
-      "text": "Nearly fifteen years later, Dylan was saying that he doesn't believe in any organized religion and that music was his spirituality."
+      "sourceUrl": "http://www.nytimes.com/1997/09/28/arts/pop-jazz-a-wiser-voice-blowin-in-the-autumn-wind.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thejc.com/arts/arts-features/49490/the-free-spirited-bob-dylan",
+      "type": "text",
+      "text": "But all the while, Dylan was participating in Jewish rituals including the bar mitzvahs of his sons.",
+      "parentId": 7,
       "sourceTitle": "The free-spirited Bob Dylan",
-      "text": "But all the while, Dylan was participating in Jewish rituals including the bar mitzvahs of his sons."
+      "sourceUrl": "http://www.thejc.com/arts/arts-features/49490/the-free-spirited-bob-dylan"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "You can see why Dylan and religion is a bit confusing."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "The political/social prophet"
     },
     {
-      "type": "sentence",
-      "text": "Dylan was hailed as a prophet of the times upon his emergence into popular music in the 1960s. His first hit, \"Blowin' in the Wind,\" later labeled a protest song, seemed to ask if political and social paradigms were necessary. With his third album, , Dylan became an unofficial spokesperson for the civil rights movement and the hippie generation and much of his music and his persona were central in anti-war/anti-Vietnam movements."
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "break"
+      "parentId": 10,
+      "type": "text",
+      "text": "Dylan was hailed as a prophet of the times upon his emergence into popular music in the 1960s. His first hit, \"Blowin' in the Wind,\" later labeled a protest song, seemed to ask if political and social paradigms were necessary. With his third album,"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.redpepper.org.uk/The-Politics-of-Bob-Dylan/",
+      "parentId": 10,
+      "type": "emphasis",
+      "text": "The Times They Are A-Changin'"
+    },
+    {
+      "type": "text",
+      "text": ", Dylan became an unofficial spokesperson for the civil rights movement and the hippie generation and much of his music and his persona were central in anti-war/anti-Vietnam movements.",
+      "parentId": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "In his early days, Dylan's music touched on themes of racism, poverty, corruption, and the cold war.",
       "sourceTitle": "The Politics of Bob Dylan",
-      "text": "In his early days, Dylan's music touched on themes of racism, poverty, corruption, and the cold war."
+      "sourceUrl": "http://www.redpepper.org.uk/The-Politics-of-Bob-Dylan/"
     },
     {
-      "type": "sentence",
-      "text": "Dylan is considered to be an articulate and relevant social critic and was often called \"the voice of a generation.\" In the midst of it all, though, Dylan rejected his role as mouthpiece for social turmoil, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Dylan is considered to be an articulate and relevant social critic and was often called \"the voice of a generation.\" In the midst of it all, though, Dylan rejected his role as mouthpiece for social turmoil, saying:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.redpepper.org.uk/The-Politics-of-Bob-Dylan/",
-      "sourceTitle": "The Politics of Bob Dylan",
-      "text": "Me, I don't want to write for people anymore – you know, be a spokesman. From now on, I want to write from inside me …I'm not part of no movement… I just can't make it with any organization."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Me, I don't want to write for people anymore – you know, be a spokesman. From now on, I want to write from inside me …I'm not part of no movement… I just can't make it with any organization.",
+      "sourceTitle": "The Politics of Bob Dylan",
+      "sourceUrl": "http://www.redpepper.org.uk/The-Politics-of-Bob-Dylan/"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "In the modern political era, Dylan (like his religious views) prefers to remain ambiguous, to take the larger, historical view. One would assume that Dylan might have some nasty things to say about George W. Bush. But no! Dylan saw the Bush years as an era, like any other, that will pass. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 15
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.rightwingbob.com/weblog/archives/5018",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "As far as blaming [the economy] on the last president, think of it this way: The same folks who had held him in such high regard came to despise him. Isn't it funny that they're the very same people who once loved him? People are fickle. Their loyalty can turn at the drop of a hat.",
       "sourceTitle": "Bob Dylan in Rolling Stone: on being an honorary Texan and on George W. Bush",
-      "text": "As far as blaming [the economy] on the last president, think of it this way: The same folks who had held him in such high regard came to despise him. Isn't it funny that they're the very same people who once loved him? People are fickle. Their loyalty can turn at the drop of a hat."
+      "sourceUrl": "http://www.rightwingbob.com/weblog/archives/5018"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/barackobama/5119121/Bob-Dylan-Barack-Obama-may-leave-office-a-beaten-man.html",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Dylan was a supporter of Barack Obama's 2008 presidential campaign, saying Obama is someone who is \"redefining the nature of politics from the ground up.\"",
       "sourceTitle": "Bob Dylan: Barack Obama may leave office a 'broken man.'",
-      "text": "Dylan was a supporter of Barack Obama's 2008 presidential campaign, saying Obama is someone who is \"redefining the nature of politics from the ground up.\""
+      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/barackobama/5119121/Bob-Dylan-Barack-Obama-may-leave-office-a-beaten-man.html"
     },
     {
-      "type": "sentence",
-      "text": "But Dylan took his usual insightful, detached stance later, and compared Obama to all other presidents, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But Dylan took his usual insightful, detached stance later, and compared Obama to all other presidents, saying:",
+      "parentId": 17
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/barackobama/5119121/Bob-Dylan-Barack-Obama-may-leave-office-a-beaten-man.html",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "He'll be the best president he can be. Most of those guys come into office with the best of intentions and leave as beaten men. Johnson would be a good example of that… Nixon, Clinton in a way, Truman, all the rest of them going back. You know, it's like they all fly too close to the sun and get burned.",
       "sourceTitle": "Bob Dylan: Barack Obama may leave office a 'broken man.'",
-      "text": "He'll be the best president he can be. Most of those guys come into office with the best of intentions and leave as beaten men. Johnson would be a good example of that… Nixon, Clinton in a way, Truman, all the rest of them going back. You know, it's like they all fly too close to the sun and get burned."
+      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/barackobama/5119121/Bob-Dylan-Barack-Obama-may-leave-office-a-beaten-man.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "This sort of comment is indicative of the sort of person Dylan really is, a social critic, someone who sees the big picture and isn't fooled by the devil in the details. It's the sort of thing that makes Dylan truly worthy of his status as mouthpiece for progress."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -209,12 +289,12 @@
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/53477761@N08/4937398975/\">Bob Dylan</a>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/53477761@N08/4937398975/\">Bob Dylan</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/53477761@N08\">Alberto Cabello</a> from Vitoria Gasteiz",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/53477761@N08\">Alberto Cabello</a> from Vitoria Gasteiz",
             "source": "commons-desc-page"
           },
           "LicenseShortName": {

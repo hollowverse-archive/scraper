@@ -35,131 +35,201 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Chris Cornell, whose name at birth was Christopher Boyle, was born and raised in Seattle, Washington."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biography.com/people/chris-cornell-278911",
+      "parentId": 2,
+      "type": "text",
+      "text": "Cornell's father came from Catholic stock, and his mother from a Jewish family.",
       "sourceTitle": "Chris Cornell Biography.",
-      "text": "Cornell's father came from Catholic stock, and his mother from a Jewish family."
+      "sourceUrl": "http://www.biography.com/people/chris-cornell-278911"
     },
     {
-      "type": "sentence",
-      "text": "Technically that would make him a Jew, but it doesn't seem to factor into his spiritual journey."
+      "type": "text",
+      "text": "Technically that would make him a Jew, but it doesn't seem to factor into his spiritual journey.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "The Soundgarden front man went to a Catholic school when he was growing up, and it didn't go so well. He said he would have gotten kicked out if his mother hadn't pre-emptively removed him. On the reason why, he said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.rockandtheology.com/?p=6652",
-      "sourceTitle": "Chris Cornell of Soundgarden: Post-Catholic?",
-      "text": "It wasn't for any specific reason other than we asked a lot of questions. . . . Not only did they not have the answers, but it was sort of considered to be rude [to ask]. . . . If somebody tells you this is this and that's the way things are and shut up, you're a kid."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "It wasn't for any specific reason other than we asked a lot of questions. . . . Not only did they not have the answers, but it was sort of considered to be rude [to ask]. . . . If somebody tells you this is this and that's the way things are and shut up, you're a kid.",
+      "sourceTitle": "Chris Cornell of Soundgarden: Post-Catholic?",
+      "sourceUrl": "http://www.rockandtheology.com/?p=6652"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "These days he doesn't follow any particular religion or school of thought, but doesn't get too specific about what exactly that means. He said he believes there are \"a lot of really cool ideas,\" but described himself as a \"free thinker\" and \"open.\" He said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.rockandtheology.com/?p=6652",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "So many bad things–as well as good things–have happened based on people blindly following religion, that I kind of feel like I want to stay away from any type of specific denomination or any religion period, for no other reason than just that.",
       "sourceTitle": "Chris Cornell of Soundgarden: Post-Catholic?",
-      "text": "So many bad things–as well as good things–have happened based on people blindly following religion, that I kind of feel like I want to stay away from any type of specific denomination or any religion period, for no other reason than just that."
+      "sourceUrl": "http://www.rockandtheology.com/?p=6652"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://web.stargate.net/soundgarden/articles/spin_2-92.shtml",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "That Catholic upbringing shows itself in some of Cornell's lyrics, sometimes getting him into some trouble. His song \"Jesus Christ Pose\" expressed the songwriter's frustration with entertainers who deify or martyr themselves in front of their public,",
       "sourceTitle": "SPIN, February 1992.",
-      "text": "That Catholic upbringing shows itself in some of Cornell's lyrics, sometimes getting him into some trouble. His song \"Jesus Christ Pose\" expressed the songwriter's frustration with entertainers who deify or martyr themselves in front of their public,"
+      "sourceUrl": "http://web.stargate.net/soundgarden/articles/spin_2-92.shtml"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://loudwire.com/soundgarden-jesus-christ-pose-banned-music-videos/",
+      "type": "text",
+      "text": "but due in part to the",
+      "parentId": 9
+    },
+    {
+      "parentId": 9,
+      "type": "link",
+      "text": "music video",
+      "sourceUrl": "http://www.youtube.com/watch?v=14r7y6rM6zA"
+    },
+    {
+      "type": "text",
+      "text": ", the band received death threats over the song and MTV refused to air it.",
+      "parentId": 9,
       "sourceTitle": "Soundgarden, 'Jesus Christ Pose' – Banned Music Videos.",
-      "text": "but due in part to the , the band received death threats over the song and MTV refused to air it."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://loudwire.com/soundgarden-jesus-christ-pose-banned-music-videos/"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "From Seattle clubs to campaign rallies"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Cornell said the Seattle grunge scene, his musical birthplace, was \"a very liberal place and a very liberal scene,\" and he seems to be right there with it. He said that they had a reputation as \"aggressive, dark, brooding,\" but that they were also very open and welcoming to women and gay musicians. He said it was a shock to play in other parts of the country that were less tolerant:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://chriscornell.org.uk/articles/seattlegaynews.htm",
-      "sourceTitle": "Chris Cornell Interview by Seattle Gay News, April 2009.",
-      "text": "Heading outside Seattle and starting to tour I would notice a clash between a liberal contingent of our audience and the somewhat more close-minded and really aggressive people."
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.out.com/entertainment/popnography/2012/02/17/chris-cornell-fights-gays-sort",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Heading outside Seattle and starting to tour I would notice a clash between a liberal contingent of our audience and the somewhat more close-minded and really aggressive people.",
+      "sourceTitle": "Chris Cornell Interview by Seattle Gay News, April 2009.",
+      "sourceUrl": "http://chriscornell.org.uk/articles/seattlegaynews.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Notice him juxtaposing liberal with close-minded? At least as far as social issues go, it's not hard to see where he stands. He's apparently quick to defend hapless targets of gay slurs.",
       "sourceTitle": "Chris Cornell Fights for the Gays (Sort of).",
-      "text": "Notice him juxtaposing liberal with close-minded? At least as far as social issues go, it's not hard to see where he stands. He's apparently quick to defend hapless targets of gay slurs."
+      "sourceUrl": "http://www.out.com/entertainment/popnography/2012/02/17/chris-cornell-fights-gays-sort"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.seattlepi.com/ae/music/article/Transcript-of-exclusive-P-I-interview-with-Chris-1185127.php#page-1",
+      "type": "text",
+      "text": "And, after living for a time in Paris, Cornell expressed admiration for France's universal health care system. He also called his Robin Hood-themed song \"Hunger Strike,\" \"somewhat of a political, socialist statement.\"",
+      "parentId": 14,
       "sourceTitle": "Transcript of exclusive P-I interview with Chris Cornell.",
-      "text": "And, after living for a time in Paris, Cornell expressed admiration for France's universal health care system. He also called his Robin Hood-themed song \"Hunger Strike,\" \"somewhat of a political, socialist statement.\""
+      "sourceUrl": "http://www.seattlepi.com/ae/music/article/Transcript-of-exclusive-P-I-interview-with-Chris-1185127.php#page-1"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://chriscornell.org.uk/articles/seattlegaynews.htm",
+      "parentId": 15,
+      "type": "text",
+      "text": "Whether or not that places him left of mainstream, Cornell is a big Obama supporter. Back in 2009, he said he hoped Obama would be able restore the United States' reputation in the rest of the world and make big business accountable for their actions,",
       "sourceTitle": "Chris Cornell Interview by Seattle Gay News, April 2009.",
-      "text": "Whether or not that places him left of mainstream, Cornell is a big Obama supporter. Back in 2009, he said he hoped Obama would be able restore the United States' reputation in the rest of the world and make big business accountable for their actions,"
+      "sourceUrl": "http://chriscornell.org.uk/articles/seattlegaynews.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ultimate-guitar.com/news/upcoming_tours/chris_cornell_to_play_fundraiser_for_president_obama.html",
+      "type": "text",
+      "text": "and apparently Cornell approved of Obama's track record. During the 2012 campaign, he played at a handful of fundraisers",
+      "parentId": 15,
       "sourceTitle": "Chris Cornell To Play Fundraiser For President Obama.",
-      "text": "and apparently Cornell approved of Obama's track record. During the 2012 campaign, he played at a handful of fundraisers"
+      "sourceUrl": "http://www.ultimate-guitar.com/news/upcoming_tours/chris_cornell_to_play_fundraiser_for_president_obama.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.brooklynvegan.com/archives/2012/09/the_national_an_4.html",
+      "type": "text",
+      "text": "and rallies.",
+      "parentId": 15,
       "sourceTitle": "The National & Chris Cornell opened for Obama in Iowa.",
-      "text": "and rallies."
+      "sourceUrl": "http://www.brooklynvegan.com/archives/2012/09/the_national_an_4.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rollingstone.com/music/news/chris-cornell-soundgarden-join-obama-inauguration-20130118",
+      "type": "text",
+      "text": "And after the president was reelected, he played at two inaugural events.",
+      "parentId": 15,
       "sourceTitle": "Chris Cornell, Soundgarden Join Obama Inauguration.",
-      "text": "And after the president was reelected, he played at two inaugural events."
+      "sourceUrl": "http://www.rollingstone.com/music/news/chris-cornell-soundgarden-join-obama-inauguration-20130118"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "From the nascent liberal Seattle grunge scene to a celebrity funds-solicitor for the Democratic party–it's quite a leap. But Cornell seems to have done it thoughtfully and articulately."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -35,136 +35,202 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Mayim Bialik was born in San Diego, California. She grew up there and in Los Angeles."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewishrockland.org/Mayim-Bialik.aspx",
+      "parentId": 2,
+      "type": "text",
+      "text": "Bialik is Jewish. Very Jewish. She grew up attending a Reform congregation, but these days describes herself as \"aspiring Modern Orthodox.\"",
       "sourceTitle": "Geek love, parenting and Judaism.",
-      "text": "Bialik is Jewish. Very Jewish. She grew up attending a Reform congregation, but these days describes herself as \"aspiring Modern Orthodox.\""
+      "sourceUrl": "http://www.jewishrockland.org/Mayim-Bialik.aspx"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chabad.org/theJewishWoman/article_cdo/aid/1779169/jewish/Mayim-Bialik.htm",
+      "parentId": 3,
+      "type": "text",
+      "text": "Over the years, starting with her Bat Mitzvah and continuing through her academic education in Hebrew and Jewish Studies at UCLA, Bialik started taking a more traditional approach to her religion.",
       "sourceTitle": "Mayim Bialik.",
-      "text": "Over the years, starting with her Bat Mitzvah and continuing through her academic education in Hebrew and Jewish Studies at UCLA, Bialik started taking a more traditional approach to her religion."
+      "sourceUrl": "http://www.chabad.org/theJewishWoman/article_cdo/aid/1779169/jewish/Mayim-Bialik.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewishrockland.org/Mayim-Bialik.aspx",
+      "type": "text",
+      "text": "Among other things, her more orthodox lifestyle now means she doesn't wear pants, only modest skirts–even on TV.",
+      "parentId": 3,
       "sourceTitle": "Geek love, parenting and Judaism.",
-      "text": "Among other things, her more orthodox lifestyle now means she doesn't wear pants, only modest skirts–even on TV."
+      "sourceUrl": "http://www.jewishrockland.org/Mayim-Bialik.aspx"
     },
     {
-      "type": "sentence",
-      "text": "She said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She said,",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.jewishrockland.org/Mayim-Bialik.aspx",
-      "sourceTitle": "Geek love, parenting and Judaism.",
-      "text": "I was very attracted to the intellectual and halachic aspects of Judaism. I kept studying and learning and find that observing Torah living helps me best become the person I want to be."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I was very attracted to the intellectual and halachic aspects of Judaism. I kept studying and learning and find that observing Torah living helps me best become the person I want to be.",
+      "sourceTitle": "Geek love, parenting and Judaism.",
+      "sourceUrl": "http://www.jewishrockland.org/Mayim-Bialik.aspx"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "As far as living an \"aspiring\" orthodox lifestyle in Hollywood, Bialik says that it can be hard, or \"close to impossible,\" but she does what she can. She said the rituals (like baking challah) can be hard to accomplish, but the hardest part is being a female actress. She said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.jpost.com/Arts-and-Culture/Entertainment/Q-and-A-with-Mayim-Bialik-An-observant-Jew-in-Hollywood",
-      "sourceTitle": "Q&A with Mayim Bialik: An observant Jew in Hollywood.",
-      "text": "For me [the most difficult parts are] the aspects of the 'red carpet' and needing to wear designer clothes that are strapless, and all those things that I don't do and that are actually extremely stressful and difficult to work around because it is a big part of the industry."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "For me [the most difficult parts are] the aspects of the 'red carpet' and needing to wear designer clothes that are strapless, and all those things that I don't do and that are actually extremely stressful and difficult to work around because it is a big part of the industry.",
+      "sourceTitle": "Q&A with Mayim Bialik: An observant Jew in Hollywood.",
+      "sourceUrl": "http://www.jpost.com/Arts-and-Culture/Entertainment/Q-and-A-with-Mayim-Bialik-An-observant-Jew-in-Hollywood"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Her openness about her faith and the strength with which she lives her life outside the typical Hollywood mold is no doubt an inspiration to other orthodox Jewish women–and to anyone else who wants to do things a little differently. Even if you don't share her beliefs, that's something to respect."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Forget Israel, this is about abortion"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Bialik descibes herself as \"not very politically savvy,\" but when it came to the 2012 presidential election, she studied up and said she felt empowered by her decision to support Barack Obama and the Democrats. She even campaigned for the president in Ohio. In a blog post after the election, she wrote,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.kveller.com/mayim-bialik/what-im-hoping-for-the-next-four-years/",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I believe in the principles of the Democratic party and I'm happy \"my guy\" won. . . . I don't ever seem to agree with the Republican party, actually, but I know and love a lot of Republicans and I respect Governor Romney.",
       "sourceTitle": "What I'm Hoping for the Next Four Years.",
-      "text": "I believe in the principles of the Democratic party and I'm happy \"my guy\" won. . . . I don't ever seem to agree with the Republican party, actually, but I know and love a lot of Republicans and I respect Governor Romney."
+      "sourceUrl": "http://www.kveller.com/mayim-bialik/what-im-hoping-for-the-next-four-years/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewishjournal.com/the_ticket/item/mayim_bialik_and_elon_gold_on_obama_victory",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "She said support of Israel is a very important political position for her, but she was confident in both candidates' support of the country. Support of abortion rights, however, was another issue. Bialik said she might have had to quit her acting job and spend her time protesting the possible overturn of"
+    },
+    {
+      "parentId": 14,
+      "type": "emphasis",
+      "text": "Roe vs. Wade"
+    },
+    {
+      "type": "text",
+      "text": "if Romney had won.",
+      "parentId": 14,
       "sourceTitle": "Mayim Bialik and Elon Gold on Obama victory.",
-      "text": "She said support of Israel is a very important political position for her, but she was confident in both candidates' support of the country. Support of abortion rights, however, was another issue. Bialik said she might have had to quit her acting job and spend her time protesting the possible overturn of  if Romney had won."
+      "sourceUrl": "http://www.jewishjournal.com/the_ticket/item/mayim_bialik_and_elon_gold_on_obama_victory"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/10/01/mayim-bialik-peta-ad_n_1930289.html",
+      "parentId": 15,
+      "type": "text",
+      "text": "Bialik also has some more culturally liberal things going on, like her passionate support of veganism.",
       "sourceTitle": "Mayim Bialik PETA Ad: 'The Big Bang Theory' Star Says 'Go Vegan.'",
-      "text": "Bialik also has some more culturally liberal things going on, like her passionate support of veganism."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/10/01/mayim-bialik-peta-ad_n_1930289.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.wired.com/geekmom/2012/05/mayim-bialik-disappoints/",
+      "type": "text",
+      "text": "And she entered the parenthood debate with a book on attachment parenting, which among other things, promotes the anti-vaccination movement.",
+      "parentId": 15,
       "sourceTitle": "Mayim Bialik, You Disappoint Me.",
-      "text": "And she entered the parenthood debate with a book on attachment parenting, which among other things, promotes the anti-vaccination movement."
+      "sourceUrl": "http://www.wired.com/geekmom/2012/05/mayim-bialik-disappoints/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "You could definitely debate with me how \"political\" those things are, but they don't change the gist: Miyam Bialik is a liberal Democrat through and through."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Mayim_Bialik",
     "title": "Mayim Bialik",
     "image": {
-      "name": "Mayim_Bialik_at_PaleyFest_2013.jpg",
+      "name": "Mayim_Bialik_2013.jpg",
       "info": {
-        "canonicaltitle": "File:Mayim Bialik at PaleyFest 2013.jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mayim_Bialik_at_PaleyFest_2013.jpg/200px-Mayim_Bialik_at_PaleyFest_2013.jpg",
-        "thumbwidth": 200,
+        "canonicaltitle": "File:Mayim Bialik 2013.jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mayim_Bialik_2013.jpg/225px-Mayim_Bialik_2013.jpg",
+        "thumbwidth": 225,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mayim_Bialik_at_PaleyFest_2013.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mayim_Bialik_at_PaleyFest_2013.jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=37623430",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Mayim_Bialik_2013.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mayim_Bialik_2013.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64702977",
         "extmetadata": {
           "DateTime": {
-            "value": "2015-01-01 17:16:08",
+            "value": "2017-12-09 15:54:02",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "Mayim Bialik at PaleyFest 2013",
+            "value": "Mayim Bialik 2013",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -174,7 +240,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Female heads|Files from Dominick Dusseault Flickr stream|Flickr images verified by UploadWizard|Mayim Bialik|Taken with Canon EOS 600D|The Big Bang Theory panel at PaleyFest 2013",
+            "value": "Extracted images|The Big Bang Theory panel at PaleyFest 2013",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -184,7 +250,7 @@
             "hidden": ""
           },
           "ImageDescription": {
-            "value": "Mayim Bialik at PaleyFest 2013 for the TV show \"Big Bang Theory\"",
+            "value": "Bialik at Paley Fest in 2013; originally posted at <a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/82924988@N05/15427418604/\">Flickr</a>",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
@@ -192,7 +258,7 @@
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.flickr.com/photos/82924988@N05/15427418604/\">http://www.flickr.com/photos/82924988@N05/15427418604/</a>",
+            "value": "<table class=\"messagebox\" style=\"border: 2px solid #ddd; width: 100%; direction: ltr; clear: both;\"><tr>\n<td style=\"width: 60px; padding: 5px;\"><a href=\"//commons.wikimedia.org/wiki/File:Extracted_image_icon.png\" class=\"image\"><img alt=\"image extraction process\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Extracted_image_icon.png/50px-Extracted_image_icon.png\" width=\"50\" height=\"71\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Extracted_image_icon.png/75px-Extracted_image_icon.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Extracted_image_icon.png/100px-Extracted_image_icon.png 2x\" data-file-width=\"500\" data-file-height=\"714\"></a></td>\n<td style=\"text-align: center;\">This file has been <b>extracted</b> from another file:  <a href=\"//commons.wikimedia.org/wiki/File:Mayim_Bialik_at_PaleyFest_2013.jpg\" title=\"File:Mayim Bialik at PaleyFest 2013.jpg\">Mayim Bialik at PaleyFest 2013.jpg</a><br>\n</td>\n<td style=\"max-width: 200px; padding: 5px;\"><span class=\"wpImageAnnotatorControl wpImageAnnotatorOff\"><a href=\"//commons.wikimedia.org/wiki/File:Mayim_Bialik_at_PaleyFest_2013.jpg\" class=\"image\" title=\"original file\"><img alt=\"original file\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mayim_Bialik_at_PaleyFest_2013.jpg/67px-Mayim_Bialik_at_PaleyFest_2013.jpg\" width=\"67\" height=\"100\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mayim_Bialik_at_PaleyFest_2013.jpg/100px-Mayim_Bialik_at_PaleyFest_2013.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mayim_Bialik_at_PaleyFest_2013.jpg/133px-Mayim_Bialik_at_PaleyFest_2013.jpg 2x\" data-file-width=\"1067\" data-file-height=\"1600\"></a></span></td>\n</tr></table>",
             "source": "commons-desc-page",
             "hidden": ""
           },

@@ -29,82 +29,124 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jason Statham was born and raised in Shirebrook, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Statham is on to folks like us here at The Hollowverse. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/jason_statham_2.html",
-      "sourceTitle": "Jason Statham Quotes",
-      "text": "People like to pigeonhole you."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "People like to pigeonhole you.",
+      "sourceTitle": "Jason Statham Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/jason_statham_2.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Maybe he said that, acknowledging the difficulties any pigeonholer might have when trying to figure out his, say, religious views. But I might have bested him. Let's see."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.whosdatedwho.com/sections/celebrities/religion/protestant_3",
+      "parentId": 6,
+      "type": "text",
+      "text": "At least one website designates Statham as a Protestant Christian.",
       "sourceTitle": "Celebrity Religion – Protestant (Celebrities)",
-      "text": "At least one website designates Statham as a Protestant Christian."
+      "sourceUrl": "http://www.whosdatedwho.com/sections/celebrities/religion/protestant_3"
     },
     {
-      "type": "sentence",
-      "text": "This is of no surprise considering he grew up in a small town in the very middle of England where Anglican Protestantism reigns strong and has since the days of Henry VIII."
+      "type": "text",
+      "text": "This is of no surprise considering he grew up in a small town in the very middle of England where Anglican Protestantism reigns strong and has since the days of Henry VIII.",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "But of course, this doesn't mean anything when it comes to Statham's true, personal feelings regarding religion. I might have gotten a line on him when he was describing how he so skilfully portrays members of the criminal underworld. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0005458/bio",
-      "sourceTitle": "Jason Statham – Biography",
-      "text": "Growing up where I did, you met a lot of colorful characters whose business was on the other side of the law, or more likely you didn't know what they were up to, and you never would. So playing those kinds of characters now, I can draw on that. The rest of it, you can practice or learn from books. But mostly, I draw from my experiences. That's all I have, you know."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Growing up where I did, you met a lot of colorful characters whose business was on the other side of the law, or more likely you didn't know what they were up to, and you never would. So playing those kinds of characters now, I can draw on that. The rest of it, you can practice or learn from books. But mostly, I draw from my experiences. That's all I have, you know.",
+      "sourceTitle": "Jason Statham – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0005458/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "The last line, where he says, \"I draw from my experiences. That's all I have, you know,\" indicates strong empirical leanings. It shows that Statham doesn't put stock into professions of faith, or knowledge based on an authority or authoritative text–like the Bible for example. He trusts only what he, himself, has experienced. That probably puts him in the atheist/agnostic category."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "Action star politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Statham succeeds and avoiding pigeonholing when it comes to his political views, though. He has literally nothing to say on the topic, nothing that I can find at least."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "There is a certain trend among action stars like Statham. Think Bruce Willis, Sylvester Stallone, Clint Eastwood, Arnold Schwarzenegger, and many more. They're all Republican conservatives, or something like it. Of course, Statham is British so he might just be a conservative Conservative. Of course, it's just speculation. If you have any clues, let us know in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

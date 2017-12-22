@@ -31,108 +31,184 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Nathan Fillion was born and raised in Edmonton, Alberta, Canada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Fillion has explicitly stated that he doesn't want to discuss religion–or politics. Strangely, the topic came up when an interviewer asked him if he had a girlfriend. Fillion replied:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.vulture.com/2010/10/the_vulture_transcript_nathan.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I have a lovely girlfriend. I just—well, my public life is about my job. I'm not terrible outspoken politically. I try not to discuss religion, politics, and money. People say, Oh, you're in the public eye—but, you know, it's my job.",
       "sourceTitle": "Nathan Fillion on Castle, Firefly & a Dr. Horrible Sequel",
-      "text": "I have a lovely girlfriend. I just—well, my public life is about my job. I'm not terrible outspoken politically. I try not to discuss religion, politics, and money. People say, Oh, you're in the public eye—but, you know, it's my job."
+      "sourceUrl": "http://www.vulture.com/2010/10/the_vulture_transcript_nathan.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.buddytv.com/info/nathan-fillion-info.aspx",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "However, we do know that Fillion attended, and graduated from, a Catholic high school there in Edmonton.",
       "sourceTitle": "Nathan Fillion Biography",
-      "text": "However, we do know that Fillion attended, and graduated from, a Catholic high school there in Edmonton."
+      "sourceUrl": "http://www.buddytv.com/info/nathan-fillion-info.aspx"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0277213/bio",
+      "type": "text",
+      "text": "And, once the star of a sci-fi TV show with a cult following,",
+      "parentId": 5
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Firefly"
+    },
+    {
+      "type": "text",
+      "text": ", Fillion likened his die-hard fans to Jehovah's Witnesses because of their fervent attempts to bring the show back on the air.",
+      "parentId": 5,
       "sourceTitle": "Nathan Fillion – Biography",
-      "text": "And, once the star of a sci-fi TV show with a cult following, , Fillion likened his die-hard fans to Jehovah's Witnesses because of their fervent attempts to bring the show back on the air."
+      "sourceUrl": "http://www.imdb.com/name/nm0277213/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "Sadly, that's as much as we've got on Fillion's sentiments toward religion. Help us out in the comments if you know anything."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "It's OK, you can say it"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0277213/bio",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Again, Fillion doesn't want to get too political–but it seems he just can't help himself sometimes. But first, it should be acknowledged–just for fun–that one of Fillion's ancestors is a fellow by the name of Jubal Early,",
       "sourceTitle": "Nathan Fillion – Biography",
-      "text": "Again, Fillion doesn't want to get too political–but it seems he just can't help himself sometimes. But first, it should be acknowledged–just for fun–that one of Fillion's ancestors is a fellow by the name of Jubal Early,"
+      "sourceUrl": "http://www.imdb.com/name/nm0277213/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Jubal_Early",
+      "type": "text",
+      "text": "who was a general for the Confederacy during the American Civil War. In fact, even after the war was lost for the Confederacy, Early still advocated for slavery and the \"Southern\" way of life.",
+      "parentId": 8,
       "sourceTitle": "Jubal Early",
-      "text": "who was a general for the Confederacy during the American Civil War. In fact, even after the war was lost for the Confederacy, Early still advocated for slavery and the \"Southern\" way of life."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Jubal_Early"
     },
     {
-      "type": "sentence",
-      "text": "So Fillion's got that going for him."
+      "type": "text",
+      "text": "So Fillion's got that going for him.",
+      "parentId": 8
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "During the lead-up to the 2012 elections in the U.S., Fillion weighed in on the political debate on his Twitter feed–clearly favoring Obama. He once tweeted in reply to his friend, Robert Kazinsky:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 10
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://twitchy.com/2012/10/17/actor-nathan-fillion-runs-with-theory-that-mitt-romney-is-a-slimy-lying-toolbag/",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "@RobertKazinsky: I don't particularly like tweeting politics but Romney is such a slimy lying toolbag.\" …I'm gonna say run with this.",
       "sourceTitle": "Actor Nathan Fillion runs with the theory that Mitt Romney is a 'slimy, lying toolbag.'",
-      "text": "@RobertKazinsky: I don't particularly like tweeting politics but Romney is such a slimy lying toolbag.\" …I'm gonna say run with this."
+      "sourceUrl": "http://twitchy.com/2012/10/17/actor-nathan-fillion-runs-with-theory-that-mitt-romney-is-a-slimy-lying-toolbag/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/NathanFillion/status/262689410267611138",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Then, Fillion tweeted a link to a"
+    },
+    {
+      "parentId": 12,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "https://www.youtube.com/embed/6TiXUF9xbTo"
+    },
+    {
+      "type": "text",
+      "text": "his friend and screenwriter, Joss Whedon, starred in where Whedon was quite sure that a Mitt Romney presidency would result in the zombie apocalypse.",
+      "parentId": 12,
       "sourceTitle": "NathanFillion: A Romney Future?",
-      "text": "Then, Fillion tweeted a link to a  his friend and screenwriter, Joss Whedon, starred in where Whedon was quite sure that a Mitt Romney presidency would result in the zombie apocalypse."
+      "sourceUrl": "https://twitter.com/NathanFillion/status/262689410267611138"
     },
     {
-      "type": "sentence",
-      "text": "Whedon said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Whedon said:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "https://www.youtube.com/embed/6TiXUF9xbTo",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Mitt's ready. He's not afraid to face a ravening, grasping horde of subhumans, because that's how he sees poor people already.",
       "sourceTitle": "Whedon on Romney",
-      "text": "Mitt's ready. He's not afraid to face a ravening, grasping horde of subhumans, because that's how he sees poor people already."
+      "sourceUrl": "https://www.youtube.com/embed/6TiXUF9xbTo"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "So, it's all sort of indirect and secondary, but it's still pretty clear, Fillion sides with the Democrats."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -34,86 +34,137 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Wayne was born in Pittsburgh, Pennsylvania but grew up in a lower-class neighborhood Norman, Oklahoma, a suburb of Oklahoma City."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Wayne is an atheist, though he seems to regret it, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.webcitation.org/5sga8IlY8",
-      "sourceTitle": "'I'm 45 and I'm Going Insane.",
-      "text": "I wish I did believe in God. It would be a great relief to think, 'God'll take care of it. God'll put gas in the car tomorrow.'"
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I wish I did believe in God. It would be a great relief to think, 'God'll take care of it. God'll put gas in the car tomorrow.'",
+      "sourceTitle": "'I'm 45 and I'm Going Insane.",
+      "sourceUrl": "http://www.webcitation.org/5sga8IlY8"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "If you're a fan of the Flaming Lips, you get a sense that Wayne's real religion is his art–be it making epic concept albums or the set to a black-and-white film about space travelers at Christmas or some sort of John Cage-esque sound experiment in a parking garage. Wayne is a real artist: dedication, vision, and madness."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "For an atheist, Wayne seems to believe in a spiritual community of mankind. He says:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.webcitation.org/5sga8IlY8",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "There's some comfort in saying, I'm joining this long line of humanity. We're all going to get in line and our parents will die and our friends will die but I'm in the line with you and you're in it with me and, for some reason, if we're in it together, it's better than doing it alone.",
       "sourceTitle": "'I'm 45 and I'm Going Insane.",
-      "text": "There's some comfort in saying, I'm joining this long line of humanity. We're all going to get in line and our parents will die and our friends will die but I'm in the line with you and you're in it with me and, for some reason, if we're in it together, it's better than doing it alone."
+      "sourceUrl": "http://www.webcitation.org/5sga8IlY8"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "What would politics be like if the world were taken over by pink robots?"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Coyne is very active politically. This doesn't just mean he gets on stage at his shows and talks about how George W. Bush sucks (he does do that actually, even now that G.W. has been out of office for over 3 years)."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thenewsroom.com/details/4400327",
+      "parentId": 11,
+      "type": "text",
+      "text": "Wayne gets involved in local Oklahoma politics. He's been known to endorse city and state candidates–always Democratic of course.",
       "sourceTitle": "The Flaming Lips ' Wayne Coyne Talks on Democratic Party.",
-      "text": "Wayne gets involved in local Oklahoma politics. He's been known to endorse city and state candidates–always Democratic of course."
+      "sourceUrl": "http://www.thenewsroom.com/details/4400327"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "During the 2008 election, Coyne actively campaigned for Obama, saying once in an interview:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.nme.com/news/the-flaming-lips/40839",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Let's hope it's Obama though. It would make people's attitudes change, it shows you it can be more than a dream. We've got a lot of racist and stupidly religious people so there's still a lot of work to do.",
       "sourceTitle": "Flaming Lips back Obama, but tell voters 'not to give up yet.'",
-      "text": "Let's hope it's Obama though. It would make people's attitudes change, it shows you it can be more than a dream. We've got a lot of racist and stupidly religious people so there's still a lot of work to do."
+      "sourceUrl": "http://www.nme.com/news/the-flaming-lips/40839"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2008/10/09/garden/09coyne.html?pagewanted=all",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "For being one of the world's most prolific and eccentric artists, Wayne is very down-to-Earth. He still lives in his old neighborhood in Oklahoma City, the wealthy rock star surrounded by near-poverty. It is probably what inspires him to be involved in local politics.",
       "sourceTitle": "At Home With Wayne Coyne, Not Exactly Domesticated",
-      "text": "For being one of the world's most prolific and eccentric artists, Wayne is very down-to-Earth. He still lives in his old neighborhood in Oklahoma City, the wealthy rock star surrounded by near-poverty. It is probably what inspires him to be involved in local politics."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.nytimes.com/2008/10/09/garden/09coyne.html?pagewanted=all"
     }
   ],
   "wikipediaData": {

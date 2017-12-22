@@ -33,42 +33,78 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Alexandra_Stan",
+      "parentId": 1,
+      "type": "text",
+      "text": "Alexandra Stan was born and raised in Constanta, Romania."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "There is one snippet of information about Stan's religious beliefs that appears on her Wikipedia page",
       "sourceTitle": "Alexandra Stan.",
-      "text": "There is one snippet of information about Stan's religious beliefs that appears on her Wikipedia page"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Alexandra_Stan"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mazda.ahuranews.com/14443/alexandra-stan-i-believe-in-god-and-my-religion-principles/",
+      "type": "text",
+      "text": "and is regurgitated on several other websites.",
+      "parentId": 2,
       "sourceTitle": "Alexandra Stan: I believe in God and my religion principles.",
-      "text": "and is regurgitated on several other websites."
+      "sourceUrl": "http://www.mazda.ahuranews.com/14443/alexandra-stan-i-believe-in-god-and-my-religion-principles/"
     },
     {
-      "type": "sentence",
-      "text": "They state that she believes in God and the Church and has her own religious principles. The  referenced for that fact is an interview in Romanian, which I do not speak, so if any of you out there can help us out by translating a direct quote, that would be amazing."
+      "type": "text",
+      "text": "They state that she believes in God and the Church and has her own religious principles. The",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.urban.ro/muzica/videoclipuri/video-making-of-alexandra-stan-mr-saxobeat/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nationsencyclopedia.com/Europe/Romania-RELIGIONS.html#b",
+      "type": "text",
+      "text": "referenced for that fact is an interview in Romanian, which I do not speak, so if any of you out there can help us out by translating a direct quote, that would be amazing.",
+      "parentId": 2
+    },
+    {
+      "type": "paragraph",
+      "id": 3
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "Until then, if we are to assume that she is religious, we can also assume that the church she refers to is the Romanian Orthodox Church to which the vast majority of Romanians adhere.",
       "sourceTitle": "Religions – Romania.",
-      "text": "Until then, if we are to assume that she is religious, we can also assume that the church she refers to is the Romanian Orthodox Church to which the vast majority of Romanians adhere."
+      "sourceUrl": "http://www.nationsencyclopedia.com/Europe/Romania-RELIGIONS.html#b"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "text": "I couldn't find any information about her political beliefs, but again, it would probably help if I spoke Romanian. Her  don't help us out since they're generally about… well, nothing really. Her interviews don't seem to get that deep, and it doesn't look like she's too outspoken about the politics of her home country. So until further notice, I suppose we can assume she's fairly non-political."
+      "parentId": 4,
+      "type": "text",
+      "text": "I couldn't find any information about her political beliefs, but again, it would probably help if I spoke Romanian. Her"
     },
     {
-      "type": "break"
+      "parentId": 4,
+      "type": "link",
+      "text": "lyrics",
+      "sourceUrl": "http://www.azlyrics.com/a/alexandrastan.html"
+    },
+    {
+      "type": "text",
+      "text": "don't help us out since they're generally about… well, nothing really. Her interviews don't seem to get that deep, and it doesn't look like she's too outspoken about the politics of her home country. So until further notice, I suppose we can assume she's fairly non-political.",
+      "parentId": 4
     }
   ],
   "wikipediaData": {

@@ -34,81 +34,120 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Samuel Adams was born in Boston, Massachusetts when it was part of the British colony of Massachusetts. It is unclear what caused his death, but many historians suspect it was a case of Essential Tremor. He died in Boston."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.boston.com/2009-01-21/ae/29265000_1_john-and-abigail-adams-politics-boston-massacre",
+      "parentId": 2,
+      "type": "text",
+      "text": "Adams' parents were both Puritans,",
       "sourceTitle": "Politics, religion, and the man Sam Adams",
-      "text": "Adams' parents were both Puritans,"
+      "sourceUrl": "http://articles.boston.com/2009-01-21/ae/29265000_1_john-and-abigail-adams-politics-boston-massacre"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianpost.com/news/major-us-founding-father-samuel-adams-not-secular-but-religious-says-author-70589/",
+      "type": "text",
+      "text": "but Adams himself became a strict Congregationalist. In fact, while it is often cited that the majority of America's founding fathers were more secular than religious, more deist than theist, Adams was perhaps the exception and was actually quite religious.",
+      "parentId": 2,
       "sourceTitle": "Major US Founding Father Samuel Adams Not Secular, but Religious, Says Author",
-      "text": "but Adams himself became a strict Congregationalist. In fact, while it is often cited that the majority of America's founding fathers were more secular than religious, more deist than theist, Adams was perhaps the exception and was actually quite religious."
+      "sourceUrl": "http://www.christianpost.com/news/major-us-founding-father-samuel-adams-not-secular-but-religious-says-author-70589/"
     },
     {
-      "type": "sentence",
-      "text": "He once said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He once said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.seekfind.net/SamuelAdams.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Let divines and philosophers, statesmen and patriots, unite their endeavors to renovate the age by impressing the minds of men with the importance of educating their little boys and girls, inculcating in the minds of youth the fear and love of the Deity… and leading them in the study and practice of the exalted virtues of the Christian system.",
       "sourceTitle": "Samuel Adams Quotes.",
-      "text": "Let divines and philosophers, statesmen and patriots, unite their endeavors to renovate the age by impressing the minds of men with the importance of educating their little boys and girls, inculcating in the minds of youth the fear and love of the Deity… and leading them in the study and practice of the exalted virtues of the Christian system."
+      "sourceUrl": "http://www.seekfind.net/SamuelAdams.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.latimes.com/2011/jul/04/opinion/la-ed-founders-20110704",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "And while Adams also shared his fellow founding fathers' sentiment that America should be religiously tolerant, he did not agree that such toleration should extend to Catholics.",
       "sourceTitle": "Fourth of July: Words of wisdom from the Founding Fathers",
-      "text": "And while Adams also shared his fellow founding fathers' sentiment that America should be religiously tolerant, he did not agree that such toleration should extend to Catholics."
+      "sourceUrl": "http://articles.latimes.com/2011/jul/04/opinion/la-ed-founders-20110704"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blog.gaiam.com/quotes/authors/samuel-adams/32111",
+      "type": "text",
+      "text": "He really didn't like Catholics and was quick to cite the Catholic Church's long history of violence and collusion with corrupt rulers, torture, war, and coercion.",
+      "parentId": 5,
       "sourceTitle": "A Quote by Samuel Adams on anarchy, Catholicism, confusion, destruction, good, government, laws, leadership, liberty, life, mankind, mercy, politics, reason, religion, and war",
-      "text": "He really didn't like Catholics and was quick to cite the Catholic Church's long history of violence and collusion with corrupt rulers, torture, war, and coercion."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://blog.gaiam.com/quotes/authors/samuel-adams/32111"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "The politics of an agitator"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.samuel-adams-heritage.com/political-activist.html",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Samuel Adams, dubbed the \"Father of the Revolutionary War,\" was more of a rabble-rouser than any kind of political philosopher. He tended to jump at any chance to disparage or criticize the British government and their presence in the American colonies. Adams was heavily influenced by the Scottish Enlightenment philosopher John Locke and his take on political and social freedom.",
       "sourceTitle": "Samuel Adams Heritage Society",
-      "text": "Samuel Adams, dubbed the \"Father of the Revolutionary War,\" was more of a rabble-rouser than any kind of political philosopher. He tended to jump at any chance to disparage or criticize the British government and their presence in the American colonies. Adams was heavily influenced by the Scottish Enlightenment philosopher John Locke and his take on political and social freedom."
+      "sourceUrl": "http://www.samuel-adams-heritage.com/political-activist.html"
     },
     {
-      "type": "sentence",
-      "text": "Adams once said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Adams once said:",
+      "parentId": 7
     },
     {
       "type": "quote",
-      "sourceUrl": "http://en.wikiquote.org/wiki/Samuel_Adams",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "If ye love wealth better than liberty, the tranquility of servitude than the animated contest of freedom — go home from us in peace. We ask not your counsels or arms. Crouch down and lick the hands which feed you. May your chains sit lightly upon you, and may posterity forget that you were our countrymen!",
       "sourceTitle": "Samuel Adams",
-      "text": "If ye love wealth better than liberty, the tranquility of servitude than the animated contest of freedom — go home from us in peace. We ask not your counsels or arms. Crouch down and lick the hands which feed you. May your chains sit lightly upon you, and may posterity forget that you were our countrymen!"
+      "sourceUrl": "http://en.wikiquote.org/wiki/Samuel_Adams"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Adams was fearless in the face of British imperialism and a major inspiration for the agitation in Boston that led to the American Revolutionary War. He helped draft the Declaration of Independence and the Articles of Confederation. He was also one of the first governors of Massachusetts. For these reasons, Adams is considered an American Founding Father."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -141,7 +180,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "1772 oil on canvas paintings in the United States|1772 portrait paintings of men|18th-century cabinet portraits|18th-century oil portraits of standing men at three-quarter length|18th-century portrait paintings from the United States|18th-century portrait paintings in the Museum of Fine Arts, Boston|Artworks with Wikidata item|Artworks with accession number from Wikidata|Artworks with known accession number|CC-PD-Mark|Males with red coats in art|PD-Art (PD-old-100)|Paintings by John Singleton Copley in the Museum of Fine Arts, Boston|Pointing down in art|Pointing with the index finger in portrait paintings|Portrait paintings of men with books|Portraits of men by John Singleton Copley|Realist portrait paintings|Red clothing in art, male|Samuel Adams|Seals in art",
+            "value": "1772 oil on canvas paintings in the United States|1772 portrait paintings of men|18th-century cabinet portraits|18th-century oil portraits of standing men at three-quarter length|18th-century portrait paintings from the United States|18th-century portrait paintings in the Museum of Fine Arts, Boston|Artworks with Wikidata item|Artworks with Wikidata item without dimensions|Artworks with Wikidata item without inception|Artworks with accession number from Wikidata|Artworks with known accession number|CC-PD-Mark|Males with red coats in art|PD-Art (PD-old-100)|Paintings by John Singleton Copley in the Museum of Fine Arts, Boston|Pointing down in art|Pointing with the index finger in portrait paintings|Portrait paintings of men with books|Portraits of men by John Singleton Copley|Realist portrait paintings|Red clothing in art, male|Samuel Adams|Seals in art",
             "source": "commons-categories",
             "hidden": ""
           },

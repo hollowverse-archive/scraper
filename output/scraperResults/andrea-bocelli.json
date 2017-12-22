@@ -34,97 +34,167 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lifesitenews.com/news/andrea-bocelli-i-am-in-favour-of-life",
+      "parentId": 1,
+      "type": "text",
+      "text": "Andrea Bocelli was born and raised in a farmhouse in Tuscany, Italy."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "He is a devout Catholic and his faith informs many–if not most–aspects of his life. Bocelli has spoken of being a boy and being excited to go to Mass every week so he might get the chance to play the organ.",
       "sourceTitle": "Andrea Bocelli: 'I am in favour of life.'",
-      "text": "He is a devout Catholic and his faith informs many–if not most–aspects of his life. Bocelli has spoken of being a boy and being excited to go to Mass every week so he might get the chance to play the organ."
+      "sourceUrl": "http://www.lifesitenews.com/news/andrea-bocelli-i-am-in-favour-of-life"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.bocelli.de/en/chronicle2000.htm",
+      "type": "text",
+      "text": "Little did he know that someday he would sing for the Pope.",
+      "parentId": 2,
       "sourceTitle": "Chronicle",
-      "text": "Little did he know that someday he would sing for the Pope."
+      "sourceUrl": "http://www.bocelli.de/en/chronicle2000.htm"
     },
     {
-      "type": "sentence",
-      "text": "He said:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/culture/music/classicalmusic/8884646/Andrea-Bocelli-The-truth-about-my-friend-the-strong-willed-kind-and-intelligent-Silvio-Berlusconi.html",
-      "sourceTitle": "Andrea Bocelli: The truth about my friend – the strong-willed, kind and intelligent Silvio Berlusconi",
-      "text": "[Catholicism has] first place in my life. I do not think anyone can ever do anything without the help and will of God."
-    },
-    {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/culture/music/classicalmusic/8884646/Andrea-Bocelli-The-truth-about-my-friend-the-strong-willed-kind-and-intelligent-Silvio-Berlusconi.html",
-      "sourceTitle": "Andrea Bocelli: The truth about my friend – the strong-willed, kind and intelligent Silvio Berlusconi",
-      "text": "Some speculate that the reason Bocelli has yet to divorce his wife even though he is living with and has a child with another woman is because of the Catholic Church's objections to divorce."
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "sentence",
-      "sourceUrl": "http://www.lifesitenews.com/news/andrea-bocelli-i-am-in-favour-of-life",
-      "sourceTitle": "Andrea Bocelli: 'I am in favour of life.'",
-      "text": "Furthermore, for both personal and religious reasons, Bocelli has come out strong in opposition to abortion. The story (in a nutshell) is that when his mother was pregnant with him, an illness caused doctors to recommend that she abort the fetus. Needless to say, Bocelli is glad she decided against it."
-    },
-    {
-      "type": "sentence",
-      "text": "But interestingly, Bocelli's interpretation of the teachings of Christ have inspired him to be respectful of the views of those who disagree with him. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.lifesitenews.com/news/andrea-bocelli-i-am-in-favour-of-life",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "[Catholicism has] first place in my life. I do not think anyone can ever do anything without the help and will of God.",
+      "sourceTitle": "Andrea Bocelli: The truth about my friend – the strong-willed, kind and intelligent Silvio Berlusconi",
+      "sourceUrl": "http://www.telegraph.co.uk/culture/music/classicalmusic/8884646/Andrea-Bocelli-The-truth-about-my-friend-the-strong-willed-kind-and-intelligent-Silvio-Berlusconi.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Some speculate that the reason Bocelli has yet to divorce his wife even though he is living with and has a child with another woman is because of the Catholic Church's objections to divorce.",
+      "sourceTitle": "Andrea Bocelli: The truth about my friend – the strong-willed, kind and intelligent Silvio Berlusconi",
+      "sourceUrl": "http://www.telegraph.co.uk/culture/music/classicalmusic/8884646/Andrea-Bocelli-The-truth-about-my-friend-the-strong-willed-kind-and-intelligent-Silvio-Berlusconi.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Furthermore, for both personal and religious reasons, Bocelli has come out strong in opposition to abortion. The story (in a nutshell) is that when his mother was pregnant with him, an illness caused doctors to recommend that she abort the fetus. Needless to say, Bocelli is glad she decided against it.",
       "sourceTitle": "Andrea Bocelli: 'I am in favour of life.'",
-      "text": "Of course, personally I do not share the idea of being able to interrupt life arbitrarily. But I cannot be the judge of those who decide in a different way. As much as I can, I show them an example and act as a role model, because I believe this is the only way."
+      "sourceUrl": "http://www.lifesitenews.com/news/andrea-bocelli-i-am-in-favour-of-life"
+    },
+    {
+      "type": "text",
+      "text": "But interestingly, Bocelli's interpretation of the teachings of Christ have inspired him to be respectful of the views of those who disagree with him. He said:",
+      "parentId": 6
+    },
+    {
+      "type": "quote",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Of course, personally I do not share the idea of being able to interrupt life arbitrarily. But I cannot be the judge of those who decide in a different way. As much as I can, I show them an example and act as a role model, because I believe this is the only way.",
+      "sourceTitle": "Andrea Bocelli: 'I am in favour of life.'",
+      "sourceUrl": "http://www.lifesitenews.com/news/andrea-bocelli-i-am-in-favour-of-life"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "A political aria from Bocelli to you"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Bocelli's stance on abortion could easily be considered as much political as religious. And if we do consider it political, it would align him with conservatism–at least as it is understood in the western world."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "His support for conservative former-Italian Prime Minister Silvio Burlusconi kind of confirms Bocelli's right-leaning views. Bocelli felt it necessary to defend the disgraced PM after tax fraud charges were levied against him (not to mention a long career full of sex scandals, gaffes and conflicts of interest between business and government), saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/culture/music/classicalmusic/8884646/Andrea-Bocelli-The-truth-about-my-friend-the-strong-willed-kind-and-intelligent-Silvio-Berlusconi.html",
-      "sourceTitle": "Andrea Bocelli: The truth about my friend – the strong-willed, kind and intelligent Silvio Berlusconi",
-      "text": "He is a very intelligent man. He is very, very kind and he has a great will."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "He is a very intelligent man. He is very, very kind and he has a great will.",
+      "sourceTitle": "Andrea Bocelli: The truth about my friend – the strong-willed, kind and intelligent Silvio Berlusconi",
+      "sourceUrl": "http://www.telegraph.co.uk/culture/music/classicalmusic/8884646/Andrea-Bocelli-The-truth-about-my-friend-the-strong-willed-kind-and-intelligent-Silvio-Berlusconi.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "But, in the end, Bocelli isn't an ideologue (unless it comes to abortion) and doesn't like to pick any sort of idea over another. When asked if he would ever consider running for office, he said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 16
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/culture/music/classicalmusic/8884646/Andrea-Bocelli-The-truth-about-my-friend-the-strong-willed-kind-and-intelligent-Silvio-Berlusconi.html",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I prefer to work for my country in a free and independent way. I was born free, and I want to die free. I am always suspicious of ideology.",
       "sourceTitle": "Andrea Bocelli: The truth about my friend – the strong-willed, kind and intelligent Silvio Berlusconi",
-      "text": "I prefer to work for my country in a free and independent way. I was born free, and I want to die free. I am always suspicious of ideology."
+      "sourceUrl": "http://www.telegraph.co.uk/culture/music/classicalmusic/8884646/Andrea-Bocelli-The-truth-about-my-friend-the-strong-willed-kind-and-intelligent-Silvio-Berlusconi.html"
     }
   ],
   "wikipediaData": {

@@ -30,38 +30,46 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Emma Watson was born in Paris, France."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chacha.com/question/what-interview-does-emma-watson-say-that-she%27s-a-christian",
+      "parentId": 2,
+      "type": "text",
+      "text": "Religiously, she hasn't said much. There is a BBC radio interview where she says she is \"Christian\" but there is no mention of a denomination or any theological positions.",
       "sourceTitle": "What interview does Emma Watson say that she's a Christian",
-      "text": "Religiously, she hasn't said much. There is a BBC radio interview where she says she is \"Christian\" but there is no mention of a denomination or any theological positions."
+      "sourceUrl": "http://www.chacha.com/question/what-interview-does-emma-watson-say-that-she%27s-a-christian"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://meettherealemmawatson.blogspot.com/2011/11/emma-watson-poster-girl-for-religious.html?zx=8b7ab1b4321948d6",
+      "parentId": 3,
+      "type": "text",
+      "text": "Many religious groups, particularly in the states have rallied behind Watson for her stated views on modesty but, as her critics are quick to point out, she's been spotted many times wearing revealing attire.",
       "sourceTitle": "Emma Watson: Poster Girl for Religious Groups",
-      "text": "Many religious groups, particularly in the states have rallied behind Watson for her stated views on modesty but, as her critics are quick to point out, she's been spotted many times wearing revealing attire."
+      "sourceUrl": "http://meettherealemmawatson.blogspot.com/2011/11/emma-watson-poster-girl-for-religious.html?zx=8b7ab1b4321948d6"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=WyiJkdenmLs",
+      "parentId": 4,
+      "type": "text",
+      "text": "Watson has stated that Barack Obama is one of her \"heroes,\" so we can assume that, if she were American, she would be a Democrat and she's probably a liberally-minded person politically and socially.",
       "sourceTitle": "Buzzine: Emma Watson on TOD, Barack Obama, Prejudice",
-      "text": "Watson has stated that Barack Obama is one of her \"heroes,\" so we can assume that, if she were American, she would be a Democrat and she's probably a liberally-minded person politically and socially."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.youtube.com/watch?v=WyiJkdenmLs"
     }
   ],
   "wikipediaData": {

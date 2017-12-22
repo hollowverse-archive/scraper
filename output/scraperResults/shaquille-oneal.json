@@ -37,115 +37,181 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Shaquille O'Neal was born and raised in Newark, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://allisondawnpr.com/blog/celebrity-interviews-2/my-shaquille-oneal-interview-for-pr-com-we-talk-about-shaq-uncut-my-story/",
+      "parentId": 2,
+      "type": "text",
+      "text": "O'Neal is a Muslim. His first and middle name–Shaquille and Rashaun–mean \"little one\" and \"warrior\" in Arabic, respectively.",
       "sourceTitle": "My Shaquille O'Neal Interview for PR.com.",
-      "text": "O'Neal is a Muslim. His first and middle name–Shaquille and Rashaun–mean \"little one\" and \"warrior\" in Arabic, respectively."
+      "sourceUrl": "http://allisondawnpr.com/blog/celebrity-interviews-2/my-shaquille-oneal-interview-for-pr-com-we-talk-about-shaq-uncut-my-story/"
     },
     {
-      "type": "sentence",
-      "text": "He is devout in his faith, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He is devout in his faith, saying:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://articles.latimes.com/2003/jan/11/sports/sp-shaq11",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Of course I believe in God. Only God could have given me what I have.",
       "sourceTitle": "Shaquille O'neal Muslim – O'Neal Issues Apology",
-      "text": "Of course I believe in God. Only God could have given me what I have."
+      "sourceUrl": "http://articles.latimes.com/2003/jan/11/sports/sp-shaq11"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=CKNK4rc_gxU",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Furthermore, O'Neal has stated his intention to participate in the sacred Muslim right of passage known as Hajj, where Muslims travel to the holy city of Mecca.",
       "sourceTitle": "Shaquille O'Neal Has Become A Muslim!!!",
-      "text": "Furthermore, O'Neal has stated his intention to participate in the sacred Muslim right of passage known as Hajj, where Muslims travel to the holy city of Mecca."
+      "sourceUrl": "http://www.youtube.com/watch?v=CKNK4rc_gxU"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "However, Shaq doesn't want to exclude or alienate others of different faiths. And somewhat confusingly, he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://allisondawnpr.com/blog/celebrity-interviews-2/my-shaquille-oneal-interview-for-pr-com-we-talk-about-shaq-uncut-my-story/",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "You believe what they believe, you respect what they respect, and you respect that person as a man or a woman, and you'll make it far in life. Fact is I'm Muslim, I'm Jewish, I'm Buddhist, I'm everybody 'cause I'm a people person.",
       "sourceTitle": "My Shaquille O'Neal Interview for PR.com.",
-      "text": "You believe what they believe, you respect what they respect, and you respect that person as a man or a woman, and you'll make it far in life. Fact is I'm Muslim, I'm Jewish, I'm Buddhist, I'm everybody 'cause I'm a people person."
+      "sourceUrl": "http://allisondawnpr.com/blog/celebrity-interviews-2/my-shaquille-oneal-interview-for-pr-com-we-talk-about-shaq-uncut-my-story/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://freemasonsfordummies.blogspot.com/2011/06/brother-shaquille-oneal.html",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Also, Shaq is a high-ranking member of an organization long shrouded in mystery and intrigue–the Freemasons.",
       "sourceTitle": "Brother Shaquille O'Neal",
-      "text": "Also, Shaq is a high-ranking member of an organization long shrouded in mystery and intrigue–the Freemasons."
+      "sourceUrl": "http://freemasonsfordummies.blogspot.com/2011/06/brother-shaquille-oneal.html"
     },
     {
-      "type": "sentence",
-      "text": "It is often speculated that at their secretive meetings, the Freemasons plan the fate of great men and the governance of the worlds of politics and finance."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "It is often speculated that at their secretive meetings, the Freemasons plan the fate of great men and the governance of the worlds of politics and finance.",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Political center"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "O'Neal is active in politics–both nationally and locally. In his adopted hometown of Los Angeles, O'Neal endorsed a District Attorney candidate named Carmen Trutanich–a non-partisan position. O'Neal recorded a phone message that was used to call potential Tratanich supporters that said, among other things:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://laist.com/2012/05/10/shaquille_oneal_wants_to_call_you_t.php",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Trust me. I don't get involved in politics very often. But, as a father and police officer, when it comes to our kids, I'm going to get involved. You should too by voting for Carmen Trutanich for District Attorney.",
       "sourceTitle": "Shaquille O'Neal Wants to Talk to You About  L.A. Politics.",
-      "text": "Trust me. I don't get involved in politics very often. But, as a father and police officer, when it comes to our kids, I'm going to get involved. You should too by voting for Carmen Trutanich for District Attorney."
+      "sourceUrl": "http://laist.com/2012/05/10/shaquille_oneal_wants_to_call_you_t.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.scpr.org/news/2012/06/06/32717/dissecting-biggest-poltiical-upset-2012-trutanichs/",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Trutanich lost.",
       "sourceTitle": "Dissecting the biggest political upset of 2012: Why Carmen Trutanich lost his bid for LA district attorney",
-      "text": "Trutanich lost."
+      "sourceUrl": "http://www.scpr.org/news/2012/06/06/32717/dissecting-biggest-poltiical-upset-2012-trutanichs/"
     },
     {
-      "type": "sentence",
-      "text": "But when someone is involved in local politics, it's usually a sign that they truly care."
+      "type": "text",
+      "text": "But when someone is involved in local politics, it's usually a sign that they truly care.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "However, indicating his party affiliation, O'Neal endorsed Barack Obama in 2012, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://blogs.reuters.com/talesfromthetrail/2011/11/28/shaq-throws-in-support-for-obama-in-2012/",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "It's a hard job… You can't please everybody but I think he's doing a fabulous job. The world is in a little bit of turmoil right now — the economy's down — but… he's going to pick it back up and I think he's going to win this next election.",
       "sourceTitle": "Shaq throws in support for Obama in 2012",
-      "text": "It's a hard job… You can't please everybody but I think he's doing a fabulous job. The world is in a little bit of turmoil right now — the economy's down — but… he's going to pick it back up and I think he's going to win this next election."
+      "sourceUrl": "http://blogs.reuters.com/talesfromthetrail/2011/11/28/shaq-throws-in-support-for-obama-in-2012/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "Given Shaq's effectiveness with the Trutanich campaign, Obama supporters might not be happy to hear that."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

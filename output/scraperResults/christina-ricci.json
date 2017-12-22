@@ -33,112 +33,168 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Christina Ricci was born in Santa Monica, California and grew up mostly in Montclair, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Ricci apparently prefers to keep her religious views to herself for the most part, but she did confess her spiritual leanings in one interview:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.askmen.com/celebs/entertainment-news/christina-ricci/christina-ricci-desperate-to-marry.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I am a Christian. I haven't really talked about that before. It is something very private. But I do pray and my beliefs are very important to me.",
       "sourceTitle": "Christina Ricci desperate to marry.",
-      "text": "I am a Christian. I haven't really talked about that before. It is something very private. But I do pray and my beliefs are very important to me."
+      "sourceUrl": "http://www.askmen.com/celebs/entertainment-news/christina-ricci/christina-ricci-desperate-to-marry.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cnn.com/2011/10/07/living/books-ricci-o/index.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "And she really does seem to pray a lot. She said she used to pray to the Christ-like character Aslan, from"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "The Lion, the Witch, and the Wardrobe"
+    },
+    {
+      "type": "text",
+      "text": "by C. S. Lewis, so that he would take her away to Narnia.",
+      "parentId": 5,
       "sourceTitle": "Christina Ricci's top reads.",
-      "text": "And she really does seem to pray a lot. She said she used to pray to the Christ-like character Aslan, from  by C. S. Lewis, so that he would take her away to Narnia."
+      "sourceUrl": "http://www.cnn.com/2011/10/07/living/books-ricci-o/index.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christinaricci.ws/christina-ricci/tattoos",
+      "type": "text",
+      "text": "Plus she has two praying hands tattooed on her stomach.",
+      "parentId": 5,
       "sourceTitle": "Tattoos.",
-      "text": "Plus she has two praying hands tattooed on her stomach."
+      "sourceUrl": "http://www.christinaricci.ws/christina-ricci/tattoos"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://web.archive.org/web/20031123103510/http://www.christinaricci.info/cgi-dodger/showpage.pl?sel=interviews&url=iview7.ssf",
+      "parentId": 6,
+      "type": "text",
+      "text": "I tried and failed to find out for sure which denomination she belongs to, but if I had to guess, I'd say Catholic. Even though she has an Italian surname, she says most of her ancestry is Irish.",
       "sourceTitle": "The Minx Effect.",
-      "text": "I tried and failed to find out for sure which denomination she belongs to, but if I had to guess, I'd say Catholic. Even though she has an Italian surname, she says most of her ancestry is Irish."
+      "sourceUrl": "http://web.archive.org/web/20031123103510/http://www.christinaricci.info/cgi-dodger/showpage.pl?sel=interviews&url=iview7.ssf"
     },
     {
-      "type": "sentence",
-      "text": "But either way, Italian or Irish, Catholic is a good bet. But then again, some of her political involvement might point in another direction."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But either way, Italian or Irish, Catholic is a good bet. But then again, some of her political involvement might point in another direction.",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Ricci for Women"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000207/bio",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Christina Ricci's political focus is directed toward women and children's issues. First of all, she sits on the national board of VOX: Voices for Planned Parenthood, which aims to educate teens and young people about their reproductive health and rights.",
       "sourceTitle": "Christina Ricci (I) – Biography.",
-      "text": "Christina Ricci's political focus is directed toward women and children's issues. First of all, she sits on the national board of VOX: Voices for Planned Parenthood, which aims to educate teens and young people about their reproductive health and rights."
+      "sourceUrl": "http://www.imdb.com/name/nm0000207/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://vimeo.com/22541596",
+      "type": "text",
+      "text": "She also appeared in a public service announcement for Planned Parenthood about emergency contraception.",
+      "parentId": 8,
       "sourceTitle": "Planned Parenthood \"Teardrop\" PSA.",
-      "text": "She also appeared in a public service announcement for Planned Parenthood about emergency contraception."
+      "sourceUrl": "http://vimeo.com/22541596"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thehill.com/capital-living/20-questions/58627-20-questions-with-christina-ricci",
+      "parentId": 9,
+      "type": "text",
+      "text": "Her main passion, however, is reserved for the charity RAINN (Rape, Abuse, & Incest National Network). In 2009 she traveled to Washington, D.C. to lobby Congress about the issue and to advocate for protection of the Violence Against Women Act.",
       "sourceTitle": "20 Questions with Christina Ricci.",
-      "text": "Her main passion, however, is reserved for the charity RAINN (Rape, Abuse, & Incest National Network). In 2009 she traveled to Washington, D.C. to lobby Congress about the issue and to advocate for protection of the Violence Against Women Act."
+      "sourceUrl": "http://thehill.com/capital-living/20-questions/58627-20-questions-with-christina-ricci"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thehill.com/capital-living/20-questions/58627-20-questions-with-christina-ricci",
+      "parentId": 10,
+      "type": "text",
+      "text": "But in terms of partisan politics, Ricci said that in her role as National Spokesperson for RAINN, she prefers to stay publicly neutral since the issue itself is bipartisan.",
       "sourceTitle": "20 Questions with Christina Ricci.",
-      "text": "But in terms of partisan politics, Ricci said that in her role as National Spokesperson for RAINN, she prefers to stay publicly neutral since the issue itself is bipartisan."
+      "sourceUrl": "http://thehill.com/capital-living/20-questions/58627-20-questions-with-christina-ricci"
     },
     {
-      "type": "sentence",
-      "text": "But when asked who her political heroes were, she mentioned mostly Democrats. She said she loves political commentator and Democrat James Carville, and also:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But when asked who her political heroes were, she mentioned mostly Democrats. She said she loves political commentator and Democrat James Carville, and also:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://thehill.com/capital-living/20-questions/58627-20-questions-with-christina-ricci",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Oh, my God, if I met Biden, I would lose my mind. He wrote the Violence Against Women Act, and I love him. I think he's great. And of course, no doubt, I want to meet Obama. But that's not really going to happen.",
       "sourceTitle": "20 Questions with Christina Ricci.",
-      "text": "Oh, my God, if I met Biden, I would lose my mind. He wrote the Violence Against Women Act, and I love him. I think he's great. And of course, no doubt, I want to meet Obama. But that's not really going to happen."
+      "sourceUrl": "http://thehill.com/capital-living/20-questions/58627-20-questions-with-christina-ricci"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/Christina_Ricci.php",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "And her one and only campaign contribution on record is to Democrat John Kerry during his 2004 presidential bid against George W. Bush.",
       "sourceTitle": "Christina Ricci's Federal Campaign Contribution Report.",
-      "text": "And her one and only campaign contribution on record is to Democrat John Kerry during his 2004 presidential bid against George W. Bush."
+      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/Christina_Ricci.php"
     },
     {
-      "type": "sentence",
-      "text": "So I think it's safe to call her a Democrat."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "So I think it's safe to call her a Democrat.",
+      "parentId": 13
     }
   ],
   "wikipediaData": {
@@ -189,7 +245,7 @@
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a href=\"//commons.wikimedia.org/wiki/User:David_Shankbone\" title=\"User:David Shankbone\">David Shankbone</a>",
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
             "source": "commons-desc-page",
             "hidden": ""
           },

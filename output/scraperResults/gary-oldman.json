@@ -32,109 +32,175 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Gary Oldman was born and raised in London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.tribute.ca/people/gary-oldman/1324/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Oldman's upbringing was contentious. His father left the family when Oldman was seven years-old and he has said his childhood memories are of a drab, dreary, poor London neighborhood and a tyrannical school.",
       "sourceTitle": "Gary Oldman biography and filmography",
-      "text": "Oldman's upbringing was contentious. His father left the family when Oldman was seven years-old and he has said his childhood memories are of a drab, dreary, poor London neighborhood and a tyrannical school."
+      "sourceUrl": "http://www.tribute.ca/people/gary-oldman/1324/"
     },
     {
-      "type": "sentence",
-      "text": "Couple that with no evidence of a childhood religion and it's probably safe to assume that Oldman had a fairly secular upbringing."
+      "type": "text",
+      "text": "Couple that with no evidence of a childhood religion and it's probably safe to assume that Oldman had a fairly secular upbringing.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/culture/3666071/More-Mr-Nice-Guy.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Nowadays, Oldman is a very private person, who eschews media and celebrity whenever he can.",
       "sourceTitle": "More Mr Nice Guy",
-      "text": "Nowadays, Oldman is a very private person, who eschews media and celebrity whenever he can."
+      "sourceUrl": "http://www.telegraph.co.uk/culture/3666071/More-Mr-Nice-Guy.html"
     },
     {
-      "type": "sentence",
-      "text": "But when he was playing Pontius Pilate in a film about Jesus, a reporter got him to talk about his religious views and his views of Jesus. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But when he was playing Pontius Pilate in a film about Jesus, a reporter got him to talk about his religious views and his views of Jesus. He said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=kcN_6YT367E",
-      "sourceTitle": "Gary Oldman Interviewed on Jesus",
-      "text": "I wouldn't call myself religious, but I would say that I was spiritual… I'm sure there was an energy and power that came off [of Jesus]. I'm not sure if he could change water into wine or that he could walk on water… but I do believe that a great man, a powerful man, was called Jesus and he walked the Earth."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I wouldn't call myself religious, but I would say that I was spiritual… I'm sure there was an energy and power that came off [of Jesus]. I'm not sure if he could change water into wine or that he could walk on water… but I do believe that a great man, a powerful man, was called Jesus and he walked the Earth.",
+      "sourceTitle": "Gary Oldman Interviewed on Jesus",
+      "sourceUrl": "http://www.youtube.com/watch?v=kcN_6YT367E"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Oldman goes on to compare him to other great, admired men of history: Gandhi, John F. Kennedy, Martin Luther King. But in no way does one get the sense that Oldman considers Jesus divine, or that he deserves an entire religion."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "However, when it comes to morals and ethics, Oldman seems to echo the principles of Natural Law ethicists like C.S. Lewis or Augustine:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000198/bio",
-      "sourceTitle": "Gary Oldman – Biography.",
-      "text": "We're given a code to live our lives by. We don't always follow it but it's still there."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "We're given a code to live our lives by. We don't always follow it but it's still there.",
+      "sourceTitle": "Gary Oldman – Biography.",
+      "sourceUrl": "http://www.imdb.com/name/nm0000198/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "It all, as Oldman himself would probably say, amounts to a thoughtful, personal sort of spirituality."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "Old man politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Again, Oldman is very private. Probably, as a result, quite a bit of rumor surrounds Oldman's political leanings–and all of it seems to say he's a conservative Republican. Perhaps his views are in-line with conservative Republican ideology, but he can't be a Republican. He's British. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/g/gary_oldman_2.html#ODt1zBcPrJWhth22.99",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I'm still a member of the Empire! Although I sometimes feel like an American with a British accent – you get contaminated after so long.",
       "sourceTitle": "Gary Oldman Quotes",
-      "text": "I'm still a member of the Empire! Although I sometimes feel like an American with a British accent – you get contaminated after so long."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/g/gary_oldman_2.html#ODt1zBcPrJWhth22.99"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/Entertainment/story?id=114658&page=1#.UNuVcrYZ-Bg",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "There's a pretty good reason people think Oldman leans to the right. After the final cut of his film,"
+    },
+    {
+      "parentId": 15,
+      "type": "emphasis",
+      "text": "The Contender"
+    },
+    {
+      "type": "text",
+      "text": ", was released, Oldman objected because he felt it was edited to favor some sort of Democrat, liberal agenda.",
+      "parentId": 15,
       "sourceTitle": "Gary Oldman dishes on 'Contender.'",
-      "text": "There's a pretty good reason people think Oldman leans to the right. After the final cut of his film, , was released, Oldman objected because he felt it was edited to favor some sort of Democrat, liberal agenda."
+      "sourceUrl": "http://abcnews.go.com/Entertainment/story?id=114658&page=1#.UNuVcrYZ-Bg"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/Entertainment/story?id=114658&page=1#.UNuVcrYZ-Bg",
+      "type": "text",
+      "text": "And his manager, Douglas Urbanski, called the final cut a \"Goebbels-like piece of propaganda.\"",
+      "parentId": 15,
       "sourceTitle": "Gary Oldman dishes on 'Contender.'",
-      "text": "And his manager, Douglas Urbanski, called the final cut a \"Goebbels-like piece of propaganda.\""
+      "sourceUrl": "http://abcnews.go.com/Entertainment/story?id=114658&page=1#.UNuVcrYZ-Bg"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "But that's about it. Oldman hasn't come out to endorse any candidate or lent his opinion on any particular issues."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

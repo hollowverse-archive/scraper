@@ -30,68 +30,106 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "David Guetta, whose real name is Pierre David Guetta, was born and raised in Paris, France."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lyricsfreak.com/d/david+guetta/biography.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Guetta's family is Morrocan Sephardi Jewish.",
       "sourceTitle": "David Guetta – Biography",
-      "text": "Guetta's family is Morrocan Sephardi Jewish."
+      "sourceUrl": "http://www.lyricsfreak.com/d/david+guetta/biography.html"
     },
     {
-      "type": "sentence",
-      "text": "It is unclear how devout Guetta is to Judaism now that he's an international electronic music superstar, but he's at least curious about other religions. While on tour in India, he said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "It is unclear how devout Guetta is to Judaism now that he's an international electronic music superstar, but he's at least curious about other religions. While on tour in India, he said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://articles.timesofindia.indiatimes.com/2012-03-17/news-and-interviews/31204441_1_indian-fans-dj-huge-fan",
-      "sourceTitle": "I'm hounoured touring India, says David Guetta",
-      "text": "How you people live, your religion and your habits, I really don't know much, and that's the reason I'm so curious about India."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "How you people live, your religion and your habits, I really don't know much, and that's the reason I'm so curious about India.",
+      "sourceTitle": "I'm hounoured touring India, says David Guetta",
+      "sourceUrl": "http://articles.timesofindia.indiatimes.com/2012-03-17/news-and-interviews/31204441_1_indian-fans-dj-huge-fan"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "There is some speculation that his song, \"Without You\" is religious in nature with lyrics like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.directlyrics.com/david-guetta-without-u-lyrics.html",
-      "sourceTitle": "David Guetta – Without You Lyrics",
-      "text": "I won't run, I won't fly/I will never make it by/Without you, without you/I can't rest, I can't fight/All I need is you and I/Without you, without…. You!"
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I won't run, I won't fly/I will never make it by/Without you, without you/I can't rest, I can't fight/All I need is you and I/Without you, without…. You!",
+      "sourceTitle": "David Guetta – Without You Lyrics",
+      "sourceUrl": "http://www.directlyrics.com/david-guetta-without-u-lyrics.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "But it could just as easily be about a girl, or his fans."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Not Even French Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Guetta appears to be wholly non-political. I couldn't even find any political mentions on French websites. If I'm wrong, feel free to leave a comment or send an email to the site."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "Normally, I would make conjectures, but as I am not familiar with French politics, I don't even feel comfortable doing that."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

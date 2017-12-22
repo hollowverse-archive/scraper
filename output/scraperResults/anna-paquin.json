@@ -32,98 +32,181 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Anna Paquin was born in Winnipeg, Canada and grew up in Wellington, New Zealand."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/movies/Oscar_actors.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "There is absolutely no information on Paquin's religion. Even the celebrity religion site, Adherents, is stumped.",
       "sourceTitle": "Religion of Best Actor/Best Actress Academy Award Winners",
-      "text": "There is absolutely no information on Paquin's religion. Even the celebrity religion site, Adherents, is stumped."
+      "sourceUrl": "http://www.adherents.com/movies/Oscar_actors.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wiki.answers.com/Q/What_is_Anna_paquin%27s_religion",
+      "type": "text",
+      "text": "Some speculate that she's Jewish,",
+      "parentId": 2,
       "sourceTitle": "What is Anna Paquin's Religion",
-      "text": "Some speculate that she's Jewish,"
+      "sourceUrl": "http://wiki.answers.com/Q/What_is_Anna_paquin%27s_religion"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewishjournal.com/yom_hashoah/article/a_righteous_role_20090416",
+      "type": "text",
+      "text": "but there's no evidence of that and it might only be because of her role as the protagonist in the film,",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "The Corageous Heart of Irena Sendler"
+    },
+    {
+      "type": "text",
+      "text": ", about a woman who saved thousands of Jewish lives during World War II.",
+      "parentId": 2,
       "sourceTitle": "A Righteous Role",
-      "text": "but there's no evidence of that and it might only be because of her role as the protagonist in the film,, about a woman who saved thousands of Jewish lives during World War II."
+      "sourceUrl": "http://www.jewishjournal.com/yom_hashoah/article/a_righteous_role_20090416"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "By that logic, we could say that Paquin is some sort of occultist because of her roll in the vampire series, . But she's not:"
+      "parentId": 3,
+      "type": "text",
+      "text": "By that logic, we could say that Paquin is some sort of occultist because of her roll in the vampire series,"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "True Blood"
+    },
+    {
+      "type": "text",
+      "text": ". But she's not:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/anna_paquin.html",
-      "sourceTitle": "Anna Paquin Quotes",
-      "text": "I'm drawn to doing interesting stuff at work. And some of the time with the supernatural, you get to do really crazy, fun things. But I'm not a big genre-fantasy gal, particularly."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I'm drawn to doing interesting stuff at work. And some of the time with the supernatural, you get to do really crazy, fun things. But I'm not a big genre-fantasy gal, particularly.",
+      "sourceTitle": "Anna Paquin Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/anna_paquin.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Well, let us know in the comments if you know anything."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Politics of Vampire Descrimination"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Paquin is also somewhat vague regarding her political views–though we do have a bit more to go on. As a citizen of New Zealand and Canada, she's correct to assume that her views of U.S. politics are only of value because of her celebrity status:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0001593/bio",
-      "sourceTitle": "Anna Paquin – Biography",
-      "text": "I'm not very political. I'm also not American and I don't get to vote so my feelings are not really relevant."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I'm not very political. I'm also not American and I don't get to vote so my feelings are not really relevant.",
+      "sourceTitle": "Anna Paquin – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0001593/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "But don't believe she's not at least a little bit political. Her main focus seems to be gay rights. In a PSA for the True Colors Fund, Cindi Lauper's gay rights advocacy group, Paquin said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.people.com/people/article/0,,20356805,00.html",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I'm Anna Paquin. I'm bisexual and I give a damn.",
       "sourceTitle": "Anna Paquin Comes Out as Bisexual",
-      "text": "I'm Anna Paquin. I'm bisexual and I give a damn."
+      "sourceUrl": "http://www.people.com/people/article/0,,20356805,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewishjournal.com/yom_hashoah/article/a_righteous_role_20090416",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "She's also spoken about the parallels of"
+    },
+    {
+      "parentId": 14,
+      "type": "emphasis",
+      "text": "True Blood"
+    },
+    {
+      "type": "text",
+      "text": "and the gay rights movement. In the series, vampires wish to join mainstream society, with full rights (marriage included).",
+      "parentId": 14,
       "sourceTitle": "A Righteous Role",
-      "text": "She's also spoken about the parallels of  and the gay rights movement. In the series, vampires wish to join mainstream society, with full rights (marriage included)."
+      "sourceUrl": "http://www.jewishjournal.com/yom_hashoah/article/a_righteous_role_20090416"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "Ultimately Paquin seems like a regular girl who cares most about her work and her family and doesn't stress too much about religion and politics."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

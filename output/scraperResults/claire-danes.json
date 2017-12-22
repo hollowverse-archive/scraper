@@ -32,79 +32,129 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Claire Danes was born and raised in Manhattan, New York City."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.gq-magazine.co.uk/girls/gq-girls/claire-danes-homeland-interview-and-photoshoot",
+      "parentId": 2,
+      "type": "text",
+      "text": "Danes doesn't appear to be particularly religious. One article described her upbringing as \"touchy-feely new-age\" and she said that \"meditation parties\" were common occurrences.",
       "sourceTitle": "Claire Danes, Homeland, interview and photoshoot.",
-      "text": "Danes doesn't appear to be particularly religious. One article described her upbringing as \"touchy-feely new-age\" and she said that \"meditation parties\" were common occurrences."
+      "sourceUrl": "http://www.gq-magazine.co.uk/girls/gq-girls/claire-danes-homeland-interview-and-photoshoot"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "She also talked about going to surf camp in one interview, in which the guy who ran the camp was a born-again Christian. She said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.clairedanes.com/tv/letterman071895.html",
-      "sourceTitle": "David Letterman – July 18, 1995.",
-      "text": "The guy who ran it was a born-again and he was trying very hard to convert all of us. . . . Meanwhile he was teaching us how to surf apparently. But he gave us a Bible–Surf in the Son. S-O-N."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "The guy who ran it was a born-again and he was trying very hard to convert all of us. . . . Meanwhile he was teaching us how to surf apparently. But he gave us a Bible–Surf in the Son. S-O-N.",
+      "sourceTitle": "David Letterman – July 18, 1995.",
+      "sourceUrl": "http://www.clairedanes.com/tv/letterman071895.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "So apparently the proselytizing surfer wasn't very effective that go-around. But that's all we've got on Danes."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Homeland Politics"
     },
     {
-      "type": "sentence",
-      "text": "By virtue of her job as the leading actress in the television series, , which is about a CIA officer who is convinced that a particular U.S. Marine is a terrorist, she has fans in high places. First there's Democrat and former President Bill Clinton. He asked to meet her after they both attended the Golden Globes in 2013, and she said about him admitting he was a fan,"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "text",
+      "text": "By virtue of her job as the leading actress in the television series,"
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "Homeland"
+    },
+    {
+      "type": "text",
+      "text": ", which is about a CIA officer who is convinced that a particular U.S. Marine is a terrorist, she has fans in high places. First there's Democrat and former President Bill Clinton. He asked to meet her after they both attended the Golden Globes in 2013, and she said about him admitting he was a fan,",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://freebeacon.com/bill-clinton-invited-claire-danes-to-meet-him-in-some-special-room/",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I thought, 'Wow.' He's amazing. He's, you know, an icon. . . . [It] was very flattering and I was very touched.",
       "sourceTitle": "Clinton Invited Claire Danes to Meet in 'Some Special Room.'",
-      "text": "I thought, 'Wow.' He's amazing. He's, you know, an icon. . . . [It] was very flattering and I was very touched."
+      "sourceUrl": "http://freebeacon.com/bill-clinton-invited-claire-danes-to-meet-him-in-some-special-room/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.boston.com/news/politics/2012/president/candidates/obama/2012/09/23/danes-proud-obama-being-fan/1AbpKkM2jELnnJ7ithbDiJ/story.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Then there's President Obama. She had heard that he watched the show and that it was one of his favorites.",
       "sourceTitle": "Danes Proud of Obama Being a Fan.",
-      "text": "Then there's President Obama. She had heard that he watched the show and that it was one of his favorites."
+      "sourceUrl": "http://www.boston.com/news/politics/2012/president/candidates/obama/2012/09/23/danes-proud-obama-being-fan/1AbpKkM2jELnnJ7ithbDiJ/story.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://nymag.com/thecut/2013/01/claire-danes-and-obama-compared-performances.html",
+      "type": "text",
+      "text": "Then when they had an opportunity to meet, he said she was a \"fine actress.\" She returned the compliment, saying he was \"a fine president.\" And when he said she was a better actress than he was president, she didn't quite know what to say. So she said her goodbyes and took a big shot of vodka.",
+      "parentId": 11,
       "sourceTitle": "Claire Danes and President Obama Compared Job Performances.",
-      "text": "Then when they had an opportunity to meet, he said she was a \"fine actress.\" She returned the compliment, saying he was \"a fine president.\" And when he said she was a better actress than he was president, she didn't quite know what to say. So she said her goodbyes and took a big shot of vodka."
+      "sourceUrl": "http://nymag.com/thecut/2013/01/claire-danes-and-obama-compared-performances.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "It doesn't look like Danes has contributed money to any political parties or candidates, and I couldn't find any quotes from her about specific political issues, or about any other presidents. But considering the nice things she had to say about two Democratic presidents, I'd say she probably leans to the left. Know any different? Let us know in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -37,120 +37,189 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Katie Price, also known professionally as Jordan, was born and raised in Brighton, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.digitalspy.com/celebrity/news/a213594/price-to-auction-breast-implants-on-ebay.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Well, as cliché as it may sound, I think money really is Katie Price's religion. Fitting, with that last name and all; she really does put a price on everything. Although I couldn't confirm that it actually happened, she was at least at one point planning on selling on eBay the breast implants she had removed during breast implant reduction surgery.",
       "sourceTitle": "Price to auction breast implants on eBay?",
-      "text": "Well, as cliché as it may sound, I think money really is Katie Price's religion. Fitting, with that last name and all; she really does put a price on everything. Although I couldn't confirm that it actually happened, she was at least at one point planning on selling on eBay the breast implants she had removed during breast implant reduction surgery."
+      "sourceUrl": "http://www.digitalspy.com/celebrity/news/a213594/price-to-auction-breast-implants-on-ebay.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=502",
+      "parentId": 3,
+      "type": "text",
+      "text": "But lets take a few steps back. Price's maternal grandmother is Jewish, and with the whole matrilineal Jewish heritage thing, that would technically make Price Jewish as well. But the verdict of \"Barely Jew\"",
       "sourceTitle": "Jordon (Katie Price).",
-      "text": "But lets take a few steps back. Price's maternal grandmother is Jewish, and with the whole matrilineal Jewish heritage thing, that would technically make Price Jewish as well. But the verdict of \"Barely Jew\""
+      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=502"
     },
     {
-      "type": "sentence",
-      "text": "by the internet's barometer of Jewness, the website , is in my opinion generous."
+      "type": "text",
+      "text": "by the internet's barometer of Jewness, the website",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "link",
+      "text": "Jew or Not Jew",
+      "sourceUrl": "http://www.jewornotjew.com/index.jsp"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/katie-price-we-love-to-earn-money-who-doesnt-955318.html",
+      "type": "text",
+      "text": ", is in my opinion generous.",
+      "parentId": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "When one reporter asked her why she doesn't call herself a Jew, she said it's because she doesn't practice the religion. And then, bringing to the conversation the negative stereotype of the money-hungry Jew, she pontificated that maybe that heritage was what made her so greedy about money.",
       "sourceTitle": "Katie Price: 'We love to earn money, who doesn't?'",
-      "text": "When one reporter asked her why she doesn't call herself a Jew, she said it's because she doesn't practice the religion. And then, bringing to the conversation the negative stereotype of the money-hungry Jew, she pontificated that maybe that heritage was what made her so greedy about money."
+      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/katie-price-we-love-to-earn-money-who-doesnt-955318.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "But don't take that to mean she doesn't respect religion. She insists that she's not judging anyone about it, and that they shouldn't judge her:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/katie-price-we-love-to-earn-money-who-doesnt-955318.html",
-      "sourceTitle": "Katie Price: 'We love to earn money, who doesn't?'",
-      "text": "I'm useless at any religion. I'm so open-minded I don't judge anybody on anything, and I think that is the best way to be. . . . Money and religion are the big things, and that's it, and I stay away from religion. We love to earn money, who doesn't?"
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I'm useless at any religion. I'm so open-minded I don't judge anybody on anything, and I think that is the best way to be. . . . Money and religion are the big things, and that's it, and I stay away from religion. We love to earn money, who doesn't?",
+      "sourceTitle": "Katie Price: 'We love to earn money, who doesn't?'",
+      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/katie-price-we-love-to-earn-money-who-doesnt-955318.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "I don't know, but it sure sounds to me like she's focusing in on making money with religious dedication."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Fiscal Policy and the Not Intelligent"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "By Price's own admission, she is mostly non-political, but she still has opinions. She said,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I don't get involved in party politics or pay much attention to what David Cameron says because I think he's hard to notice. But I have a view on things that are political and if I think something needs changing, I fight for what I believe is right. I'm not a quitter.",
+      "sourceTitle": "Sun's new columnist Katie Price: I'm not just boobs, lashes and fake tan.",
+      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/features/4152415/Suns-new-columnist-Katie-Price-Im-not-just-boobs-lashes-and-fake-tan.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "She created a little bit of a stir among British bloggers when she started tweeting one day about quantitative easing and fiscal union relating to the European debt crisis.",
+      "sourceTitle": "Famous UK Model Jordan Suddenly Starts Tweeting About The Eurozone Crisis And Quantitative Easing.",
+      "sourceUrl": "http://www.businessinsider.com/famous-uk-model-jordan-suddenly-starts-tweeting-about-the-eurozone-crisis-and-quantitative-easing-2012-1"
+    },
+    {
+      "type": "text",
+      "text": "In one tweet she wrote:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/features/4152415/Suns-new-columnist-Katie-Price-Im-not-just-boobs-lashes-and-fake-tan.html",
-      "sourceTitle": "Sun's new columnist Katie Price: I'm not just boobs, lashes and fake tan.",
-      "text": "I don't get involved in party politics or pay much attention to what David Cameron says because I think he's hard to notice. But I have a view on things that are political and if I think something needs changing, I fight for what I believe is right. I'm not a quitter."
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.businessinsider.com/famous-uk-model-jordan-suddenly-starts-tweeting-about-the-eurozone-crisis-and-quantitative-easing-2012-1",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Large scale quantitative easing in 2012 could distort liquidity of govt. bond market. #justsayin",
       "sourceTitle": "Famous UK Model Jordan Suddenly Starts Tweeting About The Eurozone Crisis And Quantitative Easing.",
-      "text": "She created a little bit of a stir among British bloggers when she started tweeting one day about quantitative easing and fiscal union relating to the European debt crisis."
+      "sourceUrl": "http://www.businessinsider.com/famous-uk-model-jordan-suddenly-starts-tweeting-about-the-eurozone-crisis-and-quantitative-easing-2012-1"
     },
     {
-      "type": "sentence",
-      "text": "In one tweet she wrote:"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.businessinsider.com/famous-uk-model-jordan-suddenly-starts-tweeting-about-the-eurozone-crisis-and-quantitative-easing-2012-1",
-      "sourceTitle": "Famous UK Model Jordan Suddenly Starts Tweeting About The Eurozone Crisis And Quantitative Easing.",
-      "text": "Large scale quantitative easing in 2012 could distort liquidity of govt. bond market. #justsayin"
-    },
-    {
-      "type": "sentence",
-      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/features/4152415/Suns-new-columnist-Katie-Price-Im-not-just-boobs-lashes-and-fake-tan.html",
+      "parentId": 16,
+      "type": "text",
+      "text": "Just sayin' indeed. This is coming from a woman who said she was \"not intelligent.\"",
       "sourceTitle": "Sun's new columnist Katie Price: I'm not just boobs, lashes and fake tan.",
-      "text": "Just sayin' indeed. This is coming from a woman who said she was \"not intelligent.\""
+      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/features/4152415/Suns-new-columnist-Katie-Price-Im-not-just-boobs-lashes-and-fake-tan.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.itv.com/news/2012-03-07/twitter-cleared-of-phony-celebrity-tweets/",
+      "type": "text",
+      "text": "But, as I found out thanks to a diligent reader, it turns out the whole thing was just an advertising campaign for Snickers. The last tweet in the series stated, \"You're not you when you're hungry @snickeruk.\"",
+      "parentId": 16,
       "sourceTitle": "Celebrity tweets cleared by advertising watchdog.",
-      "text": "But, as I found out thanks to a diligent reader, it turns out the whole thing was just an advertising campaign for Snickers. The last tweet in the series stated, \"You're not you when you're hungry @snickeruk.\""
+      "sourceUrl": "http://www.itv.com/news/2012-03-07/twitter-cleared-of-phony-celebrity-tweets/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "So once again she reveals she'll do anything for money, including exploit her non-intelligence on Twitter. Non-political it is!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

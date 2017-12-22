@@ -33,125 +33,204 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jamie Oliver was born in Clavering, England and grew up in Cambridge, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Oliver and religion seems to be a non-issue. It seems so unimportant to him that he's not even given it any thought. He once said during a food-related trip to an Italian monastery:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://lostempireslivingtribes.blogspot.com/2005/11/jamie-oliver-in-italy.html",
-      "sourceTitle": "Jamie Oliver in Italy",
-      "text": "I don't even know what religion I am. I think I might be Church of England… food is my religion, and the dinner table is my altar."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I don't even know what religion I am. I think I might be Church of England… food is my religion, and the dinner table is my altar.",
+      "sourceTitle": "Jamie Oliver in Italy",
+      "sourceUrl": "http://lostempireslivingtribes.blogspot.com/2005/11/jamie-oliver-in-italy.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Well, the Church of England part is probably correct, given the fact that Oliver is about as English as they come. And, you know, we might have to give him the part about food being his religion. That certainly seems to be the way he lives his life. Maybe we could call him Epicurean (in the modern, colloquial sense of course)."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "Oliver takes it a bit further, injecting sarcasm into his food/religion analogy, reciting his own rendition of a dinnertime prayer:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "text": "…for what we are about to receive may God be truly thankful. ((. Lost Empires, Living Tribes.))"
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianpost.com/news/jamie-oliver-enlists-pastor-s-help-for-food-revolution-44473/",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "…for what we are about to receive may God be truly thankful. (("
+    },
+    {
+      "parentId": 8,
+      "type": "link",
+      "text": "Jamie Oliver in Italy",
+      "sourceUrl": "http://lostempireslivingtribes.blogspot.com/2005/11/jamie-oliver-in-italy.html"
+    },
+    {
+      "type": "text",
+      "text": ". Lost Empires, Living Tribes.))",
+      "parentId": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "That being said, Oliver isn't above recruiting American Baptist pastors to help further his political agenda",
       "sourceTitle": "Jamie Oliver Enlists Pastor's Help For 'Food Revolution.'",
-      "text": "That being said, Oliver isn't above recruiting American Baptist pastors to help further his political agenda"
+      "sourceUrl": "http://www.christianpost.com/news/jamie-oliver-enlists-pastor-s-help-for-food-revolution-44473/"
     },
     {
-      "type": "sentence",
-      "text": "(which we'll get to right… now)."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "(which we'll get to right… now).",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Fat Cat politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Oliver has a specific political objective–to get people to eat healthy and to get governments to help (read: coerce?) them. His philosophy can be summed up as follows:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/04/28/jamie-oliver-food-revolution-day_n_1461430.html",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Research has shown — that by eating a diet of real food (meats and vegetables, carbohydrates and the occasional treat) that you cook for yourself and your family will make you a healthier person. When I look around the world at the rising rates of obesity and diet-related disease, I am saddened and angered because this is entirely preventable. People just need food education and a few cooking skills.",
       "sourceTitle": "Jamie Oliver's Food Revolution Day Aims To Inspire 'Better Food, Better Life.'",
-      "text": "Research has shown — that by eating a diet of real food (meats and vegetables, carbohydrates and the occasional treat) that you cook for yourself and your family will make you a healthier person. When I look around the world at the rising rates of obesity and diet-related disease, I am saddened and angered because this is entirely preventable. People just need food education and a few cooking skills."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/04/28/jamie-oliver-food-revolution-day_n_1461430.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.foodpolitics.eu/milk-controversy-in-the-uk/",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "It all began in his home country of England, where Oliver campaigned to up standards in school lunch programs. He petitioned the government for funds and to increase training for school cooks so they can offer healthier food. Oliver has been at the forefront of the food debate, pointing out the cost-of-milk controversy",
       "sourceTitle": "Milk controversy in the UK",
-      "text": "It all began in his home country of England, where Oliver campaigned to up standards in school lunch programs. He petitioned the government for funds and to increase training for school cooks so they can offer healthier food. Oliver has been at the forefront of the food debate, pointing out the cost-of-milk controversy"
+      "sourceUrl": "http://www.foodpolitics.eu/milk-controversy-in-the-uk/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://labelgmoscv.wordpress.com/2012/01/09/434/",
+      "type": "text",
+      "text": "and singling out corporations that don't label dangerous ingredients or promote packaged, processed food as healthy.",
+      "parentId": 14,
       "sourceTitle": "Jamie Oliver: Teach Every Child About Food",
-      "text": "and singling out corporations that don't label dangerous ingredients or promote packaged, processed food as healthy."
+      "sourceUrl": "http://labelgmoscv.wordpress.com/2012/01/09/434/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "In the end, Oliver gave up on any assistance from governments, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.bbc.co.uk/news/uk-18128644",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I've given up on politics… governments are too short-term, they're too transient. They're like ships that pass in the night and they really don't understand.",
       "sourceTitle": "Jamie Oliver says he's 'given up on politics.'",
-      "text": "I've given up on politics… governments are too short-term, they're too transient. They're like ships that pass in the night and they really don't understand."
+      "sourceUrl": "http://www.bbc.co.uk/news/uk-18128644"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://labelgmoscv.wordpress.com/2012/01/09/434/",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Now, he's focused his efforts on helping to persuade companies to selling healthy products and promoting the ones that already do. He speaks regularly to riveted crowds",
       "sourceTitle": "Jamie Oliver: Teach Every Child About Food",
-      "text": "Now, he's focused his efforts on helping to persuade companies to selling healthy products and promoting the ones that already do. He speaks regularly to riveted crowds"
+      "sourceUrl": "http://labelgmoscv.wordpress.com/2012/01/09/434/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.tedprize.org/jamie-oliver/",
+      "type": "text",
+      "text": "and for it, he's received the prestigious TED Prize in 2010.",
+      "parentId": 18,
       "sourceTitle": "Congratulations Jamie Oliver – 2010 TED Prize Winner",
-      "text": "and for it, he's received the prestigious TED Prize in 2010."
+      "sourceUrl": "http://www.tedprize.org/jamie-oliver/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://labelgmoscv.wordpress.com/2012/01/09/434/",
+      "type": "text",
+      "text": "Oliver travels to the most unhealthy states and cities in the U.S. and Britain to individually help those affected.",
+      "parentId": 18,
       "sourceTitle": "Jamie Oliver: Teach Every Child About Food",
-      "text": "Oliver travels to the most unhealthy states and cities in the U.S. and Britain to individually help those affected."
+      "sourceUrl": "http://labelgmoscv.wordpress.com/2012/01/09/434/"
     },
     {
-      "type": "sentence",
-      "text": "He's a true soldier in what he calls a \"food revolution.\""
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He's a true soldier in what he calls a \"food revolution.\"",
+      "parentId": 18
     }
   ],
   "wikipediaData": {

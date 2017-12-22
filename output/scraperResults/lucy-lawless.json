@@ -34,112 +34,230 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Lucy Lawless, born Lucille Frances Ryan, was born and raised in Mount Albert, New Zealand."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tv.yahoo.com/news/zachary-quinto-lucy-lawless-irish-tv-actors-never-20110307-184000-257.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Lawless is the descendent of an Irish criminal, sent to New Zealand to serve out a criminal sentence.",
       "sourceTitle": "Zachary Quinto, Lucy Lawless and Other TV Actors with Unexpected Irish Roots",
-      "text": "Lawless is the descendent of an Irish criminal, sent to New Zealand to serve out a criminal sentence."
+      "sourceUrl": "http://tv.yahoo.com/news/zachary-quinto-lucy-lawless-irish-tv-actors-never-20110307-184000-257.html"
     },
     {
-      "type": "sentence",
-      "text": "Apparently, her ancestor kept the faith because Lawless was raised a Catholic. She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Apparently, her ancestor kept the faith because Lawless was raised a Catholic. She said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.lucylawless.net/lucy.php#Biography",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I have five brothers and one sister. We're this big, sprawling Irish Catholic family. I don't live that far from any of them.",
       "sourceTitle": "AUSXIP Lucy Lawless",
-      "text": "I have five brothers and one sister. We're this big, sprawling Irish Catholic family. I don't live that far from any of them."
+      "sourceUrl": "http://www.lucylawless.net/lucy.php#Biography"
     },
     {
-      "type": "sentence",
-      "text": "Throughout her acting career, the morality and guilt inherent in the Catholic religion would rise up and strike her. For example, she expressed feeling strange about acting out a \"horror/lesbian vampire\" scene during the filming of her show . She said:"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "text",
+      "text": "Throughout her acting career, the morality and guilt inherent in the Catholic religion would rise up and strike her. For example, she expressed feeling strange about acting out a \"horror/lesbian vampire\" scene during the filming of her show"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Xena: Warrior Princess"
+    },
+    {
+      "type": "text",
+      "text": ". She said:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://metro.co.uk/2007/05/29/60-seconds-lucy-lawless-394067/",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "That was a weird one. I grew up Catholic and so we thought we had the edge over vampires because there was always a crucifix handy.",
       "sourceTitle": "60 Seconds: Lucy Lawless",
-      "text": "That was a weird one. I grew up Catholic and so we thought we had the edge over vampires because there was always a crucifix handy."
+      "sourceUrl": "http://metro.co.uk/2007/05/29/60-seconds-lucy-lawless-394067/"
     },
     {
-      "type": "sentence",
-      "text": "However, something interesting popped up during the research of Lawless' article. She said in response to a question about reviving her singing career by participating on the TV show, :"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "text",
+      "text": "However, something interesting popped up during the research of Lawless' article. She said in response to a question about reviving her singing career by participating on the TV show,"
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "Celebrity Duets"
+    },
+    {
+      "type": "text",
+      "text": ":",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.lucylawless.net/articles/2007/outlook/index.html",
-      "sourceTitle": "Xena to Diva Lucy Gets Vocal",
-      "text": "It lit a fire under my belly. I'd kind of lost my religion, acting and everything. So when the possibility of singing with Smokey Robinson [on Celebrity Duets] came up, I just leaped at it."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "It lit a fire under my belly. I'd kind of lost my religion, acting and everything. So when the possibility of singing with Smokey Robinson [on Celebrity Duets] came up, I just leaped at it.",
+      "sourceTitle": "Xena to Diva Lucy Gets Vocal",
+      "sourceUrl": "http://www.lucylawless.net/articles/2007/outlook/index.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Lost her religion? There's a story there. Unfortunately, she didn't elaborate during the interview, but I think it's safe to say she's a lapsed Catholic."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "Going the political distance"
     },
     {
-      "type": "sentence",
-      "text": "Lawless is majorly political. Just look at her . It's an endless stream of factoids, calls to arms and appeals to politicians. She's a political activist, putting herself in danger and on the front lines against corporatocracy and planetary disintegration."
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "text",
+      "text": "Lawless is majorly political. Just look at her"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tv.yahoo.com/news/actress-lucy-lawless-pleads-guilty-trespass-233602397.html",
+      "parentId": 13,
+      "type": "link",
+      "text": "Twitter feed",
+      "sourceUrl": "https://twitter.com/RealLucyLawless"
+    },
+    {
+      "type": "text",
+      "text": ". It's an endless stream of factoids, calls to arms and appeals to politicians. She's a political activist, putting herself in danger and on the front lines against corporatocracy and planetary disintegration.",
+      "parentId": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "In 2012, Lawless and a group of activists boarded an oil exploration ship as it was docked in a New Zealand port out of protest, spent over three days on the vessel, and was ultimately arrested and charged with burglary. She ended up pleading guilty to criminal trespassing.",
       "sourceTitle": "Actress Lucy Lawless pleads guilty to trespass",
-      "text": "In 2012, Lawless and a group of activists boarded an oil exploration ship as it was docked in a New Zealand port out of protest, spent over three days on the vessel, and was ultimately arrested and charged with burglary. She ended up pleading guilty to criminal trespassing."
+      "sourceUrl": "http://tv.yahoo.com/news/actress-lucy-lawless-pleads-guilty-trespass-233602397.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "text": "She wrote a  of sorts, outlining her political views. They are quite liberal. She said that she chose not to become a U.S. citizen because she didn't like the Bush administration, that Obama \"inherited… a monstrous snowball of problems,\" and discussed her family's green lifestyle including their beehives and compost piles, and said:"
+      "parentId": 15,
+      "type": "text",
+      "text": "She wrote a"
     },
     {
-      "type": "break"
+      "parentId": 15,
+      "type": "link",
+      "text": "political manifesto",
+      "sourceUrl": "http://good.net.nz/magazine/7/good-start/lucy-lawless"
+    },
+    {
+      "type": "text",
+      "text": "of sorts, outlining her political views. They are quite liberal. She said that she chose not to become a U.S. citizen because she didn't like the Bush administration, that Obama \"inherited… a monstrous snowball of problems,\" and discussed her family's green lifestyle including their beehives and compost piles, and said:",
+      "parentId": 15
     },
     {
       "type": "quote",
-      "sourceUrl": "http://good.net.nz/magazine/7/good-start/lucy-lawless",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I remember a gasoline company that posted a $6 billion profit in the wake of the first Iraq War. I thought, What are you going to do with that, buy a new planet? There's no planet B.",
       "sourceTitle": "Lucy Lawless",
-      "text": "I remember a gasoline company that posted a $6 billion profit in the wake of the first Iraq War. I thought, What are you going to do with that, buy a new planet? There's no planet B."
+      "sourceUrl": "http://good.net.nz/magazine/7/good-start/lucy-lawless"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0005128/bio",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Her liberal views also extend to gay marriage. She vocally opposed California's Prop 8 when it was a raging debate in 2008. Plus, she made some waves in the gay community when she announced after"
+    },
+    {
+      "parentId": 18,
+      "type": "emphasis",
+      "text": "Xena"
+    },
+    {
+      "type": "text",
+      "text": "ended that she thought her character was a lesbian.",
+      "parentId": 18,
       "sourceTitle": "Lucy Lawless – Biography",
-      "text": "Her liberal views also extend to gay marriage. She vocally opposed California's Prop 8 when it was a raging debate in 2008. Plus, she made some waves in the gay community when she announced after  ended that she thought her character was a lesbian."
+      "sourceUrl": "http://www.imdb.com/name/nm0005128/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
+      "parentId": 19,
+      "type": "text",
       "text": "The political issues that are important to Lawless are clearly central in her life. This princess is quite the warrior."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

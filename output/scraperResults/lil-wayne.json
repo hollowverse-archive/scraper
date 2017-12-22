@@ -33,111 +33,176 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Lil Wayne was born and grew up in New Orleans, Louisiana. Although, one could speculate if he ever grew up as he was a successful rapper by the time he was 15."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Religiously, Lil Wayne is openly Christian. He asked a sold out crowd in Newark, New Jersey once:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.nytimes.com/2008/02/26/arts/music/26wayn.html?_r=4&oref=slogin&oref=slogin",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I believe in God and his son, Jesus. Do you?",
       "sourceTitle": "Lil Wayne Music Review",
-      "text": "I believe in God and his son, Jesus. Do you?"
+      "sourceUrl": "http://www.nytimes.com/2008/02/26/arts/music/26wayn.html?_r=4&oref=slogin&oref=slogin"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.smh.com.au/entertainment/music/eminem-rap-inferno-lifts-roof-20111202-1oart.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Apparently, so did the crowd. He was reported to tell an Australian crowd where he was opening up a concert for Eminem that he believes in God as well,",
       "sourceTitle": "Eminem rap inferno lifts roof",
-      "text": "Apparently, so did the crowd. He was reported to tell an Australian crowd where he was opening up a concert for Eminem that he believes in God as well,"
+      "sourceUrl": "http://www.smh.com.au/entertainment/music/eminem-rap-inferno-lifts-roof-20111202-1oart.html"
     },
     {
-      "type": "sentence",
-      "text": "so he's not shy about it."
+      "type": "text",
+      "text": "so he's not shy about it.",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "Lil Wayne has admitted to reading the Bible everyday and, in prison, wrote:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.rollingstone.com/music/news/lil-wayne-launches-prison-website-weezy-thanx-you-20100402",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Jail didn't make me find God, He's always been there.",
       "sourceTitle": "Lil Wayne Launches Prison Website Weezy Thanx You",
-      "text": "Jail didn't make me find God, He's always been there."
+      "sourceUrl": "http://www.rollingstone.com/music/news/lil-wayne-launches-prison-website-weezy-thanx-you-20100402"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chacha.com/question/does-the-rapper-lil-wayne-go-to-church",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "But what kind of Christian Lil Wayne is remains a mystery and in his song, \"A Millie,\" he praises Allah.",
       "sourceTitle": "Does the rapper Lil Wayne go to church?",
-      "text": "But what kind of Christian Lil Wayne is remains a mystery and in his song, \"A Millie,\" he praises Allah."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.chacha.com/question/does-the-rapper-lil-wayne-go-to-church"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "The politics of Weezy"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2008/07/09/obama-references-lil-wayn_n_111621.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "First of all, whatever Lil Wayne's politics are, President Obama is a fan of his, mentioning him at least twice in speeches",
       "sourceTitle": "Obama References Lil' Wayne",
-      "text": "First of all, whatever Lil Wayne's politics are, President Obama is a fan of his, mentioning him at least twice in speeches"
+      "sourceUrl": "http://www.huffingtonpost.com/2008/07/09/obama-references-lil-wayn_n_111621.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/danny-groner/does-obama-love-lil-wayne_b_742839.html",
+      "type": "text",
+      "text": "and admitting that he's got some Lil Wayne on his iPod.",
+      "parentId": 11,
       "sourceTitle": "Danny Groner: Does Obama Love Lil' Wayne Or What?",
-      "text": "and admitting that he's got some Lil Wayne on his iPod."
+      "sourceUrl": "http://www.huffingtonpost.com/danny-groner/does-obama-love-lil-wayne_b_742839.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "However, Lil Wayne seems to be on Obama's side for the most part, despite admitting that conservatives, Republicans, and Tea Partiers might have a point with their criticisms of Obama's economic policies. Still, he seems to think Republicans and the Tea Party don't like or \"get\" black people, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.eurweb.com/2011/09/lil-waynes-political-acumen-weighs-in-on-tea-party-and-the-prez/",
-      "sourceTitle": "Lil Wayne Weighs in on Tea Party and the Prez",
-      "text": "You learn from what the right-wing is doing and you take something from it. I feel like as a people the most that we [black people] can do is better ourselves and learn. Then look at yourself and ask 'Am I the person they're talking about or am I not?' You have to make the most of who you are because the Republicans are never going to like us."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "You learn from what the right-wing is doing and you take something from it. I feel like as a people the most that we [black people] can do is better ourselves and learn. Then look at yourself and ask 'Am I the person they're talking about or am I not?' You have to make the most of who you are because the Republicans are never going to like us.",
+      "sourceTitle": "Lil Wayne Weighs in on Tea Party and the Prez",
+      "sourceUrl": "http://www.eurweb.com/2011/09/lil-waynes-political-acumen-weighs-in-on-tea-party-and-the-prez/"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Strangely, it wasn't as controversial as when Kanye West said it."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Based on at least one of his songs, though, Lil Wayne doesn't seem to have a very high opinion of politicians in general, rapping:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 17
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://en.scorser.com/Lyrics/Lil+Wayne/Unknown/Politics/3301999.html",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Question, what the fuck is you go do, when that new world come for you. When that new world come for you, revolution is never the solution. Prostitution, drug distribution, war contribution, all for the love of the constitution. Yeah.",
       "sourceTitle": "Lil Wayne Politics Lyrics",
-      "text": "Question, what the fuck is you go do, when that new world come for you. When that new world come for you, revolution is never the solution. Prostitution, drug distribution, war contribution, all for the love of the constitution. Yeah."
+      "sourceUrl": "http://en.scorser.com/Lyrics/Lil+Wayne/Unknown/Politics/3301999.html"
     }
   ],
   "wikipediaData": {

@@ -32,81 +32,140 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Drake grew up between Vancouver, Canada and Memphis, Tennessee. His mother is Jewish and his father a southern black American, putting him squarely in Baptist country."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "In Judaism, religious heritage is passed down through the mother and Drake has claimed being Jewish, making him the most famous black Jew since Lenny Kravitz."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ballerwives.com/2010/03/28/rapper-drake-talks-jewish-religion-bar-mitzah-privileged-upbringing/",
+      "parentId": 3,
+      "type": "text",
+      "text": "Drake even had a Bar Mitzvah and celebrates most major Jewish holidays with his mother.",
       "sourceTitle": "Rapper Drake Talks About His Bar Mitzvah",
-      "text": "Drake even had a Bar Mitzvah and celebrates most major Jewish holidays with his mother."
+      "sourceUrl": "http://ballerwives.com/2010/03/28/rapper-drake-talks-jewish-religion-bar-mitzah-privileged-upbringing/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "He acknowledges that God and faith are important to him as well, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=_WjhsVs6RK4",
-      "sourceTitle": "Westwood – Drake reveals his religious views",
-      "text": "One thing I make sure I do is I always talk to the big guy upstairs. I always let him know what my purpose is on that stage. It's not to further my reputation….I want to make these people happy."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "One thing I make sure I do is I always talk to the big guy upstairs. I always let him know what my purpose is on that stage. It's not to further my reputation….I want to make these people happy.",
+      "sourceTitle": "Westwood – Drake reveals his religious views",
+      "sourceUrl": "http://www.youtube.com/watch?v=_WjhsVs6RK4"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "But wait, the list of successful Jewish rappers is only four people long: the three Beastie Boys and Matisyahu. Plus Drake is half-black, so what do you do when you are Jewish and you want to be a famous rapper? You say this:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "At the end of the day, I consider myself a black man because I'm more immersed in black culture than any other."
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "A president's man"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Drake hasn't said much about politics except to profess his admiration for America's last two Democratic presidents. He has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://iamsupergorge.com/home/2011/11/19/drake-talks-presidents-spending-his-life-with-nicki-the-fight-with-chris-brown-somebody-wouldve-got-knocked-the-fck-out/",
-      "sourceTitle": "Drake Talks Presidents, Spending His Life with Nicki & The Fight With Chris Brown",
-      "text": "One of my favorite pictures I have in my house is of me and Bill [Clinton] and I'm wearing a zebra Supreme jacket and he's wearing a suit. It's wild!"
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "One of my favorite pictures I have in my house is of me and Bill [Clinton] and I'm wearing a zebra Supreme jacket and he's wearing a suit. It's wild!",
+      "sourceTitle": "Drake Talks Presidents, Spending His Life with Nicki & The Fight With Chris Brown",
+      "sourceUrl": "http://iamsupergorge.com/home/2011/11/19/drake-talks-presidents-spending-his-life-with-nicki-the-fight-with-chris-brown-somebody-wouldve-got-knocked-the-fck-out/"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Of Obama, he said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 15
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.hollywoodreporter.com/news/drake-obama-movie-impersonation-286067",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "I hope somebody makes a movie about Obama's life soon because I could play him. That's the goal. I watch all the addresses. Any time I see him on TV, I don't change the channel.",
       "sourceTitle": "Drake's Career Goal: Playing President Obama",
-      "text": "I hope somebody makes a movie about Obama's life soon because I could play him. That's the goal. I watch all the addresses. Any time I see him on TV, I don't change the channel."
+      "sourceUrl": "http://www.hollywoodreporter.com/news/drake-obama-movie-impersonation-286067"
     }
   ],
   "wikipediaData": {

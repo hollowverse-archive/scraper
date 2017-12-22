@@ -29,45 +29,76 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Chris Hemsworth was born in Melbourne, Australia and was raised in Bulman, Australia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "There's no evidence that Hemsworth is a spiritual person, and he doesn't talk about his religious past, if he had any."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.comicbookmovie.com/fansites/BrentSprecher/news/?a=20869",
+      "parentId": 3,
+      "type": "text",
+      "text": "He mentioned in an interview that he found inspiration for his eponymous character in the movie"
+    },
+    {
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Thor"
+    },
+    {
+      "type": "text",
+      "text": "from Herman Hesse's book",
+      "parentId": 3
+    },
+    {
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Siddhartha"
+    },
+    {
+      "type": "text",
+      "text": ". He said the book, which is a Buddhist meditation on one man's spiritual journey, was \"certainly one of my favorite books.\"",
+      "parentId": 3,
       "sourceTitle": "Thor Roundtables: Chris Hemsworth on Thor.",
-      "text": "He mentioned in an interview that he found inspiration for his eponymous character in the movie  from Herman Hesse's book . He said the book, which is a Buddhist meditation on one man's spiritual journey, was \"certainly one of my favorite books.\""
+      "sourceUrl": "http://www.comicbookmovie.com/fansites/BrentSprecher/news/?a=20869"
     },
     {
-      "type": "sentence",
-      "text": "I didn't find any evidence that he meditates on a regular basis or that he practices Buddhism, but he seems to respect it."
+      "type": "text",
+      "text": "I didn't find any evidence that he meditates on a regular basis or that he practices Buddhism, but he seems to respect it.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "About his political beliefs, I could find absolutely zero information. He doesn't seem to engage in the politics of his home country or that of Hollywood. I would venture to guess that means he's not incredibly passionate about politics, but he could just be quietly opinionated. Regardless, we've got nothing with which to enlighten you here."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "If anything changes, be sure to let us know in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

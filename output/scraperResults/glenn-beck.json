@@ -38,148 +38,201 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Glenn Beck was born in Everett, Washington and grew up in several towns in the western half of that state."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://usconservatives.about.com/od/champions/p/Beck_Bio.htm",
+      "parentId": 2,
+      "type": "text",
+      "text": "Beck was raised Catholic,",
       "sourceTitle": "A Biography of Glenn Beck.",
-      "text": "Beck was raised Catholic,"
+      "sourceUrl": "http://usconservatives.about.com/od/champions/p/Beck_Bio.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ldsliving.com/story/5768-glenn-beck",
+      "type": "text",
+      "text": "although it doesn't appear that it was a huge part of his life. After an early adulthood consumed by alcoholism, drug abuse, thoughts of suicide, and a divorce, he joined Alcoholics Anonymous, sobered up, and met his second wife. As a prerequisite for marriage, she insisted that they find a church they could attend as a family, and so they embarked on a church tour. That landed them at the Church of Jesus Christ of Latter-day Saints.",
+      "parentId": 2,
       "sourceTitle": "Glenn Beck.",
-      "text": "although it doesn't appear that it was a huge part of his life. After an early adulthood consumed by alcoholism, drug abuse, thoughts of suicide, and a divorce, he joined Alcoholics Anonymous, sobered up, and met his second wife. As a prerequisite for marriage, she insisted that they find a church they could attend as a family, and so they embarked on a church tour. That landed them at the Church of Jesus Christ of Latter-day Saints."
+      "sourceUrl": "http://www.ldsliving.com/story/5768-glenn-beck"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=USpeolBTKIo",
+      "parentId": 3,
+      "type": "text",
+      "text": "Beck gets teary (not that that's unusual) when he talks about his baptism and how joining the church turned his life and his career around,",
       "sourceTitle": "LDS (Mormon) Church: Glenn Beck on Mormonism.",
-      "text": "Beck gets teary (not that that's unusual) when he talks about his baptism and how joining the church turned his life and his career around,"
+      "sourceUrl": "http://www.youtube.com/watch?v=USpeolBTKIo"
     },
     {
-      "type": "sentence",
-      "text": "and it's clearly a huge part of his life."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and it's clearly a huge part of his life.",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.theblaze.com/stories/beck-dispels-biggest-mormon-myths-in-blazetv-special-polygamy-magic-underwear-secretive-temple-activities/",
-      "sourceTitle": "Glenn Beck Dispels Myths Surrounding the Mormon Faith.",
-      "text": "I do what I do because of my faith. I say the things I do. . . because of my faith. Because of my faith I am not afraid. It's why I do have hope."
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=k-loZrTzMXo",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I do what I do because of my faith. I say the things I do. . . because of my faith. Because of my faith I am not afraid. It's why I do have hope.",
+      "sourceTitle": "Glenn Beck Dispels Myths Surrounding the Mormon Faith.",
+      "sourceUrl": "http://www.theblaze.com/stories/beck-dispels-biggest-mormon-myths-in-blazetv-special-polygamy-magic-underwear-secretive-temple-activities/"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "He claims he didn't talk about his faith on his shows for a long time, and still doesn't talk about it much, because he's not the model Mormon.",
       "sourceTitle": "Glenn Beck Mormon, on being Mormon.",
-      "text": "He claims he didn't talk about his faith on his shows for a long time, and still doesn't talk about it much, because he's not the model Mormon."
+      "sourceUrl": "http://www.youtube.com/watch?v=k-loZrTzMXo"
     },
     {
-      "type": "sentence",
-      "text": "But when it comes down to it, he talks about it quite a bit."
+      "type": "text",
+      "text": "But when it comes down to it, he talks about it quite a bit.",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=xwSzPtaK03M&feature=related",
+      "parentId": 7,
+      "type": "text",
+      "text": "In at least one segment on his Fox News show, he attempted to prove the Book of Mormon true through scientific evidence.",
       "sourceTitle": "Glenn Beck tries to Prove Book of Mormon on Air.",
-      "text": "In at least one segment on his Fox News show, he attempted to prove the Book of Mormon true through scientific evidence."
+      "sourceUrl": "http://www.youtube.com/watch?v=xwSzPtaK03M&feature=related"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theblaze.com/stories/beck-dispels-biggest-mormon-myths-in-blazetv-special-polygamy-magic-underwear-secretive-temple-activities/",
+      "type": "text",
+      "text": "And in the lead-up to the 2012 presidential election, he spent an episode on his online video show dispelling common Mormon myths and attempting to show that his faith–and that of Republican nominee and Mormon Mitt Romney–was just as normal and mainstream as any other common sect of Christianity.",
+      "parentId": 7,
       "sourceTitle": "Glenn Beck Dispels Myths Surrounding the Mormon Faith.",
-      "text": "And in the lead-up to the 2012 presidential election, he spent an episode on his online video show dispelling common Mormon myths and attempting to show that his faith–and that of Republican nominee and Mormon Mitt Romney–was just as normal and mainstream as any other common sect of Christianity."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.theblaze.com/stories/beck-dispels-biggest-mormon-myths-in-blazetv-special-polygamy-magic-underwear-secretive-temple-activities/"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Independent Conservative Educator or Far-Right Wacko?"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cbsnews.com/video/watch/?id=5330485n&tag=cbsnewsVideoArea.0",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Glenn Beck is a self-described conservative, leaning towards Libertarian. He believes the government should get out of the lives of individuals, but that it should provide a strong defense department.",
       "sourceTitle": "Glenn Beck.",
-      "text": "Glenn Beck is a self-described conservative, leaning towards Libertarian. He believes the government should get out of the lives of individuals, but that it should provide a strong defense department."
+      "sourceUrl": "http://www.cbsnews.com/video/watch/?id=5330485n&tag=cbsnewsVideoArea.0"
     },
     {
-      "type": "sentence",
-      "text": "In one interview he said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "In one interview he said,",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=3nFu7CBPjVg&feature=related",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I believe in people, I believe that if we get out of people's way, sky's the limit.",
       "sourceTitle": "Glenn Beck on 20/20.",
-      "text": "I believe in people, I believe that if we get out of people's way, sky's the limit."
+      "sourceUrl": "http://www.youtube.com/watch?v=3nFu7CBPjVg&feature=related"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cbsnews.com/video/watch/?id=5330485n&tag=cbsnewsVideoArea.0",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "His views on many controversial issues are in line with the Libertarians: he doesn't think the federal government should regulate same-sex marriage laws; he opposes a constitutional amendment banning flag burning; he opposes the Patriot Act;",
       "sourceTitle": "Glenn Beck.",
-      "text": "His views on many controversial issues are in line with the Libertarians: he doesn't think the federal government should regulate same-sex marriage laws; he opposes a constitutional amendment banning flag burning; he opposes the Patriot Act;"
+      "sourceUrl": "http://www.cbsnews.com/video/watch/?id=5330485n&tag=cbsnewsVideoArea.0"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theblaze.com/stories/i-havent-been-this-angry-in-a-long-time-beck-reacts-to-scotus-decision-on-obamacare/",
+      "type": "text",
+      "text": "he opposes the Affordable Care Act (Obamacare).",
+      "parentId": 12,
       "sourceTitle": "Glenn Beck Reacts to SCOTUS Decision on Obamacare.",
-      "text": "he opposes the Affordable Care Act (Obamacare)."
+      "sourceUrl": "http://www.theblaze.com/stories/i-havent-been-this-angry-in-a-long-time-beck-reacts-to-scotus-decision-on-obamacare/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://mediamatters.org/video/2007/04/04/cnn-amp-abcs-beck-iraq-war-was-always-about-get/138494",
+      "parentId": 13,
+      "type": "text",
+      "text": "But he deviates from the idea of limited government on some things. He doesn't seem to think so poorly of George W. Bush's Iraq War, but only so long as the purpose was to \"prevent the evil Iranian ideology from spreading across the region.\"",
       "sourceTitle": "CNN & ABC's Beck: Iraq war \"was always about getting to Iran\" — WMDs just \"a bonus.\"",
-      "text": "But he deviates from the idea of limited government on some things. He doesn't seem to think so poorly of George W. Bush's Iraq War, but only so long as the purpose was to \"prevent the evil Iranian ideology from spreading across the region.\""
+      "sourceUrl": "http://mediamatters.org/video/2007/04/04/cnn-amp-abcs-beck-iraq-war-was-always-about-get/138494"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cbsnews.com/video/watch/?id=5330485n&tag=cbsnewsVideoArea.0",
+      "type": "text",
+      "text": "He also thinks abortion should be illegal because it infringes on the rights of the unborn child.",
+      "parentId": 13,
       "sourceTitle": "Glenn Beck.",
-      "text": "He also thinks abortion should be illegal because it infringes on the rights of the unborn child."
+      "sourceUrl": "http://www.cbsnews.com/video/watch/?id=5330485n&tag=cbsnewsVideoArea.0"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.csmonitor.com/USA/Elections/2011/0407/Glenn-Beck-leaving-Fox-his-10-most-controversial-statements-so-far/Beck-Obama-Is-A-Racist-Who-Has-Exposed-Himself-As-A-Guy-With-A-Deep-Seated-Hatred-For-White-People-Or-The-White-Culture.",
+      "parentId": 14,
+      "type": "text",
+      "text": "It's his penchant for conspiracy theories and non-politically correct views that have provoked the ire of Democrats and the head-shaking of Republicans. For example, he said that Barack Obama proved himself as a man \"who has a deep-seated hatred for white people, or the white culture.\"",
       "sourceTitle": "Glenn Beck leaving Fox: his 10 most controversial statements (so far).",
-      "text": "It's his penchant for conspiracy theories and non-politically correct views that have provoked the ire of Democrats and the head-shaking of Republicans. For example, he said that Barack Obama proved himself as a man \"who has a deep-seated hatred for white people, or the white culture.\""
+      "sourceUrl": "http://www.csmonitor.com/USA/Elections/2011/0407/Glenn-Beck-leaving-Fox-his-10-most-controversial-statements-so-far/Beck-Obama-Is-A-Racist-Who-Has-Exposed-Himself-As-A-Guy-With-A-Deep-Seated-Hatred-For-White-People-Or-The-White-Culture."
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://mediamatters.org/blog/2011/06/30/glenn-becks-top-5-conspiracy-theories/180582",
+      "type": "text",
+      "text": "And he claimed the the Arab Spring was a coordinated attempt by radical Muslims and Communists to take over the world.",
+      "parentId": 14,
       "sourceTitle": "Glenn Beck's Top 5 Conspiracy Theories.",
-      "text": "And he claimed the the Arab Spring was a coordinated attempt by radical Muslims and Communists to take over the world."
+      "sourceUrl": "http://mediamatters.org/blog/2011/06/30/glenn-becks-top-5-conspiracy-theories/180582"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "But whether you think Beck is a right-wing conspiracy wacko or a thoughtful and insightful educator, his best-selling books and two million Facebook fans show us that his words speak to many frustrated Americans looking for a new voice."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -38,86 +38,145 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Seth MacFarlane was born in Newburyport, Massachusetts. MacFarlane grew up Catholic and went to church, however, he was satirizing religion as young as 11 years old, when he was allowed to draw a comic strip for the local newspaper. He recounts this story:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 2
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.npr.org/templates/transcript/transcript.php?storyId=140946967",
+      "type": "paragraph",
+      "id": 3,
+      "parentId": 2
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "I did a strip that had a guy kneeling at the altar taking Communion and saying can I have fries with that? And to my 11-year-old brain that was comedy.",
       "sourceTitle": "Seth MacFarlane: TV's 'Family Guy' Makes Music, Too",
-      "text": "I did a strip that had a guy kneeling at the altar taking Communion and saying can I have fries with that? And to my 11-year-old brain that was comedy."
+      "sourceUrl": "http://www.npr.org/templates/transcript/transcript.php?storyId=140946967"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=w3pExZs9IJA",
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "He is an atheist and rather outspoken about it.",
       "sourceTitle": "Seth MacFarlane on atheism and gay rights",
-      "text": "He is an atheist and rather outspoken about it."
+      "sourceUrl": "http://www.youtube.com/watch?v=w3pExZs9IJA"
     },
     {
-      "type": "sentence",
-      "text": "But when it comes to atheism, MacFarlane is more Ricky Gervais than Christopher Hitchens. Occasionally, he'll get serious but, for the most part, MacFarlane is funny about it and doesn't seem to care to get into lengthy, theological or philosophical discussions. He's just an atheist and might crack a joke or two about religion. For example, as his hit character Stewie in , MacFarlane says:"
+      "type": "text",
+      "text": "But when it comes to atheism, MacFarlane is more Ricky Gervais than Christopher Hitchens. Occasionally, he'll get serious but, for the most part, MacFarlane is funny about it and doesn't seem to care to get into lengthy, theological or philosophical discussions. He's just an atheist and might crack a joke or two about religion. For example, as his hit character Stewie in",
+      "parentId": 4
     },
     {
-      "type": "break"
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "Family Guy"
+    },
+    {
+      "type": "text",
+      "text": ", MacFarlane says:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Seth_MacFarlane",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Stay away from the church. In the battle over science vs. religion, science offers credible evidence for all the serious claims it makes. The church says, 'Oh, it's right here in this book, see? The one written by people who thought the sun was magic?' I for one would like to see some proof that there is a God. And if you say 'a baby's smile' I'm going to kick you right in the stomach.",
       "sourceTitle": "Seth MacFarlane",
-      "text": "Stay away from the church. In the battle over science vs. religion, science offers credible evidence for all the serious claims it makes. The church says, 'Oh, it's right here in this book, see? The one written by people who thought the sun was magic?' I for one would like to see some proof that there is a God. And if you say 'a baby's smile' I'm going to kick you right in the stomach."
+      "sourceUrl": "http://www.celebatheists.com/wiki/Seth_MacFarlane"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Certainly not the \"Family Values\" of the Republican party"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Seth_MacFarlane.php",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "MacFarlane fits easily into the liberal designation. First of all, and like most American atheists, forced to choose between two and only two parties, MacFarlane is a Democrat. He's given over $92,000 to the Democratic Party and Democrat-associated special interest groups.",
       "sourceTitle": "Seth MacFarlane's Federal Campaign Contribution Report",
-      "text": "MacFarlane fits easily into the liberal designation. First of all, and like most American atheists, forced to choose between two and only two parties, MacFarlane is a Democrat. He's given over $92,000 to the Democratic Party and Democrat-associated special interest groups."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Seth_MacFarlane.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=ZqXneQkWXQ8",
+      "parentId": 9,
+      "type": "text",
+      "text": "He was an Obama supporter during the 2008 presidential campaign",
       "sourceTitle": "Seth MacFarlane Speaks for Obama, Columbus, OH, Oct 2008",
-      "text": "He was an Obama supporter during the 2008 presidential campaign"
+      "sourceUrl": "http://www.youtube.com/watch?v=ZqXneQkWXQ8"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=ryPhPQ2wrKQ",
+      "type": "text",
+      "text": "and expressed concern over the possibility of Mitt Romney beating Obama in the 2012 elections.",
+      "parentId": 9,
       "sourceTitle": "Seth MacFarlane Says Romney Can Beat Obama",
-      "text": "and expressed concern over the possibility of Mitt Romney beating Obama in the 2012 elections."
+      "sourceUrl": "http://www.youtube.com/watch?v=ryPhPQ2wrKQ"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "To add to his list of liberal credentials, MacFarlane has been a staunch supporter of gay rights and came out against Arizona's draconian immigration law. MacFarlane is in the camp that progressive society will march forward despite conservative opposition, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.mediaite.com/online/seth-macfarlane-on-arizonas-immigration-law-gay-marriage-and-todays-culture/",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "[The] civil-rights battle will be won eventually. They'll just have to sulk in a corner and accept the fact that gays will be able to marry each other. Every civil-rights conflict—black people, women—comes to an end in the right way.",
       "sourceTitle": "Seth MacFarlane: Arizona Immigration, Gay Marriage",
-      "text": "[The] civil-rights battle will be won eventually. They'll just have to sulk in a corner and accept the fact that gays will be able to marry each other. Every civil-rights conflict—black people, women—comes to an end in the right way."
+      "sourceUrl": "http://www.mediaite.com/online/seth-macfarlane-on-arizonas-immigration-law-gay-marriage-and-todays-culture/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.tv.com/people/seth-macfarlane/trivia/",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Oh, and he thinks pot should be legal.",
       "sourceTitle": "Seth MacFarlane Trivia & Quotes",
-      "text": "Oh, and he thinks pot should be legal."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.tv.com/people/seth-macfarlane/trivia/"
     }
   ],
   "wikipediaData": {

@@ -33,129 +33,259 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kirk Cameron was born and raised in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "Cameron admits to being an atheist as a teenager. During an interview at the height of his acting career on the television show , Cameron once said:"
+      "parentId": 2,
+      "type": "text",
+      "text": "Cameron admits to being an atheist as a teenager. During an interview at the height of his acting career on the television show"
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "Growing Pains"
+    },
+    {
+      "type": "text",
+      "text": ", Cameron once said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://web.archive.org/web/20080711143843/http://www.christianitytoday.com/tc/2003/002/1.20.html",
-      "sourceTitle": "The Rebirth of Kirk Cameron",
-      "text": "There's no God. You can't prove that there's a God. Absolutely not. You guys are performing your own lobotomy in order to believe this kind of stuff."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "There's no God. You can't prove that there's a God. Absolutely not. You guys are performing your own lobotomy in order to believe this kind of stuff.",
+      "sourceTitle": "The Rebirth of Kirk Cameron",
+      "sourceUrl": "http://web.archive.org/web/20080711143843/http://www.christianitytoday.com/tc/2003/002/1.20.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "But the pressures of stardom set in and Cameron wasn't happy with the enormous amounts of money, the fame, and notoriety, and the high life. He has revealed that he felt empty and lost amidst the glitter and glamour and was looking for something to fill the void. Naturally, Cameron turned to Christianity, born-again Christianity to be exact. He has said of his conversion:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://web.archive.org/web/20080711143843/http://www.christianitytoday.com/tc/2003/002/1.20.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I couldn't get enough of the Bible. I read about this amazing God who sees my thought life… who sees all the sins that I've committed that no one else knows about… And instead of giving me what I deserved, he's provided a way for me to be forgiven and changed.",
       "sourceTitle": "The Rebirth of Kirk Cameron",
-      "text": "I couldn't get enough of the Bible. I read about this amazing God who sees my thought life… who sees all the sins that I've committed that no one else knows about… And instead of giving me what I deserved, he's provided a way for me to be forgiven and changed."
+      "sourceUrl": "http://web.archive.org/web/20080711143843/http://www.christianitytoday.com/tc/2003/002/1.20.html"
     },
     {
-      "type": "sentence",
-      "text": "The shift was so dramatic that Cameron began having trouble with his co-stars on  and even nearly caused all of the show's writers to quit because he wouldn't allow them to write-in scenes he thought were morally inappropriate."
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "text",
+      "text": "The shift was so dramatic that Cameron began having trouble with his co-stars on"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.wayofthemaster.com/aboutprogram.shtml",
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "Growing Pains"
+    },
+    {
+      "type": "text",
+      "text": "and even nearly caused all of the show's writers to quit because he wouldn't allow them to write-in scenes he thought were morally inappropriate.",
+      "parentId": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Now Cameron is one of America's most famous evangelists. He hosts a reality television show called"
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "Way of the Master"
+    },
+    {
+      "type": "text",
+      "text": "that is meant to train faithful Christians how to make converts out of skeptics.",
+      "parentId": 9,
       "sourceTitle": "The Way of the Master.",
-      "text": "Now Cameron is one of America's most famous evangelists. He hosts a reality television show called  that is meant to train faithful Christians how to make converts out of skeptics."
+      "sourceUrl": "http://www.wayofthemaster.com/aboutprogram.shtml"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=jBiLafg-f_s&feature=endscreen",
+      "parentId": 10,
+      "type": "text",
+      "text": "In fact, converting people has become Cameron's life's work. He has engaged in public debates with atheists, attempting to prove the existence of God scientifically with his friend and longtime cohort Ray Comfort.",
       "sourceTitle": "Rational Response Vs. Cameron & Comfort",
-      "text": "In fact, converting people has become Cameron's life's work. He has engaged in public debates with atheists, attempting to prove the existence of God scientifically with his friend and longtime cohort Ray Comfort."
+      "sourceUrl": "http://www.youtube.com/watch?v=jBiLafg-f_s&feature=endscreen"
     },
     {
-      "type": "sentence",
-      "text": "His \"proof\" consisted of arguing that a Coca Cola can did not create itself, that evolution did not produce the combination of a crocodile and a duck, or \"crockoduck,\" and that, in the tradition of , if you believe it, God will prove Himself to you–but you have to believe it first."
+      "type": "text",
+      "text": "His \"proof\" consisted of arguing that a Coca Cola can did not create itself, that evolution did not produce the combination of a crocodile and a duck, or \"crockoduck,\" and that, in the tradition of",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "parentId": 10,
+      "type": "emphasis",
+      "text": "Field of Dreams"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2009/09/22/kirk-camerons-origin-of-s_n_294349.html",
+      "type": "text",
+      "text": ", if you believe it, God will prove Himself to you–but you have to believe it first.",
+      "parentId": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Furthermore, Cameron has distributed rewritten copies of Darwin's"
+    },
+    {
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "The Origin of Species"
+    },
+    {
+      "type": "text",
+      "text": "with chapters omitted and various additions so that it is consistent with Christian principles.",
+      "parentId": 11,
       "sourceTitle": "Kirk Cameron's 'Origin Of Species' Plan: Ex-Actor To Distribute 50,000 Altered Darwin Books",
-      "text": "Furthermore, Cameron has distributed rewritten copies of Darwin's  with chapters omitted and various additions so that it is consistent with Christian principles."
+      "sourceUrl": "http://www.huffingtonpost.com/2009/09/22/kirk-camerons-origin-of-s_n_294349.html"
     },
     {
-      "type": "sentence",
-      "text": "He is a quintessential creationist."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He is a quintessential creationist.",
+      "parentId": 11
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Predictable Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://nymag.com/daily/intel/2012/02/kirk-cameron-probably-not-endorsing-in-gop-race.html",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "First of all, Cameron is a Republican.",
       "sourceTitle": "Kirk Cameron 'Probably Not' Endorsing Anyone in GOP Race",
-      "text": "First of all, Cameron is a Republican."
+      "sourceUrl": "http://nymag.com/daily/intel/2012/02/kirk-cameron-probably-not-endorsing-in-gop-race.html"
     },
     {
-      "type": "sentence",
-      "text": "But beyond that, just for fun, I'm not even going to do any research and take a wild guess that Cameron is, at the very least, a social conservative. Let's see if I'm right…"
+      "type": "text",
+      "text": "But beyond that, just for fun, I'm not even going to do any research and take a wild guess that Cameron is, at the very least, a social conservative. Let's see if I'm right…",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "Jackpot! He once said of being gay:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 15
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://edition.cnn.com/video/#/video/us/2012/03/03/piers-kirk-cameron-gay-marriage-unnatural.cnn",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "I think that [homosexuality] is unnatural. I think that its detrimental and ultimately destructive to so many of the foundations of civilization.",
       "sourceTitle": "Cameron: Homosexuality is unnatural",
-      "text": "I think that [homosexuality] is unnatural. I think that its detrimental and ultimately destructive to so many of the foundations of civilization."
+      "sourceUrl": "http://edition.cnn.com/video/#/video/us/2012/03/03/piers-kirk-cameron-gay-marriage-unnatural.cnn"
     },
     {
-      "type": "sentence",
-      "text": "But that's not all. Cameron starred in and produced a film called  in which he quotes conservative heroes like Ronald Reagan, stares pensively at America's national monuments and says things like:"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "break"
+      "parentId": 17,
+      "type": "text",
+      "text": "But that's not all. Cameron starred in and produced a film called"
+    },
+    {
+      "parentId": 17,
+      "type": "emphasis",
+      "text": "Monumental"
+    },
+    {
+      "type": "text",
+      "text": "in which he quotes conservative heroes like Ronald Reagan, stares pensively at America's national monuments and says things like:",
+      "parentId": 17
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.buzzfeed.com/abrams/kirk-cameron-made-a-political-documentary",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "America is the richest, freest nation the world has ever seen, but as a father of six, I look around and all signs tell me something is sick in the soul of our country, and history tells me that we're headed for disaster if we don't change our course now.",
       "sourceTitle": "Kirk Cameron Made A Political Documentary",
-      "text": "America is the richest, freest nation the world has ever seen, but as a father of six, I look around and all signs tell me something is sick in the soul of our country, and history tells me that we're headed for disaster if we don't change our course now."
+      "sourceUrl": "http://www.buzzfeed.com/abrams/kirk-cameron-made-a-political-documentary"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "Cameron then goes on a journey to America's roots and, during shots of him and his family praying, talks about how America needs to \"go back\" to something. It could be slavery or imperialism or who knows what, but in classic conservative fashion, if it is older, it must be better."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -34,100 +34,156 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ashley Benson was born and raised in Anaheim Hills, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ashley-benson.org/ashley/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Benson is a Christian, and appears to be rather devout, although I have no clue on a denomination. Several sites claim she attended a 2,500-member church,",
       "sourceTitle": "Ashley.",
-      "text": "Benson is a Christian, and appears to be rather devout, although I have no clue on a denomination. Several sites claim she attended a 2,500-member church,"
+      "sourceUrl": "http://ashley-benson.org/ashley/"
     },
     {
-      "type": "sentence",
-      "text": "so maybe she comes from mega-church, evangelical ilk. Or maybe all these sites are just regurgitating some bad (unsourced) information from her ."
+      "type": "text",
+      "text": "so maybe she comes from mega-church, evangelical ilk. Or maybe all these sites are just regurgitating some bad (unsourced) information from her",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "link",
+      "text": "Wikipedia page",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Ashley_Benson"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/AshBenzo/status/279660928763568128",
+      "type": "text",
+      "text": ".",
+      "parentId": 2
+    },
+    {
+      "type": "paragraph",
+      "id": 3
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "Regardless of all that, from what we know of her Twitter feed, she's a pretty serious Christian. First, like so many tweeters, she sends out prayers for the victims of national tragedies.",
       "sourceTitle": "AshBenzo: Love and prayers go out to …",
-      "text": "Regardless of all that, from what we know of her Twitter feed, she's a pretty serious Christian. First, like so many tweeters, she sends out prayers for the victims of national tragedies."
+      "sourceUrl": "https://twitter.com/AshBenzo/status/279660928763568128"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tweetwood.com/AshBenzo/tweet/242065924432203779",
+      "type": "text",
+      "text": "Then she's been known to retweet scripture when the mood takes her.",
+      "parentId": 3,
       "sourceTitle": "Ashley Benson tweets.",
-      "text": "Then she's been known to retweet scripture when the mood takes her."
+      "sourceUrl": "http://tweetwood.com/AshBenzo/tweet/242065924432203779"
     },
     {
-      "type": "sentence",
-      "text": "And finally, she posted this:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And finally, she posted this:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/AshBenzo/status/85223747962937344",
-      "sourceTitle": "AshBenzo: God is good.",
-      "text": "God is good."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "God is good.",
+      "sourceTitle": "AshBenzo: God is good.",
+      "sourceUrl": "https://twitter.com/AshBenzo/status/85223747962937344"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Simple enough, and certainly telling."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Pretty Little Guns"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Benson appears to be a fan of the political process. She votes and she wants you to vote. She posted this on her Twitter feed on election day, 2012:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/AshBenzo/status/265924620593545216",
-      "sourceTitle": "AshBenzo: Don't forget to exercise your …",
-      "text": "Don't forget to exercise your right & VOTE today. Be heard! Find your polling place here: http://ashbenson.me/184ct3"
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Don't forget to exercise your right & VOTE today. Be heard! Find your polling place here: http://ashbenson.me/184ct3",
+      "sourceTitle": "AshBenzo: Don't forget to exercise your …",
+      "sourceUrl": "https://twitter.com/AshBenzo/status/265924620593545216"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "She did not, however, endorse any candidate or political party."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tweetwood.com/photos/AshBenzo/454353/ashley_benson",
+      "parentId": 12,
+      "type": "text",
+      "text": "The only partisan thing I found from Benson implies that she's liberal, but not necessarily a Democrat. She retweeted a poster which states, \"Last year, handguns killed. . .\" and then lists several first-world countries, none of whose deaths exceed double digits. The last one is the U.S., which lists 10,728 handgun-related deaths.",
       "sourceTitle": "Photo by Ashley Benson on Twitter.",
-      "text": "The only partisan thing I found from Benson implies that she's liberal, but not necessarily a Democrat. She retweeted a poster which states, \"Last year, handguns killed. . .\" and then lists several first-world countries, none of whose deaths exceed double digits. The last one is the U.S., which lists 10,728 handgun-related deaths."
+      "sourceUrl": "http://tweetwood.com/photos/AshBenzo/454353/ashley_benson"
     },
     {
-      "type": "sentence",
-      "text": "The tweet was in response to the tragic elementary school shooting in Connecticut in 2012."
+      "type": "text",
+      "text": "The tweet was in response to the tragic elementary school shooting in Connecticut in 2012.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Assuming her views on gun control are a reflection of her views on other issues, we'll call her a liberal. But if you have any tips for us on either her religious or political affiliations, please let us know in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

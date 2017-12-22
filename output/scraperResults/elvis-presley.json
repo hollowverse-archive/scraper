@@ -34,114 +34,152 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Elvis Presley was born in Tupelo, Mississippi and grew up there until his teenage years when he and his family moved to Nashville, Tennessee."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.beliefnet.com/Entertainment/Music/2007/08/Elvis-Presleys-Gospel-Dream.aspx",
+      "parentId": 2,
+      "type": "text",
+      "text": "Elvis' upbringing, much like his fellow rock 'n roll pioneer Jerry Lee Lewis, was in the Assembly of God Church,",
       "sourceTitle": "Elvis Presley's introduction to gospel music at a young age",
-      "text": "Elvis' upbringing, much like his fellow rock 'n roll pioneer Jerry Lee Lewis, was in the Assembly of God Church,"
+      "sourceUrl": "http://www.beliefnet.com/Entertainment/Music/2007/08/Elvis-Presleys-Gospel-Dream.aspx"
     },
     {
-      "type": "sentence",
-      "text": "a born-again Christian denomination where Elvis first gained an appreciation for gospel and soul music."
+      "type": "text",
+      "text": "a born-again Christian denomination where Elvis first gained an appreciation for gospel and soul music.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pp/Elvis_Presley.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Reports tend to agree that Elvis and his family were not very devout while he was growing up. Elvis himself had an \"on again, off again\" relationship with Christianity and didn't believe the Bible in any literal sense.",
       "sourceTitle": "The religion of Elvis Presley, rock and roll pioneer",
-      "text": "Reports tend to agree that Elvis and his family were not very devout while he was growing up. Elvis himself had an \"on again, off again\" relationship with Christianity and didn't believe the Bible in any literal sense."
+      "sourceUrl": "http://www.adherents.com/people/pp/Elvis_Presley.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "On one hand, Elvis' childhood preacher said that Elvis came to visit him in the 50s after he had become ridiculously famous. The preacher quotes Elvis as saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pp/Elvis_Presley.html",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Pastor, I'm the most miserable young man you've ever seen. I've got all the money I'll ever need to spend. I've got millions of fans. I've got friends. But I'm doing what you taught me not to do, and I'm not doing the things you taught me to do.",
       "sourceTitle": "The religion of Elvis Presley, rock and roll pioneer",
-      "text": "Pastor, I'm the most miserable young man you've ever seen. I've got all the money I'll ever need to spend. I've got millions of fans. I've got friends. But I'm doing what you taught me not to do, and I'm not doing the things you taught me to do."
+      "sourceUrl": "http://www.adherents.com/people/pp/Elvis_Presley.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pp/Elvis_Presley.html",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "On the other hand, those close to Elvis say that he was an avid reader, was fascinated by all the world's religions and seemed to relate to aspects of almost all of them. One biographer noted that Elvis' true faith was \"a personalized religion out of what he'd read of Hinduism, Judaism, numerology, theosophy, mind control, positive thinking and Christianity.\"",
       "sourceTitle": "The religion of Elvis Presley, rock and roll pioneer",
-      "text": "On the other hand, those close to Elvis say that he was an avid reader, was fascinated by all the world's religions and seemed to relate to aspects of almost all of them. One biographer noted that Elvis' true faith was \"a personalized religion out of what he'd read of Hinduism, Judaism, numerology, theosophy, mind control, positive thinking and Christianity.\""
+      "sourceUrl": "http://www.adherents.com/people/pp/Elvis_Presley.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.beliefnet.com/Entertainment/Music/2002/06/All-Praise-The-King.aspx",
+      "parentId": 8,
+      "type": "text",
+      "text": "The confusion over the faith of this now-legendary American icon might explain why so many faiths try to claim him today. There are films that seek to prove Elvis was in fact Jewish, a Christian denomination that represents Christian teachings through the stories of Elvis' life, essays that claim Elvis was a Catholic, a picture of Elvis in Hindu temples, and many more phenomena linking \"The King\" with spirituality.",
       "sourceTitle": "The many faiths of Elvis Presley.",
-      "text": "The confusion over the faith of this now-legendary American icon might explain why so many faiths try to claim him today. There are films that seek to prove Elvis was in fact Jewish, a Christian denomination that represents Christian teachings through the stories of Elvis' life, essays that claim Elvis was a Catholic, a picture of Elvis in Hindu temples, and many more phenomena linking \"The King\" with spirituality."
+      "sourceUrl": "http://www.beliefnet.com/Entertainment/Music/2002/06/All-Praise-The-King.aspx"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pp/Elvis_Presley.html",
+      "parentId": 9,
+      "type": "text",
+      "text": "Interestingly, both Elvis' widow and his daughter joined the Church of Scientology.",
       "sourceTitle": "The religion of Elvis Presley, rock and roll pioneer",
-      "text": "Interestingly, both Elvis' widow and his daughter joined the Church of Scientology."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.adherents.com/people/pp/Elvis_Presley.html"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Politics of The King"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.elvis-history-blog.com/elvis-voting.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Elvis was never very political. It's believed that he never actually voted in a presidential election, though he did mention who he preferred in a number of national elections.",
       "sourceTitle": "Elvis Presley Never Voted for President",
-      "text": "Elvis was never very political. It's believed that he never actually voted in a presidential election, though he did mention who he preferred in a number of national elections."
+      "sourceUrl": "http://www.elvis-history-blog.com/elvis-voting.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://elvispresleybiography.blogspot.com/2007/03/elvis-presley-political-beliefs.html",
+      "type": "text",
+      "text": "For the most part, he favored Democrats, such as Adlai Stevenson over Republican Dwight D.Eisenhower in the 1956 election. He was a big fan of President John F. Kennedy, also a Democrat, and a personal friend of Democrat Jimmy Carter when he was still the governor of Georgia.",
+      "parentId": 11,
       "sourceTitle": "Elvis Presley – Political Beliefs",
-      "text": "For the most part, he favored Democrats, such as Adlai Stevenson over Republican Dwight D.Eisenhower in the 1956 election. He was a big fan of President John F. Kennedy, also a Democrat, and a personal friend of Democrat Jimmy Carter when he was still the governor of Georgia."
+      "sourceUrl": "http://elvispresleybiography.blogspot.com/2007/03/elvis-presley-political-beliefs.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.elvis.com.au/presley/elvis_not_racist.shtml",
+      "parentId": 12,
+      "type": "text",
+      "text": "But we'd be hard-pressed to call Presley a liberal. Rumors of Presley being a racist aside,",
       "sourceTitle": "Elvis Presley and Racism: The Ultimate, Definitive Guide",
-      "text": "But we'd be hard-pressed to call Presley a liberal. Rumors of Presley being a racist aside,"
+      "sourceUrl": "http://www.elvis.com.au/presley/elvis_not_racist.shtml"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://elvispresleybiography.blogspot.com/2007/03/elvis-presley-political-beliefs.html",
+      "type": "text",
+      "text": "he didn't like hippies. He even contacted President Nixon, asking him to ban all four members of The Beatles from entering the United States because, as Presley felt, they were a bad influence on American youth and contributed to their anti-American, anti-capitalistic, anti-war sentiments and contributed to their \"unkempt appearances.\"",
+      "parentId": 12,
       "sourceTitle": "Elvis Presley – Political Beliefs",
-      "text": "he didn't like hippies. He even contacted President Nixon, asking him to ban all four members of The Beatles from entering the United States because, as Presley felt, they were a bad influence on American youth and contributed to their anti-American, anti-capitalistic, anti-war sentiments and contributed to their \"unkempt appearances.\""
+      "sourceUrl": "http://elvispresleybiography.blogspot.com/2007/03/elvis-presley-political-beliefs.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Elvis was what he was–an old-school guy with old-school sensibilities. He was already an icon during one of the most dramatic transformations in western history–and he didn't like it. Still, not even The King could stop the 60s."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

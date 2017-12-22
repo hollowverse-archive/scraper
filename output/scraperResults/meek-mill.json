@@ -34,93 +34,178 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Meek Mill, whose real name is Robert Williams, was born and raised in Philadelphia, Pennsylvania."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.xxlmag.com/news/2012/07/meek-mill-issues-apology-for-amen-track/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Mill comes from a half-Christian, half-Muslim background,",
       "sourceTitle": "Meek Mill Issues Apology For \"Amen\" Track",
-      "text": "Mill comes from a half-Christian, half-Muslim background,"
+      "sourceUrl": "http://www.xxlmag.com/news/2012/07/meek-mill-issues-apology-for-amen-track/"
     },
     {
-      "type": "sentence",
-      "text": "but he certainly draws from Christianity. To say he's religious, however, would be incorrect. He's more along the lines of . His rhymes are full of references to Christianity, (and particularly the brand of Protestantism one finds proliferating in inner-city black communities) but in strangely backward ways. For example, his featured verse in the Wale song \"Ambition\" goes:"
+      "type": "text",
+      "text": "but he certainly draws from Christianity. To say he's religious, however, would be incorrect. He's more along the lines of",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "sacrilegious"
+    },
+    {
+      "type": "text",
+      "text": ". His rhymes are full of references to Christianity, (and particularly the brand of Protestantism one finds proliferating in inner-city black communities) but in strangely backward ways. For example, his featured verse in the Wale song \"Ambition\" goes:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://rapgenius.com/Wale-ambition-lyrics#note-420264",
-      "sourceTitle": "Wale – Ambition Lyrics",
-      "text": "No religion I was getting saved by the Glock nine."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "No religion I was getting saved by the Glock nine.",
+      "sourceTitle": "Wale – Ambition Lyrics",
+      "sourceUrl": "http://rapgenius.com/Wale-ambition-lyrics#note-420264"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "One can only assume that this means he wasn't \"saved\" by Jesus, but by his gun. But the real controversy came from his song \"Amen,\" where he raps lines like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://rapgenius.com/Meek-mill-amen-lyrics",
-      "sourceTitle": "Meek Mill – Amen Lyrics",
-      "text": "I just wanna thank God/For all the pretty women he let into my life/All the Benjamins you let me count/Wealth and health/For my family/And lettin' me ball on these niggas."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I just wanna thank God/For all the pretty women he let into my life/All the Benjamins you let me count/Wealth and health/For my family/And lettin' me ball on these niggas.",
+      "sourceTitle": "Meek Mill – Amen Lyrics",
+      "sourceUrl": "http://rapgenius.com/Meek-mill-amen-lyrics"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "He goes on to gratuitously describe his sexcapades and talk about all the \"niggas\" he killed, all the while saying things like \"amen\" and \"preach\" at the end of each line. The song invoked the fury of famous Philadelphia preacher, Rev. Jomo K. Johnson, who said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.xxlmag.com/news/2012/07/meek-mill-debates-philadelphia-pastor-who-called-for-amen-boycott/",
-      "sourceTitle": "Meek Mill Debates Philadelphia Pastor Who Called For \"Amen\" Boycott",
-      "text": "As a hip-hop fan, I want to encourage every rap fan in Philadelphia who is a believer in Jesus Christ, to boycott Meek Mill until he acknowledges this blatant disrespect. And being resident of North Philadelphia and pastor, I revoke Meek's 'hood pass' until this happens."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "As a hip-hop fan, I want to encourage every rap fan in Philadelphia who is a believer in Jesus Christ, to boycott Meek Mill until he acknowledges this blatant disrespect. And being resident of North Philadelphia and pastor, I revoke Meek's 'hood pass' until this happens.",
+      "sourceTitle": "Meek Mill Debates Philadelphia Pastor Who Called For \"Amen\" Boycott",
+      "sourceUrl": "http://www.xxlmag.com/news/2012/07/meek-mill-debates-philadelphia-pastor-who-called-for-amen-boycott/"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Mill eloquently responded by stereotyping all pastors and preachers, but he wanted his 'hood pass' back, so he apologized, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 12
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.xxlmag.com/news/2012/07/meek-mill-issues-apology-for-amen-track/",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I don't think no preacher or no church approves of any type of rap music — because rap music, period, is a lot of bad stuff said. But at the end of the day, it's real life. And me, I wasn't trying to disrespect no religion or anything like that.",
       "sourceTitle": "Meek Mill Issues Apology For \"Amen\" Track",
-      "text": "I don't think no preacher or no church approves of any type of rap music — because rap music, period, is a lot of bad stuff said. But at the end of the day, it's real life. And me, I wasn't trying to disrespect no religion or anything like that."
+      "sourceUrl": "http://www.xxlmag.com/news/2012/07/meek-mill-issues-apology-for-amen-track/"
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 12
     },
     {
       "type": "heading",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "The Meek shall inherit the Earth"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Meek Mill's politics are still in question. It's reasonable to assume that he's an Obama supporter, but he's only mentioned the president in his lyrics. The interpretation is up for question, but the lyric is:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://rapgenius.com/Meek-mill-shit-on-the-industry-lyrics#note-765943",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Obama on my wrist, presidential bitch/In the back of the 'bach, smokin' some presidential shit.",
       "sourceTitle": "Meek Mill – Shit On The Industry",
-      "text": "Obama on my wrist, presidential bitch/In the back of the 'bach, smokin' some presidential shit."
+      "sourceUrl": "http://rapgenius.com/Meek-mill-shit-on-the-industry-lyrics#note-765943"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "I have no idea what that means. Obama sold him some weed? Obama's a watch? Tell me in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

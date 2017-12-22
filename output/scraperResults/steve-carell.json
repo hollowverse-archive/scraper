@@ -36,111 +36,215 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Steve Carell was born in Concord, Massachusetts and grew up in Acton, Massachusetts."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.buddytv.com/articles/the-office/profile/steve-carell.aspx",
+      "parentId": 2,
+      "type": "text",
+      "text": "Carell was raised a Roman Catholic and he is often cited as still devout to this day.",
       "sourceTitle": "Steve Carell",
-      "text": "Carell was raised a Roman Catholic and he is often cited as still devout to this day."
+      "sourceUrl": "http://www.buddytv.com/articles/the-office/profile/steve-carell.aspx"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "When it comes to talking about his religious views, Carell acknowledges his Catholicism and quickly moves on. When asked if he chose to play the famous biblical character, Noah, in the film  for religious reasons, Carell replied:"
+      "parentId": 3,
+      "type": "text",
+      "text": "When it comes to talking about his religious views, Carell acknowledges his Catholicism and quickly moves on. When asked if he chose to play the famous biblical character, Noah, in the film"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Evan Almighty"
+    },
+    {
+      "type": "text",
+      "text": "for religious reasons, Carell replied:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.close-upfilm.com/features/Interviews/steve_carrell_evan_almighty.html",
-      "sourceTitle": "Steve Carell",
-      "text": "I'm Catholic, born and bred. It's interesting because that really didn't come into play when doing the movie. I didn't decide to do it because I'm Catholic, I just thought it had a nice message. And I don't see it as a religious movie, it's a film about kindness and being aware of the earth and the environment."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I'm Catholic, born and bred. It's interesting because that really didn't come into play when doing the movie. I didn't decide to do it because I'm Catholic, I just thought it had a nice message. And I don't see it as a religious movie, it's a film about kindness and being aware of the earth and the environment.",
+      "sourceTitle": "Steve Carell",
+      "sourceUrl": "http://www.close-upfilm.com/features/Interviews/steve_carrell_evan_almighty.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Clearly, his religion plays a very small role in his public and professional life. But Carell's persona as such a humble and respectful person has required him to answer the occasional direct question about his beliefs, but he's always quick to acknowledge the possible validity of other belief systems. He once said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.close-upfilm.com/features/Interviews/steve_carrell_evan_almighty.html",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I hope that God gives me guidance and that he directs me to make good choices, and that he helps me with my family. But that is such a personal thing and I think everyone has a different idea of what God is and what he represents.",
       "sourceTitle": "Steve Carell",
-      "text": "I hope that God gives me guidance and that he directs me to make good choices, and that he helps me with my family. But that is such a personal thing and I think everyone has a different idea of what God is and what he represents."
+      "sourceUrl": "http://www.close-upfilm.com/features/Interviews/steve_carrell_evan_almighty.html"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Politics: the running gag"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Carell won't divulge his political views or affiliations. And once again, it seems to come from a real humility. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I stay clear of declaring my political choices. I feel like my voice is no more valuable, no less valuable than anyone else's.",
+      "sourceTitle": "10 Questions for Steve Carell",
+      "sourceUrl": "http://www.time.com/time/magazine/article/0,9171,1816484,00.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Yet, politics was Carell's bread and butter. His rise to stardom began as a political correspondent for"
+    },
+    {
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "The Daily Show with Jon Stewart"
+    },
+    {
+      "type": "text",
+      "text": ", where the ridiculousness of the political system and process were regularly ridiculed. Carell admitted:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.time.com/time/magazine/article/0,9171,1816484,00.html",
-      "sourceTitle": "10 Questions for Steve Carell",
-      "text": "I stay clear of declaring my political choices. I feel like my voice is no more valuable, no less valuable than anyone else's."
+      "id": 14
     },
     {
-      "type": "sentence",
-      "text": "Yet, politics was Carell's bread and butter. His rise to stardom began as a political correspondent for , where the ridiculousness of the political system and process were regularly ridiculed. Carell admitted:"
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
     },
     {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://piersmorgan.blogs.cnn.com/2012/02/21/steve-carell-on-politics-comedy-and-tina-fey/",
+      "parentId": 15,
+      "type": "text",
+      "text": "[We were always] so thankful when anything that we perceived of as ridiculous would happen [politically].",
       "sourceTitle": "Steve Carell on politics, comedy, and Tina Fey",
-      "text": "[We were always] so thankful when anything that we perceived of as ridiculous would happen [politically]."
+      "sourceUrl": "http://piersmorgan.blogs.cnn.com/2012/02/21/steve-carell-on-politics-comedy-and-tina-fey/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.time.com/time/magazine/article/0,9171,1816484,00.html",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Still, after a successful run on the hit show,"
+    },
+    {
+      "parentId": 16,
+      "type": "emphasis",
+      "text": "The Office"
+    },
+    {
+      "type": "text",
+      "text": ", and various leading roles in hit films, politics is still a joke. And Ron Paul seems to often be the butt of Carell's jokes, whether he jokingly endorses him",
+      "parentId": 16,
       "sourceTitle": "10 Questions for Steve Carell",
-      "text": "Still, after a successful run on the hit show, , and various leading roles in hit films, politics is still a joke. And Ron Paul seems to often be the butt of Carell's jokes, whether he jokingly endorses him"
+      "sourceUrl": "http://www.time.com/time/magazine/article/0,9171,1816484,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://piersmorgan.blogs.cnn.com/2012/02/21/steve-carell-on-politics-comedy-and-tina-fey/",
+      "type": "text",
+      "text": "or compares him to Shemp of \"The Three Stooges.\"",
+      "parentId": 16,
       "sourceTitle": "Steve Carell on politics, comedy, and Tina Fey",
-      "text": "or compares him to Shemp of \"The Three Stooges.\""
+      "sourceUrl": "http://piersmorgan.blogs.cnn.com/2012/02/21/steve-carell-on-politics-comedy-and-tina-fey/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "Carell holds politicians themselves at arm's length and admits he could never do their job because of a confluence of unique, but not always admirable, personal qualities. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.close-upfilm.com/features/Interviews/steve_carrell_evan_almighty.html",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "I think [politics] is a difficult and often unrewarding way of life, because I think there's so much red tape and maneuvering in political circles to get things done and I just don't possess that kind of attitude. I think you need a very strong ego, be very self-possessed, and you need a great deal of confidence, but you also have to appeal to a wide spectrum of individuals.",
       "sourceTitle": "Steve Carell",
-      "text": "I think [politics] is a difficult and often unrewarding way of life, because I think there's so much red tape and maneuvering in political circles to get things done and I just don't possess that kind of attitude. I think you need a very strong ego, be very self-possessed, and you need a great deal of confidence, but you also have to appeal to a wide spectrum of individuals."
+      "sourceUrl": "http://www.close-upfilm.com/features/Interviews/steve_carrell_evan_almighty.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "Carell, though mysterious and secretive, seems to be so well-loved for his \"regular guy\" attitude and the fact that he doesn't take his fame so seriously that he thinks we would all be interested in his religious or political views. However, he's wrong there and I'm sure showing a little more leg would be much appreciated Steve."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

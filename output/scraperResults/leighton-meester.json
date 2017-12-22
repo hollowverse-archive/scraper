@@ -32,72 +32,97 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Leighton Meester was born in Fort Worth, Texas. She lived in Marco Island, Florida until she was ten-years-old, in New York City until she was 14, then finished up high school in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wiki.answers.com/Q/What_religion_in_leighton_meester",
+      "parentId": 2,
+      "type": "text",
+      "text": "Meester doesn't appear to be religious or spiritual in any way. There is some speculation that she is Catholic because she said in an interview once that she tried out a Catholic school for a while.",
       "sourceTitle": "What religion in leighton meester.",
-      "text": "Meester doesn't appear to be religious or spiritual in any way. There is some speculation that she is Catholic because she said in an interview once that she tried out a Catholic school for a while."
+      "sourceUrl": "http://wiki.answers.com/Q/What_religion_in_leighton_meester"
     },
     {
-      "type": "sentence",
-      "text": "But Catholic school does not equal Catholic."
+      "type": "text",
+      "text": "But Catholic school does not equal Catholic.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.myrebody.com/blog/how-to-get-leighton-meesters-body/",
+      "parentId": 3,
+      "type": "text",
+      "text": "She meditates during her workouts, but it appears to be more of a stress reliever than part of a spiritual routine.",
       "sourceTitle": "How to Get Leighton Meester's Body.",
-      "text": "She meditates during her workouts, but it appears to be more of a stress reliever than part of a spiritual routine."
+      "sourceUrl": "http://www.myrebody.com/blog/how-to-get-leighton-meesters-body/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newnownext.com/ezra-miller-leighton-meester-star-in-water-psa/04/2012/",
+      "parentId": 4,
+      "type": "text",
+      "text": "Meester is almost as quiet about her political beliefs as she is about religion. She did, however, participate in an anti-fracking public service announcement",
       "sourceTitle": "Ezra Miller, Leighton Meester Star In Weird Water PSA.",
-      "text": "Meester is almost as quiet about her political beliefs as she is about religion. She did, however, participate in an anti-fracking public service announcement"
+      "sourceUrl": "http://www.newnownext.com/ezra-miller-leighton-meester-star-in-water-psa/04/2012/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://act.mtv.com/posts/sweet-tweet-leighton-meester-wants-to-end-fcking/",
+      "type": "text",
+      "text": "and felt committed enough to the cause to post a link to the video on her Twitter page.",
+      "parentId": 4,
       "sourceTitle": "Sweet Tweet: Leighton Meester Want To End F**cking.",
-      "text": "and felt committed enough to the cause to post a link to the video on her Twitter page."
+      "sourceUrl": "http://act.mtv.com/posts/sweet-tweet-leighton-meester-wants-to-end-fcking/"
     },
     {
-      "type": "sentence",
-      "text": "Whether fracking is a liberal issue or an environmentalism issue or a health issue to Meester, we don't know. But that is the extent of this celebrity's activist side."
+      "type": "text",
+      "text": "Whether fracking is a liberal issue or an environmentalism issue or a health issue to Meester, we don't know. But that is the extent of this celebrity's activist side.",
+      "parentId": 4
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "She has a more intimate view of the justice system than most of her Hollywood peers. Her mother was incarcerated when she was born for her involvement with a marijuana drug ring. (Meester grandmother cared for her until her mother was released from prison.) She says she doesn't resent her parents for their criminal past."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.people.com/people/article/0,,20255207,00.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "It made me realize that you can't judge anyone–especially your parents–for what they've done in their past, because people change.",
       "sourceTitle": "Leighton Meester Likes Her Men 'Dark and Bad.'",
-      "text": "It made me realize that you can't judge anyone–especially your parents–for what they've done in their past, because people change."
+      "sourceUrl": "http://www.people.com/people/article/0,,20255207,00.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "She seems like the perfect candidate to add some celebrity flair to the prison reform movement, or maybe she could follow Johnny Cash's example and play a concert for inmates. Regardless, we'll have to wait and see where this young actress and singer's passions take her."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -148,12 +173,12 @@
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/28821738@N05/3552104266/\">Leighton Meester</a>\n<ul>\n<li>Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:Tabercil\" title=\"User:Tabercil\">Tabercil</a>\n</li>\n</ul>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/28821738@N05/3552104266/\">Leighton Meester</a>\n<ul>\n<li>Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:Tabercil\" title=\"User:Tabercil\">Tabercil</a>\n</li>\n</ul>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/people/28821738@N05\">Kristin Dos Santos</a> from Los Angeles, California, United States",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/28821738@N05\">Kristin Dos Santos</a> from Los Angeles, California, United States",
             "source": "commons-desc-page"
           },
           "LicenseShortName": {

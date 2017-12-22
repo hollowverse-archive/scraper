@@ -29,37 +29,45 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Flo Rida, whose real name is Tramar Dillard, was born and raised in Carol City, Florida."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.officialflo.com/about",
+      "parentId": 2,
+      "type": "text",
+      "text": "Flo Rida hasn't talked about his religious faith and his spiritual views are debated on the internet. Some are convinced he's Muslim, others say no. One clue is the fact that some of his sisters were a part of a gospel music group growing up",
       "sourceTitle": "About Flo Rida: History, Biography, Songs and Facts",
-      "text": "Flo Rida hasn't talked about his religious faith and his spiritual views are debated on the internet. Some are convinced he's Muslim, others say no. One clue is the fact that some of his sisters were a part of a gospel music group growing up"
+      "sourceUrl": "http://www.officialflo.com/about"
     },
     {
-      "type": "sentence",
-      "text": "indicating a Christian upbringing. Muslim girls don't join gospel groups."
+      "type": "text",
+      "text": "indicating a Christian upbringing. Muslim girls don't join gospel groups.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theroot.com/flo-rida-low-wages-lawsuit-sued-assistant",
+      "parentId": 3,
+      "type": "text",
+      "text": "A labor dispute gives the only clue to his political views–I mean, he's never even talked about Obama. He was sued by a former assistant for paying her \"extremely low wages.\"",
       "sourceTitle": "Rapper Flo Rida Sued by Assistant for Paying \"Extremely Low Wages.\"",
-      "text": "A labor dispute gives the only clue to his political views–I mean, he's never even talked about Obama. He was sued by a former assistant for paying her \"extremely low wages.\""
+      "sourceUrl": "http://www.theroot.com/flo-rida-low-wages-lawsuit-sued-assistant"
     },
     {
-      "type": "sentence",
-      "text": "Though it is purely conjecture, one could assume that he is not on the side of the working man and has no problem exploiting his employees."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Though it is purely conjecture, one could assume that he is not on the side of the working man and has no problem exploiting his employees.",
+      "parentId": 3
     }
   ],
   "wikipediaData": {
@@ -110,7 +118,7 @@
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/evarinaldiphotography/6924266548/\">Flo Rida</a>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/evarinaldiphotography/6924266548/\">Flo Rida</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },

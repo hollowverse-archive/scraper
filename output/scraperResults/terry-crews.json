@@ -34,116 +34,211 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Terry Crews was born and raised in Flint, Michigan."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "Crews is a devout Christian. No word on which denomination, but I'm guessing it's Protestant of some kind–aka not Catholic. But beyond that, I'm leery to say. His reality show, , often features their faith. For example, one of Crews' daughters announced that she was pregnant on air. Crews' response:"
+      "parentId": 2,
+      "type": "text",
+      "text": "Crews is a devout Christian. No word on which denomination, but I'm guessing it's Protestant of some kind–aka not Catholic. But beyond that, I'm leery to say. His reality show,"
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "The Family Crews"
+    },
+    {
+      "type": "text",
+      "text": ", often features their faith. For example, one of Crews' daughters announced that she was pregnant on air. Crews' response:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.toptodaynews.com/terry-and-rebecca-crews/",
-      "sourceTitle": "Terry and Rebecca Crews – The Family Crews, Rebecca Crews, Naomi Pregnant",
-      "text": "It's just real things that happen to a family. And we're a Christian family. We go to church. We do our thing. But these things happen, and you have to deal."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "It's just real things that happen to a family. And we're a Christian family. We go to church. We do our thing. But these things happen, and you have to deal.",
+      "sourceTitle": "Terry and Rebecca Crews – The Family Crews, Rebecca Crews, Naomi Pregnant",
+      "sourceUrl": "http://www.toptodaynews.com/terry-and-rebecca-crews/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Sometimes, Crews tweets his faith as well:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/terrycrews",
-      "sourceTitle": "terrycrews (terrycrews) on Twitter",
-      "text": "Happy to be saved, sanctified, and filled with the Holy Ghost! God is good and has always been! Thanks to Him for EVERYTHING!"
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Happy to be saved, sanctified, and filled with the Holy Ghost! God is good and has always been! Thanks to Him for EVERYTHING!",
+      "sourceTitle": "terrycrews (terrycrews) on Twitter",
+      "sourceUrl": "https://twitter.com/terrycrews"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Also on his Twitter, Crews expounds on what seems to be his personal philosophy of belief, that essentially atheism doesn't exist and that it is impossible to not be religious in some way or another:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/terrycrews/status/134304391917350914",
-      "sourceTitle": "terrycrews: Religion is a set of beliefs…",
-      "text": "Religion is a set of beliefs concerning the cause, nature and purpose of the universe. If you believe in nothing, that's your religion."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Religion is a set of beliefs concerning the cause, nature and purpose of the universe. If you believe in nothing, that's your religion.",
+      "sourceTitle": "terrycrews: Religion is a set of beliefs…",
+      "sourceUrl": "https://twitter.com/terrycrews/status/134304391917350914"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "And:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/terrycrews/status/136134787273461760",
-      "sourceTitle": "terrycrews: Atheism is a religious view…",
-      "text": "Atheism is a religious view. They believe there's no God. It's impossible not to have a religious view. It's like saying there's no weather."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Atheism is a religious view. They believe there's no God. It's impossible not to have a religious view. It's like saying there's no weather.",
+      "sourceTitle": "terrycrews: Atheism is a religious view…",
+      "sourceUrl": "https://twitter.com/terrycrews/status/136134787273461760"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "It's a common argument among the religious–and isn't illogical. It's unlikely to convert any atheists, though."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 15
     },
     {
-      "type": "heading",
+      "parentId": 15,
+      "type": "text",
       "text": "Tidbits of politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Crews does have political views–mostly coming off of his Twitter feed, but it's hard to nail him down to any particular ideology. At times, he sounds like a libertarian:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/terrycrews/status/246283651225096192",
-      "sourceTitle": "terrycrews: I'm against obesity. But when…",
-      "text": "I'm against obesity. But when will the government stop parenting people? If you treat people like animals they act like it…"
+      "id": 17
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I'm against obesity. But when will the government stop parenting people? If you treat people like animals they act like it…",
+      "sourceTitle": "terrycrews: I'm against obesity. But when…",
+      "sourceUrl": "https://twitter.com/terrycrews/status/246283651225096192"
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "But, I doubt he would call himself a libertarian–or at least a capital \"L\" libertarian. He tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/terrycrews/status/129909110945759232",
+      "id": 20
+    },
+    {
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "Breaking news: Republicans, Democrats and Libertarians have now joined forces to form-The Pity Party. AKA The Worlds Smallest Violin Club.",
       "sourceTitle": "terrycrews: Breaking news: Republicans,…",
-      "text": "Breaking news: Republicans, Democrats and Libertarians have now joined forces to form-The Pity Party. AKA The Worlds Smallest Violin Club."
+      "sourceUrl": "https://twitter.com/terrycrews/status/129909110945759232"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tweetwood.com/terrycrews/tweet/170211027865178113",
+      "type": "paragraph",
+      "id": 22
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "Clearly, he's not down with traditional party politics, and even once suggested that there should be a \"Women's Party\" in the U.S.",
       "sourceTitle": "terrycrews tweets",
-      "text": "Clearly, he's not down with traditional party politics, and even once suggested that there should be a \"Women's Party\" in the U.S."
+      "sourceUrl": "http://tweetwood.com/terrycrews/tweet/170211027865178113"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 23
     },
     {
-      "type": "sentence",
+      "parentId": 23,
+      "type": "text",
       "text": "My guess is that he views politics for what it is: silly power grabbing, posturing and games. If only he'd say something to that effect…"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

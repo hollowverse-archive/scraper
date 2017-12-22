@@ -32,92 +32,135 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "John Terry was born and raised in East London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Terry doesn't appear to be religious at all. Considering he's British, there's a good chance of some Anglicanism in his family–somewhere–but he's not letting on."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "That doesn't mean he's not scrutinized by the Anglican Church. Amidst infidelity scandals, The Archbishop of Canterbury commented woefully on John Terry, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.anglican-mainstream.net/2010/02/09/archbishop-of-canterbury-condemns-john-terry-adultery/",
-      "sourceTitle": "Archbishop of Canterbury condemns John Terry adultery",
-      "text": "Clearly, a lot of people think there isn't a problem there and that's a pity because adultery is adultery. It's a shame that we lost that sense that faithfulness matters. I'd like to see it back."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Clearly, a lot of people think there isn't a problem there and that's a pity because adultery is adultery. It's a shame that we lost that sense that faithfulness matters. I'd like to see it back.",
+      "sourceTitle": "Archbishop of Canterbury condemns John Terry adultery",
+      "sourceUrl": "http://www.anglican-mainstream.net/2010/02/09/archbishop-of-canterbury-condemns-john-terry-adultery/"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "No word from Terry himself on whether or not such a condemnation from the top of his country's religious hierarchy even matters in the slightest to him–so non-religious it is."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Race politics and England's good name"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/sport/football/article-2220039/John-Terry-racism-affair-harmed-Englands-reputation--David-Bernstein.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "The majority of Terry's political involvement is in regards to his comments on the soccer field (or \"the pitch,\" I believe they call it?). Apparently, Terry called a black opponent, Anton Ferdinand, a \"fucking black cunt.\" A lengthy and embarassing investigation and court case ensued, with Terry ultimately admitting he did, in fact, utter the aforementioned phrase and apologizing.",
       "sourceTitle": "John Terry racism affair has harmed England's reputation",
-      "text": "The majority of Terry's political involvement is in regards to his comments on the soccer field (or \"the pitch,\" I believe they call it?). Apparently, Terry called a black opponent, Anton Ferdinand, a \"fucking black cunt.\" A lengthy and embarassing investigation and court case ensued, with Terry ultimately admitting he did, in fact, utter the aforementioned phrase and apologizing."
+      "sourceUrl": "http://www.dailymail.co.uk/sport/football/article-2220039/John-Terry-racism-affair-harmed-Englands-reputation--David-Bernstein.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/news/article-2146954/Cameron-makes-John-Terry-gaffe-G8-summit--Labour-tells-iPad.html",
+      "parentId": 9,
+      "type": "text",
+      "text": "The backlash was swift and biting, with politicians of every stripe–from Conservative Prime Minister David Cameron to Labour MP Clive Efford and a range of politicians and social critics in between–condemning Terry and his remarks.",
       "sourceTitle": "Cameron makes John Terry gaffe at G8 summit… as Labour tells him to put down his iPad",
-      "text": "The backlash was swift and biting, with politicians of every stripe–from Conservative Prime Minister David Cameron to Labour MP Clive Efford and a range of politicians and social critics in between–condemning Terry and his remarks."
+      "sourceUrl": "http://www.dailymail.co.uk/news/article-2146954/Cameron-makes-John-Terry-gaffe-G8-summit--Labour-tells-iPad.html"
     },
     {
-      "type": "sentence",
-      "text": "Efford said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Efford said:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.politicshome.com/uk/article/57825/terms.html",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "There is no place for racism in football, just as there is no place for racism anywhere else in society.",
       "sourceTitle": "Labour Party: Language John Terry used has no place on any football pitch",
-      "text": "There is no place for racism in football, just as there is no place for racism anywhere else in society."
+      "sourceUrl": "http://www.politicshome.com/uk/article/57825/terms.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/sport/football/article-2220039/John-Terry-racism-affair-harmed-Englands-reputation--David-Bernstein.html",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Of course, Terry apologized profusely, even though the courts cleared him of any crime as they were unable to determine with any certainty if the comments were made as a question, joke or out of hatred.",
       "sourceTitle": "John Terry racism affair has harmed England's reputation",
-      "text": "Of course, Terry apologized profusely, even though the courts cleared him of any crime as they were unable to determine with any certainty if the comments were made as a question, joke or out of hatred."
+      "sourceUrl": "http://www.dailymail.co.uk/sport/football/article-2220039/John-Terry-racism-affair-harmed-Englands-reputation--David-Bernstein.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/football/blog/2012/oct/24/john-terry-anti-racism",
+      "type": "text",
+      "text": "And Terry even wore an anti-racism armband during a football match. But most press outlets, politicians and fans thought it was a weak and useless attempt at reconciliation.",
+      "parentId": 12,
       "sourceTitle": "John Terry' anti-racist armband takes gesture politics to a new low",
-      "text": "And Terry even wore an anti-racism armband during a football match. But most press outlets, politicians and fans thought it was a weak and useless attempt at reconciliation."
+      "sourceUrl": "http://www.guardian.co.uk/football/blog/2012/oct/24/john-terry-anti-racism"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "But… he's really good at football, so…"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

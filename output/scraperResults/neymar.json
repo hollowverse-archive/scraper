@@ -31,83 +31,148 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Neymar, whose real name is Neymar da Silva Santos Júnior, was born in São Paulo, Brazil and grew up there and in São Vicente and Santos, Brazil."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nikinews.info/neymar-new-baby-%E2%80%93-who-is-neymar-girlfriend/417/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Neymar is a Catholic and keeps the faith in word, but not in deed. As we know, Catholic devotion varies widely, so we must not judge, but the Pope would not be proud of his out-of-wedlock child with a 17 year-old girl,",
       "sourceTitle": "Neymar New Baby – Who is Neymar's Girlfriend?",
-      "text": "Neymar is a Catholic and keeps the faith in word, but not in deed. As we know, Catholic devotion varies widely, so we must not judge, but the Pope would not be proud of his out-of-wedlock child with a 17 year-old girl,"
+      "sourceUrl": "http://www.nikinews.info/neymar-new-baby-%E2%80%93-who-is-neymar-girlfriend/417/"
     },
     {
-      "type": "sentence",
-      "text": "but at least they didn't have an abortion."
+      "type": "text",
+      "text": "but at least they didn't have an abortion.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Still, Neymar gives lip service to God. When asked which European soccer club he would most like to play for, he responded:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/sport/football/teams/chelsea/8521834/Neymar-Brazils-Next-Big-Thing-could-still-be-the-answer-to-Chelseas-prayers.html",
-      "sourceTitle": "Neymar, Brazil's 'Next Big Thing', could still be the answer to Chelsea's prayers",
-      "text": "I do not have any preference – the decision belongs to God."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I do not have any preference – the decision belongs to God.",
+      "sourceTitle": "Neymar, Brazil's 'Next Big Thing', could still be the answer to Chelsea's prayers",
+      "sourceUrl": "http://www.telegraph.co.uk/sport/football/teams/chelsea/8521834/Neymar-Brazils-Next-Big-Thing-could-still-be-the-answer-to-Chelseas-prayers.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Furthermore, while Neymar believes all religions should be treated with respect, he's pretty upset with institutions that aren't kind to Catholics. Speaking of the Scottish soccer club, the Glasgow Rangers–who didn't allow Catholics to play for them for a time–Neymar said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.talkceltic.net/forum/showthread.php?t=101294",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I am no angel, but I respect all religions. But this is not the case with many people in Scotland. Scotland has problems because the rangers fans hate anything Catholic. Rangers refused to play Catholic players for many years and they [were] fined by UEFA for racist chants. There is no place for racism in football.",
       "sourceTitle": "Neymar hates Rangers",
-      "text": "I am no angel, but I respect all religions. But this is not the case with many people in Scotland. Scotland has problems because the rangers fans hate anything Catholic. Rangers refused to play Catholic players for many years and they [were] fined by UEFA for racist chants. There is no place for racism in football."
+      "sourceUrl": "http://www.talkceltic.net/forum/showthread.php?t=101294"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Football politics is not real politics"
     },
     {
-      "type": "sentence",
-      "text": "Neymar doesn't have much to say on olitical front. His most bold statement to the world is probably his hair."
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "break"
+      "parentId": 11,
+      "type": "text",
+      "text": "Neymar doesn't have much to say on"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Recognition_of_same-sex_unions_in_Brazil",
+      "parentId": 11,
+      "type": "text",
+      "text": "the p"
+    },
+    {
+      "type": "text",
+      "text": "olitical front. His most bold statement to the world is probably his hair.",
+      "parentId": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "However, he is Brazilian and Brazil boasts a very liberal society, allowing gay marriage and all.",
       "sourceTitle": "Recognition of same-sex unions in Brazil",
-      "text": "However, he is Brazilian and Brazil boasts a very liberal society, allowing gay marriage and all."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Recognition_of_same-sex_unions_in_Brazil"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://flair.wittysparks.com/article/01iu7recxn3ei/neymar-goes-green-at-the-olympics-with-nike-gs-boots-and-brazil-kit",
+      "type": "text",
+      "text": "Plus, he became the \"greenest\" football player in the world when he carried the Olympic torch wearing Nike's newest environmentally-friendly GS football boot.",
+      "parentId": 12,
       "sourceTitle": "Neymar \"Goes Green\" at the Olympics with the Nike GS boot and Brazil kit",
-      "text": "Plus, he became the \"greenest\" football player in the world when he carried the Olympic torch wearing Nike's newest environmentally-friendly GS football boot."
+      "sourceUrl": "http://flair.wittysparks.com/article/01iu7recxn3ei/neymar-goes-green-at-the-olympics-with-nike-gs-boots-and-brazil-kit"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "text": "Good soccer players often end up living and playing in foreign countries and they can be representatives of their home nations. So considering his fame and notoriety on the world stage, it's probably wise that he doesn't get into political debates."
+      "parentId": 13,
+      "type": "text",
+      "text": "Good soccer players often end up living and playing in foreign countries and they can be"
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "de facto"
+    },
+    {
+      "type": "text",
+      "text": "representatives of their home nations. So considering his fame and notoriety on the world stage, it's probably wise that he doesn't get into political debates.",
+      "parentId": 13
     }
   ],
   "wikipediaData": {

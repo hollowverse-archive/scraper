@@ -32,134 +32,245 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Charles Dickens was born in Portsmouth, England and grew up between Chatham, Bloomsbury and London, England. He died in 1870 of a stroke in Gads Hill Place, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "The topic of Dickens and religion is well-covered. Here's a  that goes through all of his books and picks out the religious themes. And 's a fabricated first-person, posthumous account of Dickens' feelings on religion. Suffice it to say, I will not be the first to breach the topic."
+      "parentId": 2,
+      "type": "text",
+      "text": "The topic of Dickens and religion is well-covered. Here's a"
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "link",
+      "text": "website",
+      "sourceUrl": "http://www.victorianweb.org/authors/dickens/religionov.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www25.uua.org/uuhs/duub/articles/charlesdickens.html",
+      "type": "text",
+      "text": "that goes through all of his books and picks out the religious themes. And",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "link",
+      "text": "here",
+      "sourceUrl": "http://www.uuofscv.org/index.php?option=com_content&view=article&id=90%3Acharles-dickens-on-religion&catid=18%3Afamous-uus&Itemid=18"
+    },
+    {
+      "type": "text",
+      "text": "'s a fabricated first-person, posthumous account of Dickens' feelings on religion. Suffice it to say, I will not be the first to breach the topic.",
+      "parentId": 2
+    },
+    {
+      "type": "paragraph",
+      "id": 3
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "Dickens was raised by Anglican parents,",
       "sourceTitle": "Charles Dickens",
-      "text": "Dickens was raised by Anglican parents,"
+      "sourceUrl": "http://www25.uua.org/uuhs/duub/articles/charlesdickens.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://dickens.ucsc.edu/resources/faq/religion.html",
+      "type": "text",
+      "text": "though they were reported to have not been overly religious.",
+      "parentId": 3,
       "sourceTitle": "What were Dickens' views toward religion?",
-      "text": "though they were reported to have not been overly religious."
+      "sourceUrl": "http://dickens.ucsc.edu/resources/faq/religion.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://dickens.ucsc.edu/resources/faq/religion.html",
+      "type": "text",
+      "text": "And as a child, he frequently attended a Baptist church.",
+      "parentId": 3,
       "sourceTitle": "What were Dickens' views toward religion?",
-      "text": "And as a child, he frequently attended a Baptist church."
+      "sourceUrl": "http://dickens.ucsc.edu/resources/faq/religion.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.victorianweb.org/authors/dickens/pickwick/rar4.html#stiggins",
+      "parentId": 4,
+      "type": "text",
+      "text": "The overarching theme seems to be that Dickens was a man of Christian faith, though he distrusted the institution of religion, particularly the fire-and-brimstone, outspoken evangelicals of Victorian England. Much of this is expressed through his character, the Reverend Stiggens, in his book"
+    },
+    {
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "The Pickwick Papers"
+    },
+    {
+      "type": "text",
+      "text": ". In it, Dickens satirizes the hypocrisy of evangelicals through this drunken, blowhard clergyman.",
+      "parentId": 4,
       "sourceTitle": "The Role of Religion in Pickwick and Jane Eyre",
-      "text": "The overarching theme seems to be that Dickens was a man of Christian faith, though he distrusted the institution of religion, particularly the fire-and-brimstone, outspoken evangelicals of Victorian England. Much of this is expressed through his character, the Reverend Stiggens, in his book . In it, Dickens satirizes the hypocrisy of evangelicals through this drunken, blowhard clergyman."
+      "sourceUrl": "http://www.victorianweb.org/authors/dickens/pickwick/rar4.html#stiggins"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://dickens.ucsc.edu/resources/faq/religion.html",
+      "parentId": 5,
+      "type": "text",
+      "text": "In 1842, Dickens traveled to the United States where he encountered a theologically open-ended, liberal denomination of Christianity in Boston called the Unitarians. It is reported that he was quite taken with them.",
       "sourceTitle": "What were Dickens' views toward religion?",
-      "text": "In 1842, Dickens traveled to the United States where he encountered a theologically open-ended, liberal denomination of Christianity in Boston called the Unitarians. It is reported that he was quite taken with them."
+      "sourceUrl": "http://dickens.ucsc.edu/resources/faq/religion.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://dickens.ucsc.edu/resources/faq/religion.html",
-      "sourceTitle": "What were Dickens's views toward religion?",
-      "text": "Even though Dickens was ambiguous toward religion (for the most part) and disappointed with the spiritual  of Victorian England, it doesn't mean he wasn't himself spiritual. For his children, he wrote a simplified version of the New Testament that was meant to be read aloud called"
+      "parentId": 6,
+      "type": "text",
+      "text": "Even though Dickens was ambiguous toward religion (for the most part) and disappointed with the spiritual"
     },
     {
-      "type": "sentence",
-      "text": "and his last will and testament read:"
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "zeitgeist"
     },
     {
-      "type": "break"
+      "type": "text",
+      "text": "of Victorian England, it doesn't mean he wasn't himself spiritual. For his children, he wrote a simplified version of the New Testament that was meant to be read aloud called",
+      "parentId": 6
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "The Life Of Our Lord"
+    },
+    {
+      "type": "text",
+      "text": "and his last will and testament read:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.ctlibrary.com/ch/1990/issue27/2739.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I commit my soul to the mercy of God through our Lord and Saviour Jesus Christ, and I exhort my dear children humbly to try to guide themselves by the teaching of the New Testament in its broad spirit, and to put no faith in any man's narrow construction of its letter here or there.",
       "sourceTitle": "The Faith Behind The Famous: Charles Dickens",
-      "text": "I commit my soul to the mercy of God through our Lord and Saviour Jesus Christ, and I exhort my dear children humbly to try to guide themselves by the teaching of the New Testament in its broad spirit, and to put no faith in any man's narrow construction of its letter here or there."
+      "sourceUrl": "http://www.ctlibrary.com/ch/1990/issue27/2739.html"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "An early socialist intellectual"
     },
     {
-      "type": "sentence",
-      "text": "Dickens' novels portray a true concern for the poor. His  is a gripping tale of the challenges and hardships faced by young English orphans. This is hardly surprising as Victorian England is one of the most economically divided eras in modern Western history."
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "break"
+      "parentId": 11,
+      "type": "text",
+      "text": "Dickens' novels portray a true concern for the poor. His"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.slideshare.net/mwolf53542/charles-dickens-political-and-socialist-views-1092769",
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "David Copperfield"
+    },
+    {
+      "type": "text",
+      "text": "is a gripping tale of the challenges and hardships faced by young English orphans. This is hardly surprising as Victorian England is one of the most economically divided eras in modern Western history.",
+      "parentId": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "In his books, Dickens refers to businessmen as \"villains\" and \"schemers\" and his famous work,"
+    },
+    {
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "A Tale of Two Cities"
+    },
+    {
+      "type": "text",
+      "text": ", paints the lower-class discontents as heroes and martyrs.",
+      "parentId": 12,
       "sourceTitle": "Charles Dickens Political an Socialist Views",
-      "text": "In his books, Dickens refers to businessmen as \"villains\" and \"schemers\" and his famous work, , paints the lower-class discontents as heroes and martyrs."
+      "sourceUrl": "http://www.slideshare.net/mwolf53542/charles-dickens-political-and-socialist-views-1092769"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.fee.org/the_freeman/detail/was-dickens-really-a-socialist#axzz2HvKWxjgt",
+      "type": "text",
+      "text": "It is for these reasons that many consider Dickens a socialist, though depending on the ideology of the writer, some might dispute.",
+      "parentId": 12,
       "sourceTitle": "Was Dickens Really a Socialist?",
-      "text": "It is for these reasons that many consider Dickens a socialist, though depending on the ideology of the writer, some might dispute."
+      "sourceUrl": "http://www.fee.org/the_freeman/detail/was-dickens-really-a-socialist#axzz2HvKWxjgt"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.everydaycitizen.com/2011/03/charles_dickens_and_his_influe.html",
+      "type": "text",
+      "text": "Regardless, he was an influence to later socialists, particularly George Orwell.",
+      "parentId": 12,
       "sourceTitle": "Charles Dickens and His Influence On Social Activists",
-      "text": "Regardless, he was an influence to later socialists, particularly George Orwell."
+      "sourceUrl": "http://www.everydaycitizen.com/2011/03/charles_dickens_and_his_influe.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rci.rutgers.edu/~lcrew/pubd/dickens_usa.html",
+      "parentId": 13,
+      "type": "text",
+      "text": "But he did criticize the capitalist utopia that was 19th Century America. He was particularly critical of the institution of slavery, and the fact that there was no tax to import foreign publications.",
       "sourceTitle": "Charles Dickens as a Critic of The United States",
-      "text": "But he did criticize the capitalist utopia that was 19th Century America. He was particularly critical of the institution of slavery, and the fact that there was no tax to import foreign publications."
+      "sourceUrl": "http://www.rci.rutgers.edu/~lcrew/pubd/dickens_usa.html"
     },
     {
-      "type": "sentence",
-      "text": "Though the latter might have had a certain selfish element to it."
+      "type": "text",
+      "text": "Though the latter might have had a certain selfish element to it.",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.everydaycitizen.com/2011/03/charles_dickens_and_his_influe.html",
+      "parentId": 14,
+      "type": "text",
+      "text": "Dickens didn't just complain. He actually advocated for England's poor. He supported charities that helped to uplift poor women and children and rallied for the English government to step in to handle poverty.",
       "sourceTitle": "Charles Dickens and His Influence On Social Activists",
-      "text": "Dickens didn't just complain. He actually advocated for England's poor. He supported charities that helped to uplift poor women and children and rallied for the English government to step in to handle poverty."
+      "sourceUrl": "http://www.everydaycitizen.com/2011/03/charles_dickens_and_his_influe.html"
     },
     {
-      "type": "sentence",
-      "text": "That might be a reason he's often called a socialist. Let's hear your thoughts in the comments."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "That might be a reason he's often called a socialist. Let's hear your thoughts in the comments.",
+      "parentId": 14
     }
   ],
   "wikipediaData": {

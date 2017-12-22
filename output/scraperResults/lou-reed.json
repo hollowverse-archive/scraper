@@ -32,115 +32,205 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Lou Reed was born in in Brooklyn, New York and grew up in Freeport, Long Island, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thejc.com/arts/arts-interviews/32839/interview-lou-reed",
+      "parentId": 2,
+      "type": "text",
+      "text": "Reed was raised in middle-class a Jewish family.",
       "sourceTitle": "Interview: Lou Reed",
-      "text": "Reed was raised in middle-class a Jewish family."
+      "sourceUrl": "http://www.thejc.com/arts/arts-interviews/32839/interview-lou-reed"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.clashmusic.com/feature/ten-things-you-never-knew-about-lou-reed",
+      "type": "text",
+      "text": "He has expressed contrary attitudes toward his family's religion, even occasionally making anti-Semitic comments from time to time.",
+      "parentId": 2,
       "sourceTitle": "Ten things you never knew about… Lou Reed",
-      "text": "He has expressed contrary attitudes toward his family's religion, even occasionally making anti-Semitic comments from time to time."
+      "sourceUrl": "http://www.clashmusic.com/feature/ten-things-you-never-knew-about-lou-reed"
     },
     {
-      "type": "sentence",
-      "text": "Though when asked if he was Jewish, he replied:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Though when asked if he was Jewish, he replied:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.clashmusic.com/feature/ten-things-you-never-knew-about-lou-reed",
-      "sourceTitle": "Ten things you never knew about… Lou Reed",
-      "text": "Of course, aren't all the best people?"
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Of course, aren't all the best people?",
+      "sourceTitle": "Ten things you never knew about… Lou Reed",
+      "sourceUrl": "http://www.clashmusic.com/feature/ten-things-you-never-knew-about-lou-reed"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "However, Reed has since rejected, or at least set aside any allegiance to Judaism, and has frequently called music his religion and rock n' roll his god, stating:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.nyrock.com/interviews/loureed_int.htm",
-      "sourceTitle": "Interview with Lou Reed: The Gospel According to Lou",
-      "text": "My God is rock'n'roll. It's an obscure power that can change your life. The most important part of my religion is to play guitar."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "My God is rock'n'roll. It's an obscure power that can change your life. The most important part of my religion is to play guitar.",
+      "sourceTitle": "Interview with Lou Reed: The Gospel According to Lou",
+      "sourceUrl": "http://www.nyrock.com/interviews/loureed_int.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "And thus being one of the more influential in the field of experimental rock 'n roll, it's safe to say that he has practiced his religious ideas diligently. Even though, he still believes in some sort of order in the universe, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/l/lou_reed.html?vm=l",
-      "sourceTitle": "Lou Reed Quotes",
-      "text": "I think that everything happens for a reason, everything happens when it's going to happen."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I think that everything happens for a reason, everything happens when it's going to happen.",
+      "sourceTitle": "Lou Reed Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/l/lou_reed.html?vm=l"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "There you have it, everything happens for a reason, plain and simple."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "Take a walk on the political side"
     },
     {
-      "type": "sentence",
-      "text": "Lou claims not to have any political bias. He once answered his audience on the live album,  saying :"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "text",
+      "text": "Lou claims not to have any political bias. He once answered his audience on the live album,"
+    },
+    {
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "Live: Take no Prisoners,"
+    },
+    {
+      "type": "text",
+      "text": "saying :",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://en.wikiquote.org/wiki/Lou_Reed",
-      "sourceTitle": "Lou Reed",
-      "text": "Political about what? You give me an issue, I'll give you a tissue and you can wipe my ass with it."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Political about what? You give me an issue, I'll give you a tissue and you can wipe my ass with it.",
+      "sourceTitle": "Lou Reed",
+      "sourceUrl": "http://en.wikiquote.org/wiki/Lou_Reed"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "However, Lou was incredibly outspoken regarding the Bush Administration; as he once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://en.wikiquote.org/wiki/Lou_Reed",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "The Bush administration, they and all the other Republicans and CIA before us got us into this mess we're now in, and it's their duty since the naive and easily strong right manipulative people elected them that they got us out of it. History in America we always have these old fashioned conservatives who use war as a profit and send a whole generation of young men to murder other poor people.",
       "sourceTitle": "Lou Reed",
-      "text": "The Bush administration, they and all the other Republicans and CIA before us got us into this mess we're now in, and it's their duty since the naive and easily strong right manipulative people elected them that they got us out of it. History in America we always have these old fashioned conservatives who use war as a profit and send a whole generation of young men to murder other poor people."
+      "sourceUrl": "http://en.wikiquote.org/wiki/Lou_Reed"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikiquote.org/wiki/Lou_Reed",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Later in the interview, Reed mentions filmmaker Michael Moore and how he is trying to \"open our eyes\" by researching important political subjects.",
       "sourceTitle": "Lou Reed",
-      "text": "Later in the interview, Reed mentions filmmaker Michael Moore and how he is trying to \"open our eyes\" by researching important political subjects."
+      "sourceUrl": "http://en.wikiquote.org/wiki/Lou_Reed"
     },
     {
-      "type": "sentence",
-      "text": "So bias seems to be out the window. Any sort of positive mention of Michael Moore automatically aligns one with the political left. We're going to call him a liberal. (Not really a stretch considering his involvement with New York's progressive art scene in the 60s and 70s–Niko and Andy Warhol and all that.) As to whether he's a Democrat? There's no evidence to suggest that, but he's certainly no Republican."
+      "type": "text",
+      "text": "So bias seems to be out the window. Any sort of positive mention of Michael Moore automatically aligns one with the political left. We're going to call him a liberal. (Not really a stretch considering his involvement with New York's progressive art scene in the 60s and 70s–Niko and Andy Warhol and all that.) As to whether he's a Democrat? There's no evidence to suggest that, but he's certainly no Republican.",
+      "parentId": 19
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "break"
+      "parentId": 20,
+      "type": "emphasis",
+      "text": "This article written by C. Lenz and Tom Kershaw"
     }
   ],
   "wikipediaData": {

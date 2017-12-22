@@ -33,134 +33,221 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Logan Lerman was born and raised in Beverly Hills, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.anti-semitism.net/jews/jews-in-the-news-logan-lerman-jake-gyllenhaall-and-sacha.php",
+      "parentId": 2,
+      "type": "text",
+      "text": "Lerman is Jewish and comes from an endless line of Jews on both sides of his family.",
       "sourceTitle": "Jews In The News: Logan Lerman, Jake Gyllenhaall and Sacha Baron Cohen",
-      "text": "Lerman is Jewish and comes from an endless line of Jews on both sides of his family."
+      "sourceUrl": "http://www.anti-semitism.net/jews/jews-in-the-news-logan-lerman-jake-gyllenhaall-and-sacha.php"
     },
     {
-      "type": "sentence",
-      "text": "While my research suggests he hasn't spoken of it, Lerman's heritage is probably a fairly important part of his life."
+      "type": "text",
+      "text": "While my research suggests he hasn't spoken of it, Lerman's heritage is probably a fairly important part of his life.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.anti-semitism.net/jews/jews-in-the-news-logan-lerman-jake-gyllenhaall-and-sacha.php",
+      "parentId": 3,
+      "type": "text",
+      "text": "His family hails from central and Western Europe and his great-grandfather's family fled Nazi Germany in the 1930s and took refuge in Shanghai, China before moving to the west coast of the United States.",
       "sourceTitle": "Jews In The News: Logan Lerman, Jake Gyllenhaall and Sacha Baron Cohen",
-      "text": "His family hails from central and Western Europe and his great-grandfather's family fled Nazi Germany in the 1930s and took refuge in Shanghai, China before moving to the west coast of the United States."
+      "sourceUrl": "http://www.anti-semitism.net/jews/jews-in-the-news-logan-lerman-jake-gyllenhaall-and-sacha.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://www.tbala.org/uploaded/Temple_Beth_Am/TBAnewsletterOct.pdf",
+      "type": "text",
+      "text": "His paternal grandparents practice Conservative Judaism,",
+      "parentId": 3,
       "sourceTitle": "Voice of the People.",
-      "text": "His paternal grandparents practice Conservative Judaism,"
+      "sourceUrl": "https://www.tbala.org/uploaded/Temple_Beth_Am/TBAnewsletterOct.pdf"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0503567/bio",
+      "type": "text",
+      "text": "and Logan himself attended Hebrew school.",
+      "parentId": 3,
       "sourceTitle": "Logan Lerman – Biography.",
-      "text": "and Logan himself attended Hebrew school."
+      "sourceUrl": "http://www.imdb.com/name/nm0503567/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=_gcv5ueppH8",
+      "parentId": 4,
+      "type": "text",
+      "text": "So understandably, as we know from his role in the film,"
+    },
+    {
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "Jack & Bobby"
+    },
+    {
+      "type": "text",
+      "text": ", he can speak at least a little bit of Hebrew.",
+      "parentId": 4,
       "sourceTitle": "Logan Lerman speaking Hebrew (Jack & Bobby)",
-      "text": "So understandably, as we know from his role in the film, , he can speak at least a little bit of Hebrew."
+      "sourceUrl": "http://www.youtube.com/watch?v=_gcv5ueppH8"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "There's no way of knowing if Judaism instilled a sense of morality in Lerman, but he got it from somewhere. When asked what it takes to be a man, Lerman responded:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://loganlermanquotes.tumblr.com/",
-      "sourceTitle": "Logan Lerman Quotes",
-      "text": "I'd say a man is someone who is honest, strong-minded, moral, genuine, just a good human being."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I'd say a man is someone who is honest, strong-minded, moral, genuine, just a good human being.",
+      "sourceTitle": "Logan Lerman Quotes",
+      "sourceUrl": "http://loganlermanquotes.tumblr.com/"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "But that's about all we've got to go on regarding Lerman's religious views. If you know anything, let us now."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "The tenuous world of retweet politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Lerman is even more vague about his political views than he is about religion. At least with religion, we've got his family tree to give us clues. At the tender age of 12, he said this about running for office:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://usatoday30.usatoday.com/life/television/news/2004-09-09-jack-bobby_x.htm",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I would never want to get into politics.",
       "sourceTitle": "'Jack & Bobby' brings politics to the dinner table.",
-      "text": "I would never want to get into politics."
+      "sourceUrl": "http://usatoday30.usatoday.com/life/television/news/2004-09-09-jack-bobby_x.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.out.com/entertainment/movies/2012/08/15/perks-wallflower-ezra-miller-logan-lerman-johnny-simmons?page=0,1",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "But opinions can definitely change after several years of pubescent hormones. Since then, he's expressed a few liberal views. About his movie,"
+    },
+    {
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "The Perks of Being a Wallflower"
+    },
+    {
+      "type": "text",
+      "text": ", he said that he and his generation of friends would respond like Lerman's character did, in embracing his character's gay friend.",
+      "parentId": 13,
       "sourceTitle": "Lost & Found – Page 2.",
-      "text": "But opinions can definitely change after several years of pubescent hormones. Since then, he's expressed a few liberal views. About his movie, , he said that he and his generation of friends would respond like Lerman's character did, in embracing his character's gay friend."
+      "sourceUrl": "http://www.out.com/entertainment/movies/2012/08/15/perks-wallflower-ezra-miller-logan-lerman-johnny-simmons?page=0,1"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "He also retweeted liberal pundit, Bill Maher, after Obama won reelection in 2012:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 15
     },
     {
-      "type": "quote",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Mitt to his underwear: Magic my ass!!!"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/LoganLerman",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Maher was referring to the special kind of undergarments worn by Mormons–which are rumored to be considered magical or spiritual by members of that church. Lerman picked it up,",
       "sourceTitle": "Logan Lerman (LoganLerman) on Twitter.",
-      "text": "Maher was referring to the special kind of undergarments worn by Mormons–which are rumored to be considered magical or spiritual by members of that church. Lerman picked it up,"
+      "sourceUrl": "https://twitter.com/LoganLerman"
     },
     {
-      "type": "sentence",
-      "text": "but it could have just been he thought it was funny. However, we can safely assume he was, at least, not devastated by Romney's loss."
+      "type": "text",
+      "text": "but it could have just been he thought it was funny. However, we can safely assume he was, at least, not devastated by Romney's loss.",
+      "parentId": 17
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "Other than that, no opinions on gun control, socialized health care, the welfare state, or even Israel's place in world politics. If I'm wrong or Lerman suddenly becomes vocal, let us know."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "break"
+      "parentId": 19,
+      "type": "emphasis",
+      "text": "This article was written by Tom Kershaw with help from Jennifer Salk."
     }
   ],
   "wikipediaData": {

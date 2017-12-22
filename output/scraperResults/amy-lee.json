@@ -31,52 +31,76 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Amy Lee, whose real name is Amy Lynn Hartzler, was born in Riverside, California. As a child, her family moved around a lot, stopping in Florida and Illinois before settling in Little Rock, Arkansas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/255/000030165/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Lee is a Christian",
       "sourceTitle": "Amy Lee",
-      "text": "Lee is a Christian"
+      "sourceUrl": "http://www.nndb.com/people/255/000030165/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.topix.com/forum/who/evanescence/T7L3JED17EG2EERI9",
+      "type": "text",
+      "text": "but it is unclear which denomination, if any, she subscribes to. Nor is it stated anywhere her level of devotion to Christianity. She did once make the effort to quash any rumors that her band, Evanescence, was orienting itself toward becoming a Christian band, calling the whole idea the \"lamest thing.\"",
+      "parentId": 2,
       "sourceTitle": "Amy Lee Distances Evanescence From Christian Image",
-      "text": "but it is unclear which denomination, if any, she subscribes to. Nor is it stated anywhere her level of devotion to Christianity. She did once make the effort to quash any rumors that her band, Evanescence, was orienting itself toward becoming a Christian band, calling the whole idea the \"lamest thing.\""
+      "sourceUrl": "http://www.topix.com/forum/who/evanescence/T7L3JED17EG2EERI9"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "The literary content of her music confirms her fascination with spiritual themes, however, and she once said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=7scWand1BKE",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I definitely have always been fascinated with the darker side of things–death, the afterlife–sort of these things that I don't really understand and maybe never will.",
       "sourceTitle": "Interview with Amy Lee – MTV Italy",
-      "text": "I definitely have always been fascinated with the darker side of things–death, the afterlife–sort of these things that I don't really understand and maybe never will."
+      "sourceUrl": "http://www.youtube.com/watch?v=7scWand1BKE"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "The Essence of Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.amyleeworld.com/evanescence-amy-lee-facts.html",
-      "sourceTitle": "Amy Lee Facts",
-      "text": "Lee hasn't said anything about politics or politicians except that she thinks it's all \"stupid\" and that former California governor Arnold Schwarzenegger is \"hilarious.\""
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "break"
+      "parentId": 7,
+      "type": "text",
+      "text": "Lee hasn't said anything about politics or politicians except that she thinks it's all \"stupid\" and that former California governor Arnold Schwarzenegger is \"hilarious.\"",
+      "sourceTitle": "Amy Lee Facts",
+      "sourceUrl": "http://www.amyleeworld.com/evanescence-amy-lee-facts.html"
     }
   ],
   "wikipediaData": {
@@ -109,7 +133,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Amy Lee in 2015|Evanescence in 2015|Extracted images|Files from Justin Higuchi Flickr stream|Flickr images reviewed by FlickreviewR",
+            "value": "Amy Lee in 2015|Evanescence at the Wiltern Theatre in 2015|Extracted images|Files from Justin Higuchi Flickr stream|Flickr images reviewed by FlickreviewR",
             "source": "commons-categories",
             "hidden": ""
           },

@@ -33,98 +33,142 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Osama bin Laden, whose full name is Osama bin Mohammed bin Awad bin Laden, was born in Riyadh, Saudi Arabia and grew up in Jeddah, Saudi Arabia. He was killed by U.S. forces in 2011 in Abbottabad, Pakistan."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.forbes.com/2001/09/14/0914whoisobl.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Osama was raised a devout Muslim and, in his teenage years, joined an ultra-conservative, fundamentalist Muslim sect called Wahhabi Islam.",
       "sourceTitle": "Who is Osama bin Laden?",
-      "text": "Osama was raised a devout Muslim and, in his teenage years, joined an ultra-conservative, fundamentalist Muslim sect called Wahhabi Islam."
+      "sourceUrl": "http://www.forbes.com/2001/09/14/0914whoisobl.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://religion.blogs.cnn.com/2011/05/04/bin-ladens-theology/",
+      "type": "text",
+      "text": "Wahhabi Islam preaches, among other things, the concept of jihad–or holy war on unbelievers and infidels. However, bin Laden took what is considered the \"normal\" concept of jihad and extended it to include the killing of innocents (women, children, the elderly, the unarmed) as justified.",
+      "parentId": 2,
       "sourceTitle": "Bin Laden's theology a radical break with traditional Islam",
-      "text": "Wahhabi Islam preaches, among other things, the concept of jihad–or holy war on unbelievers and infidels. However, bin Laden took what is considered the \"normal\" concept of jihad and extended it to include the killing of innocents (women, children, the elderly, the unarmed) as justified."
+      "sourceUrl": "http://religion.blogs.cnn.com/2011/05/04/bin-ladens-theology/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.religioustolerance.org/isl_adul1.htm",
+      "parentId": 3,
+      "type": "text",
+      "text": "As a conservative Muslim, bin Laden believed in the supremacy of Sharia law, or the law set out in the Koran directing Muslims how to live out their lives. This can range from the relatively mundane such as what a Muslim can and cannot eat to the extreme and violent such as the stoning of homosexuals and unfaithful wives (but not husbands).",
       "sourceTitle": "Punishment for adultery in Islam",
-      "text": "As a conservative Muslim, bin Laden believed in the supremacy of Sharia law, or the law set out in the Koran directing Muslims how to live out their lives. This can range from the relatively mundane such as what a Muslim can and cannot eat to the extreme and violent such as the stoning of homosexuals and unfaithful wives (but not husbands)."
+      "sourceUrl": "http://www.religioustolerance.org/isl_adul1.htm"
     },
     {
-      "type": "sentence",
-      "text": "Osama once said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Osama once said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.victoryinstitute.net/blogs/utb/2009/10/osama-bin-laden-on-sharia-law/",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Muslims, and especially the learned among them, should spread sharia law to the world–that and nothing else. Not laws under the \"umbrella of justice, morality, and rights\" as understood by the masses. No, the sharia of Islam is the foundation. They say that our sharia does not impose our particular beliefs upon others; this is a false assertion. For it is, in fact, part of our religion to impose our particular beliefs upon others. Thus whoever refuses the principle of terror[ism] against the enemy also refuses the commandment of Allah the Exalted, the Most High, and His sharia.",
       "sourceTitle": "Osama bin Laden on Sharia Law",
-      "text": "Muslims, and especially the learned among them, should spread sharia law to the world–that and nothing else. Not laws under the \"umbrella of justice, morality, and rights\" as understood by the masses. No, the sharia of Islam is the foundation. They say that our sharia does not impose our particular beliefs upon others; this is a false assertion. For it is, in fact, part of our religion to impose our particular beliefs upon others. Thus whoever refuses the principle of terror[ism] against the enemy also refuses the commandment of Allah the Exalted, the Most High, and His sharia."
+      "sourceUrl": "http://www.victoryinstitute.net/blogs/utb/2009/10/osama-bin-laden-on-sharia-law/"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Politics of Sharia"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Osama's political views are merely the logical conclusion of his religious views. He could never be a man accused of not practicing what he preached."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "In bin Laden's mind, If Sharia was to prevail among the world's legal ideologies, it could only be done by killing unbelievers. However, one must question if Osama and his peers have really thought this through. Killing people is certainly a bad way to convert them–unless you want to kill all of the unbelievers, which would amount to billions of people, and that's a tall order. Perhaps these converts would become fundamentalist, Sharia-loving Muslims through fear–but that's not much of a conversion, is it?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rferl.org/content/osama_bin_laden_obituary/16800013.html",
+      "parentId": 9,
+      "type": "text",
+      "text": "But logic seems to escape the fundamentally religious of all stripes, and Osama carried out his perceived charge throughout his life. He is the founder of the now-global terror network of Al-Qaeda",
       "sourceTitle": "Obituary: Osama Bin Laden, Founder of Al-Qaeda Network, Killed in Pakistan",
-      "text": "But logic seems to escape the fundamentally religious of all stripes, and Osama carried out his perceived charge throughout his life. He is the founder of the now-global terror network of Al-Qaeda"
+      "sourceUrl": "http://www.rferl.org/content/osama_bin_laden_obituary/16800013.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.forbes.com/2001/09/14/0914whoisobl.html",
+      "type": "text",
+      "text": "and he fought infidels in Yugoslavia, the Russians in Afghanistan, and the United States, as well as funded terrorist attacks in various other countries by raising funds from wealthy fundamentalist Muslims as well as with his own personal fortune.",
+      "parentId": 9,
       "sourceTitle": "Who is Osama bin Laden?",
-      "text": "and he fought infidels in Yugoslavia, the Russians in Afghanistan, and the United States, as well as funded terrorist attacks in various other countries by raising funds from wealthy fundamentalist Muslims as well as with his own personal fortune."
+      "sourceUrl": "http://www.forbes.com/2001/09/14/0914whoisobl.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "Perhaps bin Laden's greatest success was against the Russians in Afghanistan. Al-Qaeda and other Muslim fighters succeeded in driving the Russians out of the country and eventually installing a fundamentalist Muslim government. The victory gave bin Laden the confidence to take on the United States, the country he considered the greatest threat to his ideals. His plan, and quite a brilliant one at that (it might still work) was to bankrupt the world's superpowers by engaging them in endless guerrilla wars on foreign soil. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://edition.cnn.com/2004/WORLD/meast/11/01/binladen.tape/index.html",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "We are continuing this policy in bleeding America to the point of bankruptcy. Allah willing, and nothing is too great for Allah… Using guerrilla warfare and the war of attrition to fight tyrannical superpowers, we, alongside the mujahedeen, bled Russia for 10 years until it went bankrupt and was forced to withdraw in defeat.",
       "sourceTitle": "Bin Laden: Goal is to bankrupt U.S.",
-      "text": "We are continuing this policy in bleeding America to the point of bankruptcy. Allah willing, and nothing is too great for Allah… Using guerrilla warfare and the war of attrition to fight tyrannical superpowers, we, alongside the mujahedeen, bled Russia for 10 years until it went bankrupt and was forced to withdraw in defeat."
+      "sourceUrl": "http://edition.cnn.com/2004/WORLD/meast/11/01/binladen.tape/index.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "All in all, bin Laden's political views were radical, violent, chaotic, and horrific. He is a poster child for religious intolerance and the twisted interpretation of texts from a bygone era that were originally designed to give people happiness and fulfillment."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

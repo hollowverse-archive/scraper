@@ -38,138 +38,212 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Alanis Morissette was born and raised in Ottawa, Ontario, Canada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wamc.org/post/alanis-morissette-anger-fame-and-motherhood",
+      "parentId": 2,
+      "type": "text",
+      "text": "Morissette was brought up Catholic.",
       "sourceTitle": "Alanis Morissette On Anger, Fame and Motherhood",
-      "text": "Morissette was brought up Catholic."
+      "sourceUrl": "http://wamc.org/post/alanis-morissette-anger-fame-and-motherhood"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/lifeandstyle/2008/may/21/women.popandrock",
+      "type": "text",
+      "text": "She has since said that her upbringing was in a \"a chauvinistic, patriarchal environment\"",
+      "parentId": 2,
       "sourceTitle": "Alanis Morissette on fame and feminism",
-      "text": "She has since said that her upbringing was in a \"a chauvinistic, patriarchal environment\""
+      "sourceUrl": "http://www.guardian.co.uk/lifeandstyle/2008/may/21/women.popandrock"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0001551/bio",
+      "type": "text",
+      "text": "and that the Bible is \"patriarchal and sexist.\"",
+      "parentId": 2,
       "sourceTitle": "Alanis Morissette – Biography",
-      "text": "and that the Bible is \"patriarchal and sexist.\""
+      "sourceUrl": "http://www.imdb.com/name/nm0001551/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebitchy.com/13171/alanis_morissette_got_called_names_by_catholic_clergy/",
+      "type": "text",
+      "text": "Then, commenting on meeting the pope, she called herself a \"post-Catholic.\"",
+      "parentId": 2,
       "sourceTitle": "Alanis Morissette got called names by Catholic clergy",
-      "text": "Then, commenting on meeting the pope, she called herself a \"post-Catholic.\""
+      "sourceUrl": "http://www.celebitchy.com/13171/alanis_morissette_got_called_names_by_catholic_clergy/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/title/tt0120655/fullcredits#cast",
+      "parentId": 3,
+      "type": "text",
+      "text": "Clearly, she's outwardly critical of Christianity, but that doesn't mean she doesn't have a sense of humor about the whole Catholic thing. She was cast as the role of God in the film,"
+    },
+    {
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Dogma"
+    },
+    {
+      "type": "text",
+      "text": ", a funny, satirical jab at Catholic mythology and tradition.",
+      "parentId": 3,
       "sourceTitle": "Dogma (1999) – Full Cast and Crew",
-      "text": "Clearly, she's outwardly critical of Christianity, but that doesn't mean she doesn't have a sense of humor about the whole Catholic thing. She was cast as the role of God in the film, , a funny, satirical jab at Catholic mythology and tradition."
+      "sourceUrl": "http://www.imdb.com/title/tt0120655/fullcredits#cast"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/274/000024202/",
+      "parentId": 4,
+      "type": "text",
+      "text": "Now, she's a Buddhist",
       "sourceTitle": "Alanis Morissette",
-      "text": "Now, she's a Buddhist"
+      "sourceUrl": "http://www.nndb.com/people/274/000024202/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blogs.houstonpress.com/rocks/2012/07/buddhists_musicians.php",
+      "type": "text",
+      "text": "who has traveled extensively through India, played benefit concerts for the Dalai Lama and included a song about the 8-Fold Path on her second album.",
+      "parentId": 4,
       "sourceTitle": "Be Pure and Tell the Truth: Our 5 Favorite Musical Buddhists",
-      "text": "who has traveled extensively through India, played benefit concerts for the Dalai Lama and included a song about the 8-Fold Path on her second album."
+      "sourceUrl": "http://blogs.houstonpress.com/rocks/2012/07/buddhists_musicians.php"
     },
     {
-      "type": "sentence",
-      "text": "But, she says her spirituality is both beyond and within religion:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But, she says her spirituality is both beyond and within religion:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.timeout.com/newyork/music/the-hot-seat-alanis-morissette-rock-pop-hip-hop",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "The spirituality that I experience sometimes touches on religion, in that I resonate with the thread of continuity that permeates through all religions. But in terms of it being a concretized, organized part of my life, it's not. It's kind of outside of and within religion, my sense of spirit.",
       "sourceTitle": "The Hot Seat: Singer-Songwriter Alanis Morissette",
-      "text": "The spirituality that I experience sometimes touches on religion, in that I resonate with the thread of continuity that permeates through all religions. But in terms of it being a concretized, organized part of my life, it's not. It's kind of outside of and within religion, my sense of spirit."
+      "sourceUrl": "http://www.timeout.com/newyork/music/the-hot-seat-alanis-morissette-rock-pop-hip-hop"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Angry girl politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.azlyrics.com/lyrics/alanismorissette/yououghtaknow.html",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Morissette is often associated with angry feminists. Much of this is probably due to her first album,"
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "Jagged Little Pill"
+    },
+    {
+      "type": "text",
+      "text": ", and more specifically the song, \"You Oughtta Know,\" which angrily decries men who mistreat women.",
+      "parentId": 9,
       "sourceTitle": "Alanis Morissette Lyrics – You Oughta Know↩",
-      "text": "Morissette is often associated with angry feminists. Much of this is probably due to her first album, , and more specifically the song, \"You Oughtta Know,\" which angrily decries men who mistreat women."
+      "sourceUrl": "http://www.azlyrics.com/lyrics/alanismorissette/yououghtaknow.html"
     },
     {
-      "type": "sentence",
-      "text": "Furthermore, she said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Furthermore, she said:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/lifeandstyle/2008/may/21/women.popandrock",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Women are so powerful they're scary, and the incentive to squash this has been going on for so long that some of us actually believe we're subordinate.",
       "sourceTitle": "Alanis Morissette on fame and feminism",
-      "text": "Women are so powerful they're scary, and the incentive to squash this has been going on for so long that some of us actually believe we're subordinate."
+      "sourceUrl": "http://www.guardian.co.uk/lifeandstyle/2008/may/21/women.popandrock"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://today.msnbc.msn.com/id/6986872/ns/today-entertainment/t/alanis-morissette-becomes-us-citizen/#.UHCrqxg1bR0",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Having only become a U.S. citizen in 2005,",
       "sourceTitle": "Alanis Morissette becomes U.S. Citizen",
-      "text": "Having only become a U.S. citizen in 2005,"
+      "sourceUrl": "http://today.msnbc.msn.com/id/6986872/ns/today-entertainment/t/alanis-morissette-becomes-us-citizen/#.UHCrqxg1bR0"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/fec/bystate_detail.php?st=&zip=91361&last=MORISSETTE&first=ALANIS",
+      "type": "text",
+      "text": "you'd think Morissette's involvement in U.S. politics would be minimal–but as early as 2001, she was contributing to U.S. politicians' campaign funds. And the politicians she supports? Democrats.",
+      "parentId": 12,
       "sourceTitle": "Alanis Morissette's Federal Campaign Contribution Search Results",
-      "text": "you'd think Morissette's involvement in U.S. politics would be minimal–but as early as 2001, she was contributing to U.S. politicians' campaign funds. And the politicians she supports? Democrats."
+      "sourceUrl": "http://www.newsmeat.com/fec/bystate_detail.php?st=&zip=91361&last=MORISSETTE&first=ALANIS"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+IM-PRESS+20080526STO29854+0+DOC+XML+V0//EN",
+      "parentId": 13,
+      "type": "text",
+      "text": "She's no moderate either, leaning a bit left on issues like the environment",
       "sourceTitle": "Alanis Morissette on activism and the environment",
-      "text": "She's no moderate either, leaning a bit left on issues like the environment"
+      "sourceUrl": "http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+IM-PRESS+20080526STO29854+0+DOC+XML+V0//EN"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.contactmusic.com/news-article/alanis-pays-tribute-to-gay-fans-on-reworked-ironic",
+      "type": "text",
+      "text": "and gay rights.",
+      "parentId": 13,
       "sourceTitle": "Alanis Pays Tribute To Gay Fans On Reworked Ironic",
-      "text": "and gay rights."
+      "sourceUrl": "http://www.contactmusic.com/news-article/alanis-pays-tribute-to-gay-fans-on-reworked-ironic"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0001551/bio",
+      "type": "text",
+      "text": "Plus, she was highly critical of the Bush administration–particularly the Iraq War.",
+      "parentId": 13,
       "sourceTitle": "Alanis Morissette – Biography",
-      "text": "Plus, she was highly critical of the Bush administration–particularly the Iraq War."
+      "sourceUrl": "http://www.imdb.com/name/nm0001551/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "Despite her being an obviously socially-aware and interested person, though, I still don't think she knows what \"ironic\" means."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

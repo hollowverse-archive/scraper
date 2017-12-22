@@ -35,129 +35,183 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Mark Wahlberg was born in Boston, Massachusetts."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biography.com/people/mark-wahlberg-9542335",
+      "parentId": 2,
+      "type": "text",
+      "text": "Wahlberg's childhood was rough. He was doing time by 16 years of age for assault and battery.",
       "sourceTitle": "Mark Wahlberg Biographay – Facts, Birthday, Life Story",
-      "text": "Wahlberg's childhood was rough. He was doing time by 16 years of age for assault and battery."
+      "sourceUrl": "http://www.biography.com/people/mark-wahlberg-9542335"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://freedomeden.blogspot.com/2012/01/mark-wahlberg-catholic-servant-of-god.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "However, Wahlberg escaped the streets and turned his life around to become an incredibly famous and successful entertainer–as we know–and much of that he credits to his faith. Wahlberg is a devout Catholic, who literally goes to church every day.",
       "sourceTitle": "Mark Wahlberg: Catholic, Servant of God",
-      "text": "However, Wahlberg escaped the streets and turned his life around to become an incredibly famous and successful entertainer–as we know–and much of that he credits to his faith. Wahlberg is a devout Catholic, who literally goes to church every day."
+      "sourceUrl": "http://freedomeden.blogspot.com/2012/01/mark-wahlberg-catholic-servant-of-god.html"
     },
     {
-      "type": "sentence",
-      "text": "He has said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He has said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.catholic.org/ae/celebrity/story.php?id=39731",
-      "sourceTitle": "Mark Wahlberg: 'The first thing I do each day is pray.'",
-      "text": "Being a Catholic is the most important aspect of my life. The first thing I do when I start my day is, I get down on my hands and knees and give thanks to God. Whenever I go outside of my house, the first thing I do is stop at the church."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Being a Catholic is the most important aspect of my life. The first thing I do when I start my day is, I get down on my hands and knees and give thanks to God. Whenever I go outside of my house, the first thing I do is stop at the church.",
+      "sourceTitle": "Mark Wahlberg: 'The first thing I do each day is pray.'",
+      "sourceUrl": "http://www.catholic.org/ae/celebrity/story.php?id=39731"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "What could a millionaire actor have to pray about? Wahlberg says:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.theblaze.com/stories/i-go-to-church-every-day-actor-mark-wahlberg-credits-faith-for-turning-his-life-around/",
-      "sourceTitle": "Mark Wahlberg Discusses Faith, Church, Prayer & More With Piers Morgan",
-      "text": "I pray to be a good servant to God, a father, a husband, a son, a friend, a brother and uncle, a good neighbor, a good leader to those who look up to me and a good follower to those that are serving God and doing the right thing."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I pray to be a good servant to God, a father, a husband, a son, a friend, a brother and uncle, a good neighbor, a good leader to those who look up to me and a good follower to those that are serving God and doing the right thing.",
+      "sourceTitle": "Mark Wahlberg Discusses Faith, Church, Prayer & More With Piers Morgan",
+      "sourceUrl": "http://www.theblaze.com/stories/i-go-to-church-every-day-actor-mark-wahlberg-credits-faith-for-turning-his-life-around/"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "It seems that religion has humbled Wahlberg where many in his position would not feel the need for restraint or humility. Kudos."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Wahlberg knows what it's like to be the underdog–as a young hoodlum on the streets of Boston and as a human in a world governed by apes, where humans were second-class citizens at best. This experience has colored Wahlberg's political views. Look how he gets you with this quote:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thearizonan.com/2012/01/09/political-theatre/",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "My politics are about kids who grew up in places like me. I am concerned with the environment, but I'm a lot more concerned about the environment in the inner city that doesn't have any trees or marshes to save.",
       "sourceTitle": "Political Theater.",
-      "text": "My politics are about kids who grew up in places like me. I am concerned with the environment, but I'm a lot more concerned about the environment in the inner city that doesn't have any trees or marshes to save."
+      "sourceUrl": "http://www.thearizonan.com/2012/01/09/political-theatre/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=_-_NXReiXtU&feature=player_embedded",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Wahlberg backs it up with his charity work, which includes charities for the homeless",
       "sourceTitle": "Mark Wahlberg on How He Helps the Homeless and His New Movie Directed by Seth McFarlane",
-      "text": "Wahlberg backs it up with his charity work, which includes charities for the homeless"
+      "sourceUrl": "http://www.youtube.com/watch?v=_-_NXReiXtU&feature=player_embedded"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/charity/382-the-mark-wahlberg-youth-foundation",
+      "type": "text",
+      "text": "as well as a foundation for helping underprivileged youth.",
+      "parentId": 14,
       "sourceTitle": "The Mark Wahlberg Youth Foundation: Celebrity Supporters",
-      "text": "as well as a foundation for helping underprivileged youth."
+      "sourceUrl": "http://www.looktothestars.org/charity/382-the-mark-wahlberg-youth-foundation"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Mark_Wahlberg.php",
+      "parentId": 15,
+      "type": "text",
+      "text": "But at the end of the day, Wahlberg is a Democrat, having donated all of his campaign contribution money so far to Democratic presidential candidates, including Obama in 2008.",
       "sourceTitle": "Mark Wahlberg's Federal Campaign Contribution Report",
-      "text": "But at the end of the day, Wahlberg is a Democrat, having donated all of his campaign contribution money so far to Democratic presidential candidates, including Obama in 2008."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Mark_Wahlberg.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=9BfzRAt4r7k",
+      "type": "text",
+      "text": "He seems to be a supporter for Obama's 2012 campaign as well.",
+      "parentId": 15,
       "sourceTitle": "Mark Wahlberg Hopes For Obama's Change",
-      "text": "He seems to be a supporter for Obama's 2012 campaign as well."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.youtube.com/watch?v=9BfzRAt4r7k"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Mark_Wahlberg",
     "title": "Mark Wahlberg",
     "image": {
-      "name": "Markwahlbergshpr.jpg",
+      "name": "Mark_Wahlberg_2017.jpg",
       "info": {
-        "canonicaltitle": "File:Markwahlbergshpr.jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Markwahlbergshpr.jpg/219px-Markwahlbergshpr.jpg",
-        "thumbwidth": 219,
+        "canonicaltitle": "File:Mark Wahlberg 2017.jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mark_Wahlberg_2017.jpg/216px-Mark_Wahlberg_2017.jpg",
+        "thumbwidth": 216,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Markwahlbergshpr.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Markwahlbergshpr.jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2210961",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mark_Wahlberg_2017.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mark_Wahlberg_2017.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64776589",
         "extmetadata": {
           "DateTime": {
-            "value": "2008-05-12 10:16:29",
+            "value": "2017-12-12 22:35:00",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "Markwahlbergshpr",
+            "value": "Mark Wahlberg 2017",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -167,7 +221,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "GFDL|Images uploaded by User:Nehrams2020|Items with OTRS permission confirmed|License migration completed|Mark Wahlberg in 2007",
+            "value": "Mark Wahlberg|PD US Marines",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -177,49 +231,39 @@
             "hidden": ""
           },
           "ImageDescription": {
-            "value": "Mark Wahlberg at a <i>Shooter</i> premiere",
+            "value": "A U.S. Marine meets actor and health and fitness entrepreneur, Mark Wahlberg, during a meet and greet for Marine Corps Community Services at the Marine Corps Base Quantico Exchange, Quantico, Va., Nov. 20, 2017. Wahlberg was greeted by hundreds of fans during the event, signing autographs and posing for photos.",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "2007-03-30",
+            "value": "2017-11-20",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://flickr.com/photos/caroline_bonarde/439849328/\">http://flickr.com/photos/caroline_bonarde/439849328/</a>",
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.dvidshub.net/image/3973867/mccs-meet-and-greet-with-mark-wahlberg\">https://www.dvidshub.net/image/3973867/mccs-meet-and-greet-with-mark-wahlberg</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "Caroline Bonarde Ucci at <a rel=\"nofollow\" class=\"external free\" href=\"http://flickr.com/photos/caroline_bonarde/\">http://flickr.com/photos/caroline_bonarde/</a>",
+            "value": "U.S. Marine Corps photo by Kathy Reesey",
             "source": "commons-desc-page"
           },
-          "Permission": {
-            "value": "<p>GNU Free Documentation License, see talk page for author's image permission</p>\n<table class=\"messagebox layouttemplate\" style=\"margin:0.3em 0;width:100%;direction:ltr\"><tr>\n<td width=\"70\">\n<img alt=\"OTRS Wikimedia\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/70px-OTRS_Wikimedia.svg.png\" title=\"OTRS Wikimedia\" width=\"70\" height=\"38\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/105px-OTRS_Wikimedia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/140px-OTRS_Wikimedia.svg.png 2x\" data-file-width=\"120\" data-file-height=\"65\"><p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionOTRS 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2007102110001329 2%3D2007102110001329\"> </span></p>\n</td>\n<td>\n<span lang=\"en\" class=\"description en\">This work is <a href=\"http://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.</span>\n<p><span lang=\"en\" class=\"description en\">Wikimedia has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;\" title=\"transparent\">reviewed</span></b> by an <a href=\"//commons.wikimedia.org/wiki/Category:Commons_OTRS_volunteers\" title=\"Category:Commons OTRS volunteers\">OTRS member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:OTRS\" title=\"Commons:OTRS\">permission archive</a>. The correspondence is available to trusted volunteers <span class=\"plainlinksneverexpand\">as <b><a class=\"external text\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2007102110001329\">ticket #2007102110001329</a></b></span>.</span></p>\n<p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:OTRS/Noticeboard\" title=\"Commons:OTRS/Noticeboard\">OTRS noticeboard</a>.</small><br><small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2007102110001329\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2007102110001329</a></small> <span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2007102110001329\"></span></p>\n</td>\n</tr></table>\n<span class=\"autoconfonly\" id=\"otrstemplatewr\" style=\"display:none;\"></span>",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
           "LicenseShortName": {
-            "value": "CC-BY-SA-3.0",
+            "value": "Public domain",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "UsageTerms": {
-            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "value": "Public domain",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "AttributionRequired": {
-            "value": "true",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "LicenseUrl": {
-            "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+            "value": "false",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Copyrighted": {
-            "value": "True",
+            "value": "False",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -229,7 +273,7 @@
             "hidden": ""
           },
           "License": {
-            "value": "cc-by-sa-3.0",
+            "value": "pd",
             "source": "commons-templates",
             "hidden": ""
           }

@@ -35,93 +35,163 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Quakers",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
+      "text": "Dave Matthews was born and raised (with a few years in the U.S. and Britain) in South Africa. His parents brought him up in a Quaker household,",
       "sourceTitle": "Quakers",
-      "text": "Dave Matthews was born and raised (with a few years in the U.S. and Britain) in South Africa. His parents brought him up in a Quaker household,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Quakers"
     },
     {
-      "type": "sentence",
-      "text": "and the focus on peace and tolerance comes through in Dave's music."
+      "type": "text",
+      "text": "and the focus on peace and tolerance comes through in Dave's music.",
+      "parentId": 1
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "However, Matthews seems to have lost any faith in God and sees humans as an insignificant, temporary phase in Earth's and the Universe's history, saying"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://newsbusters.org/blogs/tim-graham/2007/11/16/rock-star-dave-matthews-god-more-irritating-santa-claus",
-      "sourceTitle": "Rock Star Dave Matthews on God: 'More Irritating Than Santa Claus.'",
-      "text": "The idea that we're somehow centrally important to the planet's existence is pretty comical – although I'd like us to be. I'd like to think that the eyes of some heavenly body are watching us and saying, 'Oh, look at my beautiful children.' But it's absurd. It's just our attempt to be more important than a tree."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "The idea that we're somehow centrally important to the planet's existence is pretty comical – although I'd like us to be. I'd like to think that the eyes of some heavenly body are watching us and saying, 'Oh, look at my beautiful children.' But it's absurd. It's just our attempt to be more important than a tree.",
+      "sourceTitle": "Rock Star Dave Matthews on God: 'More Irritating Than Santa Claus.'",
+      "sourceUrl": "http://newsbusters.org/blogs/tim-graham/2007/11/16/rock-star-dave-matthews-god-more-irritating-santa-claus"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "His real agnostic views and the justification for the use of religious language in his songs come out with quotes like this:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 6
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://newsbusters.org/blogs/tim-graham/2007/11/16/rock-star-dave-matthews-god-more-irritating-santa-claus",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I use the word \"God\" in my songs all the time, because I don't know what the hell is going on. So that's God – everything I don't know. But the idea of God as a fatherly figure who looks down on us and worries about how we're doing or takes sides when we have fights – it's more irritating than Santa Claus. The world and the universe are far more wonderful if there's not a puppet master.",
       "sourceTitle": "Rock Star Dave Matthews on God: 'More Irritating Than Santa Claus.'",
-      "text": "I use the word \"God\" in my songs all the time, because I don't know what the hell is going on. So that's God – everything I don't know. But the idea of God as a fatherly figure who looks down on us and worries about how we're doing or takes sides when we have fights – it's more irritating than Santa Claus. The world and the universe are far more wonderful if there's not a puppet master."
+      "sourceUrl": "http://newsbusters.org/blogs/tim-graham/2007/11/16/rock-star-dave-matthews-god-more-irritating-santa-claus"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Equality, Equality, and More Equality"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Dave's no slouch when it comes to fighting for equal rights. He grew up in apartheid South Africa and, while there, joined rally's and marches against that country's racist institutions. At 42, he hasn't yet lost his inner-revolutionary, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://transcripts.cnn.com/TRANSCRIPTS/0505/14/pitn.01.html",
-      "sourceTitle": "Transcripts",
-      "text": "I guess, in a way, the fertile ground for revolution is oppression, you know? Although it's very ugly, a revolutionary spirit comes out of just the will that we have. It's inside of us all, that will that we have inside. I think it [apartheid] taught me that."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I guess, in a way, the fertile ground for revolution is oppression, you know? Although it's very ugly, a revolutionary spirit comes out of just the will that we have. It's inside of us all, that will that we have inside. I think it [apartheid] taught me that.",
+      "sourceTitle": "Transcripts",
+      "sourceUrl": "http://transcripts.cnn.com/TRANSCRIPTS/0505/14/pitn.01.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Active in politics as an American, Matthews has outwardly supported Barack Obama, even going so far as to film a campaign advertisement, where he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=BEhOpdkHo_g",
-      "sourceTitle": "Dave Matthews for Obama",
-      "text": "I am a real American, I'm a real Virginian and Barack Obama represents all real Virginians."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I am a real American, I'm a real Virginian and Barack Obama represents all real Virginians.",
+      "sourceTitle": "Dave Matthews for Obama",
+      "sourceUrl": "http://www.youtube.com/watch?v=BEhOpdkHo_g"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "One gets the sense that Matthews is truly concerned with equality and would like to see a society where color made no difference. He has criticized the U.S. and Obama critics for their intolerant ways, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://articles.cnn.com/2009-09-21/entertainment/qa.dave.matthews_1_dave-matthews-band-south-africa-groogrux-king?_s=PM:SHOWBIZ",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I found there's a fairly blatant racism in America that's already there, and I don't think I noticed it when I lived here as a kid. But when I went back to South Africa, and then it's sort of thrust in your face, and then came back here — I just see it everywhere. There's a good population of people in this country that are terrified of the president only because he's black, even if they don't say it. And I think a lot of them, behind closed doors, do say it.",
       "sourceTitle": "U.S. racism 'everywhere,' says Dave Matthews",
-      "text": "I found there's a fairly blatant racism in America that's already there, and I don't think I noticed it when I lived here as a kid. But when I went back to South Africa, and then it's sort of thrust in your face, and then came back here — I just see it everywhere. There's a good population of people in this country that are terrified of the president only because he's black, even if they don't say it. And I think a lot of them, behind closed doors, do say it."
+      "sourceUrl": "http://articles.cnn.com/2009-09-21/entertainment/qa.dave.matthews_1_dave-matthews-band-south-africa-groogrux-king?_s=PM:SHOWBIZ"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "All in all, Dave Matthews seems like a pretty decent guy–even if he and his fans always seem stoned out of their minds. (Just look at any picture of him or watch his Obama campaign commercial if you don't believe me.)"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

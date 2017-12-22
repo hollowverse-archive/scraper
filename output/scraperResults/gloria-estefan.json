@@ -32,123 +32,199 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Gloria Estefan was born in Havana, Cuba and grew up in Miami, Florida."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0002065/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Estefan was raised a Catholic and she attended Catholic school growing up.",
       "sourceTitle": "Gloria Estefan – Biography",
-      "text": "Estefan was raised a Catholic and she attended Catholic school growing up."
+      "sourceUrl": "http://www.imdb.com/name/nm0002065/bio"
     },
     {
-      "type": "sentence",
-      "text": "But one gets the sense that she wasn't buying what religion was selling from the beginning. Estefan's father was a political prisoner in Cuba for two years after Fidel Castro's revolution, and it was difficult for her family. Estefan explains her and her mother's coping mechanisms as such:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But one gets the sense that she wasn't buying what religion was selling from the beginning. Estefan's father was a political prisoner in Cuba for two years after Fidel Castro's revolution, and it was difficult for her family. Estefan explains her and her mother's coping mechanisms as such:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://en.wikiquote.org/wiki/Gloria_Estefan",
-      "sourceTitle": "Gloria Estefan",
-      "text": "She had her religion, and I had my music."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "She had her religion, and I had my music.",
+      "sourceTitle": "Gloria Estefan",
+      "sourceUrl": "http://en.wikiquote.org/wiki/Gloria_Estefan"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Estefan's feelings toward the Catholic Church are a bit jaded–or realistic depending on how you look at it:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www2.fiu.edu/~fcf/gloria53198.html",
-      "sourceTitle": "Gloria Estefan – Golden Girl",
-      "text": "I don't know about other religions, but Catholics in general tend to be more irreverent, because some of those rules, they're man-made. And also it's a huge political body, the Catholic Church. That's how it started; it was all political."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I don't know about other religions, but Catholics in general tend to be more irreverent, because some of those rules, they're man-made. And also it's a huge political body, the Catholic Church. That's how it started; it was all political.",
+      "sourceTitle": "Gloria Estefan – Golden Girl",
+      "sourceUrl": "http://www2.fiu.edu/~fcf/gloria53198.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "And though she was the first pop star–and woman–to ever perform for a Pope, she still considers the Catholic Church, and all religion, to be \"dogmatic,\""
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://en.wikiquote.org/wiki/Gloria_Estefan",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Dogma and I don't get along. They knew all that, but the Pope was celebrating 50 years as a priest, and he asked for me.",
       "sourceTitle": "Gloria Estefan",
-      "text": "Dogma and I don't get along. They knew all that, but the Pope was celebrating 50 years as a priest, and he asked for me."
+      "sourceUrl": "http://en.wikiquote.org/wiki/Gloria_Estefan"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www2.fiu.edu/~fcf/gloria53198.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "So what does that make her? I'd say Christian, or internally spiritual in some way. Of her childhood religion, despite opposing the dogmatic nature of it, she still says she believes in \"the spirit and the message.\"",
       "sourceTitle": "Gloria Estefan – Golden Girl",
-      "text": "So what does that make her? I'd say Christian, or internally spiritual in some way. Of her childhood religion, despite opposing the dogmatic nature of it, she still says she believes in \"the spirit and the message.\""
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www2.fiu.edu/~fcf/gloria53198.html"
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Cuba's American Star"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.buzzfeed.com/mjs538/40-celebrities-who-are-republicans",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Estefan is widely cited as a Republican.",
       "sourceTitle": "40 Celebrities Who Are Republicans",
-      "text": "Estefan is widely cited as a Republican."
+      "sourceUrl": "http://www.buzzfeed.com/mjs538/40-celebrities-who-are-republicans"
     },
     {
-      "type": "sentence",
-      "text": "So much so that Estefan felt it necessary to personally set the record straight. She said in 2010:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "So much so that Estefan felt it necessary to personally set the record straight. She said in 2010:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://cnsnews.com/node/67714",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I don't know where they're getting this… I hate boxes, really, quite honestly. I'm not affiliated. People can assume things from things they hear me say, but I am not Republican. I'm not a Democrat. I'm not even an Independent. I'm not affiliated just in case nobody knew.",
       "sourceTitle": "Gloria Estefan: 'I'm Not Affiliated' With Republicans or Democrats",
-      "text": "I don't know where they're getting this… I hate boxes, really, quite honestly. I'm not affiliated. People can assume things from things they hear me say, but I am not Republican. I'm not a Democrat. I'm not even an Independent. I'm not affiliated just in case nobody knew."
+      "sourceUrl": "http://cnsnews.com/node/67714"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikiquote.org/wiki/Gloria_Estefan",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "And she very regularly declines to talk about politics or comment on any potential political content in her music.",
       "sourceTitle": "Gloria Estefan",
-      "text": "And she very regularly declines to talk about politics or comment on any potential political content in her music."
+      "sourceUrl": "http://en.wikiquote.org/wiki/Gloria_Estefan"
     },
     {
-      "type": "sentence",
-      "text": "However, if you get her going on Cuba, look out. She is very anti-Castro and very pro-Cuban embargo. She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "However, if you get her going on Cuba, look out. She is very anti-Castro and very pro-Cuban embargo. She said:",
+      "parentId": 16
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www2.fiu.edu/~fcf/gloria53198.html",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I'm pro-embargo… the only embargo in Cuba is Fidel's embargo against the people.",
       "sourceTitle": "Gloria Estefan – Golden Girl",
-      "text": "I'm pro-embargo… the only embargo in Cuba is Fidel's embargo against the people."
+      "sourceUrl": "http://www2.fiu.edu/~fcf/gloria53198.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www2.fiu.edu/~fcf/gloria53198.html",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Estefan was appointed by President Bush to speak to the United Nations Third Committee on Human Rights about Cuba–and she says she \"had a ball.\"",
       "sourceTitle": "Gloria Estefan – Golden Girl",
-      "text": "Estefan was appointed by President Bush to speak to the United Nations Third Committee on Human Rights about Cuba–and she says she \"had a ball.\""
+      "sourceUrl": "http://www2.fiu.edu/~fcf/gloria53198.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "It's clear that, despite living and working in the U.S. and largely rejecting Catholicism, Estefan's Cuban identity is still a major driving force in her life."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

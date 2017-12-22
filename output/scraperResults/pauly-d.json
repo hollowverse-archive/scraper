@@ -32,111 +32,169 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Pauly D, whose real name is Paul DelVecchio, was born and raised in Providence, Rhode Island."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Pauly D is a Catholic, an Italian-American Catholic. These particular traits, among various others, combine to make what some might call a \"Guido.\" Hey, we didn't say it, Pauly D said it:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.jerseyshorequotes.com/cast/pauly-d_quotes.htm",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I was born and raised a guido. It's just a lifestyle, it's being Italian, it's representing, family, friends, tanning, gel, everything.",
       "sourceTitle": "Pauly D Quotes, DJ Pauly D Delveccio from MTV Jersey Shore, PaulyD",
-      "text": "I was born and raised a guido. It's just a lifestyle, it's being Italian, it's representing, family, friends, tanning, gel, everything."
+      "sourceUrl": "http://www.jerseyshorequotes.com/cast/pauly-d_quotes.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://bustedhalo.com/features/life-at-%E2%80%9Cthe-jersey-shore%E2%80%9D",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "And yes, being a Guido comes with a certain Catholic obligation. Pauly D admitted to being a Catholic during the first season of \"Jersey Shore\"",
       "sourceTitle": "Life at \"The Jersey Shore.\"",
-      "text": "And yes, being a Guido comes with a certain Catholic obligation. Pauly D admitted to being a Catholic during the first season of \"Jersey Shore\""
+      "sourceUrl": "http://bustedhalo.com/features/life-at-%E2%80%9Cthe-jersey-shore%E2%80%9D"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://dailybleach.com/was-jersey-shore-cancelled-for-being-too-heterosexual-and-too-catholic/",
+      "type": "text",
+      "text": "and at least one fan called Catholicism the seventh character on the series.",
+      "parentId": 5,
       "sourceTitle": "Was \"Jersey Shore\" Cancelled for Being Too Heterosexual and Too Catholic?",
-      "text": "and at least one fan called Catholicism the seventh character on the series."
+      "sourceUrl": "http://dailybleach.com/was-jersey-shore-cancelled-for-being-too-heterosexual-and-too-catholic/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://gossipolicious.blogspot.com/2010/09/pauly-d-keeps-it-klassy.html",
+      "parentId": 6,
+      "type": "text",
+      "text": "Pauly D shows it off with cross tattoos",
       "sourceTitle": "Pauly D keeps it Klassy",
-      "text": "Pauly D shows it off with cross tattoos"
+      "sourceUrl": "http://gossipolicious.blogspot.com/2010/09/pauly-d-keeps-it-klassy.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://bustedhalo.com/features/life-at-%E2%80%9Cthe-jersey-shore%E2%80%9D",
+      "type": "text",
+      "text": "and wearing crosses and rosaries",
+      "parentId": 6,
       "sourceTitle": "Life at \"The Jersey Shore.\"",
-      "text": "and wearing crosses and rosaries"
+      "sourceUrl": "http://bustedhalo.com/features/life-at-%E2%80%9Cthe-jersey-shore%E2%80%9D"
     },
     {
-      "type": "sentence",
-      "text": "and no doubt a Hail Mary escaped his lips every now and then during some of the more sticky situations in \"The Jersey Shore.\""
+      "type": "text",
+      "text": "and no doubt a Hail Mary escaped his lips every now and then during some of the more sticky situations in \"The Jersey Shore.\"",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "Is he a good Catholic? A devout Catholic? Only God can judge, as they say. But I was informed by a couple of Catholic Hollowverse readers that sex before marriage is a big no-no in the Catholic religion–and anyone who's watched even two or three episodes of \"The Jersey Shore\" knows Pauly D isn't living up to that particular edict."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Yeaaaaah politics!"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Sadly, Pauly D's political affiliation and/or views either largely don't exist or he's rather quiet about them."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.democratandchronicle.com/usatoday/article/1692277",
+      "parentId": 10,
+      "type": "text",
+      "text": "He was part of a"
+    },
+    {
+      "parentId": 10,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.thewrap.com/media/column-post/lady-gaga-and-pauly-d-want-you-remember-911-video-30744"
+    },
+    {
+      "type": "text",
+      "text": ", along with a few other celebrities, encouraging Americans to not forget the events of September 11, 2001, so you know Pauly D has his patriotic moments. And even though he grew up in Rhode Island, when Hurricane Sandy decimated the New Jersey shoreline, Pauly D stepped in with charity concerts and appeals for help from the rest of America.",
+      "parentId": 10,
       "sourceTitle": "Pauly D Remixes it up for charity.",
-      "text": "He was part of a , along with a few other celebrities, encouraging Americans to not forget the events of September 11, 2001, so you know Pauly D has his patriotic moments. And even though he grew up in Rhode Island, when Hurricane Sandy decimated the New Jersey shoreline, Pauly D stepped in with charity concerts and appeals for help from the rest of America."
+      "sourceUrl": "http://www.democratandchronicle.com/usatoday/article/1692277"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.democratandchronicle.com/usatoday/article/1692277",
+      "type": "text",
+      "text": "He said, \"We all need to help rebuild.\"",
+      "parentId": 10,
       "sourceTitle": "Pauly D Remixes it up for charity.",
-      "text": "He said, \"We all need to help rebuild.\""
+      "sourceUrl": "http://www.democratandchronicle.com/usatoday/article/1692277"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "I don't even know where to begin speculating what Pauly D's political views might be. He's young, Italian-American, rich… what could that mean? He's OK with having gay fans–but just OK. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.okmagazine.com/featured/pauly-d-riffs-sex-tape-gay-issue-turning-30",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "That's fine. We've got all kinds of fans. They range from guys, girls, old people, young people, all nationalities. That's great. The more fans, the better.",
       "sourceTitle": "Pauly D Riffs on Sex Tape, Gay Issue, Turning 30",
-      "text": "That's fine. We've got all kinds of fans. They range from guys, girls, old people, young people, all nationalities. That's great. The more fans, the better."
+      "sourceUrl": "http://www.okmagazine.com/featured/pauly-d-riffs-sex-tape-gay-issue-turning-30"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Sounds good, keep us updated in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

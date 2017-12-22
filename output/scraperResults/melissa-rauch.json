@@ -32,109 +32,186 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Melissa Rauch was born and raised in Marlboro, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Rauch is Jewish, but I couldn't find too many examples of her talking about it–no family history, no word on whether or not she had a Bat Mitzvah or goes to temple. She does seem to have a fascination with Christmas however, a holiday she never celebrated. On at least two occasions, she lamented not having experienced Christmas morning. Once she said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.etonline.com/tv/114514_Melissa_Rauch_talks_Big_Bang_Theory/",
-      "sourceTitle": "A 'Big Bang Theory' Wedding?",
-      "text": "I was waiting on my doorstep for the first script to arrive, like it was Christmas morning! Not that I celebrate, or anything–but if this little Jewish girl knew what Christmas felt like, I'm sure it would be very close."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I was waiting on my doorstep for the first script to arrive, like it was Christmas morning! Not that I celebrate, or anything–but if this little Jewish girl knew what Christmas felt like, I'm sure it would be very close.",
+      "sourceTitle": "A 'Big Bang Theory' Wedding?",
+      "sourceUrl": "http://www.etonline.com/tv/114514_Melissa_Rauch_talks_Big_Bang_Theory/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "There's not much else to go on except a few funny God tweets that don't make her sound all too religious. She mused:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/ReallyRauch/status/276484668684132352",
-      "sourceTitle": "ReallyRauch: I wonder if God is like: \"You …",
-      "text": "I wonder if God is like: \"You were all created in my image. Except you ugly ones…y'all look nothing like me. Not even a little bit.\""
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I wonder if God is like: \"You were all created in my image. Except you ugly ones…y'all look nothing like me. Not even a little bit.\"",
+      "sourceTitle": "ReallyRauch: I wonder if God is like: \"You …",
+      "sourceUrl": "https://twitter.com/ReallyRauch/status/276484668684132352"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "And here's one about Hanukkah:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/ReallyRauch/status/278333615488782336",
-      "sourceTitle": "ReallyRauch: Night 3 of Chanukah & I …",
-      "text": "Night 3 of Chanukah & I still haven't gotten the damn Unicorn I asked for 20 yrs ago. Starting to think this Chanukah Harry guy isn't real."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Night 3 of Chanukah & I still haven't gotten the damn Unicorn I asked for 20 yrs ago. Starting to think this Chanukah Harry guy isn't real.",
+      "sourceTitle": "ReallyRauch: Night 3 of Chanukah & I …",
+      "sourceUrl": "https://twitter.com/ReallyRauch/status/278333615488782336"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "So we might not know exactly how religious she is, but she's definitely representing for the Jews."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "The Big Political Theory, or not"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.talkhumor.com/comedians/interview-with-comedian-melissa-rauch/",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "It seems that Rauch pays attention to politics,",
       "sourceTitle": "Interview with comedian Melissa Rauch.",
-      "text": "It seems that Rauch pays attention to politics,"
+      "sourceUrl": "http://www.talkhumor.com/comedians/interview-with-comedian-melissa-rauch/"
     },
     {
-      "type": "sentence",
-      "text": "I just couldn't figure out exactly how she feels about it. Her  has more jokes than serious discussions about major political topics, and it doesn't look like she's particularly willing to discuss it."
+      "type": "text",
+      "text": "I just couldn't figure out exactly how she feels about it. Her",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "link",
+      "text": "twitter feed",
+      "sourceUrl": "https://twitter.com/ReallyRauch"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewishvirtuallibrary.org/jsource/US-Israel/jewvote.html",
+      "type": "text",
+      "text": "has more jokes than serious discussions about major political topics, and it doesn't look like she's particularly willing to discuss it.",
+      "parentId": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "If we were going to stereotype, we could definitely assume she's liberal. First, she an actress, and that practically makes her a liberal by default. Also, she's Jewish, and American Jews tend to vote for Democrats by huge majorities.",
       "sourceTitle": "Jewish Voting Record: U.S. Presidential Elections (1916-2012).",
-      "text": "If we were going to stereotype, we could definitely assume she's liberal. First, she an actress, and that practically makes her a liberal by default. Also, she's Jewish, and American Jews tend to vote for Democrats by huge majorities."
+      "sourceUrl": "http://www.jewishvirtuallibrary.org/jsource/US-Israel/jewvote.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.city-data.com/county/Monmouth_County-NJ.html",
+      "type": "text",
+      "text": "But then again, she's not from a particularly liberal part of New Jersey,",
+      "parentId": 14,
       "sourceTitle": "Monmouth County, New Jersey detailed profile.",
-      "text": "But then again, she's not from a particularly liberal part of New Jersey,"
+      "sourceUrl": "http://www.city-data.com/county/Monmouth_County-NJ.html"
     },
     {
-      "type": "sentence",
-      "text": "and believe it or not, sometimes people do defy stereotypes."
+      "type": "text",
+      "text": "and believe it or not, sometimes people do defy stereotypes.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://theater.nytimes.com/2005/08/19/theater/reviews/19educ.html?_r=0",
+      "parentId": 15,
+      "type": "text",
+      "text": "Her one-woman play,"
+    },
+    {
+      "parentId": 15,
+      "type": "emphasis",
+      "text": "The Miss Education of Jenna Bush"
+    },
+    {
+      "type": "text",
+      "text": ", that she wrote with her future husband, makes her seem like a liberal. Even though there were some reviews that claimed it was a sympathetic portrait of the former Republican president's daughter, it still makes plenty of jokes at the Bush family's expense.",
+      "parentId": 15,
       "sourceTitle": "The Miss Education of Jenna Bush.",
-      "text": "Her one-woman play, , that she wrote with her future husband, makes her seem like a liberal. Even though there were some reviews that claimed it was a sympathetic portrait of the former Republican president's daughter, it still makes plenty of jokes at the Bush family's expense."
+      "sourceUrl": "http://theater.nytimes.com/2005/08/19/theater/reviews/19educ.html?_r=0"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "So, with only circumstantial evidence, I'd say she's probably liberal. If you disagree, let me know in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -190,7 +267,7 @@
             "hidden": ""
           },
           "Artist": {
-            "value": "<ul>\n<li>Photo by <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/82924988@N05\">Dominick D</a>\n</li>\n<li>Retouched by <a href=\"//commons.wikimedia.org/w/index.php?title=User:Danyele&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Danyele (page does not exist)\">Danyele</a>\n</li>\n</ul>",
+            "value": "<ul>\n<li>Photo by <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/82924988@N05\">Dominick D</a>\n</li>\n<li>Retouched by <a href=\"//commons.wikimedia.org/wiki/User:Danyele\" title=\"User:Danyele\">Danyele</a>\n</li>\n</ul>",
             "source": "commons-desc-page"
           },
           "Permission": {

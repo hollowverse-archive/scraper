@@ -33,70 +33,133 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kevin Durant was born and raised in the Washington D.C. area."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blog.beliefnet.com/inspiringathletes/2011/05/nba-all-star-kevin-durant-on-faith-family-and-fame.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Durant is one of basketball and even professional sports' most devout Christians. Durant attended a Christian school growing up and even now, amidst the fortune and fame, regularly attends church services before games.",
       "sourceTitle": "NBA All-Star Kevin Durant on faith, family and fame",
-      "text": "Durant is one of basketball and even professional sports' most devout Christians. Durant attended a Christian school growing up and even now, amidst the fortune and fame, regularly attends church services before games."
+      "sourceUrl": "http://blog.beliefnet.com/inspiringathletes/2011/05/nba-all-star-kevin-durant-on-faith-family-and-fame.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.deseretnews.com/article/765585800/Oklahoma-City-Thunders-Kevin-Durant-draws-closer-to-God.html",
+      "type": "text",
+      "text": "Durant carries a Bible in a backpack to his post-game interviews, and thanks God for his blessings as a star basketball player–even when he loses.",
+      "parentId": 2,
       "sourceTitle": "Oklahoma City Thunder's Kevin Durant draws closer to God",
-      "text": "Durant carries a Bible in a backpack to his post-game interviews, and thanks God for his blessings as a star basketball player–even when he loses."
+      "sourceUrl": "http://www.deseretnews.com/article/765585800/Oklahoma-City-Thunders-Kevin-Durant-draws-closer-to-God.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Durant credits his faith and humility to his mother and various other spiritual \"coaches\" and says things like:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://blog.beliefnet.com/inspiringathletes/2011/05/nba-all-star-kevin-durant-on-faith-family-and-fame.html",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I've got a long way to go to become closer to the Lord but hopefully I can continue to stay on the path. I might take a few steps forward and take a couple steps back and take some steps forward, but I want to get better.",
       "sourceTitle": "NBA All-Star Kevin Durant on faith, family and fame",
-      "text": "I've got a long way to go to become closer to the Lord but hopefully I can continue to stay on the path. I might take a few steps forward and take a couple steps back and take some steps forward, but I want to get better."
+      "sourceUrl": "http://blog.beliefnet.com/inspiringathletes/2011/05/nba-all-star-kevin-durant-on-faith-family-and-fame.html"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Bro Hug Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Durant isn't too political. Maybe his overwhelming humility prevents him from taking a stand on anything. More often than not, being a hardcore Christian pits people against the socially liberal policies of the left (gay marriage, abortion, etc.), though Durant hasn't said anything about these issues. On the other hand, being a black American almost requires you to support Barack Obama."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "text": "And Durant and Obama sure looked chummy during a White House meeting, where they shared a bro hug. Check out the . Durant said of the meeting:"
+      "parentId": 9,
+      "type": "text",
+      "text": "And Durant and Obama sure looked chummy during a White House"
     },
     {
-      "type": "break"
+      "parentId": 9,
+      "type": "text",
+      "text": "basketball court"
+    },
+    {
+      "type": "text",
+      "text": "meeting, where they shared a bro hug. Check out the",
+      "parentId": 9
+    },
+    {
+      "parentId": 9,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.terezowens.com/obama-and-kevin-durant-hug-like-bros/"
+    },
+    {
+      "type": "text",
+      "text": ". Durant said of the meeting:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.cbssports.com/mcc/blogs/entry/22748484/25695375",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "It was a good feeling to meet the president. Of course I always wanted to do that. Me being from D.C., it was pretty cool to see him. I was excited to get that opportunity. It's something I'm always going to remember.",
       "sourceTitle": "Kevin Durant meets Barack Obama",
-      "text": "It was a good feeling to meet the president. Of course I always wanted to do that. Me being from D.C., it was pretty cool to see him. I was excited to get that opportunity. It's something I'm always going to remember."
+      "sourceUrl": "http://www.cbssports.com/mcc/blogs/entry/22748484/25695375"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Still, that doesn't indicate anything except that Durant doesn't despise Obama for his policies."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

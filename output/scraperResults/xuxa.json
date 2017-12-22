@@ -34,116 +34,165 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Xuxa, whose full name is Maria da Graça Meneghel, was born in Santa Rosa, Brazil and grew up in Rio de Janeiro, Brazil."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/654/000025579/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Xuxa is widely cited as being a Roman Catholic.",
       "sourceTitle": "Xuxa",
-      "text": "Xuxa is widely cited as being a Roman Catholic."
+      "sourceUrl": "http://www.nndb.com/people/654/000025579/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Brazil#Religion",
+      "type": "text",
+      "text": "It's not something she speaks of much, but it rings true as she is Brazilian, where over 64% of residents are Catholic.",
+      "parentId": 2,
       "sourceTitle": "Brazil",
-      "text": "It's not something she speaks of much, but it rings true as she is Brazilian, where over 64% of residents are Catholic."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Brazil#Religion"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://xuxa.globo.com/paginas/index/13/Biography",
+      "type": "text",
+      "text": "We do know that she celebrated Christmas and Easter as a child as well,",
+      "parentId": 2,
       "sourceTitle": "Biography",
-      "text": "We do know that she celebrated Christmas and Easter as a child as well,"
+      "sourceUrl": "http://xuxa.globo.com/paginas/index/13/Biography"
     },
     {
-      "type": "sentence",
-      "text": "so even if it's not Catholic, it's certainly Christian."
+      "type": "text",
+      "text": "so even if it's not Catholic, it's certainly Christian.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Perhaps this celebrity's most famous quote ever (because I find it everywhere on the web) is:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0579430/bio",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "In my house even He has to smile. Kisses Kisses.",
       "sourceTitle": "Xuxa Meneghel – Biography",
-      "text": "In my house even He has to smile. Kisses Kisses."
+      "sourceUrl": "http://www.imdb.com/name/nm0579430/bio"
     },
     {
-      "type": "sentence",
-      "text": "Xaxu was referring to a picture of a smiling Jesus at the time. This, however, requires a bit of interpretation. A smiling Jesus is a bit unorthodox. The only other time I can think of it is in the satirically religious Kevin Smith film, . Does she mean it as a joke on religion? Then again, the \"kisses\" might indicate a deep spiritual love for her smiling Jesus. Let's hear your thoughts in the comments."
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "text",
+      "text": "Xaxu was referring to a picture of a smiling Jesus at the time. This, however, requires a bit of interpretation. A smiling Jesus is a bit unorthodox. The only other time I can think of it is in the satirically religious Kevin Smith film,"
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "Dogma"
+    },
+    {
+      "type": "text",
+      "text": ". Does she mean it as a joke on religion? Then again, the \"kisses\" might indicate a deep spiritual love for her smiling Jesus. Let's hear your thoughts in the comments.",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Politics in common with Marilyn Monroe"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0579430/bio",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "First, and most importantly, Xuxa was romantically linked to American dead president John F. Kennedy, Jr.",
       "sourceTitle": "Xuxa Meneghel – Biography",
-      "text": "First, and most importantly, Xuxa was romantically linked to American dead president John F. Kennedy, Jr."
+      "sourceUrl": "http://www.imdb.com/name/nm0579430/bio"
     },
     {
-      "type": "sentence",
-      "text": "Man, that guy got around!"
+      "type": "text",
+      "text": "Man, that guy got around!",
+      "parentId": 8
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://xuxa.globo.com/paginas/index/13/Biography",
+      "parentId": 9,
+      "type": "text",
+      "text": "Ok, moving on to things of actual importance. Xuxa is the recipient of numerous awards from her home country of Brazil for her activism in that country. In 1987, she was instrumental in a campaign to get Brazil's children vaccinated against polio, which they were, and by 1989, the disease was effectively eradicated from that country. Xuxa received a national medal of honor from Brazilian then-president José Sarney.",
       "sourceTitle": "Biography",
-      "text": "Ok, moving on to things of actual importance. Xuxa is the recipient of numerous awards from her home country of Brazil for her activism in that country. In 1987, she was instrumental in a campaign to get Brazil's children vaccinated against polio, which they were, and by 1989, the disease was effectively eradicated from that country. Xuxa received a national medal of honor from Brazilian then-president José Sarney."
+      "sourceUrl": "http://xuxa.globo.com/paginas/index/13/Biography"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://xuxa.globo.com/paginas/index/13/Biography",
+      "parentId": 10,
+      "type": "text",
+      "text": "In 2007, she again teamed up with the Brazilian government to crack down on corporal punishment in her country in a campaign called Não Bata, Eduque! or Don't smack, educate! for you English speakers.",
       "sourceTitle": "Biography",
-      "text": "In 2007, she again teamed up with the Brazilian government to crack down on corporal punishment in her country in a campaign called Não Bata, Eduque! or Don't smack, educate! for you English speakers."
+      "sourceUrl": "http://xuxa.globo.com/paginas/index/13/Biography"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://xuxa.globo.com/paginas/index/13/Biography",
+      "parentId": 11,
+      "type": "text",
+      "text": "If Xuxa is involved in anything politically controversial (in the U.S. at least) it's her commitment to environmentalism. She was the spokesperson for Brazil in Al Gore's multinational Live Earth event in 2007 and in 2008, and she received the ECO medal of honor for her environmental work.",
       "sourceTitle": "Biography",
-      "text": "If Xuxa is involved in anything politically controversial (in the U.S. at least) it's her commitment to environmentalism. She was the spokesperson for Brazil in Al Gore's multinational Live Earth event in 2007 and in 2008, and she received the ECO medal of honor for her environmental work."
+      "sourceUrl": "http://xuxa.globo.com/paginas/index/13/Biography"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://xuxa.globo.com/paginas/index/13/Biography",
+      "parentId": 12,
+      "type": "text",
+      "text": "Maybe she really likes Al Gore–or they're just in step, because Xuxa has campaigned for internet freedom and responsibility, (another Al Gore cause) in hopes to spare the world wide web from governmental censorship.",
       "sourceTitle": "Biography",
-      "text": "Maybe she really likes Al Gore–or they're just in step, because Xuxa has campaigned for internet freedom and responsibility, (another Al Gore cause) in hopes to spare the world wide web from governmental censorship."
+      "sourceUrl": "http://xuxa.globo.com/paginas/index/13/Biography"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "As you can see, she's quite the active superstar and has successfully proven herself to be much more than a pretty face."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

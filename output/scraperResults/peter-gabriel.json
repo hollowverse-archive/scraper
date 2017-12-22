@@ -35,109 +35,186 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Peter Gabriel was born and raised in Surrey, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.allexperts.com/q/Gabriel-Peter-464/Peter-Gabriel-Religious-Views.htm",
+      "parentId": 2,
+      "type": "text",
+      "text": "Gabriel was raised in the Christian tradition.",
       "sourceTitle": "Gabriel, Peter: Peter Gabriel's Religious Views, dahli lama, last temptation of christ",
-      "text": "Gabriel was raised in the Christian tradition."
+      "sourceUrl": "http://en.allexperts.com/q/Gabriel-Peter-464/Peter-Gabriel-Religious-Views.htm"
     },
     {
-      "type": "sentence",
-      "text": "However, one gets the sense that he's anything but devout–though Christianity still gurgles in his subconscious. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "However, one gets the sense that he's anything but devout–though Christianity still gurgles in his subconscious. He said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.theawayteam.com/RANT/quotes.html",
-      "sourceTitle": "Wall of Quotes",
-      "text": "When I'm thinking of God I'm a Buddhist, when I'm in pain and despair I'm a Christian."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "When I'm thinking of God I'm a Buddhist, when I'm in pain and despair I'm a Christian.",
+      "sourceTitle": "Wall of Quotes",
+      "sourceUrl": "http://www.theawayteam.com/RANT/quotes.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Clearly, Gabriel is interested in Buddhism–and it appears that it appeals to his higher reasoning, but he has also reasoned that religion is a double-edged sword, something that can be either positive or negative. He compared it to music in this way:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "There has always been a strong relationship between music and religion. It is because they both plug directly into the heart and can have real power for good or evil.",
+      "sourceTitle": "Peter Gabriel – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0300272/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Back to Christianity, Gabriel was the subject of controversy for having written the score for Martin Scorsese's film,"
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "The Last Temptation of Christ"
+    },
+    {
+      "type": "text",
+      "text": ". The film drew criticism for not portraying Jesus as a god. But Gabriel wasn't about to apologize, saying:",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0300272/bio",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "If people's faith is so weak that it can be destroyed by a film, then it really isn't much to begin with. I think people may find themselves reviewing their own lives and their own points of view on religion as a result of the film. I'm very proud to have been a part of it.",
       "sourceTitle": "Peter Gabriel – Biography",
-      "text": "There has always been a strong relationship between music and religion. It is because they both plug directly into the heart and can have real power for good or evil."
-    },
-    {
-      "type": "sentence",
-      "text": "Back to Christianity, Gabriel was the subject of controversy for having written the score for Martin Scorsese's film, . The film drew criticism for not portraying Jesus as a god. But Gabriel wasn't about to apologize, saying:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0300272/bio",
-      "sourceTitle": "Peter Gabriel – Biography",
-      "text": "If people's faith is so weak that it can be destroyed by a film, then it really isn't much to begin with. I think people may find themselves reviewing their own lives and their own points of view on religion as a result of the film. I'm very proud to have been a part of it."
+      "sourceUrl": "http://www.imdb.com/name/nm0300272/bio"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Labour and liberalism"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/uk_news/politics/161057.stm",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Gabriel is highly political. In England, he's made the biggest mark as a supporter of the Labour Party. In 1997, he was listed as one of the party's most generous contributors",
       "sourceTitle": "'Luvvies' for Labour",
-      "text": "Gabriel is highly political. In England, he's made the biggest mark as a supporter of the Labour Party. In 1997, he was listed as one of the party's most generous contributors"
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/uk_news/politics/161057.stm"
     },
     {
-      "type": "sentence",
-      "text": "and was a supporter of Tony Blair until he sided with George W. Bush and the Americans on the Iraq War. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and was a supporter of Tony Blair until he sided with George W. Bush and the Americans on the Iraq War. He said:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0300272/bio",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "This is a fundamental issue of life and death and I very much think the Prime Minister is in the wrong. I'm also sure George Bush is an affable bloke but he's highly dangerous and I wish America was in the hands of someone else.",
       "sourceTitle": "Peter Gabriel – Biography",
-      "text": "This is a fundamental issue of life and death and I very much think the Prime Minister is in the wrong. I'm also sure George Bush is an affable bloke but he's highly dangerous and I wish America was in the hands of someone else."
+      "sourceUrl": "http://www.imdb.com/name/nm0300272/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://holymotherchurch.blogspot.com/2010/04/peter-gabriel-wrong-about-abortion.html",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "When it comes to social issues, Gabriel is quite liberal. He's vocally in favor of choice regarding abortion.",
       "sourceTitle": "Peter Gabriel wrong about abortion",
-      "text": "When it comes to social issues, Gabriel is quite liberal. He's vocally in favor of choice regarding abortion."
+      "sourceUrl": "http://holymotherchurch.blogspot.com/2010/04/peter-gabriel-wrong-about-abortion.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/uk_news/politics/vote_2005/england/4497761.stm",
+      "type": "text",
+      "text": "He allowed a candidate of Britain's Green Party to use one of his songs,",
+      "parentId": 16,
       "sourceTitle": "Green candidate sings for votes",
-      "text": "He allowed a candidate of Britain's Green Party to use one of his songs,"
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/uk_news/politics/vote_2005/england/4497761.stm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rollingstone.com/music/news/peter-gabriel-pulls-music-from-rush-limbaugh-show-20120305#ixzz1pQftliJu",
+      "type": "text",
+      "text": "which might not necessarily mean anything except that he got a bit upset when American super-conservative, Rush Limbaugh, used one of his songs on his radio show. Gabriel demanded he stop.",
+      "parentId": 16,
       "sourceTitle": "Peter Gabriel Pulls Music From 'Rush Limbaugh Show.'",
-      "text": "which might not necessarily mean anything except that he got a bit upset when American super-conservative, Rush Limbaugh, used one of his songs on his radio show. Gabriel demanded he stop."
+      "sourceUrl": "http://www.rollingstone.com/music/news/peter-gabriel-pulls-music-from-rush-limbaugh-show-20120305#ixzz1pQftliJu"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.amnesty.org/en/news-and-updates/news/peter-gabriel-ambassador-of-conscience-global-music-human-rights-tour-20080910",
+      "parentId": 17,
+      "type": "text",
+      "text": "Non-controversial, but no less important, is Gabriel's involvement with international organizations like Amnesty International, for which he went on two world tours, among other things, and was ultimately given the organization's highest honor.",
       "sourceTitle": "Peter Gabriel named Ambassador of Conscience at launch of global music and human rights tour",
-      "text": "Non-controversial, but no less important, is Gabriel's involvement with international organizations like Amnesty International, for which he went on two world tours, among other things, and was ultimately given the organization's highest honor."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.amnesty.org/en/news-and-updates/news/peter-gabriel-ambassador-of-conscience-global-music-human-rights-tour-20080910"
     }
   ],
   "wikipediaData": {

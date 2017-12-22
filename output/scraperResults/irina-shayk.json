@@ -32,95 +32,148 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Irina Shayk, whose full name is Irina Shaykhslamokava or Ирина Шайхлисламова if you want to get technical, was born and raised in the small Russian village of Yemanzhelinsk."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thesniper.us/?tag=irina-sheik",
+      "parentId": 2,
+      "type": "text",
+      "text": "Many claim that she is Muslim,",
       "sourceTitle": "Irina Sheik",
-      "text": "Many claim that she is Muslim,"
+      "sourceUrl": "http://www.thesniper.us/?tag=irina-sheik"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nypost.com/p/entertainment/fashion/shayk_rattle_and_roll_FfOgWVfOx3EEnQuHcc307I",
+      "type": "text",
+      "text": "which isn't too far-fetched considering her Tartar heritage.",
+      "parentId": 2,
       "sourceTitle": "Shayk, rattle and roll",
-      "text": "which isn't too far-fetched considering her Tartar heritage."
+      "sourceUrl": "http://www.nypost.com/p/entertainment/fashion/shayk_rattle_and_roll_FfOgWVfOx3EEnQuHcc307I"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Tatar",
+      "type": "text",
+      "text": "The Tartars, an ethnic group in Russia, converted",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "en masse"
+    },
+    {
+      "type": "text",
+      "text": "to Islam in the 8th Century.",
+      "parentId": 2,
       "sourceTitle": "Tatars",
-      "text": "The Tartars, an ethnic group in Russia, converted  to Islam in the 8th Century."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Tatar"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.bobsblitz.com/2011/12/wag-irina-shayk-learns-muslims-like.html",
+      "type": "text",
+      "text": "However, it is unlikely she's devout considering she has never talked about being Muslim and at the Globe Soccer Awards in Dubai, Shayk seemed unaware of Muslims' attitude toward cleavage and legs and boyfriend Cristiano Ronaldo felt it necessary to cover her with his jacket.",
+      "parentId": 2,
       "sourceTitle": "WAG Irina Shayk Learns Muslims Like Their Ladies Covered Up",
-      "text": "However, it is unlikely she's devout considering she has never talked about being Muslim and at the Globe Soccer Awards in Dubai, Shayk seemed unaware of Muslims' attitude toward cleavage and legs and boyfriend Cristiano Ronaldo felt it necessary to cover her with his jacket."
+      "sourceUrl": "http://www.bobsblitz.com/2011/12/wag-irina-shayk-learns-muslims-like.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "She has, however, spoken extensively on her belief in karma and reincarnation, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.nypost.com/p/entertainment/fashion/shayk_rattle_and_roll_FfOgWVfOx3EEnQuHcc307I",
-      "sourceTitle": "Shayk, rattle and roll",
-      "text": "I believe in second life. What's my life gonna be like next time if I'm not gonna have my face then? Russian people are very superstitious. I really believe in karma. If you do something bad, it's gonna come back to you."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I believe in second life. What's my life gonna be like next time if I'm not gonna have my face then? Russian people are very superstitious. I really believe in karma. If you do something bad, it's gonna come back to you.",
+      "sourceTitle": "Shayk, rattle and roll",
+      "sourceUrl": "http://www.nypost.com/p/entertainment/fashion/shayk_rattle_and_roll_FfOgWVfOx3EEnQuHcc307I"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Later in the interview, Shayk expresses a desire to come back as her own dog in her next life. So, despite any Muslim roots or secular Russian socialization, it looks like we might have a fair-weather Buddhist or Hindu on our hands."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "The politics of femininity"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nypost.com/p/entertainment/fashion/shayk_rattle_and_roll_FfOgWVfOx3EEnQuHcc307I",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Shayk doesn't seem to have delved too deep into the world of politics–yet. She has emigrated to New York City, however,",
       "sourceTitle": "Shayk, rattle and roll",
-      "text": "Shayk doesn't seem to have delved too deep into the world of politics–yet. She has emigrated to New York City, however,"
+      "sourceUrl": "http://www.nypost.com/p/entertainment/fashion/shayk_rattle_and_roll_FfOgWVfOx3EEnQuHcc307I"
     },
     {
-      "type": "sentence",
-      "text": "so maybe we'll get a U.S. political endorsement out of her in the future."
+      "type": "text",
+      "text": "so maybe we'll get a U.S. political endorsement out of her in the future.",
+      "parentId": 8
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "She is impressed with the long history of female Russian rulers, indicating a continued interest in her national heritage. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.nypost.com/p/entertainment/fashion/shayk_rattle_and_roll_FfOgWVfOx3EEnQuHcc307I",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Catherine, Anna, Elizabeth. We had women ruling the whole country. Russian women are so strong.",
       "sourceTitle": "Shayk, rattle and roll",
-      "text": "Catherine, Anna, Elizabeth. We had women ruling the whole country. Russian women are so strong."
+      "sourceUrl": "http://www.nypost.com/p/entertainment/fashion/shayk_rattle_and_roll_FfOgWVfOx3EEnQuHcc307I"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "She might be the only Russian who could pose any threat to Vladimir Putin."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

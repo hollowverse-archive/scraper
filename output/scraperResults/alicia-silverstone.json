@@ -33,136 +33,217 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Alicia Silverstone was born in San Francisco, California and grew up in Hillsborough, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Profile_of_Alicia_Silverstone--Daughter_of_Scottish_Mom_and_Jewish_Dad.shtml",
+      "parentId": 2,
+      "type": "text",
+      "text": "Silverstone is Jewish. Her father is an ethnic Jew and her mother converted to Judaism before she married.",
       "sourceTitle": "Profile of Alicia Silverstone",
-      "text": "Silverstone is Jewish. Her father is an ethnic Jew and her mother converted to Judaism before she married."
+      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Profile_of_Alicia_Silverstone--Daughter_of_Scottish_Mom_and_Jewish_Dad.shtml"
     },
     {
-      "type": "sentence",
-      "text": "She had a devout upbringing–one of which she's grateful for. She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She had a devout upbringing–one of which she's grateful for. She said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Profile_of_Alicia_Silverstone--Daughter_of_Scottish_Mom_and_Jewish_Dad.shtml",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I was reared in a traditional Jewish household. We lit candles Friday night and had seders. My brother David and I went to Hebrew school and had our bar mitzvahs. I have wonderful memories of my bat mitzvah.",
       "sourceTitle": "Profile of Alicia Silverstone",
-      "text": "I was reared in a traditional Jewish household. We lit candles Friday night and had seders. My brother David and I went to Hebrew school and had our bar mitzvahs. I have wonderful memories of my bat mitzvah."
+      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Profile_of_Alicia_Silverstone--Daughter_of_Scottish_Mom_and_Jewish_Dad.shtml"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Profile_of_Alicia_Silverstone--Daughter_of_Scottish_Mom_and_Jewish_Dad.shtml",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Silverstone still considers herself a \"proud Jew\",",
       "sourceTitle": "Profile of Alicia Silverstone",
-      "text": "Silverstone still considers herself a \"proud Jew\","
+      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Profile_of_Alicia_Silverstone--Daughter_of_Scottish_Mom_and_Jewish_Dad.shtml"
     },
     {
-      "type": "sentence",
-      "text": "despite some soul searching. She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "despite some soul searching. She said:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Profile_of_Alicia_Silverstone--Daughter_of_Scottish_Mom_and_Jewish_Dad.shtml",
-      "sourceTitle": "Profile of Alicia Silverstone",
-      "text": "Recently I went back to temple to see how I felt about Judaism now that I'm more mature. Judaism turned me into who I am today, and I definitely feel I live a very spiritual life. I got that from my parents."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Recently I went back to temple to see how I felt about Judaism now that I'm more mature. Judaism turned me into who I am today, and I definitely feel I live a very spiritual life. I got that from my parents.",
+      "sourceTitle": "Profile of Alicia Silverstone",
+      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Profile_of_Alicia_Silverstone--Daughter_of_Scottish_Mom_and_Jewish_Dad.shtml"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Now, Silverstone is perhaps more popular for her advocacy of veganism than she is for her work as an actor. She connects that aspect of her life to her faith:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.haaretz.com/jewish-world/2.209/can-going-vegan-make-you-a-better-jew-ask-alicia-silverstone-1.2633",
-      "sourceTitle": "Can going vegan make you a better Jew? Ask Alicia Silverstone",
-      "text": "I'm a foodie. But I knew I had to give meat up to be able to look at myself in the mirror, to know that I'm a good person and a good Jew. How could I continue seeing myself as a person who cares about the world and yet be responsible for suffering?"
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I'm a foodie. But I knew I had to give meat up to be able to look at myself in the mirror, to know that I'm a good person and a good Jew. How could I continue seeing myself as a person who cares about the world and yet be responsible for suffering?",
+      "sourceTitle": "Can going vegan make you a better Jew? Ask Alicia Silverstone",
+      "sourceUrl": "http://www.haaretz.com/jewish-world/2.209/can-going-vegan-make-you-a-better-jew-ask-alicia-silverstone-1.2633"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "I wasn't aware of the Jewish vegan mandate–the shellfish thing, yes; the pork aversion of course; the no dairy and meat at the same time thing, but meat altogether?"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "Maybe 'Greenstone' would be more appropriate"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://features.peta.org/AliciaSilverstoneVeganPSA/",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Silverstone has her political position, alright. Of course, there's the vegan issue, a part of her lifestyle born of protest against animal cruelty. She's even done a PETA PSA nude to bring attention to her vegan cause–it worked I think.",
       "sourceTitle": "Alicia Silverstone's Naked Vegetarian PETA PSA",
-      "text": "Silverstone has her political position, alright. Of course, there's the vegan issue, a part of her lifestyle born of protest against animal cruelty. She's even done a PETA PSA nude to bring attention to her vegan cause–it worked I think."
+      "sourceUrl": "http://features.peta.org/AliciaSilverstoneVeganPSA/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000224/bio",
+      "type": "text",
+      "text": "Interestingly, she refuses to do nude scenes in her films.",
+      "parentId": 13,
       "sourceTitle": "Alicia Silverstone – Biography",
-      "text": "Interestingly, she refuses to do nude scenes in her films."
+      "sourceUrl": "http://www.imdb.com/name/nm0000224/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.haaretz.com/jewish-world/2.209/can-going-vegan-make-you-a-better-jew-ask-alicia-silverstone-1.2633",
+      "parentId": 14,
+      "type": "text",
+      "text": "But that's not all. She's all about the environment. She's pushed the importance of reuse/recycle",
       "sourceTitle": "Can going vegan make you a better Jew? Ask Alicia Silverstone",
-      "text": "But that's not all. She's all about the environment. She's pushed the importance of reuse/recycle"
+      "sourceUrl": "http://www.haaretz.com/jewish-world/2.209/can-going-vegan-make-you-a-better-jew-ask-alicia-silverstone-1.2633"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ecorazzi.com/2007/04/14/alicia-silverstone-has-a-groovy-green-home/",
+      "type": "text",
+      "text": "and she's transformed her Los Angeles home into an enviro-fortress, complete with solar panels, materials recycled from older buildings and energy-saving appliances.",
+      "parentId": 14,
       "sourceTitle": "Alicia Silverstone Has A Groovy Green Home",
-      "text": "and she's transformed her Los Angeles home into an enviro-fortress, complete with solar panels, materials recycled from older buildings and energy-saving appliances."
+      "sourceUrl": "http://www.ecorazzi.com/2007/04/14/alicia-silverstone-has-a-groovy-green-home/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Alicia_Silverstone.php",
+      "parentId": 15,
+      "type": "text",
+      "text": "As you might expect, this all translates to a more liberal/Democrat worldview. In terms of financial contributions, she's given money to both Ohio uber-Democrat Dennis Kucinich and Obama.",
       "sourceTitle": "Alicia Silverstone's Federal Campaign Contribution Report",
-      "text": "As you might expect, this all translates to a more liberal/Democrat worldview. In terms of financial contributions, she's given money to both Ohio uber-Democrat Dennis Kucinich and Obama."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Alicia_Silverstone.php"
     },
     {
-      "type": "sentence",
-      "text": "And in 2012, she tweeted right before election day:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And in 2012, she tweeted right before election day:",
+      "parentId": 15
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/AliciaSilv",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Love my kind lifers! \"Today I voted for Obama. The future of the Supreme Court and a woman's right to choose are at stake.\" #Vote",
       "sourceTitle": "Alicia Silverstone (AliciaSilv) on Twitter.",
-      "text": "Love my kind lifers! \"Today I voted for Obama. The future of the Supreme Court and a woman's right to choose are at stake.\" #Vote"
+      "sourceUrl": "https://twitter.com/AliciaSilv"
     },
     {
-      "type": "sentence",
-      "text": "Plus, her gay rights advocacy borders on hilarious. She did a , making fun of doomsday conservatives who think gay marriage will usher in some sort of apocalypse, called \"The Gaythering Storm.\""
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "break"
+      "parentId": 18,
+      "type": "text",
+      "text": "Plus, her gay rights advocacy borders on hilarious. She did a"
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "link",
+      "text": "mock-PSA",
+      "sourceUrl": "http://www.funnyordie.com/videos/6eddb255b2/a-gaythering-storm"
+    },
+    {
+      "type": "text",
+      "text": ", making fun of doomsday conservatives who think gay marriage will usher in some sort of apocalypse, called \"The Gaythering Storm.\"",
+      "parentId": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "All in all, quite liberal."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -33,104 +33,159 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
-      "sourceUrl": "http://politicalscrapbook.net/2011/02/david-cameron-king-william-iv/",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
+      "text": "David Cameron was born in London, England and grew up in a small town outside of Reading called Peasemore. His family is of old English stock and Cameron can directly trace his lineage to King William IV.",
       "sourceTitle": "Does David Cameron look like his ancestor William IV?",
-      "text": "David Cameron was born in London, England and grew up in a small town outside of Reading called Peasemore. His family is of old English stock and Cameron can directly trace his lineage to King William IV."
+      "sourceUrl": "http://politicalscrapbook.net/2011/02/david-cameron-king-william-iv/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Like most of the British elite, Cameron belongs to the church of England or, he is Anglican/Episcopalian. He is an outspoken Christian, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.dailymail.co.uk/news/article-471083/The-birth-disabled-son-tested-faith-Cameron.html",
-      "sourceTitle": "The birth of disabled son tested my faith: Cameron",
-      "text": "I am a Christian, I go to church, I believe in God, but I do not have a direct line [to God]."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I am a Christian, I go to church, I believe in God, but I do not have a direct line [to God].",
+      "sourceTitle": "The birth of disabled son tested my faith: Cameron",
+      "sourceUrl": "http://www.dailymail.co.uk/news/article-471083/The-birth-disabled-son-tested-faith-Cameron.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "However, it appears that Cameron takes his faith in stride and largely doesn't let it influence his politics. He has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thisislondon.co.uk/news/david-cameron-would-i-sack-george-osborne-yes-absolutely-if-i-have-to-6725380.html",
-      "sourceTitle": "David Cameron: Would I sack George Osbourne? Yes absolutely if I have to",
-      "text": "I've a sort of fairly classic Church of England faith, a faith that grows hotter and colder by moments…. I do think that organized religion can get things wrong but the Church of England and the other churches do play a very important role in society."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I've a sort of fairly classic Church of England faith, a faith that grows hotter and colder by moments…. I do think that organized religion can get things wrong but the Church of England and the other churches do play a very important role in society.",
+      "sourceTitle": "David Cameron: Would I sack George Osbourne? Yes absolutely if I have to",
+      "sourceUrl": "http://www.thisislondon.co.uk/news/david-cameron-would-i-sack-george-osborne-yes-absolutely-if-i-have-to-6725380.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "This would seem to indicate that Cameron really doesn't think religion is all that big of a deal."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "The politics of a Prime Minister"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Like most, if not all (except maybe George W. Bush) long-term and powerful politicians, Cameron's views are wide, varied, and stretch over a long political career where they are forced to adjust to a changing political and social environment."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/politics/2005/dec/07/conservatives.toryleadership20051",
+      "parentId": 11,
+      "type": "text",
+      "text": "Cameron has self-described his politics. He is a conservative, though he considers himself moderate, and as such, he tends to lean more towards both social and fiscal conservatism. His critics condemn him as speaking moderately to get votes when, in actuality, he represents the old England of white, wealthy male supremacy.",
       "sourceTitle": "Jonathan Freedland: Bush was a compassionate conservative too",
-      "text": "Cameron has self-described his politics. He is a conservative, though he considers himself moderate, and as such, he tends to lean more towards both social and fiscal conservatism. His critics condemn him as speaking moderately to get votes when, in actuality, he represents the old England of white, wealthy male supremacy."
+      "sourceUrl": "http://www.guardian.co.uk/politics/2005/dec/07/conservatives.toryleadership20051"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "However, while the Tory Party has, for example, held a hard-line about social integration of its growing Muslim and ethnic population–as has Cameron–he once said, indicating a high level of respect for Britain's ethnic population:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/commentisfree/2007/may/13/comment.communities",
-      "sourceTitle": "David Cameron: What I learnt from my stay with a Muslim family",
-      "text": "Not for the first time, I found myself thinking that it is mainstream Britain which needs to integrate more with the British Asian way of life, not the other way around."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Not for the first time, I found myself thinking that it is mainstream Britain which needs to integrate more with the British Asian way of life, not the other way around.",
+      "sourceTitle": "David Cameron: What I learnt from my stay with a Muslim family",
+      "sourceUrl": "http://www.guardian.co.uk/commentisfree/2007/may/13/comment.communities"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Cameron said this in regard to the fact that Britain's ethnic population has stronger families and lower divorce rates–an interesting fact that holds true in the United States as well and points out a glaring hypocrisy of both America and Britain's white conservative population."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/politics/2006/jul/13/uk.eu",
+      "parentId": 16,
+      "type": "text",
+      "text": "Perhaps Cameron's largest controversial political trait is his stance on the European Union. He is against it–at least against Britain being a part of it. He even formed a group in the European Parliament called European Conservatives and Reformists to voice discontent over the unification of Europe.",
       "sourceTitle": "Cameron to postpone creation of new EU group",
-      "text": "Perhaps Cameron's largest controversial political trait is his stance on the European Union. He is against it–at least against Britain being a part of it. He even formed a group in the European Parliament called European Conservatives and Reformists to voice discontent over the unification of Europe."
+      "sourceUrl": "http://www.guardian.co.uk/politics/2006/jul/13/uk.eu"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/politics/2009/jun/02/david-cameron-alliance-polish-nationalists",
+      "parentId": 17,
+      "type": "text",
+      "text": "The problem was that, in doing so, Cameron associated himself with some of Europe's most rabidly conservative politicians, many of whom consider gays evil, global warming a lie, and immigrants the breakdown of the whole of society.",
       "sourceTitle": "Anti-gay, climate change deniers: meet David Cameron's new friends",
-      "text": "The problem was that, in doing so, Cameron associated himself with some of Europe's most rabidly conservative politicians, many of whom consider gays evil, global warming a lie, and immigrants the breakdown of the whole of society."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.guardian.co.uk/politics/2009/jun/02/david-cameron-alliance-polish-nationalists"
     }
   ],
   "wikipediaData": {

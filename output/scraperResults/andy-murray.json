@@ -30,64 +30,88 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Andy Murray was born in Glasgow, Scotland, and grew up in Dunblane, Scotland."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Murray is not going to open up about how, where, or whether he is religious. He's just not. After he started pointing and gazing up at the sky after winning matches during Wimbledon in 2012, reporters got curious as to whether the tennis star had found religion. This was Murray's response:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/sport/tennis/andymurray/9358020/Wimbledon-2012-Andy-Murrays-secret-celebration.html",
-      "sourceTitle": "Wimbledon 2012: Andy Murray's secret celebration.",
-      "text": "Well it's something for me and the guys that I work with. I don't really want to go into too much detail because I'll end up getting asked about it every single day. . . . Whether it is [about religion] or not, I'm not going to tell anyone."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Well it's something for me and the guys that I work with. I don't really want to go into too much detail because I'll end up getting asked about it every single day. . . . Whether it is [about religion] or not, I'm not going to tell anyone.",
+      "sourceTitle": "Wimbledon 2012: Andy Murray's secret celebration.",
+      "sourceUrl": "http://www.telegraph.co.uk/sport/tennis/andymurray/9358020/Wimbledon-2012-Andy-Murrays-secret-celebration.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "You can speculate all you want, folks, but the man doesn't want to talk about it. So what can you do? Move onto politics I suppose. . ."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.independent.co.uk/sport/tennis/david-cameron-hails-andy-murrays-truly-great-victory-after-scot-wins-us-open-8124766.html",
+      "parentId": 6,
+      "type": "text",
+      "text": "Um, yes. Politics. Let's see. . . well, David Cameron is a fan of his,",
       "sourceTitle": "David Cameron hails Andy Murray's 'truly great victory' after Scot wins US Open.",
-      "text": "Um, yes. Politics. Let's see. . . well, David Cameron is a fan of his,"
+      "sourceUrl": "http://www.independent.co.uk/sport/tennis/david-cameron-hails-andy-murrays-truly-great-victory-after-scot-wins-us-open-8124766.html"
     },
     {
-      "type": "sentence",
-      "text": "but Murray has not told us if that affection is reciprocated."
+      "type": "text",
+      "text": "but Murray has not told us if that affection is reciprocated.",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/commentisfree/2012/aug/14/olympics-scottish-independence",
+      "parentId": 7,
+      "type": "text",
+      "text": "And he comes up in discussions of Scottish independence, especially after the Scotsman proudly held the British flag after his Olympic victory in 2012,",
       "sourceTitle": "So, the Olympics has put out the flame of Scottish independence? Hardly.",
-      "text": "And he comes up in discussions of Scottish independence, especially after the Scotsman proudly held the British flag after his Olympic victory in 2012,"
+      "sourceUrl": "http://www.guardian.co.uk/commentisfree/2012/aug/14/olympics-scottish-independence"
     },
     {
-      "type": "sentence",
-      "text": "but he remains silent on that topic as well."
+      "type": "text",
+      "text": "but he remains silent on that topic as well.",
+      "parentId": 7
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "So, yeah. We've got nothing. I don't expect to hear anything from Murray anytime soon regarding either his politics or his religion, but if he decides to let loose, please keep us updated in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

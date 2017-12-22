@@ -33,98 +33,163 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Diane Kruger, whose given name is Diane Heidkrüger, was born and raised in Algermissen, Germany."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm1208167/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "She was raised a Catholic and attended Catholic school growing up.",
       "sourceTitle": "Diane Kruger – Biography",
-      "text": "She was raised a Catholic and attended Catholic school growing up."
+      "sourceUrl": "http://www.imdb.com/name/nm1208167/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.interviewmagazine.com/film/diane-kruger/#page2",
+      "type": "text",
+      "text": "It sounds like an interesting experience, though one that Kruger describes as fostering feelings of frustration and anger.",
+      "parentId": 2,
       "sourceTitle": "Diane Kruger",
-      "text": "It sounds like an interesting experience, though one that Kruger describes as fostering feelings of frustration and anger."
+      "sourceUrl": "http://www.interviewmagazine.com/film/diane-kruger/#page2"
     },
     {
-      "type": "sentence",
-      "text": "As a Catholic student, Kruger was given the interesting job of professional mourner at Catholic funerals–something that left an impression on her:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "As a Catholic student, Kruger was given the interesting job of professional mourner at Catholic funerals–something that left an impression on her:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.rightcelebrity.com/?p=8205",
-      "sourceTitle": "Diane Kruger: Vogue Germany April 2010",
-      "text": "Between the ages of eight and 12, I was a professional griever. I'm not joking! I went to Catholic school and they would have young girls with a candle stand in front of the coffins. It was the worst job anyone could think of. You would stand there, with people crying and weeping, and walk in front of the coffin. Once they were buried, the priest would come up to you and hand you five Deutschmarks."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Between the ages of eight and 12, I was a professional griever. I'm not joking! I went to Catholic school and they would have young girls with a candle stand in front of the coffins. It was the worst job anyone could think of. You would stand there, with people crying and weeping, and walk in front of the coffin. Once they were buried, the priest would come up to you and hand you five Deutschmarks.",
+      "sourceTitle": "Diane Kruger: Vogue Germany April 2010",
+      "sourceUrl": "http://www.rightcelebrity.com/?p=8205"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "She doesn't speak of her Catholic upbringing highly, and it's no surprise she's no longer religious. The topic came up in conjunction with an interview question about marriage. She said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 6
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.popeater.com/2010/06/15/diane-kruger-allue-photos/",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I'm not religious, so that aspect of it means nothing. And don't get me wrong — I believe in commitment. But out of experience, I know if that goes away, no paper you have signed will keep you around.",
       "sourceTitle": "Diane Kruger Isn't a Fan of Marriage or the Gym",
-      "text": "I'm not religious, so that aspect of it means nothing. And don't get me wrong — I believe in commitment. But out of experience, I know if that goes away, no paper you have signed will keep you around."
+      "sourceUrl": "http://www.popeater.com/2010/06/15/diane-kruger-allue-photos/"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Tri-national politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm1208167/bio",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Kruger is fluent in three languages: German, French and English.",
       "sourceTitle": "Diane Kruger – Biography",
-      "text": "Kruger is fluent in three languages: German, French and English."
+      "sourceUrl": "http://www.imdb.com/name/nm1208167/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://online.wsj.com/article/SB10001424052702303343404577518712094268998.html",
+      "type": "text",
+      "text": "Having gone to drama school and spent her early career modeling in Paris, spending much of her time in the U.S. where the film industry resides,",
+      "parentId": 10,
       "sourceTitle": "Diane Kruger – 20 Odd Questions",
-      "text": "Having gone to drama school and spent her early career modeling in Paris, spending much of her time in the U.S. where the film industry resides,"
+      "sourceUrl": "http://online.wsj.com/article/SB10001424052702303343404577518712094268998.html"
     },
     {
-      "type": "sentence",
-      "text": "and considering she grew up in Germany, Kruger is a truly international person. And she's got opinions on at least Germany and the U.S. Of America, she said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and considering she grew up in Germany, Kruger is a truly international person. And she's got opinions on at least Germany and the U.S. Of America, she said:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://online.wsj.com/article/SB10001424052702303343404577518712094268998.html",
-      "sourceTitle": "Diane Kruger – 20 Odd Questions",
-      "text": "I like America very much. I find Americans to be compassionate people. The country has a \"get-to-it\" attitude that's sometimes lacking in Europe and I find that very empowering."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I like America very much. I find Americans to be compassionate people. The country has a \"get-to-it\" attitude that's sometimes lacking in Europe and I find that very empowering.",
+      "sourceTitle": "Diane Kruger – 20 Odd Questions",
+      "sourceUrl": "http://online.wsj.com/article/SB10001424052702303343404577518712094268998.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "And of German Chancellor, Angela Merkel, Kruger said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://online.wsj.com/article/SB10001424052702303343404577518712094268998.html",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I'm immensely proud of Chancellor Angela Merkel. She's tough—she has to be—but still very much a woman.",
       "sourceTitle": "Diane Kruger – 20 Odd Questions",
-      "text": "I'm immensely proud of Chancellor Angela Merkel. She's tough—she has to be—but still very much a woman."
+      "sourceUrl": "http://online.wsj.com/article/SB10001424052702303343404577518712094268998.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "The quote about Merkel seems to be admiration for her ability to make it in the boys' club of politics, and her comments on America are about the attitude of the people in general. There seems to be no record of Kruger talking about any specific political issue, so she goes into the non-political pile–not that she isn't necessarily political. Let us know in the comments if you know anything."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

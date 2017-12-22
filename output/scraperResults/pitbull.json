@@ -37,99 +37,181 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Pitbull, whose real name is Armando Pérez, was born in and mostly grew up in Miami, Florida."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://web.archive.org/web/20030724130816/http://www.miami.com/mld/miamiherald/news/columnists/liz_balmaseda/5135581.htm",
+      "parentId": 2,
+      "type": "text",
+      "text": "With Cuban parents,",
       "sourceTitle": "A new breed.",
-      "text": "With Cuban parents,"
+      "sourceUrl": "http://web.archive.org/web/20030724130816/http://www.miami.com/mld/miamiherald/news/columnists/liz_balmaseda/5135581.htm"
     },
     {
-      "type": "sentence",
-      "text": "it seems likely that he grew up in a Catholic home, but Pitbull sure doesn't sound like a Catholic these days. In his song, \"Pearly Gates\" which obviously contains a lot of Christian imagery, he says,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "it seems likely that he grew up in a Catholic home, but Pitbull sure doesn't sound like a Catholic these days. In his song, \"Pearly Gates\" which obviously contains a lot of Christian imagery, he says,",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.metrolyrics.com/pearly-gates-lyrics-pitbull.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I don't believe in religion, I believe in god, and baby you my heaven.",
       "sourceTitle": "Pitbull – Pearly Gates Lyrics.",
-      "text": "I don't believe in religion, I believe in god, and baby you my heaven."
+      "sourceUrl": "http://www.metrolyrics.com/pearly-gates-lyrics-pitbull.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/articles/A9488-2004Jul23.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Well there you have it. If we're to believe his lyrics, he's not religious, but he still believes in God. And his belief in God doesn't seem to be in passing either. He tattooed the words \"God's Angel\" above his mother's birth date on his left arm.",
       "sourceTitle": "Hustling to the Beat.",
-      "text": "Well there you have it. If we're to believe his lyrics, he's not religious, but he still believes in God. And his belief in God doesn't seem to be in passing either. He tattooed the words \"God's Angel\" above his mother's birth date on his left arm."
+      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/articles/A9488-2004Jul23.html"
     },
     {
-      "type": "sentence",
-      "text": "And he said his mother taught him this classic phrase during rough times in his childhood, and he still lives by it today:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And he said his mother taught him this classic phrase during rough times in his childhood, and he still lives by it today:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.caller.com/news/2009/oct/15/rapper-pitbulls-mom-knows-best/",
-      "sourceTitle": "Rapper Pitbull's mom knows best.",
-      "text": "Don't worry about it, where God closes a door to open a window."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Don't worry about it, where God closes a door to open a window.",
+      "sourceTitle": "Rapper Pitbull's mom knows best.",
+      "sourceUrl": "http://www.caller.com/news/2009/oct/15/rapper-pitbulls-mom-knows-best/"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "So I guess we can't exactly call Pitbull religious. I think spiritual is a better fit for this rapper."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "From Castro to Obama and Arizona in between"
     },
     {
-      "type": "sentence",
-      "text": "Pitbull's political side was born in Cuba with his grandmother. She started out as a Castro supporter during the Cuban revolution. But then, during , amid rumors that Castro would be taking young children away from their parents and placing them in Soviet military camps, she sent her kids off to the U.S. Now Pitbull, the first generation Cuban American, says he won't set foot in his parents' home country:"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "break"
+      "parentId": 10,
+      "type": "text",
+      "text": "Pitbull's political side was born in Cuba with his grandmother. She started out as a Castro supporter during the Cuban revolution. But then, during"
+    },
+    {
+      "parentId": 10,
+      "type": "link",
+      "text": "Operation Peter Pan",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Operation_Peter_Pan"
+    },
+    {
+      "type": "text",
+      "text": ", amid rumors that Castro would be taking young children away from their parents and placing them in Soviet military camps, she sent her kids off to the U.S. Now Pitbull, the first generation Cuban American, says he won't set foot in his parents' home country:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/music/2011/aug/25/pitbull-planet-pit-rap",
-      "sourceTitle": "Pitbull: 'I would be hypocritical to perform there.'",
-      "text": "I won't perform in Cuba until there's no more Castro and there's a free Cuba. To me, Cuba's the biggest prison in the world, and I would be very hypocritical were I to perform there. The people in Cuba, they know what I stand for, and there's a lot of people in Cuba that stand for the same. But they can't say it."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I won't perform in Cuba until there's no more Castro and there's a free Cuba. To me, Cuba's the biggest prison in the world, and I would be very hypocritical were I to perform there. The people in Cuba, they know what I stand for, and there's a lot of people in Cuba that stand for the same. But they can't say it.",
+      "sourceTitle": "Pitbull: 'I would be hypocritical to perform there.'",
+      "sourceUrl": "http://www.guardian.co.uk/music/2011/aug/25/pitbull-planet-pit-rap"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "And as far as domestic politics go, it's immigration reform that concerns the rapper the most. And he sides with the Democrats. About Arizona's Senate Bill 1070, which forced authorities to check the immigration status of anyone they suspect could be illegal, he said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/music/2011/aug/25/pitbull-planet-pit-rap",
-      "sourceTitle": "Pitbull: 'I would be hypocritical to perform there.'",
-      "text": "The United States was built by immigrants, so it's very sad. . . . I don't agree when the USA, that lives by a constitution, says, OK, just because you look this way, we're going to ask you for your documentation, or you gotta go back to your country. The Arizona law is like we took 10 steps back."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "The United States was built by immigrants, so it's very sad. . . . I don't agree when the USA, that lives by a constitution, says, OK, just because you look this way, we're going to ask you for your documentation, or you gotta go back to your country. The Arizona law is like we took 10 steps back.",
+      "sourceTitle": "Pitbull: 'I would be hypocritical to perform there.'",
+      "sourceUrl": "http://www.guardian.co.uk/music/2011/aug/25/pitbull-planet-pit-rap"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Pitbull was also an outspoken supporter of President Obama during both the 2008 and 2012 elections. He said about the president,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 17
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://allhiphop.com/2008/09/26/pitbull-cuba-libre/",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I'm definitely a fan of Barack Obama. I think he's young, sharp, motivational, inspirational. He makes you want to be American again; he makes you proud to be American.",
       "sourceTitle": "Pitbull: Cuba Libre.",
-      "text": "I'm definitely a fan of Barack Obama. I think he's young, sharp, motivational, inspirational. He makes you want to be American again; he makes you proud to be American."
+      "sourceUrl": "http://allhiphop.com/2008/09/26/pitbull-cuba-libre/"
     }
   ],
   "wikipediaData": {

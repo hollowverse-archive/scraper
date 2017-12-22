@@ -31,105 +31,158 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kaká, whose full name is Ricardo Izecson dos Santos Leite, was born Brasilia, Brazil and grew up there and in São Paulo, Brazil."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ricardo-kaka.com/information_profile.php",
+      "parentId": 2,
+      "type": "text",
+      "text": "To say Kaká is religious would be a grave understatement. His life revolves around God and Jesus and spreading the \"good word.\" I mean, he's said his favorite book is the Bible and his favorite music is gospel.",
       "sourceTitle": "Ricardo Kaka Profile",
-      "text": "To say Kaká is religious would be a grave understatement. His life revolves around God and Jesus and spreading the \"good word.\" I mean, he's said his favorite book is the Bible and his favorite music is gospel."
+      "sourceUrl": "http://www.ricardo-kaka.com/information_profile.php"
     },
     {
-      "type": "sentence",
-      "text": "But that's just the beginning."
+      "type": "text",
+      "text": "But that's just the beginning.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2004/12/01/sports/01iht-soccer_ed3_.html?_r=1",
+      "parentId": 3,
+      "type": "text",
+      "text": "Kaká first really got into religion after a near-paralyzing swimming pool accident, from which he made a full recovery. Ever since the incident, he has fully given his life to God.",
       "sourceTitle": "Soccer: Kaka able to see beyond dollar signs",
-      "text": "Kaká first really got into religion after a near-paralyzing swimming pool accident, from which he made a full recovery. Ever since the incident, he has fully given his life to God."
+      "sourceUrl": "http://www.nytimes.com/2004/12/01/sports/01iht-soccer_ed3_.html?_r=1"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/southamerica/brazil/4286613/Seven-dead-and-dozens-injured-after-Kakas-church-collapses-during-service.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "As a young man, Kaká joined the now-controversial Reborn in Christ Evangelical Church. The organization has come under fire for fraudulent practices and building church roofs that collapse on people.",
       "sourceTitle": "Seven dead and dozens injured after \"Kaka's Church\" collapses during service",
-      "text": "As a young man, Kaká joined the now-controversial Reborn in Christ Evangelical Church. The organization has come under fire for fraudulent practices and building church roofs that collapse on people."
+      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/southamerica/brazil/4286613/Seven-dead-and-dozens-injured-after-Kakas-church-collapses-during-service.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chacha.com/topic/kaka",
+      "type": "text",
+      "text": "But that hasn't stopped Kaká from giving 10% of his considerable earnings to the church.",
+      "parentId": 4,
       "sourceTitle": "Kaka Questions, Answers, News, Images and Info",
-      "text": "But that hasn't stopped Kaká from giving 10% of his considerable earnings to the church."
+      "sourceUrl": "http://www.chacha.com/topic/kaka"
     },
     {
-      "type": "sentence",
-      "text": "Nor has it stopped him from outwardly expressing his faith every chance he gets."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Nor has it stopped him from outwardly expressing his faith every chance he gets.",
+      "parentId": 4
     },
     {
       "type": "heading",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "God in Football"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://cultureofsoccer.com/2007/04/12/kaka-soccers-most-famous-evangelical/",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "After every goal, Kaká raises his eyes and hands to thank God,",
       "sourceTitle": "Kaká: Soccer's Most Famous Evangelical",
-      "text": "After every goal, Kaká raises his eyes and hands to thank God,"
+      "sourceUrl": "http://cultureofsoccer.com/2007/04/12/kaka-soccers-most-famous-evangelical/"
     },
     {
-      "type": "sentence",
-      "text": "and he thanks God for his talents, regularly saying things like:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and he thanks God for his talents, regularly saying things like:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://news.bbc.co.uk/sport2/hi/football/7121175.stm",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "The Bible says God can give you more than you even ask for and that is what has happened in my life.",
       "sourceTitle": "Kaka wins Fifa world player crown",
-      "text": "The Bible says God can give you more than you even ask for and that is what has happened in my life."
+      "sourceUrl": "http://news.bbc.co.uk/sport2/hi/football/7121175.stm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mirrorfootball.co.uk/opinion/blogs/mirror-football-blog/The-Top-10-most-religious-footballers-starring-Manchester-United-Javier-Hernandez-Kaka-Carlos-Roa-and-er-David-Icke-article665667.html",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Perhaps his most famous statement was when his team, AC Milan, won a championship game and Kaká tore off his soccer jersey to reveal a t-shirt that read: \"I Belong to Jesus.\"",
       "sourceTitle": "The Top 10 most religious footballers",
-      "text": "Perhaps his most famous statement was when his team, AC Milan, won a championship game and Kaká tore off his soccer jersey to reveal a t-shirt that read: \"I Belong to Jesus.\""
+      "sourceUrl": "http://www.mirrorfootball.co.uk/opinion/blogs/mirror-football-blog/The-Top-10-most-religious-footballers-starring-Manchester-United-Javier-Hernandez-Kaka-Carlos-Roa-and-er-David-Icke-article665667.html"
     },
     {
-      "type": "sentence",
-      "text": "He can be more eloquent than that and as an Evangelical Christian, he feels the need to convert non-followers. He once said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He can be more eloquent than that and as an Evangelical Christian, he feels the need to convert non-followers. He once said:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://cultureofsoccer.com/2007/04/12/kaka-soccers-most-famous-evangelical/",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "To those who already have Jesus: you have made the best choice and are in the best team. Go ahead. Do not give up. The fight is great, but we can only win being on Jesus' side. To those who have not yet surrendered their lives to Jesus: What are you doing being outside of this team?! Come to learn the Word of God, come to know who God really is.",
       "sourceTitle": "Kaká: Soccer's Most Famous Evangelical",
-      "text": "To those who already have Jesus: you have made the best choice and are in the best team. Go ahead. Do not give up. The fight is great, but we can only win being on Jesus' side. To those who have not yet surrendered their lives to Jesus: What are you doing being outside of this team?! Come to learn the Word of God, come to know who God really is."
+      "sourceUrl": "http://cultureofsoccer.com/2007/04/12/kaka-soccers-most-famous-evangelical/"
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "type": "heading",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Speculative politics of the highly religious"
     },
     {
-      "type": "sentence",
-      "text": "Kaká hasn't weighed in on political issues. As a rule, most football players don't. But we can make conjectures based on his religiosity. He's probably conservative. Those whose favorite book is the Bible usually are."
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "break"
+      "parentId": 14,
+      "type": "text",
+      "text": "Kaká hasn't weighed in on political issues. As a rule, most football players don't. But we can make conjectures based on his religiosity. He's probably conservative. Those whose favorite book is the Bible usually are."
     }
   ],
   "wikipediaData": {

@@ -35,98 +35,156 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000664/bio",
+      "parentId": 1,
+      "type": "text",
+      "text": "Patrick Swayze was born and raised in Houston, Texas. He died in 2009 of pancreatic cancer."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Swayze was raised a Catholic and went to a Catholic school as a youngster.",
       "sourceTitle": "Patrick Swayze – Biography",
-      "text": "Swayze was raised a Catholic and went to a Catholic school as a youngster."
+      "sourceUrl": "http://www.imdb.com/name/nm0000664/bio"
     },
     {
-      "type": "sentence",
-      "text": "And throughout his life, he remained a man of faith. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And throughout his life, he remained a man of faith. He said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000664/bio",
-      "sourceTitle": "Patrick Swayze – Biography",
-      "text": "I have a great deal of faith in faith; if you believe something strongly enough, it becomes true for you… I don't believe that just flesh and bones can contain from the point of view of physics this very real recorded energy inside of us. Whether it's true or not, we need to believe it."
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-527009/Hollywood-rallies-Patrick-Swayze-vows-continue-work-cancer-battle.html",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I have a great deal of faith in faith; if you believe something strongly enough, it becomes true for you… I don't believe that just flesh and bones can contain from the point of view of physics this very real recorded energy inside of us. Whether it's true or not, we need to believe it.",
+      "sourceTitle": "Patrick Swayze – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0000664/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "But it wasn't just Catholicism. Swayze was a student of religion–studying Eastern faiths, Scientology and even had an interest in New Age/Eastern/Occult belief systems, such as the healing power of crystals.",
       "sourceTitle": "Hollywood rallies around Patrick Swayze as he vows to continue work during his cancer battle",
-      "text": "But it wasn't just Catholicism. Swayze was a student of religion–studying Eastern faiths, Scientology and even had an interest in New Age/Eastern/Occult belief systems, such as the healing power of crystals."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-527009/Hollywood-rallies-Patrick-Swayze-vows-continue-work-cancer-battle.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pulse.co.uk/music/artist/patrick-swayze/bio/",
+      "type": "text",
+      "text": "This study, he said, was in response to fear of his own alcoholism.",
+      "parentId": 5,
       "sourceTitle": "Patrick Swayze – Biography",
-      "text": "This study, he said, was in response to fear of his own alcoholism."
+      "sourceUrl": "http://www.pulse.co.uk/music/artist/patrick-swayze/bio/"
     },
     {
-      "type": "sentence",
-      "text": "But we're not sure in which faith–if any–he landed."
+      "type": "text",
+      "text": "But we're not sure in which faith–if any–he landed.",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "He was profoundly worried about how society approached faith and religion though, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000664/bio",
-      "sourceTitle": "Patrick Swayze – Biography",
-      "text": "We've devalued everything worth believing in. Now we're tearing into religion. A line should be drawn."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "We've devalued everything worth believing in. Now we're tearing into religion. A line should be drawn.",
+      "sourceTitle": "Patrick Swayze – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0000664/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "But where was that line for Swayze? Perhaps it was just about a higher power for him, something greater than himself. Still, we're left wondering what his ultimate beliefs were."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Politics of a ghost"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pulse.co.uk/music/artist/patrick-swayze/bio/",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Swayze, despite lifelong fame, managed to keep his political preferences and ideas out of the limelight. Being a Texas boy, one might assume he's a Republican. But he did speak of feeling a bit out of place in Texas, at least when it came to investigating fringe religions and getting help for his alcohol abuse.",
       "sourceTitle": "Patrick Swayze – Biography",
-      "text": "Swayze, despite lifelong fame, managed to keep his political preferences and ideas out of the limelight. Being a Texas boy, one might assume he's a Republican. But he did speak of feeling a bit out of place in Texas, at least when it came to investigating fringe religions and getting help for his alcohol abuse."
+      "sourceUrl": "http://www.pulse.co.uk/music/artist/patrick-swayze/bio/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "When he was in the midst of battling cancer, Swayze did appeal to the U.S. Congress with a formal, open letter, asking for more funding for cancer research. He wrote:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.etonline.com/news/70630_Patrick_Swayze_s_Cancer_Plea_to_Congress/index.html",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "My message to our senators and representatives is simple: Vote for the maximum funding to let the National Institutes of Health fight cancer and other life-threatening illnesses. It's not only good for our nation's health; it's also good for our economic well-being.",
       "sourceTitle": "Patrick Swayze's Cancer Plea to Congress",
-      "text": "My message to our senators and representatives is simple: Vote for the maximum funding to let the National Institutes of Health fight cancer and other life-threatening illnesses. It's not only good for our nation's health; it's also good for our economic well-being."
+      "sourceUrl": "http://www.etonline.com/news/70630_Patrick_Swayze_s_Cancer_Plea_to_Congress/index.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "But that's certainly not–or shouldn't be–a partisan issue. If there's something about Swayze's political beliefs that I'm missing, let me know in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -34,163 +34,255 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Tom Selleck was born in Detroit, Michigan and grew up in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Tom_Selleck#Personal_life",
+      "parentId": 2,
+      "type": "text",
+      "text": "Selleck doesn't appear to be religious, and according to Wikipedia, he once said that he is \"not particularly religious.\"",
       "sourceTitle": "Tom Selleck",
-      "text": "Selleck doesn't appear to be religious, and according to Wikipedia, he once said that he is \"not particularly religious.\""
+      "sourceUrl": "http://en.wikipedia.org/wiki/Tom_Selleck#Personal_life"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/677/000023608/",
+      "type": "text",
+      "text": "Various biographies of Selleck claim that he is a member of the Disciples of Christ Church,",
+      "parentId": 2,
       "sourceTitle": "Tom Selleck",
-      "text": "Various biographies of Selleck claim that he is a member of the Disciples of Christ Church,"
+      "sourceUrl": "http://www.nndb.com/people/677/000023608/"
     },
     {
-      "type": "sentence",
-      "text": "a relatively small Protestant-derived Christian denomination."
+      "type": "text",
+      "text": "a relatively small Protestant-derived Christian denomination.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Whatever the case may be, Selleck has managed to keep his faith largely out of the media."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 4
     },
     {
-      "type": "heading",
+      "parentId": 4,
+      "type": "text",
       "text": "The full political spectrum"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Whatever Selleck lacks in the religious category, he certainly makes up for it politically."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "Selleck has run the gamut of political ideologies in his lifetime from Democrat to Independent to Republican to Reform to Libertarian."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000633/bio",
+      "parentId": 7,
+      "type": "text",
+      "text": "In 1992, Selleck donated to the Democratic presidential campaign of Paul Tsongas",
       "sourceTitle": "Tom Selleck – Biography",
-      "text": "In 1992, Selleck donated to the Democratic presidential campaign of Paul Tsongas"
+      "sourceUrl": "http://www.imdb.com/name/nm0000633/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Tom_Selleck.php",
+      "type": "text",
+      "text": "and in 1999, Selleck donated $1,000 to Democratic presidential candidate Bill Bradley.",
+      "parentId": 7,
       "sourceTitle": "Tom Selleck's Federal Campaign Contribution Report",
-      "text": "and in 1999, Selleck donated $1,000 to Democratic presidential candidate Bill Bradley."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Tom_Selleck.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Tom_Selleck.php",
+      "type": "text",
+      "text": "But the bulk of Selleck's financial political contributions have been to Republicans including George W. Bush in 2004 and John McCain in 2008.",
+      "parentId": 7,
       "sourceTitle": "Tom Selleck's Federal Campaign Contribution Report",
-      "text": "But the bulk of Selleck's financial political contributions have been to Republicans including George W. Bush in 2004 and John McCain in 2008."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Tom_Selleck.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.whosdatedwho.com/tpx_37/tom-selleck/styles",
+      "parentId": 8,
+      "type": "text",
+      "text": "In fact, in 2008, Selleck officially endorsed Republican presidential hopeful John McCain",
       "sourceTitle": "Tom Selleck Styles",
-      "text": "In fact, in 2008, Selleck officially endorsed Republican presidential hopeful John McCain"
+      "sourceUrl": "http://www.whosdatedwho.com/tpx_37/tom-selleck/styles"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.buzzfeed.com/mjs538/40-celebrities-who-are-republicans",
+      "type": "text",
+      "text": "and he is listed among celebrity registered Republicans.",
+      "parentId": 8,
       "sourceTitle": "40 Celebrities Who Are Republicans",
-      "text": "and he is listed among celebrity registered Republicans."
+      "sourceUrl": "http://www.buzzfeed.com/mjs538/40-celebrities-who-are-republicans"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000633/bio",
+      "parentId": 9,
+      "type": "text",
+      "text": "However, others, including friends of Selleck",
       "sourceTitle": "Tom Selleck – Biography",
-      "text": "However, others, including friends of Selleck"
+      "sourceUrl": "http://www.imdb.com/name/nm0000633/bio"
     },
     {
-      "type": "sentence",
-      "text": "dispute this, claiming that Selleck is actually a registered Independent. This usually indicates someone with their own, non-derivative political opinions–and this is certainly the case with Selleck."
+      "type": "text",
+      "text": "dispute this, claiming that Selleck is actually a registered Independent. This usually indicates someone with their own, non-derivative political opinions–and this is certainly the case with Selleck.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "Selleck might have gone most of his career dodging political and religious labels, but in 2000, he showed his hand during an interview with the Chicago Tribune, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.libertarianism.com/pop_celebrity/28",
-      "sourceTitle": "Tom Selleck",
-      "text": "I prefer libertarian. I'm a registered independent with a lot of libertarian leanings [but] I think we should have stoplights, fire departments, and [a] strategic missile defense."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I prefer libertarian. I'm a registered independent with a lot of libertarian leanings [but] I think we should have stoplights, fire departments, and [a] strategic missile defense.",
+      "sourceTitle": "Tom Selleck",
+      "sourceUrl": "http://www.libertarianism.com/pop_celebrity/28"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Selleck is also a long-time member of the National Rifle Association and has taken some flak for this. On the Rosie O'Donnell show, Selleck unexpectedly found himself the target of O'Donnell's liberal agenda and put in a position where O'Donnell clearly wanted him to defend legal gun ownership. Selleck, though, in classic libertarian fashion, said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=qtkgoGY4Cm4",
-      "sourceTitle": "Tom Selleck on The Rosie O'Donnell Show",
-      "text": "We all agree we need to solve social problems. My leanings tend toward individualist solutions."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "We all agree we need to solve social problems. My leanings tend toward individualist solutions.",
+      "sourceTitle": "Tom Selleck on The Rosie O'Donnell Show",
+      "sourceUrl": "http://www.youtube.com/watch?v=qtkgoGY4Cm4"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Beyond that, Selleck has asserted the libertarian viewpoint, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.libertarianism.com/pop_celebrity/28",
-      "sourceTitle": "Tom Selleck",
-      "text": "The 20th century has been a collectivist century. We've had this global experiment, and we're starting to see the end of the chain letter. I say let's try new things. It's just time to reassess things and say that maybe this idea of the common good has to be translated through the individual."
+      "id": 17
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "The 20th century has been a collectivist century. We've had this global experiment, and we're starting to see the end of the chain letter. I say let's try new things. It's just time to reassess things and say that maybe this idea of the common good has to be translated through the individual.",
+      "sourceTitle": "Tom Selleck",
+      "sourceUrl": "http://www.libertarianism.com/pop_celebrity/28"
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "And regarding anti-smoking legislation, Selleck said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.libertarianism.com/pop_celebrity/28",
+      "id": 20
+    },
+    {
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "Solutions to problems in a free society are messy. There are no magic bullets, no bumper-sticker solutions. If we want an authoritarian state, we can continue to do the kind of stuff we're doing now about smoking.",
       "sourceTitle": "Tom Selleck",
-      "text": "Solutions to problems in a free society are messy. There are no magic bullets, no bumper-sticker solutions. If we want an authoritarian state, we can continue to do the kind of stuff we're doing now about smoking."
+      "sourceUrl": "http://www.libertarianism.com/pop_celebrity/28"
     },
     {
-      "type": "sentence",
-      "text": "All of this certainly points to the fact that Selleck is a good actor, having convincingly played the guardian of law and order so many times, most notably in  and"
+      "type": "paragraph",
+      "id": 22
     },
     {
-      "type": "break"
+      "parentId": 22,
+      "type": "text",
+      "text": "All of this certainly points to the fact that Selleck is a good actor, having convincingly played the guardian of law and order so many times, most notably in"
+    },
+    {
+      "parentId": 22,
+      "type": "emphasis",
+      "text": "Blue Bloods"
+    },
+    {
+      "type": "text",
+      "text": "and",
+      "parentId": 22
+    },
+    {
+      "parentId": 22,
+      "type": "emphasis",
+      "text": "Magnum P.I."
     }
   ],
   "wikipediaData": {

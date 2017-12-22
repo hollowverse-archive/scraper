@@ -37,166 +37,256 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Taylor Swift was born in Reading, Pennsylvania and grew up on a Christmas tree farm in Wyomissing, Pennsylvania. She moved to Nashville, Tennessee at the age of 14."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Swift doesn't talk much about religion, and even actively avoids it. She wrote a message to fans on a forum on her website:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.taylorswift.com/forum/new/730692",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Just wanted to remind you guys that let's try to avoid topics and conversations that lean towards political or religious topics. In the end, someone will inevitably get offended and this just isn't the place for that.",
       "sourceTitle": "Forums",
-      "text": "Just wanted to remind you guys that let's try to avoid topics and conversations that lean towards political or religious topics. In the end, someone will inevitably get offended and this just isn't the place for that."
+      "sourceUrl": "http://www.taylorswift.com/forum/new/730692"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.aaronacademy.com/aafaith.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "But she definitely has a Christian background. She enrolled in the Aaron Academy's homeschooling service, which has a strong Christian ethos,",
       "sourceTitle": "We Believe…",
-      "text": "But she definitely has a Christian background. She enrolled in the Aaron Academy's homeschooling service, which has a strong Christian ethos,"
+      "sourceUrl": "http://www.aaronacademy.com/aafaith.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/346/000159866/",
+      "type": "text",
+      "text": "for her final two years of high school.",
+      "parentId": 5,
       "sourceTitle": "Taylor Swift.",
-      "text": "for her final two years of high school."
+      "sourceUrl": "http://www.nndb.com/people/346/000159866/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ministers-best-friend.com/CHRISTIPEDIA-tm--TAYLOR-SWIFT--Gives-Big-to-Christian-Schools.html",
+      "type": "text",
+      "text": "She has given $250,000 to Christian schools around the country.",
+      "parentId": 5,
       "sourceTitle": "Taylor Swift, a Country Music Superstar",
-      "text": "She has given $250,000 to Christian schools around the country."
+      "sourceUrl": "http://www.ministers-best-friend.com/CHRISTIPEDIA-tm--TAYLOR-SWIFT--Gives-Big-to-Christian-Schools.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theaustralian.com.au/arts/swift-rise-of-the-anti-diva/story-e6frg8n6-1111119032411",
+      "type": "text",
+      "text": "And she has recalled watching her grandmother sing at church when she was a young girl.",
+      "parentId": 5,
       "sourceTitle": "Swift rise of the anti-diva.",
-      "text": "And she has recalled watching her grandmother sing at church when she was a young girl."
+      "sourceUrl": "http://www.theaustralian.com.au/arts/swift-rise-of-the-anti-diva/story-e6frg8n6-1111119032411"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianpost.com/news/taylor-swift-may-have-had-to-fight-label-for-christian-band-50496/",
+      "parentId": 6,
+      "type": "text",
+      "text": "Swift also stood up to her record label execs to get Christian band Need to Breathe to go on tour with her,",
       "sourceTitle": "Taylor Swift May Have Had to Fight Label for Christian Band",
-      "text": "Swift also stood up to her record label execs to get Christian band Need to Breathe to go on tour with her,"
+      "sourceUrl": "http://www.christianpost.com/news/taylor-swift-may-have-had-to-fight-label-for-christian-band-50496/"
     },
     {
-      "type": "sentence",
-      "text": "and has written and performed many songs referring to God. The lyrics for her single \"Our Song,\" for example, contain a prayer reference:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and has written and performed many songs referring to God. The lyrics for her single \"Our Song,\" for example, contain a prayer reference:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.metrolyrics.com/our-song-lyrics-taylor-swift.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "And when I got home, before I said amen/ I asked God if He could play it again.",
       "sourceTitle": "Taylor Swift – Our Song Lyrics.",
-      "text": "And when I got home, before I said amen/ I asked God if He could play it again."
+      "sourceUrl": "http://www.metrolyrics.com/our-song-lyrics-taylor-swift.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://global.christianpost.com/news/taylor-swift-and-tim-tebow-meet-up-for-dinner-date-70578/",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Oh, and here's a big clue. She went on a date once with hyper-Christian football player, Tim Tebow.",
       "sourceTitle": "Taylor Swift and Tim Tebow Meet Up for Dinner Date",
-      "text": "Oh, and here's a big clue. She went on a date once with hyper-Christian football player, Tim Tebow."
+      "sourceUrl": "http://global.christianpost.com/news/taylor-swift-and-tim-tebow-meet-up-for-dinner-date-70578/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.yardbarker.com/backyard/articles/pop_star_taylor_swift_sides_with_notre_dame/3171826",
+      "parentId": 10,
+      "type": "text",
+      "text": "It is highly speculated that Swift is Catholic, but not confirmed. Her younger brother is a student at the University of Notre Dame, a Catholic research university,",
       "sourceTitle": "Pop star Taylor Swift sides with Notre Dame.",
-      "text": "It is highly speculated that Swift is Catholic, but not confirmed. Her younger brother is a student at the University of Notre Dame, a Catholic research university,"
+      "sourceUrl": "http://www.yardbarker.com/backyard/articles/pop_star_taylor_swift_sides_with_notre_dame/3171826"
     },
     {
-      "type": "sentence",
-      "text": "if that's any help. But regardless, she certainly has the approval of Christian parents around the U.S. and even high-ranking Catholic officials have sung her praises. The Archbishop of the Archdiocese of Minneapolis-St. Paul wrote of her:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "if that's any help. But regardless, she certainly has the approval of Christian parents around the U.S. and even high-ranking Catholic officials have sung her praises. The Archbishop of the Archdiocese of Minneapolis-St. Paul wrote of her:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://thecatholicspirit.com/that-they-may-all-be-one/bringing-a-musical-role-model-to-my-attention/",
-      "sourceTitle": "Bringing a musical role model to my attention",
-      "text": "It is refreshing to find a popular, musical role model who is focused on friends, friendship and family values."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "It is refreshing to find a popular, musical role model who is focused on friends, friendship and family values.",
+      "sourceTitle": "Bringing a musical role model to my attention",
+      "sourceUrl": "http://thecatholicspirit.com/that-they-may-all-be-one/bringing-a-musical-role-model-to-my-attention/"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Oh yes, she's squeaky clean–so far."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 14
     },
     {
-      "type": "heading",
+      "parentId": 14,
+      "type": "text",
       "text": "The politics of Swift"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thecelebritycafe.com/feature/2012/10/top-10-celebrity-supporters-republican-party",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Swift is a bit of a contradiction. At first she certainly seems like a Republican. She performed at the Republican National Convention in 2008,",
       "sourceTitle": "Top 10 Celebrity Supporters of the Republican Party.",
-      "text": "Swift is a bit of a contradiction. At first she certainly seems like a Republican. She performed at the Republican National Convention in 2008,"
+      "sourceUrl": "http://thecelebritycafe.com/feature/2012/10/top-10-celebrity-supporters-republican-party"
     },
     {
-      "type": "sentence",
-      "text": "and she once apparently wrote on her MySpace page,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and she once apparently wrote on her MySpace page,",
+      "parentId": 15
     },
     {
       "type": "quote",
-      "sourceUrl": "http://thecelebritycafe.com/feature/2012/10/top-10-celebrity-supporters-republican-party",
-      "sourceTitle": "Top 10 Celebrity Supporters of the Republican Party.",
-      "text": "Republicans do it better."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Republicans do it better.",
+      "sourceTitle": "Top 10 Celebrity Supporters of the Republican Party.",
+      "sourceUrl": "http://thecelebritycafe.com/feature/2012/10/top-10-celebrity-supporters-republican-party"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "But then, in one interview, she conceded that she supports Obama. Referring to the 2008 election, the first one in which she was old enough to vote, she said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.rollingstone.com/music/news/the-very-pink-very-perfect-life-of-taylor-swift-20090305",
+      "id": 19
+    },
+    {
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "I've never seen this country so happy about a political decision in my entire time of being alive. I'm so glad this was my first election.",
       "sourceTitle": "The Very Pink, Very Perfect Life of Taylor Swift.",
-      "text": "I've never seen this country so happy about a political decision in my entire time of being alive. I'm so glad this was my first election."
+      "sourceUrl": "http://www.rollingstone.com/music/news/the-very-pink-very-perfect-life-of-taylor-swift-20090305"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.contactmusic.com/news/swift-stunned-by-stevie-wonders-obama-speech_1120701",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "Swift has also said her heart was \"racing\" as she listened to Stevie Wonder make a speech on the evening that Obama was elected.",
       "sourceTitle": "Swift Stunned By Stevie Wonder's Obama Speech.",
-      "text": "Swift has also said her heart was \"racing\" as she listened to Stevie Wonder make a speech on the evening that Obama was elected."
+      "sourceUrl": "http://www.contactmusic.com/news/swift-stunned-by-stevie-wonders-obama-speech_1120701"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tasteofcountry.com/taylor-swift-michelle-obama/",
+      "type": "text",
+      "text": "And she described Michelle Obama as a \"role model.\"",
+      "parentId": 21,
       "sourceTitle": "Taylor Swift Reflects on Meeting First Lady Michelle Obama.",
-      "text": "And she described Michelle Obama as a \"role model.\""
+      "sourceUrl": "http://tasteofcountry.com/taylor-swift-michelle-obama/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 22
     },
     {
-      "type": "sentence",
+      "parentId": 22,
+      "type": "text",
       "text": "Even though she prefers not to talk about politics so as not to offend her fans, she can't seem to escape it. Maybe she put on a show of being Republican because she didn't want to turn away her predominantly Republican country music fanbase. Or maybe she really likes Obama, but not his politics. Any opinions? Let us know in the comments."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 23
     },
     {
-      "type": "break"
+      "parentId": 23,
+      "type": "emphasis",
+      "text": "The article was written by Tom Kershaw and Lily Freeman."
     }
   ],
   "wikipediaData": {

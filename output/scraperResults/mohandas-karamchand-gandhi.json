@@ -33,105 +33,155 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Mohandas Karamchand Gandhi, better known as Mahatma Gandhi or even just Gandhi, was born and raised in Porbandar, in what was then British India. He died by an assassin's bullet in 1948."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://jainismus.hubpages.com/hub/Gandhi-and-Jainism",
+      "parentId": 2,
+      "type": "text",
+      "text": "Gandhi's was a Hindu by birth, but his initial religious influence came from his mother, who was very interested in Jainism. Before Gandhi left for law school in London, his mother made him take Jain vows to avoid eating meat, to not drink alcohol, and to not touch a woman.",
       "sourceTitle": "Mahatma Gandhi and Jainism",
-      "text": "Gandhi's was a Hindu by birth, but his initial religious influence came from his mother, who was very interested in Jainism. Before Gandhi left for law school in London, his mother made him take Jain vows to avoid eating meat, to not drink alcohol, and to not touch a woman."
+      "sourceUrl": "http://jainismus.hubpages.com/hub/Gandhi-and-Jainism"
     },
     {
-      "type": "sentence",
-      "text": "Perhaps most importantly, the Jainist stance on strict non-violence seems to have been a rather large influence on Gandhi, to say the least."
+      "type": "text",
+      "text": "Perhaps most importantly, the Jainist stance on strict non-violence seems to have been a rather large influence on Gandhi, to say the least.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://hinduismbeliefs.blogspot.com/2009/02/philosophy-of-gandhi-and-hinduism.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Gandhi was a Hindu and proclaimed himself as such.",
       "sourceTitle": "The Philosophy of Gandhi and Hinduism",
-      "text": "Gandhi was a Hindu and proclaimed himself as such."
+      "sourceUrl": "http://hinduismbeliefs.blogspot.com/2009/02/philosophy-of-gandhi-and-hinduism.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://adaniel.tripod.com/mahatma.htm",
+      "type": "text",
+      "text": "But perhaps Gandhi's most impressive achievement (aside from facilitating a successful non-violent revolution) was his ability to unite disparate religions in the name of freedom and justice. Gandhi even convinced India's Muslims to unite with Hindus, Jains, and Buddhists (briefly) in non-violent protests against the British Empire in India.",
+      "parentId": 3,
       "sourceTitle": "Mahatma Gandhi",
-      "text": "But perhaps Gandhi's most impressive achievement (aside from facilitating a successful non-violent revolution) was his ability to unite disparate religions in the name of freedom and justice. Gandhi even convinced India's Muslims to unite with Hindus, Jains, and Buddhists (briefly) in non-violent protests against the British Empire in India."
+      "sourceUrl": "http://adaniel.tripod.com/mahatma.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "In the end, Gandhi's was sort of a war against Christians, something the other religions could get behind. He didn't really like Christians as it was the religion of the oppressive British in colonial India. Gandhi said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/mahatma_gandhi.html",
-      "sourceTitle": "Mahatma Gandhi Quotes",
-      "text": "I like your Christ, I do not like your Christians. Your Christians are so unlike your Christ."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I like your Christ, I do not like your Christians. Your Christians are so unlike your Christ.",
+      "sourceTitle": "Mahatma Gandhi Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/mahatma_gandhi.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Gandhi didn't want religion to be some pie-in-the-sky, arcane institution. He could probably be considered meta-religious given his ability to use religious teachings. And that's what it was all about for him:usefulness. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/mahatma_gandhi.html",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "A religion that takes no account of practical affairs and does not help to solve them is no religion.",
       "sourceTitle": "Mahatma Gandhi Quotes",
-      "text": "A religion that takes no account of practical affairs and does not help to solve them is no religion."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/mahatma_gandhi.html"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Politics of the gentle revolutionary"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Gandhi was a career politician, with a long and interesting career. And like many politicians (in America and Muslim countries), his religious views drove his policies. But Gandhi was truly different. He was an unfailing idealist and used religion to unite and create rather than divide and destroy."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://saharanvibe.blogspot.com/2007/07/gandhis-and-africa-that-changed-him-and.html",
+      "parentId": 13,
+      "type": "text",
+      "text": "Ultimately, his politics were about equality. Gandhi was deeply affected by poor treatment he received as a brown person in the white man's world–particularly in South Africa and in his home country of India, both colonies of the British Empire at the time.",
       "sourceTitle": "Gandhi and the Africa That Changed Him and Made Him the Man He Later Came to Be",
-      "text": "Ultimately, his politics were about equality. Gandhi was deeply affected by poor treatment he received as a brown person in the white man's world–particularly in South Africa and in his home country of India, both colonies of the British Empire at the time."
+      "sourceUrl": "http://saharanvibe.blogspot.com/2007/07/gandhis-and-africa-that-changed-him-and.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mkgandhi.org/biography/campaign.htm",
+      "type": "text",
+      "text": "And though the tradition still persists in India, Gandhi attempted to emancipate the lowest caste in Indian society, the untouchables, from their inherited fate of near-slaves to the rest of India.",
+      "parentId": 13,
       "sourceTitle": "Campaign Against Untouchability.",
-      "text": "And though the tradition still persists in India, Gandhi attempted to emancipate the lowest caste in Indian society, the untouchables, from their inherited fate of near-slaves to the rest of India."
+      "sourceUrl": "http://www.mkgandhi.org/biography/campaign.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "His struggle, combined with his religious/ethical stance that violence was never the answer, enabled him to lead India to independence and created the most populous democracy in world history. In the summer of 1947, less than six months before he was assassinated, Gandhi saw his vision come to fruition when the British Empire relinquished political control of India and divided it into two countries–India and Pakistan. It was a member of a group opposing the division of India that killed Gandhi."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "Gandhi serves as a beacon for those craving radical social change. He not only inspires us to realize that it can be done, but he inspires us to realize that it can be done peacefully."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -33,128 +33,201 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Paul Ryan was born and raised in Janesville, Wisconsin."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtonpost.com/national/on-faith/paul-ryan-joe-biden-a-tale-of-two-catholics/2012/08/15/87ccdf6a-e719-11e1-9739-eef99c5fb285_story.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Ryan is a devout Catholic and he still regularly attends St. John Vianney Catholic Church in Janesville (when he's not in D.C. or on the campaign trail), where he was an altar boy as a youth.",
       "sourceTitle": "Paul Ryan, Joe Biden: A Tale of Two Catholics",
-      "text": "Ryan is a devout Catholic and he still regularly attends St. John Vianney Catholic Church in Janesville (when he's not in D.C. or on the campaign trail), where he was an altar boy as a youth."
+      "sourceUrl": "http://www.washingtonpost.com/national/on-faith/paul-ryan-joe-biden-a-tale-of-two-catholics/2012/08/15/87ccdf6a-e719-11e1-9739-eef99c5fb285_story.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Catholicism seems to totally inform Ryan's worldview and, most notably, his political stances (which we will address shortly). He once said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://projects.pewforum.org/rp2012/paul-ryan/",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "A person's faith is central to how they conduct themselves in public and in private.",
       "sourceTitle": "Rep Paul Ryan's Religious Biography",
-      "text": "A person's faith is central to how they conduct themselves in public and in private."
+      "sourceUrl": "http://projects.pewforum.org/rp2012/paul-ryan/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=DTxXUufI3jA",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Ryan uses his religion and his adherence to it like political currency, often inserting it to widen the perceived divide between him and (what some view as) the more secular Democrats with which he sees himself as diametrically opposed. Responding to an Obama gaffe in which the president lamented that small-town Americans \"cling to guns and religion,\"",
       "sourceTitle": "Barack Obama's small town guns and religion comments",
-      "text": "Ryan uses his religion and his adherence to it like political currency, often inserting it to widen the perceived divide between him and (what some view as) the more secular Democrats with which he sees himself as diametrically opposed. Responding to an Obama gaffe in which the president lamented that small-town Americans \"cling to guns and religion,\""
+      "sourceUrl": "http://www.youtube.com/watch?v=DTxXUufI3jA"
     },
     {
-      "type": "sentence",
-      "text": "Ryan said at a campaign event:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Ryan said at a campaign event:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.politico.com/news/stories/0812/79965.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Hey, I'm a Catholic deer hunter. I am happy to be clinging to my guns and my religion.",
       "sourceTitle": "Paul Ryan: I'm 'happy' to be clinging to guns and religion",
-      "text": "Hey, I'm a Catholic deer hunter. I am happy to be clinging to my guns and my religion."
+      "sourceUrl": "http://www.politico.com/news/stories/0812/79965.html"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Church and state"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theatlanticwire.com/politics/2012/04/audio-surfaces-paul-ryans-effusive-love-ayn-rand/51711/",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Ryan is a conservative Republican, a Tea Party darling whose political philosophy is centered around Ayn Rand's objectivism. Ryan is so enamored with Rand that he requires all of his staffers and aides to read her book,"
+    },
+    {
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "Atlas Shrugged"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 11,
       "sourceTitle": "Audio Surfaces of Paul Ryan's Effusive Love of Ayn Rand",
-      "text": "Ryan is a conservative Republican, a Tea Party darling whose political philosophy is centered around Ayn Rand's objectivism. Ryan is so enamored with Rand that he requires all of his staffers and aides to read her book, ."
+      "sourceUrl": "http://www.theatlanticwire.com/politics/2012/04/audio-surfaces-paul-ryans-effusive-love-ayn-rand/51711/"
     },
     {
-      "type": "sentence",
-      "text": "He once said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He once said:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://projects.pewforum.org/rp2012/paul-ryan/",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "[T]he reason I got involved in public service, by and large, if I had to credit one thinker, one person, it would be Ayn Rand.",
       "sourceTitle": "Rep Paul Ryan's Religious Biography",
-      "text": "[T]he reason I got involved in public service, by and large, if I had to credit one thinker, one person, it would be Ayn Rand."
+      "sourceUrl": "http://projects.pewforum.org/rp2012/paul-ryan/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://projects.pewforum.org/rp2012/paul-ryan/",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "However much Ryan likes Rand's sociopolitical philosophy, he's understandably not a big fan of her atheism and also cites Catholic thinkers like Thomas Aquinas as an influence.",
       "sourceTitle": "Rep Paul Ryan's Religious Biography",
-      "text": "However much Ryan likes Rand's sociopolitical philosophy, he's understandably not a big fan of her atheism and also cites Catholic thinkers like Thomas Aquinas as an influence."
+      "sourceUrl": "http://projects.pewforum.org/rp2012/paul-ryan/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://projects.pewforum.org/rp2012/paul-ryan/",
+      "parentId": 15,
+      "type": "text",
+      "text": "Furthermore, Catholicism has molded the bulk of Ryan's social stances. He's staunchly anti-abortion and anti-gay marriage.",
       "sourceTitle": "Rep Paul Ryan's Religious Biography",
-      "text": "Furthermore, Catholicism has molded the bulk of Ryan's social stances. He's staunchly anti-abortion and anti-gay marriage."
+      "sourceUrl": "http://projects.pewforum.org/rp2012/paul-ryan/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thedailybeast.com/articles/2012/08/11/paul-ryan-s-extreme-abortion-views.html",
+      "type": "text",
+      "text": "Ryan is so unshakeable in his views on abortion that during his 1998 campaign for Congress, he advocated criminal prosecution against women who had had them.",
+      "parentId": 15,
       "sourceTitle": "Paul Ryan's Extreme Abortion Views",
-      "text": "Ryan is so unshakeable in his views on abortion that during his 1998 campaign for Congress, he advocated criminal prosecution against women who had had them."
+      "sourceUrl": "http://www.thedailybeast.com/articles/2012/08/11/paul-ryan-s-extreme-abortion-views.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Perhaps (other then being the 2012 vice-presidential Republican nominee) Ryan is most famous for his financial/economic political policies. He is widely known as a fiscal hawk who attempts to block government spending whenever possible (something consistent with his adherence to the Rand worldview). And as chairman of the House Budget Committee, Ryan was in a unique position to do just that."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2011/03/17/paul-ryan-government-shutdown_n_837031.html",
+      "parentId": 17,
+      "type": "text",
+      "text": "In 2011, a deadlock over the U.S. federal budget–spearheaded by Ryan–threatened to effectively shut down the U.S. government in the name of fiscal responsibility",
       "sourceTitle": "Paul Ryan: Government Shutdown 'Sounds Worse Then It Probably Is.'",
-      "text": "In 2011, a deadlock over the U.S. federal budget–spearheaded by Ryan–threatened to effectively shut down the U.S. government in the name of fiscal responsibility"
+      "sourceUrl": "http://www.huffingtonpost.com/2011/03/17/paul-ryan-government-shutdown_n_837031.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.deathandtaxesmag.com/187913/fox-news-calls-paul-ryan-a-liar/",
+      "type": "text",
+      "text": "and resulted in a credit downgrade of the U.S. economy. Even conservative-leaning network Fox News was unhappy about Ryan's attempt to pawn the downgrade off on Obama.",
+      "parentId": 17,
       "sourceTitle": "Fox News calls Paul Ryan a liar",
-      "text": "and resulted in a credit downgrade of the U.S. economy. Even conservative-leaning network Fox News was unhappy about Ryan's attempt to pawn the downgrade off on Obama."
+      "sourceUrl": "http://www.deathandtaxesmag.com/187913/fox-news-calls-paul-ryan-a-liar/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "As a U.S. congressman for more than a decade, there is much more to Ryan's politics then this article can do justice. However, the overall themes can be illuminated and Ryan is clearly a quintessential religious conservative."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -187,7 +260,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Extracted images|Images from the Speaker of the House|Paul Ryan in 2017",
+            "value": "Extracted images|Images from the Speaker of the House|Images with extracted images|Paul Ryan in 2017",
             "source": "commons-categories",
             "hidden": ""
           },

@@ -36,104 +36,158 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Rowan Atkinson was born and raised in Newcastle-Upon-Tyne, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/leedsatheistsoc/status/203273160349585408",
+      "parentId": 2,
+      "type": "text",
+      "text": "Atkinson was raised Anglican/Episcopalian, the standard British religion. This must have had a profound effect on Atkinson as he has played Vicars and clergymen countless times in his career. His religious characters are always ridiculous, overly-pious caricatures.",
       "sourceTitle": "Leedsatheistsoc: Rowan Atkinson in \"We are not amused",
-      "text": "Atkinson was raised Anglican/Episcopalian, the standard British religion. This must have had a profound effect on Atkinson as he has played Vicars and clergymen countless times in his career. His religious characters are always ridiculous, overly-pious caricatures."
+      "sourceUrl": "https://twitter.com/leedsatheistsoc/status/203273160349585408"
     },
     {
-      "type": "sentence",
-      "text": "Atkinson used to think it was all is good fun, until he spent some time with the Anglican clergy. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Atkinson used to think it was all is good fun, until he spent some time with the Anglican clergy. He said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/news/uknews/8786968/Rowan-Atkinson-Church-of-England-clerics-are-smug-and-arrogant.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "So many of the clerics that I've met, particularly the Church of England clerics, are people of such extraordinary smugness and arrogance and conceitedness who are extraordinarily presumptuous about the significance of their position in society.",
       "sourceTitle": "Rowan Atkinson: Church of England clerics are 'smug and arrogant.'",
-      "text": "So many of the clerics that I've met, particularly the Church of England clerics, are people of such extraordinary smugness and arrogance and conceitedness who are extraordinarily presumptuous about the significance of their position in society."
+      "sourceUrl": "http://www.telegraph.co.uk/news/uknews/8786968/Rowan-Atkinson-Church-of-England-clerics-are-smug-and-arrogant.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=OAag8mgdexk",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "While unconfirmed, many speculate, and it seems reasonable to think, that Atkinson is an atheist. Not only do his characters and sketches suggest it,",
       "sourceTitle": "Rowan Atkinson On God",
-      "text": "While unconfirmed, many speculate, and it seems reasonable to think, that Atkinson is an atheist. Not only do his characters and sketches suggest it,"
+      "sourceUrl": "http://www.youtube.com/watch?v=OAag8mgdexk"
     },
     {
-      "type": "sentence",
-      "text": "but Atkinson led a gang of British celebrities to the English Parliament to protest a law that made it illegal to criticize or disparage a religion, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but Atkinson led a gang of British celebrities to the English Parliament to protest a law that made it illegal to criticize or disparage a religion, saying:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://lolgod.blogspot.com/2012/02/rowan-atkinson-militant-atheist.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "What is wrong with inciting intense dislike of a religion of the activities or teaching of that religion are so outrageous, irrational or abusive of human rights that they deserve to be intensely disliked?",
       "sourceTitle": "Rowan Atkinson, the militant atheist",
-      "text": "What is wrong with inciting intense dislike of a religion of the activities or teaching of that religion are so outrageous, irrational or abusive of human rights that they deserve to be intensely disliked?"
+      "sourceUrl": "http://lolgod.blogspot.com/2012/02/rowan-atkinson-militant-atheist.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/news/newstopics/profiles/3536315/Will-Rowan-Atkinsons-latest-Fagin-leave-us-crying-out-for-more.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Plus, Atkinson is good friends with British atheist and intellectual Stephen Fry, who was the best man at his wedding.",
       "sourceTitle": "Will Rowan Atkinson's latest Fagin leave us crying out for more?",
-      "text": "Plus, Atkinson is good friends with British atheist and intellectual Stephen Fry, who was the best man at his wedding."
+      "sourceUrl": "http://www.telegraph.co.uk/news/newstopics/profiles/3536315/Will-Rowan-Atkinsons-latest-Fagin-leave-us-crying-out-for-more.html"
     },
     {
-      "type": "sentence",
-      "text": "You probably don't run with that crowd if you're not an atheist."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "You probably don't run with that crowd if you're not an atheist.",
+      "parentId": 8
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Mr Bean goes to London"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Atkinson might be designated a libertarian. His opinions on free speech have put him at odds with Britain's politically correct political party, the Labour Party, on more than one occasion."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "Atkinson has twice spoken against proposed laws that would limit free speech in the UK. The first one, previously mentioned, sought to prohibit any disparaging remarks against religion. Atkinson, Stephen Fry, and various other British celebrities marched on Parliament to stop it. Atkinson said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000100/bio",
-      "sourceTitle": "Rowan Atkinson – Biography.",
-      "text": "To criticize a person for their race is manifestly irrational and ridiculous, but to criticize their religion, that is a right. That is a freedom. The freedom to criticize ideas, any ideas – even if they are sincerely held beliefs – is one of the fundamental freedoms of society."
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pinknews.co.uk/2009/03/19/rowan-atkinson-attacks-gay-hate-law/",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "To criticize a person for their race is manifestly irrational and ridiculous, but to criticize their religion, that is a right. That is a freedom. The freedom to criticize ideas, any ideas – even if they are sincerely held beliefs – is one of the fundamental freedoms of society.",
+      "sourceTitle": "Rowan Atkinson – Biography.",
+      "sourceUrl": "http://www.imdb.com/name/nm0000100/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Then, Atkinson spoke out against a proposal that would remove free speech provisions on UK citizens when it came to gays. Now, remember that Atkinson is good friends with Stephen Fry, a confirmed homosexual. So Atkinson's opposition to this law was not one of homophobia. He truly values free speech, even hurtful speech.",
       "sourceTitle": "Rowan Atkinson attacks gay hate law",
-      "text": "Then, Atkinson spoke out against a proposal that would remove free speech provisions on UK citizens when it came to gays. Now, remember that Atkinson is good friends with Stephen Fry, a confirmed homosexual. So Atkinson's opposition to this law was not one of homophobia. He truly values free speech, even hurtful speech."
+      "sourceUrl": "http://www.pinknews.co.uk/2009/03/19/rowan-atkinson-attacks-gay-hate-law/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000100/bio",
+      "parentId": 15,
+      "type": "text",
+      "text": "Other than that, Atkinson prefers to stay out of the limelight and avoids interviews and speeches if at all possible.",
       "sourceTitle": "Rowan Atkinson – Biography.",
-      "text": "Other than that, Atkinson prefers to stay out of the limelight and avoids interviews and speeches if at all possible."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.imdb.com/name/nm0000100/bio"
     }
   ],
   "wikipediaData": {

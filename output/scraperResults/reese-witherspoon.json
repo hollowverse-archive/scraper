@@ -34,107 +34,153 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Reese Witherspoon was born in New Orleans, Louisiana and grew up in Nashville, Tennessee."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.parade.com/celebrity/2008/11/reese-witherspoon.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "She was raised in a devout Episcopalian family",
       "sourceTitle": "'Family Is All We Have In Life.'",
-      "text": "She was raised in a devout Episcopalian family"
+      "sourceUrl": "http://www.parade.com/celebrity/2008/11/reese-witherspoon.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.justjared.com/2010/10/10/reese-witherspoon-sunday-service-with-jim-toth/",
+      "type": "text",
+      "text": "and keeps the faith to this day. Witherspoon won't publicly address her religious beliefs but she isn't afraid to show her devotion. She regularly attends Episcopalian services in her hometown of Los Angeles",
+      "parentId": 2,
       "sourceTitle": "Reese Witherspoon: Sunday Service with Jim Toth!",
-      "text": "and keeps the faith to this day. Witherspoon won't publicly address her religious beliefs but she isn't afraid to show her devotion. She regularly attends Episcopalian services in her hometown of Los Angeles"
+      "sourceUrl": "http://www.justjared.com/2010/10/10/reese-witherspoon-sunday-service-with-jim-toth/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nbcmiami.com/entertainment/movies/Reese-Witherspoon-Weds-Agent-Beau-118724199.html",
+      "type": "text",
+      "text": "and seems to have managed to get her various boyfriends and husbands to either attend services with her or even have their wedding administered by an Episcopalian minister.",
+      "parentId": 2,
       "sourceTitle": "Reese Witherspoon Weds Agent Beau",
-      "text": "and seems to have managed to get her various boyfriends and husbands to either attend services with her or even have their wedding administered by an Episcopalian minister."
+      "sourceUrl": "http://www.nbcmiami.com/entertainment/movies/Reese-Witherspoon-Weds-Agent-Beau-118724199.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Witherspoon has occasionally justified her faith and, like most, she's looking for answers to life's unanswerable questions. She said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://celebritybabies.people.com/2009/02/09/reese-witherspoon-on-her-southern-style-parenting-ways/",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "[Church] takes you out of your personal experience and universalizes it. You understand that whatever you're dealing with, someone in that room has either dealt with the same thing or will in the future. We are all struggling to figure out what life is about, we are all just looking for answers.",
       "sourceTitle": "Reese Witherspoon On Her Southern Parenting Style",
-      "text": "[Church] takes you out of your personal experience and universalizes it. You understand that whatever you're dealing with, someone in that room has either dealt with the same thing or will in the future. We are all struggling to figure out what life is about, we are all just looking for answers."
+      "sourceUrl": "http://celebritybabies.people.com/2009/02/09/reese-witherspoon-on-her-southern-style-parenting-ways/"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Even more boring politically"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Witherspoon really just seems like a regular middle-American gal. She goes to church, doesn't take her fame too seriously, and stays out of the spotlight whenever possible. Sure, she's not above giving interviews but she's certainly not one to go pushing her political views on her fans just because she can."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Reese_Witherspoon.php",
+      "parentId": 8,
+      "type": "text",
+      "text": "Witherspoon is a Democrat and, in 2003 and 2005, she donated to Hillary Clinton's New York U.S. Congress campaigns–but only to the grand total of $1,500.",
       "sourceTitle": "Reese Witherspoon's Federal Campaign Contribution Report",
-      "text": "Witherspoon is a Democrat and, in 2003 and 2005, she donated to Hillary Clinton's New York U.S. Congress campaigns–but only to the grand total of $1,500."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Reese_Witherspoon.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.people.com/people/article/0,,20159722,00.html",
+      "parentId": 9,
+      "type": "text",
+      "text": "Reese once helped promote an organization called Divided We Fail, a supposedly non-partisan group whose aims include affordable health care for all (read Universal Health Care).",
       "sourceTitle": "Ben Affleck, Reese Witherspoon Debut Political Ads",
-      "text": "Reese once helped promote an organization called Divided We Fail, a supposedly non-partisan group whose aims include affordable health care for all (read Universal Health Care)."
+      "sourceUrl": "http://www.people.com/people/article/0,,20159722,00.html"
     },
     {
-      "type": "sentence",
-      "text": "but the fact that this is a long-running Democrat/liberal agenda, one must question how non-partisan it really is."
+      "type": "text",
+      "text": "but the fact that this is a long-running Democrat/liberal agenda, one must question how non-partisan it really is.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.metacafe.com/watch/1762839/reese_witherspoon_joins_obama_campaign/",
+      "parentId": 10,
+      "type": "text",
+      "text": "She also endorsed Obama during the 2008 election cycle.",
       "sourceTitle": "Reese Witherspoon Joins Obama Campaign",
-      "text": "She also endorsed Obama during the 2008 election cycle."
+      "sourceUrl": "http://www.metacafe.com/watch/1762839/reese_witherspoon_joins_obama_campaign/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "Witherspoon gives off a sort of conservative vibe–not enough to warrant the label \"conservative\" by any means, but her \"family values\" stances and her church going point to a leaning towards that side of the spectrum. And this quote:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://blog.beliefnet.com/faithmediaandculture/2011/06/how-not-to-make-a-pro-life-movie-reese-witherspoons-positive-message-the-mtv-awards-and-more.html",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I get it, girls, that it's cool to be a bad girl. But it is possible to make it in Hollywood without doing a reality show. When I came up in this business, if you made a sex tape, you were embarrassed and you hid it under your bed. So, for all the girls out there, it's totally possible to be a good girl. I'm going to try to make it cool.",
       "sourceTitle": "How not to make a pro-life movie; Reese Witherspoon's positive message @ the MTV awards, and more",
-      "text": "I get it, girls, that it's cool to be a bad girl. But it is possible to make it in Hollywood without doing a reality show. When I came up in this business, if you made a sex tape, you were embarrassed and you hid it under your bed. So, for all the girls out there, it's totally possible to be a good girl. I'm going to try to make it cool."
+      "sourceUrl": "http://blog.beliefnet.com/faithmediaandculture/2011/06/how-not-to-make-a-pro-life-movie-reese-witherspoons-positive-message-the-mtv-awards-and-more.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Let's just call her a moderate."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

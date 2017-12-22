@@ -31,68 +31,121 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tv.yahoo.com/jimmy-kimmel/contributor/585360/bio",
+      "parentId": 1,
+      "type": "text",
+      "text": "Jimmy Kimmel was born in Brooklyn, New York. He grew up there and in Las Vegas, Nevada."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "He grew up in a Catholic family and was apparently an altar boy,",
       "sourceTitle": "Jimmy Kimmel.",
-      "text": "He grew up in a Catholic family and was apparently an altar boy,"
+      "sourceUrl": "http://tv.yahoo.com/jimmy-kimmel/contributor/585360/bio"
     },
     {
-      "type": "sentence",
-      "text": "but I couldn't find one quote of him actually talking about it. It's tough to say how devout he is, but it's possible that he's at least moderately so. Or at least it seems that way from this quote from his ex-girlfriend Sarah Silverman, who is Jewish:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but I couldn't find one quote of him actually talking about it. It's tough to say how devout he is, but it's possible that he's at least moderately so. Or at least it seems that way from this quote from his ex-girlfriend Sarah Silverman, who is Jewish:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://en.wikiquote.org/wiki/Sarah_Silverman",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I wear this Saint Christopher medal sometimes because — I'm Jewish — but my boyfriend is Catholic. It was cute, the way he gave it to me. He said if it doesn't burn through my skin, it will protect me.",
       "sourceTitle": "Sarah Silverman.",
-      "text": "I wear this Saint Christopher medal sometimes because — I'm Jewish — but my boyfriend is Catholic. It was cute, the way he gave it to me. He said if it doesn't burn through my skin, it will protect me."
+      "sourceUrl": "http://en.wikiquote.org/wiki/Sarah_Silverman"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.towleroad.com/2012/01/kimmelpope.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Even if he is a devout Catholic, he's not afraid of making fun of the Pope. After the holy man said that same-sex marriage could lead to the end of humanity, Kimmel made his disapproval of that view clear on"
+    },
+    {
+      "parentId": 5,
+      "type": "link",
+      "text": "this monologue",
+      "sourceUrl": "http://www.towleroad.com/2012/01/kimmelpope.html"
+    },
+    {
+      "type": "text",
+      "text": "on his late-night show.",
+      "parentId": 5,
       "sourceTitle": "Jimmy Kimmel Explains The Pope's Statement Warning That Gay Marriage Could End Humanity.",
-      "text": "Even if he is a devout Catholic, he's not afraid of making fun of the Pope. After the holy man said that same-sex marriage could lead to the end of humanity, Kimmel made his disapproval of that view clear on  on his late-night show."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.towleroad.com/2012/01/kimmelpope.html"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Political but not Partisan"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Kimmel seems to be very interested in politics–he took a gig at the White House Correspondents' Dinner after all. But when talking about making political jokes on his show, he said they don't always go over that well because people aren't generally very informed about politics:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.politico.com/news/stories/0412/75479.html",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "People always prefer the Kardashians. . . . Sometimes the audience didn't know what I was talking about when I would talk about Mitt Romney putting his dog on his car. The general public isn't particularly aware of that.",
       "sourceTitle": "Jimmy Kimmel on Correspondents' dinner: 'I'm nervous.'",
-      "text": "People always prefer the Kardashians. . . . Sometimes the audience didn't know what I was talking about when I would talk about Mitt Romney putting his dog on his car. The general public isn't particularly aware of that."
+      "sourceUrl": "http://www.politico.com/news/stories/0412/75479.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.politico.com/news/stories/0412/75479.html",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "He seemed a little sad that he wasn't able to get very deep on his show, but that could be Obama's fault. He said he's too hard to make fun of because he's just a \"cool guy.\" Or it could be because George W. Bush was so easy to make fun of that he \"set a bar that's almost impossible to clear.\"",
       "sourceTitle": "Jimmy Kimmel on Correspondents' dinner: 'I'm nervous.'",
-      "text": "He seemed a little sad that he wasn't able to get very deep on his show, but that could be Obama's fault. He said he's too hard to make fun of because he's just a \"cool guy.\" Or it could be because George W. Bush was so easy to make fun of that he \"set a bar that's almost impossible to clear.\""
+      "sourceUrl": "http://www.politico.com/news/stories/0412/75479.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "Because Kimmel's main venue for comedy is a late-night show on a major network, it almost seems like he goes out of his way to not take sides politically, so I really wasn't able to find anything to give you as proof one way or the other. From all the clips I watched, I got the impression that his jokes on Republicans are a little more biting and of more substance than those on Democrats, which gives me a vague feeling that he's liberal. Agree? Disagree? Let me know in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

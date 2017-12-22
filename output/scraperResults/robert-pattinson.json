@@ -32,84 +32,155 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Robert Pattinson was born and raised in London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Pattinson has a habit of saying strange things from:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.showbizspy.com/article/199825/robert-pattinson-details-magazine-interview.html",
-      "sourceTitle": "Robert Pattinson Allergic To Vagina!",
-      "text": "I really hate vaginas. I'm allergic to vagina."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I really hate vaginas. I'm allergic to vagina.",
+      "sourceTitle": "Robert Pattinson Allergic To Vagina!",
+      "sourceUrl": "http://www.showbizspy.com/article/199825/robert-pattinson-details-magazine-interview.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "to:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thisislondon.co.uk/showbiz/robert-pattinson-wants-to-start-his-own-religion-6486469.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I definitely want to record an album, direct a film and start my own religion. Well, I definitely wouldn't have to pay taxes anymore.",
       "sourceTitle": "Robert Pattinson wants to start his own religion",
-      "text": "I definitely want to record an album, direct a film and start my own religion. Well, I definitely wouldn't have to pay taxes anymore."
+      "sourceUrl": "http://www.thisislondon.co.uk/showbiz/robert-pattinson-wants-to-start-his-own-religion-6486469.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://coolspotters.com/actors/robert-pattinson/and/religions/roman-catholic#medium-154583",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "The topic of his religion came up in a similar fashion. The writer of the"
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "Twilight Series"
+    },
+    {
+      "type": "text",
+      "text": "books, Stephanie Meyer, is a Mormon–a religion dedicated to abstaining from sex before marriage. Pattinson was asked if, as a method actor, he abstained from sex to prepare for his role in",
+      "parentId": 8
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "The Twilight Series."
+    },
+    {
+      "type": "text",
+      "text": "Pattinson said he did, in fact, abstain from sex and mentioned that he is Catholic to drive the point home.",
+      "parentId": 8,
       "sourceTitle": "Robert Pattinson and Roman Catholic",
-      "text": "The topic of his religion came up in a similar fashion. The writer of the  books, Stephanie Meyer, is a Mormon–a religion dedicated to abstaining from sex before marriage. Pattinson was asked if, as a method actor, he abstained from sex to prepare for his role in  Pattinson said he did, in fact, abstain from sex and mentioned that he is Catholic to drive the point home."
+      "sourceUrl": "http://coolspotters.com/actors/robert-pattinson/and/religions/roman-catholic#medium-154583"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Apparently, he's devout (and/or dedicated to acting) enough to fend off the hordes of women across the world that find him irresistible. That is likely no easy task, especially for this up and coming sex symbol."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "President of the underworld"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Pattinson has mentioned before that he would have liked to get into politics as a speechwriter, but gave up, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://latimesblogs.latimes.com/entertainmentnewsbuzz/2008/11/twilight-coun-5.html",
-      "sourceTitle": "'Twilight' Countdown: Robert Pattinson answers even more of your questions",
-      "text": "I wanted to be involved with politics. That's what my whole plan was. I was going to go to university and then I just thought, 'Ah, I can't be bothered to do anything. I don't want to do any more homework!'"
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I wanted to be involved with politics. That's what my whole plan was. I was going to go to university and then I just thought, 'Ah, I can't be bothered to do anything. I don't want to do any more homework!'",
+      "sourceTitle": "'Twilight' Countdown: Robert Pattinson answers even more of your questions",
+      "sourceUrl": "http://latimesblogs.latimes.com/entertainmentnewsbuzz/2008/11/twilight-coun-5.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Still, Pattinson doesn't reveal what political or social ideology he ascribes to."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "The real question is, why speech writing? If you can make a vampire likeable, you're pretty much ready to be prime minister or president. It's just a shame that teenage girls can't vote."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

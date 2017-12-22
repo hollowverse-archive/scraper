@@ -38,162 +38,276 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kamal Haasan was born and raised in Paramakudi, Ramanathapuram, Tamil Nadu, India."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://entertainment.oneindia.in/celebs/kamal-hassan/biography.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Haasan was born into a wealthy Tamilian family.",
       "sourceTitle": "Kamal Haasan Biography",
-      "text": "Haasan was born into a wealthy Tamilian family."
+      "sourceUrl": "http://entertainment.oneindia.in/celebs/kamal-hassan/biography.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Tamil_people",
+      "type": "text",
+      "text": "The Tamil are a Hindu people native to Southern India.",
+      "parentId": 2,
       "sourceTitle": "Tamil people",
-      "text": "The Tamil are a Hindu people native to Southern India."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Tamil_people"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rediff.com/movies/2008/jun/13dasa.htm",
+      "parentId": 3,
+      "type": "text",
+      "text": "Though born a Hindu, Haasan is now an outspoken atheist and his questioning/denial of the existence of God is often a topic of the films he writes/directs/produces/stars in.",
       "sourceTitle": "Dasavathaaram is spectacular",
-      "text": "Though born a Hindu, Haasan is now an outspoken atheist and his questioning/denial of the existence of God is often a topic of the films he writes/directs/produces/stars in."
+      "sourceUrl": "http://www.rediff.com/movies/2008/jun/13dasa.htm"
     },
     {
-      "type": "sentence",
-      "text": "But it's not something he really wants to talk about–unless under duress. He once said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But it's not something he really wants to talk about–unless under duress. He once said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.atheistnexus.org/group/indianatheists/forum/topics/one-of-the-famous-atheist",
-      "sourceTitle": "One of the famous atheist, Kamal Hasan, said about religion",
-      "text": "Religion should be treated as personal as sex. People should consider the question 'What religion do you follow?' as awkward as 'How well did you fuck your wife last night?'"
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Religion should be treated as personal as sex. People should consider the question 'What religion do you follow?' as awkward as 'How well did you fuck your wife last night?'",
+      "sourceTitle": "One of the famous atheist, Kamal Hasan, said about religion",
+      "sourceUrl": "http://www.atheistnexus.org/group/indianatheists/forum/topics/one-of-the-famous-atheist"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "He will occasionally point out what he sees as religious hypocrisy, such as saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0352032/bio",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Strangely, one of the greatest rationalists of this world has been turned into a god: Buddha.",
       "sourceTitle": "Kamal Hassan – Biography",
-      "text": "Strangely, one of the greatest rationalists of this world has been turned into a god: Buddha."
+      "sourceUrl": "http://www.imdb.com/name/nm0352032/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.indianexpress.com/news/kamal-haasan-threatens-india-with-selfexile-over-vishwaroopam-row/1066773/",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "During a press conference at his house after his film,"
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "Vishwaroopam"
+    },
+    {
+      "type": "text",
+      "text": ", was banned in numerous Muslim communities in India for what they considered to be offensive material,",
+      "parentId": 9,
       "sourceTitle": "Kama Haasan threatens India with self-exile over Vishwaroopam row",
-      "text": "During a press conference at his house after his film, , was banned in numerous Muslim communities in India for what they considered to be offensive material,"
+      "sourceUrl": "http://www.indianexpress.com/news/kamal-haasan-threatens-india-with-selfexile-over-vishwaroopam-row/1066773/"
     },
     {
-      "type": "sentence",
-      "text": "Haasan–clearly upset–lashed out at India, religion and his society's religious leanings:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Haasan–clearly upset–lashed out at India, religion and his society's religious leanings:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.apherald.com/Movies/ViewArticle/14094/Kamal-Hassan----I-have-no-religion,-no-caste,-perhaps-no-money-now-",
-      "sourceTitle": "Kamal Haasan – I have no religion, no caste, perhaps no money now",
-      "text": "I only want to stay in a secular state, that doesn't mean I will not make Tamil films. I am not angry with my people… If I cannot find in India, I will find hopefully another country that is secular."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I only want to stay in a secular state, that doesn't mean I will not make Tamil films. I am not angry with my people… If I cannot find in India, I will find hopefully another country that is secular.",
+      "sourceTitle": "Kamal Haasan – I have no religion, no caste, perhaps no money now",
+      "sourceUrl": "http://www.apherald.com/Movies/ViewArticle/14094/Kamal-Hassan----I-have-no-religion,-no-caste,-perhaps-no-money-now-"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "So, you can see, religion can be a point of contention for Haasan, particularly as he is a resident of a highly religious, traditional and ancient culture."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 13
     },
     {
-      "type": "heading",
+      "parentId": 13,
+      "type": "text",
       "text": "Not explicitly political, incredibly implicitly political"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Haasan insists that he is completely non-political, saying things like:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 15
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://in.reuters.com/article/2009/04/17/idINIndia-39105920090417",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "I am godless, without religion and without [political] party. And I think all the parties should work for me and not vice versa.",
       "sourceTitle": "Just A Minute With: actor Kamal Hassan",
-      "text": "I am godless, without religion and without [political] party. And I think all the parties should work for me and not vice versa."
+      "sourceUrl": "http://in.reuters.com/article/2009/04/17/idINIndia-39105920090417"
     },
     {
-      "type": "sentence",
-      "text": "But his fans and critics often disagree. His films, such as  often glorify far-left ideologies and a line from that film was even picked up by India's Communist Party newspaper:"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "break"
+      "parentId": 17,
+      "type": "text",
+      "text": "But his fans and critics often disagree. His films, such as"
+    },
+    {
+      "parentId": 17,
+      "type": "emphasis",
+      "text": "Anbe Sivam"
+    },
+    {
+      "type": "text",
+      "text": "often glorify far-left ideologies and a line from that film was even picked up by India's Communist Party newspaper:",
+      "parentId": 17
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.rediff.com/movies/2003/mar/24south.htm",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "The 'Soviet Union might have disintegrated but Communism as an ideology will never die or disintegrate.'",
       "sourceTitle": "Kamal Haasan sees red",
-      "text": "The 'Soviet Union might have disintegrated but Communism as an ideology will never die or disintegrate.'"
+      "sourceUrl": "http://www.rediff.com/movies/2003/mar/24south.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://centreright.in/2013/01/the-politics-of-kamal-hassan/#.UWNL76tASg0",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "And many an article has been written delving into the communist/socialist/leftist ideas in Haasan's films. India's centrist and right-leaning demographics seem to take it as fact that Haasan is a communist.",
       "sourceTitle": "The Politics of Kamal Haasan",
-      "text": "And many an article has been written delving into the communist/socialist/leftist ideas in Haasan's films. India's centrist and right-leaning demographics seem to take it as fact that Haasan is a communist."
+      "sourceUrl": "http://centreright.in/2013/01/the-politics-of-kamal-hassan/#.UWNL76tASg0"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://centreright.in/2013/01/the-politics-of-kamal-hassan/#.UWNL76tASg0",
+      "parentId": 21,
+      "type": "text",
+      "text": "Haasan is a vocal admirer of Mahatma Gandhi",
       "sourceTitle": "The Politics of Kamal Haasan",
-      "text": "Haasan is a vocal admirer of Mahatma Gandhi"
+      "sourceUrl": "http://centreright.in/2013/01/the-politics-of-kamal-hassan/#.UWNL76tASg0"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://centreright.in/2013/01/the-politics-of-kamal-hassan/#.UWNL76tASg0",
+      "type": "text",
+      "text": "and occasionally speaks at anti-war rallies.",
+      "parentId": 21,
       "sourceTitle": "The Politics of Kamal Haasan",
-      "text": "and occasionally speaks at anti-war rallies."
+      "sourceUrl": "http://centreright.in/2013/01/the-politics-of-kamal-hassan/#.UWNL76tASg0"
     },
     {
-      "type": "sentence",
-      "text": "And he has been pressured to enter India's political arena–but he's not interested:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And he has been pressured to enter India's political arena–but he's not interested:",
+      "parentId": 21
     },
     {
       "type": "quote",
-      "sourceUrl": "http://in.reuters.com/article/2009/04/17/idINIndia-39105920090417",
-      "sourceTitle": "Just A Minute With: actor Kamal Hassan",
-      "text": "No, it is too demeaning for me. In this scenario, the kind of politics I want to indulge will get me killed in 365 days. The rest of them fight for seats, they don't fight for ideology. They cannot be my leaders."
+      "id": 22
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 23,
+      "parentId": 22
+    },
+    {
+      "parentId": 23,
+      "type": "text",
+      "text": "No, it is too demeaning for me. In this scenario, the kind of politics I want to indulge will get me killed in 365 days. The rest of them fight for seats, they don't fight for ideology. They cannot be my leaders.",
+      "sourceTitle": "Just A Minute With: actor Kamal Hassan",
+      "sourceUrl": "http://in.reuters.com/article/2009/04/17/idINIndia-39105920090417"
+    },
+    {
+      "type": "paragraph",
+      "id": 24
+    },
+    {
+      "parentId": 24,
+      "type": "text",
       "text": "It sounds like an admission of some extreme political views to me."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 25
     },
     {
-      "type": "sentence",
+      "parentId": 25,
+      "type": "text",
       "text": "Ultimately, Haasan seems to be an artist, with ideals and visions that would not be accepted in the mainstream. What are your thoughts?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

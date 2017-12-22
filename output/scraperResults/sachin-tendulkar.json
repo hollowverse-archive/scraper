@@ -33,132 +33,204 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sachin Tendulkar was born and raised in Mumbai, India."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://post.jagran.com/Sachin-Tendulkar-offer-worships-at-Lord-Venkateswara-temple-1359783903",
+      "parentId": 2,
+      "type": "text",
+      "text": "Tendulkar is a devout Hindu, and has been known to visit and pray at Hindu temples throughout India.",
       "sourceTitle": "Sachin Tendulkar offer worships at Lord Venkateswara temple.",
-      "text": "Tendulkar is a devout Hindu, and has been known to visit and pray at Hindu temples throughout India."
+      "sourceUrl": "http://post.jagran.com/Sachin-Tendulkar-offer-worships-at-Lord-Venkateswara-temple-1359783903"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.sachin-tendulkar.biz.ly/firsttime.htm",
+      "type": "text",
+      "text": "And he's particularly fond of",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "link",
+      "text": "Ganesha",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Ganesha"
+    },
+    {
+      "type": "text",
+      "text": ",",
+      "parentId": 2,
       "sourceTitle": "Sachin Tendulkar First Hundred, Victory.",
-      "text": "And he's particularly fond of ,"
+      "sourceUrl": "http://www.sachin-tendulkar.biz.ly/firsttime.htm"
     },
     {
-      "type": "sentence",
-      "text": "one of the most popular Hindu dieties."
+      "type": "text",
+      "text": "one of the most popular Hindu dieties.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "On Ganesh Chaturthi in 2012, the day of the festival celebrating the birth and rebirth of the diety, Tendulkar posted a picture of Ganesha on his Facebook page with the caption,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.cricketcountry.com/cricket-articles/Sachin-Tendulkar-wishes-fans-on-the-auspicious-event-of-Ganesh-Chaturthi/18071",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "May Lord Ganesha continue to look after us & bless us with happiness, strength & above all good health.",
       "sourceTitle": "Sachin Tendulkar wishes fans on the auspicious event of Ganesh Chaturthi.",
-      "text": "May Lord Ganesha continue to look after us & bless us with happiness, strength & above all good health."
+      "sourceUrl": "http://www.cricketcountry.com/cricket-articles/Sachin-Tendulkar-wishes-fans-on-the-auspicious-event-of-Ganesh-Chaturthi/18071"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.deccanherald.com/content/156040/tendulkar-cancels-birthday-celebrations-prays.html",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "But perhaps even more importantly in Tendulkar's spiritual life, he was a devoted follower of"
+    },
+    {
+      "parentId": 6,
+      "type": "link",
+      "text": "Sathya Sai Baba",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Sathya_Sai_Baba"
+    },
+    {
+      "type": "text",
+      "text": ",",
+      "parentId": 6,
       "sourceTitle": "Tendulkar cancels birthday celebrations, prays for Sai Baba.",
-      "text": "But perhaps even more importantly in Tendulkar's spiritual life, he was a devoted follower of ,"
+      "sourceUrl": "http://www.deccanherald.com/content/156040/tendulkar-cancels-birthday-celebrations-prays.html"
     },
     {
-      "type": "sentence",
-      "text": "an Indian mystic who did not associate with a particular religion, but promoted a belief in one God, respect for all religions, non-violence, and service to the poor."
+      "type": "text",
+      "text": "an Indian mystic who did not associate with a particular religion, but promoted a belief in one God, respect for all religions, non-violence, and service to the poor.",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.indianexpress.com/news/sai-devotee-sachin-wont-play-in-todays-mat/780600/",
+      "parentId": 7,
+      "type": "text",
+      "text": "After the spiritual leader's death in 2011, he was so torn up that he refused to eat and cancelled his birthday celebration. Fans worried he wouldn't even be able to play in his match that evening.",
       "sourceTitle": "Sai devotee Sachin won't play in today's match?",
-      "text": "After the spiritual leader's death in 2011, he was so torn up that he refused to eat and cancelled his birthday celebration. Fans worried he wouldn't even be able to play in his match that evening."
+      "sourceUrl": "http://www.indianexpress.com/news/sai-devotee-sachin-wont-play-in-todays-mat/780600/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.timesofindia.indiatimes.com/2011-04-24/top-stories/29469014_1_birthday-celebrations-sachin-tendulkar-sathya-sai-baba",
+      "type": "text",
+      "text": "(He did.)",
+      "parentId": 7,
       "sourceTitle": "Tendulkar skips birthday celebrations, but plays IPL match.",
-      "text": "(He did.)"
+      "sourceUrl": "http://articles.timesofindia.indiatimes.com/2011-04-24/top-stories/29469014_1_birthday-celebrations-sachin-tendulkar-sathya-sai-baba"
     },
     {
-      "type": "sentence",
-      "text": "As a believer of reincarnation, I suppose Tendulkar can at least be comforted that his guru is not gone forever, but just caught up in the cycle of life."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "As a believer of reincarnation, I suppose Tendulkar can at least be comforted that his guru is not gone forever, but just caught up in the cycle of life.",
+      "parentId": 7
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "The Non-Political Politician"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ibnlive.in.com/news/sachin-tendulkar-says-yes-to-rs-nomination/252413-37-64.html",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "After a lifetime of little involvement with politics, in 2012 Tendulkar accepted a nomination to the Rajya Sabha, or India's upper house of parliament.",
       "sourceTitle": "Sachin Tendulkar accepts Congress's Rajya Sabha nomination offer.",
-      "text": "After a lifetime of little involvement with politics, in 2012 Tendulkar accepted a nomination to the Rajya Sabha, or India's upper house of parliament."
+      "sourceUrl": "http://ibnlive.in.com/news/sachin-tendulkar-says-yes-to-rs-nomination/252413-37-64.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dnaindia.com/sport/column_sachin-tendulkar-in-parliament-house-that_1681741",
+      "type": "text",
+      "text": "Reactions to his new political position were mixed, with some critics speculating that he was grossly unprepared to handle complex political issues,",
+      "parentId": 9,
       "sourceTitle": "Sachin Tendulkar in Parliament: House that?",
-      "text": "Reactions to his new political position were mixed, with some critics speculating that he was grossly unprepared to handle complex political issues,"
+      "sourceUrl": "http://www.dnaindia.com/sport/column_sachin-tendulkar-in-parliament-house-that_1681741"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://edition.cnn.com/2012/05/02/sport/cricket-india-sachin-tendulkar-politics",
+      "type": "text",
+      "text": "and that perhaps his sports career wouldn't leave much time for a political one.",
+      "parentId": 9,
       "sourceTitle": "Cricket pitch to parliament: Sachin Tendulkar's political move.",
-      "text": "and that perhaps his sports career wouldn't leave much time for a political one."
+      "sourceUrl": "http://edition.cnn.com/2012/05/02/sport/cricket-india-sachin-tendulkar-politics"
     },
     {
-      "type": "sentence",
-      "text": "Sachin responded, making clear his priorities:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Sachin responded, making clear his priorities:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://edition.cnn.com/2012/05/02/sport/cricket-india-sachin-tendulkar-politics",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I have been nominated because I am a sportsman and not a politician. I am a sportsman and will always remain one. I am not going to enter politics giving up cricket, which is my life.",
       "sourceTitle": "Cricket pitch to parliament: Sachin Tendulkar's political move.",
-      "text": "I have been nominated because I am a sportsman and not a politician. I am a sportsman and will always remain one. I am not going to enter politics giving up cricket, which is my life."
+      "sourceUrl": "http://edition.cnn.com/2012/05/02/sport/cricket-india-sachin-tendulkar-politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.timesofindia.indiatimes.com/2012-12-23/top-stories/35982309_1_sachin-tendulkar-odi-format-international-tons",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Even though he did mostly retire from cricket shortly after,",
       "sourceTitle": "Sachin Tendulkar retires from ODIs.",
-      "text": "Even though he did mostly retire from cricket shortly after,"
+      "sourceUrl": "http://articles.timesofindia.indiatimes.com/2012-12-23/top-stories/35982309_1_sachin-tendulkar-odi-format-international-tons"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://india.nydailynews.com/sportsarticle/46f8307ed0d8b8d68fc211bdea7c641f/no-politics-for-sachin-tendulkar",
+      "type": "text",
+      "text": "Tendulkar hasn't ramped up his political career yet. In fact, one of the causes he endorsed, improving the education of young Indian girls, is something he refuses to mix with his increased political clout.",
+      "parentId": 12,
       "sourceTitle": "No politics, for Sachin Tendulkar.",
-      "text": "Tendulkar hasn't ramped up his political career yet. In fact, one of the causes he endorsed, improving the education of young Indian girls, is something he refuses to mix with his increased political clout."
+      "sourceUrl": "http://india.nydailynews.com/sportsarticle/46f8307ed0d8b8d68fc211bdea7c641f/no-politics-for-sachin-tendulkar"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "It's early yet to say where Tendulkar's political career will take him as his cricket career winds down. Please, keep us updated in the comments!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

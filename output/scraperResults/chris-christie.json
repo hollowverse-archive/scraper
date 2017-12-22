@@ -33,133 +33,199 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.northjersey.com/news/politics/elections/Christie_takes_a_page_from_Giulianis_playbook.html",
+      "parentId": 1,
+      "type": "text",
+      "text": "Chris Christie was born in Newark, New Jersey and grew up in Livingston, New Jersey."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Christie's late mother was from an Italian immigrant family,",
       "sourceTitle": "Stile: Christie takes a page from Giuliani's playbook",
-      "text": "Christie's late mother was from an Italian immigrant family,"
+      "sourceUrl": "http://www.northjersey.com/news/politics/elections/Christie_takes_a_page_from_Giulianis_playbook.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.religionfacts.com/politics/chris_christie.htm",
+      "type": "text",
+      "text": "so naturally, Christie is a Catholic, and fairly devout, though with some caveats. He and his wife attend Mass regularly and leaders in his local Catholic hierarchy have prayed for him to lead the state of New Jersey \"with the wisdom of Solomon.\"",
+      "parentId": 2,
       "sourceTitle": "Chris Christie",
-      "text": "so naturally, Christie is a Catholic, and fairly devout, though with some caveats. He and his wife attend Mass regularly and leaders in his local Catholic hierarchy have prayed for him to lead the state of New Jersey \"with the wisdom of Solomon.\""
+      "sourceUrl": "http://www.religionfacts.com/politics/chris_christie.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://transcripts.cnn.com/TRANSCRIPTS/1106/14/pmt.01.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Furthermore, Christie has opted to send his kids to Catholic schools and said that his faith informs part of who he is, but not all,",
       "sourceTitle": "Trancripts",
-      "text": "Furthermore, Christie has opted to send his kids to Catholic schools and said that his faith informs part of who he is, but not all,"
+      "sourceUrl": "http://transcripts.cnn.com/TRANSCRIPTS/1106/14/pmt.01.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ontheissues.org/Chris_Christie.htm",
+      "type": "text",
+      "text": "and it doesn't inform his political decisions.",
+      "parentId": 3,
       "sourceTitle": "Chris Christie on the Issues",
-      "text": "and it doesn't inform his political decisions."
+      "sourceUrl": "http://www.ontheissues.org/Chris_Christie.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "text": "Perhaps one of the most poignant ways in which Catholicism  inform Christie's views is his stance on homosexuality. He said:"
+      "parentId": 4,
+      "type": "text",
+      "text": "Perhaps one of the most poignant ways in which Catholicism"
     },
     {
-      "type": "break"
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "does not"
+    },
+    {
+      "type": "text",
+      "text": "inform Christie's views is his stance on homosexuality. He said:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.advocate.com/news/daily-news/2011/06/15/chris-christie-makes-gaga-argument-gay-rights",
-      "sourceTitle": "Chris Christie Makes the Gaga Argument For Gay Rights",
-      "text": "My religion says it's a sin. But for me, I have always believed that people are born with the predisposition to be homosexual. And so I think if someone is born that way it's very difficult to say then that that's a sin. I understand that my church says that. But for me personally, I don't look upon someone who's homosexual as a sinner."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "My religion says it's a sin. But for me, I have always believed that people are born with the predisposition to be homosexual. And so I think if someone is born that way it's very difficult to say then that that's a sin. I understand that my church says that. But for me personally, I don't look upon someone who's homosexual as a sinner.",
+      "sourceTitle": "Chris Christie Makes the Gaga Argument For Gay Rights",
+      "sourceUrl": "http://www.advocate.com/news/daily-news/2011/06/15/chris-christie-makes-gaga-argument-gay-rights"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "But all in all, Christie's faith seems to be a fairly important aspect of his life."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Just a smidge to the right, thanks"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/c/chris_christie.html",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Christie is a Republican, and he has said that he \"loves\" his party.",
       "sourceTitle": "Chris Christie Quotes",
-      "text": "Christie is a Republican, and he has said that he \"loves\" his party."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/c/chris_christie.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/c/chris_christie_3.html",
+      "type": "text",
+      "text": "But, my view is that he's mostly a Republican for their fiscal policies. Christie is a bit of a fiscal hawk, having erased an $11 billion deficit from the New Jersey books, without raising taxes and without affecting the state's pensioners.",
+      "parentId": 9,
       "sourceTitle": "Chris Christie Quotes",
-      "text": "But, my view is that he's mostly a Republican for their fiscal policies. Christie is a bit of a fiscal hawk, having erased an $11 billion deficit from the New Jersey books, without raising taxes and without affecting the state's pensioners."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/c/chris_christie_3.html"
     },
     {
-      "type": "sentence",
-      "text": "It's quite impressive, really."
+      "type": "text",
+      "text": "It's quite impressive, really.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "Gov. Christie feels that government is too big, too cumbersome and too expensive. It's a classic fiscal conservative position. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/c/chris_christie.html",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Higher taxes is the road to ruin. We must and we will shrink our government, and that means making some tough choices, tightening our belts.",
       "sourceTitle": "Chris Christie Quotes",
-      "text": "Higher taxes is the road to ruin. We must and we will shrink our government, and that means making some tough choices, tightening our belts."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/c/chris_christie.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ontheissues.org/Chris_Christie.htm",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "But when it comes to social issues, as the above quote on homosexuality implies, he's quite a bit more liberal than many (if not most) of his party-mates. For example, rather than advocating for tough-on-drug-crime policies, Christie would rather treat addicts and save prison space for violent offenders. In regards to the environment, Christie has said the future of New Jersey lies in green energy and would rather keep New Jersey's coastlines for tourism rather than offshore drilling.",
       "sourceTitle": "Chris Christie on the Issues",
-      "text": "But when it comes to social issues, as the above quote on homosexuality implies, he's quite a bit more liberal than many (if not most) of his party-mates. For example, rather than advocating for tough-on-drug-crime policies, Christie would rather treat addicts and save prison space for violent offenders. In regards to the environment, Christie has said the future of New Jersey lies in green energy and would rather keep New Jersey's coastlines for tourism rather than offshore drilling."
+      "sourceUrl": "http://www.ontheissues.org/Chris_Christie.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.latimes.com/2011/sep/29/news/la-pn-christie-immigration-20110929",
+      "parentId": 14,
+      "type": "text",
+      "text": "Regarding immigration, Christie favors a path to citizenship for illegal immigrants already in the country and doesn't think being \"illegal\" is something the U.S. Attorney's Office should prosecute.",
       "sourceTitle": "Would immigration stance harm Chris Christie too?",
-      "text": "Regarding immigration, Christie favors a path to citizenship for illegal immigrants already in the country and doesn't think being \"illegal\" is something the U.S. Attorney's Office should prosecute."
+      "sourceUrl": "http://articles.latimes.com/2011/sep/29/news/la-pn-christie-immigration-20110929"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://weeklyworldnews.com/headlines/52292/chris-christie-endorses-obama/",
+      "parentId": 15,
+      "type": "text",
+      "text": "Christie even broke with the Republican Party with his stance on Obama. Initially, Christie was not a fan, considering Obama to be part of the \"Big Government\" problem, but when Hurricane Sandy decimated New Jersey and the Obama administration came to Christie and his state's aid, the governor had nothing but good things to say about the president. His glowing compliments equated to a last-minute endorsement by the popular governor just days before the 2012 election",
       "sourceTitle": "Gov. Chris Christie Endorses Obama",
-      "text": "Christie even broke with the Republican Party with his stance on Obama. Initially, Christie was not a fan, considering Obama to be part of the \"Big Government\" problem, but when Hurricane Sandy decimated New Jersey and the Obama administration came to Christie and his state's aid, the governor had nothing but good things to say about the president. His glowing compliments equated to a last-minute endorsement by the popular governor just days before the 2012 election"
+      "sourceUrl": "http://weeklyworldnews.com/headlines/52292/chris-christie-endorses-obama/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.businessinsider.com/dick-morris-election-prediction-obama-win-sandy-christie-chris-2012-11",
+      "type": "text",
+      "text": "and many considered him responsible for swinging the election in Obama's favor.",
+      "parentId": 15,
       "sourceTitle": "Dick Morris: Sandy, Demographics Led To Obama Win",
-      "text": "and many considered him responsible for swinging the election in Obama's favor."
+      "sourceUrl": "http://www.businessinsider.com/dick-morris-election-prediction-obama-win-sandy-christie-chris-2012-11"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "I don't imagine a lot of the more conservative members of the Republican establishment are too happy with Christie, but he remains a straight-talking man of the people–and it works for him."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

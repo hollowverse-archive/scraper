@@ -33,105 +33,168 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "John Legend, whose real name is John Stephens, was born and raised in Springfield, Ohio."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.tvguide.com/celebrities/john-legend/bio/196618",
+      "parentId": 2,
+      "type": "text",
+      "text": "Legend had a highly religious background and began singing in his church choir at a young age.",
       "sourceTitle": "John Legend Biography",
-      "text": "Legend had a highly religious background and began singing in his church choir at a young age."
+      "sourceUrl": "http://www.tvguide.com/celebrities/john-legend/bio/196618"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.essence.com/2011/06/21/john-legends-surprise-church-performance",
+      "type": "text",
+      "text": "I can't seem to find what church or denomination Legend adhered to as a child, but he put himself through college by working as the musical director for a Baptist Church in Scranton, Pennsylvania.",
+      "parentId": 2,
       "sourceTitle": "John Legend Surprises Calvary Baptist Church",
-      "text": "I can't seem to find what church or denomination Legend adhered to as a child, but he put himself through college by working as the musical director for a Baptist Church in Scranton, Pennsylvania."
+      "sourceUrl": "http://www.essence.com/2011/06/21/john-legends-surprise-church-performance"
     },
     {
-      "type": "sentence",
-      "text": "So Baptist, maybe?"
+      "type": "text",
+      "text": "So Baptist, maybe?",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "But given this information, Legend is not as devout or religious as you might think–but he wants to be. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://bigthink.com/ideas/2845",
-      "sourceTitle": "What role does faith play in your life",
-      "text": "You know I have my issues with faith nowadays. I grew up in a religious home, but I'm not religious right now. But I'm trying to get back in touch with the things that were good about the faith that I grew up with."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "You know I have my issues with faith nowadays. I grew up in a religious home, but I'm not religious right now. But I'm trying to get back in touch with the things that were good about the faith that I grew up with.",
+      "sourceTitle": "What role does faith play in your life",
+      "sourceUrl": "http://bigthink.com/ideas/2845"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Plus, Legend's songs, particularly \"Show Me\" indicate that there are a lot of unanswered questions for Legend. He sings:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.azlyrics.com/lyrics/johnlegend/showme.html",
-      "sourceTitle": "John Legend Lyrics – Show Me",
-      "text": "O God of love, peace, and mercy/Why so much suffering?/I pray for the world, it gets worse to me/Wonder if you're listening."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "O God of love, peace, and mercy/Why so much suffering?/I pray for the world, it gets worse to me/Wonder if you're listening.",
+      "sourceTitle": "John Legend Lyrics – Show Me",
+      "sourceUrl": "http://www.azlyrics.com/lyrics/johnlegend/showme.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "What this all means is that, most likely, Legend is somehow disenchanted with religion and his religious upbringing, but by no means is he an atheist or agnostic. The Christianity is still strong in Legend, he's just grappling with the many tough questions religions and, well, life, present to us."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Politics of a Legend"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/John_Legend.php",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Legend is quite active politically–and he gets into the issues. Yes, Legend is a staunch Democrat and Obama supporter, having given over $10,000 to Democrats and Democrat/liberal special interest groups ($4,600 of which was directly to Obama).",
       "sourceTitle": "John Legend's Federal Campaign Contribution Report",
-      "text": "Legend is quite active politically–and he gets into the issues. Yes, Legend is a staunch Democrat and Obama supporter, having given over $10,000 to Democrats and Democrat/liberal special interest groups ($4,600 of which was directly to Obama)."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/John_Legend.php"
     },
     {
-      "type": "sentence",
-      "text": "But he's not your average celebrity, Hope & Change, knee-jerk Obama sycophant. He might just school you in a political debate. He said once:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But he's not your average celebrity, Hope & Change, knee-jerk Obama sycophant. He might just school you in a political debate. He said once:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.republicansforobama.org/node/6584",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "From the war in Iraq to credit-default swaps to the internet bubble to the real estate bubble, too often we got caught up in the hype and fail to see the real truth…Too often, we become apathetic. We see the lies, we see the obfuscation, the deception. And we fail to point it out. We're afraid to rain on the parade, afraid to rock the boat, afraid to pursue the truth.",
       "sourceTitle": "John Legend's Commencement Speech",
-      "text": "From the war in Iraq to credit-default swaps to the internet bubble to the real estate bubble, too often we got caught up in the hype and fail to see the real truth…Too often, we become apathetic. We see the lies, we see the obfuscation, the deception. And we fail to point it out. We're afraid to rain on the parade, afraid to rock the boat, afraid to pursue the truth."
+      "sourceUrl": "http://www.republicansforobama.org/node/6584"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thegrio.com/2012/07/21/john-legend-talk-life-politics-and-new-album/2/",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "He's waxed philosophical on healthcare, insurance, economics and America's place in the industrialized world.",
       "sourceTitle": "John Legend talk life, politics and new album",
-      "text": "He's waxed philosophical on healthcare, insurance, economics and America's place in the industrialized world."
+      "sourceUrl": "http://thegrio.com/2012/07/21/john-legend-talk-life-politics-and-new-album/2/"
     },
     {
-      "type": "sentence",
-      "text": "And he's even delved into epistemology and the frustrations of living in a propaganda-soaked political system, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And he's even delved into epistemology and the frustrations of living in a propaganda-soaked political system, saying:",
+      "parentId": 14
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/wendy-carrillo/john-legend-on-obama-poli_b_734389.html",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "People seem to think they can have their own facts. It's amazing the amount of misinformation that's out there.",
       "sourceTitle": "Wendy Carrillo: John Legend on Obama, Politics, and Education",
-      "text": "People seem to think they can have their own facts. It's amazing the amount of misinformation that's out there."
+      "sourceUrl": "http://www.huffingtonpost.com/wendy-carrillo/john-legend-on-obama-poli_b_734389.html"
     }
   ],
   "wikipediaData": {

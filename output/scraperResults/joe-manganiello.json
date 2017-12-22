@@ -31,132 +31,257 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Joe Manganiello was born in Pittsburgh, Pennsylvania and raised in a Mt. Lebanon, a suburb just outside the city."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0542133/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Manganiello was raised Catholic and attended a Roman Catholic elementary school.",
       "sourceTitle": "Joe Manganiello – Biography.",
-      "text": "Manganiello was raised Catholic and attended a Roman Catholic elementary school."
+      "sourceUrl": "http://www.imdb.com/name/nm0542133/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://bighomocon.blogspot.com/2011/09/trueblood-hunk-joe-manganiello-declares.html",
+      "type": "text",
+      "text": "And apparently the former altar boy",
+      "parentId": 2,
       "sourceTitle": "TrueBlood hunk Joe Manganiello declares himself a Rand fan, drives gay leftover bots (even more) nuts.",
-      "text": "And apparently the former altar boy"
+      "sourceUrl": "http://bighomocon.blogspot.com/2011/09/trueblood-hunk-joe-manganiello-declares.html"
     },
     {
-      "type": "sentence",
-      "text": "believed what the nuns told him, at least for a while. He wanted desperately to become a werewolf and he was pretty sure God would make that happen. He said,"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.trueblood-online.com/how-joe-manganiello-got-his-monster-physique/",
-      "sourceTitle": "How Joe Manganiello got his monster physique.",
-      "text": "I went to church every morning at 6 a.m. praying that God would turn me into a werewolf. I'd heard as a little kid that if you pray hard enough and your faith is pure, God will answer you. But after a few weeks of praying with all of my heart, it wasn't happening. So I started thinking there wasn't a God, it's all a big gyp."
-    },
-    {
-      "type": "sentence",
-      "sourceUrl": "http://www.trueblood-online.com/how-joe-manganiello-got-his-monster-physique/",
-      "sourceTitle": "How Joe Manganiello got his monster physique.",
-      "text": "Now that he plays a werewolf on the TV show , Manganiello says he jokes with the show's creator that he's brought him back to Jesus."
-    },
-    {
-      "type": "sentence",
-      "text": "But he's joking. And it looks like laughing about religion is one of his past times. He follows and retweets quotes from  like this one:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "believed what the nuns told him, at least for a while. He wanted desperately to become a werewolf and he was pretty sure God would make that happen. He said,",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/joemanganiello",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I went to church every morning at 6 a.m. praying that God would turn me into a werewolf. I'd heard as a little kid that if you pray hard enough and your faith is pure, God will answer you. But after a few weeks of praying with all of my heart, it wasn't happening. So I started thinking there wasn't a God, it's all a big gyp.",
+      "sourceTitle": "How Joe Manganiello got his monster physique.",
+      "sourceUrl": "http://www.trueblood-online.com/how-joe-manganiello-got-his-monster-physique/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Now that he plays a werewolf on the TV show"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "True Blood"
+    },
+    {
+      "type": "text",
+      "text": ", Manganiello says he jokes with the show's creator that he's brought him back to Jesus.",
+      "parentId": 5,
+      "sourceTitle": "How Joe Manganiello got his monster physique.",
+      "sourceUrl": "http://www.trueblood-online.com/how-joe-manganiello-got-his-monster-physique/"
+    },
+    {
+      "type": "text",
+      "text": "But he's joking. And it looks like laughing about religion is one of his past times. He follows and retweets quotes from",
+      "parentId": 5
+    },
+    {
+      "parentId": 5,
+      "type": "link",
+      "text": "The Tweet of God",
+      "sourceUrl": "https://twitter.com/TheTweetOfGod"
+    },
+    {
+      "type": "text",
+      "text": "like this one:",
+      "parentId": 5
+    },
+    {
+      "type": "quote",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Jesus died for your sins, but he didn't really die, so it doesn't really count. #SeeYouInHellSuckers",
       "sourceTitle": "Joe Manganiello (joemanganiello) on Twitter.",
-      "text": "Jesus died for your sins, but he didn't really die, so it doesn't really count. #SeeYouInHellSuckers"
+      "sourceUrl": "https://twitter.com/joemanganiello"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "But then again, his Catholic past hasn't completely left him. When asked if he would like to play Batman some day, he said,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://screenrant.com/joe-manganiello-superman-batman-true-blood-benm-182958/",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "From your mouth to God's ears, man. I mean of course.",
       "sourceTitle": "True Blood's Joe Manganiello Talks 'Man of Steel' & 'Batman' Reboot.",
-      "text": "From your mouth to God's ears, man. I mean of course."
+      "sourceUrl": "http://screenrant.com/joe-manganiello-superman-batman-true-blood-benm-182958/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/joemanganiello/status/324041601745825792",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Plus he sent out prayers over Twitter after the Boston Marathon bombing in 2013.",
       "sourceTitle": "joemanganiello: My prayers go out to everyone …",
-      "text": "Plus he sent out prayers over Twitter after the Boston Marathon bombing in 2013."
+      "sourceUrl": "https://twitter.com/joemanganiello/status/324041601745825792"
     },
     {
-      "type": "sentence",
-      "text": "My hunch is that Manganiello is more lapsed than he is Catholic, but I wouldn't be much surprised if one of you readers pointed me to a picture of him walking out of church. If you disagree or you know more, let us know in the comments."
+      "type": "text",
+      "text": "My hunch is that Manganiello is more lapsed than he is Catholic, but I wouldn't be much surprised if one of you readers pointed me to a picture of him walking out of church. If you disagree or you know more, let us know in the comments.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://bighomocon.blogspot.com/2011/09/trueblood-hunk-joe-manganiello-declares.html",
+      "parentId": 12,
+      "type": "text",
+      "text": "Ayn Rand and Gay Rights"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Manganiello is much less forthcoming about his political philosophy than his Catholic past. He declared Ayn Rand's"
+    },
+    {
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "The Fountainhead"
+    },
+    {
+      "type": "text",
+      "text": "to be his favorite book,",
+      "parentId": 13,
       "sourceTitle": "TrueBlood hunk Joe Manganiello declares himself a Rand fan, drives gay leftover bots (even more) nuts.",
-      "text": "Manganiello is much less forthcoming about his political philosophy than his Catholic past. He declared Ayn Rand's  to be his favorite book,"
+      "sourceUrl": "http://bighomocon.blogspot.com/2011/09/trueblood-hunk-joe-manganiello-declares.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/joemanganiello/status/260574021509337089",
+      "type": "text",
+      "text": "and he posted on Twitter that he believes in small government.",
+      "parentId": 13,
       "sourceTitle": "joemanganiello: I believe in small government, …",
-      "text": "and he posted on Twitter that he believes in small government."
+      "sourceUrl": "https://twitter.com/joemanganiello/status/260574021509337089"
     },
     {
-      "type": "sentence",
-      "text": "So maybe that means he favors a libertarian or conservative government, but he's never said as much."
+      "type": "text",
+      "text": "So maybe that means he favors a libertarian or conservative government, but he's never said as much.",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.windycitymediagroup.com/lgbt/Joe-Manganiello-of-Magic-Mike-on-stripping-Manhole/38428.html",
+      "parentId": 14,
+      "type": "text",
+      "text": "But one issue about which he appears to care deeply is gay rights–which could support both libertarian and liberal views. He has posed on the cover of"
+    },
+    {
+      "parentId": 14,
+      "type": "emphasis",
+      "text": "Out"
+    },
+    {
+      "type": "text",
+      "text": "magazine, spoke at an",
+      "parentId": 14
+    },
+    {
+      "parentId": 14,
+      "type": "link",
+      "text": "event",
+      "sourceUrl": "http://www.youtube.com/watch?v=R6sxUREJmcY"
+    },
+    {
+      "type": "text",
+      "text": "for the Human Rights Campaign,",
+      "parentId": 14,
       "sourceTitle": "Joe Manganiello of 'Magic Mike' on stripping, Manhole.",
-      "text": "But one issue about which he appears to care deeply is gay rights–which could support both libertarian and liberal views. He has posed on the cover of  magazine, spoke at an  for the Human Rights Campaign,"
+      "sourceUrl": "http://www.windycitymediagroup.com/lgbt/Joe-Manganiello-of-Magic-Mike-on-stripping-Manhole/38428.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ontopmag.com/article.aspx?id=9192",
+      "type": "text",
+      "text": "and recorded a video for the It Gets Better campaign.",
+      "parentId": 14,
       "sourceTitle": "'True Blood's' Joe Manganiello Says He Beat Up Bullies In 'It Gets Better' PSA.",
-      "text": "and recorded a video for the It Gets Better campaign."
+      "sourceUrl": "http://www.ontopmag.com/article.aspx?id=9192"
     },
     {
-      "type": "sentence",
-      "text": "He said the issue is a personal one for him:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said the issue is a personal one for him:",
+      "parentId": 14
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.windycitymediagroup.com/lgbt/Joe-Manganiello-of-Magic-Mike-on-stripping-Manhole/38428.html",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "I have a lot of friends in the gay community, stemming from drama school to working in Hollywood and, for me, it's about sticking up for the rights of my friends when I think stupid issues are being made of things.",
       "sourceTitle": "Joe Manganiello of 'Magic Mike' on stripping, Manhole.",
-      "text": "I have a lot of friends in the gay community, stemming from drama school to working in Hollywood and, for me, it's about sticking up for the rights of my friends when I think stupid issues are being made of things."
+      "sourceUrl": "http://www.windycitymediagroup.com/lgbt/Joe-Manganiello-of-Magic-Mike-on-stripping-Manhole/38428.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "So he's a lover of small government, possibly Libertarian, and a gay rights activist. It looks like he's slightly outside the box of your typical Hollywood star. If Manganiello starts speaking out against Obamacare, talking about Ron Paul, or anything else you think we'll find interesting, let us know in the comments! Thanks, readers."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

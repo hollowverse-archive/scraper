@@ -35,128 +35,220 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jamie Lee Curtis was born in Santa Monica, California and grew up in and around Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000130/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Curtis doesn't appear to be overtly religious. And if she is, it might not be something she'd want to talk about as she is quite defensive of her privacy and personal life.",
       "sourceTitle": "Jamie Lee Curtis – Biography",
-      "text": "Curtis doesn't appear to be overtly religious. And if she is, it might not be something she'd want to talk about as she is quite defensive of her privacy and personal life."
+      "sourceUrl": "http://www.imdb.com/name/nm0000130/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=616",
+      "type": "text",
+      "text": "However, her late father–famous actor Tony Curtis–was Jewish",
+      "parentId": 2,
       "sourceTitle": "Jamie Lee Curtis",
-      "text": "However, her late father–famous actor Tony Curtis–was Jewish"
+      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=616"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ethnicelebs.com/jamie-lee-curtis",
+      "type": "text",
+      "text": "and her mother was of Northern European, specifically Danish, descent",
+      "parentId": 2,
       "sourceTitle": "Jamie Lee Curtis",
-      "text": "and her mother was of Northern European, specifically Danish, descent"
+      "sourceUrl": "http://ethnicelebs.com/jamie-lee-curtis"
     },
     {
-      "type": "sentence",
-      "text": "and likely came from a Christian background."
+      "type": "text",
+      "text": "and likely came from a Christian background.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://miami.cbslocal.com/photo-galleries/2010/11/29/jewish-celebrities/#photo-4778",
+      "parentId": 3,
+      "type": "text",
+      "text": "CBS News reports that Curtis celebrates Hannukah,",
       "sourceTitle": "Celebs Who Celebrate Hannukah",
-      "text": "CBS News reports that Curtis celebrates Hannukah,"
+      "sourceUrl": "http://miami.cbslocal.com/photo-galleries/2010/11/29/jewish-celebrities/#photo-4778"
     },
     {
-      "type": "sentence",
-      "text": "indicating that perhaps Curtis identifies more with her Jewish roots. However, she has also spoken on the absenteeism of her father and how they were not close:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "indicating that perhaps Curtis identifies more with her Jewish roots. However, she has also spoken on the absenteeism of her father and how they were not close:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000130/bio",
-      "sourceTitle": "Jamie Lee Curtis – Biography",
-      "text": "There was no bond, not at all. Except for the fact that I inherited genetically a part of him."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "There was no bond, not at all. Except for the fact that I inherited genetically a part of him.",
+      "sourceTitle": "Jamie Lee Curtis – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0000130/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "That being the case, it's hard to imagine he passed on something as deep and meaningful as religious values. I'm afraid this is one of those instances where we have to leave the case open. Let us know in the comments if you're privy to anything."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Democrat Dynasty"
     },
     {
-      "type": "sentence",
-      "text": "Curtis is (at least) a second-generation Democrat. You can see a  of both her parents at the 1960 Democratic National Convention. She's carried the torch well so far, and evolved with the modern Democratic Party to become quite the liberal."
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "text",
+      "text": "Curtis is (at least) a second-generation Democrat. You can see a"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Jamie_Lee_Curtis.php",
+      "parentId": 8,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.youtube.com/watch?v=7opAIZ9dv3E"
+    },
+    {
+      "type": "text",
+      "text": "of both her parents at the 1960 Democratic National Convention. She's carried the torch well so far, and evolved with the modern Democratic Party to become quite the liberal.",
+      "parentId": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "As of 2008, Curtis had made almost $57,000 in political donations, the lion's share going to Democrats, and none going to Republicans.",
       "sourceTitle": "Jamie Lee Curtis's Federal Campaign Contribution Report",
-      "text": "As of 2008, Curtis had made almost $57,000 in political donations, the lion's share going to Democrats, and none going to Republicans."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Jamie_Lee_Curtis.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/Curtisleejamie",
+      "type": "text",
+      "text": "But the real dish comes out in her",
+      "parentId": 9
+    },
+    {
+      "parentId": 9,
+      "type": "link",
+      "text": "Twitter feed",
+      "sourceUrl": "https://twitter.com/Curtisleejamie"
+    },
+    {
+      "type": "text",
+      "text": ". For example, after Obama's 2012 State of the Union speech, she tweeted (and I modified these a bit for clarity) \"bravo obama\" 15 times, maxing out the 140 character Twitter limit. The previous tweet in her feed–a response to the 2013 Sandy Hook shooting, similarly repeated \"gun control assault weapons ban\" to the Twitter limit.",
+      "parentId": 9,
       "sourceTitle": "Jamie Lee Curtis (curtisleejamie) on Twitter",
-      "text": "But the real dish comes out in her . For example, after Obama's 2012 State of the Union speech, she tweeted (and I modified these a bit for clarity) \"bravo obama\" 15 times, maxing out the 140 character Twitter limit. The previous tweet in her feed–a response to the 2013 Sandy Hook shooting, similarly repeated \"gun control assault weapons ban\" to the Twitter limit."
+      "sourceUrl": "https://twitter.com/Curtisleejamie"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hollywoodreporter.com/news/george-clooney-brad-pitt-proposition-8-play-296712",
+      "parentId": 10,
+      "type": "text",
+      "text": "She's been a gay rights advocate, even appearing in an anti-Prop 8 play with a slew of other high-profile Hollywood celebrities to protest the anti-gay marriage law.",
       "sourceTitle": "George Clooney, Brad Pitt and more of Hollywood Perform Prop 8 Play '8'",
-      "text": "She's been a gay rights advocate, even appearing in an anti-Prop 8 play with a slew of other high-profile Hollywood celebrities to protest the anti-gay marriage law."
+      "sourceUrl": "http://www.hollywoodreporter.com/news/george-clooney-brad-pitt-proposition-8-play-296712"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/jamie-lee-curtis/an-open-letter-to-gary-co_b_591730.html",
+      "parentId": 11,
+      "type": "text",
+      "text": "But what really delves deep into the socially-oriented mind of Jamie Lee Curtis is her"
+    },
+    {
+      "parentId": 11,
+      "type": "link",
+      "text": "blog",
+      "sourceUrl": "http://www.huffingtonpost.com/jamie-lee-curtis/"
+    },
+    {
+      "type": "text",
+      "text": "for The Huffington Post. Here, she has",
+      "parentId": 11
+    },
+    {
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "carte blanche"
+    },
+    {
+      "type": "text",
+      "text": "to discuss whatever topics she wishes–and she does. She's got blogs about animal rights,",
+      "parentId": 11,
       "sourceTitle": "An Open Letter to Gary Conklin and the Workers of the Conklin Dairy Farm",
-      "text": "But what really delves deep into the socially-oriented mind of Jamie Lee Curtis is her  for The Huffington Post. Here, she has  to discuss whatever topics she wishes–and she does. She's got blogs about animal rights,"
+      "sourceUrl": "http://www.huffingtonpost.com/jamie-lee-curtis/an-open-letter-to-gary-co_b_591730.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/jamie-lee-curtis/look-down-go-down_b_90624.html",
+      "type": "text",
+      "text": "the dangers and frustrations of a quickly-advancing technological society,",
+      "parentId": 11,
       "sourceTitle": "Look Down, Go Down.",
-      "text": "the dangers and frustrations of a quickly-advancing technological society,"
+      "sourceUrl": "http://www.huffingtonpost.com/jamie-lee-curtis/look-down-go-down_b_90624.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/jamie-lee-curtis/fix-the-income_b_443032.html",
+      "type": "text",
+      "text": "and what appears to be advocacy for socialized control of workers' income?",
+      "parentId": 11,
       "sourceTitle": "Fix the Income",
-      "text": "and what appears to be advocacy for socialized control of workers' income?"
+      "sourceUrl": "http://www.huffingtonpost.com/jamie-lee-curtis/fix-the-income_b_443032.html"
     },
     {
-      "type": "sentence",
-      "text": "You can tell this one's got her finger on the pulse of America, though you might disagree with her interpretation of the results or her prescriptions for solutions. Nevertheless, she's an intelligent, thoughtful, caring celebrity who truly cares for the welfare of humankind. She once said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "You can tell this one's got her finger on the pulse of America, though you might disagree with her interpretation of the results or her prescriptions for solutions. Nevertheless, she's an intelligent, thoughtful, caring celebrity who truly cares for the welfare of humankind. She once said:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000130/bio",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I'm not sure what fame is for if it isn't to focus on charitable work.",
       "sourceTitle": "Jamie Lee Curtis – Biography",
-      "text": "I'm not sure what fame is for if it isn't to focus on charitable work."
+      "sourceUrl": "http://www.imdb.com/name/nm0000130/bio"
     }
   ],
   "wikipediaData": {

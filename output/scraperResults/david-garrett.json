@@ -34,90 +34,142 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "David Garrett, born with the last name Bongartz, was born and raised in Aachen, Germany."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "The only references to religion I could find from Garrett were in relation to music. In a beautiful description of a movement in Beethoven's Violin Concerto in D Major, he wrote,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.mb.com.ph/articles/358058/david-garrett-goes-classical-cellists-try-pop-rock#.USPQFqU4tf0",
-      "sourceTitle": "David Garrett Goes Classical; Cellists Try Pop, Rock.",
-      "text": "[Larghetto] possesses an almost religious beauty, it takes away your fear, and lifts you across every abyss, conveying an immense power and such an enormous confidence."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "[Larghetto] possesses an almost religious beauty, it takes away your fear, and lifts you across every abyss, conveying an immense power and such an enormous confidence.",
+      "sourceTitle": "David Garrett Goes Classical; Cellists Try Pop, Rock.",
+      "sourceUrl": "http://www.mb.com.ph/articles/358058/david-garrett-goes-classical-cellists-try-pop-rock#.USPQFqU4tf0"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "I would be tempted from that description to call music Garrett's religion, lacking any other information. But he's not going to let me go there. In another interview where he mentioned that he appreciates audience participation, like clapping, during classical performances, he said (and this is translated from German),"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.zeit.de/online/2009/02/david-garrett-interview/seite-2",
-      "sourceTitle": "David Garrett: \"Music is not a religion.\"",
-      "text": "One must not forget that music is entertainment. I think it cannot be a silent art. Music is not a religion. To enjoy it, you need not worship. . . you do still have the freedom to move to it."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "One must not forget that music is entertainment. I think it cannot be a silent art. Music is not a religion. To enjoy it, you need not worship. . . you do still have the freedom to move to it.",
+      "sourceTitle": "David Garrett: \"Music is not a religion.\"",
+      "sourceUrl": "http://www.zeit.de/online/2009/02/david-garrett-interview/seite-2"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "So, while these anecdotes are lovely, they don't go very far in deciphering the violist's religious beliefs. I'm going to assume he's non-religious unless one of you diligent commenters leads us in another direction."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Garrett wants Europe!"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.bellenews.com/2011/09/26/arts-culture/david-garrett-at-george-enescu-festival-2011/",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Garrett is relatively quiet about politics as well. He gets invited to some high-profile gigs every once in a while,",
       "sourceTitle": "David Garrett at George Enescu Festival 2011.",
-      "text": "Garrett is relatively quiet about politics as well. He gets invited to some high-profile gigs every once in a while,"
+      "sourceUrl": "http://www.bellenews.com/2011/09/26/arts-culture/david-garrett-at-george-enescu-festival-2011/"
     },
     {
-      "type": "sentence",
-      "text": "but I couldn't find any candidate endorsements from him–at least German endorsements."
+      "type": "text",
+      "text": "but I couldn't find any candidate endorsements from him–at least German endorsements.",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "In matters on the other side of the Atlantic, he made his opinions clear. His mother is American, and so he appears to have dual-citizenship with the U.S. When asked by an interviewer in 2008 if he preferred Barack Obama or John McCain, his unhesitating response was a curt:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=_5ypm7qs5Pw",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Democrat. Obama.",
       "sourceTitle": "David Garrett ~ Obama.",
-      "text": "Democrat. Obama."
+      "sourceUrl": "http://www.youtube.com/watch?v=_5ypm7qs5Pw"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.london.diplo.de/Vertretung/london/en/__pr/Latest__News/08/Ich-will-Europa.html",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "The one political idea to which I could attach Garrett is through his support of the \"I Want Europe\" campaign, a public relations effort to strengthen support for the concept of the European Union.",
       "sourceTitle": "Chancellor Merkel support \"I want Europe\" campaign.",
-      "text": "The one political idea to which I could attach Garrett is through his support of the \"I Want Europe\" campaign, a public relations effort to strengthen support for the concept of the European Union."
+      "sourceUrl": "http://www.london.diplo.de/Vertretung/london/en/__pr/Latest__News/08/Ich-will-Europa.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "Although he doesn't say much, I'm guessing Garrett is fairly liberal, at least by American standards. If you hear anything else about him that you think we should know, help us out in the comments!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

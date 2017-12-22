@@ -41,116 +41,204 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Rza, whose real name is Robert Fitzgerald Diggs, was born in Brooklyn, New York. He grew up there, in North Carolina and in Pittsburgh, Pennsylvania."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hiphopcanada.com/2009/09/interview-the-rza-wu-tang-clan/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Rza is a deeply spiritual man, but not in any conventional way. His meta-spirituality includes elements of many different faiths and traditions. Like he said in one interview, \"religion is personal to a man.\"",
       "sourceTitle": "The RZA (Wu-Tang Clan) [Interview].",
-      "text": "Rza is a deeply spiritual man, but not in any conventional way. His meta-spirituality includes elements of many different faiths and traditions. Like he said in one interview, \"religion is personal to a man.\""
+      "sourceUrl": "http://www.hiphopcanada.com/2009/09/interview-the-rza-wu-tang-clan/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "His first taste of religion was when he was living with his uncle in North Carolina as a young boy. He would go to a Southern Baptist church every Sunday, but wasn't particularly impressed with what he saw:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://thewutangclan.webs.com/christianity.htm",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "The spirit of God sounded beautiful to me, but I quickly separated the experience of God from church. I just couldn't see God in the fake-ass preachers or people wallowing on the ground. But I could see it in [my uncle], my first real teacher.",
       "sourceTitle": "Christianity.",
-      "text": "The spirit of God sounded beautiful to me, but I quickly separated the experience of God from church. I just couldn't see God in the fake-ass preachers or people wallowing on the ground. But I could see it in [my uncle], my first real teacher."
+      "sourceUrl": "http://thewutangclan.webs.com/christianity.htm"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Spiritual Awakening"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thewutangclan.webs.com/nationofgodsandearths.htm",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "After he moved back home to New York, he was introduced to the Nation of Gods and Earths (NGE) or the Five Percent Nation, which is based on the teachings of the Nation of Islam. The concept that God lives inside oneself was appealing to the 12 year-old and he became a dedicated follower.",
       "sourceTitle": "Nation of Gods and Earths.",
-      "text": "After he moved back home to New York, he was introduced to the Nation of Gods and Earths (NGE) or the Five Percent Nation, which is based on the teachings of the Nation of Islam. The concept that God lives inside oneself was appealing to the 12 year-old and he became a dedicated follower."
+      "sourceUrl": "http://thewutangclan.webs.com/nationofgodsandearths.htm"
     },
     {
-      "type": "sentence",
-      "text": "Evidence of his–and the rest of the Wu-Tang Clan's–devotion to the NGE is apparent in some of their early lyrics. From \"Wu-Revolution\":"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Evidence of his–and the rest of the Wu-Tang Clan's–devotion to the NGE is apparent in some of their early lyrics. From \"Wu-Revolution\":",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://thewutangclan.webs.com/nationofgodsandearths.htm",
-      "sourceTitle": "Nation of Gods and Earths.",
-      "text": "Don't look towards the sky/ Cause there's no heaven above/ Don't look down beneath your feet/ There's no hell below/ Want to be free/ But heaven and hell exist within/ Heaven is what you make it and Hell is what you're going through"
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thewutangclan.webs.com/easternreligions.htm",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Don't look towards the sky/ Cause there's no heaven above/ Don't look down beneath your feet/ There's no hell below/ Want to be free/ But heaven and hell exist within/ Heaven is what you make it and Hell is what you're going through",
+      "sourceTitle": "Nation of Gods and Earths.",
+      "sourceUrl": "http://thewutangclan.webs.com/nationofgodsandearths.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "And then a few years after his introduction to the NGE, he started getting interested in Eastern philosophies, particularly Zen Buddhism.",
       "sourceTitle": "Eastern Religions.",
-      "text": "And then a few years after his introduction to the NGE, he started getting interested in Eastern philosophies, particularly Zen Buddhism."
+      "sourceUrl": "http://thewutangclan.webs.com/easternreligions.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://shambhalasun.com/sunspace/?p=12818",
+      "type": "text",
+      "text": "He called the",
+      "parentId": 11
+    },
+    {
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "Heart Sutra"
+    },
+    {
+      "type": "text",
+      "text": ", one of the most well-known Buddhist scriptures, \"one of the dopest lyrics.\"",
+      "parentId": 11,
       "sourceTitle": "The RZA talks Right Speech and The Heart Sutra.",
-      "text": "He called the , one of the most well-known Buddhist scriptures, \"one of the dopest lyrics.\""
+      "sourceUrl": "http://shambhalasun.com/sunspace/?p=12818"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.time.com/time/arts/article/0,8599,1930280,00.html",
+      "parentId": 12,
+      "type": "text",
+      "text": "In the end, as he lays out in his book"
+    },
+    {
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "The Tao of Wu"
+    },
+    {
+      "type": "text",
+      "text": ", it matters less which form one's spirituality takes, so long as you're on a spiritual path.",
+      "parentId": 12,
       "sourceTitle": "Interview: Wu-Tang's RZA on 'The Tao of Wu.'",
-      "text": "In the end, as he lays out in his book , it matters less which form one's spirituality takes, so long as you're on a spiritual path."
+      "sourceUrl": "http://www.time.com/time/arts/article/0,8599,1930280,00.html"
     },
     {
-      "type": "sentence",
-      "text": "He said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said,",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://thewutangclan.webs.com/conclusion.htm",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I'm not a soldier of any one religious sect. I realized you can never put a circle around the truth and say that it belongs to one sect. I'm a student. . . . I'm not a Muslim, a Buddhist, a Christian, a gangsta, a thug, or a prophet. I'm not any of these things, although in a way I'm all of them.",
       "sourceTitle": "Conclusion.",
-      "text": "I'm not a soldier of any one religious sect. I realized you can never put a circle around the truth and say that it belongs to one sect. I'm a student. . . . I'm not a Muslim, a Buddhist, a Christian, a gangsta, a thug, or a prophet. I'm not any of these things, although in a way I'm all of them."
+      "sourceUrl": "http://thewutangclan.webs.com/conclusion.htm"
     },
     {
       "type": "heading",
+      "id": 15
+    },
+    {
+      "type": "heading",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Obama Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.kungfumagazine.com/ezine/article.php?article=795",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I couldn't find a whole lot of information about Rza's political views, except that he's an Obama fan. In an interview the day after Obama was elected in 2008, he went on a stream-of-consciousness ramble about how our founding fathers' principle's are finally being fulfilled.",
       "sourceTitle": "RZA on Iron Fist, the Last Dragon, and Barack Obama.",
-      "text": "I couldn't find a whole lot of information about Rza's political views, except that he's an Obama fan. In an interview the day after Obama was elected in 2008, he went on a stream-of-consciousness ramble about how our founding fathers' principle's are finally being fulfilled."
+      "sourceUrl": "http://www.kungfumagazine.com/ezine/article.php?article=795"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://24wired.tv/54789/snoop-dogg-rza-ice-cube-and-others-endorse-president-obama/",
+      "type": "text",
+      "text": "And then during his 2012 re-election campaign, he said he still supported the president because he restored the global image of the U.S. after the Bush years.",
+      "parentId": 17,
       "sourceTitle": "Snoop Dogg, RZA and Others Endorse President Obama.",
-      "text": "And then during his 2012 re-election campaign, he said he still supported the president because he restored the global image of the U.S. after the Bush years."
+      "sourceUrl": "http://24wired.tv/54789/snoop-dogg-rza-ice-cube-and-others-endorse-president-obama/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "It seems like Rza spends much more time thinking about his spiritual place in the world than where he sits politically. But I'm going to guess, as a meta-religious black man coming out of New York City, he's probably going to be leaning toward the left on most issues."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -32,133 +32,241 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Alyson Hannigan was born in Washington, D.C, but grew up in Atlanta, Georgia with her mother after the divorce of her parents."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0004989/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Hannigan's father is of Irish descent,",
       "sourceTitle": "Alyson Hannigan Biography",
-      "text": "Hannigan's father is of Irish descent,"
+      "sourceUrl": "http://www.imdb.com/name/nm0004989/bio"
     },
     {
-      "type": "sentence",
-      "text": "indicating what are likely some Catholic roots."
+      "type": "text",
+      "text": "indicating what are likely some Catholic roots.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0004989/bio",
+      "parentId": 3,
+      "type": "text",
+      "text": "Her mother is Jewish, the granddaughter of Russian Jewish immigrants.",
       "sourceTitle": "Alyson Hannigan Biography",
-      "text": "Her mother is Jewish, the granddaughter of Russian Jewish immigrants."
+      "sourceUrl": "http://www.imdb.com/name/nm0004989/bio"
     },
     {
-      "type": "sentence",
-      "text": "And given that she grew up with her mother, it would stand to reason that she would identify more as Jewish.  However, when asked about growing up  between two religions, she replied:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And given that she grew up with her mother, it would stand to reason that she would identify more as Jewish.  However, when asked about growing up  between two religions, she replied:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Hollywood_Now_Alyson_Hannigan_Jewish_Male_Actors_Fall_Features.shtml",
-      "sourceTitle": "Hollywood Now: Alyson Hannigan, Jewish Male Actors, Fall Features",
-      "text": "[It] wasn't that big of a thing. Neither [parent] was all that religious."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "[It] wasn't that big of a thing. Neither [parent] was all that religious.",
+      "sourceTitle": "Hollywood Now: Alyson Hannigan, Jewish Male Actors, Fall Features",
+      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Hollywood_Now_Alyson_Hannigan_Jewish_Male_Actors_Fall_Features.shtml"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "All-in-all, despite some heritage, Hannigan appears to be generally non-religious."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://politicalhollywood.wordpress.com/tag/alyson-hannigan/",
+      "parentId": 7,
+      "type": "text",
+      "text": "Character Politics"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Hannigan is reported to have attended a reception at Gwen Stefani's house in which Michelle Obama attended. Funds raised at the events went to the Obama Victory Fund, a joint fundraising committee of Obama for America, the Democratic National Committee and numerous state Democratic parties.",
       "sourceTitle": "Michelle Obama Hits Up Beverly Hills Fundraisers",
-      "text": "Hannigan is reported to have attended a reception at Gwen Stefani's house in which Michelle Obama attended. Funds raised at the events went to the Obama Victory Fund, a joint fundraising committee of Obama for America, the Democratic National Committee and numerous state Democratic parties."
+      "sourceUrl": "http://politicalhollywood.wordpress.com/tag/alyson-hannigan/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://de.eonline.com/news/427841/alyson-hannigan-excitedly-waves-at-obama-motorcade-while-cuddling-daughter-keeva",
+      "type": "text",
+      "text": "Plus, she was caught by paparazzi waving excitedly at Obama's motorcade as he drove by in Los Angeles.",
+      "parentId": 8,
       "sourceTitle": "Alyson Hannigan Excitedly Waves At Obama Motorcade While Cuddling Daughter Keeva",
-      "text": "Plus, she was caught by paparazzi waving excitedly at Obama's motorcade as he drove by in Los Angeles."
+      "sourceUrl": "http://de.eonline.com/news/427841/alyson-hannigan-excitedly-waves-at-obama-motorcade-while-cuddling-daughter-keeva"
     },
     {
-      "type": "sentence",
-      "text": "So, Democrat?"
+      "type": "text",
+      "text": "So, Democrat?",
+      "parentId": 8
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Her characters are often known for their lack of sexual inhibitions, possibly a sign that Hannigan leans slightly left in terms of social convention."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "text": "Alyson is renowned for her role as the popular Wiccan Willow in in which her character had a long-term lesbian relationship with a fellow Wiccan named Tara. When questioned about this particular storyline Alyson replied:"
+      "parentId": 10,
+      "type": "text",
+      "text": "Alyson is renowned for her role as the popular Wiccan Willow in"
     },
     {
-      "type": "break"
+      "parentId": 10,
+      "type": "emphasis",
+      "text": "Buffy the Vampire Slayer,"
+    },
+    {
+      "type": "text",
+      "text": "in which her character had a long-term lesbian relationship with a fellow Wiccan named Tara. When questioned about this particular storyline Alyson replied:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2013/07/30/amber-benson-tara-willow-buffy-the-vampire-slayer_n_3675530.html",
-      "sourceTitle": "Amber Benson Talks Tara and Willow Breaking Down Barriers on 'Buffy the Vampire Slayer'",
-      "text": "I was so grateful to have been a part of such a wonderful relationship, the people that it's touched that I've met … it's such a gift to have been able to do that."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I was so grateful to have been a part of such a wonderful relationship, the people that it's touched that I've met … it's such a gift to have been able to do that.",
+      "sourceTitle": "Amber Benson Talks Tara and Willow Breaking Down Barriers on 'Buffy the Vampire Slayer'",
+      "sourceUrl": "http://www.huffingtonpost.com/2013/07/30/amber-benson-tara-willow-buffy-the-vampire-slayer_n_3675530.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Even before this, in 1999, the show was labelled \"the most gay show on TV\" by the"
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "Boston Herald."
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Furthermore, when asked if she had a lesbian following because of her role she replied:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.ontopmag.com/article.aspx?id=15247",
-      "sourceTitle": "Alyson Hannigan Hopes She Has A Lesbian Following",
-      "text": "Well, I mean I hope so. Yeah, I hope. I would feel like a failure if I didn't."
+      "id": 15
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Well, I mean I hope so. Yeah, I hope. I would feel like a failure if I didn't.",
+      "sourceTitle": "Alyson Hannigan Hopes She Has A Lesbian Following",
+      "sourceUrl": "http://www.ontopmag.com/article.aspx?id=15247"
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "If this isn't being comfortable with the LGBTQ+ community I don't know what is."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
-      "text": "Of course, there's her promiscuous flutist character in  as well, and many speculate that there was a running lesbian theme between her character 'Lilly' and 'Robin' in the show, ."
+      "parentId": 18,
+      "type": "text",
+      "text": "Of course, there's her promiscuous flutist character in"
     },
     {
-      "type": "break"
+      "parentId": 18,
+      "type": "emphasis",
+      "text": "American Pie"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": "as well, and many speculate that there was a running lesbian theme between her character 'Lilly' and 'Robin' in the show,",
+      "parentId": 18
+    },
+    {
+      "parentId": 18,
+      "type": "emphasis",
+      "text": "How I Met Your Mother"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "Overall, she seems to be willing to push the frontier of sexual politics."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "break"
+      "parentId": 20,
+      "type": "emphasis",
+      "text": "Written by \"Blaire\""
     }
   ],
   "wikipediaData": {

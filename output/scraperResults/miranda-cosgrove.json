@@ -28,48 +28,63 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Miranda Cosgrove was born in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.myspace.com/mirandacosgrove14",
+      "parentId": 2,
+      "type": "text",
+      "text": "There is no indication of her religion, which is particularly strange for an American child star, except for her Myspace page, where she lists herself as \"Christian-other.\"",
       "sourceTitle": "Miranda Cosgrove on Myspace",
-      "text": "There is no indication of her religion, which is particularly strange for an American child star, except for her Myspace page, where she lists herself as \"Christian-other.\""
+      "sourceUrl": "http://www.myspace.com/mirandacosgrove14"
     },
     {
-      "type": "sentence",
-      "text": "I get the Christian part, but what is this other business?"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "I get the Christian part, but what is this other business?",
+      "parentId": 2
     },
     {
       "type": "heading",
+      "id": 3
+    },
+    {
+      "parentId": 3,
+      "type": "text",
       "text": "Political guest star"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/01/11/michelle-obama-icarly-miranda-cosgrove-nathan-kress_n_1198394.html",
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Cosgrove hasn't come out about her political leanings either. But she did share a stage once with Michelle Obama, if that counts for anything.",
       "sourceTitle": "Michelle Obama On 'iCarly': Miranda Cosgrove, Nathan Kress Share First Lady Stories",
-      "text": "Cosgrove hasn't come out about her political leanings either. But she did share a stage once with Michelle Obama, if that counts for anything."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/01/11/michelle-obama-icarly-miranda-cosgrove-nathan-kress_n_1198394.html"
     },
     {
-      "type": "sentence",
-      "text": "In an interview after their meeting, Cosgrove only had nice things to say."
+      "type": "text",
+      "text": "In an interview after their meeting, Cosgrove only had nice things to say.",
+      "parentId": 4
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "Truly, she's young and a rising star in Hollywood. She's probably hanging out with liberals and Democrats all day long, so it's likely that has or will rub off on Cosgrove."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

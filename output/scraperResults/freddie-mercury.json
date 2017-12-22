@@ -34,133 +34,193 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Freddie Mercury, originally named Farokh Bulsara, was born on the East African island of Zanzibar in 1946 when that island was a part of the British Empire. At the age of eight, Freddie attended boarding school in Bombay, India–which was also a part of the British Empire at the time. At 17, Mercury's family fled Zanzibar as a result of a violent revolution and lived the rest of their days in England. Mercury died of AIDS in 1991 in Kensington, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://egregores.wordpress.com/2009/11/20/in-honor-of-freddie-mercury-we-are-zoroastrians-my-friends/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Mercury comes from a race of Afro-Asian people called Parsees. Their religion is Zoroastrianism, a very old faith that originated in modern-day Iran and is often considered the first monotheistic religion, though scholars often dispute whether or not it is truly monotheistic.",
       "sourceTitle": "In Honor of Freddie Mercury: \"We are Zoroastrians, My Friends…",
-      "text": "Mercury comes from a race of Afro-Asian people called Parsees. Their religion is Zoroastrianism, a very old faith that originated in modern-day Iran and is often considered the first monotheistic religion, though scholars often dispute whether or not it is truly monotheistic."
+      "sourceUrl": "http://egregores.wordpress.com/2009/11/20/in-honor-of-freddie-mercury-we-are-zoroastrians-my-friends/"
     },
     {
-      "type": "sentence",
-      "text": "Regardless, Zoroastrianism was undoubtedly an influence on today's monotheistic faiths with its conception of what Christians would call heaven and hell and a theology based around the struggle between good and evil supernatural entities."
+      "type": "text",
+      "text": "Regardless, Zoroastrianism was undoubtedly an influence on today's monotheistic faiths with its conception of what Christians would call heaven and hell and a theology based around the struggle between good and evil supernatural entities.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pm/Freddie_Mercury.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "At the age of eight, Mercury was officially initiated into the Zoroastrian faith, and his parents were devout throughout their lifetime.",
       "sourceTitle": "The religion of Freddie Mercury, rock star.",
-      "text": "At the age of eight, Mercury was officially initiated into the Zoroastrian faith, and his parents were devout throughout their lifetime."
+      "sourceUrl": "http://www.adherents.com/people/pm/Freddie_Mercury.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0006198/bio",
+      "type": "text",
+      "text": "But Freddie himself didn't talk about his faith and rarely practiced it in any depth,",
+      "parentId": 3,
       "sourceTitle": "Freddie Mercury – Biography.",
-      "text": "But Freddie himself didn't talk about his faith and rarely practiced it in any depth,"
+      "sourceUrl": "http://www.imdb.com/name/nm0006198/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=xfI1qfcNWRU",
+      "type": "text",
+      "text": "even though he remained a Zoroastrian for the duration of his life and Zoroastrian priests officiated his funeral.",
+      "parentId": 3,
       "sourceTitle": "Zoroastrian Priests at Freddie Mercury's Funeral",
-      "text": "even though he remained a Zoroastrian for the duration of his life and Zoroastrian priests officiated his funeral."
+      "sourceUrl": "http://www.youtube.com/watch?v=xfI1qfcNWRU"
     },
     {
-      "type": "sentence",
-      "text": "When asked if Freddie would go to Zoroastrian heaven or hell, one priest who knew him said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "When asked if Freddie would go to Zoroastrian heaven or hell, one priest who knew him said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pm/Freddie_Mercury.html",
-      "sourceTitle": "The religion of Freddie Mercury, rock star.",
-      "text": "From what I gather, he had the Zoroastrian traits of generosity and kindness."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "From what I gather, he had the Zoroastrian traits of generosity and kindness.",
+      "sourceTitle": "The religion of Freddie Mercury, rock star.",
+      "sourceUrl": "http://www.adherents.com/people/pm/Freddie_Mercury.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Freddie was a notoriously unhappy person, and seemingly quite confused about his life and the search for happiness. He declined to talk about his sexuality publicly, even when asked directly. It is reported that he often spent large amounts of money in an attempt to find happiness. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pm/Freddie_Mercury.html",
-      "sourceTitle": "The religion of Freddie Mercury, rock star.",
-      "text": "I have everything that money can buy except happiness."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I have everything that money can buy except happiness.",
+      "sourceTitle": "The religion of Freddie Mercury, rock star.",
+      "sourceUrl": "http://www.adherents.com/people/pm/Freddie_Mercury.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "And:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pm/Freddie_Mercury.html",
-      "sourceTitle": "The religion of Freddie Mercury, rock star.",
-      "text": "I'm fortunate enough to be rich. Sometimes I believe the only bit of happiness I can create is with my money."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I'm fortunate enough to be rich. Sometimes I believe the only bit of happiness I can create is with my money.",
+      "sourceTitle": "The religion of Freddie Mercury, rock star.",
+      "sourceUrl": "http://www.adherents.com/people/pm/Freddie_Mercury.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Perhaps his true religion was materialism."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 13
     },
     {
-      "type": "heading",
+      "parentId": 13,
+      "type": "text",
       "text": "Politics of lost chances"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://popcultureinstitute.blogspot.com/2007/11/death-of-freddie-mercury.html",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Mercury had many opportunities to be political. Not only was he brought up in a socially tumultuous period in history, he was also gay (or bi-sexual), had AIDS, and came from a racial and religious minority. He is often criticized for not speaking out more for gay rights or using his celebrity status to raise awareness about AIDS.",
       "sourceTitle": "The Death of Freddie Mercury",
-      "text": "Mercury had many opportunities to be political. Not only was he brought up in a socially tumultuous period in history, he was also gay (or bi-sexual), had AIDS, and came from a racial and religious minority. He is often criticized for not speaking out more for gay rights or using his celebrity status to raise awareness about AIDS."
+      "sourceUrl": "http://popcultureinstitute.blogspot.com/2007/11/death-of-freddie-mercury.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pm/Freddie_Mercury.html",
+      "type": "text",
+      "text": "Mercury was a very private person outside of his rock star persona. Furthermore, those close to Mercury maintain that he did contribute financially to AIDS research, he just didn't make a big deal out of it.",
+      "parentId": 14,
       "sourceTitle": "The religion of Freddie Mercury, rock star.",
-      "text": "Mercury was a very private person outside of his rock star persona. Furthermore, those close to Mercury maintain that he did contribute financially to AIDS research, he just didn't make a big deal out of it."
+      "sourceUrl": "http://www.adherents.com/people/pm/Freddie_Mercury.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.songfacts.com/detail.php?id=685",
+      "type": "text",
+      "text": "In fact, he was a major financial supporter of the Terrance Higgens Trust, an AIDS charity.",
+      "parentId": 14,
       "sourceTitle": "Bohemian Rhapsody by Queen",
-      "text": "In fact, he was a major financial supporter of the Terrance Higgens Trust, an AIDS charity."
+      "sourceUrl": "http://www.songfacts.com/detail.php?id=685"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.tv.com/people/freddie-mercury/trivia/",
+      "parentId": 15,
+      "type": "text",
+      "text": "As far as British politics were concerned, Mercury was a major supporter of the British monarchy,",
       "sourceTitle": "Freddie Mercury Trivia & Quotes",
-      "text": "As far as British politics were concerned, Mercury was a major supporter of the British monarchy,"
+      "sourceUrl": "http://www.tv.com/people/freddie-mercury/trivia/"
     },
     {
-      "type": "sentence",
-      "text": "an oftentimes controversial position. We could call him a loyalist."
+      "type": "text",
+      "text": "an oftentimes controversial position. We could call him a loyalist.",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "By today's standards, Mercury would easily be considered a liberal. He was bi-sexual, flamboyant, and a pop star. Something tells me he would have spoken out against Prop 8."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

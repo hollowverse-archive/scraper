@@ -35,137 +35,247 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "George Orwell, whose real name was Eric Arthur Blair, was born in Motihari, India and grew up in Henley-on-Thames, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/logos/v006/6.4spiller.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Orwell was a lifelong Anglican in name, but not so much in spirit. He was baptized an Anglican",
       "sourceTitle": "George Orwell's Anti-Catholicism",
-      "text": "Orwell was a lifelong Anglican in name, but not so much in spirit. He was baptized an Anglican"
+      "sourceUrl": "http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/logos/v006/6.4spiller.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://theorwellprize.co.uk/george-orwell/about-orwell/gordon-bowker-george-orwell-and-the-church-of-england/",
+      "type": "text",
+      "text": "and buried, by specific request, in the Anglican tradition.",
+      "parentId": 2,
       "sourceTitle": "Gordon Bowker: George Orwell and the Church of England",
-      "text": "and buried, by specific request, in the Anglican tradition."
+      "sourceUrl": "http://theorwellprize.co.uk/george-orwell/about-orwell/gordon-bowker-george-orwell-and-the-church-of-england/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/logos/v006/6.4spiller.html",
+      "type": "text",
+      "text": "He did attend a Catholic school as a young boy, but would, later in life, refer to the Catholic Church as \"parasitic\" and \"those stinking Catholics.\"",
+      "parentId": 2,
       "sourceTitle": "George Orwell's Anti-Catholicism",
-      "text": "He did attend a Catholic school as a young boy, but would, later in life, refer to the Catholic Church as \"parasitic\" and \"those stinking Catholics.\""
+      "sourceUrl": "http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/logos/v006/6.4spiller.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Orwell seems to have felt a sort of loyalty to Anglicanism and did attend services as an adult. Explaining his relationship to the religion as a boy, he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/logos/v006/6.4spiller.html",
-      "sourceTitle": "George Orwell's Anti-Catholicism",
-      "text": "[I accepted] mechanically the Christian religion without having any sort of affection for it."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "[I accepted] mechanically the Christian religion without having any sort of affection for it.",
+      "sourceTitle": "George Orwell's Anti-Catholicism",
+      "sourceUrl": "http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/logos/v006/6.4spiller.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Orwell was an intellectual, a thinking man's thinker and ultimately considered religion as a whole quite irrational and an institution that encouraged irrational thinking, which paved the way for the coercion of the masses. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/logos/v006/6.4spiller.html",
-      "sourceTitle": "George Orwell's Anti-Catholicism",
-      "text": "As long as supernatural beliefs persist, men can be exploited by cunning priests and oligarchs, and the technical progress which is the prerequisite of a just society cannot be achieved."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "As long as supernatural beliefs persist, men can be exploited by cunning priests and oligarchs, and the technical progress which is the prerequisite of a just society cannot be achieved.",
+      "sourceTitle": "George Orwell's Anti-Catholicism",
+      "sourceUrl": "http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/logos/v006/6.4spiller.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "In the end, it was a complicated relationship Orwell had with his church. Much like his relationship with England–a staunch patriot who was highly critical of many of his country's policies and attitudes, which brings us to…"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "The Orwellian Worldview"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Orwell was, to apply the obligatory labels, a socialist, a social democrat and even by some accounts, an anarchist."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "text": "Orwell's productive years were also some of the most politically interesting and tumultuous years in European (and maybe world) history. Orwell saw and experienced much and many of his views are in reaction to that. He witnessed the atrocities of Soviet Russia, which he satirized in his novel . He saw the rise and fall of the fascist dictatorships of Mussolini's Italy, Hitler's Germany and Franco's Spain. In fact, Orwell even participated in the Spanish Civil War, siding with the anarchists, who helped shape his worldview. He wrote of his experiences from a hospital bed:"
+      "parentId": 12,
+      "type": "text",
+      "text": "Orwell's productive years were also some of the most politically interesting and tumultuous years in European (and maybe world) history. Orwell saw and experienced much and many of his views are in reaction to that. He witnessed the atrocities of Soviet Russia, which he satirized in his novel"
     },
     {
-      "type": "break"
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "Animal Farm"
+    },
+    {
+      "type": "text",
+      "text": ". He saw the rise and fall of the fascist dictatorships of Mussolini's Italy, Hitler's Germany and Franco's Spain. In fact, Orwell even participated in the Spanish Civil War, siding with the anarchists, who helped shape his worldview. He wrote of his experiences from a hospital bed:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.wsws.org/articles/2002/apr2002/orwe-a11.shtml",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I have seen wonderful things and at last really believe in Socialism, which I never did before.",
       "sourceTitle": "George Orwell's Homage to Catalonia, Stalinism and the Spanish revolution",
-      "text": "I have seen wonderful things and at last really believe in Socialism, which I never did before."
+      "sourceUrl": "http://www.wsws.org/articles/2002/apr2002/orwe-a11.shtml"
     },
     {
-      "type": "sentence",
-      "text": "Later, he would write in his book, ,"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "break"
+      "parentId": 15,
+      "type": "text",
+      "text": "Later, he would write in his book,"
+    },
+    {
+      "parentId": 15,
+      "type": "emphasis",
+      "text": "The Road to Wigan Pier"
+    },
+    {
+      "type": "text",
+      "text": ",",
+      "parentId": 15
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.k-1.com/Orwell/site/opinion/essays/storgaard1.html",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I worked out an anarchistic theory that all government is evil, that the punishment always does more harm than the crime and the people can be trusted to behave decently if you will only let them alone.",
       "sourceTitle": "Opinions: Essays: George Orwell, Socialist, Anarchist, or what…?",
-      "text": "I worked out an anarchistic theory that all government is evil, that the punishment always does more harm than the crime and the people can be trusted to behave decently if you will only let them alone."
+      "sourceUrl": "http://www.k-1.com/Orwell/site/opinion/essays/storgaard1.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.k-1.com/Orwell/site/opinion/essays/storgaard1.html",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Orwell added the caveat, however, that governments must exist to protect people from crime and injustice.",
       "sourceTitle": "Opinions: Essays: George Orwell, Socialist, Anarchist, or what…?",
-      "text": "Orwell added the caveat, however, that governments must exist to protect people from crime and injustice."
+      "sourceUrl": "http://www.k-1.com/Orwell/site/opinion/essays/storgaard1.html"
     },
     {
-      "type": "sentence",
-      "text": "But this brings up an interesting contradiction. Can one be both an anarchist and a socialist? They do seem to be quite ideologically distinct. But, really, Orwell's main fixation was regarding personal/individual freedom and democracy–that people must govern themselves and he painted a grim picture of the opposite of freedom in his seminal work, ."
+      "type": "text",
+      "text": "But this brings up an interesting contradiction. Can one be both an anarchist and a socialist? They do seem to be quite ideologically distinct. But, really, Orwell's main fixation was regarding personal/individual freedom and democracy–that people must govern themselves and he painted a grim picture of the opposite of freedom in his seminal work,",
+      "parentId": 18
     },
     {
-      "type": "break"
+      "parentId": 18,
+      "type": "emphasis",
+      "text": "1984"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.k-1.com/Orwell/site/opinion/essays/storgaard1.html",
+      "type": "text",
+      "text": ".",
+      "parentId": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "For much of his adult life, Orwell was a card-carrying member of Britain's Independent Labour Party, but like his views on religion, he didn't accept it without major reservations and often disagreed with the party's approach to the details of social governance.",
       "sourceTitle": "Opinions: Essays: George Orwell, Socialist, Anarchist, or what…?",
-      "text": "For much of his adult life, Orwell was a card-carrying member of Britain's Independent Labour Party, but like his views on religion, he didn't accept it without major reservations and often disagreed with the party's approach to the details of social governance."
+      "sourceUrl": "http://www.k-1.com/Orwell/site/opinion/essays/storgaard1.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "Perhaps what would most sum up Orwell's sociopolitical views is his commentary on his writing, of which he said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 21
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.online-literature.com/orwell/",
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "Every line of serious work that I have written since 1936 has been written directly or indirectly against totalitarianism and for Democratic Socialism as I understand it.",
       "sourceTitle": "George Orwell – Biography and Works",
-      "text": "Every line of serious work that I have written since 1936 has been written directly or indirectly against totalitarianism and for Democratic Socialism as I understand it."
+      "sourceUrl": "http://www.online-literature.com/orwell/"
     }
   ],
   "wikipediaData": {

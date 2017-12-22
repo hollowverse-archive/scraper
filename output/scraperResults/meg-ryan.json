@@ -34,119 +34,187 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Meg Ryan, whose real name is Margaret Hyra, was born and raised in Fairfield, Connecticut."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.monstersandcritics.com/people/Meg-Ryan/biography/",
+      "parentId": 2,
+      "type": "text",
+      "text": "It appears as though Ryan was raised Catholic and may have even completed her confirmation,",
       "sourceTitle": "Meg Ryan Biography.",
-      "text": "It appears as though Ryan was raised Catholic and may have even completed her confirmation,"
+      "sourceUrl": "http://www.monstersandcritics.com/people/Meg-Ryan/biography/"
     },
     {
-      "type": "sentence",
-      "text": "although I couldn't find a completely reliable source cited for that claim. If she was Catholic back then, she's not talking about it too much these days."
+      "type": "text",
+      "text": "although I couldn't find a completely reliable source cited for that claim. If she was Catholic back then, she's not talking about it too much these days.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jennycooney.com/megryan.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "The only reliable information I could find about Ryan's spirituality was that it is based in Buddhism more than anything else. She is greatly influenced by Eckhart Tolle,",
       "sourceTitle": "Interview with Meg Ryan.",
-      "text": "The only reliable information I could find about Ryan's spirituality was that it is based in Buddhism more than anything else. She is greatly influenced by Eckhart Tolle,"
+      "sourceUrl": "http://www.jennycooney.com/megryan.html"
     },
     {
-      "type": "sentence",
-      "text": "an author of several books on spirituality that are influenced by several religions, but based in no one in particular. She said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "an author of several books on spirituality that are influenced by several religions, but based in no one in particular. She said,",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.jennycooney.com/megryan.html",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I'm a seeker with a capital 'S.' Eckhart has a philosophy that feeds my other interests and is all about presence and expanding your life by embracing the entirety of 'right now.' It's a simple philosophy but it goes with a lot of other Hindu and Buddhist philosophy I study.",
       "sourceTitle": "Interview with Meg Ryan.",
-      "text": "I'm a seeker with a capital 'S.' Eckhart has a philosophy that feeds my other interests and is all about presence and expanding your life by embracing the entirety of 'right now.' It's a simple philosophy but it goes with a lot of other Hindu and Buddhist philosophy I study."
+      "sourceUrl": "http://www.jennycooney.com/megryan.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pbs.org/wnet/nature/episodes/the-white-elephants-of-thailand-with-meg-ryan/photo-essay-northern-thailands-elephants/2471/attachment/92/",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I couldn't find much else on Ryan's spiritual path, except that it led her to a group of Buddhist monks to bless some traditional robes that she would later wrap around trees, making the trees sacred.",
       "sourceTitle": "Photo Essay: Northern Thailand's Elephants A Blessing from Monks.",
-      "text": "I couldn't find much else on Ryan's spiritual path, except that it led her to a group of Buddhist monks to bless some traditional robes that she would later wrap around trees, making the trees sacred."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.pbs.org/wnet/nature/episodes/the-white-elephants-of-thailand-with-meg-ryan/photo-essay-northern-thailands-elephants/2471/attachment/92/"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Just a Nice Liberal"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Meg_Ryan.php",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "As her spiritual leanings"
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "might"
+    },
+    {
+      "type": "text",
+      "text": "suggest, Meg Ryan's political philosophy is definitely liberal. She doesn't talk about politics all that much; she gets involved. She has donated over $9,000 to Democratic politicians including Al Franken, John Kerry, and Barack Obama.",
+      "parentId": 8,
       "sourceTitle": "Meg Ryan's Federal Campaign Contribution Report.",
-      "text": "As her spiritual leanings  suggest, Meg Ryan's political philosophy is definitely liberal. She doesn't talk about politics all that much; she gets involved. She has donated over $9,000 to Democratic politicians including Al Franken, John Kerry, and Barack Obama."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Meg_Ryan.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pbs.org/wnet/nature/episodes/the-white-elephants-of-thailand-with-meg-ryan/introduction/2411/",
+      "parentId": 9,
+      "type": "text",
+      "text": "She filmed a documentary in the PBS series"
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "Nature"
+    },
+    {
+      "type": "text",
+      "text": "to draw attention to white elephants in Thailand, an endangered species.",
+      "parentId": 9,
       "sourceTitle": "White Elephants of Thailand with Meg Ryan – Introduction.",
-      "text": "She filmed a documentary in the PBS series  to draw attention to white elephants in Thailand, an endangered species."
+      "sourceUrl": "http://www.pbs.org/wnet/nature/episodes/the-white-elephants-of-thailand-with-meg-ryan/introduction/2411/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thedailybeast.com/newsweek/2010/07/24/don-t-boycott-israel.html",
+      "type": "text",
+      "text": "She boycotted an Israeli film festival to protest Israeli policies towards Palestinians.",
+      "parentId": 9,
       "sourceTitle": "Idea of Boycotting Israel Is Repellent.",
-      "text": "She boycotted an Israeli film festival to protest Israeli policies towards Palestinians."
+      "sourceUrl": "http://www.thedailybeast.com/newsweek/2010/07/24/don-t-boycott-israel.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Meg_Ryan.php",
+      "parentId": 10,
+      "type": "text",
+      "text": "And she's shown her support for women's rights by donating to the Hollywood Women's Political Committee",
       "sourceTitle": "Meg Ryan's Federal Campaign Contribution Report.",
-      "text": "And she's shown her support for women's rights by donating to the Hollywood Women's Political Committee"
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Meg_Ryan.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.babyrazzi.com/tag/meg-ryan-photos/",
+      "type": "text",
+      "text": "and supporting the organization Equality Now",
+      "parentId": 10,
       "sourceTitle": "Meg Ryan Photos.",
-      "text": "and supporting the organization Equality Now"
+      "sourceUrl": "http://www.babyrazzi.com/tag/meg-ryan-photos/"
     },
     {
-      "type": "sentence",
-      "text": "which advocates for the rights of women across the globe."
+      "type": "text",
+      "text": "which advocates for the rights of women across the globe.",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "I didn't find any passionate quotes from her about specific issues or politicians, except for this one about former Republican Vice Presidential candidate Sarah Palin:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.hecklerspray.com/meg-ryan-pink-some-other-woman-drone-about-sarah-palin/200816140.php",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I guess we have to root for her in that her son just went off to Iraq, that's gotta be really, really tough. But she doesn't represent my politics at all.",
       "sourceTitle": "Now Meg Ryan Gets To Drone On About Sarah Palin Too.",
-      "text": "I guess we have to root for her in that her son just went off to Iraq, that's gotta be really, really tough. But she doesn't represent my politics at all."
+      "sourceUrl": "http://www.hecklerspray.com/meg-ryan-pink-some-other-woman-drone-about-sarah-palin/200816140.php"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Okay, so that was one of the least passionate things I've ever heard a liberal say about Sarah Palin. But maybe she just doesn't want to hurt anyone's feelings."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

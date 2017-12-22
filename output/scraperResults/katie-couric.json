@@ -31,96 +31,131 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Katie Couric was born and raised in Arlington, Virginia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://genealogy.about.com/od/famous_family_trees/a/katie_couric.htm",
+      "parentId": 2,
+      "type": "text",
+      "text": "Couric's mother was of Jewish descent and her father was a Presbyterian of French ancestry.",
       "sourceTitle": "Ancestry of Katie Couric",
-      "text": "Couric's mother was of Jewish descent and her father was a Presbyterian of French ancestry."
+      "sourceUrl": "http://genealogy.about.com/od/famous_family_trees/a/katie_couric.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Interfaith_Celebrities_Katie_Courics_Jewish_Mom.shtml",
+      "type": "text",
+      "text": "Couric was raised a Presbyterian. It is unclear why Couric's mother converted, though one biographer, Edward Klein, believes she did it to make her children's assimilation into WASP society smoother.",
+      "parentId": 2,
       "sourceTitle": "Katie Couric's Jewish Mom",
-      "text": "Couric was raised a Presbyterian. It is unclear why Couric's mother converted, though one biographer, Edward Klein, believes she did it to make her children's assimilation into WASP society smoother."
+      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Interfaith_Celebrities_Katie_Courics_Jewish_Mom.shtml"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Couric seems to be somewhat religious today, though she indicates that this wasn't always the case:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.beliefnet.com/Quotes/Entertainment/K/Katie-Couric/I-Was-Raised-A-Presbyterian-I-Think-My-Faith-Has.aspx",
-      "sourceTitle": "Katie Couric Quote. I was raised a Presbyterian",
-      "text": "I was raised a Presbyterian. I think my faith has been tested. For a period, I was really angry. But I'm coming back to the fold. I go to church, which gives me a moment to be contemplative and take stock. I admire people who have a deep, abiding faith."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I was raised a Presbyterian. I think my faith has been tested. For a period, I was really angry. But I'm coming back to the fold. I go to church, which gives me a moment to be contemplative and take stock. I admire people who have a deep, abiding faith.",
+      "sourceTitle": "Katie Couric Quote. I was raised a Presbyterian",
+      "sourceUrl": "http://www.beliefnet.com/Quotes/Entertainment/K/Katie-Couric/I-Was-Raised-A-Presbyterian-I-Think-My-Faith-Has.aspx"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "It would certainly be interesting to know what the whole anger thing was about. But alas, Couric didn't expand upon that. Maybe she would have liked to have been Jewish? Hard to say."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Not so objective, it would seem"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Couric is a journalist, a wildly famous one at that. It is her ethical duty to remain as politically objective as possible. But it would appear she's not fooling anyone."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://archive.mrc.org/projects/couric/welcome.asp",
+      "parentId": 9,
+      "type": "text",
+      "text": "Couric is often chided for having a liberal bias.",
       "sourceTitle": "Katie Couric's Liberal Bias: Today and Yesterday",
-      "text": "Couric is often chided for having a liberal bias."
+      "sourceUrl": "http://archive.mrc.org/projects/couric/welcome.asp"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://gawker.com/5002970/the-political-leanings-of-americas-anchors",
+      "type": "text",
+      "text": "Gawker did a very interesting \"political leanings of American news anchors\" spectrum analysis. It turns out Couric is the furthest left of the anchors included, opposite Rush Limbaugh.",
+      "parentId": 9,
       "sourceTitle": "The Political Leanings of America's Anchors",
-      "text": "Gawker did a very interesting \"political leanings of American news anchors\" spectrum analysis. It turns out Couric is the furthest left of the anchors included, opposite Rush Limbaugh."
+      "sourceUrl": "http://gawker.com/5002970/the-political-leanings-of-americas-anchors"
     },
     {
-      "type": "sentence",
-      "text": "Interesting."
+      "type": "text",
+      "text": "Interesting.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2001/10/19/us/emily-couric-54-virginia-state-senator.html",
+      "parentId": 10,
+      "type": "text",
+      "text": "She would never admit it. She's got a career to think about. But these ratings and accusations aren't the only thing indicating some leanings to the left. Couric's late sister, Emily Couric, was a state senator in Virginia–and a Democrat.",
       "sourceTitle": "Emily Couric, 54, Virginia State Senator",
-      "text": "She would never admit it. She's got a career to think about. But these ratings and accusations aren't the only thing indicating some leanings to the left. Couric's late sister, Emily Couric, was a state senator in Virginia–and a Democrat."
+      "sourceUrl": "http://www.nytimes.com/2001/10/19/us/emily-couric-54-virginia-state-senator.html"
     },
     {
-      "type": "sentence",
-      "text": "So maybe it runs in the family."
+      "type": "text",
+      "text": "So maybe it runs in the family.",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "There are numerous, maybe thousands, of exchanges Couric has made with current and former politicians, celebrities of all stripes and regular people that could be (and are) interpreted as liberal or in line with the Democratic Party's position (whatever that may be). If you readers feel so inclined, tell us some memorable ones."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

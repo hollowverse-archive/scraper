@@ -34,117 +34,192 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sam Harris was born in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2006/10/25/AR2006102501998_pf.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "His mother is Jewish and his father was a Quaker, though religion was not an issue in his young life.",
       "sourceTitle": "Atheist Evangelist",
-      "text": "His mother is Jewish and his father was a Quaker, though religion was not an issue in his young life."
+      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2006/10/25/AR2006102501998_pf.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewcy.com/arts-and-culture/four_horsemen_new_atheism",
+      "parentId": 3,
+      "type": "text",
+      "text": "Harris is an atheist, counted among the Four Horsemen of New Atheism along with Daniel Dennett, Christopher Hitchens, and Richard Dawkins.",
       "sourceTitle": "The Four Horsemen of the New Atheism",
-      "text": "Harris is an atheist, counted among the Four Horsemen of New Atheism along with Daniel Dennett, Christopher Hitchens, and Richard Dawkins."
+      "sourceUrl": "http://www.jewcy.com/arts-and-culture/four_horsemen_new_atheism"
     },
     {
-      "type": "sentence",
-      "text": "But Harris doesn't want to be called an atheist. He feels that atheism is the absence of faith, of an ideology, so it shouldn't be given a name. Also, atheism is a buzzword, according to Harris, that is used to marginalize and categorize those who don't believe in God. Rather, Harris says, atheists should advocate reason and evidence because:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But Harris doesn't want to be called an atheist. He feels that atheism is the absence of faith, of an ideology, so it shouldn't be given a name. Also, atheism is a buzzword, according to Harris, that is used to marginalize and categorize those who don't believe in God. Rather, Harris says, atheists should advocate reason and evidence because:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=Ok2oJgsGR6c",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "What is the argument against reason?",
       "sourceTitle": "Sam Harris at AA107",
-      "text": "What is the argument against reason?"
+      "sourceUrl": "http://www.youtube.com/watch?v=Ok2oJgsGR6c"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=yqaHXKLRKzg&feature=related",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Harris is perhaps the most confrontational of his fellow horsemen–and that's saying a lot. He'll debate preachers, theists, creationists for hours and effectively, logically tear them to shreds.",
       "sourceTitle": "The God Debate II: Harris vs. Craig",
-      "text": "Harris is perhaps the most confrontational of his fellow horsemen–and that's saying a lot. He'll debate preachers, theists, creationists for hours and effectively, logically tear them to shreds."
+      "sourceUrl": "http://www.youtube.com/watch?v=yqaHXKLRKzg&feature=related"
     },
     {
-      "type": "sentence",
-      "text": "Faith and religion, according to Harris, is a sign of madness and it can't be reasoned with. He says:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Faith and religion, according to Harris, is a sign of madness and it can't be reasoned with. He says:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.godless-quotes.org/author/Sam_Harris",
-      "sourceTitle": "Sam Harris",
-      "text": "The problem with faith, is that it really is a conversation stopper. Faith is a declaration of immunity to the powers of conversation. It is a reason, why you do not have to give reasons, for what you believe."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "The problem with faith, is that it really is a conversation stopper. Faith is a declaration of immunity to the powers of conversation. It is a reason, why you do not have to give reasons, for what you believe.",
+      "sourceTitle": "Sam Harris",
+      "sourceUrl": "http://www.godless-quotes.org/author/Sam_Harris"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Harris envisions a perfect world where those who believe in things for which there is no evidence, furthermore, in things for which there is substantial evidence to the contrary, are looked upon as the rantings of a lunatic, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 10
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.godless-quotes.org/author/Sam_Harris",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "We must find our way to a time when faith, without evidence, disgraces anyone who would claim it.",
       "sourceTitle": "Sam Harris",
-      "text": "We must find our way to a time when faith, without evidence, disgraces anyone who would claim it."
+      "sourceUrl": "http://www.godless-quotes.org/author/Sam_Harris"
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Politics of the Godless"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.randomhouse.com/kvpa/harris/",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Politically, Harris is profoundly concerned with the sheer number of religious believers in the U.S. and the rest of the world. Like a true man of reason and science, Harris sites the numbers. He expresses horror over the fact that 50% of Americans have a \"negative\" or \"highly negative\" view of people who don't believe in God and 70% of Americans think it is important for any presidential candidate to be \"strongly religious.\"",
       "sourceTitle": "Letter to A Christian Nation",
-      "text": "Politically, Harris is profoundly concerned with the sheer number of religious believers in the U.S. and the rest of the world. Like a true man of reason and science, Harris sites the numbers. He expresses horror over the fact that 50% of Americans have a \"negative\" or \"highly negative\" view of people who don't believe in God and 70% of Americans think it is important for any presidential candidate to be \"strongly religious.\""
+      "sourceUrl": "http://www.randomhouse.com/kvpa/harris/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "The fact that religion plays any role in politics is highly objectionable to Harris, who says:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.randomhouse.com/kvpa/harris/ltcn_quotes.php",
-      "sourceTitle": "Letter to a Christian Nation",
-      "text": "A person who believes that Elvis is still alive is very unlikely to get promoted to a position of great power and responsibility in our society. Neither will a person who believes that the holocaust was a hoax. But people who believe equally irrational things about God or the Bible are now running our country. This is genuinely terrifying."
+      "id": 15
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "A person who believes that Elvis is still alive is very unlikely to get promoted to a position of great power and responsibility in our society. Neither will a person who believes that the holocaust was a hoax. But people who believe equally irrational things about God or the Bible are now running our country. This is genuinely terrifying.",
+      "sourceTitle": "Letter to a Christian Nation",
+      "sourceUrl": "http://www.randomhouse.com/kvpa/harris/ltcn_quotes.php"
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "It seems that Harris prefers Democrats over Republicans–for obvious reasons. They don't campaign nearly as much on religion or conservative \"family values\" or social policies reminiscent of eras past. During the 2008 presidential elections, he was highly critical of Sarah Palin and expressed support for Obama because, though he claimed to be religious, it was merely posturing, as no non-religious presidential candidate has a chance in this faith-driven society. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.samharris.org/site/full_text/sam-harris-sexist-pig-and-liberal-shill",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "I find Obama's religious pandering repulsive. The suspicion that he is pandering, out of obvious necessity, and not quite as religious as he makes out, is somewhat comforting, however. But even if Obama were precisely as religious as he appears, he is not a Creationist, Rapture-Ready blockhead…Whatever you may think of his politics, Obama is very intelligent and reasonably well educated. Palin thinks the universe is 6000 years old.",
       "sourceTitle": "Sam Harris: Sexist Pig and Liberal Shill",
-      "text": "I find Obama's religious pandering repulsive. The suspicion that he is pandering, out of obvious necessity, and not quite as religious as he makes out, is somewhat comforting, however. But even if Obama were precisely as religious as he appears, he is not a Creationist, Rapture-Ready blockhead…Whatever you may think of his politics, Obama is very intelligent and reasonably well educated. Palin thinks the universe is 6000 years old."
+      "sourceUrl": "http://www.samharris.org/site/full_text/sam-harris-sexist-pig-and-liberal-shill"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "Just by virtue of support-by-default of Obama and the Democrats, Harris goes in the liberal Democrat pile."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -177,7 +252,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Portrait photographs of men|Sam Harris|Self-published work|Taken with Leica M Monochrom",
+            "value": "Photographs by Christopher Michel|Portrait photographs of men|Sam Harris|Self-published work|Taken with Leica M Monochrom",
             "source": "commons-categories",
             "hidden": ""
           },

@@ -34,140 +34,222 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Frida Kahlo was born and raised in Mexico City, Mexico. She died in 1954 in Mexico City. The cause of her death is disputed, with the official report being a pulmonary embolism, though many speculate that it was a self-inflicted drug overdose."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.frida-kahlo-foundation.org/biography.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Kahlo's father was a Jewish German immigrant, and her mother was a devout Roman Catholic. However, one book about Kahlo claims that her father was a descendent of German Lutherans.",
       "sourceTitle": "Frida Kahlo Biography",
-      "text": "Kahlo's father was a Jewish German immigrant, and her mother was a devout Roman Catholic. However, one book about Kahlo claims that her father was a descendent of German Lutherans."
+      "sourceUrl": "http://www.frida-kahlo-foundation.org/biography.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://ffrf.org/news/day/dayitems/item/14417-frida-kahlo",
+      "parentId": 3,
+      "type": "text",
+      "text": "It might not really matter as it doesn't appear that Kahlo herself was devoted to either of these faiths. In fact, many claim she was an atheist, citing a painting of hers in which a dollar sign is wrapped around a cross on a church",
       "sourceTitle": "Frida Kahlo",
-      "text": "It might not really matter as it doesn't appear that Kahlo herself was devoted to either of these faiths. In fact, many claim she was an atheist, citing a painting of hers in which a dollar sign is wrapped around a cross on a church"
+      "sourceUrl": "https://ffrf.org/news/day/dayitems/item/14417-frida-kahlo"
     },
     {
-      "type": "sentence",
-      "text": "and this poem:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and this poem:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Frida_Kahlo",
-      "sourceTitle": "Frida Kahlo",
-      "text": "You absence/Kills me, making/a virtue/of your memory./You are the nonexisting/God."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "You absence/Kills me, making/a virtue/of your memory./You are the nonexisting/God.",
+      "sourceTitle": "Frida Kahlo",
+      "sourceUrl": "http://www.celebatheists.com/wiki/Frida_Kahlo"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "One art journalist, John Timpane, wrote of Kahlo:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.alternet.org/belief/7-amazing-atheists-who-arent-old-white-guys",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "She is, however, an uneasy fit for Mexican culture. In this country dominated by tradition and Catholicism, she was an atheist communist…",
       "sourceTitle": "7 Amazing Atheists Who Aren't Old White Guys",
-      "text": "She is, however, an uneasy fit for Mexican culture. In this country dominated by tradition and Catholicism, she was an atheist communist…"
+      "sourceUrl": "http://www.alternet.org/belief/7-amazing-atheists-who-arent-old-white-guys"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jstor.org/discover/10.2307/3566513?uid=3739864&uid=2129&uid=2&uid=70&uid=4&uid=3739256&sid=21101514620091",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Still, there is no denying a sort of spirituality in Kahlo's paintings, which is the subject of academic papers",
       "sourceTitle": "Frida Kahlo's Spiritual World",
-      "text": "Still, there is no denying a sort of spirituality in Kahlo's paintings, which is the subject of academic papers"
+      "sourceUrl": "http://www.jstor.org/discover/10.2307/3566513?uid=3739864&uid=2129&uid=2&uid=70&uid=4&uid=3739256&sid=21101514620091"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pbs.org/weta/fridakahlo/today/taylor_interview.html",
+      "type": "text",
+      "text": "and many an art historian's discussion. One such historian, Zamudio Taylor, argues that Kahlo's use of the traditional Mexican religious painting medium of",
+      "parentId": 9
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "ex votos"
+    },
+    {
+      "type": "text",
+      "text": "acknowledges the heavy religious influence of Kahlo's culture.",
+      "parentId": 9,
       "sourceTitle": "The Life and Times of Frida Kahlo",
-      "text": "and many an art historian's discussion. One such historian, Zamudio Taylor, argues that Kahlo's use of the traditional Mexican religious painting medium of  acknowledges the heavy religious influence of Kahlo's culture."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.pbs.org/weta/fridakahlo/today/taylor_interview.html"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Birthdays and politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://feminismandreligion.com/2012/10/13/painting-frida-kahlo-by-angela-yarber/",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "First and foremost, Kahlo was a fierce Mexican patriot who even claimed to be three years  and one day younger than she really was so her birth year would coincide with the Mexican Revolution.",
       "sourceTitle": "Painting and Frida Kahlo By Angela Yarber.",
-      "text": "First and foremost, Kahlo was a fierce Mexican patriot who even claimed to be three years  and one day younger than she really was so her birth year would coincide with the Mexican Revolution."
+      "sourceUrl": "http://feminismandreligion.com/2012/10/13/painting-frida-kahlo-by-angela-yarber/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://ffrf.org/news/day/dayitems/item/14417-frida-kahlo",
+      "parentId": 12,
+      "type": "text",
+      "text": "She was also a communist and personal friend of exiled Russian Marxist theorist Leon Trotsky and it was even rumored that she had an illicit affair with him.",
       "sourceTitle": "Frida Kahlo",
-      "text": "She was also a communist and personal friend of exiled Russian Marxist theorist Leon Trotsky and it was even rumored that she had an illicit affair with him."
+      "sourceUrl": "https://ffrf.org/news/day/dayitems/item/14417-frida-kahlo"
     },
     {
-      "type": "sentence",
-      "text": "Beyond that, she painted a  entitled \"Stalin and I\" in which Kahlo herself was pictured sitting next to a portrait of the then-Soviet leader."
+      "type": "text",
+      "text": "Beyond that, she painted a",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "parentId": 12,
+      "type": "link",
+      "text": "piece",
+      "sourceUrl": "http://www.wikipaintings.org/en/frida-kahlo/self-portrait-with-stalin-1954"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.wsws.org/en/articles/2010/09/kah2-s11.html",
+      "type": "text",
+      "text": "entitled \"Stalin and I\" in which Kahlo herself was pictured sitting next to a portrait of the then-Soviet leader.",
+      "parentId": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Kahlo and her husband, artist Diego Rivera, were active in the Mexican Communist Party and during Kahlo's travels to the U.S. (in which she came to develop \"quite a rage against all the rich people\") Kahlo became known as \"comrade Frida\" to the Communist League of America.",
       "sourceTitle": "Frida Kahlo retrospective in Berlin – part 2",
-      "text": "Kahlo and her husband, artist Diego Rivera, were active in the Mexican Communist Party and during Kahlo's travels to the U.S. (in which she came to develop \"quite a rage against all the rich people\") Kahlo became known as \"comrade Frida\" to the Communist League of America."
+      "sourceUrl": "http://www.wsws.org/en/articles/2010/09/kah2-s11.html"
     },
     {
-      "type": "sentence",
-      "text": "She wrote of her time with the American communists:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She wrote of her time with the American communists:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.wsws.org/en/articles/2010/09/kah2-s11.html",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I've learnt so much here and I'm more and more convinced it's only through communism that we can become human.",
       "sourceTitle": "Frida Kahlo retrospective in Berlin – part 2",
-      "text": "I've learnt so much here and I'm more and more convinced it's only through communism that we can become human."
+      "sourceUrl": "http://www.wsws.org/en/articles/2010/09/kah2-s11.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theledger.com/article/20070713/NEWS/707130335?p=4&tc=pg",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Besides communism, Kahlo is considered an important feminist. Not only was she known to have had affairs with women,",
       "sourceTitle": "Frida Kahlo: Feminist, Chicana Heroine",
-      "text": "Besides communism, Kahlo is considered an important feminist. Not only was she known to have had affairs with women,"
+      "sourceUrl": "http://www.theledger.com/article/20070713/NEWS/707130335?p=4&tc=pg"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://philandfem.blogspot.com/2010/04/frida-kahlo-feminist-artist.html",
+      "type": "text",
+      "text": "her art is often viewed as strikingly personal and exudes the pain, despair and challenges associated with being a woman in the patriarchal culture of 20th Century Mexico.",
+      "parentId": 16,
       "sourceTitle": "Frida Kahlo – Feminist Artist",
-      "text": "her art is often viewed as strikingly personal and exudes the pain, despair and challenges associated with being a woman in the patriarchal culture of 20th Century Mexico."
+      "sourceUrl": "http://philandfem.blogspot.com/2010/04/frida-kahlo-feminist-artist.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtonmonthly.com/features/2001/0206.mencimer.html",
+      "parentId": 17,
+      "type": "text",
+      "text": "Recently, Kahlo's paintings and life story have resurfaced in pop culture.",
       "sourceTitle": "The Trouble With Frida Kahlo by Stephanie Mencimer",
-      "text": "Recently, Kahlo's paintings and life story have resurfaced in pop culture."
+      "sourceUrl": "http://www.washingtonmonthly.com/features/2001/0206.mencimer.html"
     },
     {
-      "type": "sentence",
-      "text": "People are finding that her message is timeless, poignant and really quite interesting."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "People are finding that her message is timeless, poignant and really quite interesting.",
+      "parentId": 17
     }
   ],
   "wikipediaData": {

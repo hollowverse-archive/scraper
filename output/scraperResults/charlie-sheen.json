@@ -31,153 +31,249 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Charlie Sheen was born and raised in a family of actors in New York City. His father is famous actor Martin Sheen and his brother the 80s idol, Emilio Estevez."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.irishcentral.com/ent/Actor-Martin-Sheen-says-his-Catholic-religion-saved-him-119756024.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Charlie's father, Martin, was raised by devout Roman Catholics so we can be assured that Charlie was instilled with some religious influence.",
       "sourceTitle": "Actor Martin Sheen says his Catholic religion saved him",
-      "text": "Charlie's father, Martin, was raised by devout Roman Catholics so we can be assured that Charlie was instilled with some religious influence."
+      "sourceUrl": "http://www.irishcentral.com/ent/Actor-Martin-Sheen-says-his-Catholic-religion-saved-him-119756024.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "But between the drugs, hookers, rehab, more drugs, arrests, going totally ape-shit, it seems like maybe a little more God would do Charlie some good."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Sheen is off in his own world. He's even been labeled as the deity in his own religion, \"Winningtology,\" constantly saying things like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/c/charlie_sheen_3.html",
-      "sourceTitle": "Charlie Sheen Quotes",
-      "text": "The only thing I'm addicted to is winning. This bootleg cult, arrogantly referred to as Alcoholics Anonymous, reports a 5 percent success rate. My success rate is 100 percent."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "The only thing I'm addicted to is winning. This bootleg cult, arrogantly referred to as Alcoholics Anonymous, reports a 5 percent success rate. My success rate is 100 percent.",
+      "sourceTitle": "Charlie Sheen Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/c/charlie_sheen_3.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "and"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/c/charlie_sheen_3.html",
-      "sourceTitle": "Charlie Sheen Quotes",
-      "text": "Boom, crush. Night, losers. Winning, duh."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Boom, crush. Night, losers. Winning, duh.",
+      "sourceTitle": "Charlie Sheen Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/c/charlie_sheen_3.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "or"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/c/charlie_sheen_3.html",
-      "sourceTitle": "Charlie Sheen Quotes",
-      "text": "I'm bi-winning. I win here, I win there."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I'm bi-winning. I win here, I win there.",
+      "sourceTitle": "Charlie Sheen Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/c/charlie_sheen_3.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Where do I sign up?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "I wonder what theological basis Winningtology rests itself upon. One thing we can assume is that it's not a sect of Atheism. Charlie seriously pissed off Atheists when he said this on national television:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://raycomfortfood.blogspot.com/2011/03/is-charlie-sheen-atheist.html",
-      "sourceTitle": "Ray Comfort's Blog: Is Charlie Sheen an Atheist",
-      "text": "Anybody that doesn't believe in God hasn't looked into the eyes of a child."
+      "id": 15
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Anybody that doesn't believe in God hasn't looked into the eyes of a child.",
+      "sourceTitle": "Ray Comfort's Blog: Is Charlie Sheen an Atheist",
+      "sourceUrl": "http://raycomfortfood.blogspot.com/2011/03/is-charlie-sheen-atheist.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "I don't know Charlie, I think there are probably at least a few atheists who have made eye contact with children–at least once."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 18
     },
     {
-      "type": "heading",
+      "parentId": 18,
+      "type": "text",
       "text": "Drugs and politics. Yes!"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/news/celebritynews/6177194/Charlie-Sheen-urges-Barack-Obama-to-reopen-911-investigation-in-video-message.html",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Sheen's most significant political contribution has been to popularize an often-discussed conspiracy theory–that the 9/11 World Trade Center attacks were a government ploy. He even made a public, personal appeal to President Obama to re-open investigations of the attacks",
       "sourceTitle": "Charlie Sheen urges Barack Obama to reopen 9/11 investigation in video message",
-      "text": "Sheen's most significant political contribution has been to popularize an often-discussed conspiracy theory–that the 9/11 World Trade Center attacks were a government ploy. He even made a public, personal appeal to President Obama to re-open investigations of the attacks"
+      "sourceUrl": "http://www.telegraph.co.uk/news/celebritynews/6177194/Charlie-Sheen-urges-Barack-Obama-to-reopen-911-investigation-in-video-message.html"
     },
     {
-      "type": "sentence",
-      "text": "as the 9/11 commission was, in his words, a \"whitewash.\""
+      "type": "text",
+      "text": "as the 9/11 commission was, in his words, a \"whitewash.\"",
+      "parentId": 19
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "Charlie has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://web.archive.org/web/20080530044634/http://www.rawstory.com/news/2006/Sheen_interview_on_911_garners_media_0323.html",
+      "id": 21
+    },
+    {
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "It's like they want to pigeonhole all of us into conspiracy nutbags when we're not debating things that are related to UFO's bringing down the towers or Building 7 or the Pentagon and so its feels like there's things in there that we're not the conspiracy theorists on this particular issue. It seems to me like 19 amateurs with box cutters taking over four commercial airliners and hitting 75 percent of their targets: that feels like a conspiracy theory.",
       "sourceTitle": "Controversial Charlie Sheen 9/11 interview begins to attract media attention",
-      "text": "It's like they want to pigeonhole all of us into conspiracy nutbags when we're not debating things that are related to UFO's bringing down the towers or Building 7 or the Pentagon and so its feels like there's things in there that we're not the conspiracy theorists on this particular issue. It seems to me like 19 amateurs with box cutters taking over four commercial airliners and hitting 75 percent of their targets: that feels like a conspiracy theory."
+      "sourceUrl": "http://web.archive.org/web/20080530044634/http://www.rawstory.com/news/2006/Sheen_interview_on_911_garners_media_0323.html"
     },
     {
-      "type": "sentence",
-      "text": "I don't know, that doesn't make sense. Hmm.."
+      "type": "paragraph",
+      "id": 23
     },
     {
-      "type": "break"
+      "parentId": 23,
+      "type": "text",
+      "text": "I don't know, that doesn't"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.aidforaids.net/events.html",
+      "parentId": 23,
+      "type": "emphasis",
+      "text": "not"
+    },
+    {
+      "type": "text",
+      "text": "make sense. Hmm..",
+      "parentId": 23
+    },
+    {
+      "type": "paragraph",
+      "id": 24
+    },
+    {
+      "parentId": 24,
+      "type": "text",
+      "text": "Beyond that, Sheen has been very active within charitable institutions to advance certain social causes, particularly in disease research. He even won an Aid for Aids (AFA) Angel Award for his contribution to the cause.",
       "sourceTitle": "Aid for Aids",
-      "text": "Beyond that, Sheen has been very active within charitable institutions to advance certain social causes, particularly in disease research. He even won an Aid for Aids (AFA) Angel Award for his contribution to the cause."
+      "sourceUrl": "http://www.aidforaids.net/events.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 25
     },
     {
-      "type": "sentence",
+      "parentId": 25,
+      "type": "text",
       "text": "One wonders that if beneath that chemical-soaked exterior, there isn't a heart of gold, a misunderstood artist expressing himself in destructive ways."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 26
     },
     {
-      "type": "sentence",
+      "parentId": 26,
+      "type": "text",
       "text": "Or, he's just totally out of his mind."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

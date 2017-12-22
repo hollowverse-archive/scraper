@@ -41,122 +41,211 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Janet Jackson was born in Gary, Indiana. She grew up there and in Encino, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.boston.com/news/local/articles_of_faith/2009/07/michael_jackson.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Jackson was brought up a Jehovah's Witness and her family was very devout. Her most famous brother, Michael, spoke about knocking on doors to hand out the religion's famous magazine,"
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "Watchtower"
+    },
+    {
+      "type": "text",
+      "text": ", even after he became wildly famous.",
+      "parentId": 2,
       "sourceTitle": "Religion thriller: Michael Jackson & Faith",
-      "text": "Jackson was brought up a Jehovah's Witness and her family was very devout. Her most famous brother, Michael, spoke about knocking on doors to hand out the religion's famous magazine, , even after he became wildly famous."
+      "sourceUrl": "http://www.boston.com/news/local/articles_of_faith/2009/07/michael_jackson.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "But for Janet, it was a more female experience, naturally. All the Jackson children were entertainers–forced by their father to work constantly while their mother took control of their religious development. Janet said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.parade.com/celebrity/articles/080205-janet-jackson.html",
-      "sourceTitle": "Interview With Janet Jackson",
-      "text": "Jehovah's Witnesses was the religion we were raised under. I'd get up on Sunday mornings, go to the Kingdom Hall, go again on Thursday night and go to book study on Tuesdays, because that was my mother's routine… I was so tired, so busy, so knocked out, I'd fall asleep. My mother would hit me on my thigh to wake me up. 'Baby, wake up!' she'd say, 'Wake up and close your legs! You have on a dress!'"
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Jehovah's Witnesses was the religion we were raised under. I'd get up on Sunday mornings, go to the Kingdom Hall, go again on Thursday night and go to book study on Tuesdays, because that was my mother's routine… I was so tired, so busy, so knocked out, I'd fall asleep. My mother would hit me on my thigh to wake me up. 'Baby, wake up!' she'd say, 'Wake up and close your legs! You have on a dress!'",
+      "sourceTitle": "Interview With Janet Jackson",
+      "sourceUrl": "http://www.parade.com/celebrity/articles/080205-janet-jackson.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "But as with Michael–and most of Janet's other siblings, Jehovah's Witness didn't stick. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0001390/bio",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I am not a religious person, but I am spiritual. But I don't believe in things like guilt. I believe in a higher power. I believe in inspiration.",
       "sourceTitle": "Janet Jackson – Biography",
-      "text": "I am not a religious person, but I am spiritual. But I don't believe in things like guilt. I believe in a higher power. I believe in inspiration."
+      "sourceUrl": "http://www.imdb.com/name/nm0001390/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.emirates247.com/entertainment/celebrity-gossip/after-secret-engagement-to-doha-billionaire-wissam-al-mana-janet-jackson-tweets-pic-2012-12-30-1.477776",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "And it looks like she might have even given up on Christianity altogether. At the time of writing, the rumor mill is cranking out speculation about Jackson's engagement to a billionaire from Qatar named Wissam Al Mana. He is a Muslim and it has been confirmed that they will be married in Muslim ceremony.",
       "sourceTitle": "After secret engagement to Doha billionaire Wissam Al Mana, Janet Jackson tweets pic",
-      "text": "And it looks like she might have even given up on Christianity altogether. At the time of writing, the rumor mill is cranking out speculation about Jackson's engagement to a billionaire from Qatar named Wissam Al Mana. He is a Muslim and it has been confirmed that they will be married in Muslim ceremony."
+      "sourceUrl": "http://www.emirates247.com/entertainment/celebrity-gossip/after-secret-engagement-to-doha-billionaire-wissam-al-mana-janet-jackson-tweets-pic-2012-12-30-1.477776"
     },
     {
-      "type": "sentence",
-      "text": "The big question is: Does that mean she will be converting to Islam? There's a  here of her wearing the full headress and garb of a Muslim woman."
+      "type": "text",
+      "text": "The big question is: Does that mean she will be converting to Islam? There's a",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "parentId": 9,
+      "type": "link",
+      "text": "photo",
+      "sourceUrl": "http://www.debbieschlussel.com/55026/janet-jackson-converts-to-islam-to-marry-qatari-billionaire-halal-abda-cha-ching/"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": "here of her wearing the full headress and garb of a Muslim woman.",
+      "parentId": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "We'll check back later as to how this develops. Keep us updated in the comments, folks."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "Non-reciprocal politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.bet.com/news/music/2012/05/14/janet-jackson-supports-president-obama-on-gay-marriage.html",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Jackson generally stays out of the political conversation–she'll be quick to tell you she's too busy for such things.",
       "sourceTitle": "Janet Jackson Supports President Obama on Gay Marriage",
-      "text": "Jackson generally stays out of the political conversation–she'll be quick to tell you she's too busy for such things."
+      "sourceUrl": "http://www.bet.com/news/music/2012/05/14/janet-jackson-supports-president-obama-on-gay-marriage.html"
     },
     {
-      "type": "sentence",
-      "text": "However, occasionally an interesting little side-note will slip out during an interview about her next album or film endeavor."
+      "type": "text",
+      "text": "However, occasionally an interesting little side-note will slip out during an interview about her next album or film endeavor.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Shortly after Obama's first electoral victory, when he was under heavy scrutiny, Jackson addressed his early critics, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thedailybeast.com/cheats/2009/11/29/janet-jackson-defends-obama.html",
-      "sourceTitle": "Janet Jackson Defends Obama",
-      "text": "Everyone wants everything to turn around immediately. It took us how many years to get to this point? People say, 'His first 100 days in office, what has he done?' You can't do that to the man. It's not going to happen tomorrow."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Everyone wants everything to turn around immediately. It took us how many years to get to this point? People say, 'His first 100 days in office, what has he done?' You can't do that to the man. It's not going to happen tomorrow.",
+      "sourceTitle": "Janet Jackson Defends Obama",
+      "sourceUrl": "http://www.thedailybeast.com/cheats/2009/11/29/janet-jackson-defends-obama.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "And in 2012, as re-election was on the horizon, Obama scored major points with gay rights advocates when he said he was OK with gay marriage. He caught Janet's attention too. She commented:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.bet.com/news/music/2012/05/14/janet-jackson-supports-president-obama-on-gay-marriage.html",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "He finally came around, didn't he? He finally came around, good for him.",
       "sourceTitle": "Janet Jackson Supports President Obama on Gay Marriage",
-      "text": "He finally came around, didn't he? He finally came around, good for him."
+      "sourceUrl": "http://www.bet.com/news/music/2012/05/14/janet-jackson-supports-president-obama-on-gay-marriage.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/04/18/janet-jackson-super-bowl-_n_1435276.html?ncid=edlinkusaolp00000003",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "I suppose that puts her in the liberal Democrat camp. Unfortunately, Obama wasn't so kind to Jackson. After her infamous \"exposed nipple\" incident during the 2004 Super Bowl, CBS was fined $550,000 by the FCC, but an appeals court threw the fine out for being \"arbitrary.\" Eight years later, the Obama administration was asking for the case to be reviewed, and the fine to be reinstated.",
       "sourceTitle": "Janet Jackson Super Bowl 'Wardrobe Malfunction': White House Asks Supreme Court To Reassess FCC Fine",
-      "text": "I suppose that puts her in the liberal Democrat camp. Unfortunately, Obama wasn't so kind to Jackson. After her infamous \"exposed nipple\" incident during the 2004 Super Bowl, CBS was fined $550,000 by the FCC, but an appeals court threw the fine out for being \"arbitrary.\" Eight years later, the Obama administration was asking for the case to be reviewed, and the fine to be reinstated."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/04/18/janet-jackson-super-bowl-_n_1435276.html?ncid=edlinkusaolp00000003"
     },
     {
-      "type": "sentence",
-      "text": "Are they that hard-up for cash or what? It seems, as the Appeals Court judge said, rather arbitrary."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Are they that hard-up for cash or what? It seems, as the Appeals Court judge said, rather arbitrary.",
+      "parentId": 19
     }
   ],
   "wikipediaData": {

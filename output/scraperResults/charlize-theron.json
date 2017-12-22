@@ -36,106 +36,170 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Charlize Theron was born and raised in Benoni, South Africa, a village near Johannesburg. At sixteen, she moved to Milan, Italy to pursue a modeling career."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Theron wasn't raised religious. As a child, her mother encouraged her to figure out faith and spirituality on her own. Theron said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.indielondon.co.uk/Film-Review/in-the-valley-of-elah-charlize-theron-interview",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "My mum always told me, even as a kid: 'Come to your own conclusion.' So, I started going to church and then stopped, for some reason… I think I am pagan, at heart.",
       "sourceTitle": "In The Valley of Elah – Charlize Theron Interview",
-      "text": "My mum always told me, even as a kid: 'Come to your own conclusion.' So, I started going to church and then stopped, for some reason… I think I am pagan, at heart."
+      "sourceUrl": "http://www.indielondon.co.uk/Film-Review/in-the-valley-of-elah-charlize-theron-interview"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1252546/KATIE-NICHOLL-Charlize-puts-faith-Kabbalah.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "There you have it, Theron is pagan. But that might conflict with recent reports that she's taken up the celebrity religion"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "du jour"
+    },
+    {
+      "type": "text",
+      "text": ", Kabbalah. Theron was spotted in Hollywood wearing this Jewish sect's trademark red string bracelet.",
+      "parentId": 5,
       "sourceTitle": "Carlize Theron puts her faith in Kabbalah",
-      "text": "There you have it, Theron is pagan. But that might conflict with recent reports that she's taken up the celebrity religion , Kabbalah. Theron was spotted in Hollywood wearing this Jewish sect's trademark red string bracelet."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1252546/KATIE-NICHOLL-Charlize-puts-faith-Kabbalah.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.timesofindia.indiatimes.com/2010-02-22/news-interviews/28116759_1_devotee-charlize-theron-new-religion",
+      "type": "text",
+      "text": "There is speculation, however, that this a career move for Theron and would put her in the company of the religion's other famous adherents such as Demi Moore and Madonna.",
+      "parentId": 5,
       "sourceTitle": "The new Kabbalah devotee",
-      "text": "There is speculation, however, that this a career move for Theron and would put her in the company of the religion's other famous adherents such as Demi Moore and Madonna."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://articles.timesofindia.indiatimes.com/2010-02-22/news-interviews/28116759_1_devotee-charlize-theron-new-religion"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Flying on the left wing"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Theron's politics are much less ambiguous than her religious views. She's a serious liberal."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thecelebritycafe.com/actor/charlize-theron",
+      "parentId": 8,
+      "type": "text",
+      "text": "Theron has participated in marches and rallies in support of her pro-choice stance on abortion",
       "sourceTitle": "Charlize Theron",
-      "text": "Theron has participated in marches and rallies in support of her pro-choice stance on abortion"
+      "sourceUrl": "http://thecelebritycafe.com/actor/charlize-theron"
     },
     {
-      "type": "sentence",
-      "text": "and she has done work for People for the Ethical Treatment of Animals (PETA). The fashion model said of the use of fur for clothing:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and she has done work for People for the Ethical Treatment of Animals (PETA). The fashion model said of the use of fur for clothing:",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.peta.org/features/charlize-theron-dogs-the-fur-trade.aspx",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Fur isn't necessary. It doesn't make sense to me to let these animals suffer for fashion.",
       "sourceTitle": "Charlize Theron Dogs the Fur Trade",
-      "text": "Fur isn't necessary. It doesn't make sense to me to let these animals suffer for fashion."
+      "sourceUrl": "http://www.peta.org/features/charlize-theron-dogs-the-fur-trade.aspx"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://latimesblogs.latimes.com/lanow/2009/05/thousand-attend-fresno-rally-supporting-of-gay-marriage.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "But the full weight of Theron's star power of late has gone to gay marriage and gay rights. She's been on network television to talk about it, spoken about her stance in numerous interviews, marched at gay rights demonstrations,",
       "sourceTitle": "Thousands attend Fresno rally supporting gay marriage",
-      "text": "But the full weight of Theron's star power of late has gone to gay marriage and gay rights. She's been on network television to talk about it, spoken about her stance in numerous interviews, marched at gay rights demonstrations,"
+      "sourceUrl": "http://latimesblogs.latimes.com/lanow/2009/05/thousand-attend-fresno-rally-supporting-of-gay-marriage.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2009/09/17/charlize-theron-i-wont-ge_n_290073.html",
+      "type": "text",
+      "text": "and even refused to get married because of what she considers marriage injustice.",
+      "parentId": 11,
       "sourceTitle": "Charlize Theron: I Won't Get Married Until My Gay Friends Can",
-      "text": "and even refused to get married because of what she considers marriage injustice."
+      "sourceUrl": "http://www.huffingtonpost.com/2009/09/17/charlize-theron-i-wont-ge_n_290073.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "The issue has caused Theron to question government interference in social issues. She once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.inquisitr.com/122316/charlize-theron-piers-morgan-gay-marriage/",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "When government starts to tell us who can love and what is good love… I do have a problem with that. I do have a problem with the fact that our government hasn't stepped up enough to make this federal, to make [gay marriage] legal. I think everybody has that right.",
       "sourceTitle": "Charlize Theron, Piers Morgan Talk Gay Marriage, Long-Term Relationships",
-      "text": "When government starts to tell us who can love and what is good love… I do have a problem with that. I do have a problem with the fact that our government hasn't stepped up enough to make this federal, to make [gay marriage] legal. I think everybody has that right."
+      "sourceUrl": "http://www.inquisitr.com/122316/charlize-theron-piers-morgan-gay-marriage/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ns1.newsmeat.com/celebrity_political_donations/Charlize_Theron.php",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "So she's very liberal, but that doesn't indicate her political party affiliation–though we might naturally assume that it's Democrat. Based on her financial contributions, however, our assumptions would be correct in this case. Theron has given over $12,000 to Democrats since 2004–and nothing to anyone else.",
       "sourceTitle": "Charlize Theron's Federal Campaign Contribution Report",
-      "text": "So she's very liberal, but that doesn't indicate her political party affiliation–though we might naturally assume that it's Democrat. Based on her financial contributions, however, our assumptions would be correct in this case. Theron has given over $12,000 to Democrats since 2004–and nothing to anyone else."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://ns1.newsmeat.com/celebrity_political_donations/Charlize_Theron.php"
     }
   ],
   "wikipediaData": {

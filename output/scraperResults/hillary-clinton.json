@@ -33,142 +33,203 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Hillary Diane Rodham Clinton was born in Chicago, Illinois and grew up in nearby Park Ridge, Illinois."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://atheism.about.com/od/hillaryclintonreligion/a/ClintonReligion.htm",
+      "parentId": 2,
+      "type": "text",
+      "text": "Clinton grew up in a devout Methodist Christian home and still practices her faith to this day. Clinton even taught Sunday school before her life in politics and finance left her little time for anything else. She now attends the Foundry United Methodist Church in Washington D.C.",
       "sourceTitle": "Hillary Clinton's Religious Background, Beliefs",
-      "text": "Clinton grew up in a devout Methodist Christian home and still practices her faith to this day. Clinton even taught Sunday school before her life in politics and finance left her little time for anything else. She now attends the Foundry United Methodist Church in Washington D.C."
+      "sourceUrl": "http://atheism.about.com/od/hillaryclintonreligion/a/ClintonReligion.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "For a liberal Democrat, Clinton is surprisingly willing to talk about her faith in public and even introduce it into her policy discussions. In 2011, when the issue of illegal immigration was raging like wildfire across the U.S., Clinton told Republicans that their policies would:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.motherjones.com/politics/2007/09/hillarys-prayer-hillary-clintons-religion-and-politics",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "…criminalize the good Samaritan…and even Jesus himself.",
       "sourceTitle": "Hillary's Prayer: Hillary Clinton's Religion and Politics",
-      "text": "…criminalize the good Samaritan…and even Jesus himself."
+      "sourceUrl": "http://www.motherjones.com/politics/2007/09/hillarys-prayer-hillary-clintons-religion-and-politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.motherjones.com/politics/2007/09/hillarys-prayer-hillary-clintons-religion-and-politics",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "In fact, by all accounts, Clinton mixes religion with politics on a regular basis. She's a member of a somewhat secretive religious organization in Washington D.C. called The Fellowship, a membership she shares with the likes of uber-fundamentalist former presidential candidate Rick Santorum.",
       "sourceTitle": "Hillary's Prayer: Hillary Clinton's Religion and Politics",
-      "text": "In fact, by all accounts, Clinton mixes religion with politics on a regular basis. She's a member of a somewhat secretive religious organization in Washington D.C. called The Fellowship, a membership she shares with the likes of uber-fundamentalist former presidential candidate Rick Santorum."
+      "sourceUrl": "http://www.motherjones.com/politics/2007/09/hillarys-prayer-hillary-clintons-religion-and-politics"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "But she's also quick to cry foul when religion interferes with human rights and her particular political philosophy, like when she said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://cnsnews.com/news/article/hillary-clinton-religious-beliefs-are-standing-way-protecting-human-rights-lgbt-people",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "People cite religious or cultural values as a reason to violate or not to protect the human rights of LGBT citizens. This is not unlike the justification offered for violent practices towards women.",
       "sourceTitle": "Hillary Clinton: 'Religious Beliefs' Are 'Standing in the Way of Protecting Human Rights of LGBT People.'",
-      "text": "People cite religious or cultural values as a reason to violate or not to protect the human rights of LGBT citizens. This is not unlike the justification offered for violent practices towards women."
+      "sourceUrl": "http://cnsnews.com/news/article/hillary-clinton-religious-beliefs-are-standing-way-protecting-human-rights-lgbt-people"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Almost the first woman president"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Clinton began her political career as the first lady when her husband, Bill, was president from 1992 to 2000. She then used her position as U.S. Congresswoman from New York to segue into a Democratic presidential candidate in 2008–which she ultimately lost to Barack Obama. It was a close race, however, and the Obama administration rewarded Clinton's tenacity with an appointment to U.S. Secretary of State."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adaction.org/media/votingrecords/2007.pdf",
+      "parentId": 12,
+      "type": "text",
+      "text": "Clinton is a Democrat and a liberal. The Americans for Democrat Action, a liberal lobbyist group, rated Clinton as more liberal than 75% of her fellow members of Congress.",
       "sourceTitle": "Voting Records",
-      "text": "Clinton is a Democrat and a liberal. The Americans for Democrat Action, a liberal lobbyist group, rated Clinton as more liberal than 75% of her fellow members of Congress."
+      "sourceUrl": "http://www.adaction.org/media/votingrecords/2007.pdf"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.drummajorinstitute.com/congress/drum-major-voting-summary.php?name=Clinton&state=NY&database=senate",
+      "type": "text",
+      "text": "and the Drum Major Institute gave her an \"A\" for championing issues for the middle-class.",
+      "parentId": 12,
       "sourceTitle": "Congress at the Midterm: Their 2005 Middle-Class Record",
-      "text": "and the Drum Major Institute gave her an \"A\" for championing issues for the middle-class."
+      "sourceUrl": "http://www.drummajorinstitute.com/congress/drum-major-voting-summary.php?name=Clinton&state=NY&database=senate"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Socially, Clinton is a serious liberal. She's held the torch for women while condemning religious social control, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thefrisky.com/2012-03-13/hillary-clinton-tells-religious-extremists-to-stfu-about-women/",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Why extremists always focus on women remains a mystery to me, but they all seem to. It doesn't matter what country they're in or what religion they claim, they all want to control women.",
       "sourceTitle": "Hillary Clinton Tells Religious Extremists to STFU About Women",
-      "text": "Why extremists always focus on women remains a mystery to me, but they all seem to. It doesn't matter what country they're in or what religion they claim, they all want to control women."
+      "sourceUrl": "http://www.thefrisky.com/2012-03-13/hillary-clinton-tells-religious-extremists-to-stfu-about-women/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.foxnews.com/story/0,2933,261181,00.html",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Her previous quote made her position clear on gay rights and she's pro-universal health care, a major rallying point in her presidential campaign.",
       "sourceTitle": "Hillary Clinton Vows Universal Health Care Will Be Her Goal As Presiden",
-      "text": "Her previous quote made her position clear on gay rights and she's pro-universal health care, a major rallying point in her presidential campaign."
+      "sourceUrl": "http://www.foxnews.com/story/0,2933,261181,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.bellona.org/articles/articles_2007/clinton_kyoto",
+      "type": "text",
+      "text": "Clinton supports the U.S. ratification of the Kyoto Protocol,",
+      "parentId": 16,
       "sourceTitle": "US prez candidate Hillary Clinton lets loose with the K-word",
-      "text": "Clinton supports the U.S. ratification of the Kyoto Protocol,"
+      "sourceUrl": "http://www.bellona.org/articles/articles_2007/clinton_kyoto"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://dean2004.blogspot.com/2005/02/transcript-hillary-clinton-speech-on.html",
+      "type": "text",
+      "text": "an international agreement set on reducing greenhouse gas emissions, which every developed western country signed except the U.S. under the Bush administration. And even though Hillary isn't personally a fan of abortion and she would like to see the number of abortions reduced, she doesn't think it should be illegal.",
+      "parentId": 16,
       "sourceTitle": "Nation-building: transcript: Hillary Clinton speech on abortion",
-      "text": "an international agreement set on reducing greenhouse gas emissions, which every developed western country signed except the U.S. under the Bush administration. And even though Hillary isn't personally a fan of abortion and she would like to see the number of abortions reduced, she doesn't think it should be illegal."
+      "sourceUrl": "http://dean2004.blogspot.com/2005/02/transcript-hillary-clinton-speech-on.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.rian.ru/world/20120111/170701907.html",
+      "parentId": 17,
+      "type": "text",
+      "text": "As Secretary of State, Clinton has taken a rather hard line on foreign affairs. She's condemned Iran's nuclear program,",
       "sourceTitle": "U.S. condemns Iran's decision to start uranium enrichment",
-      "text": "As Secretary of State, Clinton has taken a rather hard line on foreign affairs. She's condemned Iran's nuclear program,"
+      "sourceUrl": "http://en.rian.ru/world/20120111/170701907.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newsinfo.inquirer.net/176075/world-condemns-north-koreas-provocative-act",
+      "type": "text",
+      "text": "North Korea for the same reason,",
+      "parentId": 17,
       "sourceTitle": "World condemns North Korea's 'provocative act.'",
-      "text": "North Korea for the same reason,"
+      "sourceUrl": "http://newsinfo.inquirer.net/176075/world-condemns-north-koreas-provocative-act"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/8571143.stm",
+      "type": "text",
+      "text": "thrown full U.S. support behind Israel (for better or worse),",
+      "parentId": 17,
       "sourceTitle": "Hillary Clinton affirms US support for Israel after row",
-      "text": "thrown full U.S. support behind Israel (for better or worse),"
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/8571143.stm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.abc.net.au/news/2011-12-07/west-condemns-russian-election-crackdown/3716426",
+      "type": "text",
+      "text": "and even wagged her finger at Russia for cracking down at protestors while, literally, at the same time, U.S. police forces were going tear gas and pepper spray-happy on Occupy Movement protestors all across the country.",
+      "parentId": 17,
       "sourceTitle": "West condemns Russian election crackdown",
-      "text": "and even wagged her finger at Russia for cracking down at protestors while, literally, at the same time, U.S. police forces were going tear gas and pepper spray-happy on Occupy Movement protestors all across the country."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.abc.net.au/news/2011-12-07/west-condemns-russian-election-crackdown/3716426"
     }
   ],
   "wikipediaData": {

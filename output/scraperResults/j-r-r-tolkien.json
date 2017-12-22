@@ -35,110 +35,185 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "J. R. R. (or John Ronald Reuel) Tolkien was born in Bloemfontein, South Africa and grew up in what is now Birmingham, England. He died in 1973 at the age of 81."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pt/JRR_Tolkien.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Tolkien was born Protestant, but converted to Catholicism along with his mother when he was only eight-years-old. The conversion didn't sit well with her family or that of her late husband's and the subsequent ostracism was hard on his mother's finances and her health–she died when Tolkien was 12.",
       "sourceTitle": "The religion of J.R.R. Tolkien, influential fantasy writer.",
-      "text": "Tolkien was born Protestant, but converted to Catholicism along with his mother when he was only eight-years-old. The conversion didn't sit well with her family or that of her late husband's and the subsequent ostracism was hard on his mother's finances and her health–she died when Tolkien was 12."
+      "sourceUrl": "http://www.adherents.com/people/pt/JRR_Tolkien.html"
     },
     {
-      "type": "sentence",
-      "text": "His mother's devout faith, despite suffering such hatred, was the cornerstone of his own devotion through life:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "His mother's devout faith, despite suffering such hatred, was the cornerstone of his own devotion through life:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://catholicwelsh.blogspot.com/2012/02/jrr-tolkien-on-his-mothers-sacrifices.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "My own dear mother was a martyr indeed, and it is not to everybody that God grants so easy a way to His great gifts as He did to [my brother] and myself, giving us a mother who killed herself with labour and trouble to ensure us keeping the faith.",
       "sourceTitle": "JRR Tolkien on His Mother's Sacrifices for the Catholic Faith.",
-      "text": "My own dear mother was a martyr indeed, and it is not to everybody that God grants so easy a way to His great gifts as He did to [my brother] and myself, giving us a mother who killed herself with labour and trouble to ensure us keeping the faith."
+      "sourceUrl": "http://catholicwelsh.blogspot.com/2012/02/jrr-tolkien-on-his-mothers-sacrifices.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://atheism.about.com/od/cslewisnarnia/a/jrrtolkein.htm",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "The writer famously had a hand in converting C. S. Lewis, author of"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "The Chronicles of Narnia"
+    },
+    {
+      "type": "text",
+      "text": ", into Christianity, although to Tolkien's dismay Lewis became a Protestant. But Tolkien disapproved of the overt Christian symbolism is Lewis' work, thinking it was distracting at best and at worst, a misrepresentation of the religion which could lead to heresy.",
+      "parentId": 5,
       "sourceTitle": "C.S. Lewis and J.R.R. Tolkien: Friendship and Disagreements Over Christian Theology.",
-      "text": "The writer famously had a hand in converting C. S. Lewis, author of , into Christianity, although to Tolkien's dismay Lewis became a Protestant. But Tolkien disapproved of the overt Christian symbolism is Lewis' work, thinking it was distracting at best and at worst, a misrepresentation of the religion which could lead to heresy."
+      "sourceUrl": "http://atheism.about.com/od/cslewisnarnia/a/jrrtolkein.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.religionnewsblog.com/1756/how-jrr-tolkien-became-a-christian-writer",
+      "parentId": 6,
+      "type": "text",
+      "text": "Tolkien's own work, on the other hand, dealt with Christian themes far more subtly, leading to a broader interpretation. None seem to doubt the Christian influence, and Tolkien himself said"
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "The Lord of the Rings"
+    },
+    {
+      "type": "text",
+      "text": "was a \"fundamentally religious and Catholic work.\"",
+      "parentId": 6,
       "sourceTitle": "How J.R.R. Tolkien became a Christian writer.",
-      "text": "Tolkien's own work, on the other hand, dealt with Christian themes far more subtly, leading to a broader interpretation. None seem to doubt the Christian influence, and Tolkien himself said  was a \"fundamentally religious and Catholic work.\""
+      "sourceUrl": "http://www.religionnewsblog.com/1756/how-jrr-tolkien-became-a-christian-writer"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.religionnewsblog.com/1756/how-jrr-tolkien-became-a-christian-writer",
+      "type": "text",
+      "text": "But some also see elements of paganism or even Nordic mythology, and some fundamentalist Christians decry the presence of magic.",
+      "parentId": 6,
       "sourceTitle": "How J.R.R. Tolkien became a Christian writer.",
-      "text": "But some also see elements of paganism or even Nordic mythology, and some fundamentalist Christians decry the presence of magic."
+      "sourceUrl": "http://www.religionnewsblog.com/1756/how-jrr-tolkien-became-a-christian-writer"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "But no matter how you interpret Tolkien's enduring works, his devout Catholic faith surely helped guide his path as a writer and made his books what they are."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Anarcho-Monarchies and the Gifted Jews"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.isi.org/lectures/text/pdf/birzer.pdf",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Tolkien particularly despised communism. Its intolerance of religion made it worse than even fascism, which would potentially protect the Catholic Church.",
       "sourceTitle": "ISI Lecture Program.",
-      "text": "Tolkien particularly despised communism. Its intolerance of religion made it worse than even fascism, which would potentially protect the Catholic Church."
+      "sourceUrl": "http://www.isi.org/lectures/text/pdf/birzer.pdf"
     },
     {
-      "type": "sentence",
-      "text": "But he had special contempt for Nazi Germany. Prior to the release of his book in that country, the publisher asked if he was Aryan, and Tolkien's disgust is evident in his never-delivered response. After expressing his regret that he was not descended from Jews, \"that gifted people,\" and felt deep pride in his German origins, he stated,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But he had special contempt for Nazi Germany. Prior to the release of his book in that country, the publisher asked if he was Aryan, and Tolkien's disgust is evident in his never-delivered response. After expressing his regret that he was not descended from Jews, \"that gifted people,\" and felt deep pride in his German origins, he stated,",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.elephantjournal.com/2011/08/what-j-r-r-tolkien-said-to-the-nazis-when-they-asked-if-he-was-jewish/",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I cannot, however, forbear to comment that if impertinent and irrelevant inquiries of this sort are to become the rule in matters of literature, then the time is not far distant when a German name will no longer be a source of pride.",
       "sourceTitle": "What J.R.R. Tolkien said to the Nazis when they asked if he was Jewish.",
-      "text": "I cannot, however, forbear to comment that if impertinent and irrelevant inquiries of this sort are to become the rule in matters of literature, then the time is not far distant when a German name will no longer be a source of pride."
+      "sourceUrl": "http://www.elephantjournal.com/2011/08/what-j-r-r-tolkien-said-to-the-nazis-when-they-asked-if-he-was-jewish/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.isi.org/lectures/text/pdf/birzer.pdf",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "But democracy was no golden alternative. He saw it as farce that would only end in mob rule and slavery.",
       "sourceTitle": "ISI Lecture Program.",
-      "text": "But democracy was no golden alternative. He saw it as farce that would only end in mob rule and slavery."
+      "sourceUrl": "http://www.isi.org/lectures/text/pdf/birzer.pdf"
     },
     {
-      "type": "sentence",
-      "text": "Without ever subscribing to one political party or another, Tolkien summed up his political views in a letter to his son:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Without ever subscribing to one political party or another, Tolkien summed up his political views in a letter to his son:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.isi.org/lectures/text/pdf/birzer.pdf",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "My political opinions lean more and more to Anarchy. . . or to 'unconstitutional' Monarchy. I would arrest anybody who uses the word State. . . and after a chance of recantation, execute them if they remained obstinate!",
       "sourceTitle": "ISI Lecture Program.",
-      "text": "My political opinions lean more and more to Anarchy. . . or to 'unconstitutional' Monarchy. I would arrest anybody who uses the word State. . . and after a chance of recantation, execute them if they remained obstinate!"
+      "sourceUrl": "http://www.isi.org/lectures/text/pdf/birzer.pdf"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Well, fair enough. After seeing the failures and atrocities of so many governments, I might be tempted into anarchy as well, or monarchy of course only if I was in the lead–not Tolkien."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

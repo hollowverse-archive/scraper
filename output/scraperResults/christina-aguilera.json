@@ -34,116 +34,181 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Christina Aguilera was born in Staten Island, New York. Due to her father being in the military, Aguilera's family moved around a lot until her parents divorced and Christina settled with her mother in Pittsburgh, Pennsylvania."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/103/000023034/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Reports conflict regarding Aguilera's religious upbringing. According to some, she is Roman Catholic,",
       "sourceTitle": "Christina Aguilera",
-      "text": "Reports conflict regarding Aguilera's religious upbringing. According to some, she is Roman Catholic,"
+      "sourceUrl": "http://www.nndb.com/people/103/000023034/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0004694/bio",
+      "type": "text",
+      "text": "which makes sense considering Aguilera's father is from the predominantly Catholic country of Ecuador. However, it has been confirmed that Aguilera's parents met while attending college at the Brigham Young University, a Mormon college",
+      "parentId": 2,
       "sourceTitle": "Christina Aguilera – Biography",
-      "text": "which makes sense considering Aguilera's father is from the predominantly Catholic country of Ecuador. However, it has been confirmed that Aguilera's parents met while attending college at the Brigham Young University, a Mormon college"
+      "sourceUrl": "http://www.imdb.com/name/nm0004694/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mormonwiki.com/Famous_Mormons",
+      "type": "text",
+      "text": "and she is listed among famous Mormons.",
+      "parentId": 2,
       "sourceTitle": "Famous Mormons – Mormonism, The Mormon Church, Beliefs & Religion",
-      "text": "and she is listed among famous Mormons."
+      "sourceUrl": "http://www.mormonwiki.com/Famous_Mormons"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "In her own words, Aguilera isn't necessarily religious–nor humble. She says:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://thinkexist.com/quotation/i-m_not_really_religious_but_very_spiritual-i/154164.html",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I'm not really religious but very spiritual. I give money to this company that manufactures hearing aids on a regular basis. More people should really hear me sing. I have a gift from God.",
       "sourceTitle": "Christina Aguilera Quotes",
-      "text": "I'm not really religious but very spiritual. I give money to this company that manufactures hearing aids on a regular basis. More people should really hear me sing. I have a gift from God."
+      "sourceUrl": "http://thinkexist.com/quotation/i-m_not_really_religious_but_very_spiritual-i/154164.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.femalefirst.co.uk/celebrity/Christina+Aguilera-19321.html",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Then, only adding to the confusion, Aguilera seemed totally fine with handing her son over to the Jewish faith as a result of the child's father being Jewish. The baby had a bris and was circumcised in a Hebrew ritual.",
       "sourceTitle": "Christina Aguilera's baby Bris",
-      "text": "Then, only adding to the confusion, Aguilera seemed totally fine with handing her son over to the Jewish faith as a result of the child's father being Jewish. The baby had a bris and was circumcised in a Hebrew ritual."
+      "sourceUrl": "http://www.femalefirst.co.uk/celebrity/Christina+Aguilera-19321.html"
     },
     {
-      "type": "sentence",
-      "text": "However, this offers no indication that Aguilera herself adopted the Jewish religion, only that she is probably isn't devout enough in her own faith to object to her child being brought up in another."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "However, this offers no indication that Aguilera herself adopted the Jewish religion, only that she is probably isn't devout enough in her own faith to object to her child being brought up in another.",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Just vote"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Aguilera was initially hesitant to lend her star power to politics because, as she says, her childhood was politically oppressive:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.gossiprocks.com/forum/latest-gossip/75672-political-genius-christina-aguilera-larry-king.html",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I grew up in a house where politics weren't discussed. It was a hopeless situation. As a woman, that's embarrassing that it took [me] so long [to vote] because we weren't always given that right.",
       "sourceTitle": "Political genius Christina Aguilera on Larry King",
-      "text": "I grew up in a house where politics weren't discussed. It was a hopeless situation. As a woman, that's embarrassing that it took [me] so long [to vote] because we weren't always given that right."
+      "sourceUrl": "http://www.gossiprocks.com/forum/latest-gossip/75672-political-genius-christina-aguilera-larry-king.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rockthevote.com/about/press-room/press-releases/christina-aguilera-kicks-off.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "When Aguilera said that, she was promoting a Rock the Vote campaign, encouraging people, especially youths, to get out and vote.",
       "sourceTitle": "Rock the Vote: Christina Aguilera kicks-off Rock the Vote's 2008 Campaign",
-      "text": "When Aguilera said that, she was promoting a Rock the Vote campaign, encouraging people, especially youths, to get out and vote."
+      "sourceUrl": "http://www.rockthevote.com/about/press-room/press-releases/christina-aguilera-kicks-off.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.entertainmentwise.com/news/45554/christina-aguilera-lindsay-lohan-and-paris-hilton-lead-obama-to-victory",
+      "type": "text",
+      "text": "At the time, she wouldn't say who she was going to vote for, but once she did vote, she revealed that it was for Obama.",
+      "parentId": 11,
       "sourceTitle": "Christina Aguilera, Lindsay Lohan, and Paris Hilton Lead Obama To Victory.",
-      "text": "At the time, she wouldn't say who she was going to vote for, but once she did vote, she revealed that it was for Obama."
+      "sourceUrl": "http://www.entertainmentwise.com/news/45554/christina-aguilera-lindsay-lohan-and-paris-hilton-lead-obama-to-victory"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Further proof that Aguilera's Democratic leanings slip into the liberal category is her longstanding support of the gay community. She has received a couple of awards for her support of the gay community, one being from GLAAD for her use of gay, lesbian, bisexual, and transgender images in the music video for her song, \"Beautiful.\" Aguilera said at the awards ceremony:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://tiff88.multiply.com/reviews/item/3?&item_id=3&view:replies=reverse&show_interstitial=1&u=%2Freviews%2Fitem",
-      "sourceTitle": "Stripped",
-      "text": "My video captures the reality that gay and transgender people are beautiful, even though prejudice and discrimination against them still exists."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "My video captures the reality that gay and transgender people are beautiful, even though prejudice and discrimination against them still exists.",
+      "sourceTitle": "Stripped",
+      "sourceUrl": "http://tiff88.multiply.com/reviews/item/3?&item_id=3&view:replies=reverse&show_interstitial=1&u=%2Freviews%2Fitem"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Also, Aguilera spoke out publicly against California's anti-gay marriage law, Prop 8. She made her case after a protest outside, of all places, a Mormon temple (The Mormon Church contributed money to pushing Prop 8 through the California legislature). Aguilera said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 16
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.mtv.com/news/articles/1598837/christina-aguilera-speaks-out-against-proposition-8.jhtml",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Why you would put so much money behind something [aimed at] stopping people from loving each other and bonding together? …Mormons aren't gonna buy my album but, you know, what are you gonna do?",
       "sourceTitle": "Christina Aguilera Speaks Out Against Proposition 8 As Protests Continue For Second Straight Night",
-      "text": "Why you would put so much money behind something [aimed at] stopping people from loving each other and bonding together? …Mormons aren't gonna buy my album but, you know, what are you gonna do?"
+      "sourceUrl": "http://www.mtv.com/news/articles/1598837/christina-aguilera-speaks-out-against-proposition-8.jhtml"
     }
   ],
   "wikipediaData": {

@@ -36,131 +36,190 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Zach Galifianakis was born and raised in Wilkesboro, North Carolina."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.edgedallas.com/index.php?ch=entertainment&sc=culture&sc2=features&sc3=culture&id=53409",
+      "parentId": 2,
+      "type": "text",
+      "text": "Galifianakis was raised and baptized as a Greek Orthodox Christian, but because there was no church of that denomination in their town, he attended the Presbyterian church.",
       "sourceTitle": "Zach Galifianakis Bringing Comedy and a Thick Beard to Dallas.",
-      "text": "Galifianakis was raised and baptized as a Greek Orthodox Christian, but because there was no church of that denomination in their town, he attended the Presbyterian church."
+      "sourceUrl": "http://www.edgedallas.com/index.php?ch=entertainment&sc=culture&sc2=features&sc3=culture&id=53409"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thatotherpaper.com/austin/zach_galifianakis_bible_full_of_typos",
+      "type": "text",
+      "text": "His family was very devout, and he attended church every Sunday–which he said gave him loads of material to ridicule.",
+      "parentId": 2,
       "sourceTitle": "Zach Galifianakis: Bible full of typos.",
-      "text": "His family was very devout, and he attended church every Sunday–which he said gave him loads of material to ridicule."
+      "sourceUrl": "http://thatotherpaper.com/austin/zach_galifianakis_bible_full_of_typos"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "The comedian is a little off-the-wall in interviews, and it's tough to say what's true, what's exaggerated, and what is completely fabricated. But with that said, in one interview, here's what he said about his take on religion:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brianmpalmer.com/galifianakis.htm",
-      "sourceTitle": "Zach Galifianakis interview.",
-      "text": "I grew up Greek Orthodox and I wish I knew more about the Bible. But, I haven't really made my mind up about it. I think it's all mythology. It would be nice to believe in something, just in case. I mean, what do you have to lose? We can be all scientific about it, but just in case. I don't know. I'm still thinking about it."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I grew up Greek Orthodox and I wish I knew more about the Bible. But, I haven't really made my mind up about it. I think it's all mythology. It would be nice to believe in something, just in case. I mean, what do you have to lose? We can be all scientific about it, but just in case. I don't know. I'm still thinking about it.",
+      "sourceTitle": "Zach Galifianakis interview.",
+      "sourceUrl": "http://www.brianmpalmer.com/galifianakis.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Sounds agnostic to me. In another interview he's sympathetic to religion, but he talks about how he thinks some Christians are hypocrites:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://thatotherpaper.com/austin/zach_galifianakis_bible_full_of_typos",
-      "sourceTitle": "Zach Galifianakis: Bible full of typos.",
-      "text": "Well, it is hard to argue the teachings of Jesus–whether you believe or not. But the jerks at the Southern Baptist Convention and the freaks at Focus on the Family have completely hijacked those teachings of Jesus. . . . I think if Jesus were to come back he would more likely hang out with low-lifes and perhaps be in a really bad cover band, but do his good work."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Well, it is hard to argue the teachings of Jesus–whether you believe or not. But the jerks at the Southern Baptist Convention and the freaks at Focus on the Family have completely hijacked those teachings of Jesus. . . . I think if Jesus were to come back he would more likely hang out with low-lifes and perhaps be in a really bad cover band, but do his good work.",
+      "sourceTitle": "Zach Galifianakis: Bible full of typos.",
+      "sourceUrl": "http://thatotherpaper.com/austin/zach_galifianakis_bible_full_of_typos"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "So, it looks like Galifianakis was a childhood Christian who was never totally sold on the whole program, but doesn't necessarily think it's a bad thing."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Something's wrong, and the 2012 election proves it"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thatotherpaper.com/austin/zach_galifianakis_bible_full_of_typos",
-      "sourceTitle": "Zach Galifianakis: Bible full of typos.",
-      "text": "Galifianakis is definitely liberal, but I'm reluctant to call him a Democrat. He supported Obama in 2008"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.politico.com/news/stories/1112/83334.html",
+      "parentId": 11,
+      "type": "text",
+      "text": "Galifianakis is definitely liberal, but I'm reluctant to call him a Democrat. He supported Obama in 2008",
+      "sourceTitle": "Zach Galifianakis: Bible full of typos.",
+      "sourceUrl": "http://thatotherpaper.com/austin/zach_galifianakis_bible_full_of_typos"
+    },
+    {
+      "type": "text",
+      "text": "and–even more-so as far as I could tell–in 2012.",
+      "parentId": 11,
       "sourceTitle": "Celebs send last-minute checks to Obama, Romney.",
-      "text": "and–even more-so as far as I could tell–in 2012."
+      "sourceUrl": "http://www.politico.com/news/stories/1112/83334.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.miamiherald.com/2012/05/10/2792627/nc-gay-marriage-amendment-draws.html",
+      "type": "text",
+      "text": "And he supports liberal causes like the legalization of same-sex marriage",
+      "parentId": 11,
       "sourceTitle": "N.C. gay marriage amendment draws plenty of snarky online comments.",
-      "text": "And he supports liberal causes like the legalization of same-sex marriage"
+      "sourceUrl": "http://www.miamiherald.com/2012/05/10/2792627/nc-gay-marriage-amendment-draws.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newsbusters.org/blogs/scott-whitlock/2012/07/25/liberal-comic-zach-galifianakis-rails-against-money-politics-thinks-",
+      "type": "text",
+      "text": "and the Occupy Wall Street movement.",
+      "parentId": 11,
       "sourceTitle": "ABC Features Liberal Comic Zach Galifianakis to Rail Against Money in Politics.",
-      "text": "and the Occupy Wall Street movement."
+      "sourceUrl": "http://newsbusters.org/blogs/scott-whitlock/2012/07/25/liberal-comic-zach-galifianakis-rails-against-money-politics-thinks-"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thatotherpaper.com/austin/zach_galifianakis_bible_full_of_typos",
+      "parentId": 12,
+      "type": "text",
+      "text": "He doesn't hesitate to rail against Republicans. He said George W. Bush \"reminds me of every guy I hated in high school.\"",
       "sourceTitle": "Zach Galifianakis: Bible full of typos.",
-      "text": "He doesn't hesitate to rail against Republicans. He said George W. Bush \"reminds me of every guy I hated in high school.\""
+      "sourceUrl": "http://thatotherpaper.com/austin/zach_galifianakis_bible_full_of_typos"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nydailynews.com/entertainment/tv-movies/zach-galifianakis-talks-real-politics-connection-movie-campaign-article-1.1128514",
+      "type": "text",
+      "text": "And he called the wealthy and very conservative Koch brothers, for whom he reserves a special loathing, \"creepy.\"",
+      "parentId": 12,
       "sourceTitle": "Zach Galifianakis talks real politics in connection with his movie 'The Campaign.'",
-      "text": "And he called the wealthy and very conservative Koch brothers, for whom he reserves a special loathing, \"creepy.\""
+      "sourceUrl": "http://www.nydailynews.com/entertainment/tv-movies/zach-galifianakis-talks-real-politics-connection-movie-campaign-article-1.1128514"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "But what he gets really fired up about, and what his movie \"Campaign\" is about, which he starred in alongside Will Ferrell, is money in politics. He feels like that issue is something most people can get behind, no matter what their politics are. Speaking about the 2012 presidential race and the Supreme Court decision that removed corporate donation limits he said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://newsbusters.org/blogs/scott-whitlock/2012/07/25/liberal-comic-zach-galifianakis-rails-against-money-politics-thinks-",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "The one thing I think that most citizens would be able to agree on. . . is the gross amount of money that is being spent on these elections, the Citizens United decision and all that kind of thing. Something's wrong, and I think the fact we know about this race for two years [proves it].",
       "sourceTitle": "ABC Features Liberal Comic Zach Galifianakis to Rail Against Money in Politics.",
-      "text": "The one thing I think that most citizens would be able to agree on. . . is the gross amount of money that is being spent on these elections, the Citizens United decision and all that kind of thing. Something's wrong, and I think the fact we know about this race for two years [proves it]."
+      "sourceUrl": "http://newsbusters.org/blogs/scott-whitlock/2012/07/25/liberal-comic-zach-galifianakis-rails-against-money-politics-thinks-"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://townhall.com/tipsheet/danieldoherty/2012/11/07/obama_and_romney_collectively_spent_2_billion_this_election_cycle",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Considering the 2012 election was the most expensive one in U.S. history, coming in at a collective $2 billion for the two major candidates,",
       "sourceTitle": "Obama and Romney Collectively Spent $2 Billion this Election Cycle.",
-      "text": "Considering the 2012 election was the most expensive one in U.S. history, coming in at a collective $2 billion for the two major candidates,"
+      "sourceUrl": "http://townhall.com/tipsheet/danieldoherty/2012/11/07/obama_and_romney_collectively_spent_2_billion_this_election_cycle"
     },
     {
-      "type": "sentence",
-      "text": "it seems like he has a point."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "it seems like he has a point.",
+      "parentId": 16
     }
   ],
   "wikipediaData": {

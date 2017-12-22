@@ -30,39 +30,47 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "John Cena was born West Newbury, Massachusetts."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.myspace.com/chaingang_leader_cena",
+      "parentId": 2,
+      "type": "text",
+      "text": "Cena doesn't speak often about his religion or political views, but he lists himself as Catholic on his Myspace page.",
       "sourceTitle": "John Cena (John Cena)",
-      "text": "Cena doesn't speak often about his religion or political views, but he lists himself as Catholic on his Myspace page."
+      "sourceUrl": "http://www.myspace.com/chaingang_leader_cena"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wn.com/John_Cena_On_Linda_McMahon%27s_Senate_Campaign",
+      "parentId": 3,
+      "type": "text",
+      "text": "Politically, Cena has endorsed Republican Connecticut Senate candidate Linda McMahon",
       "sourceTitle": "John Cena On Linda McMahon's Senate Campaign",
-      "text": "Politically, Cena has endorsed Republican Connecticut Senate candidate Linda McMahon"
+      "sourceUrl": "http://wn.com/John_Cena_On_Linda_McMahon%27s_Senate_Campaign"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.wrestlezone.com/news/196189-john-cena-on-barack-obama-politics-if-wrestling-is-real",
+      "type": "text",
+      "text": "and advocated for the deportation of Obama's aunt–who is allegedly in the U.S. illegally.",
+      "parentId": 3,
       "sourceTitle": "John Cena On Barack Obama, Politics, If Wrestling Is Real",
-      "text": "and advocated for the deportation of Obama's aunt–who is allegedly in the U.S. illegally."
+      "sourceUrl": "http://www.wrestlezone.com/news/196189-john-cena-on-barack-obama-politics-if-wrestling-is-real"
     },
     {
-      "type": "sentence",
-      "text": "So, he's probably a Republican."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "So, he's probably a Republican.",
+      "parentId": 3
     }
   ],
   "wikipediaData": {

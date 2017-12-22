@@ -34,110 +34,211 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Julianne Moore was born on the Fort Bragg military base in North Carolina. Her military upbringing caused her to move around frequently within the U.S. and even parts of Germany."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "It is unclear if Moore had much religion growing up. Given her nomadic childhood, we can assume that at the very least, there wasn't a single church that influenced her."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "The one clue we have that indicates her current views on God, religion and spirituality came during an interview with . The show's host, James Lipton, generally asks the celebrity guests a series of quick questions at the beginning and one of the things he asked Moore was what God would say to her as she approached the pearly gates. She replied:"
+      "parentId": 3,
+      "type": "text",
+      "text": "The one clue we have that indicates her current views on God, religion and spirituality came during an interview with"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "The Actor's Studio"
+    },
+    {
+      "type": "text",
+      "text": ". The show's host, James Lipton, generally asks the celebrity guests a series of quick questions at the beginning and one of the things he asked Moore was what God would say to her as she approached the pearly gates. She replied:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://guyism.com/celebrities/atheist-celebrities.html",
-      "sourceTitle": "15 celebrities you didn't know were atheists",
-      "text": "Well, I guess you were wrong, because I do exist."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Well, I guess you were wrong, because I do exist.",
+      "sourceTitle": "15 celebrities you didn't know were atheists",
+      "sourceUrl": "http://guyism.com/celebrities/atheist-celebrities.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Clearly, she doesn't believe in God."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "However, she does send her kids to a Quaker school. We're not sure how much the religion plays into their education, but it's probably of little consequence. Quakers aren't known to be very heavy on the dogma. Plus, Moore's got other reasons. She said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.celebritybabyscoop.com/2010/02/11/julianne-moore-keeps-kids-grounded",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "The kids go to a Quaker school and their father and I believe a lot in community and making sure you give to people less fortunate than you. We talk about responsibility a lot.",
       "sourceTitle": "Julianne Moore Keeps Kids Grounded",
-      "text": "The kids go to a Quaker school and their father and I believe a lot in community and making sure you give to people less fortunate than you. We talk about responsibility a lot."
+      "sourceUrl": "http://www.celebritybabyscoop.com/2010/02/11/julianne-moore-keeps-kids-grounded"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Fiery politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.harpersbazaar.com/magazine/cover/julianne-moore-0508-5",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Moore is quite liberal, and has something to say about nearly every liberal rallying point. First of all, she was a huge Obama supporter, particularly during his bid for reelection in 2012. Her main concern at the time seemed to be women's rights (she sits on the board of advocates of Planned Parenthood by the way",
       "sourceTitle": "Julianne Moore, Interview, May 2008",
-      "text": "Moore is quite liberal, and has something to say about nearly every liberal rallying point. First of all, she was a huge Obama supporter, particularly during his bid for reelection in 2012. Her main concern at the time seemed to be women's rights (she sits on the board of advocates of Planned Parenthood by the way"
+      "sourceUrl": "http://www.harpersbazaar.com/magazine/cover/julianne-moore-0508-5"
     },
     {
-      "type": "sentence",
-      "text": "). She said in a PSA about Obama:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "). She said in a PSA about Obama:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.politico.com/blogs/click/2012/10/julianne-moore-obama-better-for-women-147688.html",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Millions of women rely on Planned Parenthood for their basic health care. And it is up to us — to every woman across the country — to support the only presidential candidate who gets this.",
       "sourceTitle": "Julianne Moore: Obama better for women",
-      "text": "Millions of women rely on Planned Parenthood for their basic health care. And it is up to us — to every woman across the country — to support the only presidential candidate who gets this."
+      "sourceUrl": "http://www.politico.com/blogs/click/2012/10/julianne-moore-obama-better-for-women-147688.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hrc.org/videos/videos-julianne-moore-for-hrcs-new-yorkers-for-marriage-equality#.URATaOgZ-Bh",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "She's a major supporter of gay rights and gay marriage, a topic for which she also did a PSA.",
       "sourceTitle": "Julianne Moore for HRC's New Yorkers for Marriage Equality",
-      "text": "She's a major supporter of gay rights and gay marriage, a topic for which she also did a PSA."
+      "sourceUrl": "http://www.hrc.org/videos/videos-julianne-moore-for-hrcs-new-yorkers-for-marriage-equality#.URATaOgZ-Bh"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "text": "Moore's latest issue , according to her , looks to be gun control. Check it out for factoids and advocacy of strict gun regulations."
+      "parentId": 16,
+      "type": "text",
+      "text": "Moore's latest issue"
     },
     {
-      "type": "break"
+      "parentId": 16,
+      "type": "emphasis",
+      "text": "du jour"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": ", according to her",
+      "parentId": 16
+    },
+    {
+      "parentId": 16,
+      "type": "link",
+      "text": "Twitter feed",
+      "sourceUrl": "https://twitter.com/_juliannemoore"
+    },
+    {
+      "type": "text",
+      "text": ", looks to be gun control. Check it out for factoids and advocacy of strict gun regulations.",
+      "parentId": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "What really gave me a good sense of how liberal Moore is was her comments on John McCain during the 2008 elections. She said, after expressing how worried she was about the election:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.harpersbazaar.com/magazine/cover/julianne-moore-0508-5",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "People don't realize just how conservative he is. He is very, very conservative.",
       "sourceTitle": "Julianne Moore, Interview, May 2008",
-      "text": "People don't realize just how conservative he is. He is very, very conservative."
+      "sourceUrl": "http://www.harpersbazaar.com/magazine/cover/julianne-moore-0508-5"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "The way she says it seems to come from an assumption that everyone would agree that being conservative is a bad thing, that if they realized how conservative McCain is, they naturally wouldn't vote for him. Maybe there's a bit of tunnel vision going on here."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

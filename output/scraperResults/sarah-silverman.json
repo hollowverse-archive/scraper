@@ -37,181 +37,283 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sarah Silverman was born and raised in Manchester, New Hampshire."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0798971/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Being Jewish is a staple in Silverman's comedy \"schtick.\" And her ancestry is Eastern European Jewish on all sides.",
       "sourceTitle": "Sarah Silverman – Biography",
-      "text": "Being Jewish is a staple in Silverman's comedy \"schtick.\" And her ancestry is Eastern European Jewish on all sides."
+      "sourceUrl": "http://www.imdb.com/name/nm0798971/bio"
     },
     {
-      "type": "sentence",
-      "text": "She'll crack jokes like:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She'll crack jokes like:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=kCUbyD8IXUE",
-      "sourceTitle": "Sara Silverman Jews Killed Jesus",
-      "text": "Good. I hope the Jews did kill Christ. I'd do it again. I'd fucking do it again. If I heard his Birkenstocks clacking this way…"
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Good. I hope the Jews did kill Christ. I'd do it again. I'd fucking do it again. If I heard his Birkenstocks clacking this way…",
+      "sourceTitle": "Sara Silverman Jews Killed Jesus",
+      "sourceUrl": "http://www.youtube.com/watch?v=kCUbyD8IXUE"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Or on the U.S. involvement in Iraq while Europe sat by:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "This is not the first time that Europe has been passive while a Jew-hating tyrant with a weird looking mustache killed the people by giving them gas. Obviously I'm talking about Chef Boyardee.",
+      "sourceTitle": "Sarah Silverman – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0798971/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "And Silverman's sister, Susan Silverman, is a feminist rabbi and author.",
+      "sourceTitle": "Sarah Silverman – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0798971/bio"
+    },
+    {
+      "type": "text",
+      "text": "But interestingly, Sarah is not really at all Jewish. She said:",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0798971/bio",
-      "sourceTitle": "Sarah Silverman – Biography",
-      "text": "This is not the first time that Europe has been passive while a Jew-hating tyrant with a weird looking mustache killed the people by giving them gas. Obviously I'm talking about Chef Boyardee."
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0798971/bio",
-      "sourceTitle": "Sarah Silverman – Biography",
-      "text": "And Silverman's sister, Susan Silverman, is a feminist rabbi and author."
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
     },
     {
-      "type": "sentence",
-      "text": "But interestingly, Sarah is not really at all Jewish. She said:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/s/sarah_silverman.html",
+      "parentId": 10,
+      "type": "text",
+      "text": "I mean, I talk about being Jewish a lot. It's funny because I do think of myself as Jewish ethnically, but I'm not religious at all. I have no religion.",
       "sourceTitle": "Sarah Silverman Quotes",
-      "text": "I mean, I talk about being Jewish a lot. It's funny because I do think of myself as Jewish ethnically, but I'm not religious at all. I have no religion."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/s/sarah_silverman.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "In fact, she sounds like a standard agnostic, asking:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/s/sarah_silverman_2.html",
-      "sourceTitle": "Sarah Silverman Quotes",
-      "text": "What are the chances there is a God, really?"
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "What are the chances there is a God, really?",
+      "sourceTitle": "Sarah Silverman Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/s/sarah_silverman_2.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "I doubt she cares, but her Jewish-themed humor and liberal use of profanity has earned her some condemnation by Jewish authorities. One rabbi said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.haaretz.com/blogs/routine-emergencies/rabbi-tells-sarah-silverman-your-potty-mouth-politics-are-un-jewish-go-have-babies.premium-1.470099",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "You have made a career making public that which is private, making crude that which is intimate, making sensual that which is spiritual.",
       "sourceTitle": "Rabbi tells Sarah Silverman: Your potty-mouth politics are un-Jewish. Go have babies",
-      "text": "You have made a career making public that which is private, making crude that which is intimate, making sensual that which is spiritual."
-    },
-    {
-      "type": "sentence",
-      "text": "Probably just fodder for the next bit right there."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.haaretz.com/blogs/routine-emergencies/rabbi-tells-sarah-silverman-your-potty-mouth-politics-are-un-jewish-go-have-babies.premium-1.470099"
     },
     {
       "type": "heading",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Probably just fodder for the next bit right there."
+    },
+    {
+      "type": "heading",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "Sex and politics… the real version, also known as prostitution"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "Silverman's strengths are crude humor, conviction, and an approachable, girl-next-door sort of sexuality. She uses her strengths to advance her political causes quite well."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.advocate.com/comedy/2012/04/23/sarah-silverman-wants-marriage-equality-and-big-apology",
+      "parentId": 21,
+      "type": "text",
+      "text": "First of all, she's a liberal–a gay marriage-supporting,",
       "sourceTitle": "Sarah Silverman Wants Marriage Equality and a Big Apology.",
-      "text": "First of all, she's a liberal–a gay marriage-supporting,"
+      "sourceUrl": "http://www.advocate.com/comedy/2012/04/23/sarah-silverman-wants-marriage-equality-and-big-apology"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0798971/bio",
+      "type": "text",
+      "text": "vegetarian,",
+      "parentId": 21,
       "sourceTitle": "Sarah Silverman – Biography",
-      "text": "vegetarian,"
+      "sourceUrl": "http://www.imdb.com/name/nm0798971/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.onearth.org/blog/sarah-silverman-injects-some-funny-into-global-warming-debate",
+      "type": "text",
+      "text": "environmentalist,",
+      "parentId": 21,
       "sourceTitle": "Sarah Silverman Injects Some Funny Into Global Warming Debate",
-      "text": "environmentalist,"
+      "sourceUrl": "http://www.onearth.org/blog/sarah-silverman-injects-some-funny-into-global-warming-debate"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.peta.org/b/thepetafiles/archive/tags/Sarah+Silverman/default.aspx",
+      "type": "text",
+      "text": "animal rights activist",
+      "parentId": 21,
       "sourceTitle": "The PETA Files",
-      "text": "animal rights activist"
+      "sourceUrl": "http://www.peta.org/b/thepetafiles/archive/tags/Sarah+Silverman/default.aspx"
     },
     {
-      "type": "sentence",
-      "text": "liberal."
+      "type": "text",
+      "text": "liberal.",
+      "parentId": 21
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 22
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blogs.wsj.com/washwire/2012/09/24/sarah-silverman-video-tops-political-charts/",
+      "parentId": 22,
+      "type": "text",
+      "text": "But she really came into her own during Obama's 2012 reelection campaign. First of all, she made a series of hilarious videos in support of Obama and the Democrats and against Romney and the Republicans. At one point during the campaign, were the most popular political videos in the country.",
       "sourceTitle": "Sarah Silverman Video Tops Political Charts",
-      "text": "But she really came into her own during Obama's 2012 reelection campaign. First of all, she made a series of hilarious videos in support of Obama and the Democrats and against Romney and the Republicans. At one point during the campaign, were the most popular political videos in the country."
+      "sourceUrl": "http://blogs.wsj.com/washwire/2012/09/24/sarah-silverman-video-tops-political-charts/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 23
     },
     {
-      "type": "sentence",
+      "parentId": 23,
+      "type": "text",
       "text": "Second of all, her social media outlets were lit-up with political humor/discourse during election season. Check out this one to Republican presidential candidate Rick Santorum:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/SarahKSilverman",
+      "id": 24
+    },
+    {
+      "type": "paragraph",
+      "id": 25,
+      "parentId": 24
+    },
+    {
+      "parentId": 25,
+      "type": "text",
+      "text": "Hm.. might it help to suck a dick? RT @RickSantorum Religious freedom is under attack. Obama must be stopped.",
       "sourceTitle": "Sarah Silverman (SarahSilverman) on Twitter.",
-      "text": "Hm.. might it help to suck a dick? RT @RickSantorum Religious freedom is under attack. Obama must be stopped."
+      "sourceUrl": "https://twitter.com/SarahKSilverman"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0798971/bio",
+      "type": "paragraph",
+      "id": 26
+    },
+    {
+      "parentId": 26,
+      "type": "text",
+      "text": "Lastly, and I think this needs to be preceded by the fact that Silverman is the Spokesperson for the Center for Reproductive Rights' Draw the Line campaign,",
       "sourceTitle": "Sarah Silverman – Biography",
-      "text": "Lastly, and I think this needs to be preceded by the fact that Silverman is the Spokesperson for the Center for Reproductive Rights' Draw the Line campaign,"
+      "sourceUrl": "http://www.imdb.com/name/nm0798971/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/Politics/video/sarah-silvermans-indecent-proposal-for-billionaire-sheldon-adelson-16795369",
+      "type": "text",
+      "text": "Silverman actually offered to dry hump, in a bikini bottom, to full satisfaction, a wealthy Las Vegas casino owner if he would agree to give $100 million to Obama's campaign rather than to Romney, as he had promised to do.",
+      "parentId": 26,
       "sourceTitle": "Sarah Silverman's Indecent Proposal for Billionaire Sheldon Adelson",
-      "text": "Silverman actually offered to dry hump, in a bikini bottom, to full satisfaction, a wealthy Las Vegas casino owner if he would agree to give $100 million to Obama's campaign rather than to Romney, as he had promised to do."
+      "sourceUrl": "http://abcnews.go.com/Politics/video/sarah-silvermans-indecent-proposal-for-billionaire-sheldon-adelson-16795369"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 27
     },
     {
-      "type": "sentence",
+      "parentId": 27,
+      "type": "text",
       "text": "I think that she was banking on the hope that he wouldn't go for it, but still, that's commitment folks! The likes of which I can't say that I've seen after writing hundreds of Hollowverse articles."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

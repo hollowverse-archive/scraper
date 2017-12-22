@@ -33,94 +33,186 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Lynn Collins was born in Houston, Texas. She grew up there and in Singapore and Japan."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Collins was raised a strict Southern Baptist. But it would seem that exposure to the culture of New York City drastically changed her perspective. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.independent.ie/woman/celeb-news/down-to-earth-with-the-most-beautiful-woman-in-the-universe-26834023.html",
-      "sourceTitle": "Down to earth with the most beautiful woman in the universe",
-      "text": "My family are very, very religious in Texas. They're Southern Baptists. I left to go to New York when I was 17 and I realised I wasn't Southern Baptist. That's not how I am inclined."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "My family are very, very religious in Texas. They're Southern Baptists. I left to go to New York when I was 17 and I realised I wasn't Southern Baptist. That's not how I am inclined.",
+      "sourceTitle": "Down to earth with the most beautiful woman in the universe",
+      "sourceUrl": "http://www.independent.ie/woman/celeb-news/down-to-earth-with-the-most-beautiful-woman-in-the-universe-26834023.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "This began a journey of spiritual discovery for Collins in which she discovered a holistic, unified approach to religion:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.independent.ie/woman/celeb-news/down-to-earth-with-the-most-beautiful-woman-in-the-universe-26834023.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I started studying all different religions and all different beliefs — mysticism, paganism, everything. I got to a place a few years ago where I realised that, to me, they're all the same thing.",
       "sourceTitle": "Down to earth with the most beautiful woman in the universe",
-      "text": "I started studying all different religions and all different beliefs — mysticism, paganism, everything. I got to a place a few years ago where I realised that, to me, they're all the same thing."
+      "sourceUrl": "http://www.independent.ie/woman/celeb-news/down-to-earth-with-the-most-beautiful-woman-in-the-universe-26834023.html"
     },
     {
-      "type": "sentence",
-      "text": "Her  confirms this pan-religious view, with tweets and retweets about everything from conventional Christianity to Dalai Lama quotes to healing crystals to palmistry. She is indeed a meta-religious person, and most likely very spiritual."
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "text",
+      "text": "Her"
+    },
+    {
+      "parentId": 8,
+      "type": "link",
+      "text": "Twitter feed",
+      "sourceUrl": "https://twitter.com/lynncollins7"
+    },
+    {
+      "type": "text",
+      "text": "confirms this pan-religious view, with tweets and retweets about everything from conventional Christianity to Dalai Lama quotes to healing crystals to palmistry. She is indeed a meta-religious person, and most likely very spiritual.",
+      "parentId": 8
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Left-leaning diversity"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Collins' politics seem constrained entirely within her Twitter feed. But what a gold mine! She appears to be more on the Democrat/liberal side of things. She signaled her support of both Obama and gun control when she retweeted this Obama message:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/lynncollins7",
-      "sourceTitle": "lynn collins (lynncollins7) on Twitter. Twitter",
-      "text": "FACT: Since 1968, more Americans have died from gun violence than in all of America's wars—combined. #DemandAction"
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "FACT: Since 1968, more Americans have died from gun violence than in all of America's wars—combined. #DemandAction",
+      "sourceTitle": "lynn collins (lynncollins7) on Twitter. Twitter",
+      "sourceUrl": "https://twitter.com/lynncollins7"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "She's tweeted about animal rights, environmentalism and fracking, and gay rights when she tweeted a Human Rights Campaign message:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "\"Love knows no religion. Love knows no color. Love knows no gender.\" Wade Henderson #UnitedForMarriage",
+      "sourceTitle": "lynn collins (lynncollins7) on Twitter. Twitter",
+      "sourceUrl": "https://twitter.com/lynncollins7"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Plus, she backhandedly criticized the Catholic Church and expressed her affinity to feminism when she retweeted a satirical message from the editor of the"
+    },
+    {
+      "parentId": 16,
+      "type": "emphasis",
+      "text": "Daily Beast"
+    },
+    {
+      "type": "text",
+      "text": "during deliberations for a new Pope:",
+      "parentId": 16
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/lynncollins7",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Unchanged stance on gays, contraception & women? We gotta have a nun as next pope. No change til pink smoke billows @ #Vatican #PopeFrancis",
       "sourceTitle": "lynn collins (lynncollins7) on Twitter. Twitter",
-      "text": "\"Love knows no religion. Love knows no color. Love knows no gender.\" Wade Henderson #UnitedForMarriage"
+      "sourceUrl": "https://twitter.com/lynncollins7"
     },
     {
-      "type": "sentence",
-      "text": "Plus, she backhandedly criticized the Catholic Church and expressed her affinity to feminism when she retweeted a satirical message from the editor of the  during deliberations for a new Pope:"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "https://twitter.com/lynncollins7",
-      "sourceTitle": "lynn collins (lynncollins7) on Twitter. Twitter",
-      "text": "Unchanged stance on gays, contraception & women? We gotta have a nun as next pope. No change til pink smoke billows @ #Vatican #PopeFrancis"
-    },
-    {
-      "type": "sentence",
+      "parentId": 19,
+      "type": "text",
       "text": "Clearly, she's quite liberal."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -33,103 +33,149 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "John F. Kennedy was born in Brookline, Massachusetts in 1917 in the powerful Kennedy family–who initially made their money in the illegal alcohol industry during the years of American prohibition. Kennedy was assassinated on November 22, 1963 in Dallas, Texas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jfklibrary.org/JFK/JFK-in-History/JFK-and-Religion.aspx",
+      "parentId": 2,
+      "type": "text",
+      "text": "Kennedy was the first–and to this day, only–Catholic president of the United States.",
       "sourceTitle": "John F. Kennedy and Religion",
-      "text": "Kennedy was the first–and to this day, only–Catholic president of the United States."
+      "sourceUrl": "http://www.jfklibrary.org/JFK/JFK-in-History/JFK-and-Religion.aspx"
     },
     {
-      "type": "sentence",
-      "text": "As the majority of Christian Americans are protestant of some kind, Kennedy's religion was a liability to his campaign and presidency. As a result, Kennedy was not overtly religious, rather he often spoke about the importance the separation of church and state. His most famous appeal was a speech he gave to the Greater Houston Ministerial Society in 1960 where he said, among other things:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "As the majority of Christian Americans are protestant of some kind, Kennedy's religion was a liability to his campaign and presidency. As a result, Kennedy was not overtly religious, rather he often spoke about the importance the separation of church and state. His most famous appeal was a speech he gave to the Greater Houston Ministerial Society in 1960 where he said, among other things:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://usliberals.about.com/od/faithinpubliclife/a/KennedyReligion.htm",
-      "sourceTitle": "John F. Kennedy's Religion Speech in 1960 – Kennedy Famed Religious Tolerance Speech",
-      "text": "Because I am a Catholic, and no Catholic has ever been elected president, the real issues in this campaign have been obscured — perhaps deliberately, in some quarters less responsible than this. So it is apparently necessary for me to state once again not what kind of church I believe in — for that should be important only to me — but what kind of America I believe in."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Because I am a Catholic, and no Catholic has ever been elected president, the real issues in this campaign have been obscured — perhaps deliberately, in some quarters less responsible than this. So it is apparently necessary for me to state once again not what kind of church I believe in — for that should be important only to me — but what kind of America I believe in.",
+      "sourceTitle": "John F. Kennedy's Religion Speech in 1960 – Kennedy Famed Religious Tolerance Speech",
+      "sourceUrl": "http://usliberals.about.com/od/faithinpubliclife/a/KennedyReligion.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Kennedy went on to push for religious tolerance in the U.S. and stress that the real issues in the U.S. were not religious in nature, but the threat of Russia and Cuba, the civil rights movement, the space race, and the poor and unfortunate people in America."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pk/John_F_Kennedy.html",
+      "parentId": 6,
+      "type": "text",
+      "text": "Though he didn't like talking about his personal beliefs while in office, Kennedy regularly attended Trinity Church in Washington D.C. throughout his political career,",
       "sourceTitle": "The religion of John F. Kennedy, 35th U.S. Presiden",
-      "text": "Though he didn't like talking about his personal beliefs while in office, Kennedy regularly attended Trinity Church in Washington D.C. throughout his political career,"
+      "sourceUrl": "http://www.adherents.com/people/pk/John_F_Kennedy.html"
     },
     {
-      "type": "sentence",
-      "text": "indicating that he was quite a devout Catholic."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "indicating that he was quite a devout Catholic.",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "The Democrat darling"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Kennedy was a Democrat and began his political career as a U.S. Representative for the state of Massachusetts, then as a U.S. Senator of that state. He was elected the 35th president of the United States in November of 1960 and sworn into office in January 1961."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Kennedy was president for less than three years, but presided over some of the most significant and transitional events in U.S. history, such as the civil rights movement, the initiation of NASA's moon mission, the Cuban missile crisis and the Bay of Pigs invasion."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.americanrhetoric.com/speeches/jfkcivilrights.htm",
+      "parentId": 10,
+      "type": "text",
+      "text": "Kennedy was instrumental in the establishment of equal rights for black people. He said in a famous speech in 1963–during the height of racial tensions–that black people should be able to shop at the same stores as white people without having to demonstrate in the streets, that they should be able to go to college without a military escort, and that they should be able to vote without fear of violence being taken up against them.",
       "sourceTitle": "John F. Kennedy – Civil Rights Address",
-      "text": "Kennedy was instrumental in the establishment of equal rights for black people. He said in a famous speech in 1963–during the height of racial tensions–that black people should be able to shop at the same stores as white people without having to demonstrate in the streets, that they should be able to go to college without a military escort, and that they should be able to vote without fear of violence being taken up against them."
+      "sourceUrl": "http://www.americanrhetoric.com/speeches/jfkcivilrights.htm"
     },
     {
-      "type": "sentence",
-      "text": "Thanks to John F. Kennedy and Dr. Martin Luther King Jr., black people were, at least legally, given full equal rights in the United States."
+      "type": "text",
+      "text": "Thanks to John F. Kennedy and Dr. Martin Luther King Jr., black people were, at least legally, given full equal rights in the United States.",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "It was because of this and many other reasons that Kennedy was considered a liberal in his time. And he wore that label proudly, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.pbs.org/wgbh/americanexperience/features/primary-resources/jfk-nyliberal/",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "What do our opponents mean when they apply to us the label \"Liberal?\" …If by a \"Liberal\" they mean someone who looks ahead and not behind, someone who welcomes new ideas without rigid reactions, someone who cares about the welfare of the people — their health, their housing, their schools, their jobs, their civil rights, and their civil liberties — someone who believes we can break through the stalemate and suspicions that grip us in our policies abroad, if that is what they mean by a \"Liberal,\" then I'm proud to say I'm a \"Liberal.\"",
       "sourceTitle": "Accepting the NY Liberal Party Nomination, 1960. Kennedy. WGBH American Experience",
-      "text": "What do our opponents mean when they apply to us the label \"Liberal?\" …If by a \"Liberal\" they mean someone who looks ahead and not behind, someone who welcomes new ideas without rigid reactions, someone who cares about the welfare of the people — their health, their housing, their schools, their jobs, their civil rights, and their civil liberties — someone who believes we can break through the stalemate and suspicions that grip us in our policies abroad, if that is what they mean by a \"Liberal,\" then I'm proud to say I'm a \"Liberal.\""
+      "sourceUrl": "http://www.pbs.org/wgbh/americanexperience/features/primary-resources/jfk-nyliberal/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.gallup.com/poll/145064/kennedy-highest-rated-modern-president-nixon-lowest.aspx",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Kennedy is often considered one of America's greatest presidents for these and many more accomplishments during his short tenure in power.",
       "sourceTitle": "Kennedy Still Highest-Rated Modern President, Nixon Lowest",
-      "text": "Kennedy is often considered one of America's greatest presidents for these and many more accomplishments during his short tenure in power."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.gallup.com/poll/145064/kennedy-highest-rated-modern-president-nixon-lowest.aspx"
     }
   ],
   "wikipediaData": {

@@ -32,85 +32,130 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Petyon Manning was born in New Orleans into a football dynasty. His father, Archie Manning, was an NFL quarterback and his brother, Eli, is an NFL quarterback as well."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wiki.answers.com/Q/What_is_Peyton_Manning%27s_religion",
+      "parentId": 2,
+      "type": "text",
+      "text": "Manning is a Presbyterian and very devout.",
       "sourceTitle": "What is Peyton Manning's Religion?",
-      "text": "Manning is a Presbyterian and very devout."
+      "sourceUrl": "http://wiki.answers.com/Q/What_is_Peyton_Manning%27s_religion"
     },
     {
-      "type": "sentence",
-      "text": "He has said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He has said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=QFgRF82GXCM",
-      "sourceTitle": "Peyton Manning's Christian Faith",
-      "text": "I always felt it was very important to have a good relationship with the Lord. He always has to be your number one priority. I grew up in a good Christian home. My parents…we went to Sunday school and church every Sunday, so it's always got to be a number one priority."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I always felt it was very important to have a good relationship with the Lord. He always has to be your number one priority. I grew up in a good Christian home. My parents…we went to Sunday school and church every Sunday, so it's always got to be a number one priority.",
+      "sourceTitle": "Peyton Manning's Christian Faith",
+      "sourceUrl": "http://www.youtube.com/watch?v=QFgRF82GXCM"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Athletes are notorious for crediting God to their good performances and exciting moments in sports are often referred to as \"miracles.\" Sports and religion are not unfamiliar bedfellows."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "It has been reported that Manning prays before every football game, and his praying became headlines during the AFC Championships in 2007 when, before the game-winning play, Peyton said a quick prayer. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.getreligion.org/2007/01/religion-uncovered-on-the-gridiron/",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I said a little prayer there on that last drive. I don't know if you're supposed to pray or not in those kinds of situations, but I did.",
       "sourceTitle": "Religion uncovered on the gridiron",
-      "text": "I said a little prayer there on that last drive. I don't know if you're supposed to pray or not in those kinds of situations, but I did."
+      "sourceUrl": "http://www.getreligion.org/2007/01/religion-uncovered-on-the-gridiron/"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "A touchdown for the Republicans"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newsmeat.com/sports_political_donations/Peyton_Manning.php",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Manning is rich–and religious, so it would stand to reason that he's a Republican. Let's see if my stereotyping and pigeonholing panned out…Yes! Manning has donated at least $14,500 to federal-level Republicans since 2004, including $2,000 to George W. Bush's reelection campaign.",
       "sourceTitle": "Peyton Manning's Federal Campaign Contributino Report",
-      "text": "Manning is rich–and religious, so it would stand to reason that he's a Republican. Let's see if my stereotyping and pigeonholing panned out…Yes! Manning has donated at least $14,500 to federal-level Republicans since 2004, including $2,000 to George W. Bush's reelection campaign."
+      "sourceUrl": "http://newsmeat.com/sports_political_donations/Peyton_Manning.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=uPPz3_3vslI",
+      "parentId": 12,
+      "type": "text",
+      "text": "Manning hasn't specifically outlined his political or social views, but some of them seem to be in defiance of Republican convention. For example, as a player for the Indianapolis Colts, Manning and his fellow players found themselves in opposition to their state's (Indiana) proposed anti-union laws, laws common to Republican states called \"Right to Work\" laws because football players are part of a union.",
       "sourceTitle": "Indiana Republicans Lining Up Against 'Union Workers' Eli and Peyton Manning",
-      "text": "Manning hasn't specifically outlined his political or social views, but some of them seem to be in defiance of Republican convention. For example, as a player for the Indianapolis Colts, Manning and his fellow players found themselves in opposition to their state's (Indiana) proposed anti-union laws, laws common to Republican states called \"Right to Work\" laws because football players are part of a union."
+      "sourceUrl": "http://www.youtube.com/watch?v=uPPz3_3vslI"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.yahoo.com/blogs/ticket/obama-broncos-lucky-peyton-manning-225909074.html",
+      "parentId": 13,
+      "type": "text",
+      "text": "And Obama is an admirer of the star quarterback–calling him one of the \"best of all time.\"",
       "sourceTitle": "Obama: Broncos would be 'lucky' to get Peyton Manning",
-      "text": "And Obama is an admirer of the star quarterback–calling him one of the \"best of all time.\""
+      "sourceUrl": "http://news.yahoo.com/blogs/ticket/obama-broncos-lucky-peyton-manning-225909074.html"
     },
     {
-      "type": "sentence",
-      "text": "But maybe that's just Obama trying to reach across the aisle and doesn't necessarily mean anything for Manning's views."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But maybe that's just Obama trying to reach across the aisle and doesn't necessarily mean anything for Manning's views.",
+      "parentId": 13
     }
   ],
   "wikipediaData": {

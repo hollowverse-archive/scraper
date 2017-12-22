@@ -35,121 +35,189 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Lucy Hale was born in Memphis, Tennessee and grew up there and in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.bestplaces.net/religion/city/tennessee/memphis",
+      "parentId": 2,
+      "type": "text",
+      "text": "Hale is definitely some kind of Christian, but what denomination remains unclear. Considering over 30% of Memphians belong to the Baptist church,",
       "sourceTitle": "Religion in Memphis, Tennessee.",
-      "text": "Hale is definitely some kind of Christian, but what denomination remains unclear. Considering over 30% of Memphians belong to the Baptist church,"
+      "sourceUrl": "http://www.bestplaces.net/religion/city/tennessee/memphis"
     },
     {
-      "type": "sentence",
-      "text": "that seems like a pretty good bet. But regardless, Hale is clearly devout."
+      "type": "text",
+      "text": "that seems like a pretty good bet. But regardless, Hale is clearly devout.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.portraitmagazine.net/archives/lucyhale.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "She says she's \"pretty involved with my church,\"",
       "sourceTitle": "Lucy Hale: Pretty Talented Lady.",
-      "text": "She says she's \"pretty involved with my church,\""
+      "sourceUrl": "http://www.portraitmagazine.net/archives/lucyhale.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.collegemagazine.com/editorial/2683/Pretty-Little-Liars-Preview-A-QA-with-Lucy-Hale",
+      "type": "text",
+      "text": "and described her hometown as a laid-back place where \"everyone hangs out and goes to church on Sundays.\"",
+      "parentId": 3,
       "sourceTitle": "Pretty Little Liars Secrets: A Q&A with Lucy Hale.",
-      "text": "and described her hometown as a laid-back place where \"everyone hangs out and goes to church on Sundays.\""
+      "sourceUrl": "http://www.collegemagazine.com/editorial/2683/Pretty-Little-Liars-Preview-A-QA-with-Lucy-Hale"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "And then there's her Twitter account. She apparently follows Joel Osteen, a televangelist, and retweets little gems from him like this one:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://tweetwood.com/lucyhale/tweet/272537150464073729",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "God would not have put a dream in your heart if He had not already given you everything you need to fulfill it.",
       "sourceTitle": "Lucy Hale tweets: RT @ JoelOsteen …",
-      "text": "God would not have put a dream in your heart if He had not already given you everything you need to fulfill it."
+      "sourceUrl": "http://tweetwood.com/lucyhale/tweet/272537150464073729"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tweetwood.com/lucyhale/tweet/247130053341753345",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "And that's just one. She's got loads of tweets to show she's got God on the mind",
       "sourceTitle": "Lucy Hale tweets: RT @ Travis Garland …",
-      "text": "And that's just one. She's got loads of tweets to show she's got God on the mind"
+      "sourceUrl": "http://tweetwood.com/lucyhale/tweet/247130053341753345"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.twylah.com/lucyyhale/topics/prayers",
+      "type": "text",
+      "text": "and that when disaster strikes, she'll be praying for you.",
+      "parentId": 7,
       "sourceTitle": "Prayer Tweets – Lucy Hale Twitter.",
-      "text": "and that when disaster strikes, she'll be praying for you."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.twylah.com/lucyyhale/topics/prayers"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Default Democrat"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Hale doesn't talk much about politics, but it seems she's a Democrat by default since she's a supporter of, first, Barack Obama, and second, gay marriage. And like so many celebrities, it's Twitter that reveals all. On election night in 2012, after Obama's victory was announced, she tweeted:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 10
     },
     {
-      "type": "quote",
-      "sourceUrl": "https://twitter.com/lucyhale/status/266080312663101440",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Especially proud to be an American tonight.",
       "sourceTitle": "lucyhale: Especially proud to be an …",
-      "text": "Especially proud to be an American tonight."
+      "sourceUrl": "https://twitter.com/lucyhale/status/266080312663101440"
     },
     {
-      "type": "sentence",
-      "text": "And then regarding the rallying cry  of the socially liberal, she retweeted,"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "break"
+      "parentId": 12,
+      "type": "text",
+      "text": "And then regarding the rallying cry"
+    },
+    {
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "du jour"
+    },
+    {
+      "type": "text",
+      "text": "of the socially liberal, she retweeted,",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://tweetwood.com/lucyhale/tweet/200344945373102080",
-      "sourceTitle": "Lucy Hale tweets: RT @kunisswift …",
-      "text": "if gay marriage affects your straight marriage obviously your marriage is pretty shitty to begin with."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "if gay marriage affects your straight marriage obviously your marriage is pretty shitty to begin with.",
+      "sourceTitle": "Lucy Hale tweets: RT @kunisswift …",
+      "sourceUrl": "http://tweetwood.com/lucyhale/tweet/200344945373102080"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "But that's about it on Hale's political involvement. She's involved in a couple of charitable organizations that help improve the lives of kids in foster care"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://gossipgirl.alloyentertainment.com/live-it-love-it-lucy-hales-haute-bracelets/",
+      "type": "text",
+      "text": "and grant wishes to terminally ill adults.",
+      "parentId": 15,
       "sourceTitle": "Pretty Little Liars star Lucy Hale's bracelets for charity.",
-      "text": "and grant wishes to terminally ill adults."
+      "sourceUrl": "http://gossipgirl.alloyentertainment.com/live-it-love-it-lucy-hales-haute-bracelets/"
     },
     {
-      "type": "sentence",
-      "text": "But those are just about as politically divisive as apple pie."
+      "type": "text",
+      "text": "But those are just about as politically divisive as apple pie.",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "So even though Hale isn't quite as vocal or active in the liberal machine as some of her Hollywood peers, she's still a Democrat in our books."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

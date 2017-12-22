@@ -32,129 +32,189 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Babe Ruth, whose real name was George Herman Ruth, Jr., was born and raised in Baltimore, Maryland. He died of pneumonia and complications from throat cancer in New York City in 1948."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/468/000023399/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Ruth was a Catholic.",
       "sourceTitle": "Babe Ruth",
-      "text": "Ruth was a Catholic."
+      "sourceUrl": "http://www.nndb.com/people/468/000023399/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0751899/bio",
+      "type": "text",
+      "text": "And not only did he attend Catholic school growing up, his parents actually signed custody of Ruth over to the Catholic missionaries at St. Mary's Industrial School for Boys in Baltimore when he was seven-years-old.",
+      "parentId": 2,
       "sourceTitle": "Babe Ruth – Biography",
-      "text": "And not only did he attend Catholic school growing up, his parents actually signed custody of Ruth over to the Catholic missionaries at St. Mary's Industrial School for Boys in Baltimore when he was seven-years-old."
+      "sourceUrl": "http://www.imdb.com/name/nm0751899/bio"
     },
     {
-      "type": "sentence",
-      "text": "So Babe was quite literally raised by the Catholic Church."
+      "type": "text",
+      "text": "So Babe was quite literally raised by the Catholic Church.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.catholiceducation.org/articles/catholic_stories/cs0431.htm",
+      "parentId": 3,
+      "type": "text",
+      "text": "Ruth has spoken about his childhood and his faith. He had a conversion of sorts. As a youngster, he was a delinquent–chewing tobacco and drinking and swearing. He says he had no faith in God before he was sent to the Catholic school and that the biggest lesson he got from the experience there was learning that \"God was Boss.\"",
       "sourceTitle": "Babe Ruth's last message: The kids can't take it if we don't give it!",
-      "text": "Ruth has spoken about his childhood and his faith. He had a conversion of sorts. As a youngster, he was a delinquent–chewing tobacco and drinking and swearing. He says he had no faith in God before he was sent to the Catholic school and that the biggest lesson he got from the experience there was learning that \"God was Boss.\""
+      "sourceUrl": "http://www.catholiceducation.org/articles/catholic_stories/cs0431.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "As an adult, Ruth admits to straying from the church, but returning to the fold later in life. Ultimately, Ruth endorsed religious education, encouraging parents to bring their kids up in that old tradition, and stressing that despite whatever pitfalls might befall a person throughout their life, a strong religious tradition will bring them back on to the right path:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.catholiceducation.org/articles/catholic_stories/cs0431.htm",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "As far as I'm concerned, and I think as far as most kids go, once religion sinks in, it stays there—deep down.",
       "sourceTitle": "Babe Ruth's last message: The kids can't take it if we don't give it!",
-      "text": "As far as I'm concerned, and I think as far as most kids go, once religion sinks in, it stays there—deep down."
+      "sourceUrl": "http://www.catholiceducation.org/articles/catholic_stories/cs0431.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0751899/bio",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Ruth was so devout throughout his life that he and his first wife (also a Catholic) never divorced despite being separated for three years before her death–on account of the Catholic Church's stance on divorce.",
       "sourceTitle": "Babe Ruth – Biography",
-      "text": "Ruth was so devout throughout his life that he and his first wife (also a Catholic) never divorced despite being separated for three years before her death–on account of the Catholic Church's stance on divorce."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.imdb.com/name/nm0751899/bio"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "\"Hell no! I'm a Democrat!\" Unless the price is right"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Ruth was a Democrat. We know that because he said so when Republican Warren G. Harding, running for president in 1920, asked for Ruth's endorsement. Ruth replied:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://mikeyawn.wordpress.com/2011/07/15/babe-ruth-the-politics-of-celebrity/",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Hell, no, I'm a Democrat.",
       "sourceTitle": "Babe Ruth: The politics of celebrity",
-      "text": "Hell, no, I'm a Democrat."
+      "sourceUrl": "http://mikeyawn.wordpress.com/2011/07/15/babe-ruth-the-politics-of-celebrity/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://mikeyawn.wordpress.com/2011/07/15/babe-ruth-the-politics-of-celebrity/",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "However, when Harding offered Ruth $4,100 (a tidy sum back then) to get behind him, Ruth took the offer.",
       "sourceTitle": "Babe Ruth: The politics of celebrity",
-      "text": "However, when Harding offered Ruth $4,100 (a tidy sum back then) to get behind him, Ruth took the offer."
+      "sourceUrl": "http://mikeyawn.wordpress.com/2011/07/15/babe-ruth-the-politics-of-celebrity/"
     },
     {
-      "type": "sentence",
-      "text": "So he was a Republican for the right price. And that's a rather good indication of the depth (or lack thereof) of Ruth's political convictions."
+      "type": "text",
+      "text": "So he was a Republican for the right price. And that's a rather good indication of the depth (or lack thereof) of Ruth's political convictions.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://mikeyawn.wordpress.com/2011/07/15/babe-ruth-the-politics-of-celebrity/",
+      "parentId": 13,
+      "type": "text",
+      "text": "Ruth did actively campaign for one presidential candidate, Democrat Al Smith in 1928. He gave speeches, made appearances and endorsed the candidate on the radio.",
       "sourceTitle": "Babe Ruth: The politics of celebrity",
-      "text": "Ruth did actively campaign for one presidential candidate, Democrat Al Smith in 1928. He gave speeches, made appearances and endorsed the candidate on the radio."
+      "sourceUrl": "http://mikeyawn.wordpress.com/2011/07/15/babe-ruth-the-politics-of-celebrity/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://mikeyawn.wordpress.com/2011/07/15/babe-ruth-the-politics-of-celebrity/",
+      "parentId": 14,
+      "type": "text",
+      "text": "Beyond that, Ruth was, however inadvertently, party to at least one important political movement. In 1915, when the Suffrage movement was lobbying hard for the women's vote, they offered to pay Boston Red Sox players for each home run they hit at Fenway Park in a public relations scheme for their cause. The Sultan of Swat hit one home run in Boston that year, collected his money and backhandedly endorsed the Suffrage movement.",
       "sourceTitle": "Babe Ruth: The politics of celebrity",
-      "text": "Beyond that, Ruth was, however inadvertently, party to at least one important political movement. In 1915, when the Suffrage movement was lobbying hard for the women's vote, they offered to pay Boston Red Sox players for each home run they hit at Fenway Park in a public relations scheme for their cause. The Sultan of Swat hit one home run in Boston that year, collected his money and backhandedly endorsed the Suffrage movement."
+      "sourceUrl": "http://mikeyawn.wordpress.com/2011/07/15/babe-ruth-the-politics-of-celebrity/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "That's about the extent of the Great Bambino's political involvement. One could argue that he was an American hero, a role model for the American Dream, proof positive that every poor kid in America, with talent and hard work, could grow up to be a legend. Ruth was instrumental in reinforcing that unique \"American-ness\" of baseball as well. In fact, he made it his mission:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0751899/bio",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I won't be happy until we have every boy in America between the ages of six and sixteen wearing a glove and swinging a bat.",
       "sourceTitle": "Babe Ruth – Biography",
-      "text": "I won't be happy until we have every boy in America between the ages of six and sixteen wearing a glove and swinging a bat."
+      "sourceUrl": "http://www.imdb.com/name/nm0751899/bio"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "He might have succeeded."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

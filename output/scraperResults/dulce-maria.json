@@ -37,70 +37,119 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Dulce María, whose full name was Dulce María Espinosa Saviñón, was born and raised in Mexico City, Mexico."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "There's not a lot out there about María's religious preferences outside of her –but there's enough there to know she's a devout young woman. She mentions God pretty frequently in her posts, and often sends out inspirational messages like this retweet (one of the few in English):"
+      "parentId": 2,
+      "type": "text",
+      "text": "There's not a lot out there about María's religious preferences outside of her"
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "link",
+      "text": "Twitter feed",
+      "sourceUrl": "https://twitter.com/DulceMaria"
+    },
+    {
+      "type": "text",
+      "text": "–but there's enough there to know she's a devout young woman. She mentions God pretty frequently in her posts, and often sends out inspirational messages like this retweet (one of the few in English):",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/DulceMaria",
-      "sourceTitle": "Dulce Maria (DulceMaria) on Twitter.",
-      "text": "God, grant me the serenity to accept the things I cannot change the courage to change the things I can and the wisdom to know the difference. Amen"
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "God, grant me the serenity to accept the things I cannot change the courage to change the things I can and the wisdom to know the difference. Amen",
+      "sourceTitle": "Dulce Maria (DulceMaria) on Twitter.",
+      "sourceUrl": "https://twitter.com/DulceMaria"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "And also these little appeals to God which suggest that she has a close, personal relationship with the Holy Spirit:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/DulceMaria/status/262191696664743936",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Dear God, I've tried my best but if today I lose my hope… please remind me that your plans are better than my dreams.",
       "sourceTitle": "DulceMaria: Dear God, I've tried my best …",
-      "text": "Dear God, I've tried my best but if today I lose my hope… please remind me that your plans are better than my dreams."
+      "sourceUrl": "https://twitter.com/DulceMaria/status/262191696664743936"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Mexico",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "We've got to assume that she has joined the other 83% of Mexicans who belong to the Catholic church,",
       "sourceTitle": "Religion in Mexico.",
-      "text": "We've got to assume that she has joined the other 83% of Mexicans who belong to the Catholic church,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Mexico"
     },
     {
-      "type": "sentence",
-      "text": "although I have no direct confirmation of that. Even her name is a nod to the Virgin Mary, for whom Catholics have a particularly strong veneration. But whatever form it takes, Dulce María's faith is clearly quite strong."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "although I have no direct confirmation of that. Even her name is a nod to the Virgin Mary, for whom Catholics have a particularly strong veneration. But whatever form it takes, Dulce María's faith is clearly quite strong.",
+      "parentId": 8
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Women and Butterflies"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.quien.com/espectaculos/2009/10/16/dulce-maria-creara-asociacion-de-apoyo-social",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "María doesn't appear to be involved in politics in any serious way, but her charity work gives us a bit of an idea about her worldview. She started the Dulce Amanacer Foundation in order to assist in causes related mostly to environmentalism and support for indigenous women. In 2009 the foundation helped to reforest an area of Mexico that is essential to Monarch butterfly habitats.",
       "sourceTitle": "Dulce María crea asociación de apoyo social.",
-      "text": "María doesn't appear to be involved in politics in any serious way, but her charity work gives us a bit of an idea about her worldview. She started the Dulce Amanacer Foundation in order to assist in causes related mostly to environmentalism and support for indigenous women. In 2009 the foundation helped to reforest an area of Mexico that is essential to Monarch butterfly habitats."
+      "sourceUrl": "http://www.quien.com/espectaculos/2009/10/16/dulce-maria-creara-asociacion-de-apoyo-social"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "That kind of activity, with its focus on women and environmentalism, could indicate a liberal leaning. It might be tenuous, but it's all we've got. If you speak Spanish and can get a little deeper into Dulce María's internet record for some more insight, we'd love to hear from you in the comments!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

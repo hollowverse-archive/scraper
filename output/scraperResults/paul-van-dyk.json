@@ -34,124 +34,192 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Paul van Dyk was born and raised in East Berlin while it was still under control of the Soviet Union."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Van Dyk says his mother raised him in a completely secular household, but with a focus on tolerance. When asked about his religious upbringing, he said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.hybridmagazine.com/level/interviews/1201/pvd.shtml",
-      "sourceTitle": "Paul van Dyk Interview.",
-      "text": "Absolutely cosmopolitan, free-minded sort of things. The main thing is the tolerance between people and if we sort of tolerate each other then we don't need any religion anymore and we don't need any weird way of believing in something. . . . As long as people tolerate each other, there is no war and everything is fine."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Absolutely cosmopolitan, free-minded sort of things. The main thing is the tolerance between people and if we sort of tolerate each other then we don't need any religion anymore and we don't need any weird way of believing in something. . . . As long as people tolerate each other, there is no war and everything is fine.",
+      "sourceTitle": "Paul van Dyk Interview.",
+      "sourceUrl": "http://www.hybridmagazine.com/level/interviews/1201/pvd.shtml"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "So even though he tolerates religion, he doesn't seem to have a very high view of it. He appears to believe it is the sole impediment to peace. But that doesn't mean he's an atheist–he sounds more like an agnostic."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "In discussing his track \"The Other Side,\" he said it was about what the afterlife or heaven means to him:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://dancemusic.about.com/od/remixersproducers/a/PaulVanDykInt_2.htm",
-      "sourceTitle": "Paul Van Dyk Interview.",
-      "text": "The other side, for me, means as long as you do not forget the person, as long as you hold the person in your heart and in your soul, this person's going to be with you and all the wisdom that person had is going to be with you and support you in the right moment, and this is what I believe in. If you're going to see that person at one point, I don't know, because no human being knows. I don't know if there is an afterlife."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "The other side, for me, means as long as you do not forget the person, as long as you hold the person in your heart and in your soul, this person's going to be with you and all the wisdom that person had is going to be with you and support you in the right moment, and this is what I believe in. If you're going to see that person at one point, I don't know, because no human being knows. I don't know if there is an afterlife.",
+      "sourceTitle": "Paul Van Dyk Interview.",
+      "sourceUrl": "http://dancemusic.about.com/od/remixersproducers/a/PaulVanDykInt_2.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "I don't read that as a particularly spiritual view, but interpret it as you will. He still makes clear that there is no way for any of us to know exactly what the other side holds."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "The Politics of Dancing"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Paul van Dyk sees electronic music as a tool for peaceful political expression. He says that when you go into an area of conflict, and you play dance music, everyone dances together without regard to political differences:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Palestinians are dancing with Israelis. Lebanese people are dancing with Israelis, without war, without anything in their minds other than treating each other respectfully.",
+      "sourceTitle": "The Politics of PVD.",
+      "sourceUrl": "http://www.ibiza-voice.com/news/news.php?id=882"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Considering the number of times he mentions peace in any given interview, he sounds like a pacifist–which automatically puts him on the left side of pretty much any debate. And he thinks democracy is the best avenue for achieving that goal, although he admits it's not a perfect solution.",
+      "sourceTitle": "The Politics of PVD.",
+      "sourceUrl": "http://www.ibiza-voice.com/news/news.php?id=882"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "His support of peace and democracy has taken many forms from his vocal opposition to the United States' War in Iraq,",
+      "sourceTitle": "Paul van Dyk's 'Politics of Dancing 2.'",
+      "sourceUrl": "http://top40-charts.com/news.php?nid=16625&string=Shiloh"
+    },
+    {
+      "type": "text",
+      "text": "to promotion of peace and democracy in the Middle East,",
+      "parentId": 15,
+      "sourceTitle": "The Politics of PVD.",
+      "sourceUrl": "http://www.ibiza-voice.com/news/news.php?id=882"
+    },
+    {
+      "type": "text",
+      "text": "to his participation in Rock the Vote in the States in 2004, to his work alleviating poverty in several countries across the globe.",
+      "parentId": 15,
+      "sourceTitle": "Paul van Dyk's 'Politics of Dancing 2.'",
+      "sourceUrl": "http://top40-charts.com/news.php?nid=16625&string=Shiloh"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "It was van Dyk's childhood in East Berlin that flavors his view of politics today. He understood how powerful music could be as a political tool from the time he had to sneak around to find West Berlin radio waves, or duck into a secret concert through the back door.",
+      "sourceTitle": "Paul Van Dyk's Spin on Voting: It's an honor.",
+      "sourceUrl": "http://spinthevote.org/news10.php"
+    },
+    {
+      "type": "text",
+      "text": "Now he wants freedom, openness, tolerance, and peace. When asked what change he would like to see in society, he said,",
+      "parentId": 16
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.ibiza-voice.com/news/news.php?id=882",
-      "sourceTitle": "The Politics of PVD.",
-      "text": "Palestinians are dancing with Israelis. Lebanese people are dancing with Israelis, without war, without anything in their minds other than treating each other respectfully."
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ibiza-voice.com/news/news.php?id=882",
-      "sourceTitle": "The Politics of PVD.",
-      "text": "Considering the number of times he mentions peace in any given interview, he sounds like a pacifist–which automatically puts him on the left side of pretty much any debate. And he thinks democracy is the best avenue for achieving that goal, although he admits it's not a perfect solution."
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
     },
     {
-      "type": "break"
-    },
-    {
-      "type": "sentence",
-      "sourceUrl": "http://top40-charts.com/news.php?nid=16625&string=Shiloh",
-      "sourceTitle": "Paul van Dyk's 'Politics of Dancing 2.'",
-      "text": "His support of peace and democracy has taken many forms from his vocal opposition to the United States' War in Iraq,"
-    },
-    {
-      "type": "sentence",
-      "sourceUrl": "http://www.ibiza-voice.com/news/news.php?id=882",
-      "sourceTitle": "The Politics of PVD.",
-      "text": "to promotion of peace and democracy in the Middle East,"
-    },
-    {
-      "type": "sentence",
-      "sourceUrl": "http://top40-charts.com/news.php?nid=16625&string=Shiloh",
-      "sourceTitle": "Paul van Dyk's 'Politics of Dancing 2.'",
-      "text": "to his participation in Rock the Vote in the States in 2004, to his work alleviating poverty in several countries across the globe."
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "sentence",
-      "sourceUrl": "http://spinthevote.org/news10.php",
+      "parentId": 18,
+      "type": "text",
+      "text": "More respect, greater tolerance and more fairness towards each other.",
       "sourceTitle": "Paul Van Dyk's Spin on Voting: It's an honor.",
-      "text": "It was van Dyk's childhood in East Berlin that flavors his view of politics today. He understood how powerful music could be as a political tool from the time he had to sneak around to find West Berlin radio waves, or duck into a secret concert through the back door."
+      "sourceUrl": "http://spinthevote.org/news10.php"
     },
     {
-      "type": "sentence",
-      "text": "Now he wants freedom, openness, tolerance, and peace. When asked what change he would like to see in society, he said,"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://spinthevote.org/news10.php",
-      "sourceTitle": "Paul Van Dyk's Spin on Voting: It's an honor.",
-      "text": "More respect, greater tolerance and more fairness towards each other."
-    },
-    {
-      "type": "sentence",
+      "parentId": 19,
+      "type": "text",
       "text": "Sounds like a good plan to me."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

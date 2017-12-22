@@ -38,128 +38,217 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Viggo Mortensen was born in New York City and grew up there, in Venezuela, Argentina and Denmark."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ask.com/q/How-old-is-Viggo-Mortensen",
+      "parentId": 2,
+      "type": "text",
+      "text": "Question and answer sites of questionable validity all over the Internet have Mortensen pegged as a Lutheran.",
       "sourceTitle": "How old is Viggo Mortensen?",
-      "text": "Question and answer sites of questionable validity all over the Internet have Mortensen pegged as a Lutheran."
+      "sourceUrl": "http://www.ask.com/q/How-old-is-Viggo-Mortensen"
     },
     {
-      "type": "sentence",
-      "text": "This time, I'm inclined to believe them–though the evidence is a bit tenuous. During an interview where Patricia Arquette was asking the questions, Arquette asked Mortensen what she should cook three older ladies as an after-church meal. The question read as follows:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "This time, I'm inclined to believe them–though the evidence is a bit tenuous. During an interview where Patricia Arquette was asking the questions, Arquette asked Mortensen what she should cook three older ladies as an after-church meal. The question read as follows:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brego.net/viggo/articles/?articlecatId=5&articleId=14",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Let's see, what are you? Lutheran! All right, Lutheran boy, what kind of a Lutheran meal should I cook for them?",
       "sourceTitle": "Viggo Mortensen Article: To Be Viggo",
-      "text": "Let's see, what are you? Lutheran! All right, Lutheran boy, what kind of a Lutheran meal should I cook for them?"
+      "sourceUrl": "http://www.brego.net/viggo/articles/?articlecatId=5&articleId=14"
     },
     {
-      "type": "sentence",
-      "text": "Mortensen did not dispute Arquette's claim, so that's sort of a  admission, isn't it?"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "text",
+      "text": "Mortensen did not dispute Arquette's claim, so that's sort of a"
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "de facto"
+    },
+    {
+      "type": "text",
+      "text": "admission, isn't it?",
+      "parentId": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Anyway, it doesn't seem to matter much. When directly asked about his religious views, Mortensen replied:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brego.net/viggo/viggo-quotes.php",
-      "sourceTitle": "Quotes by Viggo Mortensen",
-      "text": "My answer would be what Walt Whitman said in Leaves of Grass, something to the effect of 'I hear and behold that God is in every object and yet I understand God not at all.'"
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "My answer would be what Walt Whitman said in Leaves of Grass, something to the effect of 'I hear and behold that God is in every object and yet I understand God not at all.'",
+      "sourceTitle": "Quotes by Viggo Mortensen",
+      "sourceUrl": "http://www.brego.net/viggo/viggo-quotes.php"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Sounds like a sort of agnostic pantheism to me."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Mortensen, the reluctant Obama supporter"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/culture/2008/feb/22/awardsandprizes",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Mortensen more than makes up for the ambiguity in his religious views with complete transparency in his political views. He's quite liberal–perhaps even too liberal for Obama. In 2008, Mortensen wanted Ohio Senator Dennis Kucinich to be president, but Kucinich's campaign faltered early in the race, so Mortensen reluctantly backed Obama.",
       "sourceTitle": "Interview: Viggo Mortensen",
-      "text": "Mortensen more than makes up for the ambiguity in his religious views with complete transparency in his political views. He's quite liberal–perhaps even too liberal for Obama. In 2008, Mortensen wanted Ohio Senator Dennis Kucinich to be president, but Kucinich's campaign faltered early in the race, so Mortensen reluctantly backed Obama."
+      "sourceUrl": "http://www.guardian.co.uk/culture/2008/feb/22/awardsandprizes"
     },
     {
-      "type": "sentence",
-      "text": "He said of Obama (and his closest competitor, Hillary Clinton):"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said of Obama (and his closest competitor, Hillary Clinton):",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/culture/2008/feb/22/awardsandprizes",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Both he and Clinton have so many corporate ties that are unsettling to me. Perhaps he has fewer. And the movement that's behind him may plague his conscience so much that I think he'll get us out of Iraq sooner than Hillary Clinton will. So, that's our best chance.",
       "sourceTitle": "Interview: Viggo Mortensen",
-      "text": "Both he and Clinton have so many corporate ties that are unsettling to me. Perhaps he has fewer. And the movement that's behind him may plague his conscience so much that I think he'll get us out of Iraq sooner than Hillary Clinton will. So, that's our best chance."
+      "sourceUrl": "http://www.guardian.co.uk/culture/2008/feb/22/awardsandprizes"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.brego.net/viggo/viggo-politics.php",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "As you might have gathered, the war in Iraq was on top of Mortensen's list. In 2002, he appeared on Charlie Rose's interview show wearing a t-shirt that read: \"No more blood for oil.\"",
       "sourceTitle": "Viggo Mortensen Political Views, Politics and Activism",
-      "text": "As you might have gathered, the war in Iraq was on top of Mortensen's list. In 2002, he appeared on Charlie Rose's interview show wearing a t-shirt that read: \"No more blood for oil.\""
+      "sourceUrl": "http://www.brego.net/viggo/viggo-politics.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.brego.net/viggo/viggo-politics.php",
+      "type": "text",
+      "text": "And he was a frequent critic of the Bush administration for, among other things, the Iraq War. Comparing him to the main antagonist in his",
+      "parentId": 14
+    },
+    {
+      "parentId": 14,
+      "type": "emphasis",
+      "text": "Lord of the Rings"
+    },
+    {
+      "type": "text",
+      "text": "films, Mortensen said Bush will go down in history as the \"Sauron of presidents.\"",
+      "parentId": 14,
       "sourceTitle": "Viggo Mortensen Political Views, Politics and Activism",
-      "text": "And he was a frequent critic of the Bush administration for, among other things, the Iraq War. Comparing him to the main antagonist in his  films, Mortensen said Bush will go down in history as the \"Sauron of presidents.\""
+      "sourceUrl": "http://www.brego.net/viggo/viggo-politics.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "After Obama won a Nobel Prize for… we still don't know, Mortensen was asked to comment. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.motherjones.com/media/2009/11/viggo-mortensen-king-road-aragorn",
-      "sourceTitle": "Viggo Mortensen, King of the Road",
-      "text": "There's a certain irony. He says he's committed to keeping his campaign promise of getting us out of Iraq as soon as it's possible—I don't know exactly what that means anymore. He's gone back on what he said about Guantánamo. He's gone back on what he said about the torture photographs. And he's quite hawkish on Afghanistan. I agree with Obama when he said this morning that he didn't deserve it."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "There's a certain irony. He says he's committed to keeping his campaign promise of getting us out of Iraq as soon as it's possible—I don't know exactly what that means anymore. He's gone back on what he said about Guantánamo. He's gone back on what he said about the torture photographs. And he's quite hawkish on Afghanistan. I agree with Obama when he said this morning that he didn't deserve it.",
+      "sourceTitle": "Viggo Mortensen, King of the Road",
+      "sourceUrl": "http://www.motherjones.com/media/2009/11/viggo-mortensen-king-road-aragorn"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "It's plain to see that the last 15 years or so of American politics have not been satisfactory to Mortensen and he tends to come off as a guy who's really good at pointing out problems and making critiques, but doesn't have much in the way of solutions."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://torontodeclaration.blogspot.com/2009/09/toronto-declaration-no-celebration-of.html",
+      "parentId": 19,
+      "type": "text",
+      "text": "He protested the Toronto International Film Festival for \"spotlighting\" Tel Aviv, saying that the organization was playing into the hands of the Israeli propaganda machine.",
       "sourceTitle": "Toronto Declaration: No Celebration of Occupation",
-      "text": "He protested the Toronto International Film Festival for \"spotlighting\" Tel Aviv, saying that the organization was playing into the hands of the Israeli propaganda machine."
+      "sourceUrl": "http://torontodeclaration.blogspot.com/2009/09/toronto-declaration-no-celebration-of.html"
     },
     {
-      "type": "sentence",
-      "text": "That's about as liberal as you get in the U.S.–without being a gay illegal immigrant who brings a butter knife to a gunfight. Add that to his lukewarm attitude toward even the Democrats and you've got a liberal strong in his convictions."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "That's about as liberal as you get in the U.S.–without being a gay illegal immigrant who brings a butter knife to a gunfight. Add that to his lukewarm attitude toward even the Democrats and you've got a liberal strong in his convictions.",
+      "parentId": 19
     }
   ],
   "wikipediaData": {

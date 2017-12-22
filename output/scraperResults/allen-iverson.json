@@ -32,124 +32,187 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Allen Iverson was born in Hampton, Virginia and raised there and Newport News, Virginia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm1132515/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Iverson had a rather difficult upbringing",
       "sourceTitle": "Allen Iverson – Biography",
-      "text": "Iverson had a rather difficult upbringing"
+      "sourceUrl": "http://www.imdb.com/name/nm1132515/bio"
     },
     {
-      "type": "sentence",
-      "text": "and in all of my research, I can't find any mention of religion. My blind speculation is that religion was largely absent from his young life."
+      "type": "text",
+      "text": "and in all of my research, I can't find any mention of religion. My blind speculation is that religion was largely absent from his young life.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "A couple of things indicate an affinity to the Christian tradition, like the photo on this  in which Iverson is sporting a large cross around his neck."
+      "parentId": 3,
+      "type": "text",
+      "text": "A couple of things indicate an affinity to the Christian tradition, like the photo on this"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "link",
+      "text": "website",
+      "sourceUrl": "http://deadspin.com/5488349/allen-iversons-life-is-quickly-becoming-a-12+bar-blues"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": "in which Iverson is sporting a large cross around his neck.",
+      "parentId": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "There was also a short exchange between Iverson and reporters during a charity event, where Iverson commented that his charity work wasn't about publicity, but rather getting in good with the man upstairs:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://newsweek.washingtonpost.com/onfaith/prayingfields/2009/02/iverson_and_the_afterlife.html",
-      "sourceTitle": "Praying Fields: Iverson and the Afterlife",
-      "text": "When it's time for me to get toward that gate, either He gonna say, 'Come in,' or He gonna say, 'Turn around.' And a camera won't decide whether I get in or not."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "When it's time for me to get toward that gate, either He gonna say, 'Come in,' or He gonna say, 'Turn around.' And a camera won't decide whether I get in or not.",
+      "sourceTitle": "Praying Fields: Iverson and the Afterlife",
+      "sourceUrl": "http://newsweek.washingtonpost.com/onfaith/prayingfields/2009/02/iverson_and_the_afterlife.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "The reporters later asked Iverson if he though he would be going to heaven or hell, he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://newsweek.washingtonpost.com/onfaith/prayingfields/2009/02/iverson_and_the_afterlife.html",
-      "sourceTitle": "Praying Fields: Iverson and the Afterlife",
-      "text": "I've done a lot of good things in my life and done a lot of bad things in my life so I don't know. I hope the good things outweigh the bad things. I'm damn sure I don't want to go to hell."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I've done a lot of good things in my life and done a lot of bad things in my life so I don't know. I hope the good things outweigh the bad things. I'm damn sure I don't want to go to hell.",
+      "sourceTitle": "Praying Fields: Iverson and the Afterlife",
+      "sourceUrl": "http://newsweek.washingtonpost.com/onfaith/prayingfields/2009/02/iverson_and_the_afterlife.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "I'd say we've got a Christian believer on our hands, but that's about as far as I'm willing to take it."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "Politics of fame and talent"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Iverson has been a politically divisive figure since before he became a wildly famous basketball All-Star. In high school, Iverson was caught in the middle of a mini-race war in his hometown of Newport News, in which he and his black friends got into a fight with a group of white kids at a bowling alley."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Iverson was charged with hitting a woman over the head with a chair, even though later examination of the evidence could prove no such thing. Nevertheless, he was found guilty and handed a five-year prison sentence. The public outcry in his community was so great that the governor of Virginia, Douglas Wilder (also a black man), pardoned Iverson after four months."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm1132515/bio",
+      "parentId": 14,
+      "type": "text",
+      "text": "However, Gov. Wilder was accused of racism as well, that he was favoring a fellow black man, and his political career was nearly derailed.",
       "sourceTitle": "Allen Iverson – Biography",
-      "text": "However, Gov. Wilder was accused of racism as well, that he was favoring a fellow black man, and his political career was nearly derailed."
+      "sourceUrl": "http://www.imdb.com/name/nm1132515/bio"
     },
     {
-      "type": "sentence",
-      "text": "That race stuff is tricky."
+      "type": "text",
+      "text": "That race stuff is tricky.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hark.com/clips/hnjhvfktwb-obama-and-iverson-talk-practice",
+      "parentId": 15,
+      "type": "text",
+      "text": "In the modern era, it's difficult to say where Iverson stands. For example, while he and president Obama have talked basketball together,",
       "sourceTitle": "Obama and Iverson Talk Practice Sound Clip and Quote",
-      "text": "In the modern era, it's difficult to say where Iverson stands. For example, while he and president Obama have talked basketball together,"
+      "sourceUrl": "http://www.hark.com/clips/hnjhvfktwb-obama-and-iverson-talk-practice"
     },
     {
-      "type": "sentence",
-      "text": "Iverson doesn't appear to have ever endorsed or supported Obama–or any other candidate for that matter."
+      "type": "text",
+      "text": "Iverson doesn't appear to have ever endorsed or supported Obama–or any other candidate for that matter.",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.outsports.com/antigay.htm",
+      "parentId": 16,
+      "type": "text",
+      "text": "He has been accused of being anti-gay, both in the lyrics of a rap single he meant to release, but didn't because of the controversial lyrics, and because he once called an unruly fan a \"faggot\" at a basketball game.",
       "sourceTitle": "Anti-Gay Remarks by Athletes",
-      "text": "He has been accused of being anti-gay, both in the lyrics of a rap single he meant to release, but didn't because of the controversial lyrics, and because he once called an unruly fan a \"faggot\" at a basketball game."
+      "sourceUrl": "http://www.outsports.com/antigay.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "What does that make him? Tell us in the comments"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -34,104 +34,157 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Emily Deschanel was born in Los Angeles, California and grew up there as well as traveling widely during her upbringing to, among other places, Italy, Canada, France, Yugoslavia, England, and South Africa."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0221043/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Deschanel's heritage is French and Irish.",
       "sourceTitle": "Emily Deschanel – Biography",
-      "text": "Deschanel's heritage is French and Irish."
+      "sourceUrl": "http://www.imdb.com/name/nm0221043/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nextmovie.com/blog/emily-deschanel-interview-the-perfect-family/",
+      "type": "text",
+      "text": "So it is no surprise she was raised a Catholic.",
+      "parentId": 2,
       "sourceTitle": "Q&A: Emily Deschanel on Playing a 'Perfect' Catholic Lesbian",
-      "text": "So it is no surprise she was raised a Catholic."
+      "sourceUrl": "http://www.nextmovie.com/blog/emily-deschanel-interview-the-perfect-family/"
     },
     {
-      "type": "sentence",
-      "text": "But she has made it clear that, despite a positive childhood experience with the Catholic Church, her beliefs and those of the church have parted ways:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But she has made it clear that, despite a positive childhood experience with the Catholic Church, her beliefs and those of the church have parted ways:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.nextmovie.com/blog/emily-deschanel-interview-the-perfect-family/",
-      "sourceTitle": "Q&A: Emily Deschanel on Playing a 'Perfect' Catholic Lesbian",
-      "text": "I had a wonderful experience being Catholic. I am not a practicing Catholic or any religion right now… I am more of a spiritual person, if anything, and I am of the belief that we don't know, and I'm not going to pretend that I do."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I had a wonderful experience being Catholic. I am not a practicing Catholic or any religion right now… I am more of a spiritual person, if anything, and I am of the belief that we don't know, and I'm not going to pretend that I do.",
+      "sourceTitle": "Q&A: Emily Deschanel on Playing a 'Perfect' Catholic Lesbian",
+      "sourceUrl": "http://www.nextmovie.com/blog/emily-deschanel-interview-the-perfect-family/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "\"We don't know.\" That's the classic marker of an agnostic. But the nature of knowledge isn't what really turned Deschenel off of Catholicism. It's their stance on social issues–particularly homosexuality:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.nextmovie.com/blog/emily-deschanel-interview-the-perfect-family/",
-      "sourceTitle": "Q&A: Emily Deschanel on Playing a 'Perfect' Catholic Lesbian",
-      "text": "…a lot of the reason [I'm no longer Catholic] is the stance on being gay in a lot of the churches. I don't agree with that, and I don't think that is the core of what the church originally started for anyway."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "…a lot of the reason [I'm no longer Catholic] is the stance on being gay in a lot of the churches. I don't agree with that, and I don't think that is the core of what the church originally started for anyway.",
+      "sourceTitle": "Q&A: Emily Deschanel on Playing a 'Perfect' Catholic Lesbian",
+      "sourceUrl": "http://www.nextmovie.com/blog/emily-deschanel-interview-the-perfect-family/"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "But we might be mixing issues here, maybe it's time to get into…"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Socio-sexual politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0221043/bio",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Deschanel is unapologetically and unequivocally liberal. If it's not veganism,",
       "sourceTitle": "Emily Deschanel – Biography",
-      "text": "Deschanel is unapologetically and unequivocally liberal. If it's not veganism,"
+      "sourceUrl": "http://www.imdb.com/name/nm0221043/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thankingthemonkey.com",
+      "type": "text",
+      "text": "supporting PETA",
+      "parentId": 10,
       "sourceTitle": "Rethinking the Way We Treat Animals",
-      "text": "supporting PETA"
+      "sourceUrl": "http://www.thankingthemonkey.com"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/emilydeschanel",
+      "type": "text",
+      "text": "and encouraging Prop 37 (a proposition legislating greater regulation on food labeling) on Twitter,",
+      "parentId": 10,
       "sourceTitle": "Emily Deschanel (emilydeschanel) on Twitter",
-      "text": "and encouraging Prop 37 (a proposition legislating greater regulation on food labeling) on Twitter,"
+      "sourceUrl": "https://twitter.com/emilydeschanel"
     },
     {
-      "type": "sentence",
-      "text": "it's gay rights. She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "it's gay rights. She said:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.nextmovie.com/blog/emily-deschanel-interview-the-perfect-family/",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I have always had the opinion that everyone deserves to marry and [have] the same rights, no matter what your sexual orientation.",
       "sourceTitle": "Q&A: Emily Deschanel on Playing a 'Perfect' Catholic Lesbian",
-      "text": "I have always had the opinion that everyone deserves to marry and [have] the same rights, no matter what your sexual orientation."
+      "sourceUrl": "http://www.nextmovie.com/blog/emily-deschanel-interview-the-perfect-family/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ns1.newsmeat.com/fec/bystate_detail.php?st=CA&last=Deschanel&first=Emily",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "And the only politician she's ever given any money to is Barack Obama during his initial bid for president in 2008–a total of $2,800.",
       "sourceTitle": "Emily Deschanel's Federal Campaign Contribution Report",
-      "text": "And the only politician she's ever given any money to is Barack Obama during his initial bid for president in 2008–a total of $2,800."
+      "sourceUrl": "http://ns1.newsmeat.com/fec/bystate_detail.php?st=CA&last=Deschanel&first=Emily"
     },
     {
-      "type": "sentence",
-      "text": "However, there's no word regarding her position on Obama in 2012, which is interesting. Maybe she lost her faith in \"hope\" and \"change.\" Let us know in the comments if I'm wrong."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "However, there's no word regarding her position on Obama in 2012, which is interesting. Maybe she lost her faith in \"hope\" and \"change.\" Let us know in the comments if I'm wrong.",
+      "parentId": 13
     }
   ],
   "wikipediaData": {

@@ -30,74 +30,110 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kaley Cuoco was born in Camarillo, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.azcentral.com/ent/tv/articles/0103cuoco0103.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "She says she grew up in a conservative Christian household,",
       "sourceTitle": "Kaley Cuoco dons 'fat suit' for Lifetime movie.",
-      "text": "She says she grew up in a conservative Christian household,"
+      "sourceUrl": "http://www.azcentral.com/ent/tv/articles/0103cuoco0103.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.azcentral.com/ent/tv/articles/0103cuoco0103.html",
+      "type": "text",
+      "text": "but Cuoco doesn't talk about religion too much. She's still very close to her parents,",
+      "parentId": 2,
       "sourceTitle": "Kaley Cuoco dons 'fat suit' for Lifetime movie.",
-      "text": "but Cuoco doesn't talk about religion too much. She's still very close to her parents,"
+      "sourceUrl": "http://www.azcentral.com/ent/tv/articles/0103cuoco0103.html"
     },
     {
-      "type": "sentence",
-      "text": "so there's a good chance she didn't fall too far from the nest."
+      "type": "text",
+      "text": "so there's a good chance she didn't fall too far from the nest.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hollyscoop.com/celebrity-weddings/big-bang-theory-star-kaley-cuoco-announces-engagement.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Well, not"
+    },
+    {
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "too"
+    },
+    {
+      "type": "text",
+      "text": "far. She neglected to tell her conservative parents about a nude photo shoot she did for",
+      "parentId": 3
+    },
+    {
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Allure"
+    },
+    {
+      "type": "text",
+      "text": "magazine because she didn't think they'd understand. They found out anyway.",
+      "parentId": 3,
       "sourceTitle": "'Big Bang Theory' Star Kaley Cuoco Announces Engagement.",
-      "text": "Well, not  far. She neglected to tell her conservative parents about a nude photo shoot she did for  magazine because she didn't think they'd understand. They found out anyway."
+      "sourceUrl": "http://www.hollyscoop.com/celebrity-weddings/big-bang-theory-star-kaley-cuoco-announces-engagement.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/KaleyCuoco/status/226299500866699264",
+      "parentId": 4,
+      "type": "text",
+      "text": "We know that she prays for people, or says she does anyway. Among other tweets about her appeals to God, after the movie theater shooting in Aurora, Colorado in 2012, she tweeted that she was praying for the families of the victims.",
       "sourceTitle": "Kaley Cuoco.",
-      "text": "We know that she prays for people, or says she does anyway. Among other tweets about her appeals to God, after the movie theater shooting in Aurora, Colorado in 2012, she tweeted that she was praying for the families of the victims."
+      "sourceUrl": "https://twitter.com/KaleyCuoco/status/226299500866699264"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://answers.yahoo.com/question/index?qid=20120326202439AAvzgUS",
+      "parentId": 5,
+      "type": "text",
+      "text": "As far as politics go, Cuoco is even less forthcoming than with religion. There is speculation that she's a Republican,",
       "sourceTitle": "Kaley Cuoco, Republican or Democrat?",
-      "text": "As far as politics go, Cuoco is even less forthcoming than with religion. There is speculation that she's a Republican,"
+      "sourceUrl": "http://answers.yahoo.com/question/index?qid=20120326202439AAvzgUS"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.azcentral.com/ent/tv/articles/0103cuoco0103.html",
+      "type": "text",
+      "text": "but with no cited sources. But considering she describes her family as \"conservative Christian,\"",
+      "parentId": 5,
       "sourceTitle": "Kaley Cuoco dons 'fat suit' for Lifetime movie.",
-      "text": "but with no cited sources. But considering she describes her family as \"conservative Christian,\""
+      "sourceUrl": "http://www.azcentral.com/ent/tv/articles/0103cuoco0103.html"
     },
     {
-      "type": "sentence",
-      "text": "we can guess that her family leans toward the Republican camp."
+      "type": "text",
+      "text": "we can guess that her family leans toward the Republican camp.",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "But that's about all we have to go on with Cuoco. She doesn't donate to political campaigns or endorse candidates. Probably politics just isn't her thing. For now maybe she should just focus on praying that everything will turn out all right and leave the policy decisions to the experts."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

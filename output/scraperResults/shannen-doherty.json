@@ -33,154 +33,267 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Shannen Doherty was born and raised in Memphis, Tennessee."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.people.com/people/archive/article/0,,20109043,00.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Doherty was raised a Southern Baptist and attended a Baptist school growing up.",
       "sourceTitle": "Nobody's Pussycat",
-      "text": "Doherty was raised a Southern Baptist and attended a Baptist school growing up."
+      "sourceUrl": "http://www.people.com/people/archive/article/0,,20109043,00.html"
     },
     {
-      "type": "sentence",
-      "text": "But she didn't like it. She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But she didn't like it. She said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.people.com/people/archive/article/0,,20109043,00.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I hated that school. It was very repressed. They thought that dancing was evil, and I disagreed… I flipped through [the pastor's] Bible and found references to people dancing and rejoicing. I said to him, 'It clearly shows they danced and rejoiced. Just what the fuck is wrong with you?'",
       "sourceTitle": "Nobody's Pussycat",
-      "text": "I hated that school. It was very repressed. They thought that dancing was evil, and I disagreed… I flipped through [the pastor's] Bible and found references to people dancing and rejoicing. I said to him, 'It clearly shows they danced and rejoiced. Just what the fuck is wrong with you?'"
+      "sourceUrl": "http://www.people.com/people/archive/article/0,,20109043,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.people.com/people/archive/article/0,,20109043,00.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Her religious upbringing appears to have continued affecting her into adulthood. During her term on"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Beverly Hills 91210"
+    },
+    {
+      "type": "text",
+      "text": ", Doherty expressed concern over the questionable morals of the characters–her own included and complained about their sexual escapades.",
+      "parentId": 5,
       "sourceTitle": "Nobody's Pussycat",
-      "text": "Her religious upbringing appears to have continued affecting her into adulthood. During her term on , Doherty expressed concern over the questionable morals of the characters–her own included and complained about their sexual escapades."
+      "sourceUrl": "http://www.people.com/people/archive/article/0,,20109043,00.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "text": "Doherty's not the kind of celebrity to glorify God or preach during interviews or even on her , but when pressed, she's certainly unapologetic. She said:"
+      "parentId": 6,
+      "type": "text",
+      "text": "Doherty's not the kind of celebrity to glorify God or preach during interviews or even on her"
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "link",
+      "text": "Twitter feed",
+      "sourceUrl": "https://twitter.com/DohertyShannen"
+    },
+    {
+      "type": "text",
+      "text": ", but when pressed, she's certainly unapologetic. She said:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/s/shannen_doherty.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I'm from the South. I'm a Southern Baptist. I have a conservative point of view. I'm a Republican.",
       "sourceTitle": "Shannen Doherty Quotes",
-      "text": "I'm from the South. I'm a Southern Baptist. I have a conservative point of view. I'm a Republican."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/s/shannen_doherty.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "I guess that leads nicely to the next section…"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Sheep among wolves"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Yes, Doherty is a Republican and (almost) everything that goes along with that. She's under no illusions about her uniqueness in the overwhelmingly liberal Democrat environment that is Hollywood. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/s/shannen_doherty.html",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I realize that the majority of people in the entertainment business happen to be Democrats. I have no problem with that. And they should have no problem with the fact that I'm a Republican.",
       "sourceTitle": "Shannen Doherty Quotes",
-      "text": "I realize that the majority of people in the entertainment business happen to be Democrats. I have no problem with that. And they should have no problem with the fact that I'm a Republican."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/s/shannen_doherty.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Shannen_Doherty.php",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Fair enough. Doherty hasn't contributed much by way of political campaign donations, but what she has ($240) went to the National Republican Senatorial Committee in 2004.",
       "sourceTitle": "Shannen Doherty's Federal Financial Contribution Report.",
-      "text": "Fair enough. Doherty hasn't contributed much by way of political campaign donations, but what she has ($240) went to the National Republican Senatorial Committee in 2004."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Shannen_Doherty.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "But it goes way further back than that. She has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/s/shannen_doherty.html",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I'm a conservative. I was an avid supporter of Ronald Reagan; I thought he was fabulous.",
       "sourceTitle": "Shannen Doherty Quotes",
-      "text": "I'm a conservative. I was an avid supporter of Ronald Reagan; I thought he was fabulous."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/s/shannen_doherty.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pr.com/article/1209",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "In 1992, Doherty made an appearance and led the Pledge of Allegiance at the Republican National Convention.",
       "sourceTitle": "Shannen Doherty Talks Life Lessons: \"I've Not Always Been the Most Diplomatic Person",
-      "text": "In 1992, Doherty made an appearance and led the Pledge of Allegiance at the Republican National Convention."
+      "sourceUrl": "http://www.pr.com/article/1209"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.people.com/people/archive/article/0,,20109043,00.html",
+      "type": "text",
+      "text": "That was the year George H.W. Bush lost his reelection bid to Bill Clinton and interestingly, Doherty took a somewhat controversial side of a division within the Republican Party that year. She expressed her support for Bush's Secretary of Housing and Urban Development Jack Kemp,",
+      "parentId": 18,
       "sourceTitle": "Nobody's Pussycat",
-      "text": "That was the year George H.W. Bush lost his reelection bid to Bill Clinton and interestingly, Doherty took a somewhat controversial side of a division within the Republican Party that year. She expressed her support for Bush's Secretary of Housing and Urban Development Jack Kemp,"
+      "sourceUrl": "http://www.people.com/people/archive/article/0,,20109043,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/1991/11/26/us/washington-memo-for-bush-the-kemp-thing-reappears.html",
+      "type": "text",
+      "text": "who vocally opposed many of Bush's domestic policies and led a small revolution within the party.",
+      "parentId": 18,
       "sourceTitle": "Washington Memo; For Bush, the Kemp Thing Reappears",
-      "text": "who vocally opposed many of Bush's domestic policies and led a small revolution within the party."
+      "sourceUrl": "http://www.nytimes.com/1991/11/26/us/washington-memo-for-bush-the-kemp-thing-reappears.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://translate.google.com/translate?hl=en&sl=fr&u=http://www.parismatch.com/People-Match/Politique/Depeches/Shannen-Doherty-et-Melissa-Joan-Hart-pour-Mitt-Romney-443979/&prev=/search%3Fq%3Dshannen%2Bdoherty%2BMitt%2BRomney%26hl%3Den%26biw%3D1280%26bih%3D568&sa=X&ei=RVwkUeKrCtDpigLz5IGwBA&ved=0CFUQ7gEwBA",
+      "parentId": 19,
+      "type": "text",
+      "text": "More recently, Doherty broke Hollywood rank again and endorsed Mitt Romney's 2012 presidential bid.",
       "sourceTitle": "Shannen Doherty and Melissa Joan Hart for Mitt Romney",
-      "text": "More recently, Doherty broke Hollywood rank again and endorsed Mitt Romney's 2012 presidential bid."
+      "sourceUrl": "http://translate.google.com/translate?hl=en&sl=fr&u=http://www.parismatch.com/People-Match/Politique/Depeches/Shannen-Doherty-et-Melissa-Joan-Hart-pour-Mitt-Romney-443979/&prev=/search%3Fq%3Dshannen%2Bdoherty%2BMitt%2BRomney%26hl%3Den%26biw%3D1280%26bih%3D568&sa=X&ei=RVwkUeKrCtDpigLz5IGwBA&ved=0CFUQ7gEwBA"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "But she might agree with her Hollywood colleagues on one issue. And this one goes out to all the Hollowverse readers who take offense to our labeling of gay rights advocates as \"liberals.\" Doherty said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/05/03/shannen-doherty-talks-reality-show-penises_n_1475803.html",
-      "sourceTitle": "Shannen Doherty Talks Reality TV, Gay Marriage, And Being Scarred By 80-Year-Old Penises",
-      "text": "Two men, two women should be able to get married. It's not about your sex, it's about love and commitment. No state has the right to tell someone, 'No, this is not legal in the eyes of the state.' That is the most ridiculous statement in the world when you then go and preach that this is a free country."
+      "id": 21
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "Two men, two women should be able to get married. It's not about your sex, it's about love and commitment. No state has the right to tell someone, 'No, this is not legal in the eyes of the state.' That is the most ridiculous statement in the world when you then go and preach that this is a free country.",
+      "sourceTitle": "Shannen Doherty Talks Reality TV, Gay Marriage, And Being Scarred By 80-Year-Old Penises",
+      "sourceUrl": "http://www.huffingtonpost.com/2012/05/03/shannen-doherty-talks-reality-show-penises_n_1475803.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 23
+    },
+    {
+      "parentId": 23,
+      "type": "text",
       "text": "Ultimately, Doherty comes off as surprisingly lucid when it comes to politics–as her support for Kemp in '92 attests as well as her willingness to defy the majority of Hollywood. But one wonders… if the state should stay out of our personal affairs, as Doherty claims with her stance on gay marriage, what makes her Republican? If it's the economic policy, she might as well be a libertarian. But if she's on-board with the Republican foreign policy, then it's a different story. Oh wait… Yep, that's it:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 24
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://archive.mrc.org/cyberalerts/2003/cyb20030412.asp#6",
+      "type": "paragraph",
+      "id": 25,
+      "parentId": 24
+    },
+    {
+      "parentId": 25,
+      "type": "text",
+      "text": "I loved [Donald Rumsfeld]… I'm a big supporter of President Bush. C'mon, our troops are over there, we gotta be supportive.",
       "sourceTitle": "Actress Shannen Doherty: Loves Rumsfeld and Supports Bush",
-      "text": "I loved [Donald Rumsfeld]… I'm a big supporter of President Bush. C'mon, our troops are over there, we gotta be supportive."
+      "sourceUrl": "http://archive.mrc.org/cyberalerts/2003/cyb20030412.asp#6"
     }
   ],
   "wikipediaData": {

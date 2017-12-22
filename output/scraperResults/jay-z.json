@@ -34,86 +34,149 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jay-Z is a complicated man. He grew up in the Marcy Projects in Brooklyn, New York but rapped and hustled his way to one of the most successful entertainers of all time."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Religion wasn't a big part of Jay-Z's family growing up, but growing up where he did, Jay-Z experienced all kinds, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.religiondispatches.org/archive/culture/4326/identifying_with_god%3A_jay-z%E2%80%99s_power_to_profit/",
-      "sourceTitle": "Identifying With God: Jay-Z's Power to Profit",
-      "text": "Church wasn't a major part of my life growing up… But when you grow up in a place like Bed-Stuy, church is everywhere. So is mosque. So are a thousand other ways of believing."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Church wasn't a major part of my life growing up… But when you grow up in a place like Bed-Stuy, church is everywhere. So is mosque. So are a thousand other ways of believing.",
+      "sourceTitle": "Identifying With God: Jay-Z's Power to Profit",
+      "sourceUrl": "http://www.religiondispatches.org/archive/culture/4326/identifying_with_god%3A_jay-z%E2%80%99s_power_to_profit/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "He is religious, though. At least he's not an atheist. He has said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 6
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://necolebitchie.com/2010/01/13/jay-z-speaks-on-the-illuminati-and-his-religious-beliefs/",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "For the record, I of course believe in God, but I believe in one God. If people must know my religious beliefs, I believe in one God. I don't believe in religion. I don't believe in Christians or Muslims. I think all that separates people. I think it's one God. I think it's all the same God, and I don't believe in Hell.",
       "sourceTitle": "Jay-Z Speaks On The Illuminati and his Religious Beliefs",
-      "text": "For the record, I of course believe in God, but I believe in one God. If people must know my religious beliefs, I believe in one God. I don't believe in religion. I don't believe in Christians or Muslims. I think all that separates people. I think it's one God. I think it's all the same God, and I don't believe in Hell."
+      "sourceUrl": "http://necolebitchie.com/2010/01/13/jay-z-speaks-on-the-illuminati-and-his-religious-beliefs/"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Fuck 'em all–except Obama"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "One side of Jay-Z seems to feel that politics is all lies and corruption–and he wants no part of it, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 11
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.aceshowbiz.com/news/view/w0008335.html",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I'm not interested in politics. I have zero interest. I have interest in hope and people. Politics – I still think it's a bunch of liars and a bunch of self-interest. It's not about people, it's about themselves and their rise to power…[politicians] don't have the balls to say, 'I believe in this, I don't care what happens.' And until that happens, nothing is going to get fixed; you're still going to have 14 year olds in cities with AK-47s.",
       "sourceTitle": "Jay-Z Denies Move Into Politics",
-      "text": "I'm not interested in politics. I have zero interest. I have interest in hope and people. Politics – I still think it's a bunch of liars and a bunch of self-interest. It's not about people, it's about themselves and their rise to power…[politicians] don't have the balls to say, 'I believe in this, I don't care what happens.' And until that happens, nothing is going to get fixed; you're still going to have 14 year olds in cities with AK-47s."
+      "sourceUrl": "http://www.aceshowbiz.com/news/view/w0008335.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2008/10/01/jay-z-to-perform-at-obama_n_130982.html",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "But when it comes to Obama, Jay-Z must have changed his mind, because he supported the president's 2008 campaign,",
       "sourceTitle": "Jay-Z To Perform At Obama Voter Drive",
-      "text": "But when it comes to Obama, Jay-Z must have changed his mind, because he supported the president's 2008 campaign,"
+      "sourceUrl": "http://www.huffingtonpost.com/2008/10/01/jay-z-to-perform-at-obama_n_130982.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nypost.com/p/news/national/jay_is_in_da_Q5pswM6zMUEjBgl7hbAFgI",
+      "type": "text",
+      "text": "he and his wife, Beyonce, are buddies with the first family, even popping in to the White House just for a visit,",
+      "parentId": 13,
       "sourceTitle": "Jay-Z and Beyonce visit Obama in the White House",
-      "text": "he and his wife, Beyonce, are buddies with the first family, even popping in to the White House just for a visit,"
+      "sourceUrl": "http://www.nypost.com/p/news/national/jay_is_in_da_Q5pswM6zMUEjBgl7hbAFgI"
     },
     {
-      "type": "sentence",
-      "text": "and Jay-Z even came out in support of Obama's \"Buffet Rule,\" saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and Jay-Z even came out in support of Obama's \"Buffet Rule,\" saying:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://articles.nydailynews.com/2011-12-10/news/30503246_1_jay-z-shawn-carter-tax-hike",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I wouldn't mind paying more taxes if it went to the things that really mattered. If it went to education, to people in poverty, if it went to the right things, I wouldn't mind.",
       "sourceTitle": "Jay-Z to Obama: You can raise my taxes!",
-      "text": "I wouldn't mind paying more taxes if it went to the things that really mattered. If it went to education, to people in poverty, if it went to the right things, I wouldn't mind."
+      "sourceUrl": "http://articles.nydailynews.com/2011-12-10/news/30503246_1_jay-z-shawn-carter-tax-hike"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "He's got \"hope\" for some \"change,\" y'all!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

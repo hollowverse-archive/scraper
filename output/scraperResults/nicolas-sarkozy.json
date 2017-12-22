@@ -32,134 +32,190 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Nicolas Sarkozy was born in Paris, France and grew up in the Paris suburb, Neuilly-sur-Seine."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.religionfacts.com/politics/nicolas_sarkozy.htm",
+      "parentId": 2,
+      "type": "text",
+      "text": "Sarkozy is a Catholic who is proud of France's religious heritage. Despite being called a hypocrite by some Catholics for his two divorces, one child out of wedlock and the fact that he had the audacity to check his phone in the presence of the Pope,",
       "sourceTitle": "Nicolas Sarkozy",
-      "text": "Sarkozy is a Catholic who is proud of France's religious heritage. Despite being called a hypocrite by some Catholics for his two divorces, one child out of wedlock and the fact that he had the audacity to check his phone in the presence of the Pope,"
+      "sourceUrl": "http://www.religionfacts.com/politics/nicolas_sarkozy.htm"
     },
     {
-      "type": "sentence",
-      "text": "France's Catholic heritage is still extremely important in Sarkozy's mind. He once said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "France's Catholic heritage is still extremely important in Sarkozy's mind. He once said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.smh.com.au/world/sarkozy-genuflects-to-catholic-past-in-pilgrimage-for-votes-20110304-1bhzl.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "This heritage comes with obligations, this heritage is a privilege, but it presents us above all with a duty: it obliges us to pass it on to future generations, and we should embrace it without doubt or shame. This is the France that we love, the France that we're proud of, the France that has roots.",
       "sourceTitle": "Sarkozy genuflects to Catholic past in pilgrimage for votes",
-      "text": "This heritage comes with obligations, this heritage is a privilege, but it presents us above all with a duty: it obliges us to pass it on to future generations, and we should embrace it without doubt or shame. This is the France that we love, the France that we're proud of, the France that has roots."
+      "sourceUrl": "http://www.smh.com.au/world/sarkozy-genuflects-to-catholic-past-in-pilgrimage-for-votes-20110304-1bhzl.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.csmonitor.com/World/Europe/2008/0915/p01s01-woeu.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "When the 2012 French presidential election was in full swing and Sarkozy seemed to be lagging, he paid a visit to the Pope in an attempt to sway Catholic voters.",
       "sourceTitle": "With Pope's visit, Sarkozy challenges French secularism",
-      "text": "When the 2012 French presidential election was in full swing and Sarkozy seemed to be lagging, he paid a visit to the Pope in an attempt to sway Catholic voters."
+      "sourceUrl": "http://www.csmonitor.com/World/Europe/2008/0915/p01s01-woeu.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://galliawatch.blogspot.com/2010/10/sarkozy-catholic.html",
+      "type": "text",
+      "text": "But the visit backfired with many Catholics criticizing the president for asking the Pontiff for a gift",
+      "parentId": 5,
       "sourceTitle": "Sarkozy the Catholic",
-      "text": "But the visit backfired with many Catholics criticizing the president for asking the Pontiff for a gift"
+      "sourceUrl": "http://galliawatch.blogspot.com/2010/10/sarkozy-catholic.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.csmonitor.com/World/Europe/2008/0915/p01s01-woeu.html",
+      "type": "text",
+      "text": "and non-Catholics expressing concern that the separation of church and state was being threatened.",
+      "parentId": 5,
       "sourceTitle": "With Pope's visit, Sarkozy challenges French secularism",
-      "text": "and non-Catholics expressing concern that the separation of church and state was being threatened."
+      "sourceUrl": "http://www.csmonitor.com/World/Europe/2008/0915/p01s01-woeu.html"
     },
     {
-      "type": "sentence",
-      "text": "And pretty much everyone saw it as a ploy for votes."
+      "type": "text",
+      "text": "And pretty much everyone saw it as a ploy for votes.",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "text": "Sarkozy is generally considered a conservative. Some may say he borders on xenophobia, and a couple of his policies toward immigrants and France's non-white residents haven't helped his case–particularly Muslims and Roma."
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "La Politique"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": "Sarkozy is generally considered a conservative. Some may say he borders on xenophobia, and a couple of his policies toward immigrants and France's non-white residents haven't helped his case–particularly Muslims and Roma.",
+      "parentId": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Sarkozy repeatedly enraged France's 5 million Muslims when he outlawed the full-veil burqa and pushed for even the partial-coverage burqa to be outlawed as well, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.nytimes.com/2009/06/23/world/europe/23france.html",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "The issue of the burqa is not a religious issue. It is a question of freedom and of women's dignity. The burqa is not a religious sign. It is a sign of the subjugation, of the submission, of women.",
       "sourceTitle": "Sarkozy Backs Drive to Eliminate The Burqa",
-      "text": "The issue of the burqa is not a religious issue. It is a question of freedom and of women's dignity. The burqa is not a religious sign. It is a sign of the subjugation, of the submission, of women."
+      "sourceUrl": "http://www.nytimes.com/2009/06/23/world/europe/23france.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2010/07/30/world/europe/30france.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "France's large Roma population was under the gun as well, with Sarkozy having their camps raided and hundreds of them deported to their countries of origin–mostly Romania and Bulgaria.",
       "sourceTitle": "Sarkozy Toughens on Illegal Roma",
-      "text": "France's large Roma population was under the gun as well, with Sarkozy having their camps raided and hundreds of them deported to their countries of origin–mostly Romania and Bulgaria."
+      "sourceUrl": "http://www.nytimes.com/2010/07/30/world/europe/30france.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Some say it was these issues that cost him the 2012 election."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.forbes.com/sites/afontevecchia/2011/12/08/eu-summit-parallel-bailout-funds-sanctions-and-money-for-the-imf/",
+      "parentId": 13,
+      "type": "text",
+      "text": "However, others contend that it's Sarkozy's handling of the Eurozone financial crisis that left voters with a bad taste in their mouths. In an attempt to stabilize the Euro currency bloc, Sarkozy teamed up with German Chancellor Angela Merkel, the European Central Bank (ECB) and the International Monetary Fund (IMF) to pump hundreds of billions of Euros into various flailing economies (mostly Greece and Ireland).",
       "sourceTitle": "EU Summit: Parallel Bailouts Funds, Sanctions, and Money for the IMF",
-      "text": "However, others contend that it's Sarkozy's handling of the Eurozone financial crisis that left voters with a bad taste in their mouths. In an attempt to stabilize the Euro currency bloc, Sarkozy teamed up with German Chancellor Angela Merkel, the European Central Bank (ECB) and the International Monetary Fund (IMF) to pump hundreds of billions of Euros into various flailing economies (mostly Greece and Ireland)."
+      "sourceUrl": "http://www.forbes.com/sites/afontevecchia/2011/12/08/eu-summit-parallel-bailout-funds-sanctions-and-money-for-the-imf/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://roarmag.org/2011/11/crisis-europe-democracy-italy-greece-frankfurt-group/",
+      "parentId": 14,
+      "type": "text",
+      "text": "In return, they demanded everything from regime changes",
       "sourceTitle": "The Great Putsch: welcome to post-democratic Europe",
-      "text": "In return, they demanded everything from regime changes"
+      "sourceUrl": "http://roarmag.org/2011/11/crisis-europe-democracy-italy-greece-frankfurt-group/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://online.wsj.com/article/SB10001424052970204124204577150331716910136.html",
+      "type": "text",
+      "text": "to stiff austerity measures from these countries.",
+      "parentId": 14,
       "sourceTitle": "Angela Merkel, Nicolas Sarkozy Pile Pressure on Greece",
-      "text": "to stiff austerity measures from these countries."
+      "sourceUrl": "http://online.wsj.com/article/SB10001424052970204124204577150331716910136.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.goldmoney.com/gold-research/james-turk/when-bailouts-dont-work.html",
+      "type": "text",
+      "text": "The political fallout ranged from French and Germans feeling that they were paying for the irresponsible decisions of their neighbors",
+      "parentId": 14,
       "sourceTitle": "When bailouts don't work",
-      "text": "The political fallout ranged from French and Germans feeling that they were paying for the irresponsible decisions of their neighbors"
+      "sourceUrl": "http://www.goldmoney.com/gold-research/james-turk/when-bailouts-dont-work.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://roarmag.org/2011/11/crisis-europe-democracy-italy-greece-frankfurt-group/",
+      "type": "text",
+      "text": "to folks thinking their leaders were heartless technocrats.",
+      "parentId": 14,
       "sourceTitle": "The Great Putsch: welcome to post-democratic Europe",
-      "text": "to folks thinking their leaders were heartless technocrats."
+      "sourceUrl": "http://roarmag.org/2011/11/crisis-europe-democracy-italy-greece-frankfurt-group/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "Either way, it was a tough situation for any leader and Sarkozy paid the price."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

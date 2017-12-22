@@ -33,112 +33,165 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
-      "text": "Magic Johnson was born and raised in Lansing, Michigan."
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "break"
+      "parentId": 1,
+      "type": "text",
+      "text": "Earvin"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pj/Magic_Johnson.html",
+      "type": "text",
+      "text": "Magic Johnson was born and raised in Lansing, Michigan.",
+      "parentId": 1
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "He was brought up a Seventh Day Adventist. And though much of his family still practices this faith,",
       "sourceTitle": "The religion of Magic Johnson, basketball player",
-      "text": "He was brought up a Seventh Day Adventist. And though much of his family still practices this faith,"
+      "sourceUrl": "http://www.adherents.com/people/pj/Magic_Johnson.html"
     },
     {
-      "type": "sentence",
-      "text": "it's unclear if he still does."
+      "type": "text",
+      "text": "it's unclear if he still does.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "However, he still seems to be religious–and a Christian–in some way, though he doesn't want to talk about it. During an interview, when asked about his faith, he replied:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://voices.yahoo.com/magic-johnson-talks-religious-views-former-6629930.html",
-      "sourceTitle": "Magic Johnson Talks About Religious Views of Former Teammates",
-      "text": "I'm a Christian. Thanks for your question. Next question please."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I'm a Christian. Thanks for your question. Next question please.",
+      "sourceTitle": "Magic Johnson Talks About Religious Views of Former Teammates",
+      "sourceUrl": "http://voices.yahoo.com/magic-johnson-talks-religious-views-former-6629930.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "And he once mentioned that prayer is a big part of his life:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.christianpost.com/news/magic-johnson-on-jeremy-lin-god-is-good-69882/",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I thank Him every chance I get – on my knees praying.",
       "sourceTitle": "Magic Johnson on Jeremy Lin: 'God is good.'",
-      "text": "I thank Him every chance I get – on my knees praying."
+      "sourceUrl": "http://www.christianpost.com/news/magic-johnson-on-jeremy-lin-god-is-good-69882/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.people.com/people/archive/article/0,,20110946,00.html",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "The only clue as to which denomination Magic might have a loyalty is that his wedding was held at a Baptist church in Lansing,",
       "sourceTitle": "Magic Moment – Weddings, Magic Johnson",
-      "text": "The only clue as to which denomination Magic might have a loyalty is that his wedding was held at a Baptist church in Lansing,"
+      "sourceUrl": "http://www.people.com/people/archive/article/0,,20110946,00.html"
     },
     {
-      "type": "sentence",
-      "text": "but that might have been his wife's preference."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but that might have been his wife's preference.",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Political Magic"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://68.234.14.2/sports_political_donations/Magic_Johnson.php",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Politically, Johnson is all Democrat. His financial political donations are in the $60,000 range and include names like Barack Obama and Hillary Clinton–and not a single Republican or third-party candidate.",
       "sourceTitle": "Magic Johnson's Federal Campaign Contribution Report",
-      "text": "Politically, Johnson is all Democrat. His financial political donations are in the $60,000 range and include names like Barack Obama and Hillary Clinton–and not a single Republican or third-party candidate."
+      "sourceUrl": "http://68.234.14.2/sports_political_donations/Magic_Johnson.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://dailycaller.com/2012/03/09/magic-johnson-%E2%80%98i%E2%80%99m-comfortable-with%E2%80%99-any-tax-rate-obama-and-congress-decide-video/",
+      "parentId": 12,
+      "type": "text",
+      "text": "Johnson, an extremely successful businessman, discussed the tax and economic policies of the Obama administration before his reelection in 2012, saying he was \"comfortable\" with any tax rate the president might assign to the wealthy, as long as small businesses and startups get the support they need from government.",
       "sourceTitle": "Magic Johnson\" 'I'm comfortable with' any tax rate Obama and Congress decide",
-      "text": "Johnson, an extremely successful businessman, discussed the tax and economic policies of the Obama administration before his reelection in 2012, saying he was \"comfortable\" with any tax rate the president might assign to the wealthy, as long as small businesses and startups get the support they need from government."
+      "sourceUrl": "http://dailycaller.com/2012/03/09/magic-johnson-%E2%80%98i%E2%80%99m-comfortable-with%E2%80%99-any-tax-rate-obama-and-congress-decide-video/"
     },
     {
-      "type": "sentence",
-      "text": "This is particularly interesting, considering most Democrats discuss the social policies of their party over the business policies–and Republicans favor the wealthy. But apparently Johnson is fine with a little \"tax and spend.\""
+      "type": "text",
+      "text": "This is particularly interesting, considering most Democrats discuss the social policies of their party over the business policies–and Republicans favor the wealthy. But apparently Johnson is fine with a little \"tax and spend.\"",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Needless to say, he was an Obama supporter for both terms."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://sportsillustrated.cnn.com/vault/article/magazine/MAG1023368/1/index.htm",
+      "parentId": 14,
+      "type": "text",
+      "text": "Johnson, being wealthy and famous, has the rare opportunity to affect society in various ways. And given his battle with AIDS, much of his social outreach has been in regards to that disease. Johnson put a lot of focus on changing AIDS stigmas–that it was a disease for homosexuals, that it was easily communicable, and frankly, that it's a death sentence. In fact, Johnson is often considered instrumental in bringing AIDS awareness into the mainstream and breaking down much of the fear and misunderstanding that went along with it.",
       "sourceTitle": "Magic Johnson has pulled off one of the great comebacks",
-      "text": "Johnson, being wealthy and famous, has the rare opportunity to affect society in various ways. And given his battle with AIDS, much of his social outreach has been in regards to that disease. Johnson put a lot of focus on changing AIDS stigmas–that it was a disease for homosexuals, that it was easily communicable, and frankly, that it's a death sentence. In fact, Johnson is often considered instrumental in bringing AIDS awareness into the mainstream and breaking down much of the fear and misunderstanding that went along with it."
+      "sourceUrl": "http://sportsillustrated.cnn.com/vault/article/magazine/MAG1023368/1/index.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "And considering he's still alive, still a basketball legend and has made himself into a successful corporation, I'd say he certainly lives up to his name."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

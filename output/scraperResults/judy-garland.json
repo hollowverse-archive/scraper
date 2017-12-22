@@ -35,119 +35,197 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Judy Garland was born in Grand Rapids, Minnesota and grew up in Lancaster, California and Los Angeles, California. She died at the age of 47 in London, England of an accidental drug overdose in 1969."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pg/Judy_Garland.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Garland was baptized and raised an Episcopalian.",
       "sourceTitle": "The religion of Judy Garland, actress",
-      "text": "Garland was baptized and raised an Episcopalian."
+      "sourceUrl": "http://www.adherents.com/people/pg/Judy_Garland.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pg/Judy_Garland.html",
+      "type": "text",
+      "text": "Her godfather, who was quite wealthy, even established an Episcopalian church in Grand Rapids because there wasn't one at the time.",
+      "parentId": 2,
       "sourceTitle": "The religion of Judy Garland, actress",
-      "text": "Her godfather, who was quite wealthy, even established an Episcopalian church in Grand Rapids because there wasn't one at the time."
+      "sourceUrl": "http://www.adherents.com/people/pg/Judy_Garland.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pg/Judy_Garland.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Garland's parents were both devout, however her father was well-known to have been gay and his sexual advances toward young, male parishioners in Grand Rapids are considered to be the reason the family relocated to California.",
       "sourceTitle": "The religion of Judy Garland, actress",
-      "text": "Garland's parents were both devout, however her father was well-known to have been gay and his sexual advances toward young, male parishioners in Grand Rapids are considered to be the reason the family relocated to California."
+      "sourceUrl": "http://www.adherents.com/people/pg/Judy_Garland.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pg/Judy_Garland.html",
+      "type": "text",
+      "text": "Furthermore, Garland's maternal grandfather was a vocal agnostic and was known to broadcast his non-belief.",
+      "parentId": 3,
       "sourceTitle": "The religion of Judy Garland, actress",
-      "text": "Furthermore, Garland's maternal grandfather was a vocal agnostic and was known to broadcast his non-belief."
+      "sourceUrl": "http://www.adherents.com/people/pg/Judy_Garland.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pg/Judy_Garland.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "Two of Garland's five husbands were Jewish,",
       "sourceTitle": "The religion of Judy Garland, actress",
-      "text": "Two of Garland's five husbands were Jewish,"
+      "sourceUrl": "http://www.adherents.com/people/pg/Judy_Garland.html"
     },
     {
-      "type": "sentence",
-      "text": "indicating that she didn't feel obligated to marry within the Episcopalian faith–or even Christianity for that matter. And when she spoke of God and religion, (which was quite rare) she seemed apprehensive. You can listen  to her being interviewed on the topic. When asked if she was a religious girl, after a long pause, she said:"
+      "type": "text",
+      "text": "indicating that she didn't feel obligated to marry within the Episcopalian faith–or even Christianity for that matter. And when she spoke of God and religion, (which was quite rare) she seemed apprehensive. You can listen",
+      "parentId": 4
     },
     {
-      "type": "break"
+      "parentId": 4,
+      "type": "link",
+      "text": "here",
+      "sourceUrl": "http://www.youtube.com/watch?v=EuancSc2nU8"
+    },
+    {
+      "type": "text",
+      "text": "to her being interviewed on the topic. When asked if she was a religious girl, after a long pause, she said:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=EuancSc2nU8",
-      "sourceTitle": "Do I Believe In God? Judy Garland 1967",
-      "text": "I'm not a fanatically religious… do you mean, do I believe in God? Of course I believe in God."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I'm not a fanatically religious… do you mean, do I believe in God? Of course I believe in God.",
+      "sourceTitle": "Do I Believe In God? Judy Garland 1967",
+      "sourceUrl": "http://www.youtube.com/watch?v=EuancSc2nU8"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "But it's obvious she was happy when the interviewer changed the subject. My view is that she wasn't terribly religious–marginally spiritual perhaps. What do you readers think?"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "A liberal ahead of her time"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000023/bio",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Garland was a lifelong, and relatively active, Democrat. She was a member of the Hollywood Democratic committee and a financial as well as moral supporter of various liberal causes during her lifetime–including the Civil Rights movement. And she gave money to the campaigns of Democrats Franklin D. Roosevelt, Henry Wallace, Adlai Stevenson, John F. Kennedy and Robert Kennedy.",
       "sourceTitle": "Judy Garland – Biography",
-      "text": "Garland was a lifelong, and relatively active, Democrat. She was a member of the Hollywood Democratic committee and a financial as well as moral supporter of various liberal causes during her lifetime–including the Civil Rights movement. And she gave money to the campaigns of Democrats Franklin D. Roosevelt, Henry Wallace, Adlai Stevenson, John F. Kennedy and Robert Kennedy."
+      "sourceUrl": "http://www.imdb.com/name/nm0000023/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "She is now an icon to the gay community. There's no explicit support from her of gay rights (though her father was gay) but when she was asked later in her career what she thought about having so many gay fans, she said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.activemusician.com/Judy-Garland-Biography--t8i1714",
-      "sourceTitle": "Judy Garland Biography",
-      "text": "I couldn't care less. I sing to people."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I couldn't care less. I sing to people.",
+      "sourceTitle": "Judy Garland Biography",
+      "sourceUrl": "http://www.activemusician.com/Judy-Garland-Biography--t8i1714"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Despite socially liberal leanings, Garland was certainly no feminist. She was explicit that men must lead women through their lives because women are insecure (in her mind). She once pleaded to men:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pg/Judy_Garland.html",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Don't yeild your leadership. Don't hand us the reins.",
       "sourceTitle": "The religion of Judy Garland, actress",
-      "text": "Don't yeild your leadership. Don't hand us the reins."
+      "sourceUrl": "http://www.adherents.com/people/pg/Judy_Garland.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/judy_garland.html?vm=l",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "It seemed deep–a part of her personal philosophy of life. However, it could be interpreted as Garland's own insecurity and loneliness  She often admitted to being lonely, craving a man's love and even attempting suicide.",
       "sourceTitle": "Judy Garland Quotes",
-      "text": "It seemed deep–a part of her personal philosophy of life. However, it could be interpreted as Garland's own insecurity and loneliness  She often admitted to being lonely, craving a man's love and even attempting suicide."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/judy_garland.html?vm=l"
     },
     {
-      "type": "sentence",
-      "text": "Perhaps only  needed guidance, not all women–though we can't speak for Garland."
+      "type": "text",
+      "text": "Perhaps only",
+      "parentId": 16
     },
     {
-      "type": "break"
+      "parentId": 16,
+      "type": "emphasis",
+      "text": "she"
+    },
+    {
+      "type": "text",
+      "text": "needed guidance, not all women–though we can't speak for Garland.",
+      "parentId": 16
     }
   ],
   "wikipediaData": {

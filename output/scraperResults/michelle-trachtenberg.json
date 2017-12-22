@@ -32,112 +32,184 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Michelle Trachtenberg was born in New York City and raised in Brooklyn, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ethnicelebs.com/michelle-trachtenberg",
+      "parentId": 2,
+      "type": "text",
+      "text": "Trachtenberg is Jewish. Both her parents are first-generation immigrants–her mother from Russia and her father from Germany. Both are Jewish.",
       "sourceTitle": "Michell Trachtenberg",
-      "text": "Trachtenberg is Jewish. Both her parents are first-generation immigrants–her mother from Russia and her father from Germany. Both are Jewish."
+      "sourceUrl": "http://ethnicelebs.com/michelle-trachtenberg"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ethnicelebs.com/michelle-trachtenberg",
+      "type": "text",
+      "text": "Trachtenberg speaks Russian, the language of her grandparents, who live in Israel.",
+      "parentId": 2,
       "sourceTitle": "Michell Trachtenberg",
-      "text": "Trachtenberg speaks Russian, the language of her grandparents, who live in Israel."
+      "sourceUrl": "http://ethnicelebs.com/michelle-trachtenberg"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ethnicelebs.com/michelle-trachtenberg",
+      "parentId": 3,
+      "type": "text",
+      "text": "Her Jew-ness–or lack thereof–is not something Trachtenberg speaks about, so it's impossible to tell if she practices the faith of her heritage or not. We do know that she celebrates Hanukkah"
+    },
+    {
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "and"
+    },
+    {
+      "type": "text",
+      "text": "Christmas,",
+      "parentId": 3,
       "sourceTitle": "Michell Trachtenberg",
-      "text": "Her Jew-ness–or lack thereof–is not something Trachtenberg speaks about, so it's impossible to tell if she practices the faith of her heritage or not. We do know that she celebrates Hanukkah Christmas,"
+      "sourceUrl": "http://ethnicelebs.com/michelle-trachtenberg"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=1473",
+      "type": "text",
+      "text": "though it's probably all Santa Claus and mistletoe and not so much nativity scenes and Bible passages. I suppose we'll default here to a higher authority–the website Jew or Not Jew–who have designated Trachtenberg as \"borderline Jew.\"",
+      "parentId": 3,
       "sourceTitle": "Michelle Trachtenberg",
-      "text": "though it's probably all Santa Claus and mistletoe and not so much nativity scenes and Bible passages. I suppose we'll default here to a higher authority–the website Jew or Not Jew–who have designated Trachtenberg as \"borderline Jew.\""
+      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=1473"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "But you never know. She might just not feel the need to wave her faith like a flag. She did once say:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 5
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/michelle_trachtenberg.html",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Keep your private life private. Be open to suggestions from different people. And just be nice.",
       "sourceTitle": "Michelle Trachtenberg Quotes",
-      "text": "Keep your private life private. Be open to suggestions from different people. And just be nice."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/michelle_trachtenberg.html"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Michelle the right-winger slayer"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0005502/bio",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Trachtenberg is a Democrat–and has been since well before she could even vote. During the Clinton administration, Trachtenberg was a part of the president's Coalition for a Drug Free America campaign.",
       "sourceTitle": "Michelle Trachtenberg – Biography",
-      "text": "Trachtenberg is a Democrat–and has been since well before she could even vote. During the Clinton administration, Trachtenberg was a part of the president's Coalition for a Drug Free America campaign."
+      "sourceUrl": "http://www.imdb.com/name/nm0005502/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "In more recent events, namely the 2012 U.S. elections, she went full-on Democrat. On election day, she bragged about voting on Twitter, and another tweet simply read:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/RealMichelleT",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "#Obama.",
       "sourceTitle": "Michelle Trachtenberg (RealMichelleT) on Twitter",
-      "text": "#Obama."
+      "sourceUrl": "https://twitter.com/RealMichelleT"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://forums.superiorpics.com/ubbthreads/ubbthreads.php/topics/1722317/Michelle_Trachtenberg_for_Obam",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Plus, she was spotted at Obama headquarters in Los Angeles before the election, presumably picking up tips about how to advance the president's campaign.",
       "sourceTitle": "Michelle Trachtenberg for Obama in Hollywood Jan 13th HQ x 7",
-      "text": "Plus, she was spotted at Obama headquarters in Los Angeles before the election, presumably picking up tips about how to advance the president's campaign."
+      "sourceUrl": "http://forums.superiorpics.com/ubbthreads/ubbthreads.php/topics/1722317/Michelle_Trachtenberg_for_Obam"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "text": "But supporting Democrats isn't enough for Trachtenberg. She joined a few other celebrities in a  for the comedy site \"Funny or Die,\" that made fun of 2012 Republican presidential candidate Rick Santorum, satirizing his views on abortion and women's role in society. Interestingly, the video was made after Santorum had already dropped out of the race."
+      "parentId": 14,
+      "type": "text",
+      "text": "But supporting Democrats isn't enough for Trachtenberg. She joined a few other celebrities in a"
     },
     {
-      "type": "break"
+      "parentId": 14,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.funnyordie.com/videos/2e87bd3144/rick-santorum-aborts-presidential-campaign"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://celebrity-gossip.net/michelle-trachtenberg/michelle-trachtenberg-stands-against-bullying-602307",
+      "type": "text",
+      "text": "for the comedy site \"Funny or Die,\" that made fun of 2012 Republican presidential candidate Rick Santorum, satirizing his views on abortion and women's role in society. Interestingly, the video was made after Santorum had already dropped out of the race.",
+      "parentId": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "And she has supported an anti-bullying campaign, urging awareness on the issue of childhood bullying, a recent movement usually associated with protesting the harassment of homosexual kids.",
       "sourceTitle": "Michelle Trachtenberg Stands Up Against Bullying",
-      "text": "And she has supported an anti-bullying campaign, urging awareness on the issue of childhood bullying, a recent movement usually associated with protesting the harassment of homosexual kids."
+      "sourceUrl": "http://celebrity-gossip.net/michelle-trachtenberg/michelle-trachtenberg-stands-against-bullying-602307"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "So, liberal Democrat it is."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

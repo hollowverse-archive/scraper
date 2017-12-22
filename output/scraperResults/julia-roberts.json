@@ -33,120 +33,206 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Julia Roberts was born and raised in Atlanta, Georgia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtontimes.com/news/2010/aug/18/eat-pray-love-star-julia-roberts-happy-as-is/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Roberts' upbringing was a mix of Catholic and Baptist, but apparently the Catholic side won out and she considers herself to have been raised Catholic.",
       "sourceTitle": "'Eat Pray Love' star Julia Roberts happy as is",
-      "text": "Roberts' upbringing was a mix of Catholic and Baptist, but apparently the Catholic side won out and she considers herself to have been raised Catholic."
+      "sourceUrl": "http://www.washingtontimes.com/news/2010/aug/18/eat-pray-love-star-julia-roberts-happy-as-is/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/culture/film/film-news/7928961/Julia-Roberts-Im-a-Hindu.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "At some point during Roberts' adulthood, however, she converted to Hinduism and has admitted to being a practicing Hindu who attends temple to \"chant and pray and celebrate.\"",
       "sourceTitle": "Julia Roberts: I'm a Hindu",
-      "text": "At some point during Roberts' adulthood, however, she converted to Hinduism and has admitted to being a practicing Hindu who attends temple to \"chant and pray and celebrate.\""
+      "sourceUrl": "http://www.telegraph.co.uk/culture/film/film-news/7928961/Julia-Roberts-Im-a-Hindu.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Roberts has repeatedly expressed her distaste for celebrities that pontificate about their political and religious views. She once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.celebitchy.com/13950/julia_roberts_finds_it_distracting_when_celebrities_talk_politics_or_religion/",
-      "sourceTitle": "Julia Roberts finds it distracting when celebrities talk politics or religion",
-      "text": "People do care what celebrities think, but it's a such a hollow care. I've seen actors on TV start talking about their politics or religion, and I just think, you're putting me off. I don't need to know every little thing. People don't really want to know. It's nice if you don't have all those little voices in the back of your head when you're watching somebody in a movie."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "People do care what celebrities think, but it's a such a hollow care. I've seen actors on TV start talking about their politics or religion, and I just think, you're putting me off. I don't need to know every little thing. People don't really want to know. It's nice if you don't have all those little voices in the back of your head when you're watching somebody in a movie.",
+      "sourceTitle": "Julia Roberts finds it distracting when celebrities talk politics or religion",
+      "sourceUrl": "http://www.celebitchy.com/13950/julia_roberts_finds_it_distracting_when_celebrities_talk_politics_or_religion/"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "But Roberts has mentioned her hopes for her next reincarnation, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.politicsdaily.com/2010/08/05/julia-roberts-is-a-practicing-hindu-move-over-george-harriso/",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Golly, I've been so spoiled with my friends and family in this life. Next time I want to be just something quiet and supporting.",
       "sourceTitle": "Julia Roberts: 'I'm Definitely a Practicing Hindu",
-      "text": "Golly, I've been so spoiled with my friends and family in this life. Next time I want to be just something quiet and supporting."
+      "sourceUrl": "http://www.politicsdaily.com/2010/08/05/julia-roberts-is-a-practicing-hindu-move-over-george-harriso/"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Pretty politics"
     },
     {
-      "type": "sentence",
-      "text": "Again, Roberts doesn't  to talk about politics, recalling an old lesson her mother taught her:"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "break"
+      "parentId": 11,
+      "type": "text",
+      "text": "Again, Roberts doesn't"
+    },
+    {
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "want"
+    },
+    {
+      "type": "text",
+      "text": "to talk about politics, recalling an old lesson her mother taught her:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2010/08/18/hindu-julia-roberts-im-do_n_685893.html",
-      "sourceTitle": "Hindu Julia Roberts: I'm Done Talking About Religion",
-      "text": "I've realized something my mother told me 22 years ago. You're an actor, act. Don't talk about politics or religion."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I've realized something my mother told me 22 years ago. You're an actor, act. Don't talk about politics or religion.",
+      "sourceTitle": "Hindu Julia Roberts: I'm Done Talking About Religion",
+      "sourceUrl": "http://www.huffingtonpost.com/2010/08/18/hindu-julia-roberts-im-do_n_685893.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "But sometimes she just can't help herself. The Hollywood liberal in Roberts couldn't abide former president George W. Bush and Roberts lashed out, calling him an \"embarrassment\" to the United States and saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.nndb.com/people/592/000022526/",
-      "sourceTitle": "Julia Roberts",
-      "text": "He's not my president. He will never be my president."
+      "id": 15
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "He's not my president. He will never be my president.",
+      "sourceTitle": "Julia Roberts",
+      "sourceUrl": "http://www.nndb.com/people/592/000022526/"
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "And when Bush's daughter was caught-up in a scandal involving her being caught drunk when underage, Roberts said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.celebitchy.com/13950/julia_roberts_finds_it_distracting_when_celebrities_talk_politics_or_religion/",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "We all need to take a deep breath and think about being a Bush daughter and having that cross to bear. I'd go out and have a couple of drinks, too.",
       "sourceTitle": "Julia Roberts finds it distracting when celebrities talk politics or religion",
-      "text": "We all need to take a deep breath and think about being a Bush daughter and having that cross to bear. I'd go out and have a couple of drinks, too."
+      "sourceUrl": "http://www.celebitchy.com/13950/julia_roberts_finds_it_distracting_when_celebrities_talk_politics_or_religion/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Julia_Roberts.php",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "She certainly didn't like Bush, but does that make her a Democrat? Her pocketbook says so. She's only made one financial contribution to a federal politician: Kentucky Democratic Senate hopeful Nick Clooney, to the tune of $2,000.",
       "sourceTitle": "Julia Roberts's Federal Campaign Contribution Report",
-      "text": "She certainly didn't like Bush, but does that make her a Democrat? Her pocketbook says so. She's only made one financial contribution to a federal politician: Kentucky Democratic Senate hopeful Nick Clooney, to the tune of $2,000."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Julia_Roberts.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blog.zap2it.com/pop2it/2009/03/relax-julia-rob.html",
+      "type": "text",
+      "text": "Plus, she said she had faith that Barack Obama would \"fix\" America and told the world that they should be grateful that someone as \"bright and capable\" as Obama actually wanted to be president after eight years of Bush.",
+      "parentId": 20,
       "sourceTitle": "Relax! Julia Roberts is 'confident' Barack Obama will fix recession",
-      "text": "Plus, she said she had faith that Barack Obama would \"fix\" America and told the world that they should be grateful that someone as \"bright and capable\" as Obama actually wanted to be president after eight years of Bush."
+      "sourceUrl": "http://blog.zap2it.com/pop2it/2009/03/relax-julia-rob.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "sentence",
+      "parentId": 21,
+      "type": "text",
       "text": "Actually, when you add it up, that's quite a bit to say for someone who can't stand it when celebrities talk about religion and politics."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

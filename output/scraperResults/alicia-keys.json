@@ -35,111 +35,192 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Alicia Keys, whose real name is Alicia Augello Cook, was born and raised in Manhattan, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.startribune.com/entertainment/music/18138354.html?elr=KArksD:aDyaEP:kD:aUt:aDyaEP:kD:aUiacyKUUr&refer=y",
+      "parentId": 2,
+      "type": "text",
+      "text": "Keys was raised almost exclusively by her mother, who was a woman of Irish, Scottish, and Italian descent.",
       "sourceTitle": "More Keys",
-      "text": "Keys was raised almost exclusively by her mother, who was a woman of Irish, Scottish, and Italian descent."
+      "sourceUrl": "http://www.startribune.com/entertainment/music/18138354.html?elr=KArksD:aDyaEP:kD:aUt:aDyaEP:kD:aUiacyKUUr&refer=y"
     },
     {
-      "type": "sentence",
-      "text": "Though there is no information that I can find regarding Keys' religious upbringing, her mother's ethnic heritage certainly leans toward Catholicism."
+      "type": "text",
+      "text": "Though there is no information that I can find regarding Keys' religious upbringing, her mother's ethnic heritage certainly leans toward Catholicism.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Keys now appears to be a very spiritual person, though any affiliation with a traditional, mainstream religion is absent. When asked if she is religious, Keys said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.teenink.com/nonfiction/interviews/article/5341/Singer-Alicia-Keys/",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I would call it spirituality because I think religion gets very sticky. I think it's beautiful to have a belief in something and that's where religion comes in… But for me it's definitely spirituality in the sense of having integrity and certain morals I stand by.",
       "sourceTitle": "Singer Alicia Keys",
-      "text": "I would call it spirituality because I think religion gets very sticky. I think it's beautiful to have a belief in something and that's where religion comes in… But for me it's definitely spirituality in the sense of having integrity and certain morals I stand by."
+      "sourceUrl": "http://www.teenink.com/nonfiction/interviews/article/5341/Singer-Alicia-Keys/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://viklife.com/video/alicia-keys-discusses-god",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "And when Keys was asked to describe her faith and her view of what \"God\" is, she expressed views similar to pantheism. She believes all life to be \"God,\" all love to be \"God.\" She even believes that beautiful buildings, even although designed and constructed by humans, must have been inspired by something greater than those who built it.",
       "sourceTitle": "Alicia Keys Discusses God",
-      "text": "And when Keys was asked to describe her faith and her view of what \"God\" is, she expressed views similar to pantheism. She believes all life to be \"God,\" all love to be \"God.\" She even believes that beautiful buildings, even although designed and constructed by humans, must have been inspired by something greater than those who built it."
+      "sourceUrl": "http://viklife.com/video/alicia-keys-discusses-god"
     },
     {
-      "type": "sentence",
-      "text": "It's really somewhat, a little bit, just kind of a unique perspective."
+      "type": "text",
+      "text": "It's really somewhat, a little bit, just kind of a unique perspective.",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "Keys is a believer, though. Some religious interviewer who clearly had a chip on his shoulder asked Keys what she would say to atheists, and she responded:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://viklife.com/video/alicia-keys-discusses-god",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I personally don't believe that there's not a God. How can there not be a God?",
       "sourceTitle": "Alicia Keys Discusses God",
-      "text": "I personally don't believe that there's not a God. How can there not be a God?"
+      "sourceUrl": "http://viklife.com/video/alicia-keys-discusses-god"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "The politics of being female"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "AliciaKeys is a woman. That's right, and many of her political objectives and activity focus around women's issues. That being the case, it's not surprising that she's a big supporter of the Democratic Party, and therefore, a big supporter of Barack Obama. And who would blame her? The 2012 Republican platform, from the presidential primaries to state-level elections, proposed such things as mandatory vaginal ultra-sounds for women wanting an abortion and yanking reproductive health costs from insurance plans. Women started feeling attacked."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=moTe7VYQEGk",
+      "parentId": 13,
+      "type": "text",
+      "text": "As a result, Keys campaigned for Obama in both 2008",
       "sourceTitle": "Vote for Change: Alicia Keys (Obama, 2008).",
-      "text": "As a result, Keys campaigned for Obama in both 2008"
+      "sourceUrl": "http://www.youtube.com/watch?v=moTe7VYQEGk"
     },
     {
-      "type": "sentence",
-      "text": "and 2012, ((. Rap-Up.)) catering her message to women. She said:"
+      "type": "text",
+      "text": "and 2012, ((",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "link",
+      "text": "Alicia Keys Campaigns For Obama In Philadelphia",
+      "sourceUrl": "http://www.rap-up.com/2012/07/17/alicia-keys-campaigns-for-obama-in-philadelphia/"
+    },
+    {
+      "type": "text",
+      "text": ". Rap-Up.)) catering her message to women. She said:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://loop21.com/politics/singer-alicia-keys-talks-2012-elections-womens-issues-and-new-album?page=2",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I think as women we have specific issues that we care about more because we are the nurtures and caretakers of our families. I believe healthcare, education and equal pay are all important issues for women.",
       "sourceTitle": "Singer Alicia Keys Talks 2012 Elections, Women's Issues and New Album",
-      "text": "I think as women we have specific issues that we care about more because we are the nurtures and caretakers of our families. I believe healthcare, education and equal pay are all important issues for women."
+      "sourceUrl": "http://loop21.com/politics/singer-alicia-keys-talks-2012-elections-womens-issues-and-new-album?page=2"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.exposay.com/joss-stone-to-record-barack-obamas-campaign-theme-song/v/22250/",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "For Obama's 2008 campaign, Keys even provided the music.",
       "sourceTitle": "Joss Stone To Record Barack Obama's Campaign Theme Song",
-      "text": "For Obama's 2008 campaign, Keys even provided the music."
+      "sourceUrl": "http://www.exposay.com/joss-stone-to-record-barack-obamas-campaign-theme-song/v/22250/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Alicia_Keys.php",
+      "parentId": 17,
+      "type": "text",
+      "text": "The only strange thing is that despite being a staunch Democrat and a wealthy entertainer,"
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Keys' only federal campaign contribution was"
+    },
+    {
+      "type": "text",
+      "text": "$500 to the Democratic National Convention in 2004.",
+      "parentId": 17,
       "sourceTitle": "Alicia Keys Federal Campaign Contribution Report",
-      "text": "The only strange thing is that despite being a staunch Democrat and a wealthy entertainer,  $500 to the Democratic National Convention in 2004."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Alicia_Keys.php"
     }
   ],
   "wikipediaData": {

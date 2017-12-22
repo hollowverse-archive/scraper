@@ -37,140 +37,235 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Bruce Lee, whose given name was Lee Jun-fan, was born in San Francisco, California and grew up there and in Hong Kong, which was then a part of the British Empire. Lee died of brain swelling in 1973 in Hong Kong."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://spiritedbrucelee.blogspot.com/2011/10/bruce-lees-religion.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Lee was raised in a bi-religious household. His mother was a Catholic and his father a Buddhist. Lee's mother was active in her faith,",
       "sourceTitle": "Bruce Lee's Religion",
-      "text": "Lee was raised in a bi-religious household. His mother was a Catholic and his father a Buddhist. Lee's mother was active in her faith,"
+      "sourceUrl": "http://spiritedbrucelee.blogspot.com/2011/10/bruce-lees-religion.html"
     },
     {
-      "type": "sentence",
-      "text": "and one gets the sense that his father couldn't have cared less. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and one gets the sense that his father couldn't have cared less. He said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://spiritedbrucelee.blogspot.com/2011/10/bruce-lees-religion.html",
-      "sourceTitle": "Bruce Lee's Religion",
-      "text": "When my mother went to church on Sunday, my father sat at home. This didn't seem to worry her-and it didn't worry my father that she was sending me to a Catholic school."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "When my mother went to church on Sunday, my father sat at home. This didn't seem to worry her-and it didn't worry my father that she was sending me to a Catholic school.",
+      "sourceTitle": "Bruce Lee's Religion",
+      "sourceUrl": "http://spiritedbrucelee.blogspot.com/2011/10/bruce-lees-religion.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "It seems like a very spiritually open upbringing, which would explain the fact that Lee was incredibly well-read and always fascinated with philosophy and theology. Ultimately, though, Bruce was an atheist. During one interview, Bruce was asked what he considered his religion to be. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 6
     },
     {
-      "type": "quote",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "None whatsoever."
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "He was then asked if he believed in God. He replied:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Bruce_Lee",
-      "sourceTitle": "Bruce Lee",
-      "text": "To be perfectly frank, I really do not."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "To be perfectly frank, I really do not.",
+      "sourceTitle": "Bruce Lee",
+      "sourceUrl": "http://www.celebatheists.com/wiki/Bruce_Lee"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "But Lee was full of spiritual platitudes and it is obvious that he had deeply-rooted philosophical and spiritual ideas, of which he wrote about in his books or explained during his many interviews. Much of his philosophy has a distinctly Eastern tone and revolves around finding oneself, metaphors to nature, and the power within the human \"soul.\" He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://en.wikiquote.org/wiki/Bruce_Lee",
-      "sourceTitle": "Bruce Lee",
-      "text": "Man, the living creature, the creating individual, is always more important than any established style or system."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Man, the living creature, the creating individual, is always more important than any established style or system.",
+      "sourceTitle": "Bruce Lee",
+      "sourceUrl": "http://en.wikiquote.org/wiki/Bruce_Lee"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Could he have been implying that the spirit of the individual is more powerful than, say, religious institutions? His most widely-cited biographer, John Little, thought so. Little wrote:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 15
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Bruce_Lee",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Lee felt that anything which substituted the ways or beliefs of others in the place of teaching you how to cultivate your own was a step in the wrong direction. For this reason, Lee was opposed to the doctrines–or rather the dogmas–of organized religion.",
       "sourceTitle": "Bruce Lee",
-      "text": "Lee felt that anything which substituted the ways or beliefs of others in the place of teaching you how to cultivate your own was a step in the wrong direction. For this reason, Lee was opposed to the doctrines–or rather the dogmas–of organized religion."
+      "sourceUrl": "http://www.celebatheists.com/wiki/Bruce_Lee"
     },
     {
       "type": "heading",
+      "id": 17
+    },
+    {
+      "type": "heading",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "Politics of being"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "Bruce Lee made no explicit political contributions, either financially, as a celebrity, or ideologically."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "That's not to say that he wasn't political in his own way."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.popmodal.com/video/1553/Bruce-Lee-Conservative",
+      "parentId": 21,
+      "type": "text",
+      "text": "Naturally, his philosophies have been interpreted to fit their interpreter's views on more than one occasion. For example, one conservative took Bruce's idea of \"going with the flow\" as counter to the apparently liberal view that all decisions must be centralized until there is nothing left of humanity but the \"mechanical man.\"",
       "sourceTitle": "Bruce Lee Conservative?",
-      "text": "Naturally, his philosophies have been interpreted to fit their interpreter's views on more than one occasion. For example, one conservative took Bruce's idea of \"going with the flow\" as counter to the apparently liberal view that all decisions must be centralized until there is nothing left of humanity but the \"mechanical man.\""
+      "sourceUrl": "http://www.popmodal.com/video/1553/Bruce-Lee-Conservative"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 22
     },
     {
-      "type": "sentence",
+      "parentId": 22,
+      "type": "text",
       "text": "Ok… That seems to be a bit of a stretch, whatever it means."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 23
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.uzak.it/uzak-02-primavera-2011/-lo-stato-delle-cose/49-spectres-of-bruce-lee.html",
+      "parentId": 23,
+      "type": "text",
+      "text": "Lee was a cultural icon and a default representative of Asian culture in the west. He was so famous that he unwillingly represented the emerging China, the post-colonial East, and its synthesis with the West.",
       "sourceTitle": "Spectres of Bruce Lee",
-      "text": "Lee was a cultural icon and a default representative of Asian culture in the west. He was so famous that he unwillingly represented the emerging China, the post-colonial East, and its synthesis with the West."
+      "sourceUrl": "http://www.uzak.it/uzak-02-primavera-2011/-lo-stato-delle-cose/49-spectres-of-bruce-lee.html"
     },
     {
-      "type": "sentence",
-      "text": "Furthermore, Bruce represented a growing and largely marginalized minority in the U.S. in the 70s–that of Asian-Americans. He was their first child to really break into the mainstream."
+      "type": "text",
+      "text": "Furthermore, Bruce represented a growing and largely marginalized minority in the U.S. in the 70s–that of Asian-Americans. He was their first child to really break into the mainstream.",
+      "parentId": 23
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 24
     },
     {
-      "type": "sentence",
+      "parentId": 24,
+      "type": "text",
       "text": "As he once famously said, when asked if he identified more with his Asian or his North American heritage:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 25
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://thinkexist.com/quotation/you-know-what-i-want-to-think-of-myself-as-a/357101.html",
+      "type": "paragraph",
+      "id": 26,
+      "parentId": 25
+    },
+    {
+      "parentId": 26,
+      "type": "text",
+      "text": "You know what I want to think of myself? As a human being.",
       "sourceTitle": "Bruce Lee quotes",
-      "text": "You know what I want to think of myself? As a human being."
+      "sourceUrl": "http://thinkexist.com/quotation/you-know-what-i-want-to-think-of-myself-as-a/357101.html"
     }
   ],
   "wikipediaData": {
