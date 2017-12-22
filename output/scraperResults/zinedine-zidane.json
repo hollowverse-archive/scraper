@@ -32,146 +32,213 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/football/2004/apr/04/sport.features",
+      "parentId": 1,
+      "type": "text",
+      "text": "Zinedine Zidane was born and raised in La Castellane, a suburb of Marseille, France."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Zidane describes himself as a \"non-practicing Muslim.\"",
       "sourceTitle": "ZZ top.",
-      "text": "Zidane describes himself as a \"non-practicing Muslim.\""
+      "sourceUrl": "http://www.guardian.co.uk/football/2004/apr/04/sport.features"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ummah.com/forum/archive/index.php/t-43679.html?s=421608edce662d6f617643e0589f8161",
+      "type": "text",
+      "text": "But that doesn't stop him from reportedly praying before games.",
+      "parentId": 2,
       "sourceTitle": "Zinedine Zidane, is he a Muslim?",
-      "text": "But that doesn't stop him from reportedly praying before games."
+      "sourceUrl": "http://www.ummah.com/forum/archive/index.php/t-43679.html?s=421608edce662d6f617643e0589f8161"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wiki.answers.com/Q/Which_muslim_footballer_is_married_to_a_christian_lady",
+      "type": "text",
+      "text": "He also married a Christian woman,",
+      "parentId": 2,
       "sourceTitle": "Which Muslim footballer is married to a christian lady?",
-      "text": "He also married a Christian woman,"
+      "sourceUrl": "http://wiki.answers.com/Q/Which_muslim_footballer_is_married_to_a_christian_lady"
     },
     {
-      "type": "sentence",
-      "text": "which doesn't make any comment on his own religion, except to say that he is accepting of others' religions."
+      "type": "text",
+      "text": "which doesn't make any comment on his own religion, except to say that he is accepting of others' religions.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/football/2004/apr/04/sport.features",
+      "parentId": 3,
+      "type": "text",
+      "text": "Zidane isn't likely to open up any more about his religious beliefs. He is notoriously shy with the press to the point that one reporter described him as \"resolutely unknowable.\"",
       "sourceTitle": "ZZ top.",
-      "text": "Zidane isn't likely to open up any more about his religious beliefs. He is notoriously shy with the press to the point that one reporter described him as \"resolutely unknowable.\""
+      "sourceUrl": "http://www.guardian.co.uk/football/2004/apr/04/sport.features"
     },
     {
-      "type": "sentence",
-      "text": "But Zidane has been forced into the political debate, whether he likes it or not."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But Zidane has been forced into the political debate, whether he likes it or not.",
+      "parentId": 3
     },
     {
       "type": "heading",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "And lastly, a Frenchman"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Zinedine_Zidane#Personal_life",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Zidane's family moved to France from Algeria in the 1950s.",
       "sourceTitle": "Zinedine Zidane.",
-      "text": "Zidane's family moved to France from Algeria in the 1950s."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Zinedine_Zidane#Personal_life"
     },
     {
-      "type": "sentence",
-      "text": "His parents' adopted home doesn't exactly have a stellar reputation of acceptance toward its immigrant population–especially its Muslim immigrants. The way in which Zidane describes his identity reflects this lack of tolerance:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "His parents' adopted home doesn't exactly have a stellar reputation of acceptance toward its immigrant population–especially its Muslim immigrants. The way in which Zidane describes his identity reflects this lack of tolerance:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/football/2004/apr/04/sport.features",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Every day I think about where I come from and I am still proud to be who I am: first, a Kabyle [the region of Algeria from which his parents emmigrated] from La Castellane, then an Algerian from Marseille, and then a Frenchman.",
       "sourceTitle": "ZZ top.",
-      "text": "Every day I think about where I come from and I am still proud to be who I am: first, a Kabyle [the region of Algeria from which his parents emmigrated] from La Castellane, then an Algerian from Marseille, and then a Frenchman."
+      "sourceUrl": "http://www.guardian.co.uk/football/2004/apr/04/sport.features"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/football/2004/apr/04/sport.features",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Not to say that the soccer player hasn't received any support from his home country. After France won the World Cup in 1998, the country erupted in praise of Zidane. But racial politics quickly dampened the euphoria when his racial origins were insulted by several members of the anti-immigrantion National Front party.",
       "sourceTitle": "ZZ top.",
-      "text": "Not to say that the soccer player hasn't received any support from his home country. After France won the World Cup in 1998, the country erupted in praise of Zidane. But racial politics quickly dampened the euphoria when his racial origins were insulted by several members of the anti-immigrantion National Front party."
+      "sourceUrl": "http://www.guardian.co.uk/football/2004/apr/04/sport.features"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Zidane has denounced the party publicly in no uncertain terms:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 10
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.zidanefans.com/articles/thereturnofzizou.htm",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Think–and I stress my words–about the consequences of voting for a party that does not at all correspond to the values of France.",
       "sourceTitle": "The return of Zizou.",
-      "text": "Think–and I stress my words–about the consequences of voting for a party that does not at all correspond to the values of France."
+      "sourceUrl": "http://www.zidanefans.com/articles/thereturnofzizou.htm"
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Between two homes"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/football/2004/apr/04/sport.features",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "When France played a soccer match against Algeria for the first time in 2004, what could have been a sportsmanlike reconciliation between the two countries ended in riots on the field, and a nightmare for Zidane. The athlete received death threats before the match, and people in the stands held up signs that said \"Zidane-Harki.\" (Harki is a term for Algerians who fought with France in the Algerian revolution–an insult that falsely accused Zidane's father of being a traitor against his home country.)",
       "sourceTitle": "ZZ top.",
-      "text": "When France played a soccer match against Algeria for the first time in 2004, what could have been a sportsmanlike reconciliation between the two countries ended in riots on the field, and a nightmare for Zidane. The athlete received death threats before the match, and people in the stands held up signs that said \"Zidane-Harki.\" (Harki is a term for Algerians who fought with France in the Algerian revolution–an insult that falsely accused Zidane's father of being a traitor against his home country.)"
+      "sourceUrl": "http://www.guardian.co.uk/football/2004/apr/04/sport.features"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "Zidane felt it necessary to clear his family's name, and reassert his allegiance to the country whose citizens insulted him."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/football/2004/apr/04/sport.features",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "I say this once for all time: my father is not a harki. My father is an Algerian, proud of who he is and I am proud that my father is Algerian. The only important thing I have to say is that my father never fought against his country.",
       "sourceTitle": "ZZ top.",
-      "text": "I say this once for all time: my father is not a harki. My father is an Algerian, proud of who he is and I am proud that my father is Algerian. The only important thing I have to say is that my father never fought against his country."
+      "sourceUrl": "http://www.guardian.co.uk/football/2004/apr/04/sport.features"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "And so, this introverted soccer icon, who does not seem to want to involve himself in any religious or political debate, has at once been in the middle of a feud between two sovereign nations, and become a symbol of France's racial politics–both a measure of the country's tolerance through the support of his French fans, and a target for those who would undo any progress towards racial harmony."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Zinedine_Zidane",
     "title": "Zinedine Zidane",
     "image": {
-      "name": "XII_Prix_Diálogo_(18485723248)_(cropped).jpg",
+      "name": "Zinedine_Zidane_by_Tasnim_01.jpg",
       "info": {
-        "canonicaltitle": "File:XII Prix Diálogo (18485723248) (cropped).jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/XII_Prix_Di%C3%A1logo_%2818485723248%29_%28cropped%29.jpg/230px-XII_Prix_Di%C3%A1logo_%2818485723248%29_%28cropped%29.jpg",
-        "thumbwidth": 230,
+        "canonicaltitle": "File:Zinedine Zidane by Tasnim 01.jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Zinedine_Zidane_by_Tasnim_01.jpg/306px-Zinedine_Zidane_by_Tasnim_01.jpg",
+        "thumbwidth": 306,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/XII_Prix_Di%C3%A1logo_%2818485723248%29_%28cropped%29.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:XII_Prix_Di%C3%A1logo_(18485723248)_(cropped).jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52113142",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Zinedine_Zidane_by_Tasnim_01.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zinedine_Zidane_by_Tasnim_01.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64815488",
         "extmetadata": {
           "DateTime": {
-            "value": "2016-12-22 13:59:12",
+            "value": "2017-12-14 19:31:18",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "XII Prix Diálogo (18485723248) (cropped)",
+            "value": "Zinedine Zidane by Tasnim 01",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -181,7 +248,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Extracted images|Zinedine Zidane",
+            "value": "Files from external sources with reviewed licenses|Photos from tasnimnews.com|Zinedine Zidane",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -191,29 +258,29 @@
             "hidden": ""
           },
           "ImageDescription": {
-            "value": "Rueda de prensa del XII Prix Diálogo concedido a Zinedine Zidane y Mireia Belmonte.",
+            "value": "Zinedine Zidane, Real Madrid manager in press conference before match against Al-Jazira in FIFA Club World Cup",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "2015-06-09 11:40",
+            "value": "2017-12-12",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/131458192@N02/18485723248/\">XII Prix Diálogo</a>",
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.tasnimnews.com/fa/media/1396/09/22/1599869/%D9%86%D8%B4%D8%B3%D8%AA-%D8%AE%D8%A8%D8%B1%DB%8C-%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D9%88-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86-%D8%B1%D8%A6%D8%A7%D9%84-%D9%85%D8%A7%D8%AF%D8%B1%DB%8C%D8%AF\">https://www.tasnimnews.com/fa/media/1396/09/22/1599869/%D9%86%D8%B4%D8%B3%D8%AA-%D8%AE%D8%A8%D8%B1%DB%8C-%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D9%88-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86-%D8%B1%D8%A6%D8%A7%D9%84-%D9%85%D8%A7%D8%AF%D8%B1%DB%8C%D8%AF</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/131458192@N02\">power axle</a>",
+            "value": "Hadi Abyar",
             "source": "commons-desc-page"
           },
           "LicenseShortName": {
-            "value": "CC BY 2.0",
+            "value": "CC BY 4.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "UsageTerms": {
-            "value": "Creative Commons Attribution 2.0",
+            "value": "Creative Commons Attribution 4.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -222,8 +289,13 @@
             "source": "commons-desc-page",
             "hidden": ""
           },
+          "Attribution": {
+            "value": "Tasnim News Agency",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
           "LicenseUrl": {
-            "value": "http://creativecommons.org/licenses/by/2.0",
+            "value": "http://creativecommons.org/licenses/by/4.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -238,7 +310,7 @@
             "hidden": ""
           },
           "License": {
-            "value": "cc-by-2.0",
+            "value": "cc-by-4.0",
             "source": "commons-templates",
             "hidden": ""
           }

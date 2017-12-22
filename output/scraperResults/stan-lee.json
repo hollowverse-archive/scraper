@@ -37,142 +37,240 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Stan Lee, whose name at birth was Stanley Lieber, was born and raised in New York City."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.timesofisrael.com/a-marvel-in-comics/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Lee is Jewish, of the not-very-religious, agnostic variety. Let us dissect in that order. First: Jewish. His religious background is a very visible part of his public identity, if only because so many of his contemporary comic book writers were also members of that faith.",
       "sourceTitle": "A marvel in comics.",
-      "text": "Lee is Jewish, of the not-very-religious, agnostic variety. Let us dissect in that order. First: Jewish. His religious background is a very visible part of his public identity, if only because so many of his contemporary comic book writers were also members of that faith."
+      "sourceUrl": "http://www.timesofisrael.com/a-marvel-in-comics/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.timesofisrael.com/a-marvel-in-comics/",
+      "parentId": 3,
+      "type": "text",
+      "text": "His Jewish heritage is clearly important enough for him to lament the fact that he has never visited Israel.",
       "sourceTitle": "A marvel in comics.",
-      "text": "His Jewish heritage is clearly important enough for him to lament the fact that he has never visited Israel."
+      "sourceUrl": "http://www.timesofisrael.com/a-marvel-in-comics/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.timesofisrael.com/a-marvel-in-comics/",
+      "type": "text",
+      "text": "Although he says he never intentionally inserted any references to his own religious background in his books,",
+      "parentId": 3,
       "sourceTitle": "A marvel in comics.",
-      "text": "Although he says he never intentionally inserted any references to his own religious background in his books,"
+      "sourceUrl": "http://www.timesofisrael.com/a-marvel-in-comics/"
     },
     {
-      "type": "sentence",
-      "text": "he did cite the Bible as an important literary influence. Talking about books he read in his youth, he said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "he did cite the Bible as an important literary influence. Talking about books he read in his youth, he said,",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.christiandivine.com/StanLee.htm",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "And I read the Bible, I'm not a particularly religious person, but I love the phraseology: Thous, and Doths and Begets, so that was definteley in my mind when I was writing things like Thor.",
       "sourceTitle": "Stan Lee: Talking Pictures.",
-      "text": "And I read the Bible, I'm not a particularly religious person, but I love the phraseology: Thous, and Doths and Begets, so that was definteley in my mind when I was writing things like Thor."
+      "sourceUrl": "http://www.christiandivine.com/StanLee.htm"
     },
     {
-      "type": "sentence",
-      "text": "I suppose that took us through point number two: non-religious. So let's move onto Lee's agnostic side. Thanks to the  which took it upon itself to ask various celebrities the question, \"Is There A God?\" we have Stan Lee's version of an answer:"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "text",
+      "text": "I suppose that took us through point number two: non-religious. So let's move onto Lee's agnostic side. Thanks to the"
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "A.V. Club"
+    },
+    {
+      "type": "text",
+      "text": "which took it upon itself to ask various celebrities the question, \"Is There A God?\" we have Stan Lee's version of an answer:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.avclub.com/articles/is-there-a-god,1413/",
-      "sourceTitle": "Is There A God?",
-      "text": "Well, let me put it this way. . . [Pauses.] No, I'm not going to try to be clever. I really don't know. I just don't know."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Well, let me put it this way. . . [Pauses.] No, I'm not going to try to be clever. I really don't know. I just don't know.",
+      "sourceTitle": "Is There A God?",
+      "sourceUrl": "http://www.avclub.com/articles/is-there-a-god,1413/"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Well, there you have it. Shall we recap? Jewish. Not religious. Agnostic. Bam."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "A Political Spidey Web"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Stan_Lee.php",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Stan Lee's politics appear to be no less nuanced. As far as political parties go, he's a supporter of the Democrats. He started contributing money to the party's candidates in 1994 when Edward Kennedy was running for the Senate.",
       "sourceTitle": "Stan Lee's Federal Campaign Contribution Report.",
-      "text": "Stan Lee's politics appear to be no less nuanced. As far as political parties go, he's a supporter of the Democrats. He started contributing money to the party's candidates in 1994 when Edward Kennedy was running for the Senate."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Stan_Lee.php"
     },
     {
-      "type": "sentence",
-      "text": "And shortly after the 2008 election, he said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And shortly after the 2008 election, he said,",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/northamerica/usa/4237161/Stan-Lee-to-create-worlds-first-gay-superhero.html",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Being president these days is too big a job for someone with just one superpower. Though I do think Obama has a certain Mr. Fantastic quality.",
       "sourceTitle": "Stan Lee 'to creat worlds first gay superhero.'",
-      "text": "Being president these days is too big a job for someone with just one superpower. Though I do think Obama has a certain Mr. Fantastic quality."
+      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/northamerica/usa/4237161/Stan-Lee-to-create-worlds-first-gay-superhero.html"
     },
     {
-      "type": "sentence",
-      "text": "And he's got some history with a certain high-profile Democratic family. Early in the 21st century, his close ties with the Clintons, some confusing rhetoric and business dealings, and a $100,000 check got him into some trouble with the Feds. (It's too complicated to get into here, but if you're interested in learning more,  is a good place to start.)"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "break"
+      "parentId": 14,
+      "type": "text",
+      "text": "And he's got some history with a certain high-profile Democratic family. Early in the 21st century, his close ties with the Clintons, some confusing rhetoric and business dealings, and a $100,000 check got him into some trouble with the Feds. (It's too complicated to get into here, but if you're interested in learning more,"
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "link",
+      "text": "this video",
+      "sourceUrl": "http://www.youtube.com/watch?v=expabh7zFBg"
+    },
+    {
+      "type": "text",
+      "text": "is a good place to start.)",
+      "parentId": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Lee's comics often promote a liberal worldview with their emphasis on social justice and equality. Back in 1963, he created what he called \"the first fully ethnic platoon in comics,\" with a Jewish guy, a black guy, an Italian, Englishman, and American Indian, or. . ."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.timesofisrael.com/a-marvel-in-comics/",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "[E]verything I could think of! A full international platoon of all religions, and people said, \"Oh, you can't do that, Stan, the book won't sell down south, or up north, or here or there.\" And it was one of the best selling books, which shows there's something good about the public.",
       "sourceTitle": "A marvel in comics.",
-      "text": "[E]verything I could think of! A full international platoon of all religions, and people said, \"Oh, you can't do that, Stan, the book won't sell down south, or up north, or here or there.\" And it was one of the best selling books, which shows there's something good about the public."
+      "sourceUrl": "http://www.timesofisrael.com/a-marvel-in-comics/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://nobodylaughsatmisterfish.blogspot.com/2006/05/stan-lees-politics-dodgy-or-what.html",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "But then, his early comics were also laden with anti-communist rhetoric, causing some to speculate that he either leaned to the right of the political spectrum, or he was apolitical enough to absorb anti-commie sentiment without much critical thinking.",
       "sourceTitle": "Stan Lee's politics: dodgy or what?",
-      "text": "But then, his early comics were also laden with anti-communist rhetoric, causing some to speculate that he either leaned to the right of the political spectrum, or he was apolitical enough to absorb anti-commie sentiment without much critical thinking."
+      "sourceUrl": "http://nobodylaughsatmisterfish.blogspot.com/2006/05/stan-lees-politics-dodgy-or-what.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://colossus.mu.nu/archives/336201.php",
+      "parentId": 19,
+      "type": "text",
+      "text": "It's possible that this was true back then–at least about specific policy. After all, during the Vietnam War, he explicitly stated that his comics \"may not be the right place for getting too heavy handed with social messages of any sort.\"",
       "sourceTitle": "Stan Lee had it right.",
-      "text": "It's possible that this was true back then–at least about specific policy. After all, during the Vietnam War, he explicitly stated that his comics \"may not be the right place for getting too heavy handed with social messages of any sort.\""
+      "sourceUrl": "http://colossus.mu.nu/archives/336201.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2010/04/18/fashion/18comics.html?pagewanted=2",
+      "type": "text",
+      "text": "But despite making that statement in the last century, the nonagenarian hasn't shied away from politics lately. He was set to produce a television series about a gay superhero at one point, although the project never materialized.",
+      "parentId": 19,
       "sourceTitle": "Gay Parties in New York Attract the Superhero Crowd.",
-      "text": "But despite making that statement in the last century, the nonagenarian hasn't shied away from politics lately. He was set to produce a television series about a gay superhero at one point, although the project never materialized."
+      "sourceUrl": "http://www.nytimes.com/2010/04/18/fashion/18comics.html?pagewanted=2"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "Maybe Lee didn't want to get into the nitty gritty of policy and partisanship in his comics, but he has always been a champion of social equality and the liberal worldview."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "break"
+      "parentId": 21,
+      "type": "emphasis",
+      "text": "This article was written by Caitlin Frye, with help from Albert Raymond"
     }
   ],
   "wikipediaData": {

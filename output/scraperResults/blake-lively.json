@@ -34,81 +34,151 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Blake Lively was born and raised in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Lively was raised a Southern Baptist. Even though Lively admits that her immediate family was not devout, she speaks of her childhood faith in such a way as to suggest that it still has an affect on how she conducts her life. At the very least, it's affected how she handles members of the opposite sex. She says:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://blakelivelyweb.com/2009/02/26/marie-clair-interview/",
-      "sourceTitle": "Marie Claire Interview",
-      "text": "I didn't have a boyfriend until I was 17. I grew up in a Southern Baptist family. It was more my grandparents. My mother is a Christian but it was just like she…It wasn't like they went to church all the time and were really strict but, you know, my mom was very much a good girl and I was raised [that way as well]."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I didn't have a boyfriend until I was 17. I grew up in a Southern Baptist family. It was more my grandparents. My mother is a Christian but it was just like she…It wasn't like they went to church all the time and were really strict but, you know, my mom was very much a good girl and I was raised [that way as well].",
+      "sourceTitle": "Marie Claire Interview",
+      "sourceUrl": "http://blakelivelyweb.com/2009/02/26/marie-clair-interview/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "What this indicates is that though the values of the Baptist religion were passed on in her family, Lively wasn't necessarily brought up to be religious. It makes sense, she doesn't express much religiosity other than to talk about her childhood."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 6
     },
     {
-      "type": "heading",
+      "parentId": 6,
+      "type": "text",
       "text": "A Lively bout of politics"
     },
     {
-      "type": "sentence",
-      "text": "Lively fits in well with many of her Hollywood counterparts, in that she is an Obama supporting Democrat. During Obama's 2008 presidential campaign, Lively filmed a political ad in support of his presidency via perhaps the most explicitly liberal organization in America–MoveOn.org. The  is hilarious. It's set up like an intervention, likening voting Republican to being a drug addict, with lines like:"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "break"
+      "parentId": 7,
+      "type": "text",
+      "text": "Lively fits in well with many of her Hollywood counterparts, in that she is an Obama supporting Democrat. During Obama's 2008 presidential campaign, Lively filmed a political ad in support of his presidency via perhaps the most explicitly liberal organization in America–MoveOn.org. The"
+    },
+    {
+      "parentId": 7,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.people.com/people/article/0,,20232838,00.html"
+    },
+    {
+      "type": "text",
+      "text": "is hilarious. It's set up like an intervention, likening voting Republican to being a drug addict, with lines like:",
+      "parentId": 7
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.people.com/people/article/0,,20232838,00.html",
-      "sourceTitle": "Blake Lively & Penn Badgley Go for Laughs in Pro-Obama Ad",
-      "text": "Voting Republican even once can have disastrous effects that last for years."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Voting Republican even once can have disastrous effects that last for years.",
+      "sourceTitle": "Blake Lively & Penn Badgley Go for Laughs in Pro-Obama Ad",
+      "sourceUrl": "http://www.people.com/people/article/0,,20232838,00.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Lively herself wraps up the video with:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.people.com/people/article/0,,20232838,00.html",
-      "sourceTitle": "Blake Lively & Penn Badgley Go for Laughs in Pro-Obama Ad",
-      "text": "And if you're ever out somewhere and you're considering voting McCain, just call me. I'll pick you up, no questions asked."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "And if you're ever out somewhere and you're considering voting McCain, just call me. I'll pick you up, no questions asked.",
+      "sourceTitle": "Blake Lively & Penn Badgley Go for Laughs in Pro-Obama Ad",
+      "sourceUrl": "http://www.people.com/people/article/0,,20232838,00.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "And on the liberal front, Lively is so far left, she's rooting for her kids to be gay so she can share her fashion sense with them, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/02/02/blake-lively-elle-trannies_n_1250431.html",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I hope to have a few girls one day. If not girls, they better be trannies. Because I have some amazing shoes and bags and stories that need to be appreciated.",
       "sourceTitle": "Blake Lively Tells 'Elle' If She Has Sons 'They Better Be Trannies.'",
-      "text": "I hope to have a few girls one day. If not girls, they better be trannies. Because I have some amazing shoes and bags and stories that need to be appreciated."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/02/02/blake-lively-elle-trannies_n_1250431.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Lively took a lot of heat for that comment, naturally, but it certainly shows she's more than OK with gay people."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

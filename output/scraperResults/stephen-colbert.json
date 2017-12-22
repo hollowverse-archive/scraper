@@ -35,175 +35,304 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Colbert got two important things from his family: humor and Catholicism. He was the youngest of 11 children in this classic Catholic brood. He has said his family was:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.parade.com/articles/editions/2007/edition_09-23-2007/AStephen_Colbert",
-      "sourceTitle": "\"If you're laughing, you can't be afraid.\"",
-      "text": "…a humorocracy. Singing around the house highly encouraged."
+      "id": 2
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 3,
+      "parentId": 2
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "…a humorocracy. Singing around the house highly encouraged.",
+      "sourceTitle": "\"If you're laughing, you can't be afraid.\"",
+      "sourceUrl": "http://www.parade.com/articles/editions/2007/edition_09-23-2007/AStephen_Colbert"
+    },
+    {
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "It's a bit surprising if you've watched his show, \"The Colbert Report,\" to find that Colbert is still quite religious but he says he is. Still, one of the problems with these satirical host types is that it's difficult to tell when they're in character or not. He has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://hotlineoncall.nationaljournal.com/archives/2006/03/colbert_seeks_r.php",
-      "sourceTitle": "Colbert Seeks Rapport With GOPpers",
-      "text": "[I'm] a nice guy. I go to church I teach Sunday school. I have family values."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "[I'm] a nice guy. I go to church I teach Sunday school. I have family values.",
+      "sourceTitle": "Colbert Seeks Rapport With GOPpers",
+      "sourceUrl": "http://hotlineoncall.nationaljournal.com/archives/2006/03/colbert_seeks_r.php"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "On the topic of religion, Colbert–always in character as a neo-Con, right-wing Christian fundamentalist–has a lot of funny things to say. What does he think of atheists?"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/quotes/show/29654",
-      "sourceTitle": "Stepehn Colbert. Goodreads",
-      "text": "Atheism, a religion dedicated to its own sense of smug superiority."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Atheism, a religion dedicated to its own sense of smug superiority.",
+      "sourceTitle": "Stepehn Colbert. Goodreads",
+      "sourceUrl": "http://www.goodreads.com/quotes/show/29654"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Religious diversity?"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://stephencolbertonline.com/quotes.htm",
-      "sourceTitle": "Stephen Colbert Quotes",
-      "text": "Though I am a committed Christian , I believe that everyone has the right to their own religion, be you Hindu , Jew or Muslim . I believe there are infinite paths to accepting Jesus Christ as your personal savior."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Though I am a committed Christian , I believe that everyone has the right to their own religion, be you Hindu , Jew or Muslim . I believe there are infinite paths to accepting Jesus Christ as your personal savior.",
+      "sourceTitle": "Stephen Colbert Quotes",
+      "sourceUrl": "http://stephencolbertonline.com/quotes.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "How about protestants?"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.stpeterslist.com/2662/5-quotes-from-stephen-colbert-on-protestantism/",
-      "sourceTitle": "5 Quotes from Stephen Colbert on Protestantism. Stpeterlist",
-      "text": "Protestants don't make me angry as much as disappointed. Unlike the world's crazy made-up religions, they're so close to getting it right. They're a single Pope away from reaching their full potential."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Protestants don't make me angry as much as disappointed. Unlike the world's crazy made-up religions, they're so close to getting it right. They're a single Pope away from reaching their full potential.",
+      "sourceTitle": "5 Quotes from Stephen Colbert on Protestantism. Stpeterlist",
+      "sourceUrl": "http://www.stpeterslist.com/2662/5-quotes-from-stephen-colbert-on-protestantism/"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Oh man…This guy's funny."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 17
     },
     {
-      "type": "heading",
+      "parentId": 17,
+      "type": "text",
       "text": "Politics is very serious you know"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "Again, if you're wondering what Colbert's political leanings are, you might be hard-pressed to get a straight answer. He seems to be more interested in cracking jokes about politics and politicians than participating. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2005/10/09/AR2005100901551_2.html",
-      "sourceTitle": "TV's Newest Anchor: A Smirk in Progress",
-      "text": "I'm not someone with a particular political ax to grind. I'm a comedian. I love hypocrisy."
+      "id": 19
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "I'm not someone with a particular political ax to grind. I'm a comedian. I love hypocrisy.",
+      "sourceTitle": "TV's Newest Anchor: A Smirk in Progress",
+      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2005/10/09/AR2005100901551_2.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "When cornered or pressed, Colbert admits to being a Democrat:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.ew.com/ew/article/0,,677356,00.html",
-      "sourceTitle": "\"Show\" Off",
-      "text": "Listen, it's a secret ballot. Yeah, I'm a Democrat. I'm not asking anybody to vote for Democrats or Republicans. I say everyone should vote for both candidates — except me."
+      "id": 22
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 23,
+      "parentId": 22
+    },
+    {
+      "parentId": 23,
+      "type": "text",
+      "text": "Listen, it's a secret ballot. Yeah, I'm a Democrat. I'm not asking anybody to vote for Democrats or Republicans. I say everyone should vote for both candidates — except me.",
+      "sourceTitle": "\"Show\" Off",
+      "sourceUrl": "http://www.ew.com/ew/article/0,,677356,00.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 24
+    },
+    {
+      "parentId": 24,
+      "type": "text",
       "text": "Let's be honest, and I don't want to stoke the flames of conservative outrage here, but the Comedy Central pundits (Stewart and Colbert) have a liberal bias. I don't even think they're trying to hide it. But first and foremost, they're comedians and, by nature, opportunistic and obligated to make fun of what is inherently funny. It just so happens that the majority of their humor is directed towards conservatives and Republicans. Let's read a few quotes while you think about what that means."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 25
     },
     {
-      "type": "sentence",
+      "parentId": 25,
+      "type": "text",
       "text": "Colbert on corruption:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://politicalhumor.about.com/od/stephencolbert/a/colbertquotes.htm",
-      "sourceTitle": "Stepehn Colbert Quotes",
-      "text": "So what? A lobbyist cheated Indian tribes out of $25 million then laundered their money through phony Christian charities trying to stop other Indian tribes from getting casinos and bribe congressmen in the process. Know what I call that? I call that business as usual in Washington."
+      "id": 26
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 27,
+      "parentId": 26
+    },
+    {
+      "parentId": 27,
+      "type": "text",
+      "text": "So what? A lobbyist cheated Indian tribes out of $25 million then laundered their money through phony Christian charities trying to stop other Indian tribes from getting casinos and bribe congressmen in the process. Know what I call that? I call that business as usual in Washington.",
+      "sourceTitle": "Stepehn Colbert Quotes",
+      "sourceUrl": "http://politicalhumor.about.com/od/stephencolbert/a/colbertquotes.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 28
+    },
+    {
+      "parentId": 28,
+      "type": "text",
       "text": "On George Bush:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://politicalhumor.about.com/od/stephencolbert/a/colbertquotes.htm",
-      "sourceTitle": "Stepehn Colbert Quotes",
-      "text": "I stand by this man because he stands for things. Not only for things, he stands on things. Things like aircraft carriers, and rubble, and recently flooded city squares. And that sends a strong message that no matter what happens to America she will always rebound with the most powerfully staged photo-ops in the world."
+      "id": 29
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 30,
+      "parentId": 29
+    },
+    {
+      "parentId": 30,
+      "type": "text",
+      "text": "I stand by this man because he stands for things. Not only for things, he stands on things. Things like aircraft carriers, and rubble, and recently flooded city squares. And that sends a strong message that no matter what happens to America she will always rebound with the most powerfully staged photo-ops in the world.",
+      "sourceTitle": "Stepehn Colbert Quotes",
+      "sourceUrl": "http://politicalhumor.about.com/od/stephencolbert/a/colbertquotes.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 31
+    },
+    {
+      "parentId": 31,
+      "type": "text",
       "text": "On an America divided:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 32
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://politicalhumor.about.com/od/stephencolbert/a/colbertquotes.htm",
+      "type": "paragraph",
+      "id": 33,
+      "parentId": 32
+    },
+    {
+      "parentId": 33,
+      "type": "text",
+      "text": "I don't trust books. They're all fact, no heart. And that's exactly what's pulling our country apart today. Because face it, folks, we are a divided nation. Not between Democrats or Republicans, or conservatives and liberals, or tops and bottoms. No, we are divided by those who think with their head, and those who know with their heart.",
       "sourceTitle": "Stepehn Colbert Quotes",
-      "text": "I don't trust books. They're all fact, no heart. And that's exactly what's pulling our country apart today. Because face it, folks, we are a divided nation. Not between Democrats or Republicans, or conservatives and liberals, or tops and bottoms. No, we are divided by those who think with their head, and those who know with their heart."
+      "sourceUrl": "http://politicalhumor.about.com/od/stephencolbert/a/colbertquotes.htm"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Stephen_Colbert",
     "title": "Stephen Colbert",
     "image": {
-      "name": "Stephen_Colbert_November_2016.jpg",
+      "name": "Stephen_Colbert_December_2017.jpg",
       "info": {
-        "canonicaltitle": "File:Stephen Colbert November 2016.jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Stephen_Colbert_November_2016.jpg/227px-Stephen_Colbert_November_2016.jpg",
-        "thumbwidth": 227,
+        "canonicaltitle": "File:Stephen Colbert December 2017.jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Stephen_Colbert_December_2017.jpg/231px-Stephen_Colbert_December_2017.jpg",
+        "thumbwidth": 231,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Stephen_Colbert_November_2016.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stephen_Colbert_November_2016.jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=53339019",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Stephen_Colbert_December_2017.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stephen_Colbert_December_2017.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64746103",
         "extmetadata": {
           "DateTime": {
-            "value": "2016-11-20 10:40:21",
+            "value": "2017-12-11 13:49:57",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "Stephen Colbert November 2016",
+            "value": "Stephen Colbert December 2017",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -213,7 +342,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Flickr images verified by UploadWizard|Montclair Film Festival|Stephen Colbert in 2016",
+            "value": "Flickr images verified by UploadWizard|Images with extracted images|Stephen Colbert in 2017",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -223,20 +352,20 @@
             "hidden": ""
           },
           "ImageDescription": {
-            "value": "photo by “Neil Grabowsky / Montclair Film Festival”",
+            "value": "photo by “Neil Grabowsky / Montclair Film”",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "2016-11-19 19:49:02",
+            "value": "2017-12-02 18:37:18",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/montclairfilmfest/30320150563/\">https://www.flickr.com/photos/montclairfilmfest/30320150563/</a>",
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/montclairfilmfest/24112485997/\">https://www.flickr.com/photos/montclairfilmfest/24112485997/</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "Montclair Film Festival",
+            "value": "Montclair Film",
             "source": "commons-desc-page"
           },
           "LicenseShortName": {

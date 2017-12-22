@@ -35,130 +35,208 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Lily Allen, now Lily Cooper since her marriage, was born and raised in London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.metrolyrics.com/2009-lily-allen-feared-she-was-going-to-hell-news.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Even though her family weren't practicing Catholics, Allen went to Catholic schools as a young girl and the result, she said, was that she thought she was going to hell.",
       "sourceTitle": "Lily Allen Feared She Was Going To Hell.",
-      "text": "Even though her family weren't practicing Catholics, Allen went to Catholic schools as a young girl and the result, she said, was that she thought she was going to hell."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.metrolyrics.com/2009-lily-allen-feared-she-was-going-to-hell-news.html"
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.marieclaire.co.uk/news/celebrity/297255/lily-allen-religion-screwed-me-up.html",
-      "sourceTitle": "Lily Allen: Religion screwed me up.",
-      "text": "[T]hey told me gays were bad, adultery was bad and drugs were bad. At the same time, all my mum's friends were gay, my dad was having various affairs and there were drugs in the house when I was a kid – so it was a bit cruel."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "[T]hey told me gays were bad, adultery was bad and drugs were bad. At the same time, all my mum's friends were gay, my dad was having various affairs and there were drugs in the house when I was a kid – so it was a bit cruel.",
+      "sourceTitle": "Lily Allen: Religion screwed me up.",
+      "sourceUrl": "http://www.marieclaire.co.uk/news/celebrity/297255/lily-allen-religion-screwed-me-up.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Her song, \"Him\" reflects her religious ambivalence. It is an agnostic meditation on what God would be like, if He did indeed exist. And the chorus doesn't look highly on organized religion:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.songmeanings.net/songs/view/3530822107858754445/",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Ever since he can remember people/ Have died in his good name/ Long before that September/ Long before hijacking planes",
       "sourceTitle": "Lily Allen – Him.",
-      "text": "Ever since he can remember people/ Have died in his good name/ Long before that September/ Long before hijacking planes"
+      "sourceUrl": "http://www.songmeanings.net/songs/view/3530822107858754445/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.marieclaire.co.uk/news/celebrity/297255/lily-allen-religion-screwed-me-up.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "She has said that \"Hinduism is cool,\"",
       "sourceTitle": "Lily Allen: Religion screwed me up.",
-      "text": "She has said that \"Hinduism is cool,\""
+      "sourceUrl": "http://www.marieclaire.co.uk/news/celebrity/297255/lily-allen-religion-screwed-me-up.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://stealherstyle.net/tattoos/lily-allen-tattoos/?shared=email&msg=fail",
+      "type": "text",
+      "text": "but there's no indication that she has taken that religion seriously. She has several small tattoos on her wrist of symbols for Hinduism, Buddhism, Islam, Christianity, and Judaism among other things (like Homer Simpson's head).",
+      "parentId": 8,
       "sourceTitle": "Lily Allen's Tattoos & Meanings.",
-      "text": "but there's no indication that she has taken that religion seriously. She has several small tattoos on her wrist of symbols for Hinduism, Buddhism, Islam, Christianity, and Judaism among other things (like Homer Simpson's head)."
+      "sourceUrl": "http://stealherstyle.net/tattoos/lily-allen-tattoos/?shared=email&msg=fail"
     },
     {
-      "type": "sentence",
-      "text": "That would make it seem that she's more interested in many religions co-existing or maybe even a synthetic or meta-religious view."
+      "type": "text",
+      "text": "That would make it seem that she's more interested in many religions co-existing or maybe even a synthetic or meta-religious view.",
+      "parentId": 8
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/showbiz/bizarre/3674947/Lily-Allen-Love-helped-me-cope-with-losing-my-child.html",
+      "parentId": 9,
+      "type": "text",
+      "text": "She did find solace in her local Catholic church after her friend and fellow singer Amy Winehouse died in a drug overdose. The outpouring of support from the Catholic community prompted Allen to getting married in a Catholic ceremony.",
       "sourceTitle": "Lily Allen: Love helped me cope with losing my child.",
-      "text": "She did find solace in her local Catholic church after her friend and fellow singer Amy Winehouse died in a drug overdose. The outpouring of support from the Catholic community prompted Allen to getting married in a Catholic ceremony."
+      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/showbiz/bizarre/3674947/Lily-Allen-Love-helped-me-cope-with-losing-my-child.html"
     },
     {
-      "type": "sentence",
-      "text": "So I guess she decided she's not going to hell after all–sounds like a conversion to me."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "So I guess she decided she's not going to hell after all–sounds like a conversion to me.",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Can't not vote Labour"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "However murky her religious view may be, there's nothing unclear about her politics. She's Labour all the way. She tweeted during Gordon Brown's 2010 re-election campaign that she would be supporting the prime minister:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.mirror.co.uk/news/uk-news/lily-allen-backs-gordon-brown-215355",
-      "sourceTitle": "Lily Allen backs Gordon Brown.",
-      "text": "Of course, I'll vote for Brown. I can't not vote Labour."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Of course, I'll vote for Brown. I can't not vote Labour.",
+      "sourceTitle": "Lily Allen backs Gordon Brown.",
+      "sourceUrl": "http://www.mirror.co.uk/news/uk-news/lily-allen-backs-gordon-brown-215355"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "And when Conservative Health Secretary Jeremy Hunt suggested that the legal time-limit on abortions should be reduced to 12 weeks, Allen fired back on Twitter:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/women/womens-politics/9595724/Lily-Allen-attacks-idiot-blokes-over-abortion-limits.html",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Can small minded idiot blokes stop telling women whether or not they're entitled to abortions please?",
       "sourceTitle": "Lily Allen attacks 'idiot blokes' over abortion limits.",
-      "text": "Can small minded idiot blokes stop telling women whether or not they're entitled to abortions please?"
+      "sourceUrl": "http://www.telegraph.co.uk/women/womens-politics/9595724/Lily-Allen-attacks-idiot-blokes-over-abortion-limits.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.clashmusic.com/news/lily-allen-gets-political",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "She'll jump right into U.S. politics too. Her song \"Fuck You (Very Much)\" is directed at former Republican President George W. Bush. After dedicating the song to him at a 2009 concert in Los Angeles, she reportedly got the whole crowd holding up their middle fingers in honor of the former president.",
       "sourceTitle": "Lily Allen Gets Political.",
-      "text": "She'll jump right into U.S. politics too. Her song \"Fuck You (Very Much)\" is directed at former Republican President George W. Bush. After dedicating the song to him at a 2009 concert in Los Angeles, she reportedly got the whole crowd holding up their middle fingers in honor of the former president."
+      "sourceUrl": "http://www.clashmusic.com/news/lily-allen-gets-political"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "But it seems like her real passion has been to combat illegal downloading and free file-sharing. In a blog post on her Myspace page, Allen criticized successful artists who support file-sharing for not understanding its impact on new artists:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.myspace.com/lilymusic/blog/510114316",
+      "id": 19
+    },
+    {
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "If this sounds like I'm siding with the record bosses, I'm not. They've been naive and complacent about new technology–and they've spent all the money they've earned on their own fat salaries not industry development. But as they start to lose big from piracy, they're not slashing their salaries – they're pulling what they invest in [new acts].",
       "sourceTitle": "My Thoughts on File Sharing by Lily Allen.",
-      "text": "If this sounds like I'm siding with the record bosses, I'm not. They've been naive and complacent about new technology–and they've spent all the money they've earned on their own fat salaries not industry development. But as they start to lose big from piracy, they're not slashing their salaries – they're pulling what they invest in [new acts]."
+      "sourceUrl": "http://www.myspace.com/lilymusic/blog/510114316"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "For her it's less about how much money she's making, and more about keeping the British music scene fresh and interesting. And it looks like outspoken Allen is doing her part to keep it that way."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

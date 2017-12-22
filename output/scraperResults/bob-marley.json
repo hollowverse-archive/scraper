@@ -35,102 +35,158 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Bob Marley, full name Nesta Robert Marley, was born in the Jamaican village of Nine Mile and grew up in Kingston, Jamaica. He died of cancer in Miami, Florida in 1981."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Marley was a Rastafarian, a Christian-influenced, personal religion with many subgroups and a loose, flexible set of beliefs revolving mainly around the ritual use of marijuana and the idea that Africa, particularly Eastern Africa, was God's favored land, referred to by Rastafarians as Zion. Some Rastafarians believe that the last emperor of Ethiopia, Haile Selassie I, was the resurrected Jesus Christ."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Marley's religion was central in his life and the topic of much of his music. (Note that \"Jah\" is the Rastafarian word for God.) A few of his more famous quotes regarding Jah and his faith are:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://worldmusic.about.com/od/BobMarley/a/Quotes-From-Bob-Marley-Songs-Religion-And-Spirituality.htm",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "The wages of sin is death, yeah! Gift of Jah is life.",
       "sourceTitle": "Bob Marley Quotes",
-      "text": "The wages of sin is death, yeah! Gift of Jah is life."
+      "sourceUrl": "http://worldmusic.about.com/od/BobMarley/a/Quotes-From-Bob-Marley-Songs-Religion-And-Spirituality.htm"
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://worldmusic.about.com/od/BobMarley/a/Quotes-From-Bob-Marley-Songs-Religion-And-Spirituality.htm",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 4
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Jah come to break down oppression, rule equality, wipe away transgression, set the captives free.",
       "sourceTitle": "Bob Marley Quotes",
-      "text": "Jah come to break down oppression, rule equality, wipe away transgression, set the captives free."
+      "sourceUrl": "http://worldmusic.about.com/od/BobMarley/a/Quotes-From-Bob-Marley-Songs-Religion-And-Spirituality.htm"
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.catholic.org/ae/music/story.php?id=41433",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 4
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Give thanks and praise to the Lord and I will feel alright.",
       "sourceTitle": "Redemption songs: The Christian Conversion of Bob Marley",
-      "text": "Give thanks and praise to the Lord and I will feel alright."
+      "sourceUrl": "http://www.catholic.org/ae/music/story.php?id=41433"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Marley became–and still might be considered–the global spokesperson for the Rastafarian movement and was instrumental in making it a well-known religion."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.catholic.org/ae/music/story.php?id=41433",
+      "parentId": 11,
+      "type": "text",
+      "text": "At the very end of his life, Marley converted and was baptized into the Ethiopian Orthodox Church.",
       "sourceTitle": "Redemption songs: The Christian Conversion of Bob Marley",
-      "text": "At the very end of his life, Marley converted and was baptized into the Ethiopian Orthodox Church."
+      "sourceUrl": "http://www.catholic.org/ae/music/story.php?id=41433"
     },
     {
-      "type": "sentence",
-      "text": "This was a surprise to many at the time, but considering the close relationship between the Rastafarian movement, Christianity, and Ethiopia, it was a rather natural move."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "This was a surprise to many at the time, but considering the close relationship between the Rastafarian movement, Christianity, and Ethiopia, it was a rather natural move.",
+      "parentId": 11
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Politics of freedom and dope"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rasta-man-vibration.com/jamaican-politics.html",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Marley was drastically affected by the poverty and hardship he witnessed in Kingston growing up. Marley and many Rastafarians blame this on oppression caused by the western world and the white man. As a result, much of Marley's music and political outlook centered around freedom from oppression and the return of \"God's people\" to \"Zion.\"",
       "sourceTitle": "Bob Marley and Jamaican Politics",
-      "text": "Marley was drastically affected by the poverty and hardship he witnessed in Kingston growing up. Marley and many Rastafarians blame this on oppression caused by the western world and the white man. As a result, much of Marley's music and political outlook centered around freedom from oppression and the return of \"God's people\" to \"Zion.\""
+      "sourceUrl": "http://www.rasta-man-vibration.com/jamaican-politics.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newsone.com/1224855/top-10-most-politically-significant-bob-marley-songs/",
+      "parentId": 14,
+      "type": "text",
+      "text": "With songs like \"Get Up, Stand Up\" and \"Revolution,\" Marley urged his countrymen (and any oppressed peoples) to unite and fight their oppressors. Marley confronted racism in songs like \"Redemption Song\" and protests western colonialism with songs like \"Zimbabwe\" and \"Africa Unite.\"",
       "sourceTitle": "Top 10 Most Politically Significant Bob Marley Songs",
-      "text": "With songs like \"Get Up, Stand Up\" and \"Revolution,\" Marley urged his countrymen (and any oppressed peoples) to unite and fight their oppressors. Marley confronted racism in songs like \"Redemption Song\" and protests western colonialism with songs like \"Zimbabwe\" and \"Africa Unite.\""
+      "sourceUrl": "http://newsone.com/1224855/top-10-most-politically-significant-bob-marley-songs/"
     },
     {
-      "type": "sentence",
-      "text": "He was intensely political and, surprisingly, people listened."
+      "type": "text",
+      "text": "He was intensely political and, surprisingly, people listened.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=x2M8jrX14kA",
+      "parentId": 15,
+      "type": "text",
+      "text": "Of course, he was concerned about the criminalization of marijuana as well.",
       "sourceTitle": "Bob Marley Rastafari is My Religion",
-      "text": "Of course, he was concerned about the criminalization of marijuana as well."
+      "sourceUrl": "http://www.youtube.com/watch?v=x2M8jrX14kA"
     },
     {
-      "type": "sentence",
-      "text": "But sadly, his appeals went largely unnoticed in the U.S., especially considering his devotees were stoned most of the time."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But sadly, his appeals went largely unnoticed in the U.S., especially considering his devotees were stoned most of the time.",
+      "parentId": 15
     }
   ],
   "wikipediaData": {

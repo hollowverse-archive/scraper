@@ -32,63 +32,88 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Shaun White was born and raised in San Diego, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "I'm pretty sure that White is not even remotely religious. I just couldn't find a shred of evidence that he thinks about God at all. Granted, his  seems more like an advertising tool than a window into his inner consciousness, but there's no mention of religion, praying, or God on there."
+      "parentId": 2,
+      "type": "text",
+      "text": "I'm pretty sure that White is not even remotely religious. I just couldn't find a shred of evidence that he thinks about God at all. Granted, his"
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "link",
+      "text": "Twitter feed",
+      "sourceUrl": "https://twitter.com/Shaun_White"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.niaf.org/publications/ambassador/21.3/Ambassador_21.3_On_Sports_Olympics.pdf",
+      "type": "text",
+      "text": "seems more like an advertising tool than a window into his inner consciousness, but there's no mention of religion, praying, or God on there.",
+      "parentId": 2
+    },
+    {
+      "type": "paragraph",
+      "id": 3
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "He's got Italian",
       "sourceTitle": "Italian-American success in the Olympics.",
-      "text": "He's got Italian"
+      "sourceUrl": "http://www.niaf.org/publications/ambassador/21.3/Ambassador_21.3_On_Sports_Olympics.pdf"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.irishcentral.com/story/sport/sean_oshea/shaun-white-is-set-for-more-olympic-gold-in-canada-83309577.html",
+      "type": "text",
+      "text": "and Irish",
+      "parentId": 3,
       "sourceTitle": "Shaun White is set for more Olympic Gold in Canada.",
-      "text": "and Irish"
+      "sourceUrl": "http://www.irishcentral.com/story/sport/sean_oshea/shaun-white-is-set-for-more-olympic-gold-in-canada-83309577.html"
     },
     {
-      "type": "sentence",
-      "text": "heritage, so some Catholic blood is pretty likely, or at least some other kind of Christian. But it doesn't look like it stuck to him–whether because of how he was raised or because of some decision he made, we don't know."
+      "type": "text",
+      "text": "heritage, so some Catholic blood is pretty likely, or at least some other kind of Christian. But it doesn't look like it stuck to him–whether because of how he was raised or because of some decision he made, we don't know.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.aoltv.com/2010/02/19/shaun-white-gold-medals-being-single-president-obama-video/",
+      "parentId": 4,
+      "type": "text",
+      "text": "White doesn't appear to be overly interested in politics either, but he made it clear on several occasions that he was really interested in meeting Obama,",
       "sourceTitle": "Shaun White on Gold Medals, Being Single and Meeting President Obama.",
-      "text": "White doesn't appear to be overly interested in politics either, but he made it clear on several occasions that he was really interested in meeting Obama,"
+      "sourceUrl": "http://www.aoltv.com/2010/02/19/shaun-white-gold-medals-being-single-president-obama-video/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=9ZT33xG62DU",
+      "type": "text",
+      "text": "and would even rearrange his busy post-Olympic gold schedule to accommodate a dinner with the president.",
+      "parentId": 4,
       "sourceTitle": "\"Animal\" to Obama: let's do dinner.",
-      "text": "and would even rearrange his busy post-Olympic gold schedule to accommodate a dinner with the president."
+      "sourceUrl": "http://www.youtube.com/watch?v=9ZT33xG62DU"
     },
     {
-      "type": "sentence",
-      "text": "It wasn't exactly an endorsement, but he definitely made it clear that he likes the president."
+      "type": "text",
+      "text": "It wasn't exactly an endorsement, but he definitely made it clear that he likes the president.",
+      "parentId": 4
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "And let's face it, he's a skateboarding, snowboarding, long-haired X-Games dude. I mean, who wouldn't assume that he's probably liberal? Without anything else to go on, we'll say liberally non-political. Know anything else? Let us know, readers."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -35,114 +35,153 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Phil Collins was born and raised in London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wiki.answers.com/Q/What_is_Phil_Collins_religion",
+      "parentId": 2,
+      "type": "text",
+      "text": "Collins' religion is unknown and it is speculated by some that he is an atheist.",
       "sourceTitle": "What is Phil Collins religion",
-      "text": "Collins' religion is unknown and it is speculated by some that he is an atheist."
+      "sourceUrl": "http://wiki.answers.com/Q/What_is_Phil_Collins_religion"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.navesinklodge9.org/famous.htm#musicians",
+      "parentId": 3,
+      "type": "text",
+      "text": "This seems impossible, however, as Collins is a member of the Freemasons",
       "sourceTitle": "Almost Two Hundred Years of Freemasonry",
-      "text": "This seems impossible, however, as Collins is a member of the Freemasons"
+      "sourceUrl": "http://www.navesinklodge9.org/famous.htm#musicians"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ugle.org.uk/static/masonry/freemasonry-and-religion.htm",
+      "type": "text",
+      "text": "and as such, has been required to declare his belief in a higher power.",
+      "parentId": 3,
       "sourceTitle": "The United Grand Lodge of England",
-      "text": "and as such, has been required to declare his belief in a higher power."
+      "sourceUrl": "http://www.ugle.org.uk/static/masonry/freemasonry-and-religion.htm"
     },
     {
-      "type": "sentence",
-      "text": "Freemasons, though, are not asked to qualify what type of higher power it is they believe in, just that they believe in one–which isn't helpful for our purposes."
+      "type": "text",
+      "text": "Freemasons, though, are not asked to qualify what type of higher power it is they believe in, just that they believe in one–which isn't helpful for our purposes.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=EprQGmZ3Imw",
+      "parentId": 4,
+      "type": "text",
+      "text": "Collins has been highly critical of Christianity–particularly American televangelists. He satirizes them in the Genesis song, \"Jesus He Knows Me,\"",
       "sourceTitle": "Jesus He Knows Me (1991)",
-      "text": "Collins has been highly critical of Christianity–particularly American televangelists. He satirizes them in the Genesis song, \"Jesus He Knows Me,\""
+      "sourceUrl": "http://www.youtube.com/watch?v=EprQGmZ3Imw"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=gySQdpSvZcQ",
+      "type": "text",
+      "text": "and disparages them in public interviews.",
+      "parentId": 4,
       "sourceTitle": "Phil Collins talking about Televangelists in the U.S.",
-      "text": "and disparages them in public interviews."
+      "sourceUrl": "http://www.youtube.com/watch?v=gySQdpSvZcQ"
     },
     {
-      "type": "sentence",
-      "text": "Strangely, he appears to be under the impression that the majority of Americans are under the spell of these two-faced religious leaders. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Strangely, he appears to be under the impression that the majority of Americans are under the spell of these two-faced religious leaders. He said:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=gySQdpSvZcQ",
-      "sourceTitle": "Phil Collins talking about Televangelists in the U.S.",
-      "text": "Most of Americans go for these [televangelists]. It's hugely popular… Listen, people, wake up! These people are fleecing you."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Most of Americans go for these [televangelists]. It's hugely popular… Listen, people, wake up! These people are fleecing you.",
+      "sourceTitle": "Phil Collins talking about Televangelists in the U.S.",
+      "sourceUrl": "http://www.youtube.com/watch?v=gySQdpSvZcQ"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Still, a critique of one religious movement is not an endorsement of another and we're still left scratching our heads over Collins' true religious beliefs."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "To pay or not to pay"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Perhaps if Collins was a little more forthright with his views, there wouldn't be such a swirling of rumors."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://andover.thebreeze.com/artist/phil-collins/bio/",
+      "parentId": 10,
+      "type": "text",
+      "text": "People have speculated that Collins is a supporter of Britain's Conservative Party–mainly for tax reasons. This came as certain wealthy Brits were threatening to leave Britain in 1992 if the Labour Party, with its high tax rates for the rich, were to win the elections. Collins was counted among them, and later admitted that he certainly did not want most of his income taken, but that it didn't mean he was a Tory. However, he said that from his home in the tax haven country of Switzerland.",
       "sourceTitle": "Biography – Phil Collins",
-      "text": "People have speculated that Collins is a supporter of Britain's Conservative Party–mainly for tax reasons. This came as certain wealthy Brits were threatening to leave Britain in 1992 if the Labour Party, with its high tax rates for the rich, were to win the elections. Collins was counted among them, and later admitted that he certainly did not want most of his income taken, but that it didn't mean he was a Tory. However, he said that from his home in the tax haven country of Switzerland."
+      "sourceUrl": "http://andover.thebreeze.com/artist/phil-collins/bio/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://andover.thebreeze.com/artist/phil-collins/bio/",
+      "parentId": 11,
+      "type": "text",
+      "text": "But if it's true that Collins is conservative on the financial side of things, he's more liberal on the social side of things. He's a longtime supporter of People for the Ethical Treatment of Animals (PETA) and has rallied against Kentucky Fried Chicken in solidarity with the left-leaning organization.",
       "sourceTitle": "Biography – Phil Collins",
-      "text": "But if it's true that Collins is conservative on the financial side of things, he's more liberal on the social side of things. He's a longtime supporter of People for the Ethical Treatment of Animals (PETA) and has rallied against Kentucky Fried Chicken in solidarity with the left-leaning organization."
+      "sourceUrl": "http://andover.thebreeze.com/artist/phil-collins/bio/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Maybe he's libertarian. It sort of adds up if you think about it."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Any Phil Collins experts out there, help us out in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -32,83 +32,144 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Amy Macdonald was born and raised just outside Glasgow, Scotland."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "Macdonald does not appear to be even remotely religious. There's nothing on her  besides the occasional tweet like this one when she had a sore throat on tour:"
+      "parentId": 2,
+      "type": "text",
+      "text": "Macdonald does not appear to be even remotely religious. There's nothing on her"
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "link",
+      "text": "Twitter feed",
+      "sourceUrl": "https://twitter.com/Amy__Macdonald"
+    },
+    {
+      "type": "text",
+      "text": "besides the occasional tweet like this one when she had a sore throat on tour:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/Amy__Macdonald/status/304351375498805248",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Thank god for honey and lemon!!",
       "sourceTitle": "Amy_Macdonald: Thank you Zurich! Perfect crowd! …",
-      "text": "Thank god for honey and lemon!!"
+      "sourceUrl": "https://twitter.com/Amy__Macdonald/status/304351375498805248"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.azlyrics.com/lyrics/amymacdonald/myonlyone.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Do you think it means anything that she didn't capitalize god? Probably not. Her lyrics don't have much to indicate religion either, except a quick, \"God rest your soul,\" in her song \"My Only One.\"",
       "sourceTitle": "Amy Macdonald Lyrics.",
-      "text": "Do you think it means anything that she didn't capitalize god? Probably not. Her lyrics don't have much to indicate religion either, except a quick, \"God rest your soul,\" in her song \"My Only One.\""
+      "sourceUrl": "http://www.azlyrics.com/lyrics/amymacdonald/myonlyone.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Scotland",
+      "parentId": 6,
+      "type": "text",
+      "text": "She probably grew up in a generally Christian community, and considering her Scottish roots, she probably has some Presbyterian blood, or maybe even Catholic.",
       "sourceTitle": "Religion in Scotland.",
-      "text": "She probably grew up in a generally Christian community, and considering her Scottish roots, she probably has some Presbyterian blood, or maybe even Catholic."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Scotland"
     },
     {
-      "type": "sentence",
-      "text": "But it's fair to say that Macdonald is most likely non-religious herself."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But it's fair to say that Macdonald is most likely non-religious herself.",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Politics in a Beautiful Light"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Macdonald makes a point of not engaging in the political debate. When asked her opinion on the Scottish independence question, she said she didn't care to give it,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.theglaswegian.co.uk/glasgow-news/news/2012/10/31/amy-macdonald-time-for-bickering-over-scottish-independence-to-end-102692-23936974/",
-      "sourceTitle": "Amy Macdonald: Time for bickering over Scottish independence to end.",
-      "text": "I've never been one of those people who force my beliefs on other people so I'll just keep that to myself."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I've never been one of those people who force my beliefs on other people so I'll just keep that to myself.",
+      "sourceTitle": "Amy Macdonald: Time for bickering over Scottish independence to end.",
+      "sourceUrl": "http://www.theglaswegian.co.uk/glasgow-news/news/2012/10/31/amy-macdonald-time-for-bickering-over-scottish-independence-to-end-102692-23936974/"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "She did, however, express her hope that the issue could be debated and discussed in a productive and civil manner. She said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.theglaswegian.co.uk/glasgow-news/news/2012/10/31/amy-macdonald-time-for-bickering-over-scottish-independence-to-end-102692-23936974/",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "It'll be better when we can actually have a proper debate but I'm not sure if that'll ever happen. Politicians don't do that very often, but I would hope that it'll be positive rather than the mess we've got just now. . . . I just want it to get into an actual positive debate about the pros and cons instead of the constant bickering and mudslinging.",
       "sourceTitle": "Amy Macdonald: Time for bickering over Scottish independence to end.",
-      "text": "It'll be better when we can actually have a proper debate but I'm not sure if that'll ever happen. Politicians don't do that very often, but I would hope that it'll be positive rather than the mess we've got just now. . . . I just want it to get into an actual positive debate about the pros and cons instead of the constant bickering and mudslinging."
+      "sourceUrl": "http://www.theglaswegian.co.uk/glasgow-news/news/2012/10/31/amy-macdonald-time-for-bickering-over-scottish-independence-to-end-102692-23936974/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "That's a lesson politicians could use on just about every issue, don't you think? If Macdonald comes out with any other interesting political statements, please keep us updated in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

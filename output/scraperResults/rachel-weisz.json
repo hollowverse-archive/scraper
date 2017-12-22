@@ -33,122 +33,187 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Rachel Weisz was born and raised in London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.magxone.com/uploads/2012/06/Rachel-Weisz-Vogue-UK-8.jpg",
+      "parentId": 2,
+      "type": "text",
+      "text": "Weisz is mostly Jewish by heritage. Her father wisely immigrated to England from Hungary before the outbreak of World War II and her mother, who was raised a Catholic"
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "in a convent"
+    },
+    {
+      "type": "text",
+      "text": ", no less, converted to Judaism–though we're not sure why.",
+      "parentId": 2,
       "sourceTitle": "Rachel Weisz Vogue UK",
-      "text": "Weisz is mostly Jewish by heritage. Her father wisely immigrated to England from Hungary before the outbreak of World War II and her mother, who was raised a Catholic , no less, converted to Judaism–though we're not sure why."
+      "sourceUrl": "http://www.magxone.com/uploads/2012/06/Rachel-Weisz-Vogue-UK-8.jpg"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "But Weisz doesn't seem too devout. In fact, as an actress, she once publicly mused that her Jewish name might be a liability:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.theoccidentalobserver.net/2011/07/how-rachel-weisz-wrecked-her-hollywood-prospects/",
-      "sourceTitle": "How Rachel Weisz wrecked her Hollywood prospects",
-      "text": "I was advised by an American agent when I was about 19 to change my surname. And I said 'Why? Jews run Hollywood.' He said 'Exactly.' He had a theory that all the executives think acting's a job for shiksas [non Jews]… In some way acting is prostitution, and Hollywood Jews don't want their own women to participate."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I was advised by an American agent when I was about 19 to change my surname. And I said 'Why? Jews run Hollywood.' He said 'Exactly.' He had a theory that all the executives think acting's a job for shiksas [non Jews]… In some way acting is prostitution, and Hollywood Jews don't want their own women to participate.",
+      "sourceTitle": "How Rachel Weisz wrecked her Hollywood prospects",
+      "sourceUrl": "http://www.theoccidentalobserver.net/2011/07/how-rachel-weisz-wrecked-her-hollywood-prospects/"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Furthermore, Weisz has expressed being a bit down on religion in general, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/r/rachel_weisz_3.html",
-      "sourceTitle": "Rachel Weisz Qutoes",
-      "text": "People still kill in the name of religion. We haven't evolved to the point where we're one tribe called humans."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "People still kill in the name of religion. We haven't evolved to the point where we're one tribe called humans.",
+      "sourceTitle": "Rachel Weisz Qutoes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/r/rachel_weisz_3.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "That sounds rather idealistic, but not something that would come from the mouth of a devout Jew–or a devout anything for that matter. Rather, she implies that human evolution and progress will inevitably shed the violent shackles of religion."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Not so radical anymore"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0001838/bio",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "We only have a bit of speculation to go on regarding Weisz' political views. She was described as a \"radical feminist\" when she was in college.",
       "sourceTitle": "Rachel Weisz – Biography",
-      "text": "We only have a bit of speculation to go on regarding Weisz' political views. She was described as a \"radical feminist\" when she was in college."
+      "sourceUrl": "http://www.imdb.com/name/nm0001838/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/r/rachel_weisz_3.html",
+      "parentId": 12,
+      "type": "text",
+      "text": "Couple that with her quote about sometimes fantasizing about being a hippie that travels around in a mobile home, going to festivals and having \"millions of children\" with \"dreadlocks and nose rings,\"",
       "sourceTitle": "Rachel Weisz Quotes",
-      "text": "Couple that with her quote about sometimes fantasizing about being a hippie that travels around in a mobile home, going to festivals and having \"millions of children\" with \"dreadlocks and nose rings,\""
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/r/rachel_weisz_3.html"
     },
     {
-      "type": "sentence",
-      "text": "and we could assume that she is quite liberal."
+      "type": "text",
+      "text": "and we could assume that she is quite liberal.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.reuters.com/article/2011/08/03/us-rachelweisz-idUSTRE7723AR20110803",
+      "parentId": 13,
+      "type": "text",
+      "text": "But she did once describe her character in the film,"
+    },
+    {
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "The Constant Gardner"
+    },
+    {
+      "type": "text",
+      "text": ", as a \"bleeding heart liberal [and an] annoying troublemaker, pain in the arse 'left' kind of girl.",
+      "parentId": 13,
       "sourceTitle": "A Minute With: Rachel Weisz on being a whistleblower",
-      "text": "But she did once describe her character in the film, , as a \"bleeding heart liberal [and an] annoying troublemaker, pain in the arse 'left' kind of girl."
+      "sourceUrl": "http://www.reuters.com/article/2011/08/03/us-rachelweisz-idUSTRE7723AR20110803"
     },
     {
-      "type": "sentence",
-      "text": "So, it's hard to say."
+      "type": "text",
+      "text": "So, it's hard to say.",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "Give us a hint in the comments if you know anything."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Rachel_Weisz",
     "title": "Rachel Weisz",
     "image": {
-      "name": "Rachel_Weisz_Cannes_2015.jpg",
+      "name": "Rachel_Weisz_2012.jpg",
       "info": {
-        "canonicaltitle": "File:Rachel Weisz Cannes 2015.jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rachel_Weisz_Cannes_2015.jpg/212px-Rachel_Weisz_Cannes_2015.jpg",
-        "thumbwidth": 212,
+        "canonicaltitle": "File:Rachel Weisz 2012.jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rachel_Weisz_2012.jpg/236px-Rachel_Weisz_2012.jpg",
+        "thumbwidth": 236,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Rachel_Weisz_Cannes_2015.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rachel_Weisz_Cannes_2015.jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40702681",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Rachel_Weisz_2012.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rachel_Weisz_2012.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21021015",
         "extmetadata": {
           "DateTime": {
-            "value": "2015-06-03 20:17:14",
+            "value": "2014-06-20 05:05:55",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "Rachel Weisz Cannes 2015",
+            "value": "Rachel Weisz 2012",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -158,7 +223,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "2015 Cannes Film Festival|Images by Georges Biard|Items with OTRS permission confirmed|Personality rights warning|Rachel Weisz|Self-published work",
+            "value": "2012 Deauville American Film Festival|Files from Elen Nivrae Flickr stream|Flickr images reviewed by trusted users|Rachel Weisz|The Bourne Legacy (film) Deauville premiere",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -168,34 +233,29 @@
             "hidden": ""
           },
           "ImageDescription": {
-            "value": "Rachel Weisz at the Cannes film festival",
+            "value": "<a href=\"https://en.wikipedia.org/wiki/Rachel_Weisz\" class=\"extiw\" title=\"en:Rachel Weisz\">Rachel Weisz</a> at a photocall for the showing of <i>The Bourne Legacy</i> at the 2012 Deauville American Film Festival.",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "2015-05",
+            "value": "2012-09-01 14:26",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/nivrae/7908595634/\">Rachel Weisz</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "Georges Biard",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/people/nivrae/\">Elen Nivrae</a> from Paris, France",
             "source": "commons-desc-page"
           },
-          "Permission": {
-            "value": "<table class=\"messagebox layouttemplate\" style=\"margin:0.3em 0;width:100%;direction:ltr\"><tr>\n<td width=\"70\">\n<img alt=\"OTRS Wikimedia\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/70px-OTRS_Wikimedia.svg.png\" title=\"OTRS Wikimedia\" width=\"70\" height=\"38\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/105px-OTRS_Wikimedia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/140px-OTRS_Wikimedia.svg.png 2x\" data-file-width=\"120\" data-file-height=\"65\"><p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionOTRS 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2012010510013998 2%3D2012010510013998\"> </span></p>\n</td>\n<td>\n<span lang=\"en\" class=\"description en\">This work is <a href=\"http://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.</span>\n<p><span lang=\"en\" class=\"description en\">Wikimedia has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;\" title=\"transparent\">reviewed</span></b> by an <a href=\"//commons.wikimedia.org/wiki/Category:Commons_OTRS_volunteers\" title=\"Category:Commons OTRS volunteers\">OTRS member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:OTRS\" title=\"Commons:OTRS\">permission archive</a>. The correspondence is available to trusted volunteers <span class=\"plainlinksneverexpand\">as <b><a class=\"external text\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2012010510013998\">ticket #2012010510013998</a></b></span>.</span></p>\n<p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:OTRS/Noticeboard\" title=\"Commons:OTRS/Noticeboard\">OTRS noticeboard</a>.</small><br><small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2012010510013998\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2012010510013998</a></small> <span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2012010510013998\"></span></p>\n</td>\n</tr></table>\n<span class=\"autoconfonly\" id=\"otrstemplatewr\" style=\"display:none;\"></span>",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
           "LicenseShortName": {
-            "value": "CC BY-SA 3.0",
+            "value": "CC BY 2.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "UsageTerms": {
-            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "value": "Creative Commons Attribution 2.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -204,13 +264,8 @@
             "source": "commons-desc-page",
             "hidden": ""
           },
-          "Attribution": {
-            "value": "Georges Biard",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
           "LicenseUrl": {
-            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "value": "http://creativecommons.org/licenses/by/2.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -220,12 +275,12 @@
             "hidden": ""
           },
           "Restrictions": {
-            "value": "personality",
+            "value": "",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "License": {
-            "value": "cc-by-sa-3.0",
+            "value": "cc-by-2.0",
             "source": "commons-templates",
             "hidden": ""
           }

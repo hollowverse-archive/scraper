@@ -32,112 +32,190 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Chace Crawford was born in Lubbock, Texas and grew up in Dallas, Texas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.standard.co.uk/lifestyle/chace-crawford-is-hot-gossip-6499848.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Crawford was raised a southern Baptist",
       "sourceTitle": "Chace Crawford is hot gossip",
-      "text": "Crawford was raised a southern Baptist"
+      "sourceUrl": "http://www.standard.co.uk/lifestyle/chace-crawford-is-hot-gossip-6499848.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.people.com/people/chace_crawford/biography/0,,,00.html",
+      "type": "text",
+      "text": "and graduated from a Christian high school.",
+      "parentId": 2,
       "sourceTitle": "Chace Crawford Biography",
-      "text": "and graduated from a Christian high school."
+      "sourceUrl": "http://www.people.com/people/chace_crawford/biography/0,,,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.standard.co.uk/lifestyle/chace-crawford-is-hot-gossip-6499848.html",
+      "type": "text",
+      "text": "He still seems to be mildly religious, admitting that he goes to church \"from time to time.\"",
+      "parentId": 2,
       "sourceTitle": "Chace Crawford is hot gossip",
-      "text": "He still seems to be mildly religious, admitting that he goes to church \"from time to time.\""
+      "sourceUrl": "http://www.standard.co.uk/lifestyle/chace-crawford-is-hot-gossip-6499848.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "One thing's for certain, his religious background still gurgles in his subconscious. He sometimes feels guilty about the sexual content of his hit show, . He said:"
+      "parentId": 3,
+      "type": "text",
+      "text": "One thing's for certain, his religious background still gurgles in his subconscious. He sometimes feels guilty about the sexual content of his hit show,"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Gossip Girl"
+    },
+    {
+      "type": "text",
+      "text": ". He said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.greatpersonalities.com/chace-crawford/2.htm",
-      "sourceTitle": "Chace Crawford Quotes – Page 2",
-      "text": "I come from a moral background, and I can see the power of the show, and imagine my old school-teachers cringing, or my grandparents thinking 'Oh my God' when they see me, say, having sex on a barstool."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I come from a moral background, and I can see the power of the show, and imagine my old school-teachers cringing, or my grandparents thinking 'Oh my God' when they see me, say, having sex on a barstool.",
+      "sourceTitle": "Chace Crawford Quotes – Page 2",
+      "sourceUrl": "http://www.greatpersonalities.com/chace-crawford/2.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "And he indicates a strong loyalty to his belief systems, whatever they may be specifically. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.greatpersonalities.com/chace-crawford/2.htm",
-      "sourceTitle": "Chace Crawford Quotes – Page 2",
-      "text": "Doubt your doubts before you doubt your beliefs."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Doubt your doubts before you doubt your beliefs.",
+      "sourceTitle": "Chace Crawford Quotes – Page 2",
+      "sourceUrl": "http://www.greatpersonalities.com/chace-crawford/2.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Those are the words of an ideologue, really quite the opposite of the philosophy of a critical thinker. Maybe Crawford is really intensely religious. But if so, he hides it well."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Political hotness"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mtv.com/news/articles/1610746/chace-crawford-ed-westwick-attend-white-house-correspondents-dinner.jhtml",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Crawford has displayed a remarkable willingness to consider the strengths of both sides of America's political aisle. He is, at the end of the day, a Democrat. Crawford was invited by Fox News to attend the White House Correspondents Dinner in 2009 as their guest. He said before attending that he \"hopes to be seated next to O'Reilly so that he can talk about his pro-Obama beliefs.\"",
       "sourceTitle": "Chace Crawford, Ed Westwick To Attend White House Correspondents Dinner.",
-      "text": "Crawford has displayed a remarkable willingness to consider the strengths of both sides of America's political aisle. He is, at the end of the day, a Democrat. Crawford was invited by Fox News to attend the White House Correspondents Dinner in 2009 as their guest. He said before attending that he \"hopes to be seated next to O'Reilly so that he can talk about his pro-Obama beliefs.\""
+      "sourceUrl": "http://www.mtv.com/news/articles/1610746/chace-crawford-ed-westwick-attend-white-house-correspondents-dinner.jhtml"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "That is a real willingness to jump into the lion's den."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "text": "In 2008, Crawford joined a flock of Hollywood's elite in a  encouraging people to go out and vote. There was no mention of a candidate, but between the likes of Samuel L. Jackson, Susan Sarandon and Anne Hathaway, it was a pretty left-leaning group."
+      "parentId": 13,
+      "type": "text",
+      "text": "In 2008, Crawford joined a flock of Hollywood's elite in a"
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://perezhilton.com/2008-10-08-chace-crawford-really-wants-you-to#.UMUwr4UZ-Bg"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": "encouraging people to go out and vote. There was no mention of a candidate, but between the likes of Samuel L. Jackson, Susan Sarandon and Anne Hathaway, it was a pretty left-leaning group.",
+      "parentId": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Finally, Crawford is no Republican hater. His now infamous quote about 2008's vice-presidential candidate:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.justjared.com/2008/09/10/chace-crawford-sarah-palin/",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "I'm not gonna lie. Sarah Palin is quite attractive.",
       "sourceTitle": "Chace Crawford: Sarah Palin is \"Quite Attractive.\"",
-      "text": "I'm not gonna lie. Sarah Palin is quite attractive."
+      "sourceUrl": "http://www.justjared.com/2008/09/10/chace-crawford-sarah-palin/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Sex and politics: inseparable."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

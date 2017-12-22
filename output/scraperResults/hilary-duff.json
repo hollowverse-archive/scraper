@@ -30,69 +30,139 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Hilary Duff was born in Houston, Texas and grew up between Houston and San Antonio, Texas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "There isn't much information about her religious view, but based on conjecture, my best guess for Hilary Duff is that she is a Christian and has some sort of connection to the Christian God. As she stated in one  interview, when asked about her son possibly choosing the same career as herself or her husband, hockey player Mike Comrie, she said:"
+      "parentId": 2,
+      "type": "text",
+      "text": "There isn't much information about her religious view, but based on conjecture, my best guess for Hilary Duff is that she is a Christian and has some sort of connection to the Christian God. As she stated in one"
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.youtube.com/watch?v=qzsVGXi2og0"
+    },
+    {
+      "type": "text",
+      "text": "interview, when asked about her son possibly choosing the same career as herself or her husband, hockey player Mike Comrie, she said:",
+      "parentId": 2
     },
     {
       "type": "quote",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "I just pray to God that that's not what he wants."
     },
     {
+      "parentId": 4,
+      "type": "text",
+      "text": "(("
+    },
+    {
+      "parentId": 4,
+      "type": "link",
+      "text": "Hilary Duff – Piers Morgan Interview",
+      "sourceUrl": "http://www.youtube.com/watch?v=qzsVGXi2og0"
+    },
+    {
+      "type": "text",
+      "text": ". YouTube.))",
+      "parentId": 4
+    },
+    {
       "type": "heading",
+      "id": 5
+    },
+    {
+      "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Duff's political views are tough to nail down. She's got a history with America's political top dogs, past and present, but no explicit professions of support."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "First of all, she tweeted about an experience with Obama:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/HilaryDuff/status/128681218647662593",
-      "sourceTitle": "Wow just had the most interesting dinner with about 20 couples and @BarackObama !!Always fascinating to talk to such influential people!",
-      "text": "Wow just had the most interesting dinner with about 20 couples and @BarackObama!! Always fascinating to talk to such influential people!"
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Wow just had the most interesting dinner with about 20 couples and @BarackObama!! Always fascinating to talk to such influential people!",
+      "sourceTitle": "Wow just had the most interesting dinner with about 20 couples and @BarackObama !!Always fascinating to talk to such influential people!",
+      "sourceUrl": "https://twitter.com/HilaryDuff/status/128681218647662593"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "But having an interesting dinner is certainly not an endorsement."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.wetpaint.com/network/gallery/surprising-celebrities-who-are-republican/photo/surprising-republicans-hilary-duff",
-      "sourceTitle": "Who Knew These Celebrities Were Republican? ",
-      "text": "Some people claim that she is a registered Republican in the state of Texas. And some cite the fact that she performed at one of George Bush's inaugural balls in 2005 as reason to believe she's a Republican."
+      "parentId": 12,
+      "type": "text",
+      "text": "Some people claim that she is a registered Republican in the state of Texas. And some cite the fact that she performed at one of George Bush's inaugural balls in 2005 as reason to believe she's a Republican.",
+      "sourceTitle": "Who Knew These Celebrities Were Republican?",
+      "sourceUrl": "http://www.wetpaint.com/network/gallery/surprising-celebrities-who-are-republican/photo/surprising-republicans-hilary-duff"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "There certainly a stigma about Texans and Republicans, but with no concrete evidence, we're hoping you all can enlighten us in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

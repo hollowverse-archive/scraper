@@ -36,142 +36,213 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Bill O'Reilly was born in New York City and grew up on Long Island, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.monstersandcritics.com/people/Bill-O-Reilly/biography/",
+      "parentId": 2,
+      "type": "text",
+      "text": "O'Reilly's family is 100% Irish, so what does that mean? He's Catholic. O'Reilly grew up going to Catholic schools and is still Catholic today.",
       "sourceTitle": "Bill O'Reilly Biography",
-      "text": "O'Reilly's family is 100% Irish, so what does that mean? He's Catholic. O'Reilly grew up going to Catholic schools and is still Catholic today."
+      "sourceUrl": "http://www.monstersandcritics.com/people/Bill-O-Reilly/biography/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.billoreilly.com/column?pid=29184",
+      "parentId": 3,
+      "type": "text",
+      "text": "Despite his devotion–and the fact that he still regularly goes to church",
       "sourceTitle": "The Catholic Quandary",
-      "text": "Despite his devotion–and the fact that he still regularly goes to church"
+      "sourceUrl": "http://www.billoreilly.com/column?pid=29184"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.billoreilly.com/column?pid=29184",
+      "type": "text",
+      "text": "–O'Reilly has no problems criticizing the Catholic Church as an institution. He's bashed them for not properly addressing the child molestation scandals. He's bashed various Popes for various reasons.",
+      "parentId": 3,
       "sourceTitle": "The Catholic Quandary",
-      "text": "–O'Reilly has no problems criticizing the Catholic Church as an institution. He's bashed them for not properly addressing the child molestation scandals. He's bashed various Popes for various reasons."
+      "sourceUrl": "http://www.billoreilly.com/column?pid=29184"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newshounds.us/20121207_bill_o_reilly_want_gays_to_be_happy_but_encourages_catholic_church_opposition_to_gay_marriage_wtf",
+      "type": "text",
+      "text": "And he's said that the church hasn't done enough to fight gay marriage.",
+      "parentId": 3,
       "sourceTitle": "Bill O'Reilly Wants Gays To Be Happy But Encourages Catholic Church Opposition To Gay Marriage? WTF?",
-      "text": "And he's said that the church hasn't done enough to fight gay marriage."
+      "sourceUrl": "http://www.newshounds.us/20121207_bill_o_reilly_want_gays_to_be_happy_but_encourages_catholic_church_opposition_to_gay_marriage_wtf"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Still, he considers himself a good Catholic, justifying his faith against the pitfalls of the Catholic Church, O'Reilly said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.billoreilly.com/column?pid=29184",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "From the beginning, in Sister Claudia's first grade class, I understood that the Catholic Church was about Jesus, not Father Flannery. Believe me, I saw so many loons in my Catholic school days that I should be a Buddhist. But it is the theology, not church leadership, that keeps me in the fold.",
       "sourceTitle": "The Catholic Quandary",
-      "text": "From the beginning, in Sister Claudia's first grade class, I understood that the Catholic Church was about Jesus, not Father Flannery. Believe me, I saw so many loons in my Catholic school days that I should be a Buddhist. But it is the theology, not church leadership, that keeps me in the fold."
+      "sourceUrl": "http://www.billoreilly.com/column?pid=29184"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.billoreilly.com/column?pid=29184",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "O'Reilly likes the fundamentals of Christianity, having said that Jesus' message is \"full-force positive.\"",
       "sourceTitle": "The Catholic Quandary",
-      "text": "O'Reilly likes the fundamentals of Christianity, having said that Jesus' message is \"full-force positive.\""
+      "sourceUrl": "http://www.billoreilly.com/column?pid=29184"
     },
     {
-      "type": "sentence",
-      "text": "My guess is that he's doing Christianity Catholic-style because of his long family heritage in the church."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "My guess is that he's doing Christianity Catholic-style because of his long family heritage in the church.",
+      "parentId": 7
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Non-partisan? Ok, Bill."
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "O'Reilly claims to be unaffiliated with any political party. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 10
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.npr.org/templates/story/story.php?storyId=1459090",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I'm not a political guy in the sense that I embrace an ideology. To this day I'm an independent thinker, an independent voter, I'm a registered independent…",
       "sourceTitle": "Bill O'Reilly.",
-      "text": "I'm not a political guy in the sense that I embrace an ideology. To this day I'm an independent thinker, an independent voter, I'm a registered independent…"
+      "sourceUrl": "http://www.npr.org/templates/story/story.php?storyId=1459090"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0971123/bio",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "After his comments caused controversy, O'Reilly's voting records were investigated, and it turns out he had, at one point, registered as a Republican. He re-registered as an Independent afterwards.",
       "sourceTitle": "Bill O'Reilly (I) – Biography",
-      "text": "After his comments caused controversy, O'Reilly's voting records were investigated, and it turns out he had, at one point, registered as a Republican. He re-registered as an Independent afterwards."
+      "sourceUrl": "http://www.imdb.com/name/nm0971123/bio"
     },
     {
-      "type": "sentence",
-      "text": "Although, possibly because he considers himself a journalist, there are no records (that I can find) of any political contributions from O'Reilly."
+      "type": "text",
+      "text": "Although, possibly because he considers himself a journalist, there are no records (that I can find) of any political contributions from O'Reilly.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://pewresearch.org/pubs/1102/limbaugh-audience-conservative-men",
+      "parentId": 13,
+      "type": "text",
+      "text": "But let's be honest. He's a conservative–not that there's anything wrong with that–he just doesn't seem to want to admit it. First of all, the overwhelming majority of his fans consider themselves to be conservative.",
       "sourceTitle": "Limbaugh holds on to his Niche",
-      "text": "But let's be honest. He's a conservative–not that there's anything wrong with that–he just doesn't seem to want to admit it. First of all, the overwhelming majority of his fans consider themselves to be conservative."
+      "sourceUrl": "http://pewresearch.org/pubs/1102/limbaugh-audience-conservative-men"
     },
     {
-      "type": "sentence",
-      "text": "Second of all, he says things like (replace the word \"secular\" with \"liberal\" for best results):"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/b/bill_oreilly_2.html",
-      "sourceTitle": "Bill O'Reilly Quotes",
-      "text": "You want to have two guys making out in front of your 4-year-old? It's OK with them. A guy smoking a joint, blowing the smoke into your little kid's face? OK with them. And I'm not exaggerating here. This is exactly what the secular movement stands for."
-    },
-    {
-      "type": "sentence",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/b/bill_oreilly.html",
-      "sourceTitle": "Bill O'Reilly Quotes",
-      "text": "He's been a bit critical of the gay community, telling them that if they just keep their mouths shut, life will be easier for everyone."
-    },
-    {
-      "type": "sentence",
-      "text": "But most of all, O'Reilly doesn't want to hear excuses. He's a firm believer that brains and hard work will get you anywhere in America, despite race, religion, sexual orientation, etc. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Second of all, he says things like (replace the word \"secular\" with \"liberal\" for best results):",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/b/bill_oreilly.html",
-      "sourceTitle": "Bill O'Reilly Quotes",
-      "text": "It's hard to do it because you gotta look people in the eye and tell 'em they're irresponsible and lazy. And who's gonna wanna do that? Because that's what poverty is, ladies and gentlemen. In this country, you can succeed if you get educated and work hard. Period."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "You want to have two guys making out in front of your 4-year-old? It's OK with them. A guy smoking a joint, blowing the smoke into your little kid's face? OK with them. And I'm not exaggerating here. This is exactly what the secular movement stands for.",
+      "sourceTitle": "Bill O'Reilly Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/b/bill_oreilly_2.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "He's been a bit critical of the gay community, telling them that if they just keep their mouths shut, life will be easier for everyone.",
+      "sourceTitle": "Bill O'Reilly Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/b/bill_oreilly.html"
+    },
+    {
+      "type": "text",
+      "text": "But most of all, O'Reilly doesn't want to hear excuses. He's a firm believer that brains and hard work will get you anywhere in America, despite race, religion, sexual orientation, etc. He said:",
+      "parentId": 16
+    },
+    {
+      "type": "quote",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "It's hard to do it because you gotta look people in the eye and tell 'em they're irresponsible and lazy. And who's gonna wanna do that? Because that's what poverty is, ladies and gentlemen. In this country, you can succeed if you get educated and work hard. Period.",
+      "sourceTitle": "Bill O'Reilly Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/b/bill_oreilly.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "O'Reilly has said a lot of things, many of which have landed him in hot water for one reason or another. He's loud–and admits it. He's controversial–and he revels in it. And in a very real way, he's a representative voice for much of America–and therefore quite valuable."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -240,7 +311,7 @@
             "hidden": ""
           },
           "Artist": {
-            "value": "<ul>\n<li>\n<a href=\"//commons.wikimedia.org/wiki/File:Bill_O%27Reilly_at_the_World_Affairs_Council_of_Philadelphia.jpg\" title=\"File:Bill O'Reilly at the World Affairs Council of Philadelphia.jpg\">Bill O'Reilly at the World Affairs Council of Philadelphia.jpg</a>: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/26702824@N08\">World Affairs Council of Philadelphia</a>\n</li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/w/index.php?title=User:Karppinen&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Karppinen (page does not exist)\">Karppinen</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Karppinen\" title=\"User talk:Karppinen\"><span class=\"signature-talk\">talk</span></a>)</li>\n</ul>",
+            "value": "<ul>\n<li>\n<a href=\"//commons.wikimedia.org/wiki/File:Bill_O%27Reilly_at_the_World_Affairs_Council_of_Philadelphia.jpg\" title=\"File:Bill O'Reilly at the World Affairs Council of Philadelphia.jpg\">Bill O'Reilly at the World Affairs Council of Philadelphia.jpg</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/26702824@N08\">World Affairs Council of Philadelphia</a>\n</li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/w/index.php?title=User:Karppinen&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Karppinen (page does not exist)\">Karppinen</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Karppinen\" title=\"User talk:Karppinen\"><span class=\"signature-talk\">talk</span></a>)</li>\n</ul>",
             "source": "commons-desc-page"
           },
           "LicenseShortName": {

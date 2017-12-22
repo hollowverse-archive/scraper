@@ -33,102 +33,151 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Justin Theroux was born and raised in Washington D.C."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.paultheroux.com/biography/index.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Theroux doesn't seem to talk about his religion, but there is significant evidence that he is–or at least was–a Catholic. First of all, his heritage is largely French and Italian,",
       "sourceTitle": "Biography",
-      "text": "Theroux doesn't seem to talk about his religion, but there is significant evidence that he is–or at least was–a Catholic. First of all, his heritage is largely French and Italian,"
+      "sourceUrl": "http://www.paultheroux.com/biography/index.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.paultheroux.com/biography/index.html",
+      "type": "text",
+      "text": "both traditionally Catholic countries. His uncle, the famous writer Paul Theroux, was raised Catholic.",
+      "parentId": 2,
       "sourceTitle": "Biography",
-      "text": "both traditionally Catholic countries. His uncle, the famous writer Paul Theroux, was raised Catholic."
+      "sourceUrl": "http://www.paultheroux.com/biography/index.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://justintheroux.org/wp/?page_id=50",
+      "type": "text",
+      "text": "And Justin himself was once kicked out of a Catholic school for smoking cigarettes.",
+      "parentId": 2,
       "sourceTitle": "Anthem",
-      "text": "And Justin himself was once kicked out of a Catholic school for smoking cigarettes."
+      "sourceUrl": "http://justintheroux.org/wp/?page_id=50"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Having been kicked out of Catholic school, it seems reasonable to assume that he's a lapsed Catholic–but there is nothing from Theroux himself about his religious views past or present."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Theroux does, however, seem to have a sort of Christian moral philosophy. He's said he believes in \"redemption,\" and that anyone can learn to change and be a better person. But it's not so much a spiritual redemption as much as a learning-at-the-school-of-hard-knocks redemption:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 5
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://justintheroux.org/wp/?page_id=736",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "…a realization has to be followed by change. So yeah, I think redemption is the actual question. I think everyone has, not serious sins, but parochial sins. Just sort of moral inaccuracy. Everyone has that… At the end of the day, aren't we all sort of simple? We're all just unenlightened in some area of our lives, and just through living we end up gaining knowledge or empathy.",
       "sourceTitle": "Bust Magazine (August)",
-      "text": "…a realization has to be followed by change. So yeah, I think redemption is the actual question. I think everyone has, not serious sins, but parochial sins. Just sort of moral inaccuracy. Everyone has that… At the end of the day, aren't we all sort of simple? We're all just unenlightened in some area of our lives, and just through living we end up gaining knowledge or empathy."
+      "sourceUrl": "http://justintheroux.org/wp/?page_id=736"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Theroux-ly searched politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usmagazine.com/celebrity-news/news/jennifer-aniston-flashes-engagement-ring-on-hot-date-with-justin-theroux-20121410",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Theroux is about as mysterious about his politics as he is about his religion. No Obama endorsements (though his romantic relationship with liberal Democrat Jennifer Aniston might give us some clues",
       "sourceTitle": "Jennifer Aniston Flashes Engagement Ring on Hot Date With Justin Theroux",
-      "text": "Theroux is about as mysterious about his politics as he is about his religion. No Obama endorsements (though his romantic relationship with liberal Democrat Jennifer Aniston might give us some clues"
+      "sourceUrl": "http://www.usmagazine.com/celebrity-news/news/jennifer-aniston-flashes-engagement-ring-on-hot-date-with-justin-theroux-20121410"
     },
     {
-      "type": "sentence",
-      "text": ") or grand statements on the goodness or badness of gay marriage. No thousand dollar checks to candidates or condemnations of politicians."
+      "type": "text",
+      "text": ") or grand statements on the goodness or badness of gay marriage. No thousand dollar checks to candidates or condemnations of politicians.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://justintheroux.org/wp/?page_id=736",
+      "parentId": 10,
+      "type": "text",
+      "text": "He did say that his mother is \"about as liberal as they come.\"",
       "sourceTitle": "Bust Magazine (August)",
-      "text": "He did say that his mother is \"about as liberal as they come.\""
+      "sourceUrl": "http://justintheroux.org/wp/?page_id=736"
     },
     {
-      "type": "sentence",
-      "text": "Could be relevant, could be meaningless."
+      "type": "text",
+      "text": "Could be relevant, could be meaningless.",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "I'm tempted to call Theroux an anarchist, as is evidenced by this quote:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://m.imdb.com/name/nm0857620/quotes",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "All the stuff with the World Trade Organization, the kids in Seattle throwing a bricks through Starbucks windows – I see it as a good thing. It's saying, like 'Fuck you.' As long as no one's killing one another, I don't think there's anything wrong with throwing a brick through the window of McDonalds. I'm sort of inspired when I see people thinking like that.",
       "sourceTitle": "Justin Theroux – Quutos",
-      "text": "All the stuff with the World Trade Organization, the kids in Seattle throwing a bricks through Starbucks windows – I see it as a good thing. It's saying, like 'Fuck you.' As long as no one's killing one another, I don't think there's anything wrong with throwing a brick through the window of McDonalds. I'm sort of inspired when I see people thinking like that."
+      "sourceUrl": "http://m.imdb.com/name/nm0857620/quotes"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Explicit support for WTO protestors, to me, is as good as any candidate endorsement. It shows Theroux isn't buying into the old \"Vanilla or Chocolate\" politics being served up in his country. But social upheaval? Well, you be the judge."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

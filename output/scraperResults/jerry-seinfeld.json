@@ -31,82 +31,133 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jerry Seinfeld was born and raised in New York City."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "He grew up being funny and, in part, credits his Jewish heritage for that, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.cbsnews.com/2100-3445_162-20054709.html",
-      "sourceTitle": "Jerry Seinfeld on new museum of Jewish history",
-      "text": "Well, there's no question that a lot of the, whatever gifts that I have, came through this strain of DNA. It can't just be a coincidence that I know how to do this; I didn't learn all this, you know what I mean? How to be a comedian, and how to think funny, or talk funny. Some of that was put in me from other Jews. So, you know, I'm grateful for that."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Well, there's no question that a lot of the, whatever gifts that I have, came through this strain of DNA. It can't just be a coincidence that I know how to do this; I didn't learn all this, you know what I mean? How to be a comedian, and how to think funny, or talk funny. Some of that was put in me from other Jews. So, you know, I'm grateful for that.",
+      "sourceTitle": "Jerry Seinfeld on new museum of Jewish history",
+      "sourceUrl": "http://www.cbsnews.com/2100-3445_162-20054709.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Beyond that, being Jewish is something Jerry either practices in private or possibly just isn't that into. He doesn't seem to be particularly spiritual and he has and does dabble in other religions. He's a regular practitioner of Transcendental Meditation, a Buddhist meditation technique, though one doesn't need to be Buddhist to do it."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://today.msnbc.msn.com/id/21535797/ns/today-entertainment/t/seinfeld-admits-he-dabbled-scientology/#.T3vKhtmB39c",
+      "parentId": 6,
+      "type": "text",
+      "text": "However, he did admit to looking into Scientology on at least one occasion but quickly decided it wasn't for him.",
       "sourceTitle": "Seinfeld admits he dabbled in Scientology",
-      "text": "However, he did admit to looking into Scientology on at least one occasion but quickly decided it wasn't for him."
+      "sourceUrl": "http://today.msnbc.msn.com/id/21535797/ns/today-entertainment/t/seinfeld-admits-he-dabbled-scientology/#.T3vKhtmB39c"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://celebrity.lovetoknow.com/Jerry_Seinfeld",
+      "parentId": 7,
+      "type": "text",
+      "text": "Still, Judaism appears to be mainly a vehicle for Seinfeld's comedy. It was a regular topic in his hit TV series, \"Seinfeld,\" and his history of using Jewish for comedic purposes stretches back to his college days when he was an amateur wrestler who went by the stage name \"The Jewish Terror.\"",
       "sourceTitle": "Jerry Seinfeld",
-      "text": "Still, Judaism appears to be mainly a vehicle for Seinfeld's comedy. It was a regular topic in his hit TV series, \"Seinfeld,\" and his history of using Jewish for comedic purposes stretches back to his college days when he was an amateur wrestler who went by the stage name \"The Jewish Terror.\""
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://celebrity.lovetoknow.com/Jerry_Seinfeld"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Political ambiguity"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Jerry_Seinfeld.php",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Seinfeld has made numerous political contributions in his day. The strange thing is, they have been across the board. He even contributed to both George W. Bush and John Kerry in 2004, even though they were opponents. All in all, however, his contributions favor Democrats.",
       "sourceTitle": "Jerry Seinfeld's Federal Campaign Contribution Report",
-      "text": "Seinfeld has made numerous political contributions in his day. The strange thing is, they have been across the board. He even contributed to both George W. Bush and John Kerry in 2004, even though they were opponents. All in all, however, his contributions favor Democrats."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Jerry_Seinfeld.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "text": "He has stuck up for Obama as well. When Donald Trump was making a huge deal about Obama's birth certificate, accusing him of  not being born in the U.S. (which would make him ineligible to be president), Jerry Seinfeld cancelled an appearance at Trump's son's charity event, saying:"
+      "parentId": 10,
+      "type": "text",
+      "text": "He has stuck up for Obama as well. When Donald Trump was making a huge deal about Obama's birth certificate, accusing him of"
     },
     {
-      "type": "break"
+      "parentId": 10,
+      "type": "emphasis",
+      "text": "possibly"
+    },
+    {
+      "type": "text",
+      "text": "not being born in the U.S. (which would make him ineligible to be president), Jerry Seinfeld cancelled an appearance at Trump's son's charity event, saying:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://latimesblogs.latimes.com/washington/2011/04/donald-trump-tired-of-talking-about-obamas-birth-certificate.html",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "This kind of demagoguery has no place in public discourse.",
       "sourceTitle": "Donald Trump, Jerry Seinfeld upset over Obama birth certificate yada yada",
-      "text": "This kind of demagoguery has no place in public discourse."
+      "sourceUrl": "http://latimesblogs.latimes.com/washington/2011/04/donald-trump-tired-of-talking-about-obamas-birth-certificate.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Let's just call him a Democrat."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

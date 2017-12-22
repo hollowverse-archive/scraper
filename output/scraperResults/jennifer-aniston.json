@@ -32,66 +32,102 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jennifer Aniston was born in Los Angeles but grew up between Greece and New York City. She is as American a mix as they come: Greek, Italian, Scottish, Irish, and some more Greek. Telly Savalas was her godfather, so we can assume she had some kind of Greek Orthodox training in her childhood. She has said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 2
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.squidoo.com/jennifer-aniston-tripler5064",
+      "type": "paragraph",
+      "id": 3,
+      "parentId": 2
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "I don't have a religion. I believe in a God. I don't know what it looks like but it's MY God.  My own interpretation of the supernatural.",
       "sourceTitle": "Jennifer Aniston Quote",
-      "text": "I don't have a religion. I believe in a God. I don't know what it looks like but it's MY God.  My own interpretation of the supernatural."
+      "sourceUrl": "http://www.squidoo.com/jennifer-aniston-tripler5064"
     },
     {
       "type": "heading",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "Left, Right, or Confused?"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://swiftreport.blogs.com/news/2005/01/politics_caused.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Jennifer Aniston was accused of being too conservative for Brad Pitt",
       "sourceTitle": "The Swift Report: Politics Caused Brad and Jen Split",
-      "text": "Jennifer Aniston was accused of being too conservative for Brad Pitt"
+      "sourceUrl": "http://swiftreport.blogs.com/news/2005/01/politics_caused.html"
     },
     {
-      "type": "sentence",
-      "text": "during the 2004 election cycle, when he was a John Kerry supporter and she was largely absent from Pitt's side. Some say that was a part of what broke them up the next year."
+      "type": "text",
+      "text": "during the 2004 election cycle, when he was a John Kerry supporter and she was largely absent from Pitt's side. Some say that was a part of what broke them up the next year.",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.trendhunter.com/trends/sarah-silverman-jennifer-aniston-dont-vote",
+      "parentId": 6,
+      "type": "text",
+      "text": "However, she shows liberal leanings with ads like \"Don't Vote\" from the 2008 election cycle",
       "sourceTitle": "Sarcasm For Politics – Sarah Silverman, Jennifer Aniston Say \"Don't Vote.\"",
-      "text": "However, she shows liberal leanings with ads like \"Don't Vote\" from the 2008 election cycle"
+      "sourceUrl": "http://www.trendhunter.com/trends/sarah-silverman-jennifer-aniston-dont-vote"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.nydailynews.com/2010-08-11/gossip/27072449_1_sperm-bank-single-mother-press-conference",
+      "type": "text",
+      "text": "and her ability to piss-off Bill O'Reilly.",
+      "parentId": 6,
       "sourceTitle": "Fox host Bill O' Reilly slams Jennifer Aniston for saying women don't need men to raise children",
-      "text": "and her ability to piss-off Bill O'Reilly."
+      "sourceUrl": "http://articles.nydailynews.com/2010-08-11/gossip/27072449_1_sperm-bank-single-mother-press-conference"
     },
     {
-      "type": "sentence",
-      "text": "Bill O'Reilly thinks she's \"destructive to our society\" because of comments like these:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Bill O'Reilly thinks she's \"destructive to our society\" because of comments like these:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://articles.nydailynews.com/2010-08-09/gossip/27072152_1_single-women-single-motherhood-traditional-mother",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "…what is it that defines family? It isn't necessarily the traditional mother, father, two children and a dog named Spot.  Love is love and family is what is around you and who is in your immediate sphere.",
       "sourceTitle": "Jennifer Aniston: Women don't need men to be able to start a family",
-      "text": "…what is it that defines family? It isn't necessarily the traditional mother, father, two children and a dog named Spot.  Love is love and family is what is around you and who is in your immediate sphere."
+      "sourceUrl": "http://articles.nydailynews.com/2010-08-09/gossip/27072152_1_single-women-single-motherhood-traditional-mother"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "She was talking about her movie \"The Switch\" in which she played a single woman who uses artificial insemination to start her own family. No wonder O'Reilly was angry. Who is a grown woman to decide what to do with her body? But don't worry, Bill. If \"Friends\" couldn't bring about the downfall of western civilization, Jennifer Aniston's far less popular movies won't stand a chance."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

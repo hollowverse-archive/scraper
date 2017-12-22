@@ -33,100 +33,197 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Freida Pinto was born and raised in and outside of Mumbai, India."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.interviewmagazine.com/film/freida-pinto-1#page2",
+      "parentId": 2,
+      "type": "text",
+      "text": "She's Indian, so what's your best guess: Hindu? Muslim? Sikh? Nope. This actress is Catholic. It's an interesting little historical footnote. Pinto's parents are from a region of southwest India called Mangalore",
       "sourceTitle": "Freida Pinto – page",
-      "text": "She's Indian, so what's your best guess: Hindu? Muslim? Sikh? Nope. This actress is Catholic. It's an interesting little historical footnote. Pinto's parents are from a region of southwest India called Mangalore"
+      "sourceUrl": "http://www.interviewmagazine.com/film/freida-pinto-1#page2"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.interviewmagazine.com/film/freida-pinto-1#page2",
+      "type": "text",
+      "text": "where there are a large number of Catholics with a distinct ethnic and religious identity. They are called",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "link",
+      "text": "Mangalorean Catholics",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Mangalorean_Catholic"
+    },
+    {
+      "type": "text",
+      "text": "and they are divergent group of Catholics originating from another Indian Catholic group called",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "link",
+      "text": "Goan Catholics",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Goan_Catholics"
+    },
+    {
+      "type": "text",
+      "text": ", who were converted by the Portuguese imperialists. Pinto's name is of Portuguese origin.",
+      "parentId": 2,
       "sourceTitle": "Freida Pinto – page",
-      "text": "where there are a large number of Catholics with a distinct ethnic and religious identity. They are called  and they are divergent group of Catholics originating from another Indian Catholic group called , who were converted by the Portuguese imperialists. Pinto's name is of Portuguese origin."
+      "sourceUrl": "http://www.interviewmagazine.com/film/freida-pinto-1#page2"
     },
     {
-      "type": "sentence",
-      "text": "Do you see the puzzle pieces all fitting together here!?"
+      "type": "text",
+      "text": "Do you see the puzzle pieces all fitting together here!?",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm2951768/bio",
+      "parentId": 3,
+      "type": "text",
+      "text": "It is unclear how devout Pinto is. She did attend a Catholic school growing up,",
       "sourceTitle": "Freida Pinto – Biography",
-      "text": "It is unclear how devout Pinto is. She did attend a Catholic school growing up,"
+      "sourceUrl": "http://www.imdb.com/name/nm2951768/bio"
     },
     {
-      "type": "sentence",
-      "text": "so you know the religion was a part of her upbringing. All I could find of her speaking of her family's faith was this quote:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "so you know the religion was a part of her upbringing. All I could find of her speaking of her family's faith was this quote:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.interviewmagazine.com/film/freida-pinto-1#page2",
-      "sourceTitle": "Freida Pinto – page",
-      "text": "I… come from Bangalore, which is in the southern part of India, where you have a big Catholic population. Some of them were forced conversions by the British and Portuguese. So I may not necessarily have that kind of lineage. I could pretty much just be a Hindu from India. But I'm still very curious to find out."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I… come from Bangalore, which is in the southern part of India, where you have a big Catholic population. Some of them were forced conversions by the British and Portuguese. So I may not necessarily have that kind of lineage. I could pretty much just be a Hindu from India. But I'm still very curious to find out.",
+      "sourceTitle": "Freida Pinto – page",
+      "sourceUrl": "http://www.interviewmagazine.com/film/freida-pinto-1#page2"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Sounds like speculation, as if to suggest she's not all that connected to her heritage. But I'm speculating now. Let us know in the comments if you know any more about Pinto's religious beliefs."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Politics of looking like an Arab"
     },
     {
-      "type": "sentence",
-      "text": "Pinto isn't all that political–unless she is, of course. There's a  with her name on it that is just full of Obama-hating tweets. It's got just enough followers that I'm tempted to think it's actually hers, but no self-respecting Hollywood agent or publicist would allow that kind of Obama-bashing in today's political environment. Still, it's interesting enough to merit a mention."
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "text",
+      "text": "Pinto isn't all that political–unless she is, of course. There's a"
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "link",
+      "text": "Twitter account",
+      "sourceUrl": "https://twitter.com/freidapinto"
+    },
+    {
+      "type": "text",
+      "text": "with her name on it that is just full of Obama-hating tweets. It's got just enough followers that I'm tempted to think it's actually hers, but no self-respecting Hollywood agent or publicist would allow that kind of Obama-bashing in today's political environment. Still, it's interesting enough to merit a mention.",
+      "parentId": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "She does seem environmentally-conscious. She once said about the use of disposable plastic:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 10
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.ecorazzi.com/2012/05/15/jennifer-l-hewitt-freida-pinto-and-annalynne-mccord-go-green/",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I just avoid it. I carry water in a glass bottle instead of buying plastic bottles of water.",
       "sourceTitle": "Jennifer Hewitt, Frieda Pinto and Annalynne McCord Go Green",
-      "text": "I just avoid it. I carry water in a glass bottle instead of buying plastic bottles of water."
+      "sourceUrl": "http://www.ecorazzi.com/2012/05/15/jennifer-l-hewitt-freida-pinto-and-annalynne-mccord-go-green/"
     },
     {
-      "type": "sentence",
-      "text": "Perhaps her most political moment was starring in a film, called , about a Palestinian girl who is faced with the trials and tribulations of her people. She said of the reason she accepted the role:"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "break"
+      "parentId": 12,
+      "type": "text",
+      "text": "Perhaps her most political moment was starring in a film, called"
+    },
+    {
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "Miral"
+    },
+    {
+      "type": "text",
+      "text": ", about a Palestinian girl who is faced with the trials and tribulations of her people. She said of the reason she accepted the role:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.freidapintofan.com/projects/filmography/miral/",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "The moment I read the script, I fell in love with the story, because it wasn't just a story about four women; it was a story of the people of Israel and Palestine. I felt if there were any way I could be part of this peacemaking process by lending a human touch to the character, I wanted to be involved. I wish people would [remember] that there are children and soldiers dying on both sides.",
       "sourceTitle": "Miral",
-      "text": "The moment I read the script, I fell in love with the story, because it wasn't just a story about four women; it was a story of the people of Israel and Palestine. I felt if there were any way I could be part of this peacemaking process by lending a human touch to the character, I wanted to be involved. I wish people would [remember] that there are children and soldiers dying on both sides."
+      "sourceUrl": "http://www.freidapintofan.com/projects/filmography/miral/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Sounds like sympathy for Palestinians to me. Combine that with a dash of environmentalism and you've got yourself a bit of a liberal."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

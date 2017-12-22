@@ -32,90 +32,122 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jeff Dunham was born and raised in Dallas, Texas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Jeff_Dunham#Early_life",
+      "parentId": 2,
+      "type": "text",
+      "text": "Dunham was raised in a Christian household (Wikipedia says he's a Presbyterian, but I couldn't find confirmation of that",
       "sourceTitle": "Jeff Dunham.",
-      "text": "Dunham was raised in a Christian household (Wikipedia says he's a Presbyterian, but I couldn't find confirmation of that"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Jeff_Dunham#Early_life"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2009/11/01/magazine/01ventriloquist-t.html?pagewanted=all&_r=0",
+      "type": "text",
+      "text": ") and some of his earliest gigs as a ventriloquist were telling bible stories at church and performing at fundraisers for his church camp.",
+      "parentId": 2,
       "sourceTitle": "Jeff Dunham's Comedy for Dummies.",
-      "text": ") and some of his earliest gigs as a ventriloquist were telling bible stories at church and performing at fundraisers for his church camp."
+      "sourceUrl": "http://www.nytimes.com/2009/11/01/magazine/01ventriloquist-t.html?pagewanted=all&_r=0"
     },
     {
-      "type": "sentence",
-      "text": "He's willing to stereotype and insult pretty much any group, but tries not to insult his most fervent supporters, the \"country crowd,\" which I'm assuming means conservative Christians:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He's willing to stereotype and insult pretty much any group, but tries not to insult his most fervent supporters, the \"country crowd,\" which I'm assuming means conservative Christians:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.nytimes.com/2009/11/01/magazine/01ventriloquist-t.html?pagewanted=all&_r=0",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "That's why I don't pick on basic Christian-values stuff. Well, I also don't like to, because that's the way I was brought up.",
       "sourceTitle": "Jeff Dunham's Comedy for Dummies.",
-      "text": "That's why I don't pick on basic Christian-values stuff. Well, I also don't like to, because that's the way I was brought up."
+      "sourceUrl": "http://www.nytimes.com/2009/11/01/magazine/01ventriloquist-t.html?pagewanted=all&_r=0"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.people.com/people/article/0,,20638605,00.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "He married his second wife in 2012 in a non-denominational Christian wedding,",
       "sourceTitle": "Jeff Dunham Marries Audrey Murdick.",
-      "text": "He married his second wife in 2012 in a non-denominational Christian wedding,"
+      "sourceUrl": "http://www.people.com/people/article/0,,20638605,00.html"
     },
     {
-      "type": "sentence",
-      "text": "so it would seem that he still considers himself Christian as an adult. How devoted he is these days to his faith however, is up for debate."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "so it would seem that he still considers himself Christian as an adult. How devoted he is these days to his faith however, is up for debate.",
+      "parentId": 5
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Playing to the Crowd"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chacha.com/question/is-jeff-dunham-a-republican",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Everyone seems to think Dunham is conservative.",
       "sourceTitle": "Is Jeff Dunham a republican?",
-      "text": "Everyone seems to think Dunham is conservative."
+      "sourceUrl": "http://www.chacha.com/question/is-jeff-dunham-a-republican"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2009/11/01/magazine/01ventriloquist-t.html?pagewanted=all&_r=0",
+      "type": "text",
+      "text": "It would certainly fit since he doesn't seem afraid to offend anyone except his conservative audience.",
+      "parentId": 7,
       "sourceTitle": "Jeff Dunham's Comedy for Dummies.",
-      "text": "It would certainly fit since he doesn't seem afraid to offend anyone except his conservative audience."
+      "sourceUrl": "http://www.nytimes.com/2009/11/01/magazine/01ventriloquist-t.html?pagewanted=all&_r=0"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=OFUcx7ua6Sk",
+      "type": "text",
+      "text": "And it would be possible to interpret his cute interview on conservative talk-show host Bill O'Reilly's program an endorsement of sorts.",
+      "parentId": 7,
       "sourceTitle": "O'Reilly interviews Jeff Dunham ventriloquist.",
-      "text": "And it would be possible to interpret his cute interview on conservative talk-show host Bill O'Reilly's program an endorsement of sorts."
+      "sourceUrl": "http://www.youtube.com/watch?v=OFUcx7ua6Sk"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2009/11/01/magazine/01ventriloquist-t.html?pagewanted=all&_r=0",
+      "parentId": 8,
+      "type": "text",
+      "text": "And if political correctness is a liberal cause, Dunham is certainly not on that train. He's willing to make fun of stereotypes surrounding Catholics, Muslims, Jews, women, Mexican immigrants, NASCAR–pretty much anything that's not offensive to his target audience. To critics he says he tries to insult all races and ethnicities equally.",
       "sourceTitle": "Jeff Dunham's Comedy for Dummies.",
-      "text": "And if political correctness is a liberal cause, Dunham is certainly not on that train. He's willing to make fun of stereotypes surrounding Catholics, Muslims, Jews, women, Mexican immigrants, NASCAR–pretty much anything that's not offensive to his target audience. To critics he says he tries to insult all races and ethnicities equally."
+      "sourceUrl": "http://www.nytimes.com/2009/11/01/magazine/01ventriloquist-t.html?pagewanted=all&_r=0"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Most of Dunham's comedy is done through the many voices of his dummies or characters, and we cannot view their statements as synonymous with his own. Even so, I think it's safe to say that Dunham is a conservative aimed at making conservatives (and whoever else wants to come along) laugh."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

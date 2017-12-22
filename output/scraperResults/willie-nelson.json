@@ -40,153 +40,228 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
+      "parentId": 1,
+      "type": "text",
+      "text": "Willie Nelson was born and raised in Abbott, Texas."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
       "text": "Nelson draws from a wide variety of belief systems, so much that it can seem dizzying, overwhelming even. Some may say that it makes no sense–and it can be difficult to find any common themes (except perhaps the power of love), but it surely makes sense in Nelson's head."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://stillisstillmoving.com/willienelson/29576/",
+      "parentId": 3,
+      "type": "text",
+      "text": "Nelson was raised going to the Abbott Methodist Church and that is where he first performed as a musician. It still holds a special place in his heart, as is evident by the fact that when the church was facing financial problems and was considering selling the building, Nelson swooped in and purchased it so the congregation could continue holding services.",
       "sourceTitle": "Willie Nelson and the Abbott Methodist Church",
-      "text": "Nelson was raised going to the Abbott Methodist Church and that is where he first performed as a musician. It still holds a special place in his heart, as is evident by the fact that when the church was facing financial problems and was considering selling the building, Nelson swooped in and purchased it so the congregation could continue holding services."
+      "sourceUrl": "http://stillisstillmoving.com/willienelson/29576/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://seventhsola.blogspot.com/2008/12/born-and-raised-in-christian-faith.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "Nelson's relationship with Christianity is, shall we say, flexible. He reportedly once offered a joint (marijuana cigarette) as an offering to Jesus",
       "sourceTitle": "Born and Raised in the Christian Faith?",
-      "text": "Nelson's relationship with Christianity is, shall we say, flexible. He reportedly once offered a joint (marijuana cigarette) as an offering to Jesus"
+      "sourceUrl": "http://seventhsola.blogspot.com/2008/12/born-and-raised-in-christian-faith.html"
     },
     {
-      "type": "sentence",
-      "text": "and seems to see the nature of God and knowledge more through an agnostic's lens:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and seems to see the nature of God and knowledge more through an agnostic's lens:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/willie_nelson.html",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I don't think any person has any special knowledge about what God has planned for me and you any more than me and you do.",
       "sourceTitle": "Willie Nelson Quotes",
-      "text": "I don't think any person has any special knowledge about what God has planned for me and you any more than me and you do."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/willie_nelson.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://stillisstillmoving.com/willienelson/willie-nelson-interview-country-rhythms-61983-part-2/",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Some of Nelson's beliefs appear to come from more East Asian sources. He has said he believes in reincarnation",
       "sourceTitle": "Willie Nelson Interview: Country Rhythms (6/1983) (part 2)",
-      "text": "Some of Nelson's beliefs appear to come from more East Asian sources. He has said he believes in reincarnation"
+      "sourceUrl": "http://stillisstillmoving.com/willienelson/willie-nelson-interview-country-rhythms-61983-part-2/"
     },
     {
-      "type": "sentence",
-      "text": "(a feature of the Hindu and Buddhist faiths) and appears to have a connection to the ancient Chinese quasi-religion of Taoism. He wrote a book entitled, , which might not necessarily be an endorsement of Taoism, but contains little nuggets of wisdom in the tradition of Chinese philosopher and founder of Tao, Lao Tzu. As an example of Willie's Tao wisdom:"
+      "type": "text",
+      "text": "(a feature of the Hindu and Buddhist faiths) and appears to have a connection to the ancient Chinese quasi-religion of Taoism. He wrote a book entitled,",
+      "parentId": 7
     },
     {
-      "type": "break"
+      "parentId": 7,
+      "type": "emphasis",
+      "text": "The Tao of Willie"
+    },
+    {
+      "type": "text",
+      "text": ", which might not necessarily be an endorsement of Taoism, but contains little nuggets of wisdom in the tradition of Chinese philosopher and founder of Tao, Lao Tzu. As an example of Willie's Tao wisdom:",
+      "parentId": 7
     },
     {
       "type": "quote",
-      "sourceUrl": "http://willienelsonpri.com/peace/579/the-art-of-living-and-the-tao-of-willie.html",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I find it curious that wherever you go on earth, the fundamental teachings remain the same. Underlying everything is the simple idea of love.",
       "sourceTitle": "The Art of Living and the Tao of Willie",
-      "text": "I find it curious that wherever you go on earth, the fundamental teachings remain the same. Underlying everything is the simple idea of love."
+      "sourceUrl": "http://willienelsonpri.com/peace/579/the-art-of-living-and-the-tao-of-willie.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://seventhsola.blogspot.com/2008/12/born-and-raised-in-christian-faith.html",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Nelson's religious beliefs are diverse, and at times he incurs the condemnation of Christians, who feel his many Christian-themed songs and gospel albums are hypocritical.",
       "sourceTitle": "Born and Raised in the Christian Faith?",
-      "text": "Nelson's religious beliefs are diverse, and at times he incurs the condemnation of Christians, who feel his many Christian-themed songs and gospel albums are hypocritical."
+      "sourceUrl": "http://seventhsola.blogspot.com/2008/12/born-and-raised-in-christian-faith.html"
     },
     {
-      "type": "sentence",
-      "text": "But Willie probably cares very little for the judgements of others. He's living his own, special kind of life."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But Willie probably cares very little for the judgements of others. He's living his own, special kind of life.",
+      "parentId": 10
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "A fringe political"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dvdlyrics.com/lyrics-w-willie_nelson.html",
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "tour de force"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Nelson's politics are less a consistent sociopolitical ideology and more a series of causes. He's a staunch environmentalist, living on a compound in Hawaii that draws all of its energy from solar panels.",
       "sourceTitle": "Willie Nelson Biography, albums and lyrics",
-      "text": "Nelson's politics are less a consistent sociopolitical ideology and more a series of causes. He's a staunch environmentalist, living on a compound in Hawaii that draws all of its energy from solar panels."
+      "sourceUrl": "http://www.dvdlyrics.com/lyrics-w-willie_nelson.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.greencar.com/articles/biowillie-fuel-willie-nelson-biodiesel-company.php",
+      "type": "text",
+      "text": "Also, Willie powers all of his tour buses with biodiesel and even launched a company to sell the fuel alternative called BioWillie Fuel.",
+      "parentId": 12,
       "sourceTitle": "BioWillie Fuel – Willie Nelson Biodiesel Company",
-      "text": "Also, Willie powers all of his tour buses with biodiesel and even launched a company to sell the fuel alternative called BioWillie Fuel."
+      "sourceUrl": "http://www.greencar.com/articles/biowillie-fuel-willie-nelson-biodiesel-company.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theconcertstage.com/farmaid1985.html",
+      "parentId": 13,
+      "type": "text",
+      "text": "For years, Nelson has been a vocal advocate for American farmers, playing countless benefit concerts (the Farm Aid Concerts) for family farmers who face bankruptcy or the prospect of leaving the industry for greener pastures.",
       "sourceTitle": "Farm Aid 1985",
-      "text": "For years, Nelson has been a vocal advocate for American farmers, playing countless benefit concerts (the Farm Aid Concerts) for family farmers who face bankruptcy or the prospect of leaving the industry for greener pastures."
+      "sourceUrl": "http://www.theconcertstage.com/farmaid1985.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://norml.org/advisory-board",
+      "parentId": 14,
+      "type": "text",
+      "text": "Perhaps most famously, Nelson is a pro-legal marijuana activist. He speaks about it regularly to the media and sits on the board of directors of The National Organization for the Reform of Marijuana Laws (NORML).",
       "sourceTitle": "Advisory Board",
-      "text": "Perhaps most famously, Nelson is a pro-legal marijuana activist. He speaks about it regularly to the media and sits on the board of directors of The National Organization for the Reform of Marijuana Laws (NORML)."
+      "sourceUrl": "http://norml.org/advisory-board"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theboot.com/2010/11/29/wille-nelson-teapot-party/",
+      "type": "text",
+      "text": "Moreover, what began as a joke from Nelson turned into a real (though somewhat silly) political party called the TeaPot Party.",
+      "parentId": 14,
       "sourceTitle": "Willie Nelson Creates 'TeaPot Party' for Marijuana Legalization",
-      "text": "Moreover, what began as a joke from Nelson turned into a real (though somewhat silly) political party called the TeaPot Party."
+      "sourceUrl": "http://www.theboot.com/2010/11/29/wille-nelson-teapot-party/"
     },
     {
-      "type": "sentence",
-      "text": "The name is a play on words in response to the Tea Party and its sole purpose is the legalization of marijuana."
+      "type": "text",
+      "text": "The name is a play on words in response to the Tea Party and its sole purpose is the legalization of marijuana.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.politico.com/blogs/click/2012/01/willie-nelson-campaigns-for-dennis-kucinich-112811.html",
+      "parentId": 15,
+      "type": "text",
+      "text": "Nelson has endorsed a few candidates in his time, such as Democratic Ohio Congressman Dennis Kucinich for president in 2012,",
       "sourceTitle": "Willie Nelson campaigns for Dennis Kucinich",
-      "text": "Nelson has endorsed a few candidates in his time, such as Democratic Ohio Congressman Dennis Kucinich for president in 2012,"
+      "sourceUrl": "http://www.politico.com/blogs/click/2012/01/willie-nelson-campaigns-for-dennis-kucinich-112811.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.spinner.com/2011/05/18/willie-nelson-endorses-republican-gary-johnson/",
+      "type": "text",
+      "text": "though the Representative didn't even make it on the ticket. However, he later endorsed,",
+      "parentId": 15,
       "sourceTitle": "Willie Nelson Endorses Republican Presidential Candidate Gary Johnson",
-      "text": "though the Representative didn't even make it on the ticket. However, he later endorsed,"
+      "sourceUrl": "http://www.spinner.com/2011/05/18/willie-nelson-endorses-republican-gary-johnson/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailypaul.com/165297/my-bad-willie-nelson-un-endorses-republican-gary-johnson",
+      "type": "text",
+      "text": "then \"un-endorsed\"",
+      "parentId": 15,
       "sourceTitle": "'My Bad. Sorry.' Willie Nelson un-endorses Republican Gary Johnson",
-      "text": "then \"un-endorsed\""
+      "sourceUrl": "http://www.dailypaul.com/165297/my-bad-willie-nelson-un-endorses-republican-gary-johnson"
     },
     {
-      "type": "sentence",
-      "text": "Gary Johnson for the brief stint that he was a Republican during the 2012 presidential election. Johnson switched to Libertarian later during the campaign, which offers us a clue as to why Nelson endorsed him in the first place: legalized marijuana."
+      "type": "text",
+      "text": "Gary Johnson for the brief stint that he was a Republican during the 2012 presidential election. Johnson switched to Libertarian later during the campaign, which offers us a clue as to why Nelson endorsed him in the first place: legalized marijuana.",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "As you can see, Nelson certainly cares–and has his own nuanced vision of a good and proper society. Despite it all, we imagine that if we could just get marijuana legalized, Willie would be happy."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

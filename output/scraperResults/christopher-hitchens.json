@@ -33,115 +33,182 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Christopher Hitchens was born in Portsmouth, England to two Royal Navy service members. He died in December 2011 in Houston, Texas, a U.S. citizen for only the last four years of his life."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Hitchens is considered by many the mouthpiece of atheism. He regularly debated theists, creationists, and religious scholars and many say that he was never bested. He spoke with eloquence and the support of a powerful intellect and a wide pool of knowledge of history and the human condition."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Hitchens made it a career of defying labels, except to call himself a radical. The term atheist was not enough for him, he preferred antitheist, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://thenewcivilrightsmovement.com/christopher-hitchens-antitheist-dead-at-62/politics/2011/12/16/31941",
-      "sourceTitle": "Christopher Hitchens, Antitheist, Dead at 62",
-      "text": "[Someone] could be an atheist and wish that belief in god were correct, an antitheist, a term I'm trying to get into circulation, is someone who is relieved that there's no evidence for such an assertion."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "[Someone] could be an atheist and wish that belief in god were correct, an antitheist, a term I'm trying to get into circulation, is someone who is relieved that there's no evidence for such an assertion.",
+      "sourceTitle": "Christopher Hitchens, Antitheist, Dead at 62",
+      "sourceUrl": "http://thenewcivilrightsmovement.com/christopher-hitchens-antitheist-dead-at-62/politics/2011/12/16/31941"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Not even the most revered religious figures escaped Hitchens' critical eye. He even accused Mother Theresa of glorifying that which she spent her life battling–poverty, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.mirror.co.uk/news/uk-news/christopher-hitchens-the-top-10-quotes-281917",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "She spent her life opposing the only known cure for poverty, which is the empowerment of women and the emancipation of them from a livestock version of compulsory reproduction.",
       "sourceTitle": "Christopher Hitchens: the top 10 quotes from the author, journalist and atheist",
-      "text": "She spent her life opposing the only known cure for poverty, which is the empowerment of women and the emancipation of them from a livestock version of compulsory reproduction."
+      "sourceUrl": "http://www.mirror.co.uk/news/uk-news/christopher-hitchens-the-top-10-quotes-281917"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Politics of an atheist"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "It would be an understatement to say that Hitchens was an astute observer of politics. As in religion, almost no political figure escaped a Hitchens critique, Republicans, Democrats, and everyone in between."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "For example, on the right, he criticized George W. Bush, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.mirror.co.uk/news/uk-news/christopher-hitchens-the-top-10-quotes-281917",
-      "sourceTitle": "Christopher Hitchens: the top 10 quotes from the author, journalist and atheist",
-      "text": "He is unusually incurious, abnormally unintelligent, amazingly inarticulate, fantastically uncultured, extraordinarily uneducated, and apparently quite proud of all these things."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "He is unusually incurious, abnormally unintelligent, amazingly inarticulate, fantastically uncultured, extraordinarily uneducated, and apparently quite proud of all these things.",
+      "sourceTitle": "Christopher Hitchens: the top 10 quotes from the author, journalist and atheist",
+      "sourceUrl": "http://www.mirror.co.uk/news/uk-news/christopher-hitchens-the-top-10-quotes-281917"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "On the left, he criticized Michael Moore, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.mirror.co.uk/news/uk-news/christopher-hitchens-the-top-10-quotes-281917",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Europeans think Americans are fat, vulgar, greedy, stupid, ambitious and ignorant and so on. And they've taken as their own, as their representative American, someone who actually embodies all of those qualities.",
       "sourceTitle": "Christopher Hitchens: the top 10 quotes from the author, journalist and atheist",
-      "text": "Europeans think Americans are fat, vulgar, greedy, stupid, ambitious and ignorant and so on. And they've taken as their own, as their representative American, someone who actually embodies all of those qualities."
+      "sourceUrl": "http://www.mirror.co.uk/news/uk-news/christopher-hitchens-the-top-10-quotes-281917"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.globalpost.com/dispatch/news/politics/111216/christopher-hitchens-10-most-controversial-quotes-global-affairs",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "He was, however, particularly critical of conservatives, calling them hypocrites and idiots and accusing them of leaning on religion.",
       "sourceTitle": "Christopher Hitchens' 10 most controversial quotes on global affairs",
-      "text": "He was, however, particularly critical of conservatives, calling them hypocrites and idiots and accusing them of leaning on religion."
+      "sourceUrl": "http://www.globalpost.com/dispatch/news/politics/111216/christopher-hitchens-10-most-controversial-quotes-global-affairs"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.independent.co.uk/arts-entertainment/books/reviews/hitch22-a-memoir-by-christopher-hitchens-1984845.html",
+      "parentId": 18,
+      "type": "text",
+      "text": "As a young man, Hitchens was liberal, beyond liberal. He began as a member of Britain's Labour Party for its more liberal, socialist leanings but that wasn't enough and he eventually became a full-fledged Trotsky-ist Communist.",
       "sourceTitle": "Hitch-22: a memoir by Christopher Hitchens",
-      "text": "As a young man, Hitchens was liberal, beyond liberal. He began as a member of Britain's Labour Party for its more liberal, socialist leanings but that wasn't enough and he eventually became a full-fledged Trotsky-ist Communist."
+      "sourceUrl": "http://www.independent.co.uk/arts-entertainment/books/reviews/hitch22-a-memoir-by-christopher-hitchens-1984845.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://gpolya.newsvine.com/_news/2011/12/17/9516456-pro-iraq-war-christopher-hitchens-1949-2011-dies-as-us-withdraws",
+      "parentId": 19,
+      "type": "text",
+      "text": "However, after the 2001 9/11 attacks on the New York City World Trade Towers, Hitchens seemed to have a political shift, favoring the wars in Afghanistan and Iraq and railing against \"Muslim totalitarianism.\"",
       "sourceTitle": "Pro-Iraq War Christopher Hitchens, 1949-2011, dies as US withdraws",
-      "text": "However, after the 2001 9/11 attacks on the New York City World Trade Towers, Hitchens seemed to have a political shift, favoring the wars in Afghanistan and Iraq and railing against \"Muslim totalitarianism.\""
+      "sourceUrl": "http://gpolya.newsvine.com/_news/2011/12/17/9516456-pro-iraq-war-christopher-hitchens-1949-2011-dies-as-us-withdraws"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "However, it could be argued that this was more Hitchens' hatred of religion at play, seeing the theocratic, pre-Enlightenment ideals of the Muslim religion coming to the fore and using the technological, intellectual, and secular strength of the West to quash it."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -35,106 +35,157 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Nicole Kidman was born in Honolulu, Hawaii while her parents were there as students. She grew up in Sydney, Australia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000173/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Kidman is a Catholic. It is the religion of her childhood (she attended Catholic school)",
       "sourceTitle": "Nicole Kidman – Biography",
-      "text": "Kidman is a Catholic. It is the religion of her childhood (she attended Catholic school)"
+      "sourceUrl": "http://www.imdb.com/name/nm0000173/bio"
     },
     {
-      "type": "sentence",
-      "text": "and her current religion."
+      "type": "text",
+      "text": "and her current religion.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "This wasn't always the case. During her marriage to Scientologist Tom Cruise, Kidman expressed some loyalty to Scientology, though she wasn't going to go as far as Cruise did and officially renounce Catholicism. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.catholic.org/international/international_story.php?id=20148",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "[I adhere to] a mishmash of religions… a little Buddhism, a little Scientology [but] I was raised Catholic and a big part of me is still a Catholic girl.",
       "sourceTitle": "Kidman wedding in Australia seen as spiritual homecoming",
-      "text": "[I adhere to] a mishmash of religions… a little Buddhism, a little Scientology [but] I was raised Catholic and a big part of me is still a Catholic girl."
+      "sourceUrl": "http://www.catholic.org/international/international_story.php?id=20148"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://web.archive.org/web/20110716080949/http://www.primechoice.com/philosophy/shelp/cruise.htm",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "But Kidman's wariness of Scientology became apparent during her divorce from Cruise when it came to light that faith had played a role in the end of their marriage and Kidman did not want their children raised in the Church of Scientology.",
       "sourceTitle": "Tom & Nicole Split A Question Of Faith",
-      "text": "But Kidman's wariness of Scientology became apparent during her divorce from Cruise when it came to light that faith had played a role in the end of their marriage and Kidman did not want their children raised in the Church of Scientology."
+      "sourceUrl": "http://web.archive.org/web/20110716080949/http://www.primechoice.com/philosophy/shelp/cruise.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "Now, she's back in the arms of the Catholic Church, much to the relief of many fans. Who knew Katie Holmes would later play nearly the exact same role?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "Kidman said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.catholic.org/international/international_story.php?id=20148",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Catholicism guides me. I certainly have a strong belief. I try to go to church regularly, and I try to go to confession.",
       "sourceTitle": "Kidman wedding in Australia seen as spiritual homecoming",
-      "text": "Catholicism guides me. I certainly have a strong belief. I try to go to church regularly, and I try to go to confession."
+      "sourceUrl": "http://www.catholic.org/international/international_story.php?id=20148"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Politics of the U.S., Australia? Maybe the entire world?"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Politically, Kidman speaks volumes with her money and her time–but not so much with her words. You'd be hard-pressed to find an explicitly political quote from her, but that might be just a wise PR strategy."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "However, follow the money, right? And Kidman's money points us directly to the Democratic Party. Kidman is a dual citizen (U.S. and Australia) and she's married to American country singer Kieth Urban, so she's invested in U.S. politics."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Nicole_Kidman.php",
+      "parentId": 15,
+      "type": "text",
+      "text": "Since 1994, she's given $25,500 to Democratic candidates and organizations. Perhaps her most notable donations were to Hillary Clinton's 2000 U.S. senate campaign.",
       "sourceTitle": "Nicole Kidman's Federal Campaign Contribution Report",
-      "text": "Since 1994, she's given $25,500 to Democratic candidates and organizations. Perhaps her most notable donations were to Hillary Clinton's 2000 U.S. senate campaign."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Nicole_Kidman.php"
     },
     {
-      "type": "sentence",
-      "text": "Is it just coincidence that we haven't heard her throw her star power behind Barack Obama? Clinton did run against him in 2008 after all."
+      "type": "text",
+      "text": "Is it just coincidence that we haven't heard her throw her star power behind Barack Obama? Clinton did run against him in 2008 after all.",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.glamour.com/inspired/women-of-the-year/2008/nicole-kidman",
+      "parentId": 16,
+      "type": "text",
+      "text": "On the world stage, Kidman has been a tireless activist for downtrodden women, having become an ambassador to the United Nations' Development Fund for Women. In her role for the U.N., Kidman has traveled the world, from war-torn countries to Europe's most affluent nations to champion women's rights and alleviate women's suffering.",
       "sourceTitle": "Nicole Kidman: The A-List Activist",
-      "text": "On the world stage, Kidman has been a tireless activist for downtrodden women, having become an ambassador to the United Nations' Development Fund for Women. In her role for the U.N., Kidman has traveled the world, from war-torn countries to Europe's most affluent nations to champion women's rights and alleviate women's suffering."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.glamour.com/inspired/women-of-the-year/2008/nicole-kidman"
     }
   ],
   "wikipediaData": {

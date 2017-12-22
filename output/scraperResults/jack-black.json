@@ -35,127 +35,217 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Thomas Jacob Black was born in Santa Monica, California and grew up in Culver City, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=201",
+      "parentId": 2,
+      "type": "text",
+      "text": "Black was raised Jewish. His mother is Jewish by birth and his father converted.",
       "sourceTitle": "Jack Black",
-      "text": "Black was raised Jewish. His mother is Jewish by birth and his father converted."
+      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=201"
     },
     {
-      "type": "sentence",
-      "text": "However, Black considers himself an atheist. He revealed this during an interview on NPR's , saying:"
+      "type": "text",
+      "text": "However, Black considers himself an atheist. He revealed this during an interview on NPR's",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "Fresh Air"
+    },
+    {
+      "type": "text",
+      "text": ", saying:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.patheos.com/blogs/friendlyatheist/2012/04/24/jack-black-im-kind-of-an-atheist/",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I don't have any real spirituality in my life — I'm kind of an atheist — but when music can take me to the highest heights, it's almost like a spiritual feeling. It fills that void for me.",
       "sourceTitle": "Jack Black: 'I'm Kind of an Atheist",
-      "text": "I don't have any real spirituality in my life — I'm kind of an atheist — but when music can take me to the highest heights, it's almost like a spiritual feeling. It fills that void for me."
+      "sourceUrl": "http://www.patheos.com/blogs/friendlyatheist/2012/04/24/jack-black-im-kind-of-an-atheist/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.haaretz.com/jewish-world/jack-black-puts-on-a-hebrew-show-1.427504",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Knowing this, it is confusing to see that Black seems to want his kids to go to a Hebrew school–and a good one. He has gone to great lengths in public to increase their chances of getting in, singing traditional Jewish songs on Conan O'Brian and showing off his Hebrew over-pronunciation skills.",
       "sourceTitle": "Jack Black puts on a Hebrew show",
-      "text": "Knowing this, it is confusing to see that Black seems to want his kids to go to a Hebrew school–and a good one. He has gone to great lengths in public to increase their chances of getting in, singing traditional Jewish songs on Conan O'Brian and showing off his Hebrew over-pronunciation skills."
+      "sourceUrl": "http://www.haaretz.com/jewish-world/jack-black-puts-on-a-hebrew-show-1.427504"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.funnyordie.com/videos/c0cf508ff8/prop-8-the-musical-starring-jack-black-john-c-reilly-and-many-more-from-fod-team-jack-black-craig-robinson-john-c-reilly-and-rashida-jones",
+      "parentId": 6,
+      "type": "text",
+      "text": "Even though Black is both Jewish and atheist, he felt that it was acceptable to play Jesus Christ to paint California's anti-gay marriage law as being created by hypocritical religious fundamentalists.",
       "sourceTitle": "\"Prop 8 – The Musical,\" starring Jack Black, John C. Reilly and many more…",
-      "text": "Even though Black is both Jewish and atheist, he felt that it was acceptable to play Jesus Christ to paint California's anti-gay marriage law as being created by hypocritical religious fundamentalists."
+      "sourceUrl": "http://www.funnyordie.com/videos/c0cf508ff8/prop-8-the-musical-starring-jack-black-john-c-reilly-and-many-more-from-fod-team-jack-black-craig-robinson-john-c-reilly-and-rashida-jones"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.freerepublic.com/focus/religion/2142899/posts",
+      "type": "text",
+      "text": "Some folks considered his role as Jesus Christ blasphemous.",
+      "parentId": 6,
       "sourceTitle": "Jack Black and Hollywood Stars Defame Christ and the Bible; Apology Demanded",
-      "text": "Some folks considered his role as Jesus Christ blasphemous."
+      "sourceUrl": "http://www.freerepublic.com/focus/religion/2142899/posts"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newsbusters.org/blogs/carolyn-plocher/2009/09/14/jack-black-leads-prayer-devil-2009-mtv-awards",
+      "type": "text",
+      "text": "Plus, Black lead a prayer to Satan during the MTV music awards.",
+      "parentId": 6,
       "sourceTitle": "Jack Black Leads a Prayer to the Devil at the 2009 MTV Awards",
-      "text": "Plus, Black lead a prayer to Satan during the MTV music awards."
+      "sourceUrl": "http://newsbusters.org/blogs/carolyn-plocher/2009/09/14/jack-black-leads-prayer-devil-2009-mtv-awards"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "Clearly, Black has no problems stirring up religious controversy."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Standard Hollywood politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Black is a classic Hollywood liberal. He's all Democrat–except he hates Joe Lieberman. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.democracynow.org/2003/11/7/bush_is_a_dangerous_nincompoop_actor",
-      "sourceTitle": "'Bush is a Dangerous Nincompoop' -Actor/Musician Jack Black on the War on Terror, the Democrats and the Rockefeller Drug Laws",
-      "text": "There's always going to be people in any group that I don't like. But as a whole, I definitely — I'm a Democrat to the core. But, yeah, I think Lieberman's lame."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "There's always going to be people in any group that I don't like. But as a whole, I definitely — I'm a Democrat to the core. But, yeah, I think Lieberman's lame.",
+      "sourceTitle": "'Bush is a Dangerous Nincompoop' -Actor/Musician Jack Black on the War on Terror, the Democrats and the Rockefeller Drug Laws",
+      "sourceUrl": "http://www.democracynow.org/2003/11/7/bush_is_a_dangerous_nincompoop_actor"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "In the same interview, Black called George W. Bush a nincompoop, a retard, and called him evil–which is all kind of funny, but really only amounts to easy and cheap shots at the president. When Jack Black really unleashes his comedic abilities on politics, the results are hilarious and poignant."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://bigthink.com/age-of-engagement/the-jack-black-mis-informant-video-campaign-can-it-counter-false-rumors-about-health-care",
+      "parentId": 13,
+      "type": "text",
+      "text": "In response to rumors that the Obama health care plan would include \"death panels\" and various other untruths that circulated through conservative circles, Black starred in a series of web videos portraying a corporate lackey hired to willfully and knowingly spread lies about Obamacare. The best part might be when Black, playing a schoolboy, draws a picture of Obama in a turban and said that the president was really born in Tijerkistan.",
       "sourceTitle": "The Jack Black \"Mis-Informant\" Video Campaign: Can It Counter False Rumors about Heath Care?",
-      "text": "In response to rumors that the Obama health care plan would include \"death panels\" and various other untruths that circulated through conservative circles, Black starred in a series of web videos portraying a corporate lackey hired to willfully and knowingly spread lies about Obamacare. The best part might be when Black, playing a schoolboy, draws a picture of Obama in a turban and said that the president was really born in Tijerkistan."
+      "sourceUrl": "http://bigthink.com/age-of-engagement/the-jack-black-mis-informant-video-campaign-can-it-counter-false-rumors-about-health-care"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "The video rightly addresses lies propagated by opposing ideological factions, flashing red herrings at the public, and portraying things like health care as somehow a bad thing. And Black's signature comedic style fits the point well."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "As far as political party affiliation, one gets the sense that Black is only a Democrat because it's the lesser of two evils. Democrats probably aren't liberal enough for him. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.democracynow.org/2003/11/7/bush_is_a_dangerous_nincompoop_actor",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I'd go green party all the way if they had a prayer.",
       "sourceTitle": "'Bush is a Dangerous Nincompoop' -Actor/Musician Jack Black on the War on Terror, the Democrats and the Rockefeller Drug Laws",
-      "text": "I'd go green party all the way if they had a prayer."
+      "sourceUrl": "http://www.democracynow.org/2003/11/7/bush_is_a_dangerous_nincompoop_actor"
     },
     {
-      "type": "sentence",
-      "text": "Still, it's hard to take the star of  and  all that serious politically."
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "break"
+      "parentId": 18,
+      "type": "text",
+      "text": "Still, it's hard to take the star of"
+    },
+    {
+      "parentId": 18,
+      "type": "emphasis",
+      "text": "Nacho Libre"
+    },
+    {
+      "type": "text",
+      "text": "and",
+      "parentId": 18
+    },
+    {
+      "parentId": 18,
+      "type": "emphasis",
+      "text": "Kung Fu Panda"
+    },
+    {
+      "type": "text",
+      "text": "all that serious politically.",
+      "parentId": 18
     }
   ],
   "wikipediaData": {

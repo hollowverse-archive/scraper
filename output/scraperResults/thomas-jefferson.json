@@ -35,112 +35,189 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Thomas Jefferson was born in Shadwell, Virginia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pj/Thomas_Jefferson.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Jefferson was raised an Anglican/Episcopalian.",
       "sourceTitle": "The religion of Thomas Jefferson, third U.S. president",
-      "text": "Jefferson was raised an Anglican/Episcopalian."
+      "sourceUrl": "http://www.adherents.com/people/pj/Thomas_Jefferson.html"
     },
     {
-      "type": "sentence",
-      "text": "But as a spokesperson for the Enlightenment that was sweeping western society at the time, he valued reason above faith. He said, in classic Enlightenment fashion:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But as a spokesperson for the Enlightenment that was sweeping western society at the time, he valued reason above faith. He said, in classic Enlightenment fashion:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.monticello.org/site/research-and-collections/jeffersons-religious-beliefs",
-      "sourceTitle": "Jefferson's Religious Beliefs",
-      "text": "Question with boldness even the existence of a god; because, if there be one, he must more approve the homage of reason, than that of blindfolded fear."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Question with boldness even the existence of a god; because, if there be one, he must more approve the homage of reason, than that of blindfolded fear.",
+      "sourceTitle": "Jefferson's Religious Beliefs",
+      "sourceUrl": "http://www.monticello.org/site/research-and-collections/jeffersons-religious-beliefs"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "For a man to question the existence of God, as this quote implies, would surely make them an agnostic, perhaps even an atheist. And maybe in his quiet, private moments, Jefferson was, in fact, an athiest. However, he was very quick to say that he wasn't an atheist and considered himself a Christian, but that man had corrupted the fundamental Christian message. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://lonestar.texas.net/~mseifert/rush.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "To the corruptions of Christianity I am indeed opposed; but not to the genuine precepts of Jesus himself. I am a Christian, in the only sense he wished any one to be; sincerely attached to his doctrines, in preference to all others; ascribing to himself every human excellence; & believing he never claimed any other.",
       "sourceTitle": "Thomas Jefferson to Benjamin Rush, M.D.",
-      "text": "To the corruptions of Christianity I am indeed opposed; but not to the genuine precepts of Jesus himself. I am a Christian, in the only sense he wished any one to be; sincerely attached to his doctrines, in preference to all others; ascribing to himself every human excellence; & believing he never claimed any other."
+      "sourceUrl": "http://lonestar.texas.net/~mseifert/rush.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.deism.com/deistamerica.htm",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "In terms of Jesus as a divine character, son of God, endowed with godly powers, Jefferson was skeptical. Many categorize Jefferson as a Christian deist, believing in the value of a Christian moral framework but not necessarily believing in all of the supernatural stuff like miracles and resurrection.",
       "sourceTitle": "Deist Roots of America",
-      "text": "In terms of Jesus as a divine character, son of God, endowed with godly powers, Jefferson was skeptical. Many categorize Jefferson as a Christian deist, believing in the value of a Christian moral framework but not necessarily believing in all of the supernatural stuff like miracles and resurrection."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.deism.com/deistamerica.htm"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "One of America's Original Politicians"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Thomas Jefferson is an American forefather. Not only did he write the Declaration of Independence, he was Virginia's representative to the first Continental Congress, the governor of Virginia and the third president of the United States."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "text": "Jefferson's socio-political philosophy is heavily influence by the  of the Enlightenment. He believed (and wrote) the iconic statement: all men are endowed with \"certain inalienable rights.\""
+      "parentId": 11,
+      "type": "text",
+      "text": "Jefferson's socio-political philosophy is heavily influence by the"
     },
     {
-      "type": "break"
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "zeitgeist"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": "of the Enlightenment. He believed (and wrote) the iconic statement: all men are endowed with \"certain inalienable rights.\"",
+      "parentId": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "He took somewhat of a libertarian view on civil liberties–at least on paper, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/quotes/t/thomasjeff136362.html",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Rightful liberty is unobstructed action according to our will within limits drawn around us by the equal rights of others. I do not add 'within the limits of the law' because law is often but the tyrant's will, and always so when it violates the rights of the individual.",
       "sourceTitle": "Rightful liberty is unobstructed action…",
-      "text": "Rightful liberty is unobstructed action according to our will within limits drawn around us by the equal rights of others. I do not add 'within the limits of the law' because law is often but the tyrant's will, and always so when it violates the rights of the individual."
+      "sourceUrl": "http://www.brainyquote.com/quotes/quotes/t/thomasjeff136362.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://teachingamericanhistory.org/library/index.asp?document=179",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "But while Jefferson was vocally opposed to slavery, and even passed the Act to Prohibit the Importation of Slaves during his second term as president,",
       "sourceTitle": "Act to Prohibit the Importation of Slaves",
-      "text": "But while Jefferson was vocally opposed to slavery, and even passed the Act to Prohibit the Importation of Slaves during his second term as president,"
+      "sourceUrl": "http://teachingamericanhistory.org/library/index.asp?document=179"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theatlantic.com/past/docs/issues/96oct/obrien/obrien.htm",
+      "type": "text",
+      "text": "he was a slave owner and believed that black people were inferior to white people.",
+      "parentId": 15,
       "sourceTitle": "Thomas Jefferson: Radical and Racist",
-      "text": "he was a slave owner and believed that black people were inferior to white people."
+      "sourceUrl": "http://www.theatlantic.com/past/docs/issues/96oct/obrien/obrien.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "For some, this is cause enough to dismiss Jefferson as someone for whom history has inflated their reputation, but he was a man of his time–though revolutionary–and was subject to the cultural beliefs of that time."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "text": "In truth, Jefferson was instrumental in the America of today, the America that values equality and liberty and freedom. Jefferson's actions and philosophy shaped the  of America. In fact, for America to revisit the teachings of Jefferson might be wise."
+      "parentId": 17,
+      "type": "text",
+      "text": "In truth, Jefferson was instrumental in the America of today, the America that values equality and liberty and freedom. Jefferson's actions and philosophy shaped the"
     },
     {
-      "type": "break"
+      "parentId": 17,
+      "type": "emphasis",
+      "text": "ideals"
+    },
+    {
+      "type": "text",
+      "text": "of America. In fact, for America to revisit the teachings of Jefferson might be wise.",
+      "parentId": 17
     }
   ],
   "wikipediaData": {

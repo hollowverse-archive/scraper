@@ -32,76 +32,128 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jaden Smith was born and (as of the writing of this article is still being) raised in Malibu, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "You might be able to find out more about Jaden Smith's religion by looking at his father Will Smith's profile here at the Hollowverse than you'll be able to glean from anything Jaden himself has done or said. His parents are Christians, but interested in and genuinely respectful or a wide variety of other religions from Islam to Buddhism."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "So, chances are Jaden has been exposed to a variety of traditions, and maybe when he's older he'll make a personal decision as to what form his spirituality will take. As for now, the kid's only 14, so chances are he hasn't thought a whole lot about it. He did, however, retweet this little sentiment about Christmas in 2012:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://tweetwood.com/officialjaden/tweet/283609416606048256",
-      "sourceTitle": "Jaden Smith tweets.",
-      "text": "Christmas has nothing to do with religion or Jesus anymore… I'm cool with that. I'm down with having a day everybody pretends to be kind."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Christmas has nothing to do with religion or Jesus anymore… I'm cool with that. I'm down with having a day everybody pretends to be kind.",
+      "sourceTitle": "Jaden Smith tweets.",
+      "sourceUrl": "http://tweetwood.com/officialjaden/tweet/283609416606048256"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "I suppose that at least rules out overly-dogmatic Christian. But it doesn't give us any answers. We'll have to revisit Jaden in a few years."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Obama on Aliens"
     },
     {
-      "type": "sentence",
-      "text": "So, about politics, did I mention that as I write this article, he's 14? Yeah, that means he won't be able to vote until 2016, so he's got a while to get his political beliefs together. One could assume he's a liberal like his , but that's assuming that he's thought much about it."
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "text",
+      "text": "So, about politics, did I mention that as I write this article, he's 14? Yeah, that means he won't be able to vote until 2016, so he's got a while to get his political beliefs together. One could assume he's a liberal like his"
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "link",
+      "text": "father",
+      "sourceUrl": "http://hollowverse.com/will-smith/"
+    },
+    {
+      "type": "text",
+      "text": ", but that's assuming that he's thought much about it.",
+      "parentId": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Jaden did meet the president, though, which is something not too many minors can claim. According to his dad, and against his best wishes, Jaden took the opportunity to ask Obama about aliens during a tour of the White House. Will Smith said in an interview that Obama's response was,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.nydailynews.com/entertainment/tv-movies/smith-son-jaden-smith-asks-obama-aliens-president-ready-article-1.1080216",
-      "sourceTitle": "Will Smith's son Jaden Smith asks Obama about aliens — and president was ready.",
-      "text": "OK, I can neither confirm nor deny the existence of extra-terrestrials, but I can tell you if there had been a top-secret meeting and if there would have had to have been a discussion about it, it would have taken place in this room."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "OK, I can neither confirm nor deny the existence of extra-terrestrials, but I can tell you if there had been a top-secret meeting and if there would have had to have been a discussion about it, it would have taken place in this room.",
+      "sourceTitle": "Will Smith's son Jaden Smith asks Obama about aliens — and president was ready.",
+      "sourceUrl": "http://www.nydailynews.com/entertainment/tv-movies/smith-son-jaden-smith-asks-obama-aliens-president-ready-article-1.1080216"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "That level of frankness had to have appealed to the young man."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "If you're trolling Jaden's twitter feed on election night in 2016, or you catch anything about his religious or political beliefs before then, please let us know in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

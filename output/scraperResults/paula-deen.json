@@ -37,130 +37,190 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Paula Deen was born and raised in Albany, Georgia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "She grew up Baptist, and is still deeply devoted to her faith. As the Southern cook turned businesswoman said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guideposts.org/inspirational-stories/paula-deen-says-faith-family-and-friends-are-her-blessings?page=0,0",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Prayer has been as big a part of my life as food.",
       "sourceTitle": "Paula Deen Says Faith, Family and Friends Are Her Blessings.",
-      "text": "Prayer has been as big a part of my life as food."
+      "sourceUrl": "http://www.guideposts.org/inspirational-stories/paula-deen-says-faith-family-and-friends-are-her-blessings?page=0,0"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guideposts.org/inspirational-stories/paula-deen-says-faith-family-and-friends-are-her-blessings?page=0,0",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "She even credits God for telling her what to pray for in order to meet her husband.",
       "sourceTitle": "Paula Deen Says Faith, Family and Friends Are Her Blessings.",
-      "text": "She even credits God for telling her what to pray for in order to meet her husband."
+      "sourceUrl": "http://www.guideposts.org/inspirational-stories/paula-deen-says-faith-family-and-friends-are-her-blessings?page=0,0"
     },
     {
-      "type": "sentence",
-      "text": "For Paula, everything happens through God."
+      "type": "text",
+      "text": "For Paula, everything happens through God.",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/03/05/paula-deen-oprah_n_1321698.html",
+      "parentId": 6,
+      "type": "text",
+      "text": "Nevertheless, she says the Baptist belief that everything happens for a reason led her down a dark path. After her father died when she was 19, she decided that God had taken him because she herself was going to die soon. God knew her father wouldn't be able to take that, so He took her father first. The fear of her own death caused Deen to suffer from severe agoraphobia for years.",
       "sourceTitle": "Paula Deen On 'Oprah's Next Chapter': 'I Woke Up Every Day Waiting To Die.'",
-      "text": "Nevertheless, she says the Baptist belief that everything happens for a reason led her down a dark path. After her father died when she was 19, she decided that God had taken him because she herself was going to die soon. God knew her father wouldn't be able to take that, so He took her father first. The fear of her own death caused Deen to suffer from severe agoraphobia for years."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/03/05/paula-deen-oprah_n_1321698.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guideposts.org/inspirational-stories/paula-deen-says-faith-family-and-friends-are-her-blessings?page=0,1",
+      "parentId": 7,
+      "type": "text",
+      "text": "But prayer and cooking helped her through",
       "sourceTitle": "Paula Deen Says Faith, Family and Friends Are Her Blessings.",
-      "text": "But prayer and cooking helped her through"
+      "sourceUrl": "http://www.guideposts.org/inspirational-stories/paula-deen-says-faith-family-and-friends-are-her-blessings?page=0,1"
     },
     {
-      "type": "sentence",
-      "text": "and made her into the successful entrepreneur she is today. She never forgot about God along the way–and she certainly never misses an opportunity to talk about Him."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and made her into the successful entrepreneur she is today. She never forgot about God along the way–and she certainly never misses an opportunity to talk about Him.",
+      "parentId": 7
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Do liberals hate fried chicken?"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "In public, Paula Deen doesn't endorse candidates or talk about partisan issues, but she's most likely conservative–even if only because outspoken liberals seem to hate her."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "First, Deen is known for her fatty and sugary recipes. So after she announced that she was both diabetic and would be promoting the pharmaceutical company Novo Nordisk's diabetes drug, she was accused of profiting from America's obesity epidemic. Deen says she's encouraging people to be healthier and make changes in their lives:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://abcnews.go.com/Health/paula-deen-confirms-type-diabetes-teams-novo-nordisk/story?id=15378730#.UHOXYBXR7cB",
-      "sourceTitle": "Paul Deen Confirms Type 2 Diabetes; Teams Up With Novo Nordisk.",
-      "text": "I have made simple changes in my life, like cuttin' back on one of my favortie things: sweet tea!"
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I have made simple changes in my life, like cuttin' back on one of my favortie things: sweet tea!",
+      "sourceTitle": "Paul Deen Confirms Type 2 Diabetes; Teams Up With Novo Nordisk.",
+      "sourceUrl": "http://abcnews.go.com/Health/paula-deen-confirms-type-diabetes-teams-novo-nordisk/story?id=15378730#.UHOXYBXR7cB"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Holding back on those deep fried pickles and the donut burger might also be in order, but I digress."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/anna-burger/paula-deens-recipe-for-an_b_46303.html",
+      "parentId": 14,
+      "type": "text",
+      "text": "She also incited the ire of the left with her endorsement of Smithfield Pork. The company has been accused of poor working conditions",
       "sourceTitle": "Anna Burger: Paula Deen's Recipe for an Unhappy Family: Smithfield Pork.",
-      "text": "She also incited the ire of the left with her endorsement of Smithfield Pork. The company has been accused of poor working conditions"
+      "sourceUrl": "http://www.huffingtonpost.com/anna-burger/paula-deens-recipe-for-an_b_46303.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://markbittman.com/horrific-animal-abuses-uncovered-at-smithfiel",
+      "type": "text",
+      "text": "and cruelty to animals.",
+      "parentId": 14,
       "sourceTitle": "Is Factory Farming Even Worse Than We Know?",
-      "text": "and cruelty to animals."
+      "sourceUrl": "http://markbittman.com/horrific-animal-abuses-uncovered-at-smithfiel"
     },
     {
-      "type": "sentence",
-      "text": "Deen didn't have much to say to critics, but she did partner with the company to donate food to Americans in need. She said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Deen didn't have much to say to critics, but she did partner with the company to donate food to Americans in need. She said,",
+      "parentId": 14
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=sebl2LrtWXY",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Thank goodness for the generosity that Smithfield shows.",
       "sourceTitle": "Paula Deen Helps Feed The Hungry.",
-      "text": "Thank goodness for the generosity that Smithfield shows."
+      "sourceUrl": "http://www.youtube.com/watch?v=sebl2LrtWXY"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thehollywoodgossip.com/2012/03/lawsuit-alleges-rampant-paula-deen-n-word-use/",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Finally, she has been accused of using racial slurs against Obama.",
       "sourceTitle": "Lawsuit Alleges Rampant Paula Deen N-Word Use.",
-      "text": "Finally, she has been accused of using racial slurs against Obama."
+      "sourceUrl": "http://www.thehollywoodgossip.com/2012/03/lawsuit-alleges-rampant-paula-deen-n-word-use/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.foxnews.com/wires/2008Sep12/0,4670,MichelleObamaPaulaDeen,00.html",
+      "type": "text",
+      "text": "If that's true, I suppose we could assume she didn't vote for him. She did have Michelle Obama on her show, though, and they had a grand time frying up some seafood.",
+      "parentId": 17,
       "sourceTitle": "Michelle Obama tapes cooking show with Paula Deen.",
-      "text": "If that's true, I suppose we could assume she didn't vote for him. She did have Michelle Obama on her show, though, and they had a grand time frying up some seafood."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.foxnews.com/wires/2008Sep12/0,4670,MichelleObamaPaulaDeen,00.html"
     }
   ],
   "wikipediaData": {

@@ -34,127 +34,180 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Woodrow Wilson was born in Staunton, Virginia and grew up mostly in Augusta, Georgia. He died of a stroke in Washington D.C. in 1924."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.presidentialavenue.com/ww.cfm",
+      "parentId": 2,
+      "type": "text",
+      "text": "Wilson came from a very devout Presbyterian family. His father, Joseph Ruggles Wilson, helped found the Presbyterian Church of the Confederacy, was a minister for various Presbyterian congregations and taught theology at Columbia Theological Seminary and Southwestern Presbyterian Theological University.",
       "sourceTitle": "Woodrow Wilson 28th President, 1913-1921",
-      "text": "Wilson came from a very devout Presbyterian family. His father, Joseph Ruggles Wilson, helped found the Presbyterian Church of the Confederacy, was a minister for various Presbyterian congregations and taught theology at Columbia Theological Seminary and Southwestern Presbyterian Theological University."
+      "sourceUrl": "http://www.presidentialavenue.com/ww.cfm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pw/Woodrow_Wilson.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Wilson is known to have been a devout man his entire life and many feel that his faith guided his political positions and actions, most notably his hope that the world would ultimately move toward total peace.",
       "sourceTitle": "The religion of Woodrow Wilson, 28th U.S. President",
-      "text": "Wilson is known to have been a devout man his entire life and many feel that his faith guided his political positions and actions, most notably his hope that the world would ultimately move toward total peace."
+      "sourceUrl": "http://www.adherents.com/people/pw/Woodrow_Wilson.html"
     },
     {
-      "type": "sentence",
-      "text": "He once said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He once said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pw/Woodrow_Wilson.html",
-      "sourceTitle": "The religion of Woodrow Wilson, 28th U.S. President",
-      "text": "My life would not be worth living if it were not for the driving power of religion, for faith, pure and simple. I have seen all my life the arguments against it without ever having been moved by them… never for a moment have I had one doubt about my religious beliefs."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "My life would not be worth living if it were not for the driving power of religion, for faith, pure and simple. I have seen all my life the arguments against it without ever having been moved by them… never for a moment have I had one doubt about my religious beliefs.",
+      "sourceTitle": "The religion of Woodrow Wilson, 28th U.S. President",
+      "sourceUrl": "http://www.adherents.com/people/pw/Woodrow_Wilson.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "But, as is common among America's presidents, even the devout and committed, Wilson called for religious acceptance and tolerance of the disparate belief systems that straddled his land:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pw/Woodrow_Wilson.html",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "It does not become America that within her borders, where every man is free to follow the dictates of his conscience, men should raise the cry of church against church. To do that is to strike at the very spirit and heart of America.",
       "sourceTitle": "The religion of Woodrow Wilson, 28th U.S. President",
-      "text": "It does not become America that within her borders, where every man is free to follow the dictates of his conscience, men should raise the cry of church against church. To do that is to strike at the very spirit and heart of America."
+      "sourceUrl": "http://www.adherents.com/people/pw/Woodrow_Wilson.html"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "The Great War and Wilson's search for peace"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.presidentialavenue.com/ww.cfm",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Wilson was the son of a southern, Confederate family. His father supported slavery and the cause of the Confederacy.",
       "sourceTitle": "Woodrow Wilson 28th President, 1913-1921",
-      "text": "Wilson was the son of a southern, Confederate family. His father supported slavery and the cause of the Confederacy."
+      "sourceUrl": "http://www.presidentialavenue.com/ww.cfm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://reason.com/archives/2002/12/18/dixiecrats-triumphant",
+      "type": "text",
+      "text": "He was a Democrat, but his southern mentality grouped him in with a unique crowd from his part of political history called the Dixiecrats.",
+      "parentId": 11,
       "sourceTitle": "Dixiecrats Triumphant",
-      "text": "He was a Democrat, but his southern mentality grouped him in with a unique crowd from his part of political history called the Dixiecrats."
+      "sourceUrl": "http://reason.com/archives/2002/12/18/dixiecrats-triumphant"
     },
     {
-      "type": "sentence",
-      "text": "This title and some of his policies have many interpreting him as a racist. Let's take a look at the evidence."
+      "type": "text",
+      "text": "This title and some of his policies have many interpreting him as a racist. Let's take a look at the evidence.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.worldfuturefund.org/wffmaster/Reading/war.crimes/US/Wilson.htm#WILSONS%20RACISM",
+      "parentId": 12,
+      "type": "text",
+      "text": "Wilson appointed many of his southern Democrat pals to cabinet positions during his presidency. Some of these people, including Postmaster General Albert S. Burleson and Secretary of the Treasury William Gibbs McAdoo, instigated segregation policies in their respective departments, and Wilson accepted it.",
       "sourceTitle": "Lies and Racism of Woodrow Wilson",
-      "text": "Wilson appointed many of his southern Democrat pals to cabinet positions during his presidency. Some of these people, including Postmaster General Albert S. Burleson and Secretary of the Treasury William Gibbs McAdoo, instigated segregation policies in their respective departments, and Wilson accepted it."
+      "sourceUrl": "http://www.worldfuturefund.org/wffmaster/Reading/war.crimes/US/Wilson.htm#WILSONS%20RACISM"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.worldfuturefund.org/wffmaster/Reading/war.crimes/US/Wilson.htm#WILSONS%20RACISM",
+      "type": "text",
+      "text": "Wilson called segregation \"not humiliating but a benefit\" and \"distinctly to the advantage of the colored people themselves.\"",
+      "parentId": 12,
       "sourceTitle": "Lies and Racism of Woodrow Wilson",
-      "text": "Wilson called segregation \"not humiliating but a benefit\" and \"distinctly to the advantage of the colored people themselves.\""
+      "sourceUrl": "http://www.worldfuturefund.org/wffmaster/Reading/war.crimes/US/Wilson.htm#WILSONS%20RACISM"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thinkprogress.org/yglesias/2009/12/11/195405/the-strange-case-of-woodrow-wilson/",
+      "parentId": 13,
+      "type": "text",
+      "text": "Nevertheless, Wilson was an idealist. He tried valiantly to keep the U.S. out of World War I, and he did for quite some time. But after four U.S. ships were sunk by German submarines, he relented and thrust America and all her resources into the war.",
       "sourceTitle": "The Strange Case of Woodrow Wilson",
-      "text": "Nevertheless, Wilson was an idealist. He tried valiantly to keep the U.S. out of World War I, and he did for quite some time. But after four U.S. ships were sunk by German submarines, he relented and thrust America and all her resources into the war."
+      "sourceUrl": "http://thinkprogress.org/yglesias/2009/12/11/195405/the-strange-case-of-woodrow-wilson/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nobelprize.org/nobel_prizes/peace/laureates/1919/wilson-bio.html",
+      "type": "text",
+      "text": "It was quickly won and Wilson, who had hatched a plan to unite, once and for all, the nations of the world, presented the framework for the League of Nations (the precursor to the United Nations) to representatives of dozens of nations at Versailles in France. Unfortunately, having secured the support of many international bodies, he failed to convince the U.S. Congress, who voted against joining. It was an embarrassing and demoralizing blow to Wilson's presidency.",
+      "parentId": 13,
       "sourceTitle": "Woodrow Wilson – Biography",
-      "text": "It was quickly won and Wilson, who had hatched a plan to unite, once and for all, the nations of the world, presented the framework for the League of Nations (the precursor to the United Nations) to representatives of dozens of nations at Versailles in France. Unfortunately, having secured the support of many international bodies, he failed to convince the U.S. Congress, who voted against joining. It was an embarrassing and demoralizing blow to Wilson's presidency."
+      "sourceUrl": "http://www.nobelprize.org/nobel_prizes/peace/laureates/1919/wilson-bio.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://millercenter.org/president/wilson/essays/biography/4",
+      "parentId": 14,
+      "type": "text",
+      "text": "On the economic side of things, Wilson was the president that created the Federal Reserve Bank. And some of his economic policies continued his predecessor Teddy Roosevelt's policy of cracking down on vested interests. He fought lobbyists and filed Antitrust suits against various cumbersome corporations. Furthermore, he passed a law creating the 8-hour work day.",
       "sourceTitle": "American President: Woodrow Wilson: Domestic Affairs",
-      "text": "On the economic side of things, Wilson was the president that created the Federal Reserve Bank. And some of his economic policies continued his predecessor Teddy Roosevelt's policy of cracking down on vested interests. He fought lobbyists and filed Antitrust suits against various cumbersome corporations. Furthermore, he passed a law creating the 8-hour work day."
+      "sourceUrl": "http://millercenter.org/president/wilson/essays/biography/4"
     },
     {
-      "type": "sentence",
-      "text": "In that sense, he carried the torch for the working man, a cause that modern-day Democrats still champion today."
+      "type": "text",
+      "text": "In that sense, he carried the torch for the working man, a cause that modern-day Democrats still champion today.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thinkprogress.org/yglesias/2009/12/11/195405/the-strange-case-of-woodrow-wilson/",
+      "parentId": 15,
+      "type": "text",
+      "text": "He is among America's more controversial presidents, but consistently ranks high on lists of the most fondly remembered. History has been the judge. Now it's your turn.",
       "sourceTitle": "The Strange Case of Woodrow Wilson",
-      "text": "He is among America's more controversial presidents, but consistently ranks high on lists of the most fondly remembered. History has been the judge. Now it's your turn."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://thinkprogress.org/yglesias/2009/12/11/195405/the-strange-case-of-woodrow-wilson/"
     }
   ],
   "wikipediaData": {

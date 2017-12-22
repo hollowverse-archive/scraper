@@ -30,101 +30,166 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Anderson Silva, more accurately Anderson da Silva, was born and raised in Curitiba, Brazil."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.sherdog.net/forums/f61/religion-fighters-1548043/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Silva is a Catholic",
       "sourceTitle": "Religion of Fighters?",
-      "text": "Silva is a Catholic"
+      "sourceUrl": "http://www.sherdog.net/forums/f61/religion-fighters-1548043/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nationmaster.com/graph/rel_cat-religion-catholics",
+      "type": "text",
+      "text": "and hails from the nation with twice as many Catholics as any other country in the world.",
+      "parentId": 2,
       "sourceTitle": "Catholic statistic – countries compared",
-      "text": "and hails from the nation with twice as many Catholics as any other country in the world."
+      "sourceUrl": "http://www.nationmaster.com/graph/rel_cat-religion-catholics"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "He is very devout, crediting his skills in the ring and his success as a fighter to God:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.lowkickmma.com/UFC/anderson-silva-talks-god-training-bruce-lee-and-life-after-fighting-17132",
-      "sourceTitle": "Anderson Silva talks God, training, Bruce Lee and life after fighting",
-      "text": "I think God gave me the talent and opportunity, and has placed the right people in my path so I could get where I am."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I think God gave me the talent and opportunity, and has placed the right people in my path so I could get where I am.",
+      "sourceTitle": "Anderson Silva talks God, training, Bruce Lee and life after fighting",
+      "sourceUrl": "http://www.lowkickmma.com/UFC/anderson-silva-talks-god-training-bruce-lee-and-life-after-fighting-17132"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "To Silva, God is more than religion and it's clear that his faith is a very personal aspect of who he is:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.lowkickmma.com/UFC/anderson-silva-talks-god-training-bruce-lee-and-life-after-fighting-17132",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I believe we must have faith. God is a higher being, which provides us good things, gives us the opportunity to be here. For me, it is important to believe, yes. I believe regardless of religion, because God is in attitudes.",
       "sourceTitle": "Anderson Silva talks God, training, Bruce Lee and life after fighting",
-      "text": "I believe we must have faith. God is a higher being, which provides us good things, gives us the opportunity to be here. For me, it is important to believe, yes. I believe regardless of religion, because God is in attitudes."
+      "sourceUrl": "http://www.lowkickmma.com/UFC/anderson-silva-talks-god-training-bruce-lee-and-life-after-fighting-17132"
     },
     {
-      "type": "sentence",
-      "text": "Maybe it's God or lightning fast reflexes, but something is in this guy's corner with him. Check out this  of highlights from his fights. I would walk ten blocks out of my way to avoid this dude."
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "break"
+      "parentId": 9,
+      "type": "text",
+      "text": "Maybe it's God or lightning fast reflexes, but something is in this guy's corner with him. Check out this"
+    },
+    {
+      "parentId": 9,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "https://www.youtube.com/watch?v=3SLwCRYLzZU"
+    },
+    {
+      "type": "text",
+      "text": "of highlights from his fights. I would walk ten blocks out of my way to avoid this dude.",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Politics of poverty"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://martialarts.about.com/od/mmaandufc/p/asilvabio.htm",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Silva grew up very poor in Brazil, so poor his mother couldn't afford him so she left him with an aunt and uncle to be raised with four other children on a policeman's salary.",
       "sourceTitle": "Biography and Profile of Anderson Silva",
-      "text": "Silva grew up very poor in Brazil, so poor his mother couldn't afford him so she left him with an aunt and uncle to be raised with four other children on a policeman's salary."
+      "sourceUrl": "http://martialarts.about.com/od/mmaandufc/p/asilvabio.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Consequently, he's very concerned with Brazil's social ills–particularly for the sake of his own five children. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.lowkickmma.com/UFC/anderson-silva-talks-god-training-bruce-lee-and-life-after-fighting-17132",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I think all we Brazilians are outraged by so many people needing help, education, health. There is nothing that justifies the violence that we see out there. I have five children and I'm worried… we turn on the television and sees only bad things, politically speaking. Things are changing, yes, but still a lot needs to change. That makes me sad, it takes me mad.",
       "sourceTitle": "Anderson Silva talks God, training, Bruce Lee and life after fighting",
-      "text": "I think all we Brazilians are outraged by so many people needing help, education, health. There is nothing that justifies the violence that we see out there. I have five children and I'm worried… we turn on the television and sees only bad things, politically speaking. Things are changing, yes, but still a lot needs to change. That makes me sad, it takes me mad."
+      "sourceUrl": "http://www.lowkickmma.com/UFC/anderson-silva-talks-god-training-bruce-lee-and-life-after-fighting-17132"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lowkickmma.com/UFC/anderson-silva-talks-god-training-bruce-lee-and-life-after-fighting-17132",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "So what's he doing about it? Well, as far as I can tell, he's not condemning Brazilian politicians or looking to run for office himself, but he does volunteer and help fund a school for poor children in Rio de Janeiro.",
       "sourceTitle": "Anderson Silva talks God, training, Bruce Lee and life after fighting",
-      "text": "So what's he doing about it? Well, as far as I can tell, he's not condemning Brazilian politicians or looking to run for office himself, but he does volunteer and help fund a school for poor children in Rio de Janeiro."
+      "sourceUrl": "http://www.lowkickmma.com/UFC/anderson-silva-talks-god-training-bruce-lee-and-life-after-fighting-17132"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "And ultimately, when politics is more about lining the pockets of the already wealthy, that sort of thing is probably the best thing anyone could do."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -33,120 +33,191 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Cesar Millan, full name César Millán Favela, was born in Culiacán, Sinaloa, Mexico. He grew up in Culiacán and Mazatlán, Mexico."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dogster.com/lifestyle/cesar-millan-dog-whispers-on-ghost-whisperer-his-side-of-the-story-day-3#comments",
+      "parentId": 2,
+      "type": "text",
+      "text": "Millan was raised a Catholic.",
       "sourceTitle": "Cesar Millan Dog Whispers on \"Ghost Whisperer\" — His Side of the Story, Day 3",
-      "text": "Millan was raised a Catholic."
+      "sourceUrl": "http://www.dogster.com/lifestyle/cesar-millan-dog-whispers-on-ghost-whisperer-his-side-of-the-story-day-3#comments"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dogster.com/lifestyle/cesar-millan-dog-whispers-on-ghost-whisperer-his-side-of-the-story-day-3#comments",
+      "type": "text",
+      "text": "He describes his upbringing as very devout, and perhaps even a little too devout. Millan's spiritual fixation seems to be a sense of something greater than himself, and not necessarily religion-oriented. He speaks of how his family was more caught up in religion and forgot about spirituality.",
+      "parentId": 2,
       "sourceTitle": "Cesar Millan Dog Whispers on \"Ghost Whisperer\" — His Side of the Story, Day 3",
-      "text": "He describes his upbringing as very devout, and perhaps even a little too devout. Millan's spiritual fixation seems to be a sense of something greater than himself, and not necessarily religion-oriented. He speaks of how his family was more caught up in religion and forgot about spirituality."
+      "sourceUrl": "http://www.dogster.com/lifestyle/cesar-millan-dog-whispers-on-ghost-whisperer-his-side-of-the-story-day-3#comments"
     },
     {
-      "type": "sentence",
-      "text": "Perhaps his views could be best summed up with this quote:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Perhaps his views could be best summed up with this quote:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/author/quotes/5110.Cesar_Millan",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Spiritual fulfillment doesn't have to mean belief in a religion or disbelief in science…. Whether one believes in an unseen, all-knowing force, or the wonder of science and the universe, or simply the beauty of the human spirit, nearly every one of"
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "[us]"
+    },
+    {
+      "type": "text",
+      "text": "feels an inner longing to feel part of something bigger than ourselves.",
+      "parentId": 4,
       "sourceTitle": "Cesar Millan Quotes (Author of Cesar's Way)",
-      "text": "Spiritual fulfillment doesn't have to mean belief in a religion or disbelief in science…. Whether one believes in an unseen, all-knowing force, or the wonder of science and the universe, or simply the beauty of the human spirit, nearly every one of feels an inner longing to feel part of something bigger than ourselves."
+      "sourceUrl": "http://www.goodreads.com/author/quotes/5110.Cesar_Millan"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.beliefnet.com/Video/Eckhart-Tolle/A-Conversation-With-Eckhart-Tolle--Cesar-Millan-Part-2.aspx",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Of course, there's something spiritual about his connection to animals–specifically dogs. And he discussed this spirituality with New Age guru Eckhart Tolle,",
       "sourceTitle": "A Conversations with Eckhart Tolle & Cesar Millan",
-      "text": "Of course, there's something spiritual about his connection to animals–specifically dogs. And he discussed this spirituality with New Age guru Eckhart Tolle,"
+      "sourceUrl": "http://www.beliefnet.com/Video/Eckhart-Tolle/A-Conversation-With-Eckhart-Tolle--Cesar-Millan-Part-2.aspx"
     },
     {
-      "type": "sentence",
-      "text": "where a sort of theory of human completeness emerged. Millan said that his upbringing in Mexico instilled two parts of the complete human into him, and his coming to America gave him the other two:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "where a sort of theory of human completeness emerged. Millan said that his upbringing in Mexico instilled two parts of the complete human into him, and his coming to America gave him the other two:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.beliefnet.com/Video/Eckhart-Tolle/A-Conversation-With-Eckhart-Tolle--Cesar-Millan-Part-2.aspx",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "America pretty much complete[d] me… The four worlds to me is the instinctual world, intellectual world, emotional world, spiritual world. When I came to America, I came with instincts and faith.",
       "sourceTitle": "A Conversations with Eckhart Tolle & Cesar Millan",
-      "text": "America pretty much complete[d] me… The four worlds to me is the instinctual world, intellectual world, emotional world, spiritual world. When I came to America, I came with instincts and faith."
+      "sourceUrl": "http://www.beliefnet.com/Video/Eckhart-Tolle/A-Conversation-With-Eckhart-Tolle--Cesar-Millan-Part-2.aspx"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Living the political debate"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.elle.com/pop-culture/reviews/cesar-millan-the-dog-whisperer-392837",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Millan was an illegal entrant into the United States. He \"jumped the border,\" as he puts it, at the age of 21 in 1991, resided illegally in the U.S. until 2000 when he was granted a residency permit, and in 2009, he became a naturalized U.S. citizen.",
       "sourceTitle": "How Cesar Millan Repaired His Marriage – Interview and Biography",
-      "text": "Millan was an illegal entrant into the United States. He \"jumped the border,\" as he puts it, at the age of 21 in 1991, resided illegally in the U.S. until 2000 when he was granted a residency permit, and in 2009, he became a naturalized U.S. citizen."
+      "sourceUrl": "http://www.elle.com/pop-culture/reviews/cesar-millan-the-dog-whisperer-392837"
     },
     {
-      "type": "sentence",
-      "text": "Naturally, Millan has some views on immigration–which happens to be a hot topic in American politics."
+      "type": "text",
+      "text": "Naturally, Millan has some views on immigration–which happens to be a hot topic in American politics.",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "While I saw no comment on Arizona's anti-immigrant law, SB 1070, Millan did have something to say about public perception of illegal immigrants:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.tbd.com/blogs/tbd-arts/2010/10/-dog-whisperer-cesar-milan-on-lazy-americans-illegal-immigration-and-my-cynophobia-2851.html",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "We don't just come and work for very little. We come and give everything we have. We're working and we're singing. Energy is so important in a job. Americans come to a job, and they're lazy about it. They feel entitled. We don't feel entitled. We feel privileged to be in the country…. We're not getting paid what Americans get paid, and we work more.",
       "sourceTitle": "'Dog Whisperer' Cesar Millan on 'lazy' Americans, illegal immigration and my cynophobia",
-      "text": "We don't just come and work for very little. We come and give everything we have. We're working and we're singing. Energy is so important in a job. Americans come to a job, and they're lazy about it. They feel entitled. We don't feel entitled. We feel privileged to be in the country…. We're not getting paid what Americans get paid, and we work more."
+      "sourceUrl": "http://www.tbd.com/blogs/tbd-arts/2010/10/-dog-whisperer-cesar-milan-on-lazy-americans-illegal-immigration-and-my-cynophobia-2851.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.tbd.com/blogs/tbd-arts/2010/10/-dog-whisperer-cesar-milan-on-lazy-americans-illegal-immigration-and-my-cynophobia-2851.html",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Millan went on to say that a physical wall won't do the trick. And strangely, he asked that the U.S. do more to educate foreigners so that they can successfully run their own countries, thereby relieving any need for them to immigrate.",
       "sourceTitle": "'Dog Whisperer' Cesar Millan on 'lazy' Americans, illegal immigration and my cynophobia",
-      "text": "Millan went on to say that a physical wall won't do the trick. And strangely, he asked that the U.S. do more to educate foreigners so that they can successfully run their own countries, thereby relieving any need for them to immigrate."
+      "sourceUrl": "http://www.tbd.com/blogs/tbd-arts/2010/10/-dog-whisperer-cesar-milan-on-lazy-americans-illegal-immigration-and-my-cynophobia-2851.html"
     },
     {
-      "type": "sentence",
-      "text": "That sounds expensive."
+      "type": "text",
+      "text": "That sounds expensive.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=bP8sDnNasAU",
+      "parentId": 15,
+      "type": "text",
+      "text": "Regardless, this puts Millan on the liberal side of at least one issue. I don't know if he's an Obama supporter, but Millan did try and help the Obama's with their difficult decision of choosing an appropriate dog for the White House.",
       "sourceTitle": "Dog Whisperer Gives Dog Advice to the Obama Family",
-      "text": "Regardless, this puts Millan on the liberal side of at least one issue. I don't know if he's an Obama supporter, but Millan did try and help the Obama's with their difficult decision of choosing an appropriate dog for the White House."
+      "sourceUrl": "http://www.youtube.com/watch?v=bP8sDnNasAU"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cesarsway.com/news/cesarspeaks/Cesars-Message-to-the-Obama-Family",
+      "type": "text",
+      "text": "And once the first family did choose their dog, he sent them a letter with some tips on how to set the tone for their future as dog owners.",
+      "parentId": 15,
       "sourceTitle": "Cesar's Message to the Obama Family",
-      "text": "And once the first family did choose their dog, he sent them a letter with some tips on how to set the tone for their future as dog owners."
+      "sourceUrl": "http://www.cesarsway.com/news/cesarspeaks/Cesars-Message-to-the-Obama-Family"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "I'm sure America's destiny was forever altered."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

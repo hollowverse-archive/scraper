@@ -33,120 +33,211 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Keanu Reeves was born in Beirut, Lebanon to an English mother and an American father. His father left the family when Keanu was quite young and his mother subsequently married four times."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://today.msnbc.msn.com/id/6976128/ns/today-entertainment/t/life-hell-keanu-reeves/#.T2eiAHluDAk",
+      "parentId": 2,
+      "type": "text",
+      "text": "Religion was not much a part of Keanu's life growing up–though he did briefly attend a Catholic school–and it seems to be rather unimportant to this day.",
       "sourceTitle": "Life in hell for Keanu Reeves",
-      "text": "Religion was not much a part of Keanu's life growing up–though he did briefly attend a Catholic school–and it seems to be rather unimportant to this day."
+      "sourceUrl": "http://today.msnbc.msn.com/id/6976128/ns/today-entertainment/t/life-hell-keanu-reeves/#.T2eiAHluDAk"
     },
     {
-      "type": "sentence",
-      "text": "He has said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He has said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.dyslexia-adults.com/a78.htm",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I wasn't raised in any special denominations and I haven't taken on any so far.",
       "sourceTitle": "Keanu Reeves",
-      "text": "I wasn't raised in any special denominations and I haven't taken on any so far."
+      "sourceUrl": "http://www.dyslexia-adults.com/a78.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=P-_CKeO65mg",
-      "sourceTitle": "Discovering Buddhism",
-      "text": "It is widely rumored that Reeves is a Buddhist, especially after he played the Buddha in the film,  He even co-narrated a documentary along with Richard Gere (an outspoken Buddhist) called  where principles, history and theology of the religion are discussed"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "text",
+      "text": "It is widely rumored that Reeves is a Buddhist, especially after he played the Buddha in the film,"
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Little Buddha."
+    },
+    {
+      "type": "text",
+      "text": "He even co-narrated a documentary along with Richard Gere (an outspoken Buddhist) called",
+      "parentId": 5
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Discovering Buddhism"
+    },
+    {
+      "type": "text",
+      "text": "where principles, history and theology of the religion are discussed",
+      "parentId": 5
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Still, Reeves denies any official connection to Buddhism, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.whoaisnotme.net/articles/1994_0611_kea.htm",
-      "sourceTitle": "Keanu Reeves: California Dude is New Action Hero",
-      "text": "I learned that there is no self and no ego involved in Buddhism. I'm not Buddhist, but I certainly learned not to fear death – that death is a part of a new life."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I learned that there is no self and no ego involved in Buddhism. I'm not Buddhist, but I certainly learned not to fear death – that death is a part of a new life.",
+      "sourceTitle": "Keanu Reeves: California Dude is New Action Hero",
+      "sourceUrl": "http://www.whoaisnotme.net/articles/1994_0611_kea.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Well, speaking of an afterlife, Keanu has had something to say about it, though he seems to acknowledge its mystery. Reeves said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://today.msnbc.msn.com/id/6976128/ns/today-entertainment/t/life-hell-keanu-reeves/#.T2eiAHluDAk",
-      "sourceTitle": "Life in hell for Keanu Reeves",
-      "text": "Energy can't be created or destroyed, and energy flows. It must be in a direction, with some kind of internal, emotive, spiritual direction. It must have some effect somewhere…I do think there must be some kind of interaction between your living life and the life that goes on from here."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Energy can't be created or destroyed, and energy flows. It must be in a direction, with some kind of internal, emotive, spiritual direction. It must have some effect somewhere…I do think there must be some kind of interaction between your living life and the life that goes on from here.",
+      "sourceTitle": "Life in hell for Keanu Reeves",
+      "sourceUrl": "http://today.msnbc.msn.com/id/6976128/ns/today-entertainment/t/life-hell-keanu-reeves/#.T2eiAHluDAk"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "All things considered, we're going to put him in the agnostic category."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 13
     },
     {
-      "type": "heading",
+      "parentId": 13,
+      "type": "text",
       "text": "Be excellent to each other"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Reeves seems very non-political. He routinely avoids questions about politics and has never endorsed any platform."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ranker.com/list/the-7-greatest-_true_-keanu-reeves-stories-ever-told/joanne",
+      "parentId": 15,
+      "type": "text",
+      "text": "However, he does seem to be a genuinely caring guy, whether it's giving a $20,000 Christmas present to a poor family he knows",
       "sourceTitle": "The 7 Greatest (True) Keanu Reeves Stories Ever Told",
-      "text": "However, he does seem to be a genuinely caring guy, whether it's giving a $20,000 Christmas present to a poor family he knows"
+      "sourceUrl": "http://www.ranker.com/list/the-7-greatest-_true_-keanu-reeves-stories-ever-told/joanne"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ranker.com/list/the-7-greatest-_true_-keanu-reeves-stories-ever-told/joanne",
+      "type": "text",
+      "text": "or sharing a drink and bumming a cigarette to a homeless man",
+      "parentId": 15,
       "sourceTitle": "The 7 Greatest (True) Keanu Reeves Stories Ever Told",
-      "text": "or sharing a drink and bumming a cigarette to a homeless man"
+      "sourceUrl": "http://www.ranker.com/list/the-7-greatest-_true_-keanu-reeves-stories-ever-told/joanne"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/229-keanu-reeves",
+      "type": "text",
+      "text": "or donating millions to cancer and AIDS research.",
+      "parentId": 15,
       "sourceTitle": "Keanu Reeves",
-      "text": "or donating millions to cancer and AIDS research."
+      "sourceUrl": "http://www.looktothestars.org/celebrity/229-keanu-reeves"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thegreatwarming.com/reviews.html",
+      "parentId": 16,
+      "type": "text",
+      "text": "The one thing that would point to some sort of political affiliation (though it's sort of sad as this issue shouldn't be political, but rather just a given) is that he participated and co-narrated a documentary called"
+    },
+    {
+      "parentId": 16,
+      "type": "emphasis",
+      "text": "The Great Warming"
+    },
+    {
+      "type": "text",
+      "text": "–about the dangers of man-made climate change.",
+      "parentId": 16,
       "sourceTitle": "The Great Warming",
-      "text": "The one thing that would point to some sort of political affiliation (though it's sort of sad as this issue shouldn't be political, but rather just a given) is that he participated and co-narrated a documentary called –about the dangers of man-made climate change."
+      "sourceUrl": "http://www.thegreatwarming.com/reviews.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "For this reason, we're going to plant him in the liberal camp."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -35,146 +35,238 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "James Taylor was born Boston, Massachusetts and grew up in Chapel Hill, North Carolina."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Taylor had little religious upbringing to speak of–other than that he grew up in the south. His father was a doctor and a scientist and Taylor said of him:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://ffrf.org/news/day/dayitems/item/14250-james-taylor",
-      "sourceTitle": "James Taylor.",
-      "text": "Growing up in North Carolina, I missed the boat on most religions. My dad was basically an atheist or at best an agnostic."
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ffrf.org/news/day/dayitems/item/14250-james-taylor",
-      "sourceTitle": "James Taylor.",
-      "text": "Many of his songs–while often wrongly considered to be spiritual in some way or another–are actually more anthems to the opposite. He even called his album, , a series of \"spirituals for agnostics.\""
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jamestaylorweb.com/JTarticles/jtrs73.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "Growing up in North Carolina, I missed the boat on most religions. My dad was basically an atheist or at best an agnostic.",
+      "sourceTitle": "James Taylor.",
+      "sourceUrl": "http://ffrf.org/news/day/dayitems/item/14250-james-taylor"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Many of his songs–while often wrongly considered to be spiritual in some way or another–are actually more anthems to the opposite. He even called his album,"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Hourglass"
+    },
+    {
+      "type": "text",
+      "text": ", a series of \"spirituals for agnostics.\"",
+      "parentId": 5,
+      "sourceTitle": "James Taylor.",
+      "sourceUrl": "http://ffrf.org/news/day/dayitems/item/14250-james-taylor"
+    },
+    {
+      "type": "text",
+      "text": "Many have misinterpreted the line \"look down upon me, Jesus\" in perhaps his biggest hit, \"Fire and Rain,\" to be a Christian tribute. But in fact, Taylor was writing about withdrawals from heroin and saying \"Jesus\" as a response to being in pain.",
+      "parentId": 5,
       "sourceTitle": "James Taylor Article",
-      "text": "Many have misinterpreted the line \"look down upon me, Jesus\" in perhaps his biggest hit, \"Fire and Rain,\" to be a Christian tribute. But in fact, Taylor was writing about withdrawals from heroin and saying \"Jesus\" as a response to being in pain."
+      "sourceUrl": "http://www.jamestaylorweb.com/JTarticles/jtrs73.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "In all, Taylor is an explicitly non-religious person. But that doesn't mean he doesn't feel some spiritual connection. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.jamestaylor.com/mailinglist/archive/archiveNewsletter.aspx?EventId=d29fd956-03cf-4622-95c7-1e5084c05571",
-      "sourceTitle": "News from James Taylor – May/June 2009",
-      "text": "I have a very strong spiritual need. And getting into nature is going to church for me. It's my way of surrendering to the bigger picture, to the whole. I feel the skin of life on the planet as a sort of co-evolved life form… It's my own belief that [nature] is alive, a single organism on this amazing, rare, and perhaps unique planet. I really need to feel that connection."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I have a very strong spiritual need. And getting into nature is going to church for me. It's my way of surrendering to the bigger picture, to the whole. I feel the skin of life on the planet as a sort of co-evolved life form… It's my own belief that [nature] is alive, a single organism on this amazing, rare, and perhaps unique planet. I really need to feel that connection.",
+      "sourceTitle": "News from James Taylor – May/June 2009",
+      "sourceUrl": "http://www.jamestaylor.com/mailinglist/archive/archiveNewsletter.aspx?EventId=d29fd956-03cf-4622-95c7-1e5084c05571"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Taylor seems to express a rather pantheistic worldview with this quote and is by no means an atheist, rather, he just doesn't find what he needs in institutional, organized religions."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "An \"Unabashed Liberal\""
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.charlotteobserver.com/2012/09/03/3498862/jt-a-passionate-voice-shaped-by.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Taylor has dubbed himself an \"unabashed liberal\"",
       "sourceTitle": "James Taylor's N.C. roots shaped 'unabashed liberal.'",
-      "text": "Taylor has dubbed himself an \"unabashed liberal\""
+      "sourceUrl": "http://www.charlotteobserver.com/2012/09/03/3498862/jt-a-passionate-voice-shaped-by.html"
     },
     {
-      "type": "sentence",
-      "text": "and has championed progressive left-leaning politics for most of his career."
+      "type": "text",
+      "text": "and has championed progressive left-leaning politics for most of his career.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Taylor, much like his religious views, credits his political positions to his parents, who were academic progressives during Taylor's childhood. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.charlotteobserver.com/2012/09/03/3498862/jt-a-passionate-voice-shaped-by.html",
-      "sourceTitle": "James Taylor's N.C. roots shaped 'unabashed liberal.'",
-      "text": "My parents' commitment to education and public health – to the civil rights movement – was something I was aware of at a very early age … That kind of altruistic gene is something I'm very proud of. It rubbed off."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "My parents' commitment to education and public health – to the civil rights movement – was something I was aware of at a very early age … That kind of altruistic gene is something I'm very proud of. It rubbed off.",
+      "sourceTitle": "James Taylor's N.C. roots shaped 'unabashed liberal.'",
+      "sourceUrl": "http://www.charlotteobserver.com/2012/09/03/3498862/jt-a-passionate-voice-shaped-by.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "To this day, Taylor is an idealist. He'd rather avoid the nuts and bolts of politics:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/james_taylor.html",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I don't get into heavy political numbers because I don't find them lyrical.",
       "sourceTitle": "James Taylor Quotes",
-      "text": "I don't get into heavy political numbers because I don't find them lyrical."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/james_taylor.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/James_Taylor.php",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "But we'll be happy to get into political numbers. Taylor has, in his lifetime, donated $32,300 to political candidates and causes–all Democrat. Most of that (over $30,000) went to Barack Obama.",
       "sourceTitle": "James Taylor's Federal Campaign Contribution Report",
-      "text": "But we'll be happy to get into political numbers. Taylor has, in his lifetime, donated $32,300 to political candidates and causes–all Democrat. Most of that (over $30,000) went to Barack Obama."
+      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/James_Taylor.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
+      "parentId": 19,
+      "type": "text",
       "text": "Much of this is due to Obama's stance on socialized health care, one of the things Taylor feels strongly about as, again, a result of his father. James' brother, Hugh, said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.charlotteobserver.com/2012/09/03/3498862/jt-a-passionate-voice-shaped-by.html",
+      "id": 20
+    },
+    {
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "Dad promoted socialized medicine back then as a moral calling. That had an impact on James. It did on all of us.",
       "sourceTitle": "James Taylor's N.C. roots shaped 'unabashed liberal.'",
-      "text": "Dad promoted socialized medicine back then as a moral calling. That had an impact on James. It did on all of us."
+      "sourceUrl": "http://www.charlotteobserver.com/2012/09/03/3498862/jt-a-passionate-voice-shaped-by.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.freerepublic.com/focus/f-news/2855398/posts",
+      "type": "paragraph",
+      "id": 22
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "Not only has Taylor financially contributed to the Obama campaign, he's campaigned for him while on tour with his band",
       "sourceTitle": "James Taylor Stumps for Obama, DNC",
-      "text": "Not only has Taylor financially contributed to the Obama campaign, he's campaigned for him while on tour with his band"
+      "sourceUrl": "http://www.freerepublic.com/focus/f-news/2855398/posts"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=30fyy6paGsY",
+      "type": "text",
+      "text": "and played a 16-minute set at the 2012 Democratic National Convention.",
+      "parentId": 22,
       "sourceTitle": "James Taylor's Full Performance at the DNC",
-      "text": "and played a 16-minute set at the 2012 Democratic National Convention."
+      "sourceUrl": "http://www.youtube.com/watch?v=30fyy6paGsY"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 23
     },
     {
-      "type": "sentence",
+      "parentId": 23,
+      "type": "text",
       "text": "Taylor is a gentle soul and quite intelligent, you can tell by his interviews. And it looks like he's applying that idealism to progressive liberalism. My guess for which song Taylor was most proud to sing after Obama won a second term? \"How Sweet it is.\""
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

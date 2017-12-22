@@ -33,123 +33,210 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Lucy Liu was born and raised in Queens, New York though she attended high school in Manhattan."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2011/10/lucy-liu-is-open-to-religion-but-not-a-particular-one/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Liu's parents are both immigrants from China and they are Buddhists.",
       "sourceTitle": "Lucy Liu is Open to Religion, But Not a Particular One",
-      "text": "Liu's parents are both immigrants from China and they are Buddhists."
+      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2011/10/lucy-liu-is-open-to-religion-but-not-a-particular-one/"
     },
     {
-      "type": "sentence",
-      "text": "So naturally, she has experience in that religion. However, it doesn't appear she's still a devout Buddhist. In fact, she's quite eloquent and open-minded when it comes to the many variations of religious belief. She acknowledges pervasive ignorance about religions and encourages education, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "So naturally, she has experience in that religion. However, it doesn't appear she's still a devout Buddhist. In fact, she's quite eloquent and open-minded when it comes to the many variations of religious belief. She acknowledges pervasive ignorance about religions and encourages education, saying:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.contactmusic.com/news/lucy-liu-is-fascinated-by-religion_1249262",
-      "sourceTitle": "Lucy Liu is fascinated by religion",
-      "text": "People malign the Catholic Church for sexual abuse and the discrepancies of wealth, but they just don't know. Or there's the same idea about people being Muslim. If you don't know enough about it, if it's scary and it's the unknown, it creates that enigmatic quality of distance, of disconnect…"
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "People malign the Catholic Church for sexual abuse and the discrepancies of wealth, but they just don't know. Or there's the same idea about people being Muslim. If you don't know enough about it, if it's scary and it's the unknown, it creates that enigmatic quality of distance, of disconnect…",
+      "sourceTitle": "Lucy Liu is fascinated by religion",
+      "sourceUrl": "http://www.contactmusic.com/news/lucy-liu-is-fascinated-by-religion_1249262"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Liu has been tempted by the sirens of Hollywood religion. She has openly admitted to studying Kabbalah, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2011/10/lucy-liu-is-open-to-religion-but-not-a-particular-one/",
-      "sourceTitle": "Lucy Liu is Open to Religion, But Not a Particular One",
-      "text": "It reminds me of Taoism. It's mind over matter, essentially, and I'm fascinated by that."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "It reminds me of Taoism. It's mind over matter, essentially, and I'm fascinated by that.",
+      "sourceTitle": "Lucy Liu is Open to Religion, But Not a Particular One",
+      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2011/10/lucy-liu-is-open-to-religion-but-not-a-particular-one/"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "And she has defended against misconceptions about Scientology:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2011/10/lucy-liu-is-open-to-religion-but-not-a-particular-one/",
-      "sourceTitle": "Lucy Liu is Open to Religion, But Not a Particular One",
-      "text": "I think it's unfortunate when people are against something that can bring so much guidance for people… I [only] know a little bit about it – but if it helps someone become less addicted to something, or not addicted, or if it helps someone recover from abuse, you can never say it's bad."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I think it's unfortunate when people are against something that can bring so much guidance for people… I [only] know a little bit about it – but if it helps someone become less addicted to something, or not addicted, or if it helps someone recover from abuse, you can never say it's bad.",
+      "sourceTitle": "Lucy Liu is Open to Religion, But Not a Particular One",
+      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2011/10/lucy-liu-is-open-to-religion-but-not-a-particular-one/"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "None of this really helps us discern exactly what Liu's personal beliefs are. But if I was to speculate, I would say she views religion from a distance–an intellectual curiosity and something of use to many members of society–just not her."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "Hollywood, with a twist"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/lucy-liu",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Liu is among the camp of celebrities who feel they shouldn't wear their political affiliations on their sleeve. Rather, she feels that celebrities should focus their social-improvement efforts on non-partisan charities, which she does.",
       "sourceTitle": "Lucy Liu's Charities, Events, and Causes",
-      "text": "Liu is among the camp of celebrities who feel they shouldn't wear their political affiliations on their sleeve. Rather, she feels that celebrities should focus their social-improvement efforts on non-partisan charities, which she does."
+      "sourceUrl": "http://www.looktothestars.org/celebrity/lucy-liu"
     },
     {
-      "type": "sentence",
-      "text": "She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She said:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.starpulse.com/news/index.php/2006/04/10/charity_not_politics_is_lucy_liu_s_focus",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "When you are in the public eye you do have the ability to make a difference. I have my own opinion about party politics, but my main focus is for children. It's hard not to rattle off my opinions, but if you focus on too much you can't get anything done.",
       "sourceTitle": "Charity, Not Politics, Is Lucy Liu's Focus",
-      "text": "When you are in the public eye you do have the ability to make a difference. I have my own opinion about party politics, but my main focus is for children. It's hard not to rattle off my opinions, but if you focus on too much you can't get anything done."
+      "sourceUrl": "http://www.starpulse.com/news/index.php/2006/04/10/charity_not_politics_is_lucy_liu_s_focus"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Lucy_Liu.php",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "However, I guess she just can't help it because her political affiliations are really not that difficult to find. For example, her campaign contributions, totaling more than $5,000 have all gone to Democrats.",
       "sourceTitle": "Lucy Liu's Federal Campaign Contribution Report",
-      "text": "However, I guess she just can't help it because her political affiliations are really not that difficult to find. For example, her campaign contributions, totaling more than $5,000 have all gone to Democrats."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Lucy_Liu.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newser.com/story/35530/stars-come-out-for-obama.html",
+      "type": "text",
+      "text": "And she attended an Obama fundraising gala in Beverly Hills in 2008.",
+      "parentId": 16,
       "sourceTitle": "Stars Come Out for Obama – Fete raises $200K with $2,300 tix",
-      "text": "And she attended an Obama fundraising gala in Beverly Hills in 2008."
+      "sourceUrl": "http://www.newser.com/story/35530/stars-come-out-for-obama.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "text": "Furthermore, she supports marriage equality and even made a  in hopes of convincing citizens of New York state to vote for the legalization of gay marriage. She said:"
+      "parentId": 17,
+      "type": "text",
+      "text": "Furthermore, she supports marriage equality and even made a"
     },
     {
-      "type": "break"
+      "parentId": 17,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.hrc.org/videos/category/c/videos-lucy-liu-for-hrcs-new-yorkers-for-marriage-equality#.UP2QC-gZ-Bg"
+    },
+    {
+      "type": "text",
+      "text": "in hopes of convincing citizens of New York state to vote for the legalization of gay marriage. She said:",
+      "parentId": 17
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.hrc.org/videos/category/c/videos-lucy-liu-for-hrcs-new-yorkers-for-marriage-equality#.UP2QC-gZ-Bg",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "New York has always been about diversity and acceptance. Please join me in supporting marriage equality for all New Yorkers.",
       "sourceTitle": "Videos",
-      "text": "New York has always been about diversity and acceptance. Please join me in supporting marriage equality for all New Yorkers."
+      "sourceUrl": "http://www.hrc.org/videos/category/c/videos-lucy-liu-for-hrcs-new-yorkers-for-marriage-equality#.UP2QC-gZ-Bg"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2011/06/25/nyregion/gay-marriage-approved-by-new-york-senate.html?pagewanted=all&_r=0",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "I guess it worked, because in June of 2011, the state passed a law making gay marriage legal.",
       "sourceTitle": "New York Allows Same-Sex Marriage, Becoming Largest State to Pass Law",
-      "text": "I guess it worked, because in June of 2011, the state passed a law making gay marriage legal."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.nytimes.com/2011/06/25/nyregion/gay-marriage-approved-by-new-york-senate.html?pagewanted=all&_r=0"
     }
   ],
   "wikipediaData": {

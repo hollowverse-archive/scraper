@@ -30,117 +30,174 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kareena Kapoor was born and raised in Mumbai, India."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://indiatoday.intoday.in/story/saif-ali-khan-kareena-kapoor-wedding-illegal/1/225285.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Kapoor is a Hindu.",
       "sourceTitle": "Darul Uloom Deoband at it again, call Saifeena marriage illegal",
-      "text": "Kapoor is a Hindu."
+      "sourceUrl": "http://indiatoday.intoday.in/story/saif-ali-khan-kareena-kapoor-wedding-illegal/1/225285.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://timesofindia.indiatimes.com/videos/celebs/I-want-a-Hindu-wedding-Kareena-Kapoor/videoshow/10088036.cms",
+      "type": "text",
+      "text": "She doesn't seem particularly devout, admitting that she doesn't \"know what they mean when they say all the kind of mantras and stuff like that\" but she finds the ritual and ceremony of it all \"beautiful.\"",
+      "parentId": 2,
       "sourceTitle": "I want a Hindu wedding – Kareena Kappor",
-      "text": "She doesn't seem particularly devout, admitting that she doesn't \"know what they mean when they say all the kind of mantras and stuff like that\" but she finds the ritual and ceremony of it all \"beautiful.\""
+      "sourceUrl": "http://timesofindia.indiatimes.com/videos/celebs/I-want-a-Hindu-wedding-Kareena-Kapoor/videoshow/10088036.cms"
     },
     {
-      "type": "sentence",
-      "text": "Still, she's not completely without spirituality:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Still, she's not completely without spirituality:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0004626/bio",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Life is full of happiness and tears, be strong and have faith.",
       "sourceTitle": "Kareena Kapoor – Biography",
-      "text": "Life is full of happiness and tears, be strong and have faith."
+      "sourceUrl": "http://www.imdb.com/name/nm0004626/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.weeklyblitz.net/2586/bollywood-actress-kareena-kapoor-embracing-islam",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "There was significant media activity surrounding Kapoor's religion during the build-up to her wedding with Muslim Bollywood actor, Saif Ali Khan. Rumors flew that she would convert to Islam for him.",
       "sourceTitle": "Bollywood actress Kareena Kapoor embracing Islam",
-      "text": "There was significant media activity surrounding Kapoor's religion during the build-up to her wedding with Muslim Bollywood actor, Saif Ali Khan. Rumors flew that she would convert to Islam for him."
+      "sourceUrl": "http://www.weeklyblitz.net/2586/bollywood-actress-kareena-kapoor-embracing-islam"
     },
     {
-      "type": "sentence",
-      "text": "But this was completely untrue and even her husband-to-be, in a show of secularism, expressed that he didn't think it was at all necessary for her to do so. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But this was completely untrue and even her husband-to-be, in a show of secularism, expressed that he didn't think it was at all necessary for her to do so. He said:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.hindustantimes.com/Specials/Entertainment/Saif-Kareena/Chunk-HT-UI-SaifKareenaMarriage-TopStories/A-to-Z-of-Saifeena-wedding/SP-Article10-944151.aspx",
-      "sourceTitle": "A to Z of Saifeena wedding",
-      "text": "I would never want her to change her religion. That is the trouble with religion really… it expects conversion. If and when we do get married, no one has to change his or her religion."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I would never want her to change her religion. That is the trouble with religion really… it expects conversion. If and when we do get married, no one has to change his or her religion.",
+      "sourceTitle": "A to Z of Saifeena wedding",
+      "sourceUrl": "http://www.hindustantimes.com/Specials/Entertainment/Saif-Kareena/Chunk-HT-UI-SaifKareenaMarriage-TopStories/A-to-Z-of-Saifeena-wedding/SP-Article10-944151.aspx"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "However, not everyone was so accepting. After the wedding, the center of Indian Muslim scholarship, the Darul Uloom Deoband Muslim school released this statement:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://indiatoday.intoday.in/story/saif-ali-khan-kareena-kapoor-wedding-illegal/1/225285.html",
-      "sourceTitle": "Darul Uloom Deoband at it again, call Saifeena marriage illegal",
-      "text": "The marriage is illegal if Kareena is still a Hindu. Going by the Shariah, we cannot accept that they are husband and wife even if they got their marriage registered with the registrar of marriage."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "The marriage is illegal if Kareena is still a Hindu. Going by the Shariah, we cannot accept that they are husband and wife even if they got their marriage registered with the registrar of marriage.",
+      "sourceTitle": "Darul Uloom Deoband at it again, call Saifeena marriage illegal",
+      "sourceUrl": "http://indiatoday.intoday.in/story/saif-ali-khan-kareena-kapoor-wedding-illegal/1/225285.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "It doesn't seem like much of anyone cared, though."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "Film politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.digitalspy.com/bollywood/news/a445036/kareena-kapoor-forced-to-research-for-satyagraha-role-as-journalist.html",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Kapoor doesn't seem particularly political. At the writing of this article, Kapoor has been asked to bone up on Indian contemporary politics for a film role she will be doing of a hard-hitting political journalist,",
       "sourceTitle": "Kareena Kapoor forced to research for 'Satyagraha' role as journalist?",
-      "text": "Kapoor doesn't seem particularly political. At the writing of this article, Kapoor has been asked to bone up on Indian contemporary politics for a film role she will be doing of a hard-hitting political journalist,"
+      "sourceUrl": "http://www.digitalspy.com/bollywood/news/a445036/kareena-kapoor-forced-to-research-for-satyagraha-role-as-journalist.html"
     },
     {
-      "type": "sentence",
-      "text": "so perhaps a passion for politics will be awakened within her during the process."
+      "type": "text",
+      "text": "so perhaps a passion for politics will be awakened within her during the process.",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ndtv.com/video/player/news/greenathon-kareena-kapoor-adopts-chanderi-village/131380",
+      "parentId": 14,
+      "type": "text",
+      "text": "For now, we have to settle for Kapoor's passing interest in environmentalism. She's particularly concerned with litter and, to help combat the amount of plastic trash that has built up in India, she and her sister launched an organic vegetable bag in hopes that it will become India's premier shopping receptacle.",
       "sourceTitle": "Greenathon: Kareena Kappor adopts Chanderi village",
-      "text": "For now, we have to settle for Kapoor's passing interest in environmentalism. She's particularly concerned with litter and, to help combat the amount of plastic trash that has built up in India, she and her sister launched an organic vegetable bag in hopes that it will become India's premier shopping receptacle."
+      "sourceUrl": "http://www.ndtv.com/video/player/news/greenathon-kareena-kapoor-adopts-chanderi-village/131380"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hindustantimes.com/Specials/Entertainment/Saif-Kareena/Chunk-HT-UI-SaifKareenaMarriage-TopStories/Kareena-Saif-Delhi-reception-Politicos-Bollywood-stars-come-calling/SP-Article10-946956.aspx",
+      "parentId": 15,
+      "type": "text",
+      "text": "Plus, she's just so famous in India that some of the top politicians attended her wedding reception.",
       "sourceTitle": "Kareen-Saif Delhi reception: Politicos, Bollywood stars come calling",
-      "text": "Plus, she's just so famous in India that some of the top politicians attended her wedding reception."
+      "sourceUrl": "http://www.hindustantimes.com/Specials/Entertainment/Saif-Kareena/Chunk-HT-UI-SaifKareenaMarriage-TopStories/Kareena-Saif-Delhi-reception-Politicos-Bollywood-stars-come-calling/SP-Article10-946956.aspx"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "For fun, we'll call it the Bollywood lobby."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

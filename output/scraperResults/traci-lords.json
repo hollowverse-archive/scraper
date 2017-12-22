@@ -37,89 +37,141 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Traci Lords, born Nora Louise Kuzma, was born in Steubenville, Ohio and grew up there, in Lawndale, California and in Rodondo Beach, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Lords didn't have much of a religious upbringing. In fact, religion doesn't seem to have played much, if any, role in her life until she was set to get married at the age of 23. Her groom-to-be wanted a religious ceremony, so Lords had to get baptized. She says of the experience:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://books.google.com/books?id=-hTz_mt3vIQC&pg=PA201&lpg=PA201&dq=Traci+Lords+religion&source=bl&ots=a6C-FFUC8B&sig=JC3cJhBUA5SENTZPouzOitIUAVk&hl=en&sa=X&ei=K6JDUbvqAoGhqgGb0IDwAg&ved=0CEEQ6AEwAg#v=onepage&q=Traci%20Lords%20religion&f=false",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I'd had little experience with organized religion in my twenty-three years on the planet and I didn't know how I felt about this ritual. But I was comforted by the warmth in the room… [but] I was sure of one thing: I believed in love, and God was said to be just that.",
       "sourceTitle": "Traci Lords: Underneath it All by Traci Lords",
-      "text": "I'd had little experience with organized religion in my twenty-three years on the planet and I didn't know how I felt about this ritual. But I was comforted by the warmth in the room… [but] I was sure of one thing: I believed in love, and God was said to be just that."
+      "sourceUrl": "http://books.google.com/books?id=-hTz_mt3vIQC&pg=PA201&lpg=PA201&dq=Traci+Lords+religion&source=bl&ots=a6C-FFUC8B&sig=JC3cJhBUA5SENTZPouzOitIUAVk&hl=en&sa=X&ei=K6JDUbvqAoGhqgGb0IDwAg&ved=0CEEQ6AEwAg#v=onepage&q=Traci%20Lords%20religion&f=false"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nydailynews.com/news/national/ex-porn-star-lords-raped-steubenville-article-1.1289435",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "It is a beautifully innocent sentiment from a woman who, by this point in her life, had lived a uniquely scandalous life, having survived rape",
       "sourceTitle": "Ex-Porn Star Traci Lords talks of childhood rape in Steubenville when she was 10-years old",
-      "text": "It is a beautifully innocent sentiment from a woman who, by this point in her life, had lived a uniquely scandalous life, having survived rape"
+      "sourceUrl": "http://www.nydailynews.com/news/national/ex-porn-star-lords-raped-steubenville-article-1.1289435"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.yourememberthat.com/media/13016/Traci_Lords_Scandal_1986/#.UUOkV1tASg0",
+      "type": "text",
+      "text": "as well as dominated, then scandalized,",
+      "parentId": 5,
       "sourceTitle": "Traci Lords Scandal 1986",
-      "text": "as well as dominated, then scandalized,"
+      "sourceUrl": "http://www.yourememberthat.com/media/13016/Traci_Lords_Scandal_1986/#.UUOkV1tASg0"
     },
     {
-      "type": "sentence",
-      "text": "then retired from the porn industry."
+      "type": "text",
+      "text": "then retired from the porn industry.",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.windycitymediagroup.com/lgbt/Traci-Lords-On-John-Waters-her-name-and-new-song/36949.html",
+      "parentId": 6,
+      "type": "text",
+      "text": "However, not much seems to have popped up since then regarding Lords' religious views. She did, however, star in a much-talked-about film called"
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "Excision"
+    },
+    {
+      "type": "text",
+      "text": ", in which she played a hyper-religious, overbearing mother.",
+      "parentId": 6,
       "sourceTitle": "Traci Lords: On John Waters, her name and her new song",
-      "text": "However, not much seems to have popped up since then regarding Lords' religious views. She did, however, star in a much-talked-about film called , in which she played a hyper-religious, overbearing mother."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.windycitymediagroup.com/lgbt/Traci-Lords-On-John-Waters-her-name-and-new-song/36949.html"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Sex and Republican money"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Traci_Lords.php",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "The tidbits of information that exist about Lords' political views/involvement paint a somewhat contradictory picture. In 2004–the heart of the Bush years–Lords made her one and only financial political contribution. It was $300 to the Republican National Committee.",
       "sourceTitle": "Traci Lords's Federal Campaign Contribution Report",
-      "text": "The tidbits of information that exist about Lords' political views/involvement paint a somewhat contradictory picture. In 2004–the heart of the Bush years–Lords made her one and only financial political contribution. It was $300 to the Republican National Committee."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Traci_Lords.php"
     },
     {
-      "type": "sentence",
-      "text": "Interesting, yes? Perhaps, like Jenna Jameson, she likes the Republican approach to taxes."
+      "type": "text",
+      "text": "Interesting, yes? Perhaps, like Jenna Jameson, she likes the Republican approach to taxes.",
+      "parentId": 8
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "However, it does seem to conflict with her gay rights activism. Lords is known for her support of gay rights. She summed up her views and the reasons for them quite succinctly:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://lgbtweekly.com/2011/10/27/traci-lords-over-dance-floors/",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I do not believe that people should be judged by their sexuality. Some of my dearest friends are gay and I hate the ways they suffer. It's wrong. I witnessed a close friend die of AIDS in the nineties and his partner was denied all access to him in the hospital. That's what started my activism.",
       "sourceTitle": "Traci Lords over dance floors",
-      "text": "I do not believe that people should be judged by their sexuality. Some of my dearest friends are gay and I hate the ways they suffer. It's wrong. I witnessed a close friend die of AIDS in the nineties and his partner was denied all access to him in the hospital. That's what started my activism."
+      "sourceUrl": "http://lgbtweekly.com/2011/10/27/traci-lords-over-dance-floors/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "My guess is she couldn't agree with the right's stance on social issues, but likes something about either their foreign or economic policies. What do you readers think?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

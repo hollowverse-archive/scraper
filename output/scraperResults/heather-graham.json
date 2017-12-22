@@ -37,121 +37,198 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Heather Graham was born in Milwaukee, Wisconsin and grew up in Agoura Hills, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.irishcentral.com/ent/Heather-Graham-and-The-Hangover-boys-hit-up-Dublin-48488077.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Graham is mostly of Irish descent,",
       "sourceTitle": "Heather Graham and 'The Hangover' Boys Hit Up Dublin",
-      "text": "Graham is mostly of Irish descent,"
+      "sourceUrl": "http://www.irishcentral.com/ent/Heather-Graham-and-The-Hangover-boys-hit-up-Dublin-48488077.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.parentdish.com/2007/07/26/heather-grahams-parents-think-shes-a-porn-star/",
+      "type": "text",
+      "text": "so naturally she was raised a Catholic, and reports confirm that her upbringing was quite strict.",
+      "parentId": 2,
       "sourceTitle": "Heather Graham's parents think she's a porn star",
-      "text": "so naturally she was raised a Catholic, and reports confirm that her upbringing was quite strict."
+      "sourceUrl": "http://www.parentdish.com/2007/07/26/heather-grahams-parents-think-shes-a-porn-star/"
     },
     {
-      "type": "sentence",
-      "text": "In fact, her parents once threatened to send her to a convent because, as it turns out, she isn't the most devout Catholic girl:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "In fact, her parents once threatened to send her to a convent because, as it turns out, she isn't the most devout Catholic girl:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.dailymail.co.uk/home/moslive/article-1190612/Heather-Graham-good-Catholic-girl-way-Madonna-is.html",
-      "sourceTitle": "Heather Graham on being a good Catholic girl (in the way Madonna is)",
-      "text": "I'd have made a terrible nun. I'm a good Catholic girl in the way that Madonna is. In the sense that I'm not that good at all. If the church is having a hard time recruiting nuns, I'd make an ideal poster girl. 'Become a nun or else end up like her!'"
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.parentdish.com/2007/07/26/heather-grahams-parents-think-shes-a-porn-star/",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I'd have made a terrible nun. I'm a good Catholic girl in the way that Madonna is. In the sense that I'm not that good at all. If the church is having a hard time recruiting nuns, I'd make an ideal poster girl. 'Become a nun or else end up like her!'",
+      "sourceTitle": "Heather Graham on being a good Catholic girl (in the way Madonna is)",
+      "sourceUrl": "http://www.dailymail.co.uk/home/moslive/article-1190612/Heather-Graham-good-Catholic-girl-way-Madonna-is.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "So devout are Graham's parents that they even severed contact with her after she played a stripper in the film,"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Boogie Nights"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 5,
       "sourceTitle": "Heather Graham's parents think she's a porn star",
-      "text": "So devout are Graham's parents that they even severed contact with her after she played a stripper in the film, ."
+      "sourceUrl": "http://www.parentdish.com/2007/07/26/heather-grahams-parents-think-shes-a-porn-star/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/home/moslive/article-1190612/Heather-Graham-good-Catholic-girl-way-Madonna-is.html",
+      "parentId": 6,
+      "type": "text",
+      "text": "Clearly she's no longer a good Catholic girl, and might have replaced that gap with some vaguely Eastern practices, such as tantric sex therapy",
       "sourceTitle": "Heather Graham on being a good Catholic girl (in the way Madonna is)",
-      "text": "Clearly she's no longer a good Catholic girl, and might have replaced that gap with some vaguely Eastern practices, such as tantric sex therapy"
+      "sourceUrl": "http://www.dailymail.co.uk/home/moslive/article-1190612/Heather-Graham-good-Catholic-girl-way-Madonna-is.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0001287/bio",
+      "type": "text",
+      "text": "and Transcendental Meditation, which, when she appeared on the cover of",
+      "parentId": 6
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "Time"
+    },
+    {
+      "type": "text",
+      "text": "magazine, she was pictured practicing.",
+      "parentId": 6,
       "sourceTitle": "Heather Graham (I) – Biography",
-      "text": "and Transcendental Meditation, which, when she appeared on the cover of magazine, she was pictured practicing."
+      "sourceUrl": "http://www.imdb.com/name/nm0001287/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "But, for our purposes, lapsed Catholic."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Far into left field"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Politically, like religiously, Graham has bucked the traditions of her family. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.metroweekly.com/feature/?ak=2576",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I… [grew] up in a conservative family and feeling that I was much more liberal-minded… Maybe that's why I had to learn how to love and accept myself as I was, not as they wanted me to be.",
       "sourceTitle": "Gray Areas: Alan Cumming and Heather Graham on sex, politics, lesbian chic and their new movie 'Gray Matters.'",
-      "text": "I… [grew] up in a conservative family and feeling that I was much more liberal-minded… Maybe that's why I had to learn how to love and accept myself as I was, not as they wanted me to be."
+      "sourceUrl": "http://www.metroweekly.com/feature/?ak=2576"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2010/02/23/heather-graham-stars-in-m_n_473101.html",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "But to say \"more liberal-minded\" is a bit of an understatement. She did a PSA for MoveOn.org, one of America's most explicitly liberal organizations. The PSA was meant to encourage support for the \"public option,\" a term referring to the push toward American socialized healthcare.",
       "sourceTitle": "Heather Graham Stars in MoveOn Public Option Ad",
-      "text": "But to say \"more liberal-minded\" is a bit of an understatement. She did a PSA for MoveOn.org, one of America's most explicitly liberal organizations. The PSA was meant to encourage support for the \"public option,\" a term referring to the push toward American socialized healthcare."
+      "sourceUrl": "http://www.huffingtonpost.com/2010/02/23/heather-graham-stars-in-m_n_473101.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Plus, she's got a gay rights agenda and has her environmental concerns–both liberal staple issues:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.metroweekly.com/feature/?ak=2576",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Global warming is really disturbing, and I wish we were taking better care of our environment, our planet. Gay rights — it's crazy that we're trying to regulate people. It's so stupid.",
       "sourceTitle": "Gray Areas: Alan Cumming and Heather Graham on sex, politics, lesbian chic and their new movie 'Gray Matters.'",
-      "text": "Global warming is really disturbing, and I wish we were taking better care of our environment, our planet. Gay rights — it's crazy that we're trying to regulate people. It's so stupid."
+      "sourceUrl": "http://www.metroweekly.com/feature/?ak=2576"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dnaindia.com/entertainment/report_heather-graham-says-she-helped-obama-become-president-through-witchcraft_1318326",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "And, naturally, she's an Obama supporter, who she claims to have helped win office in 2008 by sending out \"positive energies.\"",
       "sourceTitle": "Heather Graham says she helped Obama become president through witchcraft",
-      "text": "And, naturally, she's an Obama supporter, who she claims to have helped win office in 2008 by sending out \"positive energies.\""
+      "sourceUrl": "http://www.dnaindia.com/entertainment/report_heather-graham-says-she-helped-obama-become-president-through-witchcraft_1318326"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/fec/bystate_detail.php?st=NY&last=Graham&first=Heather",
+      "type": "text",
+      "text": "However, I would venture a guess that the $1,000 check she sent his campaign probably did a little more good.",
+      "parentId": 16,
       "sourceTitle": "Heather Graham's federal campaign search results",
-      "text": "However, I would venture a guess that the $1,000 check she sent his campaign probably did a little more good."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.newsmeat.com/fec/bystate_detail.php?st=NY&last=Graham&first=Heather"
     }
   ],
   "wikipediaData": {

@@ -31,86 +31,149 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Carly Rae Jepsen was born and raised in Mission, British Columbia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://popcrush.com/carly-rae-jepsen-believe-tour-justin-bieber/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Jepsen isn't religious, maybe. She has not spoken about religion, spirituality, or faith to the press since she rocketed up to fame in 2012 with her single, \"Call Me, Maybe.\" She is, however, going on the \"Believe\" tour with the ultra-Christian Justin Bieber,",
       "sourceTitle": "Carly Rae Jepsen Gears Up for Believe Tour With Justin Bieber.",
-      "text": "Jepsen isn't religious, maybe. She has not spoken about religion, spirituality, or faith to the press since she rocketed up to fame in 2012 with her single, \"Call Me, Maybe.\" She is, however, going on the \"Believe\" tour with the ultra-Christian Justin Bieber,"
+      "sourceUrl": "http://popcrush.com/carly-rae-jepsen-believe-tour-justin-bieber/"
     },
     {
-      "type": "sentence",
-      "text": "so maybe she has more in common with him than she lets on."
+      "type": "text",
+      "text": "so maybe she has more in common with him than she lets on.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://christwire.org/2012/06/did-carly-rae-jepsen-hide-evil-messages-in-call-me-maybe/",
+      "parentId": 3,
+      "type": "text",
+      "text": "Although there are a handful of crazies out there who seem to think Jepsen is involved in Satanism, witchcraft, sorcery, and even the Illuminati, we can be pretty sure that this bubblegum pop star isn't holding séances in her basement in between shows.",
       "sourceTitle": "Did Carly Rae Jepsen Hide Evil Messages in \"Call Me Maybe\"?",
-      "text": "Although there are a handful of crazies out there who seem to think Jepsen is involved in Satanism, witchcraft, sorcery, and even the Illuminati, we can be pretty sure that this bubblegum pop star isn't holding séances in her basement in between shows."
+      "sourceUrl": "http://christwire.org/2012/06/did-carly-rae-jepsen-hide-evil-messages-in-call-me-maybe/"
     },
     {
-      "type": "sentence",
-      "text": "Or is she? The line, \"I'd trade my soul for a wish,\" from her big hit does seem like a pretty obvious indication that she's sold her soul to the devil in exchange for great fame and wealth."
+      "type": "text",
+      "text": "Or is she? The line, \"I'd trade my soul for a wish,\" from her big hit does seem like a pretty obvious indication that she's sold her soul to the devil in exchange for great fame and wealth.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "And apparently that little exchange paid off. You know you're at the top when even President Obama admits to hearing your catchy single…or at least one version of it."
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 5
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.nytimes.com/2012/08/22/business/media/how-call-me-maybe-and-social-media-are-upending-music.html",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I have to admit, I've never actually heard the original version of the song. I saw"
+    },
+    {
+      "parentId": 6,
+      "type": "link",
+      "text": "this version",
+      "sourceUrl": "http://www.youtube.com/watch?v=hX1YVzdnpEc"
+    },
+    {
+      "type": "text",
+      "text": "where they spliced up me from a whole bunch of different speeches that I made. They kind of mashed together an Obama version of it.",
+      "parentId": 6,
       "sourceTitle": "How 'Call Me Maybe' and Social Media Are Upending Music.",
-      "text": "I have to admit, I've never actually heard the original version of the song. I saw  where they spliced up me from a whole bunch of different speeches that I made. They kind of mashed together an Obama version of it."
+      "sourceUrl": "http://www.nytimes.com/2012/08/22/business/media/how-call-me-maybe-and-social-media-are-upending-music.html"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "The new face of gay rights?"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://entertainment.time.com/2012/05/18/carly-rae-jepsen-on-gay-rights-call-me-maybe-and-singing-with-dreamy-john-mayer/",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Jepsen hasn't endorsed a political party openly, but as an avid supporter of gay rights, she's most likely in the liberal camp. In the"
+    },
+    {
+      "parentId": 8,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.youtube.com/watch?v=fWNaR-rxAic"
+    },
+    {
+      "type": "text",
+      "text": "from her big hit, she tries to give her number to a cute guy, but he ends up giving his number to one of her male band-mates instead. Although the ending was her producer's idea, not hers,",
+      "parentId": 8,
       "sourceTitle": "Q&A with 'Call Me Maybe' Singer Carly Rae Jepsen.",
-      "text": "Jepsen hasn't endorsed a political party openly, but as an avid supporter of gay rights, she's most likely in the liberal camp. In the  from her big hit, she tries to give her number to a cute guy, but he ends up giving his number to one of her male band-mates instead. Although the ending was her producer's idea, not hers,"
+      "sourceUrl": "http://entertainment.time.com/2012/05/18/carly-rae-jepsen-on-gay-rights-call-me-maybe-and-singing-with-dreamy-john-mayer/"
     },
     {
-      "type": "sentence",
-      "text": "she was all for it."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "she was all for it.",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://entertainment.time.com/2012/05/18/carly-rae-jepsen-on-gay-rights-call-me-maybe-and-singing-with-dreamy-john-mayer/",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "You know, acceptance has never even been a question to me. I've grown up knowing it's just the way things should be. When we shot the \"Call Me Maybe\" video, we weren't even thinking the ending was not normal. I have so many gay friends that I love. It's a regular thing. And if my video is encouraging that mind frame with other children and other people — well, it's about time, I guess!",
       "sourceTitle": "Q&A with 'Call Me Maybe' Singer Carly Rae Jepsen.",
-      "text": "You know, acceptance has never even been a question to me. I've grown up knowing it's just the way things should be. When we shot the \"Call Me Maybe\" video, we weren't even thinking the ending was not normal. I have so many gay friends that I love. It's a regular thing. And if my video is encouraging that mind frame with other children and other people — well, it's about time, I guess!"
+      "sourceUrl": "http://entertainment.time.com/2012/05/18/carly-rae-jepsen-on-gay-rights-call-me-maybe-and-singing-with-dreamy-john-mayer/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/ben-harvey/carly-rae-jepsen-post-gay-pop-princess_b_1639406.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "The absence of negative reaction to the video even prompted one columnist to claim Jepsen \"accomplished more for the gay community than some gay-rights organizations have been able to do in years.\"",
       "sourceTitle": "Carly Rae Jepsen: Post-Gay Pop Princess?.",
-      "text": "The absence of negative reaction to the video even prompted one columnist to claim Jepsen \"accomplished more for the gay community than some gay-rights organizations have been able to do in years.\""
+      "sourceUrl": "http://www.huffingtonpost.com/ben-harvey/carly-rae-jepsen-post-gay-pop-princess_b_1639406.html"
     },
     {
-      "type": "sentence",
-      "text": "That might be a stretch, but it's at least refreshing that the existence of gay people doesn't publicly outrage conservatives anymore. What do you think? The pop princess as the new face of gay rights?"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "That might be a stretch, but it's at least refreshing that the existence of gay people doesn't publicly outrage conservatives anymore. What do you think? The pop princess as the new face of gay rights?",
+      "parentId": 11
     }
   ],
   "wikipediaData": {

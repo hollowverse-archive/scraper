@@ -34,111 +34,185 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Britney Spears was born and raised a southern girl in Kentwood, Louisiana."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.foxnews.com/story/0,2933,195283,00.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Her childhood religion was Southern Baptist and, like most of the Disney-sponsored, Mickey Mouse Club singers like Christina Aguilera, Miley Cyrus, Demi Lovato, and the Jonas Brothers, Spears began a good girl, preaching the importance of abstinence before marriage, though quickly rising to stardom with sexually-charged music, videos, and photo shoots. She later admitted to having sex with Justin Timberlake–even though they weren't married. Oops..",
       "sourceTitle": "Britney Spears Biography",
-      "text": "Her childhood religion was Southern Baptist and, like most of the Disney-sponsored, Mickey Mouse Club singers like Christina Aguilera, Miley Cyrus, Demi Lovato, and the Jonas Brothers, Spears began a good girl, preaching the importance of abstinence before marriage, though quickly rising to stardom with sexually-charged music, videos, and photo shoots. She later admitted to having sex with Justin Timberlake–even though they weren't married. Oops.."
+      "sourceUrl": "http://www.foxnews.com/story/0,2933,195283,00.html"
     },
     {
-      "type": "sentence",
-      "text": "She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.people.com/people/article/0,,626416,00.html",
-      "sourceTitle": "She's Had Sex",
-      "text": "It was two years into my relationship with Justin, and I thought he was the one. But I was wrong!"
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "It was two years into my relationship with Justin, and I thought he was the one. But I was wrong!",
+      "sourceTitle": "She's Had Sex",
+      "sourceUrl": "http://www.people.com/people/article/0,,626416,00.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Britney has spoken of her childhood religion, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.britneyspears.bz/bp/quotes/whoiamquotes.shtml",
-      "sourceTitle": "Who I Am Quotes",
-      "text": "I'm a Baptist. I grew up going to church, but I think you can have spiritual experiences without going to church."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I'm a Baptist. I grew up going to church, but I think you can have spiritual experiences without going to church.",
+      "sourceTitle": "Who I Am Quotes",
+      "sourceUrl": "http://www.britneyspears.bz/bp/quotes/whoiamquotes.shtml"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Could this be taken as a sign that Spears was losing faith in her Baptist roots? Maybe. The singer, who later became a protege of Madonna's, also adopted her religion, Kabbalah, and has since become one of Kabbalah's most famous practitioners. Spears said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.religionfacts.com/celebrities/quotes.htm",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I read the Kabbalah books and I meditate on them … They are all in Hebrew. I don't understand everything. But it's kind of OK that you don't. … Kevin [Federline, then husband] isn't into it as intensely as I am. For some reason I'm thirsting for it.",
       "sourceTitle": "Celebrity Quotes on Religion",
-      "text": "I read the Kabbalah books and I meditate on them … They are all in Hebrew. I don't understand everything. But it's kind of OK that you don't. … Kevin [Federline, then husband] isn't into it as intensely as I am. For some reason I'm thirsting for it."
+      "sourceUrl": "http://www.religionfacts.com/celebrities/quotes.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://today.msnbc.msn.com/id/10696063/ns/today-entertainment/t/oops-spears-switched-religions-again/#.T3DD09ndc3w",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Though not confirmed, Spears has also been rumored to be into Hinduism.",
       "sourceTitle": "Oops, Spears switched religions again",
-      "text": "Though not confirmed, Spears has also been rumored to be into Hinduism."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://today.msnbc.msn.com/id/10696063/ns/today-entertainment/t/oops-spears-switched-religions-again/#.T3DD09ndc3w"
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Oops, I said something again"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Being a white Baptist girl from the South is usually a recipe for Republican conservatism and Spears fits the bill. During the onset of the Iraq War, when millions of Americans were very unhappy about George W. Bush's false claims of \"weapons of mass destruction,\" Spears was asked if she supports the war. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://newsmine.org/content.php?ol=cabal-elite/w-administration/britney-supports-bush.txt",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Honestly, I think we should just trust our president in every decision that he makes and we should just support that, you know, and be faithful in what happens.",
       "sourceTitle": "Britney Supports Bush",
-      "text": "Honestly, I think we should just trust our president in every decision that he makes and we should just support that, you know, and be faithful in what happens."
+      "sourceUrl": "http://newsmine.org/content.php?ol=cabal-elite/w-administration/britney-supports-bush.txt"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.popeater.com/2011/03/10/britney-spears-anti-bullying-campaign/",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "She switched sides though and recently teamed up with a President Obama (seriously, that guy is a celebrity magnet) campaign to stop bullying.",
       "sourceTitle": "Britney Spears Joins Obama's Anti-Bullying Campaign",
-      "text": "She switched sides though and recently teamed up with a President Obama (seriously, that guy is a celebrity magnet) campaign to stop bullying."
+      "sourceUrl": "http://www.popeater.com/2011/03/10/britney-spears-anti-bullying-campaign/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "Possibly the coolest thing Spears ever said regarding anything was in reference to Ukrainian elections–which are thought to have been rigged. Spears, who was going to play a concert in that country, went on Jay Leno and said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.unconfirmedsources.com/?itemid=804",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "[The Ukrainian youth's] democracy is being stolen [and they should] get together and do something about it…they should do whatever it takes. What good is a new election if it's only going to be as rigged as the first one? What good is a recount if the same people are doing the counting? Freedom is a precious thing and once you lose it, it's gone.",
       "sourceTitle": "Britney Spears Calls for Violent Revolution in Ukraine",
-      "text": "[The Ukrainian youth's] democracy is being stolen [and they should] get together and do something about it…they should do whatever it takes. What good is a new election if it's only going to be as rigged as the first one? What good is a recount if the same people are doing the counting? Freedom is a precious thing and once you lose it, it's gone."
+      "sourceUrl": "http://www.unconfirmedsources.com/?itemid=804"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "So we can add democratic revolutionary to her list, then."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -194,7 +268,7 @@
             "hidden": ""
           },
           "Artist": {
-            "value": "Tommie",
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Toglenn\" title=\"User:Toglenn\">Glenn Francis</a>",
             "source": "commons-desc-page"
           },
           "LicenseShortName": {

@@ -34,127 +34,214 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Meagan Good was born in Los Angeles, California and raised in Santa Clarita, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ethnicelebs.com/meagan-good",
+      "parentId": 2,
+      "type": "text",
+      "text": "Good's ancestry includes African, Cherokee, Puerto Rican, and Jewish blood–a genuine American mutt.",
       "sourceTitle": "Meagan Good.",
-      "text": "Good's ancestry includes African, Cherokee, Puerto Rican, and Jewish blood–a genuine American mutt."
+      "sourceUrl": "http://ethnicelebs.com/meagan-good"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianpost.com/news/meagan-good-talks-god-centered-marriage-tells-women-dont-settle-78497/",
+      "type": "text",
+      "text": "But her religious affiliation is Christian, really Christian. And she's just about as dedicated to God as a person can get. I'm guessing she's a Seventh-Day Adventist since her husband is a minister in the church.",
+      "parentId": 2,
       "sourceTitle": "Meagan Good Talks God-Centered Marriage, Tells Women 'Don't Settle.'",
-      "text": "But her religious affiliation is Christian, really Christian. And she's just about as dedicated to God as a person can get. I'm guessing she's a Seventh-Day Adventist since her husband is a minister in the church."
+      "sourceUrl": "http://www.christianpost.com/news/meagan-good-talks-god-centered-marriage-tells-women-dont-settle-78497/"
     },
     {
-      "type": "sentence",
-      "text": "She says about her relationship,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She says about her relationship,",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.christianpost.com/news/meagan-good-talks-god-centered-marriage-tells-women-dont-settle-78497/",
-      "sourceTitle": "Meagan Good Talks God-Centered Marriage, Tells Women 'Don't Settle.'",
-      "text": "We're both on the front lines for Christ. We're serious about our walk."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "We're both on the front lines for Christ. We're serious about our walk.",
+      "sourceTitle": "Meagan Good Talks God-Centered Marriage, Tells Women 'Don't Settle.'",
+      "sourceUrl": "http://www.christianpost.com/news/meagan-good-talks-god-centered-marriage-tells-women-dont-settle-78497/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "And that she is. She said one thing she'll never do in a film is take the Lord's name in vain, and that with every role she takes she keeps God in mind:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.stumpedmagazine.com/interviews/meagan-good/",
-      "sourceTitle": "Meagan Good Interview.",
-      "text": "[A]nything I feel would be disappointing to God I don't do. But, it has to be my personal feeling not someone else's or my pastor's or my mom's. If I feel that it's going to be disappointing to him, I won't do it."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "[A]nything I feel would be disappointing to God I don't do. But, it has to be my personal feeling not someone else's or my pastor's or my mom's. If I feel that it's going to be disappointing to him, I won't do it.",
+      "sourceTitle": "Meagan Good Interview.",
+      "sourceUrl": "http://www.stumpedmagazine.com/interviews/meagan-good/"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "She's also not going to sit back and quietly worship. She would like to pull non-believers into the fold through her work as an actress. She said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://dimewars.com/Blog/Meagan-Good-Talks-Making-Christian-Movies--Her-Fiance-And-God.aspx?BlogID=9f13e591-16b2-4023-aeb1-b45decee38f4",
-      "sourceTitle": "Meagan Good Talks Making Christian Movies, Her Fiance And God.",
-      "text": "You can't just make projects for the Christian community, because I think they already have the right idea. They're going to be OK. . . . [W]e also have to create projects for those people who need something positive and relatable without being very preachy. The key is to pull them in, and then add a hint of spirituality and God to the overall message without scaring them away."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "You can't just make projects for the Christian community, because I think they already have the right idea. They're going to be OK. . . . [W]e also have to create projects for those people who need something positive and relatable without being very preachy. The key is to pull them in, and then add a hint of spirituality and God to the overall message without scaring them away.",
+      "sourceTitle": "Meagan Good Talks Making Christian Movies, Her Fiance And God.",
+      "sourceUrl": "http://dimewars.com/Blog/Meagan-Good-Talks-Making-Christian-Movies--Her-Fiance-And-God.aspx?BlogID=9f13e591-16b2-4023-aeb1-b45decee38f4"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "That's pretty heavy stuff. She's not only willing to talk about God in just about every interview and in all contexts, but she's also made it clear that she's out there proselytizing for the Lord. I'm sure He'd be proud."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "Jesus, Mom, Obama"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=rCP8mKuAfYU",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Good describes herself as an \"extremely political person,\"",
       "sourceTitle": "Exclusive! Meagan Good Comments on Obama's progress @ Plush in West Hollywood!",
-      "text": "Good describes herself as an \"extremely political person,\""
+      "sourceUrl": "http://www.youtube.com/watch?v=rCP8mKuAfYU"
     },
     {
-      "type": "sentence",
-      "text": "but the only political opinion I could find from her was about Obama. And she's a  fan. When asked who her heroes are she said,"
+      "type": "text",
+      "text": "but the only political opinion I could find from her was about Obama. And she's a",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "huge"
+    },
+    {
+      "type": "text",
+      "text": "fan. When asked who her heroes are she said,",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.dallasblack.com/entertainment/interviewmeagangood",
-      "sourceTitle": "Interview: Meagan Good.",
-      "text": "First, Jesus; then, my mom; then Barack."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "First, Jesus; then, my mom; then Barack.",
+      "sourceTitle": "Interview: Meagan Good.",
+      "sourceUrl": "http://www.dallasblack.com/entertainment/interviewmeagangood"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Well, all right! Just before the president's inauguration in 2009, she seemed to think he was the prescription that would mend the country's ills:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.dallasblack.com/entertainment/interviewmeagangood",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I'm ecstatic! It's amazing! Gosh, I don't even know what to say. I'm just happy that Bush is over, and that the way things have been is over. Now the troops can come home and that we can work towards putting ourselves back together.",
       "sourceTitle": "Interview: Meagan Good.",
-      "text": "I'm ecstatic! It's amazing! Gosh, I don't even know what to say. I'm just happy that Bush is over, and that the way things have been is over. Now the troops can come home and that we can work towards putting ourselves back together."
+      "sourceUrl": "http://www.dallasblack.com/entertainment/interviewmeagangood"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/MeaganGood",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "And even though all those hopes may not have panned out in his first term, she remained an avid supporter through the 2012 campaign. She was all over Twitter in support of the president",
       "sourceTitle": "Meagan Good (MeaganGood) on Twitter.",
-      "text": "And even though all those hopes may not have panned out in his first term, she remained an avid supporter through the 2012 campaign. She was all over Twitter in support of the president"
+      "sourceUrl": "https://twitter.com/MeaganGood"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=rCP8mKuAfYU",
+      "type": "text",
+      "text": "and during his first term, when asked how he was doing, she said, \"Things are gonna take time.\"",
+      "parentId": 19,
       "sourceTitle": "Exclusive! Meagan Good Comments on Obama's progress @ Plush in West Hollywood!",
-      "text": "and during his first term, when asked how he was doing, she said, \"Things are gonna take time.\""
+      "sourceUrl": "http://www.youtube.com/watch?v=rCP8mKuAfYU"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "So she's definitely a Democrat and definitely has more opinions of which we are not currently privy. Exactly how far to the left she leans, we just don't know. I'd be interested to hear about her stance on gay marriage or gun control. If you have an insights I missed, please let us know in the comments!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

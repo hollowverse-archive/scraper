@@ -33,127 +33,187 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Rob Lowe was born in Charlottesville, Virginia, spent much of his childhood in Dayton, Ohio and moved to Malibu, California as a teenager."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/film/2002/mar/23/features.weekend",
+      "parentId": 2,
+      "type": "text",
+      "text": "Lowe was baptized an Episcopalian, though his maternal grandparents were Methodists. Lowe says he grew up in a \"traditional midwestern setting, surrounded by large, Catholic families\"",
       "sourceTitle": "Pretty Witty",
-      "text": "Lowe was baptized an Episcopalian, though his maternal grandparents were Methodists. Lowe says he grew up in a \"traditional midwestern setting, surrounded by large, Catholic families\""
+      "sourceUrl": "http://www.guardian.co.uk/film/2002/mar/23/features.weekend"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/film/2002/mar/23/features.weekend",
+      "type": "text",
+      "text": "and admits that his family wasn't too religious and rarely attended church.",
+      "parentId": 2,
       "sourceTitle": "Pretty Witty",
-      "text": "and admits that his family wasn't too religious and rarely attended church."
+      "sourceUrl": "http://www.guardian.co.uk/film/2002/mar/23/features.weekend"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Lowe is married to a Jewish woman, Sheryl Berkoff, and his children seem to have defaulted to that faith. Perhaps he has too, because when searching for spiritual advice about lawsuits filed against him, Lowe went to his wife's rabbi, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Interfaith_Celebrities_The_Brat_Pack_.shtml",
-      "sourceTitle": "The Brat Pack",
-      "text": "My two boys are Jewish, by way of my wife. The other day I asked their rabbi for advice. She [the rabbi] said: 'People see threats for what they are, just as they see truth for what it is.' I hope that's true. I don't want to live in a world of glass."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "My two boys are Jewish, by way of my wife. The other day I asked their rabbi for advice. She [the rabbi] said: 'People see threats for what they are, just as they see truth for what it is.' I hope that's true. I don't want to live in a world of glass.",
+      "sourceTitle": "The Brat Pack",
+      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Interfaith_Celebrities_The_Brat_Pack_.shtml"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Perhaps this is evidence that his Christian upbringing had very little influence on him. Also, note that the rabbi mentioned is a \"she,\" indicating his family's allegiance to the more liberal take on Judaism knows as Reform Judaism."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Lowe speaks highly of all politicians"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.politico.com/click/stories/1104/rob_lowes_political_passions.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Lowe is a self-described political junkie, and has been since childhood where he grew up listening to his step-father \"bitch about Richard Nixon.\"",
       "sourceTitle": "Life story: Rob Lowe's political passions",
-      "text": "Lowe is a self-described political junkie, and has been since childhood where he grew up listening to his step-father \"bitch about Richard Nixon.\""
+      "sourceUrl": "http://www.politico.com/click/stories/1104/rob_lowes_political_passions.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.freerepublic.com/focus/chat/1311976/posts",
+      "parentId": 9,
+      "type": "text",
+      "text": "Finding where he definitively stands, however, is a bit difficult. He is often cited as a Republican.",
       "sourceTitle": "List of Republican celebrities",
-      "text": "Finding where he definitively stands, however, is a bit difficult. He is often cited as a Republican."
+      "sourceUrl": "http://www.freerepublic.com/focus/chat/1311976/posts"
     },
     {
-      "type": "sentence",
-      "text": "And that might be because of quotes like:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And that might be because of quotes like:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://newsbusters.org/blogs/scott-whitlock/2011/05/19/west-wing-star-rob-lowe-praises-conservatives-right-wing-politics-ba",
-      "sourceTitle": "West Wing Star Praises Conservatives? Right-Wing Politics Based on 'Logic.'",
-      "text": "Liberal politics is built on empathy. I think conservative politics, from my opinion is built on logic."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Liberal politics is built on empathy. I think conservative politics, from my opinion is built on logic.",
+      "sourceTitle": "West Wing Star Praises Conservatives? Right-Wing Politics Based on 'Logic.'",
+      "sourceUrl": "http://newsbusters.org/blogs/scott-whitlock/2011/05/19/west-wing-star-rob-lowe-praises-conservatives-right-wing-politics-ba"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "But logic and empathy are both good things. Lowe was commenting on why Hollywood celebrities tend to be liberal (an interesting topic for the Hollowverse indeed!). Artists, he says, are more empathetic."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Plus, the only serious mention of Obama on Lowe's Twitter feed is:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/RobLowe",
-      "sourceTitle": "Rob Lowe (RobLowe) on Twitter",
-      "text": "God speed to POTUS Obama. We are looking to you to help get this nation to live within its means and grow our economy. Go get 'em!"
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "God speed to POTUS Obama. We are looking to you to help get this nation to live within its means and grow our economy. Go get 'em!",
+      "sourceTitle": "Rob Lowe (RobLowe) on Twitter",
+      "sourceUrl": "https://twitter.com/RobLowe"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "That seems to be a uniquely fiscally conservative thing to say."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Rob_Lowe.php",
+      "parentId": 17,
+      "type": "text",
+      "text": "However, Lowe's money and actions paint a more Democratic picture. His financial political contributions (a mere $1,000) all went to Democrats",
       "sourceTitle": "Rob Lowe's Federal Financial Contributions Report",
-      "text": "However, Lowe's money and actions paint a more Democratic picture. His financial political contributions (a mere $1,000) all went to Democrats"
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Rob_Lowe.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.politico.com/click/stories/1104/rob_lowes_political_passions.html",
+      "type": "text",
+      "text": "and he was a huge supporter of Democrat Michael Dukakis' 1988 presidential campaign, even joining Dukakis on the campaign trail to stump for him and calling him \"a profoundly decent, earnest man.\"",
+      "parentId": 17,
       "sourceTitle": "Life story: Rob Lowe's political passions",
-      "text": "and he was a huge supporter of Democrat Michael Dukakis' 1988 presidential campaign, even joining Dukakis on the campaign trail to stump for him and calling him \"a profoundly decent, earnest man.\""
+      "sourceUrl": "http://www.politico.com/click/stories/1104/rob_lowes_political_passions.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "Ultimately, Lowe seems quite reasonable about politics. He's not keen on picking sides, rather he seems to view both sides as struggling to find their way to benefit society. What's your take, readers?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

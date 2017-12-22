@@ -31,113 +31,199 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Emily VanCamp was born in Port Perry, Ontrario, Canada and was raised there and in Montreal, Quebec, Canada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.whosdatedwho.com/sections/celebrities/religion/roman-catholic_e",
+      "parentId": 2,
+      "type": "text",
+      "text": "VanCamp hasn't spoken about her religious beliefs–that we know of. However, there are some indications that she's a Catholic. Various celebrity-tracker websites have her listed as Catholic,",
       "sourceTitle": "Roman Catholic Celebrities (E)",
-      "text": "VanCamp hasn't spoken about her religious beliefs–that we know of. However, there are some indications that she's a Catholic. Various celebrity-tracker websites have her listed as Catholic,"
+      "sourceUrl": "http://www.whosdatedwho.com/sections/celebrities/religion/roman-catholic_e"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.evancamp.com/revenge-on-set-pic-other-news/",
+      "type": "text",
+      "text": "and an article about VanCamp's role in the film,",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "Revenge"
+    },
+    {
+      "type": "text",
+      "text": ", is posted on her website and refers to her as \"the Catholic actress featured in the TV series",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "Brothers and Sisters"
+    },
+    {
+      "type": "text",
+      "text": "and",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "Everwood"
+    },
+    {
+      "type": "text",
+      "text": ".\"",
+      "parentId": 2,
       "sourceTitle": "\"Revenge\" On-Set Pic & Other News",
-      "text": "and an article about VanCamp's role in the film, , is posted on her website and refers to her as \"the Catholic actress featured in the TV series  and .\""
+      "sourceUrl": "http://www.evancamp.com/revenge-on-set-pic-other-news/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Ontario#Religion",
+      "parentId": 3,
+      "type": "text",
+      "text": "Furthermore, where VanCamp was born is roughly 40% Catholic,",
       "sourceTitle": "Ontario",
-      "text": "Furthermore, where VanCamp was born is roughly 40% Catholic,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Ontario#Religion"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Montreal#Demographics",
+      "type": "text",
+      "text": "and where she was raised (Montreal) is a whopping 74.5% Catholic.",
+      "parentId": 3,
       "sourceTitle": "Montreal",
-      "text": "and where she was raised (Montreal) is a whopping 74.5% Catholic."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Montreal#Demographics"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "It's enough for me to call it–Catholic–if any of you readers dispute, please feel free to comment."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 5
     },
     {
-      "type": "heading",
+      "parentId": 5,
+      "type": "text",
       "text": "A Canadian in America"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "VanCamp leaves much less to speculation when it comes to politics. She's a liberal–and bounces off of most of the liberal touch points. She really likes Obama and, despite her Canadian citizenship, VanCamp stumped for Obama in 2008, campaigning as a Canadian who wants her neighbors to the south to enjoy the same healthcare benefits that she does:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.evancamp.com/actresses-stump-for-obama-in-martinsville/",
-      "sourceTitle": "Actresses stump for Obama in Martinsville",
-      "text": "Where I come from, we have universal health care. I want my neighbors in America to be able to afford to go to doctors when they're sick."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Where I come from, we have universal health care. I want my neighbors in America to be able to afford to go to doctors when they're sick.",
+      "sourceTitle": "Actresses stump for Obama in Martinsville",
+      "sourceUrl": "http://www.evancamp.com/actresses-stump-for-obama-in-martinsville/"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Her enthusiasm for Obama carried over to 2012 and, about a month before the elections, she tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/EmilyVanCamp",
-      "sourceTitle": "Emily VanCamp (EmilyVanCamp) on Twitter",
-      "text": "Obama 2012! This Canadian girl is all about him. grateful for his integrity"
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Obama 2012! This Canadian girl is all about him. grateful for his integrity",
+      "sourceTitle": "Emily VanCamp (EmilyVanCamp) on Twitter",
+      "sourceUrl": "https://twitter.com/EmilyVanCamp"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "She also mentioned Obama on her Twitter when he announced his support of gay marriage–a topic VanCamp seems to always have been passionate about. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.wetpaint.com/revenge/articles/revenge-star-emily-vancamp-supports-gay-marriage",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Bottom line about gay marriage is that it shouldn't even be a debate. Everyone should have the right to marry the person they love.",
       "sourceTitle": "Revenge Star Emily VanCamp Supports Gay Marriage",
-      "text": "Bottom line about gay marriage is that it shouldn't even be a debate. Everyone should have the right to marry the person they love."
+      "sourceUrl": "http://www.wetpaint.com/revenge/articles/revenge-star-emily-vancamp-supports-gay-marriage"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.justjared.com/2012/09/30/emily-vancamp-josh-bowman-environmental-media-awards/",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Lastly, VanCamp attended the 2012 Environmental Media Awards, signaling her support of environmental causes.",
       "sourceTitle": "Emily VanCamp & Josh Bowman: Environmental Media Awards",
-      "text": "Lastly, VanCamp attended the 2012 Environmental Media Awards, signaling her support of environmental causes."
+      "sourceUrl": "http://www.justjared.com/2012/09/30/emily-vancamp-josh-bowman-environmental-media-awards/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Environmental_Media_Awards",
+      "type": "text",
+      "text": "The awards honor TV shows and films that spread a positive message about environmentalism.",
+      "parentId": 15,
       "sourceTitle": "Environmental Media Awards",
-      "text": "The awards honor TV shows and films that spread a positive message about environmentalism."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Environmental_Media_Awards"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Looks like we've got ourselves a Canadian, Hollywood liberal."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

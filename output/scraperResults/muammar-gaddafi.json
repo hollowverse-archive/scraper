@@ -34,171 +34,280 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Muammar Gaddafi was born in a tent in the desert outside of Sirte in what was then Italian Libya. He grew up in a nomadic Bedouin in the Libyan desert. He died brutally at the hands of Libyan revolutionaries in 2011."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Gaddafi was a Muslim, and extremely devout. Much of his public policy–which we will cover later–was inspired by his own spin on Sharia, the Qur'an and Islamic teachings and values."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mathaba.net/news/?x=629781",
+      "parentId": 3,
+      "type": "text",
+      "text": "Gaddafi viewed Islam in a slightly different way than most of the Muslim world–proclaiming that Shia and Sunni sects were both unjustified because Islam, as a universal truth and faith, should be above sectarianism.",
       "sourceTitle": "Muammar Gaddafi: A true Muslim",
-      "text": "Gaddafi viewed Islam in a slightly different way than most of the Muslim world–proclaiming that Shia and Sunni sects were both unjustified because Islam, as a universal truth and faith, should be above sectarianism."
+      "sourceUrl": "http://www.mathaba.net/news/?x=629781"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Gaddafi, always a controversial, eccentric figure on the world stage, would stir anger with his pro-Islam comments, often perceived as ethnocentric and anti-Christian. Particularly in his later years, Gaddafi would stir anger for what many perceived as ethnocentric comments in favor of Islam and opposed to just about everything else, particularly Christianity and Judaism."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "In Niger during a televised mass prayer, Gaddafi said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.reuters.com/article/2007/03/30/us-religion-gaddafi-idUSL3059334720070330",
-      "sourceTitle": "Gaddafi says only Islam a universal religion",
-      "text": "It is a mistake that another religion exists alongside Islam. There is only one religion which is Islam after Mohammed. All those believers who do not follow Islam are losers."
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.reuters.com/article/2007/03/30/us-religion-gaddafi-idUSL3059334720070330",
-      "sourceTitle": "Gaddafi says only Islam a universal religion",
-      "text": "In possession of vast wealth gleaned mostly from Libya's oil industry, Gaddafi would help finance Muslim projects around the world, building mosques and Muslim schools in nearly every corner of the globe."
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.suntimes.com/news/metro/4047358-418/louis-farrakhan-says-moammar-gadhafi-has-always-been-a-friend.html",
+      "parentId": 7,
+      "type": "text",
+      "text": "It is a mistake that another religion exists alongside Islam. There is only one religion which is Islam after Mohammed. All those believers who do not follow Islam are losers.",
+      "sourceTitle": "Gaddafi says only Islam a universal religion",
+      "sourceUrl": "http://www.reuters.com/article/2007/03/30/us-religion-gaddafi-idUSL3059334720070330"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "In possession of vast wealth gleaned mostly from Libya's oil industry, Gaddafi would help finance Muslim projects around the world, building mosques and Muslim schools in nearly every corner of the globe.",
+      "sourceTitle": "Gaddafi says only Islam a universal religion",
+      "sourceUrl": "http://www.reuters.com/article/2007/03/30/us-religion-gaddafi-idUSL3059334720070330"
+    },
+    {
+      "type": "text",
+      "text": "In the U.S., Gaddafi was a friend to the Nation of Islam and their controversial leader, Louis Farrakhan, to whom he gave millions of dollars to pay off debt and purchase administrative buildings and worship centers.",
+      "parentId": 8,
       "sourceTitle": "Louis Farrakhan says Muammar Gaddafi has always been a friend",
-      "text": "In the U.S., Gaddafi was a friend to the Nation of Islam and their controversial leader, Louis Farrakhan, to whom he gave millions of dollars to pay off debt and purchase administrative buildings and worship centers."
+      "sourceUrl": "http://www.suntimes.com/news/metro/4047358-418/louis-farrakhan-says-moammar-gadhafi-has-always-been-a-friend.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mathaba.net/news/?x=629781",
+      "parentId": 9,
+      "type": "text",
+      "text": "For some, Gaddafi was the perfect Muslim–generous, devout, evangelical and an ideologue.",
       "sourceTitle": "Muammar Gaddafi: A true Muslim",
-      "text": "For some, Gaddafi was the perfect Muslim–generous, devout, evangelical and an ideologue."
+      "sourceUrl": "http://www.mathaba.net/news/?x=629781"
     },
     {
-      "type": "break"
+      "parentId": 9,
+      "type": "text",
+      "text": "For others, he was a dangerous, unstable loon.",
+      "sourceTitle": "Muammar Gaddafi: 112 ways to spell crazy",
+      "sourceUrl": "http://www.oscial.com/gaddafi-112-ways-to-spell-crazy/"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Amazing and controversial politics"
     },
     {
-      "type": "sentence",
-      "text": "Gaddafi's political career spanned nearly five decades, countless international scandals, a self-contained social and political ideology, myth, legend, and hero-worship. Volumes could be written on the politics of Gaddafi. For a more comprehensive start in understanding, I suggest visiting the  page on him."
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "break"
+      "parentId": 11,
+      "type": "text",
+      "text": "Gaddafi's political career spanned nearly five decades, countless international scandals, a self-contained social and political ideology, myth, legend, and hero-worship. Volumes could be written on the politics of Gaddafi. For a more comprehensive start in understanding, I suggest visiting the"
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "link",
+      "text": "Wikipedia",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Muammar_Gaddafi#cite_note-dailynews-346"
+    },
+    {
+      "type": "text",
+      "text": "page on him.",
+      "parentId": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Gaddafi's political philosophy was called the \"Third Universal Theory\" and was outlined in detail in his Green Book, where everything from music to breastfeeding to education, religion, gender roles, and socio-economic theory were spelled out in detail. As the book itself states:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://middleeast.about.com/od/libya/a/me090906.htm",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "The Green Book presents the ultimate solution to the problem of the instrument of government, and indicates for the masses the path upon which they can advance from the age of dictatorship to that of genuine democracy.",
       "sourceTitle": "Muammar el Qaddafi's Green Book",
-      "text": "The Green Book presents the ultimate solution to the problem of the instrument of government, and indicates for the masses the path upon which they can advance from the age of dictatorship to that of genuine democracy."
+      "sourceUrl": "http://middleeast.about.com/od/libya/a/me090906.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thedailybeast.com/articles/2011/03/02/gaddafis-green-book-the-top-10-quotes.html",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Gaddafi was quite taken with the principle of democracy. To him, multi-party, representational democracy was not truly democratic–nor was a dictatorship, though he was widely considered a dictator. And perhaps he was, but regardless, only three years after Gaddafi orchestrated a bloodless"
+    },
+    {
+      "parentId": 15,
+      "type": "emphasis",
+      "text": "coup"
+    },
+    {
+      "type": "text",
+      "text": "in Libya, he stepped down as Premier of the Libyan government, re-titling himself \"Brotherly Leader and Guide of the First of September Great Revolution of the Socialist People's Libyan Arab Jamahiriya,\"",
+      "parentId": 15,
       "sourceTitle": "Gaddafi's Green Book: The Top 10 Quotes",
-      "text": "Gaddafi was quite taken with the principle of democracy. To him, multi-party, representational democracy was not truly democratic–nor was a dictatorship, though he was widely considered a dictator. And perhaps he was, but regardless, only three years after Gaddafi orchestrated a bloodless  in Libya, he stepped down as Premier of the Libyan government, re-titling himself \"Brotherly Leader and Guide of the First of September Great Revolution of the Socialist People's Libyan Arab Jamahiriya,\""
+      "sourceUrl": "http://www.thedailybeast.com/articles/2011/03/02/gaddafis-green-book-the-top-10-quotes.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://middleeast.about.com/od/libya/p/me071212.htm",
+      "type": "text",
+      "text": "and instituting a complex series of self-governing citizen bodies with titles like \"The People's Committees\" and the \"General People's Congress.\"",
+      "parentId": 15,
       "sourceTitle": "Libya: Country Profile",
-      "text": "and instituting a complex series of self-governing citizen bodies with titles like \"The People's Committees\" and the \"General People's Congress.\""
+      "sourceUrl": "http://middleeast.about.com/od/libya/p/me071212.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "However, it didn't work as well as Gaddafi envisioned, and near the end of his life, Gaddafi was, at times shockingly insane and at others, lucid and self-aware. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://en.wikiquote.org/wiki/Muammar_al-Gaddafi",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "It was our hope that Libya with its revolution would become a model of freedom, popular democracy and a state free from oppression and injustice. However Libya became another conventional state, even a dictatorial or police state. This is deeply regrettable. We are not like that, nor do we want to be like that.",
       "sourceTitle": "Muammar Gaddafi",
-      "text": "It was our hope that Libya with its revolution would become a model of freedom, popular democracy and a state free from oppression and injustice. However Libya became another conventional state, even a dictatorial or police state. This is deeply regrettable. We are not like that, nor do we want to be like that."
+      "sourceUrl": "http://en.wikiquote.org/wiki/Muammar_al-Gaddafi"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://middleeast.about.com/od/libya/a/me090906.htm",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "In essence, Gaddafi was a socialist, and his Green Book expounded on the virtues of a society of and for the people. It was an Islamic reaction to the excesses and inequalities of capitalism and the atheism Gaddafi saw as inherent in Communism.",
       "sourceTitle": "Muammar el Qaddafi's Green Book",
-      "text": "In essence, Gaddafi was a socialist, and his Green Book expounded on the virtues of a society of and for the people. It was an Islamic reaction to the excesses and inequalities of capitalism and the atheism Gaddafi saw as inherent in Communism."
+      "sourceUrl": "http://middleeast.about.com/od/libya/a/me090906.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blogs.ei.columbia.edu/2011/04/01/libya/",
+      "parentId": 20,
+      "type": "text",
+      "text": "Accounts differ, with western sources saying that quality of life for Libyans has been in the decline for some 15-20 years.",
       "sourceTitle": "Colonel Qaddafi and the Great Man Made River.",
-      "text": "Accounts differ, with western sources saying that quality of life for Libyans has been in the decline for some 15-20 years."
+      "sourceUrl": "http://blogs.ei.columbia.edu/2011/04/01/libya/"
     },
     {
-      "type": "sentence",
-      "text": "Still, some statistics are difficult to ignore."
+      "type": "text",
+      "text": "Still, some statistics are difficult to ignore.",
+      "parentId": 20
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailynews.lk/2011/10/22/fea02.asp",
+      "parentId": 21,
+      "type": "text",
+      "text": "For example, Libya under Gaddafi became the most literate, longest living, most educated, highest median income country in Africa",
       "sourceTitle": "Sher Azad Gaddafi and the media",
-      "text": "For example, Libya under Gaddafi became the most literate, longest living, most educated, highest median income country in Africa"
+      "sourceUrl": "http://www.dailynews.lk/2011/10/22/fea02.asp"
     },
     {
-      "type": "sentence",
-      "text": "with social welfare benefits that would make the most liberal of Europeans green with envy. ((. Weekly Blitz.))"
+      "type": "text",
+      "text": "with social welfare benefits that would make the most liberal of Europeans green with envy. ((",
+      "parentId": 21
     },
     {
-      "type": "break"
+      "parentId": 21,
+      "type": "link",
+      "text": "A Great Nationalist Hero Muammar Gaddafi",
+      "sourceUrl": "http://www.weeklyblitz.net/1902/a-great-nationalist-hero-muammar-gaddafi"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thenewcivilrightsmovement.com/muammar-gaddafi-who-jailed-homosexuals-and-said-hivaids-only-affects-gays-is-dead/politics/2011/10/20/28872",
+      "type": "text",
+      "text": ". Weekly Blitz.))",
+      "parentId": 21
+    },
+    {
+      "type": "paragraph",
+      "id": 22
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "Still, Gaddafi was intolerant, often antagonistic [do you think antagonistic is harsh enough considering he jailed gay people?] toward the West, Arabs, Christian, Jews, homosexuals and white people.",
       "sourceTitle": "Muammar Gaddafi, Who Jailed Homosexuals And Said HIV/AIDS Only Affects Gays, Is Dead",
-      "text": "Still, Gaddafi was intolerant, often antagonistic [do you think antagonistic is harsh enough considering he jailed gay people?] toward the West, Arabs, Christian, Jews, homosexuals and white people."
+      "sourceUrl": "http://thenewcivilrightsmovement.com/muammar-gaddafi-who-jailed-homosexuals-and-said-hivaids-only-affects-gays-is-dead/politics/2011/10/20/28872"
     },
     {
-      "type": "sentence",
-      "text": "And as ruler of a nation for 42 years, there is no way an article like this can properly do his socio-political views any justice. I highly recommend delving deeper if you're interested. He remains one of the most fascinating characters of the 20th and 21st Centuries."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And as ruler of a nation for 42 years, there is no way an article like this can properly do his socio-political views any justice. I highly recommend delving deeper if you're interested. He remains one of the most fascinating characters of the 20th and 21st Centuries.",
+      "parentId": 22
     }
   ],
   "wikipediaData": {

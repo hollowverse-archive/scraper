@@ -33,113 +33,185 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Oh Rick. Do you want almost everyone to hate you?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Santorum was born in Virginia but raised in Pennsylvania in a Catholic household. He has a law degree and practiced law for many years before entering politics."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "This guy is off-the-charts conservative. The world of Rick Santorum is the world of, like, 500 years ago. He's even talking defending the crusades. C,mon, Rick, those were like almost 1,000 years ago."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "He's blaming heavy metal music for the degradation of America's youth (as if we didn't hear that enough in the 80's–thirty years ago) and he's even crossed the race line and attacked black people on more than one occasion. He said about black people on welfare:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://theweek.com/article/index/223041/9-controversial-rick-santorum-quotes",
-      "sourceTitle": "9 controversial Rick Santorum quotes",
-      "text": "I don't want to make black people's lives better by giving them somebody else's money; I want to give them the opportunity to go out and earn the money."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I don't want to make black people's lives better by giving them somebody else's money; I want to give them the opportunity to go out and earn the money.",
+      "sourceTitle": "9 controversial Rick Santorum quotes",
+      "sourceUrl": "http://theweek.com/article/index/223041/9-controversial-rick-santorum-quotes"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Satan is a running theme in Santorum speeches, with things like:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.nytimes.com/2012/02/22/opinion/dowd-ricks-religious-fanaticism.html",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Satan has his sights on the United States of America. Satan is attacking the great institutions of America, using those great vices of pride, vanity and sensuality as the root to attack all of the strong plants that has so deeply rooted in the American tradition.",
       "sourceTitle": "Rick's Religious Fanaticism",
-      "text": "Satan has his sights on the United States of America. Satan is attacking the great institutions of America, using those great vices of pride, vanity and sensuality as the root to attack all of the strong plants that has so deeply rooted in the American tradition."
+      "sourceUrl": "http://www.nytimes.com/2012/02/22/opinion/dowd-ricks-religious-fanaticism.html"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "All women should be barefoot, pregnant, and cooking–all the time"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "One of Santorum's most controversial topics is women and birth control. He thinks all birth control should be illegal and that women shouldn't work. He doesn't like feminists too much either:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://theweek.com/article/index/223041/9-controversial-rick-santorum-quotes",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "In far too many families with young children, both parents are working, when, if they really took an honest look at the budget, they might find they don't both need to…What happened in America so that mothers and fathers who leave their children in the care of someone else — or worse yet, home alone after school between three and six in the afternoon — find themselves more affirmed by society? Here, we can thank the influence of radical feminism.",
       "sourceTitle": "9 controversial Rick Santorum quotes",
-      "text": "In far too many families with young children, both parents are working, when, if they really took an honest look at the budget, they might find they don't both need to…What happened in America so that mothers and fathers who leave their children in the care of someone else — or worse yet, home alone after school between three and six in the afternoon — find themselves more affirmed by society? Here, we can thank the influence of radical feminism."
+      "sourceUrl": "http://theweek.com/article/index/223041/9-controversial-rick-santorum-quotes"
     },
     {
-      "type": "sentence",
-      "text": "Seriously, what century are you living in? I'm sure there are millions of American moms who would love to stay home and not work. Shit, I want to stay home and not work. But Americans are struggling. Both parents absolutely to work in most families."
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "break"
+      "parentId": 14,
+      "type": "text",
+      "text": "Seriously, what century are you living in? I'm sure there are millions of American moms who would love to stay home and not work. Shit, I want to stay home and not work. But Americans are struggling. Both parents absolutely"
+    },
+    {
+      "parentId": 14,
+      "type": "emphasis",
+      "text": "have"
+    },
+    {
+      "type": "text",
+      "text": "to work in most families.",
+      "parentId": 14
     },
     {
       "type": "heading",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Political Suicide"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usatoday.com/news/washington/2003-04-23-santorum-excerpt_x.htm",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "The more Rick Santorum talks, the more people hate him. He's compared being gay to having sex with dogs.",
       "sourceTitle": "Excerpt from Santorum interview",
-      "text": "The more Rick Santorum talks, the more people hate him. He's compared being gay to having sex with dogs."
+      "sourceUrl": "http://www.usatoday.com/news/washington/2003-04-23-santorum-excerpt_x.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.philly.com/2007-12-20/news/24996925_1_romney-speech-mormon-faith-religion",
+      "parentId": 17,
+      "type": "text",
+      "text": "He has said Mormonism is a dangerous cult.",
       "sourceTitle": "The Elephant in the Room – Mitt Romney and religion; politics and faith",
-      "text": "He has said Mormonism is a dangerous cult."
+      "sourceUrl": "http://articles.philly.com/2007-12-20/news/24996925_1_romney-speech-mormon-faith-religion"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.salon.com/2012/01/04/rick_santorum_is_coming_for_your_birth_control/singleton/",
+      "parentId": 18,
+      "type": "text",
+      "text": "His views on contraception alienate literally 99% of American women.",
       "sourceTitle": "Rick Santorum is is coming for your birth control",
-      "text": "His views on contraception alienate literally 99% of American women."
+      "sourceUrl": "http://www.salon.com/2012/01/04/rick_santorum_is_coming_for_your_birth_control/singleton/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
+      "parentId": 19,
+      "type": "text",
       "text": "It's time to get with the program Rick. You were born in the wrong time and society has moved past you."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

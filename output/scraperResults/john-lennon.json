@@ -35,147 +35,242 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "John Lennon was born in Liverpool England while England was being bombed by the Germans during World War II."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Both religiously and politically, Lennon was a storm of controversy from his young years in working-class environs to his violent death in 1980 in New York City."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.vcstar.com/news/2010/nov/17/john-lennons-spirituality/",
+      "parentId": 3,
+      "type": "text",
+      "text": "Lennon was baptized, as most young English children are, in an Anglican/Episcopalian church. However, by the time he was a teenager, Lennon was banned from the parish church his family attended for laughing out loud at a sermon.",
       "sourceTitle": "John Lennon's Spirituality",
-      "text": "Lennon was baptized, as most young English children are, in an Anglican/Episcopalian church. However, by the time he was a teenager, Lennon was banned from the parish church his family attended for laughing out loud at a sermon."
+      "sourceUrl": "http://www.vcstar.com/news/2010/nov/17/john-lennons-spirituality/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "As the Beatles rose to unprecedented fame, Lennon compared their popularity to that of Jesus and commented on the decline of faith in modern society, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://beatlesnumber9.com/biggerjesus.html",
-      "sourceTitle": "The Beatles Are Bigger Than Jesus",
-      "text": "Christianity will go. It will vanish and shrink. I needn't argue with that; I'm right and I will be proved right. We're more popular than Jesus now; I don't know which will go first – rock 'n' roll or Christianity. Jesus was all right but his disciples were thick and ordinary. It's them twisting it that ruins it for me."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Christianity will go. It will vanish and shrink. I needn't argue with that; I'm right and I will be proved right. We're more popular than Jesus now; I don't know which will go first – rock 'n' roll or Christianity. Jesus was all right but his disciples were thick and ordinary. It's them twisting it that ruins it for me.",
+      "sourceTitle": "The Beatles Are Bigger Than Jesus",
+      "sourceUrl": "http://beatlesnumber9.com/biggerjesus.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "It's safe to say that, by this time, John had either rejected Christianity outright or had at least developed a very cynical view of it."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-512747/Lennon-right-The-Giggling-Guru-shameless-old-fraud.html",
+      "parentId": 8,
+      "type": "text",
+      "text": "During the writing of The Beatles' album,"
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "The White Album"
+    },
+    {
+      "type": "text",
+      "text": ", John and the rest of the band studied under the Hindu yogi Maharishi Mahesh, who heavily influenced much of The Beatles' music and, to some extent, the spirituality of The Beatles themselves. However, while George Harrison was particularly taken by Indian mysticism, John ended up thinking the Maharishi was a fraud who used The Beatles for his own purposes of fortune and fame.",
+      "parentId": 8,
       "sourceTitle": "Lennon was right: The Giggling Guru was a shameless old fraud",
-      "text": "During the writing of The Beatles' album, , John and the rest of the band studied under the Hindu yogi Maharishi Mahesh, who heavily influenced much of The Beatles' music and, to some extent, the spirituality of The Beatles themselves. However, while George Harrison was particularly taken by Indian mysticism, John ended up thinking the Maharishi was a fraud who used The Beatles for his own purposes of fortune and fame."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-512747/Lennon-right-The-Giggling-Guru-shameless-old-fraud.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Perhaps Lennon's most famous–and controversial–comment on religion can be found in the lyrics to the biggest hit of his solo career–\"Imagine.\" Lennon sings:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 10
     },
     {
-      "type": "quote",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Imagine there's no heaven. It's easy if you try. No hell below us, above us only sky."
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Interpretations of these lyrics abound, with some claiming Lennon was saying he was an atheist and other claiming that it was merely a condemnation of organized religion. However, if there is no hell below us and above us is only sky, it would seem as if Lennon is saying that some of the most important theological aspects of Christianity simply don't exist! In short–I say atheist."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 13
     },
     {
-      "type": "heading",
+      "parentId": 13,
+      "type": "text",
       "text": "Starting a revolution in dirty sheets"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Politically, Lennon was unattached and actually quite radical. Returning again to the lyrics of imagine, Lennon sang:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.lyrics007.com/John%20Lennon%20Lyrics/Imagine%20Lyrics.html",
-      "sourceTitle": "John Lennon Imagine Lyrics",
-      "text": "Imagine there's no countries, It isn't hard to do, Nothing to kill or die for, And no religion too, Imagine all the people living life in peace."
+      "id": 15
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Imagine there's no countries, It isn't hard to do, Nothing to kill or die for, And no religion too, Imagine all the people living life in peace.",
+      "sourceTitle": "John Lennon Imagine Lyrics",
+      "sourceUrl": "http://www.lyrics007.com/John%20Lennon%20Lyrics/Imagine%20Lyrics.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Here is some room for ambiguity. Not counting the \"no religion\" part of things, what does he mean by no countries? We could assume he's an anarchist, but he doesn't say \"no governments.\" He could be advocating a one-world government, because the plural \"countries\" would no longer apply–and war would be pretty pointless at that point as well. Let's hear what you think."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.time.com/time/photogallery/0,29307,1887244,00.html",
+      "parentId": 18,
+      "type": "text",
+      "text": "Still, the last line of that quote might sum up Lennon's overall political cause. Lennon was a tireless promoter of peace. In 1969, Lennon and his wife, Yoko Ono, stayed in bed for two weeks–once in Amsterdam and once in Montreal–to protest, mostly, the U.S.-Vietnam war.",
       "sourceTitle": "John Lennon and Yoko Ono's Bed-In",
-      "text": "Still, the last line of that quote might sum up Lennon's overall political cause. Lennon was a tireless promoter of peace. In 1969, Lennon and his wife, Yoko Ono, stayed in bed for two weeks–once in Amsterdam and once in Montreal–to protest, mostly, the U.S.-Vietnam war."
+      "sourceUrl": "http://www.time.com/time/photogallery/0,29307,1887244,00.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.latimes.com/2010/oct/08/opinion/la-oe-wiener-john-lennon-deportation-20101008",
+      "parentId": 19,
+      "type": "text",
+      "text": "Lennon, as a solo artist, released two landmark peace songs, \"Give Peace a Chance\" and \"Happy Xmas (War is Over).\" These songs became anthems for the anti-Vietnam movement. However, not everybody liked them and when then-President Richard Nixon heard that Lennon was singing these songs and, during a re-election year, was following them up by telling the crowd to not vote for Nixon, he ordered that the Immigration and Naturalization Service initiate deportation proceedings against Lennon.",
       "sourceTitle": "John Lennon and Yoko Ono's deportation battle",
-      "text": "Lennon, as a solo artist, released two landmark peace songs, \"Give Peace a Chance\" and \"Happy Xmas (War is Over).\" These songs became anthems for the anti-Vietnam movement. However, not everybody liked them and when then-President Richard Nixon heard that Lennon was singing these songs and, during a re-election year, was following them up by telling the crowd to not vote for Nixon, he ordered that the Immigration and Naturalization Service initiate deportation proceedings against Lennon."
+      "sourceUrl": "http://articles.latimes.com/2010/oct/08/opinion/la-oe-wiener-john-lennon-deportation-20101008"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "It would seem that Lennon's paranoia of government power structures were justified. Lennon was outspoken about his idea that small groups of people had too much power in the world. He once said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 21
     },
     {
-      "type": "quote",
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
       "text": "Listen, if anything happens to Yoko and me, it was not an accident."
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 23
+    },
+    {
+      "parentId": 23,
+      "type": "text",
       "text": "And of the effect of the hippie movement of the 1960's, Lennon said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.john-lennon.com/whokilled.htm",
+      "id": 24
+    },
+    {
+      "type": "paragraph",
+      "id": 25,
+      "parentId": 24
+    },
+    {
+      "parentId": 25,
+      "type": "text",
+      "text": "The people who are in control and in power, and the class system and the whole bullshit bourgeois scene is exactly the same except that there are a lot of middle-class kids with long hair walking around in trendy clothes… The same bastards are in control, the same people are running everything.",
       "sourceTitle": "Who Killed John Lennon",
-      "text": "The people who are in control and in power, and the class system and the whole bullshit bourgeois scene is exactly the same except that there are a lot of middle-class kids with long hair walking around in trendy clothes… The same bastards are in control, the same people are running everything."
+      "sourceUrl": "http://www.john-lennon.com/whokilled.htm"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 26
+    },
+    {
+      "parentId": 26,
+      "type": "text",
       "text": "In the end, Lennon was a radical–a radical who saw through politics for what it is, a struggle for power and wealth at the cost of human lives and freedom. We might call him an anarchist or a libertarian. One thing is for certain, he made a lot of people take a look around at the world in a new way."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

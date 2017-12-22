@@ -33,111 +33,190 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Margaret Thatcher, born Margaret Roberts, was born and raised in Grantham, Lincolnshire, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.sacred-destinations.com/england/london-wesley-chapel",
+      "parentId": 2,
+      "type": "text",
+      "text": "Thatcher was raised, and remains, a devout Methodist.",
       "sourceTitle": "Wesley's Chapel – London, England",
-      "text": "Thatcher was raised, and remains, a devout Methodist."
+      "sourceUrl": "http://www.sacred-destinations.com/england/london-wesley-chapel"
     },
     {
-      "type": "sentence",
-      "text": "Thatcher married an Anglican, however, and at times was required to find a middle ground. Like a true diplomat, Thatcher was able to bridge the gap between these two religions and in the end, seems to have claimed both. Forgive the long quote, but it serves to illustrate Thatcher's position:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Thatcher married an Anglican, however, and at times was required to find a middle ground. Like a true diplomat, Thatcher was able to bridge the gap between these two religions and in the end, seems to have claimed both. Forgive the long quote, but it serves to illustrate Thatcher's position:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.margaretthatcher.org/document/103793",
-      "sourceTitle": "Interview for Catholic Herald",
-      "text": "Methodism is the most marvelous evangelical faith and there is the most marvelous love and feeling for music in the Methodist Church which I think is greater than in the Anglican Church. But you sometimes feel the need for a slightly more formal service and perhaps a little bit more formality in the underlying theology too. So throughout my life I have felt the need for both things, to some extent for the informality, for the works you do; but always I found myself groping out for more of the actual teaching of the religious basis."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Methodism is the most marvelous evangelical faith and there is the most marvelous love and feeling for music in the Methodist Church which I think is greater than in the Anglican Church. But you sometimes feel the need for a slightly more formal service and perhaps a little bit more formality in the underlying theology too. So throughout my life I have felt the need for both things, to some extent for the informality, for the works you do; but always I found myself groping out for more of the actual teaching of the religious basis.",
+      "sourceTitle": "Interview for Catholic Herald",
+      "sourceUrl": "http://www.margaretthatcher.org/document/103793"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Thatcher's Christian belief system found its way into her philosophy of governance. She felt that the moral frameworks of Christianity were necessary for a prosperous, civil society and in her brilliant way, she justified the combination of church and state, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 6
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://eyeonfaith.blogspot.com/2012/01/margaret-thatcher-religious-conviction.html",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "The basis of democracy is morality, not majority voting. It is the belief that the majority of people are good and decent and that there are moral standards which come not from the State but from elsewhere.",
       "sourceTitle": "Margaret Thatcher: Religious Conviction",
-      "text": "The basis of democracy is morality, not majority voting. It is the belief that the majority of people are good and decent and that there are moral standards which come not from the State but from elsewhere."
+      "sourceUrl": "http://eyeonfaith.blogspot.com/2012/01/margaret-thatcher-religious-conviction.html"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "If politics was an endurance race, Thatcher wins"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Thatcher's political career spanned over three decades with 11 of those years as Britain's longest-serving Prime Minister to date."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.winentrance.com/general_knowledge/margaret-thatcher.html",
+      "parentId": 11,
+      "type": "text",
+      "text": "Thatcher was a member of Britain's Conservative Party and a figurehead of female power. Between Thatcher in Britain and Reagan in the U.S., these two powerhouses oversaw an era of glorious capitalism throughout most of the 1980s. Thatcher was staunchly anti-socialist and her ascent to power included a mandate to reduce the role of government in the private sector of Britain in hopes of turningBritain's sluggish economy around.",
       "sourceTitle": "Biography of Margaret Thatcher",
-      "text": "Thatcher was a member of Britain's Conservative Party and a figurehead of female power. Between Thatcher in Britain and Reagan in the U.S., these two powerhouses oversaw an era of glorious capitalism throughout most of the 1980s. Thatcher was staunchly anti-socialist and her ascent to power included a mandate to reduce the role of government in the private sector of Britain in hopes of turningBritain's sluggish economy around."
+      "sourceUrl": "http://www.winentrance.com/general_knowledge/margaret-thatcher.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.winentrance.com/general_knowledge/margaret-thatcher.html",
+      "parentId": 12,
+      "type": "text",
+      "text": "Thatcher made it her mission to suppress trade unions in Britain and many a socialist/leftist still hates her to this day for that.",
       "sourceTitle": "Biography of Margaret Thatcher",
-      "text": "Thatcher made it her mission to suppress trade unions in Britain and many a socialist/leftist still hates her to this day for that."
+      "sourceUrl": "http://www.winentrance.com/general_knowledge/margaret-thatcher.html"
     },
     {
-      "type": "sentence",
-      "text": "Thatcher, in classic Tory form, felt her opponents in the Labour Party and other socialist-leaning parties were a soft touch with good intentions, but probably couldn't do any good in the end. Her views might be summarized with this terse analogy:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Thatcher, in classic Tory form, felt her opponents in the Labour Party and other socialist-leaning parties were a soft touch with good intentions, but probably couldn't do any good in the end. Her views might be summarized with this terse analogy:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/margaret_thatcher_2.html",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "No one would remember the Good Samaritan if he'd only had good intentions; he had money as well.",
       "sourceTitle": "Margaret Thatcher Quotes",
-      "text": "No one would remember the Good Samaritan if he'd only had good intentions; he had money as well."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/margaret_thatcher_2.html"
     },
     {
-      "type": "sentence",
-      "text": "She detested the idea of the welfare state–. She condemned the layabouts and welfare recipients, saying:"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "break"
+      "parentId": 15,
+      "type": "text",
+      "text": "She detested the idea of the welfare state–"
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "something in which Britain now leads the world"
+    },
+    {
+      "type": "text",
+      "text": ". She condemned the layabouts and welfare recipients, saying:",
+      "parentId": 15
     },
     {
       "type": "quote",
-      "sourceUrl": "http://newlearningonline.com/new-learning/chapter-4-learning-civics/margaret-thatcher-there%E2%80%99s-no-such-thing-as-society/",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I think we have gone through a period when too many children and people have been given to understand 'I have a problem, it is the Government's job to cope with it!' or 'I have a problem, I will go and get a grant to cope with it!' 'I am homeless, the Government must house me!' and so they are casting their problems on society.",
       "sourceTitle": "Margaret Thatcher: There's no such thing as society",
-      "text": "I think we have gone through a period when too many children and people have been given to understand 'I have a problem, it is the Government's job to cope with it!' or 'I have a problem, I will go and get a grant to cope with it!' 'I am homeless, the Government must house me!' and so they are casting their problems on society."
+      "sourceUrl": "http://newlearningonline.com/new-learning/chapter-4-learning-civics/margaret-thatcher-there%E2%80%99s-no-such-thing-as-society/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/news/politics/margaret-thatcher/6906503/Margaret-Thatcher-complained-about-Asian-immigration-to-Britain.html",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Socially, Thatcher governed along party lines, complaining about immigrants and limiting the number of Southeast Asian immigrants to 10,000 over a two-year period. She most objected to the fact that foreigners would be given state-funded housing before \"white\" Brits.",
       "sourceTitle": "Margaret Thatcher complained about Asian immigration to Britain",
-      "text": "Socially, Thatcher governed along party lines, complaining about immigrants and limiting the number of Southeast Asian immigrants to 10,000 over a two-year period. She most objected to the fact that foreigners would be given state-funded housing before \"white\" Brits."
+      "sourceUrl": "http://www.telegraph.co.uk/news/politics/margaret-thatcher/6906503/Margaret-Thatcher-complained-about-Asian-immigration-to-Britain.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
+      "parentId": 19,
+      "type": "text",
       "text": "Obviously, a 30-year career in politics is difficult to summarize in a few paragraphs, but current opinion on Thatcher is divided. Conservatives hail her as the \"Iron Lady,\" a savior who brought Britain back on to the world stage. Her left-leaning critics despise her for what they perceive as cold-hearted, anti-worker policies. They're probably both right."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

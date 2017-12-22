@@ -33,80 +33,131 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Akshay Kumar, whose name at birth was Rajiv Hari Om Bhatia, was born in Amritsar, Punjab, India. He was raised in Delhi and Mumbai."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Kumar is a devout Sikh and dedicated to the Sikh community. After making a film starring a Sikh character, he said he was proud to do the often under-represented community justice. He said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.straight.com/movies/akshay-kumar-kinng-vancouver",
-      "sourceTitle": "Akshay Kumar is Kinng of Vancouver.",
-      "text": "Sikhs are very generous and brave people, but you don't see that in many of the films our industry produces. I wanted to honor my father, and this was the perfect project."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Sikhs are very generous and brave people, but you don't see that in many of the films our industry produces. I wanted to honor my father, and this was the perfect project.",
+      "sourceTitle": "Akshay Kumar is Kinng of Vancouver.",
+      "sourceUrl": "http://www.straight.com/movies/akshay-kumar-kinng-vancouver"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "He also frequently visits Hindu temples or Mandirs to worship–which as I understand it is fairly common practice among Sikhs in India–until 2012 when he decided there was a better way to worship. Talking about his change of heart, Kumar said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://entertainment.oneindia.in/bollywood/news/2012/omg-akshay-kumar-stop-visiting-temples-religious-places-099723.html",
-      "sourceTitle": "OMG, Akshay Kumar stops visiting temples and religious places!",
-      "text": "The real meaning of the term [mandir] is mann ke andar, which means that God resides within us. . . . I regularly visited shrines and temples all across the country. . . I used to travel first class, have security, give huge donations and stay in five-star hotels. Now I dedicate this amount to the cancer patients at a Parel hospital. . . . Today, I myself am a changed man."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "The real meaning of the term [mandir] is mann ke andar, which means that God resides within us. . . . I regularly visited shrines and temples all across the country. . . I used to travel first class, have security, give huge donations and stay in five-star hotels. Now I dedicate this amount to the cancer patients at a Parel hospital. . . . Today, I myself am a changed man.",
+      "sourceTitle": "OMG, Akshay Kumar stops visiting temples and religious places!",
+      "sourceUrl": "http://entertainment.oneindia.in/bollywood/news/2012/omg-akshay-kumar-stop-visiting-temples-religious-places-099723.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "The hotel managers and temple leaders might not be happy about his religious revelation, but I'm sure the cancer patients are stoked."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "The Murky Politics of Philanthropy"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "As far as I can tell, Kumar stays out of the mainstream political debate. He is, however, active in several charities that show he's got an eye out for those less fortunate than himself."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.unodc.org/unodc/en/frontpage/unodc-and-bollywood-unite-against-trafficking.html",
+      "parentId": 11,
+      "type": "text",
+      "text": "Aside from his donations to cancer patients, he joined the United Nations in its effort to curb human trafficking in India. The short film"
+    },
+    {
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "One Life, No Price"
+    },
+    {
+      "type": "text",
+      "text": "aired in theaters across the country before one of his Bollywood films, and he has recorded other messages in support of the organization and its cause.",
+      "parentId": 11,
       "sourceTitle": "UNODC and Bollywood unite against trafficking.",
-      "text": "Aside from his donations to cancer patients, he joined the United Nations in its effort to curb human trafficking in India. The short film  aired in theaters across the country before one of his Bollywood films, and he has recorded other messages in support of the organization and its cause."
+      "sourceUrl": "http://www.unodc.org/unodc/en/frontpage/unodc-and-bollywood-unite-against-trafficking.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ethnicnow.com/channels/film/press-release/3/1843/biggest-star-of-bollywood-akshay-kumar-makes-waves-across-international-box-offices.html",
+      "parentId": 12,
+      "type": "text",
+      "text": "He has also worked to promote the use of emergency contraceptives in the state of Rajasthan, India and is an ambassador for the Paralympics.",
       "sourceTitle": "Biggest star of Bollywood, Akshay Kumar, makes waves across international box offices.",
-      "text": "He has also worked to promote the use of emergency contraceptives in the state of Rajasthan, India and is an ambassador for the Paralympics."
+      "sourceUrl": "http://www.ethnicnow.com/channels/film/press-release/3/1843/biggest-star-of-bollywood-akshay-kumar-makes-waves-across-international-box-offices.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "He might not be expressly political, but his clear interest in using his fame to lend a hand or a voice to those who need it most could be an indication of a liberal worldview, the idea that humanity is at its best when resources are shared. Or I could be full of it. If you have any more insight, please let us know in the comments! Thanks readers."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

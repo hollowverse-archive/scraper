@@ -33,88 +33,130 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Elizabeth II, Queen of England, was born in London, England on April 21, 1926. She became Queen of England upon the death of her father, George VI, on February 6, 1952."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.churchofengland.org/about-us/structure.aspx",
+      "parentId": 2,
+      "type": "text",
+      "text": "As the Queen of England, she also holds the title of Supreme Governor of the Church of England and an symbolically authoritative position in the official Church of Scotland.",
       "sourceTitle": "The structure of the Church of England",
-      "text": "As the Queen of England, she also holds the title of Supreme Governor of the Church of England and an symbolically authoritative position in the official Church of Scotland."
+      "sourceUrl": "http://www.churchofengland.org/about-us/structure.aspx"
     },
     {
-      "type": "sentence",
-      "text": "Her duties in the Church of England to appoint archbishops, bishops, and deans of cathedrals."
+      "type": "text",
+      "text": "Her duties in the Church of England to appoint archbishops, bishops, and deans of cathedrals.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mikeadkins.com/article/is-queen-elizabeth-ii-episcopalian-or-presbyterian/",
+      "parentId": 3,
+      "type": "text",
+      "text": "This, of course, would make her an Anglican, a denomination of the Episcopalian faith. However, her honorary membership in the Church of Scotland–a Presbyterian denomination–conflicts to some degree. She is generally considered an Episcopalian though, and her role in the Church of Scotland is no more than that of a common member of the church.",
       "sourceTitle": "Is Queen Elizabeth II Episcopalian or Presbyterian?",
-      "text": "This, of course, would make her an Anglican, a denomination of the Episcopalian faith. However, her honorary membership in the Church of Scotland–a Presbyterian denomination–conflicts to some degree. She is generally considered an Episcopalian though, and her role in the Church of Scotland is no more than that of a common member of the church."
+      "sourceUrl": "http://www.mikeadkins.com/article/is-queen-elizabeth-ii-episcopalian-or-presbyterian/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Despite being largely a figurehead, The Queen has expressed a deep commitment to her church and the principles of Christianity. She once said during a Christmas address marking the millennium:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 5
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.royal.gov.uk/ImagesandBroadcasts/TheQueensChristmasBroadcasts/ChristmasBroadcasts/ChristmasBroadcast2000.aspx",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "To many of us, our beliefs are of fundamental importance. For me the teachings of Christ and my own personal accountability before God provide a framework in which I try to lead my life. I, like so many of you, have drawn great comfort in difficult times from Christ's words and example.",
       "sourceTitle": "Christmas Broadcast 2000",
-      "text": "To many of us, our beliefs are of fundamental importance. For me the teachings of Christ and my own personal accountability before God provide a framework in which I try to lead my life. I, like so many of you, have drawn great comfort in difficult times from Christ's words and example."
+      "sourceUrl": "http://www.royal.gov.uk/ImagesandBroadcasts/TheQueensChristmasBroadcasts/ChristmasBroadcasts/ChristmasBroadcast2000.aspx"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Politics of a monarch"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://voices.yahoo.com/what-role-does-queen-elizabeth-ii-play-united-379264.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Queen Elizabeth's role in English politics is purely symbolic. She takes no official stance on British policy or regarding any British political parties. For all intents and purposes, The United Kingdom is a constitutional parliamentary democracy, meaning that leaders with real political power are elected by popular vote. The Queen does carry the symbolic duty of inviting a newly elected Prime Minister to take office once he/she has won the election.",
       "sourceTitle": "What Role Does Queen Elizabeth II Play in the United Kingdom?",
-      "text": "Queen Elizabeth's role in English politics is purely symbolic. She takes no official stance on British policy or regarding any British political parties. For all intents and purposes, The United Kingdom is a constitutional parliamentary democracy, meaning that leaders with real political power are elected by popular vote. The Queen does carry the symbolic duty of inviting a newly elected Prime Minister to take office once he/she has won the election."
+      "sourceUrl": "http://voices.yahoo.com/what-role-does-queen-elizabeth-ii-play-united-379264.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "The Queen has always shown the utmost respect to Britain's elected leaders and, during various speeches, has espoused the virtues of democracy and the actions of individuals in relation to their country. She once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.politicsdaily.com/2010/07/07/queen-elizabeth-ii-the-power-behind-the-hats-and-pearls/",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I have also witnessed great change, much of it for the better, particularly in science and technology, and in social attitudes. Remarkably, many of these sweeping advances have come about not because of governments, committee resolutions, or central directives — although all these have played a part — but instead because millions of people around the world have wanted them.",
       "sourceTitle": "Queen Elizabeth II: The Power Behind the Hats and Pearls",
-      "text": "I have also witnessed great change, much of it for the better, particularly in science and technology, and in social attitudes. Remarkably, many of these sweeping advances have come about not because of governments, committee resolutions, or central directives — although all these have played a part — but instead because millions of people around the world have wanted them."
+      "sourceUrl": "http://www.politicsdaily.com/2010/07/07/queen-elizabeth-ii-the-power-behind-the-hats-and-pearls/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.royal.gov.uk/HMTheQueen/QueenCharities/Overview.aspx",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "One of the Queen's most important duties are the administration of charities–and she presides over more than 600. The issues her charities address vary widely from helping children to preserving the environment.",
       "sourceTitle": "Queen and Charities",
-      "text": "One of the Queen's most important duties are the administration of charities–and she presides over more than 600. The issues her charities address vary widely from helping children to preserving the environment."
+      "sourceUrl": "http://www.royal.gov.uk/HMTheQueen/QueenCharities/Overview.aspx"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Despite what many critics refer to as a useless and expensive British tradition, the monarchy, and Queen Elizabeth II, are highly regarded and respected in British culture. Though the Queen has very little official power, when she speaks, Britain–and even the world–listens."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

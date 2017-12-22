@@ -34,105 +34,161 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Joan Jett, whose name at birth was Joan Marie Larkin, was born in a suburb in Philadelphia, Pennsylvania called Wynnewood. She grew up there, in Rockville, Maryland, and in West Covina, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://joanjettbadrep.com/Interviews/2000/weekender.shtml",
+      "parentId": 2,
+      "type": "text",
+      "text": "Jett grew up in a Protestant family that attended church regularly, but she said what she heard about every Sunday didn't really make sense to her. She continues to believe in God, just not through the confines of organized religion. Instead, she described her personal faith as an \"ongoing spiritual journey.\"",
       "sourceTitle": "She Loves Rock 'N Roll.",
-      "text": "Jett grew up in a Protestant family that attended church regularly, but she said what she heard about every Sunday didn't really make sense to her. She continues to believe in God, just not through the confines of organized religion. Instead, she described her personal faith as an \"ongoing spiritual journey.\""
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://joanjettbadrep.com/Interviews/2000/weekender.shtml"
     },
     {
       "type": "quote",
-      "sourceUrl": "http://joanjettbadrep.com/Interviews/fanclub/Vol2Issue4.shtml",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I would say that I'm religious, but in my way. I don't go to church every Sunday, but I do talk to God a lot. I just do it in my own way. . . . I assimilate everything that makes sense and is logical to me in the spiritual realm. It doesn't matter to me if something comes from a religion that I wasn't brought up by. I'm all encompassing. I want to hear it all and then make my decisions after that.",
       "sourceTitle": "Volume 2 Issue 4.",
-      "text": "I would say that I'm religious, but in my way. I don't go to church every Sunday, but I do talk to God a lot. I just do it in my own way. . . . I assimilate everything that makes sense and is logical to me in the spiritual realm. It doesn't matter to me if something comes from a religion that I wasn't brought up by. I'm all encompassing. I want to hear it all and then make my decisions after that."
+      "sourceUrl": "http://joanjettbadrep.com/Interviews/fanclub/Vol2Issue4.shtml"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://joanjettbadrep.com/Interviews/2000/weekender.shtml",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Along those lines, she said the book"
+    },
+    {
+      "parentId": 5,
+      "type": "link",
+      "text": "Conversations with God",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Conversations_with_God"
+    },
+    {
+      "type": "text",
+      "text": ", which incorporates elements of many Western and Eastern traditions, has been so influential in her life that she brings an extra copy with her on the road to share with whomever may be interested.",
+      "parentId": 5,
       "sourceTitle": "She Loves Rock 'N Roll.",
-      "text": "Along those lines, she said the book , which incorporates elements of many Western and Eastern traditions, has been so influential in her life that she brings an extra copy with her on the road to share with whomever may be interested."
+      "sourceUrl": "http://joanjettbadrep.com/Interviews/2000/weekender.shtml"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "So she seems to practice a religious syncretism based in Christianity which evolves and changes as she learns and experiences life. Sounds groovy to me."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "I Love Rock 'n Roll Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Joan_Jett.php",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Jett appears to be just about as liberal as you'd expect the queen of rock 'n roll to be. She's supported Democratic candidates financially since 2003, from Howard Dean through Barack Obama.",
       "sourceTitle": "Joan Jett's Federal Campaign Contribution Report.",
-      "text": "Jett appears to be just about as liberal as you'd expect the queen of rock 'n roll to be. She's supported Democratic candidates financially since 2003, from Howard Dean through Barack Obama."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Joan_Jett.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://joanjettbadrep.com/Interviews/fanclub/Vol2Issue4.shtml",
+      "type": "text",
+      "text": "She says she generally keeps her views to herself–but not really.",
+      "parentId": 8,
       "sourceTitle": "Volume 2 Issue 4.",
-      "text": "She says she generally keeps her views to herself–but not really."
+      "sourceUrl": "http://joanjettbadrep.com/Interviews/fanclub/Vol2Issue4.shtml"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "First, she is very strongly pro-choice and has a hard time understanding where anti-abortion activists are coming from:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://joanjettbadrep.com/Interviews/fanclub/Vol2Issue4.shtml",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I'm very perturbed and I don't understand how these pro-life people are so concerned about a bunch of cells in a woman's uterus but once the kid is born, they couldn't give a fuck. . . . But as long as it's some kind of fetus, it has all kinds of rights. . . . The right to life should mean the right to a life that's already here, not the life that's being thought about.",
       "sourceTitle": "Volume 2 Issue 4.",
-      "text": "I'm very perturbed and I don't understand how these pro-life people are so concerned about a bunch of cells in a woman's uterus but once the kid is born, they couldn't give a fuck. . . . But as long as it's some kind of fetus, it has all kinds of rights. . . . The right to life should mean the right to a life that's already here, not the life that's being thought about."
+      "sourceUrl": "http://joanjettbadrep.com/Interviews/fanclub/Vol2Issue4.shtml"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.popeater.com/2010/05/13/joan-jett-peta/",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "She is also an outspoken supporter of PETA, and encourages everyone to become a vegetarian. She even once stood in New York's Union Square and handed out pamphlets encouraging vegetarianism.",
       "sourceTitle": "Joan Jett Doesn't Want You to Eat Meat.",
-      "text": "She is also an outspoken supporter of PETA, and encourages everyone to become a vegetarian. She even once stood in New York's Union Square and handed out pamphlets encouraging vegetarianism."
+      "sourceUrl": "http://www.popeater.com/2010/05/13/joan-jett-peta/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=2zNVQE4k-78",
+      "parentId": 13,
+      "type": "text",
+      "text": "She expressed some reservations about the motivations behind the Iraq War,",
       "sourceTitle": "Joan Jett Saw Iraq War Plan 1 Year Early.",
-      "text": "She expressed some reservations about the motivations behind the Iraq War,"
+      "sourceUrl": "http://www.youtube.com/watch?v=2zNVQE4k-78"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blog.uso.org/2011/01/07/uso-tour-featuring-recording-artists-joan-jett-and-kellie-pickler-2/",
+      "type": "text",
+      "text": "a sentiment many critics of former Republican President George W. Bush's administration share. But that never stopped her from supporting the troops with morale boosting concerts, from Bosnia to Iraq. In 2011 she embarked on her 61st visit with troops on a USO tour in the Middle East.",
+      "parentId": 13,
       "sourceTitle": "USO tour featuring recording artists Joan Jett and Kellie Pickler.",
-      "text": "a sentiment many critics of former Republican President George W. Bush's administration share. But that never stopped her from supporting the troops with morale boosting concerts, from Bosnia to Iraq. In 2011 she embarked on her 61st visit with troops on a USO tour in the Middle East."
+      "sourceUrl": "http://blog.uso.org/2011/01/07/uso-tour-featuring-recording-artists-joan-jett-and-kellie-pickler-2/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "She doesn't talk about every political talking point, but about the things she feels particularly passionate, she won't hesitate to let you know."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

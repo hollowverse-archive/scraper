@@ -34,113 +34,178 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jon Huntsman Jr. was born in Redwood City, California and grew up in Salt Lake City, Utah."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Huntsman is a Mormon, whose faith he officially professed on national television, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://abcnews.go.com/blogs/politics/2011/05/exclusive-interview-with-jon-huntsman/",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I believe in God. I'm a good Christian. I'm very proud of my Mormon heritage. I am Mormon.",
       "sourceTitle": "Transcript: Exclusive Interview With Jon Huntsman",
-      "text": "I believe in God. I'm a good Christian. I'm very proud of my Mormon heritage. I am Mormon."
+      "sourceUrl": "http://abcnews.go.com/blogs/politics/2011/05/exclusive-interview-with-jon-huntsman/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.religioustolerance.org/evanintol.htm",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Later, however, Huntsman felt the need to clarify. It wasn't clear if he was backpedaling because of the documented American prejudice against Mormons",
       "sourceTitle": "Prejudice of Americans toward various religions",
-      "text": "Later, however, Huntsman felt the need to clarify. It wasn't clear if he was backpedaling because of the documented American prejudice against Mormons"
+      "sourceUrl": "http://www.religioustolerance.org/evanintol.htm"
     },
     {
-      "type": "sentence",
-      "text": "(and their likely hesitancy to elect one for president), or if he just wanted to offer his \"big tent\" approach to religion as a peace offering to minority religions in America (or we could give him the benefit of the doubt and say he was being honest, but he's a politician so… no). But he said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "(and their likely hesitancy to elect one for president), or if he just wanted to offer his \"big tent\" approach to religion as a peace offering to minority religions in America (or we could give him the benefit of the doubt and say he was being honest, but he's a politician so… no). But he said:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.thedailybeast.com/newsweek/2011/06/05/mormons-rock.html",
-      "sourceTitle": "The Mormon Moment",
-      "text": "I was raised a Mormon, Mary Kaye [Huntsman's wife] was raised Episcopalian, our kids have gone to Catholic school, I went to a Lutheran school growing up in Los Angeles. I have [an adopted] daughter from India who has a very distinct Hindu tradition, one that we would celebrate during Diwali. So you kind of bind all this together."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I was raised a Mormon, Mary Kaye [Huntsman's wife] was raised Episcopalian, our kids have gone to Catholic school, I went to a Lutheran school growing up in Los Angeles. I have [an adopted] daughter from India who has a very distinct Hindu tradition, one that we would celebrate during Diwali. So you kind of bind all this together.",
+      "sourceTitle": "The Mormon Moment",
+      "sourceUrl": "http://www.thedailybeast.com/newsweek/2011/06/05/mormons-rock.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "But you won't see Huntsman pitting science against religion. In fact, he broke with his Republican peers when he said (in response to Rick Perry's creationist views):"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://thecaucus.blogs.nytimes.com/2011/08/18/huntsman-on-evolution-call-me-crazy/",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "To be clear. I believe in evolution and trust scientists on global warming. Call me crazy.",
       "sourceTitle": "Huntsman on Evolution? 'Call Me Crazy.'",
-      "text": "To be clear. I believe in evolution and trust scientists on global warming. Call me crazy."
+      "sourceUrl": "http://thecaucus.blogs.nytimes.com/2011/08/18/huntsman-on-evolution-call-me-crazy/"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Word to the wise: Politics in Moderation"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://elections.nytimes.com/2012/primaries/candidates/jon-huntsman",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "As two-time governor of Utah (one of the most conservative states in the union), it's safe to call Huntsman a conservative Republican.",
       "sourceTitle": "Jon M. Huntsman Jr. – Election 2012",
-      "text": "As two-time governor of Utah (one of the most conservative states in the union), it's safe to call Huntsman a conservative Republican."
+      "sourceUrl": "http://elections.nytimes.com/2012/primaries/candidates/jon-huntsman"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.yahoo.com/jon-huntsman-opposes-abortion-gay-marriage-wont-sign-191700446.html",
+      "type": "text",
+      "text": "Supporting that would be his record on social issues. He opposes both gay marriage and abortion for example.",
+      "parentId": 12,
       "sourceTitle": "Jon Huntsman Opposes Abortion, Gay Marriage–but Won't Sign Pledges Against Them",
-      "text": "Supporting that would be his record on social issues. He opposes both gay marriage and abortion for example."
+      "sourceUrl": "http://news.yahoo.com/jon-huntsman-opposes-abortion-gay-marriage-wont-sign-191700446.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "But much of his fiscal, environmental, and foreign policies point to a moderate, or even Democratic, view. Huntsman is critical of the U.S. tax code for its pandering to big business and vested interests and would like to see loopholes eliminated, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.nytimes.com/2011/09/01/us/politics/01huntsman.html?_r=1",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Over the last few decades, our tax code has devolved into a maze of special-interest carve-outs, loopholes and temporary provisions that cost taxpayers more than $400 billion a year to comply with. Get rid of all tax expenditures, all loopholes, all deductions, all subsidies, all corporate welfare.",
       "sourceTitle": "Huntsman Urges Stripping Deductions From Tax Code",
-      "text": "Over the last few decades, our tax code has devolved into a maze of special-interest carve-outs, loopholes and temporary provisions that cost taxpayers more than $400 billion a year to comply with. Get rid of all tax expenditures, all loopholes, all deductions, all subsidies, all corporate welfare."
+      "sourceUrl": "http://www.nytimes.com/2011/09/01/us/politics/01huntsman.html?_r=1"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.deseretnews.com/article/695228198/Huntsman-appears-in-climate-ad.html",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Huntsman, as previously stated, takes science at its word when it comes to global warming and even appeared in an TV advertisement urging Congress to cap greenhouse gas emissions.",
       "sourceTitle": "Huntsman appears in climate ad",
-      "text": "Huntsman, as previously stated, takes science at its word when it comes to global warming and even appeared in an TV advertisement urging Congress to cap greenhouse gas emissions."
+      "sourceUrl": "http://www.deseretnews.com/article/695228198/Huntsman-appears-in-climate-ad.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2011/04/07/world/asia/07china.html",
+      "parentId": 17,
+      "type": "text",
+      "text": "And he is the U.S. ambassador to China under the Obama administration and has criticized China's human rights record.",
       "sourceTitle": "Departing U.S. Envoy Criticizes China on Human Rights",
-      "text": "And he is the U.S. ambassador to China under the Obama administration and has criticized China's human rights record."
+      "sourceUrl": "http://www.nytimes.com/2011/04/07/world/asia/07china.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "All in all, Huntsman is a moderate who comes to his own conclusions about the issues. He is able to think outside of any pre-packaged ideological box and probably would have been a good president if the cartoon characters like Michele Bachmann, Rick Perry, and Rick Santorum didn't drown out any chance of rationality in the 2012 Republican primaries."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

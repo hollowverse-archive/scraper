@@ -36,142 +36,237 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Fidel Castro was born in a farmhouse in the Oriente Province of Cuba and grew up in Santiago, Cuba."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://english.ruvr.ru/2012_02_27/67033207/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Castro was baptized a Catholic",
       "sourceTitle": "Return of prodigal son?",
-      "text": "Castro was baptized a Catholic"
+      "sourceUrl": "http://english.ruvr.ru/2012_02_27/67033207/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://sfr-21.org/fidel-religion.html",
+      "type": "text",
+      "text": "and went to Catholic schools, which he spoke highly of later in life for their focus on \"discipline, stoicism, [and] spirit of sacrifice.\"",
+      "parentId": 2,
       "sourceTitle": "Fidel on Religion",
-      "text": "and went to Catholic schools, which he spoke highly of later in life for their focus on \"discipline, stoicism, [and] spirit of sacrifice.\""
+      "sourceUrl": "http://sfr-21.org/fidel-religion.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ordendemaltacuba.com/Pages/historycuba4.aspx",
+      "parentId": 3,
+      "type": "text",
+      "text": "However, Castro the revolutionary was quite antagonistic toward religion, even banning religion altogether in \"liberated\" Cuba and officially declaring it an atheist state.",
       "sourceTitle": "The Church and Fidel Castro",
-      "text": "However, Castro the revolutionary was quite antagonistic toward religion, even banning religion altogether in \"liberated\" Cuba and officially declaring it an atheist state."
+      "sourceUrl": "http://www.ordendemaltacuba.com/Pages/historycuba4.aspx"
     },
     {
-      "type": "sentence",
-      "text": "For this, Castro was excommunicated, not that he cared. He said once:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "For this, Castro was excommunicated, not that he cared. He said once:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://en.wikiquote.org/wiki/Fidel_Castro",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "When I was a young boy, my father taught me that to be a good Catholic, I had to confess at church if I ever had impure thoughts about a girl. That very evening, I had to rush to confess my sin. And the next night, and the next. After a week, I decided religion wasn't for me.",
       "sourceTitle": "Fidel Castro",
-      "text": "When I was a young boy, my father taught me that to be a good Catholic, I had to confess at church if I ever had impure thoughts about a girl. That very evening, I had to rush to confess my sin. And the next night, and the next. After a week, I decided religion wasn't for me."
+      "sourceUrl": "http://en.wikiquote.org/wiki/Fidel_Castro"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ordendemaltacuba.com/Pages/historycuba4.aspx",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "But Castro softened up considerably toward religion as he got older. In fact, we could say he made quite the turnaround. In 1991, Castro changed the religious status of Cuba from \"atheist\" to \"secular;\" in 1996, Castro made a diplomatic visit to the Pope and in 1998, the Pope visited Cuba–which had allowed for the reinstatement of Catholic churches and schools in the country, even creating a state agency called the Cuban Council of Churches (CCC) to handle an upwelling of religious sentiment.",
       "sourceTitle": "The Church and Fidel Castro",
-      "text": "But Castro softened up considerably toward religion as he got older. In fact, we could say he made quite the turnaround. In 1991, Castro changed the religious status of Cuba from \"atheist\" to \"secular;\" in 1996, Castro made a diplomatic visit to the Pope and in 1998, the Pope visited Cuba–which had allowed for the reinstatement of Catholic churches and schools in the country, even creating a state agency called the Cuban Council of Churches (CCC) to handle an upwelling of religious sentiment."
+      "sourceUrl": "http://www.ordendemaltacuba.com/Pages/historycuba4.aspx"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "Castro began to see his revolutionary ideals as consistent with Christian teachings–and Jesus as the ultimate revolutionary. He said things like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://sfr-21.org/fidel-religion.html",
-      "sourceTitle": "Fidel on Religion",
-      "text": "If instead of being born and elaborating his ideas when he did, Christ had been born in these times, you can be sure – or at least I am – that his preaching would not have differed much from the ideas or the preaching that we revolutionaries of today try to bring the world."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "If instead of being born and elaborating his ideas when he did, Christ had been born in these times, you can be sure – or at least I am – that his preaching would not have differed much from the ideas or the preaching that we revolutionaries of today try to bring the world.",
+      "sourceTitle": "Fidel on Religion",
+      "sourceUrl": "http://sfr-21.org/fidel-religion.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Castro now seems to see Christianity for its ethical framework of charity, compassion and brotherly love as socialist ideals. And, as ideals, it's really not that far from the truth."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "Viva la revolucion!"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Castro's political views. Ask him:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/f/fidel_castro.html",
-      "sourceTitle": "Fidel Castro Quotes",
-      "text": "I am a Marxist Leninist and I will be one until the last day of my life."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I am a Marxist Leninist and I will be one until the last day of my life.",
+      "sourceTitle": "Fidel Castro Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/f/fidel_castro.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Castro has upheld the communist ideal of violent revolution of the workers probably longer than anyone on earth. In fact, he's become the archetypal lifelong revolutionary dictator, still wearing a military uniform to almost all official events and functions. His revolution largely worked and he is still in power (though basically through his brother Raul) to this day."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Castro holds a special place of disdain in his heart for capitalism, on which he blames poverty, war, corruption and a host of other social ills. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/f/fidel_castro.html",
-      "sourceTitle": "Fidel Castro Quotes",
-      "text": "I find capitalism repugnant. It is filthy, it is gross, it is alienating… because it causes war, hypocrisy and competition."
+      "id": 17
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I find capitalism repugnant. It is filthy, it is gross, it is alienating… because it causes war, hypocrisy and competition.",
+      "sourceTitle": "Fidel Castro Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/f/fidel_castro.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "In his old age, Castro has mellowed considerably. He used to be a raving lunatic, a total madman. During the Cuban missile crisis, he might have been the closest a person has ever come to eradicating the human race, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://en.wikiquote.org/wiki/Fidel_Castro",
-      "sourceTitle": "Fidel Castro",
-      "text": "I propose the immediate launching of a nuclear strike on the United States. The Cuban people are prepared to sacrifice themselves for the cause of the destruction of imperialism and the victory of world revolution."
+      "id": 20
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "I propose the immediate launching of a nuclear strike on the United States. The Cuban people are prepared to sacrifice themselves for the cause of the destruction of imperialism and the victory of world revolution.",
+      "sourceTitle": "Fidel Castro",
+      "sourceUrl": "http://en.wikiquote.org/wiki/Fidel_Castro"
+    },
+    {
+      "type": "paragraph",
+      "id": 22
+    },
+    {
+      "parentId": 22,
+      "type": "text",
       "text": "Now, he's an old, sickly man who seems to not be satisfied with his role as world pariah. Maybe he can pass that mantle on to Ahmadinejad. He even softened his outlook on the U.S. recently, asking:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/f/fidel_castro.html",
+      "id": 23
+    },
+    {
+      "type": "paragraph",
+      "id": 24,
+      "parentId": 23
+    },
+    {
+      "parentId": 24,
+      "type": "text",
+      "text": "How can we help President Obama?",
       "sourceTitle": "Fidel Castro Quotes",
-      "text": "How can we help President Obama?"
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/f/fidel_castro.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/11/01/obama-hugo-chavez-mitt-romney_n_2055927.html",
+      "type": "paragraph",
+      "id": 25
+    },
+    {
+      "parentId": 25,
+      "type": "text",
+      "text": "But shh… don't tell the Republicans. They'll have a field day. Oh, wait, they already did.",
       "sourceTitle": "Obama Tied to Hugo Chavez, Fidel Castro In Mitt Romney Spanish-Language Ad",
-      "text": "But shh… don't tell the Republicans. They'll have a field day. Oh, wait, they already did."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.huffingtonpost.com/2012/11/01/obama-hugo-chavez-mitt-romney_n_2055927.html"
     }
   ],
   "wikipediaData": {

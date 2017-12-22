@@ -38,122 +38,175 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Lucille Ball was born in Jamestown, New York and grew up between Jamestown, Anaconda, Montana and Wyandotte, Michigan. She died in Hollywood, California of a ruptured aorta in 1989."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Ball was raised a Baptist and apparently never officially left that religion despite other interests and outside pressures."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pb/Lucille_Ball.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "First of all, Lucy's famous husband and partner, Desi Arnaz, was a traditional Latin American Catholic and wanted Lucy to convert. She studied Catholicism and seemed to consider the possibility of conversion, but never did.",
       "sourceTitle": "The religion of Lucille Ball, actress and comedienne",
-      "text": "First of all, Lucy's famous husband and partner, Desi Arnaz, was a traditional Latin American Catholic and wanted Lucy to convert. She studied Catholicism and seemed to consider the possibility of conversion, but never did."
+      "sourceUrl": "http://www.adherents.com/people/pb/Lucille_Ball.html"
     },
     {
-      "type": "sentence",
-      "text": "Later, Lucy and Desi divorced, a rare a somewhat blasphemous occurrence for a Catholic."
+      "type": "text",
+      "text": "Later, Lucy and Desi divorced, a rare a somewhat blasphemous occurrence for a Catholic.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.blogtalkradio.com/energy321/2010/06/28/lucille-ball-talks-about-numerology",
+      "parentId": 4,
+      "type": "text",
+      "text": "But traditional Christian denominations were a bit too mainstream for Lucy, whose real spiritual interests included numerology,",
       "sourceTitle": "Lucille Ball Talks about Numerology",
-      "text": "But traditional Christian denominations were a bit too mainstream for Lucy, whose real spiritual interests included numerology,"
+      "sourceUrl": "http://www.blogtalkradio.com/energy321/2010/06/28/lucille-ball-talks-about-numerology"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pb/Lucille_Ball.html",
+      "type": "text",
+      "text": "astrology,",
+      "parentId": 4,
       "sourceTitle": "The religion of Lucille Ball, actress and comedienne",
-      "text": "astrology,"
+      "sourceUrl": "http://www.adherents.com/people/pb/Lucille_Ball.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://amazingdiscoveries.org/S-deception-media_Hollywood_occult",
+      "type": "text",
+      "text": "and the occult. Lucy recounts how she made the shift from feature films to television in 1951. She claims that the spirit of late actress Carole Lombard came to her, advising her that her true destiny was in TV.",
+      "parentId": 4,
       "sourceTitle": "Hollywood's History",
-      "text": "and the occult. Lucy recounts how she made the shift from feature films to television in 1951. She claims that the spirit of late actress Carole Lombard came to her, advising her that her true destiny was in TV."
+      "sourceUrl": "http://amazingdiscoveries.org/S-deception-media_Hollywood_occult"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "Certain quotes contrast Ball's search for spirituality and even suggest that she was an atheist. For example, when she was asked if she believes in an afterlife, Lucy said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://en.allexperts.com/q/Love-Lucy-1376/Lucy-Religion.htm",
-      "sourceTitle": "I Love Lucy: Lucy and Religion, ball lucille, itinerant ministers",
-      "text": "It would be nice, but 'tain't true, even though it's awful hard to let go of those people you love."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "It would be nice, but 'tain't true, even though it's awful hard to let go of those people you love.",
+      "sourceTitle": "I Love Lucy: Lucy and Religion, ball lucille, itinerant ministers",
+      "sourceUrl": "http://en.allexperts.com/q/Love-Lucy-1376/Lucy-Religion.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Adding to the complex web of Lucy's spirituality, she seems to have decided at some point that it's all about self-love and inner peace. She said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/l/lucille_ball.html",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I have an everyday religion that works for me. Love yourself first, and everything else falls into line.",
       "sourceTitle": "Lucille Ball Quotes",
-      "text": "I have an everyday religion that works for me. Love yourself first, and everything else falls into line."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/l/lucille_ball.html"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "The original political celebrity"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Lucy was perhaps the biggest star of her generation. Her life was highly scrutinized and her fame probably contributed to the fact that she got herself into a bit of trouble over her political beliefs. You see, Lucy's red streak didn't stop at her hair."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://socialistworker.org/2011/08/11/when-lucy-was-a-red",
+      "parentId": 14,
+      "type": "text",
+      "text": "In 1936 and 1938, Lucy was a confirmed, registered member of the Communist Party. She even held party meetings at her house on occasion.",
       "sourceTitle": "When Lucy was a Red",
-      "text": "In 1936 and 1938, Lucy was a confirmed, registered member of the Communist Party. She even held party meetings at her house on occasion."
+      "sourceUrl": "http://socialistworker.org/2011/08/11/when-lucy-was-a-red"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.topsecretwriters.com/2010/12/the-1953-hearing-accusing-lucille-ball-of-communism/",
+      "type": "text",
+      "text": "Almost 20 years later, amidst the \"Red Scare\" and McCarthyism, Lucy was called before the infamous House Committee on Un-American Activities to explain herself. Ball denied any true affinity to communism and claimed that she only registered with the Communist Party to please her leftist grandfather. She was cleared of any official suspicion, though the FBI kept a file on her.",
+      "parentId": 14,
       "sourceTitle": "The 1953 Hearing Accusing Lucille Ball of Communism",
-      "text": "Almost 20 years later, amidst the \"Red Scare\" and McCarthyism, Lucy was called before the infamous House Committee on Un-American Activities to explain herself. Ball denied any true affinity to communism and claimed that she only registered with the Communist Party to please her leftist grandfather. She was cleared of any official suspicion, though the FBI kept a file on her."
+      "sourceUrl": "http://www.topsecretwriters.com/2010/12/the-1953-hearing-accusing-lucille-ball-of-communism/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.britishpathe.com/video/fund-raising-for-roosevelt/query/Lucille",
+      "parentId": 15,
+      "type": "text",
+      "text": "During the time in between Ball's communist phase and the \"Red Scare,\" America was at war with the Nazi's and not only was Democratic President Franklin Delano Roosevelt leading the troops from his wheelchair, he had managed to pull the U.S. out of its deepest economic crisis to date. Naturally, he was a popular guy. Lucy jumped on the FDR bandwagon, endorsing, campaigning, and raising campaign money for the president in 1944.",
       "sourceTitle": "Fund Raising For Roosevelt",
-      "text": "During the time in between Ball's communist phase and the \"Red Scare,\" America was at war with the Nazi's and not only was Democratic President Franklin Delano Roosevelt leading the troops from his wheelchair, he had managed to pull the U.S. out of its deepest economic crisis to date. Naturally, he was a popular guy. Lucy jumped on the FDR bandwagon, endorsing, campaigning, and raising campaign money for the president in 1944."
+      "sourceUrl": "http://www.britishpathe.com/video/fund-raising-for-roosevelt/query/Lucille"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.funtrivia.com/en/Celebrities/Ball-Lucille-13852.html",
+      "parentId": 16,
+      "type": "text",
+      "text": "But during her harrowing experience with the House Committee on Un-American Activities, Lucy admitted to casting her vote to President Dwight D. Eisenhower as an attempt to express her loyalty to the ideological opposite of communism–American Republicanism. That was the end of her political involvement and until her death in 1989, Lucy never again spoke her mind on any issues, candidates or ideologies.",
       "sourceTitle": "Ball, Lucille",
-      "text": "But during her harrowing experience with the House Committee on Un-American Activities, Lucy admitted to casting her vote to President Dwight D. Eisenhower as an attempt to express her loyalty to the ideological opposite of communism–American Republicanism. That was the end of her political involvement and until her death in 1989, Lucy never again spoke her mind on any issues, candidates or ideologies."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.funtrivia.com/en/Celebrities/Ball-Lucille-13852.html"
     }
   ],
   "wikipediaData": {

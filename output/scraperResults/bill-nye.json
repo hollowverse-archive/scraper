@@ -38,112 +38,200 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
+      "parentId": 1,
+      "type": "text",
+      "text": "Bill Nye was born and raised in Washington D.C."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
       "text": "We're not sure what, if any, religion Nye was exposed to growing up, but it's a safe bet that he is not religious today. Perhaps this statement sums up his personal views on the subject:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=6KYMHRUi1L0",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "If you want to exercise organized religion, knock yourselves out… if you get comfort from it, if it enriches your life, you have that community… that's fine, but the Bible is not a science textbook.",
       "sourceTitle": "Chelsea asks Bill Nye about Religion and Science",
-      "text": "If you want to exercise organized religion, knock yourselves out… if you get comfort from it, if it enriches your life, you have that community… that's fine, but the Bible is not a science textbook."
+      "sourceUrl": "http://www.youtube.com/watch?v=6KYMHRUi1L0"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Considering Nye's little niche in pop culture, it seems reasonable to assume that in the religion vs. science debate, he would side with science. And it is in science where, I think, we find Nye's spiritual beliefs. He once said:"
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.cbsnews.com/8301-505270_162-57501492/bill-nye-on-creationism-critique-im-not-attacking-religion/",
-      "sourceTitle": "Bill Nye on creationism critique: I'm not attacking religion",
-      "text": "The sun is a star, like all the other stars you see in the sky, and we are made of the same stuff. This is wonderful! This is fantastic discoveries that fill me with reverence, make me excited."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "The sun is a star, like all the other stars you see in the sky, and we are made of the same stuff. This is wonderful! This is fantastic discoveries that fill me with reverence, make me excited.",
+      "sourceTitle": "Bill Nye on creationism critique: I'm not attacking religion",
+      "sourceUrl": "http://www.cbsnews.com/8301-505270_162-57501492/bill-nye-on-creationism-critique-im-not-attacking-religion/"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Nye, the science guy, seems to take a similar view to many other celebrity scientists–Neil deGrasse Tyson, Stephen Hawking, etc.–that being an overwhelming respect and awe for the universe and the way in which its infinite, swirling complexity relates and interacts. And interestingly, he's not really open to opposing viewpoints. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.cbsnews.com/8301-505270_162-57501492/bill-nye-on-creationism-critique-im-not-attacking-religion/",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "The Earth is not 6,000 or 10,000 years old. It's not. And if that conflicts with your beliefs, I strongly feel you should question your beliefs.",
       "sourceTitle": "Bill Nye on creationism critique: I'm not attacking religion",
-      "text": "The Earth is not 6,000 or 10,000 years old. It's not. And if that conflicts with your beliefs, I strongly feel you should question your beliefs."
+      "sourceUrl": "http://www.cbsnews.com/8301-505270_162-57501492/bill-nye-on-creationism-critique-im-not-attacking-religion/"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "The separation of science and politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.syracuse.com/news/index.ssf/2012/09/science_guy_bill_nye_christian.html",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Nye's most pressing political concern appears to be the anti-scientism that manifests itself through votes and educational institutions in democratic America. Nye is, adamantly and controversially, a defender of evolutionary science and he is concerned by tendencies in America to think otherwise. He has protested the teaching of creationism in schools",
       "sourceTitle": "'Science Guy' Bill Nye: Religion dismissing evolution hurting US Science",
-      "text": "Nye's most pressing political concern appears to be the anti-scientism that manifests itself through votes and educational institutions in democratic America. Nye is, adamantly and controversially, a defender of evolutionary science and he is concerned by tendencies in America to think otherwise. He has protested the teaching of creationism in schools"
+      "sourceUrl": "http://www.syracuse.com/news/index.ssf/2012/09/science_guy_bill_nye_christian.html"
     },
     {
-      "type": "sentence",
-      "text": "and expresses profound concern at America's educational processes:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and expresses profound concern at America's educational processes:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.syracuse.com/news/index.ssf/2012/09/science_guy_bill_nye_christian.html",
-      "sourceTitle": "'Science Guy' Bill Nye: Religion dismissing evolution hurting US Science",
-      "text": "If we raise a generation of students who don't believe in the process of science, who think everything that we've come to know about nature and the universe can be dismissed by a few sentences translated into English from some ancient text, you're not going to continue to innovate."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "If we raise a generation of students who don't believe in the process of science, who think everything that we've come to know about nature and the universe can be dismissed by a few sentences translated into English from some ancient text, you're not going to continue to innovate.",
+      "sourceTitle": "'Science Guy' Bill Nye: Religion dismissing evolution hurting US Science",
+      "sourceUrl": "http://www.syracuse.com/news/index.ssf/2012/09/science_guy_bill_nye_christian.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "During the 2012 election cycle, Nye asked voters to consider a candidate's stance on science before casting a ballot:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.cbsnews.com/8301-505270_162-57501492/bill-nye-on-creationism-critique-im-not-attacking-religion/",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I encourage everybody who's a voter this year to evaluate the candidates based on their stand on science.",
       "sourceTitle": "Bill Nye on creationism critique: I'm not attacking religion",
-      "text": "I encourage everybody who's a voter this year to evaluate the candidates based on their stand on science."
+      "sourceUrl": "http://www.cbsnews.com/8301-505270_162-57501492/bill-nye-on-creationism-critique-im-not-attacking-religion/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/fec/bystate_detail.php?st=WA&last=NYE&first=BILL",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "For him, this evaluation must have brought him to the Democrats. All of his campaign contributions–totaling $4,300–have all gone to Democrats, with the largest chunk going to Barack Obama.",
       "sourceTitle": "Bill Nye's Federal Campaign Contribution Search Results",
-      "text": "For him, this evaluation must have brought him to the Democrats. All of his campaign contributions–totaling $4,300–have all gone to Democrats, with the largest chunk going to Barack Obama."
+      "sourceUrl": "http://www.newsmeat.com/fec/bystate_detail.php?st=WA&last=NYE&first=BILL"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.policymic.com/articles/11852/bill-nye-the-science-guy-endorses-obama-and-shoots-science-education-in-the-foot",
+      "parentId": 20,
+      "type": "text",
+      "text": "Furthermore, in 2012, Nye officially endorsed the president for re-election.",
       "sourceTitle": "Bill Nye the Science Guy Endorses Obama and Shoots Science Education in the Foot",
-      "text": "Furthermore, in 2012, Nye officially endorsed the president for re-election."
+      "sourceUrl": "http://www.policymic.com/articles/11852/bill-nye-the-science-guy-endorses-obama-and-shoots-science-education-in-the-foot"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/Nightline/story?id=3413135&page=1#.ULzyBYUZ-Bg",
+      "parentId": 21,
+      "type": "text",
+      "text": "Nye's left-leaning tendencies are further expressed in his dedication to environmental causes. He is, apparently, in an ongoing contest with actor Ed Begley, to see who can have the smallest carbon footprint.",
       "sourceTitle": "Eco-Friendly Competition: Who Can Go Greener?",
-      "text": "Nye's left-leaning tendencies are further expressed in his dedication to environmental causes. He is, apparently, in an ongoing contest with actor Ed Begley, to see who can have the smallest carbon footprint."
+      "sourceUrl": "http://abcnews.go.com/Nightline/story?id=3413135&page=1#.ULzyBYUZ-Bg"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 22
     },
     {
-      "type": "sentence",
+      "parentId": 22,
+      "type": "text",
       "text": "As you can see, the fellow deserves his title as \"The Science Guy.\""
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

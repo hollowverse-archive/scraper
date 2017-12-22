@@ -33,110 +33,170 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.malcolmx.com/about/bio.html",
+      "parentId": 1,
+      "type": "text",
+      "text": "Malcolm X, whose Arabic name was El-Hajj Malik El-Shabazz and who was born Malcolm Little, was born in Omaha, Nebraska. He grew up in a myriad of locations in the United States including Milwaukee, Wisconsin, Lansing, Michigan, Boston, Massachusetts, Flint, Michigan and New York City. He was assassinated in the Audubon Ballroom in Manhattan, New York in 1965."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Malcolm X was raised by a Baptist minister",
       "sourceTitle": "Biography.",
-      "text": "Malcolm X was raised by a Baptist minister"
+      "sourceUrl": "http://www.malcolmx.com/about/bio.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.malcolmx.com/about/bio.html",
+      "type": "text",
+      "text": "so we know that Christianity exerted a powerful influence on his youth. It wasn't until Malcolm served a seven-year prison sentence for burglary that he converted to the Nation of Islam.",
+      "parentId": 2,
       "sourceTitle": "Biography.",
-      "text": "so we know that Christianity exerted a powerful influence on his youth. It wasn't until Malcolm served a seven-year prison sentence for burglary that he converted to the Nation of Islam."
+      "sourceUrl": "http://www.malcolmx.com/about/bio.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Much like his political, social and economic philosophies (which we'll get to later), Malcolm X's outlook on Islam can be divided between two periods: before he went to Africa and after. Before his travels, Malcolm X was quite a bit more militant. He said things like:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/quotes/276219-i-am-a-muslim-because-it-s-a-religion-that-teaches",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I am a Muslim, because it's a religion that teaches you an eye for an eye and a tooth for a tooth. It teaches you to respect everybody, and treat everybody right. But it also teaches you if someone steps on your toe, chop off their foot. And I carry my religious axe with me all the time.",
       "sourceTitle": "Quote by Malcolm X: I am a Muslim because it is a religion that tea..",
-      "text": "I am a Muslim, because it's a religion that teaches you an eye for an eye and a tooth for a tooth. It teaches you to respect everybody, and treat everybody right. But it also teaches you if someone steps on your toe, chop off their foot. And I carry my religious axe with me all the time."
+      "sourceUrl": "http://www.goodreads.com/quotes/276219-i-am-a-muslim-because-it-s-a-religion-that-teaches"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.malcolmx.com/about/bio3.html",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "In 1963, Malcolm X traveled to Africa, the Middle East and Europe where he met white people of whomhe could find no reason to hate.",
       "sourceTitle": "Biography",
-      "text": "In 1963, Malcolm X traveled to Africa, the Middle East and Europe where he met white people of whomhe could find no reason to hate."
+      "sourceUrl": "http://www.malcolmx.com/about/bio3.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.malcolmx.com/about/bio2.html",
+      "type": "text",
+      "text": "Furthermore, Malcolm X discovered hypocrisies and deceptions within the Nation of Islam that caused him to question his allegiance to the organization.",
+      "parentId": 6,
       "sourceTitle": "Biography",
-      "text": "Furthermore, Malcolm X discovered hypocrisies and deceptions within the Nation of Islam that caused him to question his allegiance to the organization."
+      "sourceUrl": "http://www.malcolmx.com/about/bio2.html"
     },
     {
-      "type": "sentence",
-      "text": "At this time, he changed his socio-political worldview as well as his religious tone, saying things like:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "At this time, he changed his socio-political worldview as well as his religious tone, saying things like:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/quotes/276221-america-needs-to-understand-islam-because-this-is-the-one",
-      "sourceTitle": "Quote by Malcolm X: America needs to understand Islam, because this…",
-      "text": "[Islam] is the one religion that erases from its society the race problem. Throughout my travels in the Muslim world, I have met, talked to, and even eaten with people who in America would have been considered white, but the white attitude was removed from their minds by the religion of Islam."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "[Islam] is the one religion that erases from its society the race problem. Throughout my travels in the Muslim world, I have met, talked to, and even eaten with people who in America would have been considered white, but the white attitude was removed from their minds by the religion of Islam.",
+      "sourceTitle": "Quote by Malcolm X: America needs to understand Islam, because this…",
+      "sourceUrl": "http://www.goodreads.com/quotes/276221-america-needs-to-understand-islam-because-this-is-the-one"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "It's all a matter of interpretation, isn't it? Here we see Malcolm X seeing Islam as many today call it: The religion of peace."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Black Nationalism"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=Ix2-m1gDX8s",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Malcolm X's political philosophy saw a similar transition. He is often seen as one side of a coin, with Dr. Martin Luther King Jr. as the other. Where King saw the goal as full integration for black people into American society, Malcolm X thought it best if they were separate and self-governing. Malcolm X called his philosophy \"Black Nationalism,\" and he separated it into three categories: a political philosophy, an economic philosophy and a social philosophy.",
       "sourceTitle": "Malcolm X: My Philosophy is Black Nationalism",
-      "text": "Malcolm X's political philosophy saw a similar transition. He is often seen as one side of a coin, with Dr. Martin Luther King Jr. as the other. Where King saw the goal as full integration for black people into American society, Malcolm X thought it best if they were separate and self-governing. Malcolm X called his philosophy \"Black Nationalism,\" and he separated it into three categories: a political philosophy, an economic philosophy and a social philosophy."
+      "sourceUrl": "http://www.youtube.com/watch?v=Ix2-m1gDX8s"
     },
     {
-      "type": "sentence",
-      "text": "He described it as follows:"
+      "type": "text",
+      "text": "He described it as follows:",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.socialistalternative.org/literature/malcolmx/ch4.html",
+      "parentId": 12,
+      "type": "text",
+      "text": "Following Malcolm X's international travels and his rejection of the Nation of Islam, he founded a new Muslim organization called Muslim Mosque, Inc., which sought to mobilize Muslims and non-Muslims alike to the cause of black equality.",
       "sourceTitle": "The Last Year",
-      "text": "Following Malcolm X's international travels and his rejection of the Nation of Islam, he founded a new Muslim organization called Muslim Mosque, Inc., which sought to mobilize Muslims and non-Muslims alike to the cause of black equality."
+      "sourceUrl": "http://www.socialistalternative.org/literature/malcolmx/ch4.html"
     },
     {
-      "type": "sentence",
-      "text": "He took a much more positive, peaceful stance, saying things like:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He took a much more positive, peaceful stance, saying things like:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/malcolm_x.html",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I believe in human beings, and that all human beings should be respected as such, regardless of their color.",
       "sourceTitle": "Malcolm X Quotes",
-      "text": "I believe in human beings, and that all human beings should be respected as such, regardless of their color."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/malcolm_x.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Sadly, he only had about one year to work with Muslim Mosque, Inc. before he died. He spent the bulk of his life as an activist on the fringes of society, appearing much too extreme to be taken seriously by most. However, one could argue that Malcolm X and his ilk were a necessary counterpoint to Dr. Martin Luther King, who simultaneously provided an outlet for the more angry sector of black American society while simultaneously making King and his movement appear much more reasonable and rational by comparison."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

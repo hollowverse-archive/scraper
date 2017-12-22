@@ -32,146 +32,200 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Aishwarya Rai, whose name is now, after her marriage, Aishwarya Rai Bachchan, was born in Magalore, India and grew up in Mumbai, India."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/383/000045248/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Rai is a Hindu",
       "sourceTitle": "Aishwarya Rai",
-      "text": "Rai is a Hindu"
+      "sourceUrl": "http://www.nndb.com/people/383/000045248/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0706787/bio",
+      "type": "text",
+      "text": "and a member of a Southern Indian upper-caste ethnic group called the Bunt.",
+      "parentId": 2,
       "sourceTitle": "Aishwarya Rai Bachchan – Biography",
-      "text": "and a member of a Southern Indian upper-caste ethnic group called the Bunt."
+      "sourceUrl": "http://www.imdb.com/name/nm0706787/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Rai is often admired for the her rare combination of extreme fame and religious humility. She is highly devoted to her religion, worships often, and sometimes muses that the admiration of fans–particularly at temples and other holy sites–borders on blasphemous. She has said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.cbsnews.com/stories/2004/12/29/60minutes/main663862.shtml",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "[All the attention] makes me feel guilty. I'll be very honest. When there's a distraction at the place of worship I kinda get a bit guilty. And I kind of say, 'Lord, forgive me. This isn't intended.'",
       "sourceTitle": "The World's Most Beautiful Woman?",
-      "text": "[All the attention] makes me feel guilty. I'll be very honest. When there's a distraction at the place of worship I kinda get a bit guilty. And I kind of say, 'Lord, forgive me. This isn't intended.'"
+      "sourceUrl": "http://www.cbsnews.com/stories/2004/12/29/60minutes/main663862.shtml"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.contactmusic.com/news/rai-caught-up-in-religious-controversy_1017763",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "At one point, Rai's bodyguard was accused of mishandling members of a rowdy crowd at a temple when she was worshiping, resulting in a minor scandal for the star. Rai and her bodyguard were accused of desecrating the temple and the bodyguard was accused of being drunk. Local officials were outraged.",
       "sourceTitle": "Rai Caught Up In Religious Controversy",
-      "text": "At one point, Rai's bodyguard was accused of mishandling members of a rowdy crowd at a temple when she was worshiping, resulting in a minor scandal for the star. Rai and her bodyguard were accused of desecrating the temple and the bodyguard was accused of being drunk. Local officials were outraged."
+      "sourceUrl": "http://www.contactmusic.com/news/rai-caught-up-in-religious-controversy_1017763"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.desipowerchat.com/bollywoodnews/x48_aishwarya_rai_abhishek_bachchan_romantic_confessions.htm",
+      "parentId": 7,
+      "type": "text",
+      "text": "However, Rai remains humble, even living with her parents up until her wedding day–as traditional Hindu girls do.",
       "sourceTitle": "Abhishek Bachchan and Aishwarya Rai Bachchan reveals their romantic secrets…",
-      "text": "However, Rai remains humble, even living with her parents up until her wedding day–as traditional Hindu girls do."
+      "sourceUrl": "http://www.desipowerchat.com/bollywoodnews/x48_aishwarya_rai_abhishek_bachchan_romantic_confessions.htm"
     },
     {
-      "type": "sentence",
-      "text": "And she is very conservative when it comes to sex and nudity, refusing to do racy scenes and speaks lowly of such things during interviews:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And she is very conservative when it comes to sex and nudity, refusing to do racy scenes and speaks lowly of such things during interviews:",
+      "parentId": 7
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0706787/bio",
-      "sourceTitle": "Aishwarya Rai Bachchan – Biography",
-      "text": "I am not comfortable about kissing or nudity."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I am not comfortable about kissing or nudity.",
+      "sourceTitle": "Aishwarya Rai Bachchan – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0706787/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Despite her beauty, fame and wealth, it seems that faith and family have kept Rai quite uncharacteristically grounded."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "Politics of fame"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Rai is interested in making society–and the world, really–a better place. Whether or not that translates to loyalty to one party over another in India, I can't say. But it seems doubtful."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/entertainment/4172970.stm",
+      "parentId": 13,
+      "type": "text",
+      "text": "She is, at times, called to serve her government. In 2005, Rai participated in a state-sponsored awareness campaign to attempt to eradicate polio in India and Pakistan–two of the places where this near-extinct disease still exists.",
       "sourceTitle": "Actress Rai backs polio campaign",
-      "text": "She is, at times, called to serve her government. In 2005, Rai participated in a state-sponsored awareness campaign to attempt to eradicate polio in India and Pakistan–two of the places where this near-extinct disease still exists."
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/entertainment/4172970.stm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/charity/peta",
+      "parentId": 14,
+      "type": "text",
+      "text": "Perhaps the only thing that ties her to anything remotely controversial is her PETA membership,",
       "sourceTitle": "Celebrity Supporters",
-      "text": "Perhaps the only thing that ties her to anything remotely controversial is her PETA membership,"
+      "sourceUrl": "http://www.looktothestars.org/charity/peta"
     },
     {
-      "type": "sentence",
-      "text": "something that might qualify her for liberalism in the U.S., but I'm no expert on Indian culture. It could be totally uninteresting over there."
+      "type": "text",
+      "text": "something that might qualify her for liberalism in the U.S., but I'm no expert on Indian culture. It could be totally uninteresting over there.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://movies.ndtv.com/movie_story.aspx?Section=Movies&ID=270772&subcatg=&keyword=bollywood&nid=270772",
+      "parentId": 15,
+      "type": "text",
+      "text": "Rai has participated in various international causes, namely with the United Nations, both in the promotion of world peace",
       "sourceTitle": "Aishwarya, Michael Douglas at UN to mark International Day of Peace",
-      "text": "Rai has participated in various international causes, namely with the United Nations, both in the promotion of world peace"
+      "sourceUrl": "http://movies.ndtv.com/movie_story.aspx?Section=Movies&ID=270772&subcatg=&keyword=bollywood&nid=270772"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thehindu.com/news/international/aishwarya-rai-appointed-goodwill-ambassador-for-unaids/article3934671.ece",
+      "type": "text",
+      "text": "and in the battle against HIV/AIDS.",
+      "parentId": 15,
       "sourceTitle": "Aishwarya Rai named Goodwill Ambassador for UNAIDS",
-      "text": "and in the battle against HIV/AIDS."
+      "sourceUrl": "http://www.thehindu.com/news/international/aishwarya-rai-appointed-goodwill-ambassador-for-unaids/article3934671.ece"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thehindu.com/arts/cinema/aishwarya-rai-to-be-conferred-french-honour/article4051871.ece",
+      "parentId": 16,
+      "type": "text",
+      "text": "She's been honored by the French government, by the prestigious Order of Arts and Letters,",
       "sourceTitle": "Aishwarya Rai to be conferred French honour",
-      "text": "She's been honored by the French government, by the prestigious Order of Arts and Letters,"
+      "sourceUrl": "http://www.thehindu.com/arts/cinema/aishwarya-rai-to-be-conferred-french-honour/article4051871.ece"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://indiatoday.intoday.in/story/aishwarya-rai-beti-b-cannes-film-festival-2012/1/188264.html",
+      "type": "text",
+      "text": "and was the first ever Indian actor to serve on the jury of the Cannes Film Festival.",
+      "parentId": 16,
       "sourceTitle": "Aishwarya Rai to attend Cannes with Beti B?",
-      "text": "and was the first ever Indian actor to serve on the jury of the Cannes Film Festival."
+      "sourceUrl": "http://indiatoday.intoday.in/story/aishwarya-rai-beti-b-cannes-film-festival-2012/1/188264.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.aishwarya-rai-pictures.com/aishwarya-rai-is-100-most-influential.html",
+      "parentId": 17,
+      "type": "text",
+      "text": "All in all, this lady does her best to make a difference. Perhaps that's why she's considered one of the world's most influential people.",
       "sourceTitle": "Aishwarya Rai is 100 most influential people",
-      "text": "All in all, this lady does her best to make a difference. Perhaps that's why she's considered one of the world's most influential people."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.aishwarya-rai-pictures.com/aishwarya-rai-is-100-most-influential.html"
     }
   ],
   "wikipediaData": {

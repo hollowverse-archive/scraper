@@ -33,124 +33,225 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Michael Phelps was born and raised in Towson, Maryland."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.catholicnewsagency.com/news/michael_phelps_turns_down_chance_to_meet_with_pope_benedict/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Phelps is (or was) a Christian of some kind. His MySpace page lists him as \"Christian-other,\" but his Facebook page (clearly the more reliable of the social media sites) says \"No Answer\" under religion.",
       "sourceTitle": "Michael Phelps turns down chance to meet with Pope Benedict",
-      "text": "Phelps is (or was) a Christian of some kind. His MySpace page lists him as \"Christian-other,\" but his Facebook page (clearly the more reliable of the social media sites) says \"No Answer\" under religion."
+      "sourceUrl": "http://www.catholicnewsagency.com/news/michael_phelps_turns_down_chance_to_meet_with_pope_benedict/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "His quotes on the subject leave much in the way of ambiguity. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.time.com/time/arts/article/0,8599,1612765,00.html",
-      "sourceTitle": "More Questions with Michael Phelps",
-      "text": "I guess I was made this way for some reason, and I've been able to find the talent I have, and I've been able to use it, so I'm grateful for that. I believe in God; I'm not saying I'm highly religious. I used to always go to church on holidays, but I don't go much any more."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I guess I was made this way for some reason, and I've been able to find the talent I have, and I've been able to use it, so I'm grateful for that. I believe in God; I'm not saying I'm highly religious. I used to always go to church on holidays, but I don't go much any more.",
+      "sourceTitle": "More Questions with Michael Phelps",
+      "sourceUrl": "http://www.time.com/time/arts/article/0,8599,1612765,00.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Believes in God? Not an atheist. Not a polytheist. Made for a purpose–determinist, Calvinist? These questions only leave more questions. C'mon Phelps! Where's the \"God-granted-me-the-power-to-win-18-gold-medals stuff?\""
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.catholicnewsagency.com/news/michael_phelps_turns_down_chance_to_meet_with_pope_benedict/",
+      "parentId": 7,
+      "type": "text",
+      "text": "He's a bit irreverent as well. He did turn down a chance to meet Pope Benedict in 2009.",
       "sourceTitle": "Michael Phelps turns down chance to meet with Pope Benedict",
-      "text": "He's a bit irreverent as well. He did turn down a chance to meet Pope Benedict in 2009."
+      "sourceUrl": "http://www.catholicnewsagency.com/news/michael_phelps_turns_down_chance_to_meet_with_pope_benedict/"
     },
     {
-      "type": "sentence",
-      "text": "Maybe he's not Catholic, but it still would've been cool, just to say you did it, right?"
+      "type": "text",
+      "text": "Maybe he's not Catholic, but it still would've been cool, just to say you did it, right?",
+      "parentId": 7
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.patheos.com/blogs/cultivare/2012/08/the-olympics-as-existential-narcotic/",
+      "parentId": 8,
+      "type": "text",
+      "text": "Interestingly, some academics have said that Phelps has given people a way to address the existential angst they usually cure with religion–being that he's an immortal hero and all.",
       "sourceTitle": "The Olympics as \"Existential Narcotic\": How Michael Phelps Represses Our Fear of Death",
-      "text": "Interestingly, some academics have said that Phelps has given people a way to address the existential angst they usually cure with religion–being that he's an immortal hero and all."
+      "sourceUrl": "http://www.patheos.com/blogs/cultivare/2012/08/the-olympics-as-existential-narcotic/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "text": "Next, it'll be: \"Michael Phelps Jesus!\""
+      "parentId": 9,
+      "type": "text",
+      "text": "Next, it'll be: \"Michael Phelps"
     },
     {
-      "type": "break"
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "is"
+    },
+    {
+      "type": "text",
+      "text": "Jesus!\"",
+      "parentId": 9
     },
     {
       "type": "heading",
-      "text": "Michael Phelps America!"
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
+      "text": "Michael Phelps"
+    },
+    {
+      "parentId": 10,
+      "type": "emphasis",
+      "text": "is"
+    },
+    {
+      "type": "text",
+      "text": "America!",
+      "parentId": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Phelps is a representative of an entire nation–an entirely divided, cracked-down-the-middle nation. That being the case, he's wise to stick to patriotic platitudes and stay out of the debates over specific issues. For example, he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/michael_phelps_3.html",
-      "sourceTitle": "Michael Phelps Quotes Page 3",
-      "text": "I think to be–for me to be an American is… it's one of the greatest things in the world… for me just because I've been able to grow up with everything. The freedom. You know, in my eyes this is the greatest country in the world."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I think to be–for me to be an American is… it's one of the greatest things in the world… for me just because I've been able to grow up with everything. The freedom. You know, in my eyes this is the greatest country in the world.",
+      "sourceTitle": "Michael Phelps Quotes Page 3",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/michael_phelps_3.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "And politicians all the way up to the top are congratulating him on his victories. Obama himself tweeted to Phelps:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.politico.com/blogs/click/2012/08/obama-to-michael-phelps-were-proud-130740.html",
-      "sourceTitle": "Obama to Michael Phelps. We're Proud",
-      "text": "Congrats to Michael Phelps for breaking the all-time Olympic medal record. You've made your country proud."
+      "id": 15
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Congrats to Michael Phelps for breaking the all-time Olympic medal record. You've made your country proud.",
+      "sourceTitle": "Obama to Michael Phelps. We're Proud",
+      "sourceUrl": "http://www.politico.com/blogs/click/2012/08/obama-to-michael-phelps-were-proud-130740.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Phelps replied:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.politico.com/blogs/click/2012/08/obama-to-michael-phelps-were-proud-130740.html",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Thank you Mr. President!! It's an honor representing the USA!! The best country in the world!!",
       "sourceTitle": "Obama to Michael Phelps. We're Proud",
-      "text": "Thank you Mr. President!! It's an honor representing the USA!! The best country in the world!!"
+      "sourceUrl": "http://www.politico.com/blogs/click/2012/08/obama-to-michael-phelps-were-proud-130740.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=cEmWy1d9kYM",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "But that's far from any sort of endorsement. Maybe we could assume Phelps is a Democrat considering he garnered the ire of hyper-conservative Republican pundit Rush Limbaugh, who thought the fact that Phelps eats 12,000 calories a day was worthy of some sarcasm and calling Phelps the \"epitome of what is wrong with the Unites States of America today.\"",
       "sourceTitle": "Republican Rush Limbaugh bashes Michael Phelps",
-      "text": "But that's far from any sort of endorsement. Maybe we could assume Phelps is a Democrat considering he garnered the ire of hyper-conservative Republican pundit Rush Limbaugh, who thought the fact that Phelps eats 12,000 calories a day was worthy of some sarcasm and calling Phelps the \"epitome of what is wrong with the Unites States of America today.\""
+      "sourceUrl": "http://www.youtube.com/watch?v=cEmWy1d9kYM"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "break"
+      "parentId": 21,
+      "type": "text",
+      "text": "Again, that's purely circumstantial. Maybe you commentators have a line on Phelps' real political views. And no, the fact that he smoked some pot",
+      "sourceTitle": "Michael Phelps Pot Shot Was A Learning Experience",
+      "sourceUrl": "http://www.eonline.com/news/328937/michael-phelps-pot-shot-was-a-learning-experience"
+    },
+    {
+      "type": "text",
+      "text": "isn't enough to call him a liberal.",
+      "parentId": 21
     }
   ],
   "wikipediaData": {

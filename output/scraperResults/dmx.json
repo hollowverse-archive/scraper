@@ -35,89 +35,154 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "DMX, whose real name is Earl Simmons, was born in Baltimore, Maryland and raised in Yonkers, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "DMX, to the average person who only knows him by his music, is not usually associated with religion or spirituality (except of course for the fact that he names one song on all of his albums, \"Prayer\")."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0229422/bio",
+      "parentId": 3,
+      "type": "text",
+      "text": "But this best-selling hardcore rapper is actually quite religious. It all started when he went to prison as a result of drug charges. There, DMX found Jesus–or found him again. DMX's family was Jehovah's Witness briefly when he was child",
       "sourceTitle": "DMX (I) – Biography",
-      "text": "But this best-selling hardcore rapper is actually quite religious. It all started when he went to prison as a result of drug charges. There, DMX found Jesus–or found him again. DMX's family was Jehovah's Witness briefly when he was child"
+      "sourceUrl": "http://www.imdb.com/name/nm0229422/bio"
     },
     {
-      "type": "sentence",
-      "text": "but it didn't stick."
+      "type": "text",
+      "text": "but it didn't stick.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christiantoday.com/article/rapper.dmx.says.life.calling.is.to.be.a.pastor/22333.htm",
+      "parentId": 4,
+      "type": "text",
+      "text": "During his time in prison, DMX reported that he read the Bible everyday and that his new ultimate goal was to become a pastor.",
       "sourceTitle": "Rapper DMX says life calling is to be a pastor",
-      "text": "During his time in prison, DMX reported that he read the Bible everyday and that his new ultimate goal was to become a pastor."
+      "sourceUrl": "http://www.christiantoday.com/article/rapper.dmx.says.life.calling.is.to.be.a.pastor/22333.htm"
     },
     {
-      "type": "sentence",
-      "text": "But his evangelism didn't stop there and he considered his new calling to be converting unbelievers to Christianity. He said of his being sent to prison:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But his evangelism didn't stop there and he considered his new calling to be converting unbelievers to Christianity. He said of his being sent to prison:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.christiantoday.com/article/rapper.dmx.says.life.calling.is.to.be.a.pastor/22333.htm",
-      "sourceTitle": "Rapper DMX says life calling is to be a pastor",
-      "text": "I came here to meet somebody. Don't know who it was, but I'll know when I see him. And I came here to give him a message. And that message is Jesus loves them."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I came here to meet somebody. Don't know who it was, but I'll know when I see him. And I came here to give him a message. And that message is Jesus loves them.",
+      "sourceTitle": "Rapper DMX says life calling is to be a pastor",
+      "sourceUrl": "http://www.christiantoday.com/article/rapper.dmx.says.life.calling.is.to.be.a.pastor/22333.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Now, even his stage name is in question. The acronym, DMX, stands for \"Dark Man Extreme,\" and DMX has been wondering if that's a good fit for his new persona. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.gossiprocks.com/forum/gossip-archive/20025-dmx-change-his-name-due-religious-concern.html",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I think I'm going to have to change that soon for spiritual reasons. It's just the whole 'Dark Man' thing. If you look at it from a spiritual point of view, the Bible teaches us we can speak things into existence. And Dark Man may not be the best name for me.",
       "sourceTitle": "DMX to change his name due to religious concern",
-      "text": "I think I'm going to have to change that soon for spiritual reasons. It's just the whole 'Dark Man' thing. If you look at it from a spiritual point of view, the Bible teaches us we can speak things into existence. And Dark Man may not be the best name for me."
+      "sourceUrl": "http://www.gossiprocks.com/forum/gossip-archive/20025-dmx-change-his-name-due-religious-concern.html"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Dark Man politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "DMX is seriously uninformed politically. Much of this might be due to his not being able to vote because he's a felon. But in 2008, when the world was reeling from the prospect of America's first president, DMX had never even heard of the man. During an interview, a journalist asked him if he'd been following the political race and indicated that one of the candidates was a black man. DMX said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thedailyswarm.com/swarm/dmx-barack-obama/",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "His name is Barack!?… Wow, Barack! The nigga's name is Barack. Barack? Nigga named Barack Obama. What the fuck, man?! Is he serious? That ain't his fuckin' name. Ima tell this nigga when I see him, 'Stop that bullshit. Stop that bullshit.' That ain't your fucking name. Your momma ain't name you no damn Barack.",
       "sourceTitle": "DMX on Barack Obama",
-      "text": "His name is Barack!?… Wow, Barack! The nigga's name is Barack. Barack? Nigga named Barack Obama. What the fuck, man?! Is he serious? That ain't his fuckin' name. Ima tell this nigga when I see him, 'Stop that bullshit. Stop that bullshit.' That ain't your fucking name. Your momma ain't name you no damn Barack."
+      "sourceUrl": "http://www.thedailyswarm.com/swarm/dmx-barack-obama/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.femalefirst.co.uk/music/musicnews/America-255685.html",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Wow, I mean there's uninformed and then there's DMX. But that doesn't mean he doesn't care. DMX donated the first week's sales of his 2012 album,"
+    },
+    {
+      "parentId": 15,
+      "type": "emphasis",
+      "text": "Undisputed,"
+    },
+    {
+      "type": "text",
+      "text": "to a 9/11 memorial fund.",
+      "parentId": 15,
       "sourceTitle": "DMX Donating First-Week Album  Proceeds to 911 Families",
-      "text": "Wow, I mean there's uninformed and then there's DMX. But that doesn't mean he doesn't care. DMX donated the first week's sales of his 2012 album,  to a 9/11 memorial fund."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.femalefirst.co.uk/music/musicnews/America-255685.html"
     }
   ],
   "wikipediaData": {

@@ -35,109 +35,176 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Enrique Iglesias, whose full name is Enrique Miguel Iglesias Preysler, was born in Madrid, Spain and raised in Miami, Florida."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/largecom/fam_catholic.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Being a Spanish man, Iglesias was raised a Roman Catholic.",
       "sourceTitle": "Famous Catholics",
-      "text": "Being a Spanish man, Iglesias was raised a Roman Catholic."
+      "sourceUrl": "http://www.adherents.com/largecom/fam_catholic.html"
     },
     {
-      "type": "sentence",
-      "text": "He is either not devout in his faith or opts to not speak much of it. There is evidence to support both sides of this argument."
+      "type": "text",
+      "text": "He is either not devout in his faith or opts to not speak much of it. There is evidence to support both sides of this argument.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.enriqueiglesias.com/forum/topics/may-i-ask-about-personal-life?commentId=3123159%3AComment%3A880515",
+      "parentId": 3,
+      "type": "text",
+      "text": "First, Iglesias is often photographed wearing a rosary and it is reported that he crosses himself before every performance and often prays. On the other hand, Iglesias apparently believes that God is \"inside\" him and when asked if he believes in an afterlife, he responded: \"Yes and no,\"",
       "sourceTitle": "May I ask about personal life of Enrique",
-      "text": "First, Iglesias is often photographed wearing a rosary and it is reported that he crosses himself before every performance and often prays. On the other hand, Iglesias apparently believes that God is \"inside\" him and when asked if he believes in an afterlife, he responded: \"Yes and no,\""
+      "sourceUrl": "http://www.enriqueiglesias.com/forum/topics/may-i-ask-about-personal-life?commentId=3123159%3AComment%3A880515"
     },
     {
-      "type": "sentence",
-      "text": "whatever that means."
+      "type": "text",
+      "text": "whatever that means.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "text": "Also, one of Iglesias' songs, , likens spending time with a woman to a religious experience, with lyrics like:"
+      "parentId": 4,
+      "type": "text",
+      "text": "Also, one of Iglesias' songs,"
     },
     {
-      "type": "break"
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "Religious Experience"
+    },
+    {
+      "type": "text",
+      "text": ", likens spending time with a woman to a religious experience, with lyrics like:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://lyricstranslate.com/en/experiencia-religiosa-religious-experience.html",
-      "sourceTitle": "Religious Experience",
-      "text": "It's almost a religious experience/Feeling resurrected if you touch me/Rising up to the heavens lit by your body/It's a religious experience."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "It's almost a religious experience/Feeling resurrected if you touch me/Rising up to the heavens lit by your body/It's a religious experience.",
+      "sourceTitle": "Religious Experience",
+      "sourceUrl": "http://lyricstranslate.com/en/experiencia-religiosa-religious-experience.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "It seems a bit sacrilegious, doesn't it?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.eonline.com/news/197538/enrique-iglesias-gets-a-new-stepmom",
+      "parentId": 8,
+      "type": "text",
+      "text": "Still, Catholicism runs deep in Iglesias' family. His father recently re-married in a Catholic ceremony in Spain.",
       "sourceTitle": "Erique Iglesias Gets A New Stepmom",
-      "text": "Still, Catholicism runs deep in Iglesias' family. His father recently re-married in a Catholic ceremony in Spain."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.eonline.com/news/197538/enrique-iglesias-gets-a-new-stepmom"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Politics of a Spanish crooner"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.iwatchnews.org/2000/09/14/3270/when-democrats-wined-and-dined-heres-who-paid-piper",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Iglesias isn't all that political, but when he is, it's in the service of the standard liberal agenda. Iglesias did perform at the 2000 Democratic National Convention,",
       "sourceTitle": "When the Democrats wined and dined, here's who paid the piper",
-      "text": "Iglesias isn't all that political, but when he is, it's in the service of the standard liberal agenda. Iglesias did perform at the 2000 Democratic National Convention,"
+      "sourceUrl": "http://www.iwatchnews.org/2000/09/14/3270/when-democrats-wined-and-dined-heres-who-paid-piper"
     },
     {
-      "type": "sentence",
-      "text": "but it might have been just another gig for the singer. Iglesias admitted later that he wasn't a big fan of Al Gore (the 2000 Democratic presidential candidate) until he saw Gore's film, , saying:"
+      "type": "text",
+      "text": "but it might have been just another gig for the singer. Iglesias admitted later that he wasn't a big fan of Al Gore (the 2000 Democratic presidential candidate) until he saw Gore's film,",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "parentId": 10,
+      "type": "emphasis",
+      "text": "An Inconvenient Truth"
+    },
+    {
+      "type": "text",
+      "text": ", saying:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/567-enrique-iglesias",
-      "sourceTitle": "Erique Iglesias' Charity Work, Events, and Causes",
-      "text": "I saw the documentary [An Inconvenient Truth] and wanted to get involved, so I had my manager make some calls. I was never a big Al Gore fan, but after the documentary I viewed him differently. He explained everything so well and it became obvious to me that there's such a major environmental problem."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I saw the documentary [An Inconvenient Truth] and wanted to get involved, so I had my manager make some calls. I was never a big Al Gore fan, but after the documentary I viewed him differently. He explained everything so well and it became obvious to me that there's such a major environmental problem.",
+      "sourceTitle": "Erique Iglesias' Charity Work, Events, and Causes",
+      "sourceUrl": "http://www.looktothestars.org/celebrity/567-enrique-iglesias"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "This quote reveals two things: First, Iglesias is not a knee-jerk Democrat and second, he's latched on to the environmentalism movement–something generally reserved for liberals."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.latingossip.com/enrique-iglesias/17874.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+latingossip+%28Latin+Gossip%29&utm_content=Google+Reader",
+      "parentId": 14,
+      "type": "text",
+      "text": "Also, Iglesias spoke out against Arizona's draconian SB 1070,",
       "sourceTitle": "Enrique Iglesias Talks Against Arizona Law",
-      "text": "Also, Iglesias spoke out against Arizona's draconian SB 1070,"
+      "sourceUrl": "http://www.latingossip.com/enrique-iglesias/17874.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+latingossip+%28Latin+Gossip%29&utm_content=Google+Reader"
     },
     {
-      "type": "sentence",
-      "text": "a controversial piece of legislation allowing Arizona's law enforcement to racially profile Hispanics, apparently assuming they are all illegal immigrants. But this might have only been because of Iglesias' ethnicity and sympathy to the Hispanic community, leaving Iglesias' true political leanings a mystery. Let's hear your thoughts."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "a controversial piece of legislation allowing Arizona's law enforcement to racially profile Hispanics, apparently assuming they are all illegal immigrants. But this might have only been because of Iglesias' ethnicity and sympathy to the Hispanic community, leaving Iglesias' true political leanings a mystery. Let's hear your thoughts.",
+      "parentId": 14
     }
   ],
   "wikipediaData": {

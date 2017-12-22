@@ -33,134 +33,213 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Rosa Parks, born Rosa Louise McCauley, was born in Tuskegee, Alabama and grew up just outside of Montgomery, Alabama. She died of natural causes in 2005 in Detroit, Michigan."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/books/first/b/brinkley-parks.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Parks was a lifelong Methodist.",
       "sourceTitle": "Rosa Parks",
-      "text": "Parks was a lifelong Methodist."
+      "sourceUrl": "http://www.nytimes.com/books/first/b/brinkley-parks.html"
     },
     {
-      "type": "sentence",
-      "text": "She said of her childhood experiences in church:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She said of her childhood experiences in church:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.nytimes.com/books/first/b/brinkley-parks.html",
-      "sourceTitle": "Rosa Parks",
-      "text": "The church, with its musical rhythms and echoes of Africa, thrilled me when I was young."
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2005/10/31/AR2005103100370.html",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "The church, with its musical rhythms and echoes of Africa, thrilled me when I was young.",
+      "sourceTitle": "Rosa Parks",
+      "sourceUrl": "http://www.nytimes.com/books/first/b/brinkley-parks.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "In Montgomery, Parks always attended the African Methodist Episcopal Church and her funeral service was held at a branch of the same denomination in Detroit.",
       "sourceTitle": "An Overflowing Tribute to an Icon",
-      "text": "In Montgomery, Parks always attended the African Methodist Episcopal Church and her funeral service was held at a branch of the same denomination in Detroit."
+      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2005/10/31/AR2005103100370.html"
     },
     {
-      "type": "sentence",
-      "text": "Parks was proud of her church's long history of advocacy in the civil rights movement. She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Parks was proud of her church's long history of advocacy in the civil rights movement. She said:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.nytimes.com/books/first/b/brinkley-parks.html",
-      "sourceTitle": "Rosa Parks",
-      "text": "The denomination became known as 'The Freedom Church' during the abolitionist movement. It was the spiritual home of many well-known black persons in our history before civil rights."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "The denomination became known as 'The Freedom Church' during the abolitionist movement. It was the spiritual home of many well-known black persons in our history before civil rights.",
+      "sourceTitle": "Rosa Parks",
+      "sourceUrl": "http://www.nytimes.com/books/first/b/brinkley-parks.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Parks was a devout Christian who took great inspiration from the Bible. In her own words:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.nytimes.com/books/first/b/brinkley-parks.html",
-      "sourceTitle": "Rosa Parks",
-      "text": "I remember finding such comfort and peace while reading the Bible. Its teaching became a way of life and helped me in dealing with my day-to-day problems… From my upbringing and the Bible I learned people should stand up for rights just as the children of Israel stood up to the Pharaoh."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I remember finding such comfort and peace while reading the Bible. Its teaching became a way of life and helped me in dealing with my day-to-day problems… From my upbringing and the Bible I learned people should stand up for rights just as the children of Israel stood up to the Pharaoh.",
+      "sourceTitle": "Rosa Parks",
+      "sourceUrl": "http://www.nytimes.com/books/first/b/brinkley-parks.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "She certainly stood up for her rights… or sat down, technically. Shall we move on to…"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "Race politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Parks' political contributions are what make her the icon of equality and justice to this day. The story goes as follows:"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/651/000022585/",
+      "parentId": 14,
+      "type": "text",
+      "text": "Parks had just gotten off of a long day of work as a seamstress at a department store. She was tired and clearly not in the mood for anyone's bullshit. She got on the bus, paid her 10 cents and sat down somewhere near the front of the bus. Statutes at the time required any black passengers to either stand up and let white people sit or move to the back of the bus. When the bus driver asked Parks to stand up, she flat-out refused and was arrested. The story hit the papers and sparked a nation-wide uprising.",
       "sourceTitle": "Rosa Parks",
-      "text": "Parks had just gotten off of a long day of work as a seamstress at a department store. She was tired and clearly not in the mood for anyone's bullshit. She got on the bus, paid her 10 cents and sat down somewhere near the front of the bus. Statutes at the time required any black passengers to either stand up and let white people sit or move to the back of the bus. When the bus driver asked Parks to stand up, she flat-out refused and was arrested. The story hit the papers and sparked a nation-wide uprising."
+      "sourceUrl": "http://www.nndb.com/people/651/000022585/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "The funniest part is, she had no intention of inciting any sort of movement. She was just tired. She said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "It was not pre-arranged. It just happened that the driver made a demand and I just didn't feel like obeying his demand. I was quite tired after spending a full day working.",
+      "sourceTitle": "Rosa Parks Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/r/rosa_parks.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "After the bus incident and the resulting boycotts, marches and outrage, Parks moved to Detroit and spent the rest of her working life as a secretary for U.S. Representative John Conyers,",
+      "sourceTitle": "Rosa Parks Biography",
+      "sourceUrl": "http://www.biography.com/people/rosa-parks-9433715?page=4"
+    },
+    {
+      "type": "text",
+      "text": "a Democrat. She was a frequent public speaker, decrying the evils of racism and advocating for equality. Furthermore, she stumped for women's rights and even served on the board of the Planned Parenthood Federation of America.",
+      "parentId": 18,
+      "sourceTitle": "Rosa Parks Biography",
+      "sourceUrl": "http://www.biography.com/people/rosa-parks-9433715?page=4"
+    },
+    {
+      "type": "text",
+      "text": "She said:",
+      "parentId": 18
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/r/rosa_parks.html",
+      "id": 19
+    },
+    {
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "I would like to be remembered as a person who wanted to be free… so other people would be also free.",
       "sourceTitle": "Rosa Parks Quotes",
-      "text": "It was not pre-arranged. It just happened that the driver made a demand and I just didn't feel like obeying his demand. I was quite tired after spending a full day working."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/r/rosa_parks.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biography.com/people/rosa-parks-9433715?page=4",
-      "sourceTitle": "Rosa Parks Biography",
-      "text": "After the bus incident and the resulting boycotts, marches and outrage, Parks moved to Detroit and spent the rest of her working life as a secretary for U.S. Representative John Conyers,"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biography.com/people/rosa-parks-9433715?page=4",
-      "sourceTitle": "Rosa Parks Biography",
-      "text": "a Democrat. She was a frequent public speaker, decrying the evils of racism and advocating for equality. Furthermore, she stumped for women's rights and even served on the board of the Planned Parenthood Federation of America."
-    },
-    {
-      "type": "sentence",
-      "text": "She said:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/r/rosa_parks.html",
-      "sourceTitle": "Rosa Parks Quotes",
-      "text": "I would like to be remembered as a person who wanted to be free… so other people would be also free."
-    },
-    {
-      "type": "sentence",
+      "parentId": 21,
+      "type": "text",
       "text": "I think she got her wish."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

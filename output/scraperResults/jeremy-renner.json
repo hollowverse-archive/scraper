@@ -33,107 +33,174 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jeremy Renner was born and raised in Modesto, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.details.com/celebrities-entertainment/cover-stars/201112/jeremy-renner-actor-hurt-locker-mission-impossible-bourne-legacy?printable=true&currentPage=1",
+      "parentId": 2,
+      "type": "text",
+      "text": "Renner gives us no help in the religion department. According to one article, he has studied world religions,",
       "sourceTitle": "Jeremy Renner Finally Gets Some Action.",
-      "text": "Renner gives us no help in the religion department. According to one article, he has studied world religions,"
+      "sourceUrl": "http://www.details.com/celebrities-entertainment/cover-stars/201112/jeremy-renner-actor-hurt-locker-mission-impossible-bourne-legacy?printable=true&currentPage=1"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thehill.com/capital-living/20-questions/50561-20-questions-with-jeremy-renner",
+      "type": "text",
+      "text": "and he thinks high schools should provide courses on religion.",
+      "parentId": 2,
       "sourceTitle": "20 Questions with Jeremy Renner.",
-      "text": "and he thinks high schools should provide courses on religion."
+      "sourceUrl": "http://thehill.com/capital-living/20-questions/50561-20-questions-with-jeremy-renner"
     },
     {
-      "type": "sentence",
-      "text": "So he's obviously interested in the concept as an academic subject. Maybe if he can be so detached, he's an atheist? But no evidence of that either."
+      "type": "text",
+      "text": "So he's obviously interested in the concept as an academic subject. Maybe if he can be so detached, he's an atheist? But no evidence of that either.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "His willingness, however, to talk about the study of religion and not about his own personal attachment to it is going to garner him the non-religious label for our purposes. Because despite his fame, he seems to be doing a good job of keeping his views on such controversial topics to himself. As he said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/jeremy_renner_2.html",
-      "sourceTitle": "Jeremy Renner Quotes Page 2.",
-      "text": "I want my personal life to be personal."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I want my personal life to be personal.",
+      "sourceTitle": "Jeremy Renner Quotes Page 2.",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/jeremy_renner_2.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Fair enough. Shall we move on to another personal topic?"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Politics, but not from a soapbox"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "All signs point to Democrat with this Hollywood star. When asked which politician he would like to meet, he responded,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://thehill.com/capital-living/20-questions/50561-20-questions-with-jeremy-renner",
-      "sourceTitle": "20 Questions with Jeremy Renner.",
-      "text": "The politics I don't like. . . it's probably because I do not understand them. If I were to meet a politician. . . I would love to meet [Vice President] Joe Biden."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "The politics I don't like. . . it's probably because I do not understand them. If I were to meet a politician. . . I would love to meet [Vice President] Joe Biden.",
+      "sourceTitle": "20 Questions with Jeremy Renner.",
+      "sourceUrl": "http://thehill.com/capital-living/20-questions/50561-20-questions-with-jeremy-renner"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "When the reporter seemed surprised that he wouldn't rather meet Obama, Renner clarified that obviously \"that is just a given, of course.\" He just thought he'd have a better chance with Biden. But as it turns out, his Hollywood clout did get him a meeting with the president."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jeremyleerenner.com/news/jeremy-renner-meets-the-president-of-the-usa/",
+      "parentId": 12,
+      "type": "text",
+      "text": "Renner joined a group of young actors in a meeting where Obama urged them to become involved in his 2012 reelection campaign and encouraged them to engage young people in voting.",
       "sourceTitle": "Jeremy Renner Meets President Obama.",
-      "text": "Renner joined a group of young actors in a meeting where Obama urged them to become involved in his 2012 reelection campaign and encouraged them to engage young people in voting."
+      "sourceUrl": "http://www.jeremyleerenner.com/news/jeremy-renner-meets-the-president-of-the-usa/"
     },
     {
-      "type": "sentence",
-      "text": "Without a Twitter account, maybe Renner found it hard to communicate with America's youth, but regardless, there's no sign that the meeting inspired Renner to get involved with the campaign. As you can tell from the , though, he was clearly thrilled to be there."
+      "type": "text",
+      "text": "Without a Twitter account, maybe Renner found it hard to communicate with America's youth, but regardless, there's no sign that the meeting inspired Renner to get involved with the campaign. As you can tell from the",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "parentId": 12,
+      "type": "link",
+      "text": "picture",
+      "sourceUrl": "http://www.jeremyleerenner.com/news/jeremy-renner-meets-the-president-of-the-usa/"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": ", though, he was clearly thrilled to be there.",
+      "parentId": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "As with religion, Renner mostly keeps his views to himself. He doesn't seem interested in spouting out about his personal beliefs, and he revealed his aversion to preachy movies and actors when he said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/jeremy_renner.html",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I think cinema should provoke thoughts, sure, but using it as I soapbox I think is the wrong place. I never want to be part of something like that, where there's an agenda there that's not about telling a story, where it's someone getting on a soapbox and preaching their own beliefs onto somebody.",
       "sourceTitle": "Jeremy Renner Quotes.",
-      "text": "I think cinema should provoke thoughts, sure, but using it as I soapbox I think is the wrong place. I never want to be part of something like that, where there's an agenda there that's not about telling a story, where it's someone getting on a soapbox and preaching their own beliefs onto somebody."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/jeremy_renner.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "I hear you, bro. Even though if you did get preachy on me, it would make my job just a littler easier. I'm just saying. . ."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

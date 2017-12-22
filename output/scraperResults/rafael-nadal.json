@@ -32,77 +32,146 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Rafael Nadal, whose full name is Rafael Nadal Parera, was born and raised in Manacor, Majorca, Spain."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://bleacherreport.com/articles/374487-the-godsend-taking-a-look-at-some-of-the-best-roman-catholic-athletes/page/7",
+      "parentId": 2,
+      "type": "text",
+      "text": "Being a Spaniard, it is natural that Nadal"
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "would come"
+    },
+    {
+      "type": "text",
+      "text": "from a Catholic tradition, which he does. But he says he doesn't practice the faith anymore.",
+      "parentId": 2,
       "sourceTitle": "Tennis' Holiest: Roger Federer – The Godsend: Looking at Some of the Best Roman Catholic Athletes",
-      "text": "Being a Spaniard, it is natural that Nadal  from a Catholic tradition, which he does. But he says he doesn't practice the faith anymore."
+      "sourceUrl": "http://bleacherreport.com/articles/374487-the-godsend-taking-a-look-at-some-of-the-best-roman-catholic-athletes/page/7"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Nadal is more of an agnostic these days. During an interview, in which Nadal was directly asked if he believes in God and what he thinks about athletes who cross themselves during game play, he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://sportsillustrated.cnn.com/2010/writers/jon_wertheim/07/16/nadal.interview/index.html",
-      "sourceTitle": "Rafael Nadal discusses history, Wimbledon, definition of glory",
-      "text": "It's hard to say, 'I don't believe in God.' I would love to know if God exists. But it's a very difficult thing for me to believe. I don't know. It's private and I don't want to speak about it, but I say, 'If God exists, you don't need [to cross yourself] or pray.' If God exists, he's intelligent enough to [do] the important things, the right things."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "It's hard to say, 'I don't believe in God.' I would love to know if God exists. But it's a very difficult thing for me to believe. I don't know. It's private and I don't want to speak about it, but I say, 'If God exists, you don't need [to cross yourself] or pray.' If God exists, he's intelligent enough to [do] the important things, the right things.",
+      "sourceTitle": "Rafael Nadal discusses history, Wimbledon, definition of glory",
+      "sourceUrl": "http://sportsillustrated.cnn.com/2010/writers/jon_wertheim/07/16/nadal.interview/index.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Apparently, Nadal just counts on his skill, athleticism, and hard work to win tennis matches."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Politics of an international athlete"
     },
     {
-      "type": "sentence",
-      "text": "In the sense that politics is the business of mainstream governance, Nadal isn't too involved. there seems to be a lot of pride in his family for their home-island of Majorca. When Nadal was offered a chance as a teenager to play tennis in Barcelona, his father declined, saying:"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "text",
+      "text": "In the sense that politics is the business of mainstream governance, Nadal isn't too involved."
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "But"
+    },
+    {
+      "type": "text",
+      "text": "there seems to be a lot of pride in his family for their home-island of Majorca. When Nadal was offered a chance as a teenager to play tennis in Barcelona, his father declined, saying:",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.insidetennis.com/archive/0608_french_open_nadal.html",
-      "sourceTitle": "At Home With Humble Yet Ambitious Nadal",
-      "text": "I don't want to believe that you have to go to America, or other places to be a good athlete. You can do it from your house."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I don't want to believe that you have to go to America, or other places to be a good athlete. You can do it from your house.",
+      "sourceTitle": "At Home With Humble Yet Ambitious Nadal",
+      "sourceUrl": "http://www.insidetennis.com/archive/0608_french_open_nadal.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Nadal has been affected by the world's problems. He says, as a result of his success, that he \"owes\" society and has started a charitable foundation to start paying back. The foundation, called the Rafa Nadal Foundation, aims to use athletics to help young people in destitute situations in developing countries, to rise above their plight. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.downthelinetennis.com/2008/02/rafael-nadal-launches-foundation-i-am.html",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "This can be the beginning of my future, when I retire and have more time… I am doing very well and I owe society… A month-and-a-half ago I was in Chennai, in India. The truth is we live great here [in Europe]. I can contribute something with my image.",
       "sourceTitle": "Rafael Nadal launches foundation, \"I am doing very well and I owe society,\" says Rafa",
-      "text": "This can be the beginning of my future, when I retire and have more time… I am doing very well and I owe society… A month-and-a-half ago I was in Chennai, in India. The truth is we live great here [in Europe]. I can contribute something with my image."
+      "sourceUrl": "http://www.downthelinetennis.com/2008/02/rafael-nadal-launches-foundation-i-am.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Other than that, Nadal is just involved in the sordid world of tennis politics."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

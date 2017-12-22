@@ -33,105 +33,153 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Courtney Cox was born and raised in Mountain Brook, Alabama, just outside of Birmingham."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hollywoodactress.org/Courteney-Cox-Profile.php",
+      "parentId": 2,
+      "type": "text",
+      "text": "Cox is an Episcopalian.",
       "sourceTitle": "Courtney Cox Profile, Professional Details, Awards and Achievements",
-      "text": "Cox is an Episcopalian."
+      "sourceUrl": "http://www.hollywoodactress.org/Courteney-Cox-Profile.php"
     },
     {
-      "type": "sentence",
-      "text": "Spirituality and religion, surprisingly, rarely comes up in interviews with Cox. Either that or she quickly stifles them. She's been annoyingly hush-hush on the subject. However, there is something in the way of proof regarding where her loyalties lie."
+      "type": "text",
+      "text": "Spirituality and religion, surprisingly, rarely comes up in interviews with Cox. Either that or she quickly stifles them. She's been annoyingly hush-hush on the subject. However, there is something in the way of proof regarding where her loyalties lie.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ringsurf.com/online/541-courteney_cox_and_david_arquette.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "First of all, she and half-Jewish former husband, David Arquette, were married in an Episcopal ceremony at an Episcopal church in San Francisco.",
       "sourceTitle": "Courtney Cox and David Arquette Marriage",
-      "text": "First of all, she and half-Jewish former husband, David Arquette, were married in an Episcopal ceremony at an Episcopal church in San Francisco."
+      "sourceUrl": "http://www.ringsurf.com/online/541-courteney_cox_and_david_arquette.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://celebritybabies.people.com/2005/04/09/coco_baptized_t/",
+      "type": "text",
+      "text": "Secondly, their only child was baptized in an Episcopal baptism in an Episcopal church.",
+      "parentId": 3,
       "sourceTitle": "Coco baptized this weekend, Jen Aniston becomes godmother.",
-      "text": "Secondly, their only child was baptized in an Episcopal baptism in an Episcopal church."
+      "sourceUrl": "http://celebritybabies.people.com/2005/04/09/coco_baptized_t/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "But other than that, Cox seems largely non-religious. In fact, while she won't talk about her Christian views–if there really are any–she will talk about astrology. Once, describing herself, she said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0001073/bio",
-      "sourceTitle": "Courtney Cox – Biography",
-      "text": "I'm a Gemini, and I get so bored so easily. I mean, I have moved six times in the last eight years."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I'm a Gemini, and I get so bored so easily. I mean, I have moved six times in the last eight years.",
+      "sourceTitle": "Courtney Cox – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0001073/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Apparently Geminis get bored. I never knew. But isn't that a bit pagan? It's certainly not something a devout Christian would ever buy into. I mean, the prophetic nature of stars and constellations is so much more ridiculous than people coming back to life. Apples and oranges, people, apples and oranges. Anyway…"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Political servitude"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Cox is almost as quiet about her political views as she is about her religious ones–almost."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/fec/bystate_detail.php?st=&zip=90069&last=COX&first=COURTNEY",
+      "parentId": 10,
+      "type": "text",
+      "text": "She has proven her allegiance to the Democratic Party and particularly Barack Obama. Her only political contribution, a measly $250, was given to Barbara Boxer, a Democratic California Senate candidate.",
       "sourceTitle": "Courtney Cox's Federal Campaign Contribution Report",
-      "text": "She has proven her allegiance to the Democratic Party and particularly Barack Obama. Her only political contribution, a measly $250, was given to Barbara Boxer, a Democratic California Senate candidate."
+      "sourceUrl": "http://www.newsmeat.com/fec/bystate_detail.php?st=&zip=90069&last=COX&first=COURTNEY"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chinadaily.com.cn/showbiz/2008-11/06/content_7180710.htm",
+      "parentId": 11,
+      "type": "text",
+      "text": "But when Obama won the presidency, Cox came alive with the spirit of politics. Not only did she hold a publicity-ridden, star-studded party in honor of Obama's victory,",
       "sourceTitle": "Toasting Obama: Courtney Cox, Aniston held celebrating party in LA",
-      "text": "But when Obama won the presidency, Cox came alive with the spirit of politics. Not only did she hold a publicity-ridden, star-studded party in honor of Obama's victory,"
+      "sourceUrl": "http://www.chinadaily.com.cn/showbiz/2008-11/06/content_7180710.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.yourcelebritystuff.com/politics/courteney-cox-arrives-for-barack-obamas-inauguration/",
+      "type": "text",
+      "text": "she attended his inauguration ceremony.",
+      "parentId": 11,
       "sourceTitle": "Courtney Cox Arrives For Barack Obama's Inauguration",
-      "text": "she attended his inauguration ceremony."
+      "sourceUrl": "http://www.yourcelebritystuff.com/politics/courteney-cox-arrives-for-barack-obamas-inauguration/"
     },
     {
-      "type": "sentence",
-      "text": "But the strangest thing was her and scores of other celebrities appearing on a  where they pledged to be a \"servant\" of Obama's."
+      "type": "text",
+      "text": "But the strangest thing was her and scores of other celebrities appearing on a",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "parentId": 11,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.huffingtonpost.com/2009/01/19/celebrity-packed-pledge-f_n_159046.html"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": "where they pledged to be a \"servant\" of Obama's.",
+      "parentId": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "I know they were caught up in the moment, the crackling energy of \"hope\" and \"change\" and everything, but the video seemed really \"New World Order,\" \"Big Brother\" weird to me. What do you think?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

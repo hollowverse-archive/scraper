@@ -32,145 +32,252 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Paul Simon was born in Newark, New Jersey and grew up in Queens, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.paul-simon.info/PHP/biography.php",
+      "parentId": 2,
+      "type": "text",
+      "text": "Simon was raised a Jew and his mother was devout, celebrating all of the Jewish holidays and regularly going to Synagogue. However, his father wasn't nearly as devout as his mother.",
       "sourceTitle": "The Paul Simon biography",
-      "text": "Simon was raised a Jew and his mother was devout, celebrating all of the Jewish holidays and regularly going to Synagogue. However, his father wasn't nearly as devout as his mother."
+      "sourceUrl": "http://www.paul-simon.info/PHP/biography.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Donald Fagen of the famous rock group, Steely Dan, described Simon's childhood as follows:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://blogs.cas.suffolk.edu/jewish/quotes/",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "There's a certain kind of New York Jew, almost a stereotype, really, to whom music and baseball are very important. I think it has to do with the parents. The parents are either immigrants or first-generation Americans who felt like outsiders, and assimilation was the key thought–they gravitated to black music and baseball looking for the alternative culture.",
       "sourceTitle": "Quotes: Anglo-Jewish Literature in the 20th Century",
-      "text": "There's a certain kind of New York Jew, almost a stereotype, really, to whom music and baseball are very important. I think it has to do with the parents. The parents are either immigrants or first-generation Americans who felt like outsiders, and assimilation was the key thought–they gravitated to black music and baseball looking for the alternative culture."
+      "sourceUrl": "http://blogs.cas.suffolk.edu/jewish/quotes/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.swanseasound.co.uk/music/artist/paul-simon/bio/",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Fagen was comparing his childhood to Simon's, and Simon later endorsed the description.",
       "sourceTitle": "Biography – Paul Simon",
-      "text": "Fagen was comparing his childhood to Simon's, and Simon later endorsed the description."
+      "sourceUrl": "http://www.swanseasound.co.uk/music/artist/paul-simon/bio/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "But it seems that Simon probably took his father's sentiment toward religion. It doesn't appear to be a driving force or any sort of big deal. He does, however, refer to himself as Jewish in the song, \"Hearts and Bones,\" where he sings about the end of his short marriage to half-Jew Carrie Fisher:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.lyricsfreak.com/p/paul+simon/hearts+bones_20105886.html",
-      "sourceTitle": "Hearts and Bones Lyrics",
-      "text": "One and one-half wandering Jews/Return to their natural coasts/To resume old acquaintances."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "One and one-half wandering Jews/Return to their natural coasts/To resume old acquaintances.",
+      "sourceTitle": "Hearts and Bones Lyrics",
+      "sourceUrl": "http://www.lyricsfreak.com/p/paul+simon/hearts+bones_20105886.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "So we can assume he still identifies as Jewish, culturally at least. Although, check out the agnostic undertones of this quote:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 11
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/p/paul_simon.html",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Faith is an island in the setting sun, but proof is the bottom line for everyone.",
       "sourceTitle": "Paul Simon Quotes",
-      "text": "Faith is an island in the setting sun, but proof is the bottom line for everyone."
-    },
-    {
-      "type": "sentence",
-      "sourceUrl": "http://www.freerepublic.com/focus/f-religion/2706224/posts",
-      "sourceTitle": "Singer/Songwriter Paul Simon  Has Been 'Thinking About (God) More.'",
-      "text": "Simon's more recent work has exhibited a marked increase in religious/spiritual content. But in terms of any sort of belief system, it's inconsistent. For example, his 2006 album, , has a song called \"I Don't Believe\" and some songs seem critical of religion in general,"
-    },
-    {
-      "type": "sentence",
-      "sourceUrl": "http://www.freerepublic.com/focus/f-religion/2706224/posts",
-      "sourceTitle": "Singer/Songwriter Paul Simon  Has Been 'Thinking About (God) More.'",
-      "text": "but his 2011 release, , drips with Christian imagery, songs about the afterlife, and even Christian sermons word-for-word."
-    },
-    {
-      "type": "sentence",
-      "text": "When asked about it, he said:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.freerepublic.com/focus/f-religion/2706224/posts",
-      "sourceTitle": "Singer/Songwriter Paul Simon  Has Been 'Thinking About (God) More.'",
-      "text": "There are quite a few references to God or in a spiritual sense. And I guess I would have to say from the evidence of this album that I am thinking about [God] more."
-    },
-    {
-      "type": "sentence",
-      "text": "Maybe we'll see a resurgence of religiosity from Simon–or even a Christian conversion?"
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/p/paul_simon.html"
     },
     {
       "type": "heading",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Simon's more recent work has exhibited a marked increase in religious/spiritual content. But in terms of any sort of belief system, it's inconsistent. For example, his 2006 album,"
+    },
+    {
+      "parentId": 14,
+      "type": "emphasis",
+      "text": "Surprise"
+    },
+    {
+      "type": "text",
+      "text": ", has a song called \"I Don't Believe\" and some songs seem critical of religion in general,",
+      "parentId": 14,
+      "sourceTitle": "Singer/Songwriter Paul Simon  Has Been 'Thinking About (God) More.'",
+      "sourceUrl": "http://www.freerepublic.com/focus/f-religion/2706224/posts"
+    },
+    {
+      "type": "text",
+      "text": "but his 2011 release,",
+      "parentId": 14
+    },
+    {
+      "parentId": 14,
+      "type": "emphasis",
+      "text": "So Beautiful or So What"
+    },
+    {
+      "type": "text",
+      "text": ", drips with Christian imagery, songs about the afterlife, and even Christian sermons word-for-word.",
+      "parentId": 14,
+      "sourceTitle": "Singer/Songwriter Paul Simon  Has Been 'Thinking About (God) More.'",
+      "sourceUrl": "http://www.freerepublic.com/focus/f-religion/2706224/posts"
+    },
+    {
+      "type": "text",
+      "text": "When asked about it, he said:",
+      "parentId": 14
+    },
+    {
+      "type": "quote",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "There are quite a few references to God or in a spiritual sense. And I guess I would have to say from the evidence of this album that I am thinking about [God] more.",
+      "sourceTitle": "Singer/Songwriter Paul Simon  Has Been 'Thinking About (God) More.'",
+      "sourceUrl": "http://www.freerepublic.com/focus/f-religion/2706224/posts"
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Maybe we'll see a resurgence of religiosity from Simon–or even a Christian conversion?"
+    },
+    {
+      "type": "heading",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "Rhythm of Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "Simon has held a public voice in Americafor decades–from the 60s with its \"free love\" and civil rights movements, to the 70s energy-fueled recession, to the 80s and the Cold War to 9/11 and the War on Terror."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Paul_Simon.php",
+      "parentId": 20,
+      "type": "text",
+      "text": "And though he's not overly vocal about his views, he isn't completely out of the game either. He's a lifelong Democrat, supporting such Democrats through history as Michael Dukakis and Hillary Clinton and, over the years, giving over $49,000 to Democrats and Democrat support organizations.",
       "sourceTitle": "Paul Simon's Federal Campaign Contribution Report. Newsmeat",
-      "text": "And though he's not overly vocal about his views, he isn't completely out of the game either. He's a lifelong Democrat, supporting such Democrats through history as Michael Dukakis and Hillary Clinton and, over the years, giving over $49,000 to Democrats and Democrat support organizations."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Paul_Simon.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=KUfLKK-7C7c",
+      "parentId": 21,
+      "type": "text",
+      "text": "He's been fairly vocal about universal health care, particularly when it comes to health care for children. Simon even appeared and spoke at a press conference alongside some of the country's highest-ranking Democrats in favor of state-sponsored health care for kids.",
       "sourceTitle": "Paul Simon Joins Democrats and Child Health Advocates",
-      "text": "He's been fairly vocal about universal health care, particularly when it comes to health care for children. Simon even appeared and spoke at a press conference alongside some of the country's highest-ranking Democrats in favor of state-sponsored health care for kids."
+      "sourceUrl": "http://www.youtube.com/watch?v=KUfLKK-7C7c"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 22
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jweekly.com/article/full/65984/then-and-now-paul-simon-gets-musical-due-at-jewish-film-fest/",
+      "parentId": 22,
+      "type": "text",
+      "text": "He did stir up a bit of controversy during the recording of his seminal album,"
+    },
+    {
+      "parentId": 22,
+      "type": "emphasis",
+      "text": "Graceland"
+    },
+    {
+      "type": "text",
+      "text": ", by using South African musicians during Apartheid.",
+      "parentId": 22,
       "sourceTitle": "Then and Now: Paul Simon gets musical due at Jewish film fest",
-      "text": "He did stir up a bit of controversy during the recording of his seminal album, , by using South African musicians during Apartheid."
+      "sourceUrl": "http://www.jweekly.com/article/full/65984/then-and-now-paul-simon-gets-musical-due-at-jewish-film-fest/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 23
     },
     {
-      "type": "sentence",
+      "parentId": 23,
+      "type": "text",
       "text": "But when that album dropped, most people forgot about it. And Simon didn't get too deep into the whole Obama thing. One wonders if his political views and religious views have an inverse relationship: as he starts to care more about religion, he cares less about politics. What do you guys think?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

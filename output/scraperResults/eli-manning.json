@@ -29,59 +29,76 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Eli Manning, full name Elisha Nelson Manning, was born and raised in New Orleans, Louisiana."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "It is well documented that the Manning family is quite religious. But while it is known that his older brother–also famous quarterback–Peyton Manning is a devout Christian, Eli doesn't seem to be carrying that torch–or maybe he is just more quiet about it."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wiki.answers.com/Q/Is_Eli_Manning_a_Christian",
+      "parentId": 3,
+      "type": "text",
+      "text": "Eli has talked about how his family went to church every Sunday,",
       "sourceTitle": "Is Eli Manning a Christian?",
-      "text": "Eli has talked about how his family went to church every Sunday,"
+      "sourceUrl": "http://wiki.answers.com/Q/Is_Eli_Manning_a_Christian"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chacha.com/question/what-church-does-eli-manning-attend",
+      "type": "text",
+      "text": "but unlike his brother, he hasn't publicly professed his faith. Though he was spotted in a Nashville Methodist Church one Easter Sunday.",
+      "parentId": 3,
       "sourceTitle": "What church does Eli Manning attend?",
-      "text": "but unlike his brother, he hasn't publicly professed his faith. Though he was spotted in a Nashville Methodist Church one Easter Sunday."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.chacha.com/question/what-church-does-eli-manning-attend"
     },
     {
       "type": "heading",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "Gridiron politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wiki.answers.com/Q/Is_Eli_manning_republican",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Manning has kept pretty private about his political preferences as well. It is speculated that, like the rest of his family, he's a Republican.",
       "sourceTitle": "Is Eli manning Republican?",
-      "text": "Manning has kept pretty private about his political preferences as well. It is speculated that, like the rest of his family, he's a Republican."
+      "sourceUrl": "http://wiki.answers.com/Q/Is_Eli_manning_republican"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.yardbarker.com/nfl/articles/tim_tebow_favorite_qb_of_republicans_and_eli_manning_for_democrats/8891260",
+      "type": "text",
+      "text": "But strangely, in an utterly ridiculous poll, surveyors found that Tim Tebow is the Republicans' favorite quarterback (not surprising) and Eli Manning is the favorite among Democrats.",
+      "parentId": 5,
       "sourceTitle": "Tim Tebow Favorite QB of Republicans and Eli Manning for Democrats",
-      "text": "But strangely, in an utterly ridiculous poll, surveyors found that Tim Tebow is the Republicans' favorite quarterback (not surprising) and Eli Manning is the favorite among Democrats."
+      "sourceUrl": "http://www.yardbarker.com/nfl/articles/tim_tebow_favorite_qb_of_republicans_and_eli_manning_for_democrats/8891260"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "I would probably agree with speculators that Manning is Republican. He did, after all, follow the family tradition into football stardom. Why would he break with them politically?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

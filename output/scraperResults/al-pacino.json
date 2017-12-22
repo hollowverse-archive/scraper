@@ -36,101 +36,155 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Al Pacino was born in Manhattan, New York and grew up in The Bronx, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Pacino is the son of full-on Italians and was raised as such, which includes Catholicism. But it seems to have been only in name that Pacino was Catholic. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.moviecrazed.com/outpast/alpacdowney.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "My parents were Italian, and they had me baptized, but I was not raised in the Catholic tradition. I come from a broken home.",
       "sourceTitle": "Al Pacino's Remembrance of Things (and Flings) Past",
-      "text": "My parents were Italian, and they had me baptized, but I was not raised in the Catholic tradition. I come from a broken home."
+      "sourceUrl": "http://www.moviecrazed.com/outpast/alpacdowney.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.moviecrazed.com/outpast/alpacdowney.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Pacino is probably referring to the fact that his parents divorced when he was two-years-old and, contrary to Catholic tradition, his father was married four times.",
       "sourceTitle": "Al Pacino's Remembrance of Things (and Flings) Past",
-      "text": "Pacino is probably referring to the fact that his parents divorced when he was two-years-old and, contrary to Catholic tradition, his father was married four times."
+      "sourceUrl": "http://www.moviecrazed.com/outpast/alpacdowney.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.oceleb.com/al-pacino/biography.html",
+      "parentId": 6,
+      "type": "text",
+      "text": "So, Pacino indicates that he's not really a Catholic. Then what is he? This is where things get difficult. Much like his fellow iconic, mobster movie stars Marlon Brando and Robert De Niro, Pacino won't talk about it in interviews. Not talking about his religion might be a precondition to giving an interview. Some sources cite him as an agnostic,",
       "sourceTitle": "Al Pacino's Biography",
-      "text": "So, Pacino indicates that he's not really a Catholic. Then what is he? This is where things get difficult. Much like his fellow iconic, mobster movie stars Marlon Brando and Robert De Niro, Pacino won't talk about it in interviews. Not talking about his religion might be a precondition to giving an interview. Some sources cite him as an agnostic,"
+      "sourceUrl": "http://www.oceleb.com/al-pacino/biography.html"
     },
     {
-      "type": "sentence",
-      "text": "which makes sense. It's the easy way out of religious commitment. He did once give his philosophy of mankind–which is cryptic and almost meaningless:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "which makes sense. It's the easy way out of religious commitment. He did once give his philosophy of mankind–which is cryptic and almost meaningless:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://velvet_peach.tripod.com/apacinoquotes.html",
-      "sourceTitle": "Quotes",
-      "text": "My philosophy? Man is a little bit better than his reputation, and a little bit worse."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "My philosophy? Man is a little bit better than his reputation, and a little bit worse.",
+      "sourceTitle": "Quotes",
+      "sourceUrl": "http://velvet_peach.tripod.com/apacinoquotes.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "He's just the kind of guy who likes to remain a mystery."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Pacino politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Al_Pacino.php",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Al is only slightly less secretive about his political views. But again, it's probably something he doesn't allow interviewers to question him about. He supports Democrats (at least one) financially. Pacino has only given money to one political candidate–Democrat Ralph Waite–but he's contributed to Waite's campaign four different times, to the tune of $4,000.",
       "sourceTitle": "Al Pacino's Federal Campaign Contribution Report",
-      "text": "Al is only slightly less secretive about his political views. But again, it's probably something he doesn't allow interviewers to question him about. He supports Democrats (at least one) financially. Pacino has only given money to one political candidate–Democrat Ralph Waite–but he's contributed to Waite's campaign four different times, to the tune of $4,000."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Al_Pacino.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hollywoodreporter.com/news/al-pacino-president-obama-national-medal-of-arts-289385",
+      "parentId": 12,
+      "type": "text",
+      "text": "Democrats support Pacino as well. He was given the National Medal of Arts by President Barack Obama in 2011.",
       "sourceTitle": "President Obama to Award National Medal of Arts to Al Pacino",
-      "text": "Democrats support Pacino as well. He was given the National Medal of Arts by President Barack Obama in 2011."
+      "sourceUrl": "http://www.hollywoodreporter.com/news/al-pacino-president-obama-national-medal-of-arts-289385"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Pacino indicates his liberal view of sexual orientation, indicating confusion regarding any sort of intolerance. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000199/bio",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I don't understand the hatred and fear of gays and bisexuals and lesbians…it's a concept I honestly cannot grasp. To me, it's not who you love…a man, a woman, what have you…it's the fact THAT you love. That is all that truly matters.",
       "sourceTitle": "Al Pacino – Biography.",
-      "text": "I don't understand the hatred and fear of gays and bisexuals and lesbians…it's a concept I honestly cannot grasp. To me, it's not who you love…a man, a woman, what have you…it's the fact THAT you love. That is all that truly matters."
+      "sourceUrl": "http://www.imdb.com/name/nm0000199/bio"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Maybe that's the part where mankind is a little worse than his reputation."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

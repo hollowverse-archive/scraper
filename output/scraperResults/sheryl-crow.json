@@ -36,153 +36,228 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sheryl Crow was born and raised in Kennett, Missouri."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Crow doesn't shy away from addressing the spiritual in her songwriting, but she spends more time criticizing Christianity, especially evangelicals, more than anything else. There are songs like \"Letter to God\" in which the narrator says someone tried to \"save\" her \"but you never said what from.\" Her song \"Maybe Angels\" isn't so favorable of Christianity either with lines like,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.lyricsfreak.com/s/sheryl+crow/maybe+angels_20124201.html",
-      "sourceTitle": "Maybe Angels Lyrics – Sheryl Crow.",
-      "text": "I took the I-95 down to Pensacola/ All I found was a bunch of holyrollers/ They don't know nothing about saving me"
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I took the I-95 down to Pensacola/ All I found was a bunch of holyrollers/ They don't know nothing about saving me",
+      "sourceTitle": "Maybe Angels Lyrics – Sheryl Crow.",
+      "sourceUrl": "http://www.lyricsfreak.com/s/sheryl+crow/maybe+angels_20124201.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "But then she continues on to speculate about the existence of angels, so she appears to be more critical of Christians trying to tell her what to believe, rather than religion or spirituality in general."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://worldseen.org/reviews/music/spiritualism/item/love-is-free-sheryl-crow.html",
+      "parentId": 6,
+      "type": "text",
+      "text": "In \"Love Is Free,\" while continuing to be critical of Christians, she expresses some Buddhist leanings. The theme of the song is that physical possessions and money aren't what's important in life; it's love that really matters, and love is free. Plus she mentions karma.",
       "sourceTitle": "Love Is Free – Sheryl Crow.",
-      "text": "In \"Love Is Free,\" while continuing to be critical of Christians, she expresses some Buddhist leanings. The theme of the song is that physical possessions and money aren't what's important in life; it's love that really matters, and love is free. Plus she mentions karma."
+      "sourceUrl": "http://worldseen.org/reviews/music/spiritualism/item/love-is-free-sheryl-crow.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.glamour.com/magazine/2010/06/sheryl-crow-tells-katie-couric-this-is-my-year-of-getting-out-of-my-comfort-zone?currentPage=7",
+      "parentId": 7,
+      "type": "text",
+      "text": "According to"
+    },
+    {
+      "parentId": 7,
+      "type": "link",
+      "text": "this article",
+      "sourceUrl": "http://worldseen.org/reviews/music/spiritualism/item/love-is-free-sheryl-crow.html"
+    },
+    {
+      "type": "text",
+      "text": ", Crow took an interest in Buddhism later in life, and she's an advocate for meditation.",
+      "parentId": 7,
       "sourceTitle": "Sheryl Crow Tells Katie Couric: \"This is My Year of Getting Out of My Comfort Zone.\"",
-      "text": "According to , Crow took an interest in Buddhism later in life, and she's an advocate for meditation."
+      "sourceUrl": "http://www.glamour.com/magazine/2010/06/sheryl-crow-tells-katie-couric-this-is-my-year-of-getting-out-of-my-comfort-zone?currentPage=7"
     },
     {
-      "type": "sentence",
-      "text": "But if the following quote is accurate, that might be only one piece of her spiritual puzzle. In a 2005 interview she stated,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But if the following quote is accurate, that might be only one piece of her spiritual puzzle. In a 2005 interview she stated,",
+      "parentId": 7
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.preachingtoday.com/illustrations/2007/march/8030507.html",
-      "sourceTitle": "Sheryl Crow Embraces Multiple Religions.",
-      "text": "I believe in God. I believe in Jesus and Buddha and Mohammed and all those that were enlightened. I wouldn't say necessarily that I'm a strict Christian. I'm not sure I believe in heaven."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I believe in God. I believe in Jesus and Buddha and Mohammed and all those that were enlightened. I wouldn't say necessarily that I'm a strict Christian. I'm not sure I believe in heaven.",
+      "sourceTitle": "Sheryl Crow Embraces Multiple Religions.",
+      "sourceUrl": "http://www.preachingtoday.com/illustrations/2007/march/8030507.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Yeah, I wouldn't call that \"strict Christian\" either. Sounds like she's got some beef with some Christians, but that she might have been one at some point, and that now she believes in everything. . . meta-religious if you will."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "All I wanna do. . . is tear the Republicans down"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Sheryl_Crow.php",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Sheryl Crow is a Democrat, and she will not hesitate to let you know about it. She has donated $16,550 at last count to Democratic candidates and special interest groups.",
       "sourceTitle": "Sheryl Crow's Federal Campaign Contribution Report.",
-      "text": "Sheryl Crow is a Democrat, and she will not hesitate to let you know about it. She has donated $16,550 at last count to Democratic candidates and special interest groups."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Sheryl_Crow.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.justjared.com/2008/04/23/sheryl-crow-barack-obama/",
+      "type": "text",
+      "text": "And she was a vocal supporter of Barack Obama in both 2008",
+      "parentId": 12,
       "sourceTitle": "Sheryl Crow Backs Barack Obama.",
-      "text": "And she was a vocal supporter of Barack Obama in both 2008"
+      "sourceUrl": "http://www.justjared.com/2008/04/23/sheryl-crow-barack-obama/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.examiner.com/article/kerry-washington-beyonce-champion-women-s-voices-president-obama-ad",
+      "type": "text",
+      "text": "and 2012.",
+      "parentId": 12,
       "sourceTitle": "Kerry Washington, Beyonce champion 'Women's Voices' in President Obama ad.",
-      "text": "and 2012."
+      "sourceUrl": "http://www.examiner.com/article/kerry-washington-beyonce-champion-women-s-voices-president-obama-ad"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.glamour.com/magazine/2010/06/sheryl-crow-tells-katie-couric-this-is-my-year-of-getting-out-of-my-comfort-zone?currentPage=3",
+      "parentId": 13,
+      "type": "text",
+      "text": "She can be pretty critical of conservatives too. She criticized the Tea Party for being an angry, uninformed group of people.",
       "sourceTitle": "Sheryl Crow Tells Katie Couric, \"This is My Year of Getting Out of My Comfort Zone.\"",
-      "text": "She can be pretty critical of conservatives too. She criticized the Tea Party for being an angry, uninformed group of people."
+      "sourceUrl": "http://www.glamour.com/magazine/2010/06/sheryl-crow-tells-katie-couric-this-is-my-year-of-getting-out-of-my-comfort-zone?currentPage=3"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.eonline.com/news/54960/sheryl-crow-gets-heated-with-karl-rove",
+      "type": "text",
+      "text": "She got into a spat with former George W. Bush Chief of Staff Karl Rove about climate change.",
+      "parentId": 13,
       "sourceTitle": "Sheryl Crow Gets Heated with Karl Rove.",
-      "text": "She got into a spat with former George W. Bush Chief of Staff Karl Rove about climate change."
+      "sourceUrl": "http://www.eonline.com/news/54960/sheryl-crow-gets-heated-with-karl-rove"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/geoffrey-dunn/rocker-sheryl-crow-record_b_687281.html",
+      "type": "text",
+      "text": "And she wrote a song directly bashing former Republican vice presidential candidate Sarah Palin.",
+      "parentId": 13,
       "sourceTitle": "Geoffrey Dunn: Rocker Sheryl Crow Records Anti-Palin Anthem.",
-      "text": "And she wrote a song directly bashing former Republican vice presidential candidate Sarah Palin."
+      "sourceUrl": "http://www.huffingtonpost.com/geoffrey-dunn/rocker-sheryl-crow-record_b_687281.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "But it's environmental issues that really get her riled up. She said that the environment is the single biggest problem facing the globe today:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.glamour.com/magazine/2010/06/sheryl-crow-tells-katie-couric-this-is-my-year-of-getting-out-of-my-comfort-zone?currentPage=5",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "That for me is the mother ship, because under the umbrella of the environment, everything else follows. If the planet dies, we die. It doesn't matter what disease you have. When a planet starts ailing, which it is, there's a trickle-down effect that we are still trying to wrestle with.",
       "sourceTitle": "Sheryl Crow Tells Katie Couric, \"This is My Year of Getting Out of My Comfort Zone.\"",
-      "text": "That for me is the mother ship, because under the umbrella of the environment, everything else follows. If the planet dies, we die. It doesn't matter what disease you have. When a planet starts ailing, which it is, there's a trickle-down effect that we are still trying to wrestle with."
+      "sourceUrl": "http://www.glamour.com/magazine/2010/06/sheryl-crow-tells-katie-couric-this-is-my-year-of-getting-out-of-my-comfort-zone?currentPage=5"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.eonline.com/news/54960/sheryl-crow-gets-heated-with-karl-rove",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "She went on a Stop Global Warming College Tour, riding a biodiesel bus, to promote climate change awareness;",
       "sourceTitle": "Sheryl Crow Gets Heated with Karl Rove.",
-      "text": "She went on a Stop Global Warming College Tour, riding a biodiesel bus, to promote climate change awareness;"
+      "sourceUrl": "http://www.eonline.com/news/54960/sheryl-crow-gets-heated-with-karl-rove"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cbsnews.com/2100-207_162-6314777.html",
+      "type": "text",
+      "text": "she's done fundraising concerts for the Nature Conservancy;",
+      "parentId": 17,
       "sourceTitle": "Sheryl Crow: Son a Reason to be \"Green.\"",
-      "text": "she's done fundraising concerts for the Nature Conservancy;"
+      "sourceUrl": "http://www.cbsnews.com/2100-207_162-6314777.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://voices.yahoo.com/sheryl-crow-launch-eco-friendly-jeans-1750063.html?cat=25",
+      "type": "text",
+      "text": "and has even launched an eco-friendly clothing line.",
+      "parentId": 17,
       "sourceTitle": "Sheryl Crow to Launch Eco-Friendly Jeans.",
-      "text": "and has even launched an eco-friendly clothing line."
+      "sourceUrl": "http://voices.yahoo.com/sheryl-crow-launch-eco-friendly-jeans-1750063.html?cat=25"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "Doesn't get much more left-wing celebrity than Sheryl Crow."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

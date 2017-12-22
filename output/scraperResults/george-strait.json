@@ -35,111 +35,172 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/225/000025150/",
+      "parentId": 1,
+      "type": "text",
+      "text": "George Strait was born in Poteet, Texas and grew up in Pearsall, Texas."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Strait is a quiet icon. If you're going to get him talking, the conversation will likely revolve around his music. However, we know he was raised a Baptist.",
       "sourceTitle": "George Strait",
-      "text": "Strait is a quiet icon. If you're going to get him talking, the conversation will likely revolve around his music. However, we know he was raised a Baptist."
+      "sourceUrl": "http://www.nndb.com/people/225/000025150/"
     },
     {
-      "type": "sentence",
-      "text": "He did have a religious upbringing, to which he credits his father:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He did have a religious upbringing, to which he credits his father:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://books.google.com/books?id=k3ze2mnY6icC&pg=PA8&lpg=PA8&dq=George+Strait+religion&source=bl&ots=NNYE8_w8C7&sig=TDF2i0lyCbRLguJJGa2Oh8KmbsI&hl=en&sa=X&ei=lhTGULjRJIXliALdy4CoBw&ved=0CEgQ6AEwAw#v=onepage&q=George%20Strait%20religion&f=false",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "My dad, of course, raised my brother and me on his own, and he raised us in a real religious atmosphere. We're all Baptists, and he always told me that the Lord would tell me what He wanted me to do with my life; and I kind of believe that's really true. So I didn't worry about it much, didn't think about it that much.",
       "sourceTitle": "George Strait – Updated page 8",
-      "text": "My dad, of course, raised my brother and me on his own, and he raised us in a real religious atmosphere. We're all Baptists, and he always told me that the Lord would tell me what He wanted me to do with my life; and I kind of believe that's really true. So I didn't worry about it much, didn't think about it that much."
+      "sourceUrl": "http://books.google.com/books?id=k3ze2mnY6icC&pg=PA8&lpg=PA8&dq=George+Strait+religion&source=bl&ots=NNYE8_w8C7&sig=TDF2i0lyCbRLguJJGa2Oh8KmbsI&hl=en&sa=X&ei=lhTGULjRJIXliALdy4CoBw&ved=0CEgQ6AEwAw#v=onepage&q=George%20Strait%20religion&f=false"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://kilt.cbslocal.com/2011/11/29/george-and-norma-celebrate-40-years-together/",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Strait eloped with his high school sweetheart in Mexico, but when they returned to Texas, they had a ceremony in a church.",
       "sourceTitle": "George and Norma Celebrate 40 Years Together",
-      "text": "Strait eloped with his high school sweetheart in Mexico, but when they returned to Texas, they had a ceremony in a church."
+      "sourceUrl": "http://kilt.cbslocal.com/2011/11/29/george-and-norma-celebrate-40-years-together/"
     },
     {
-      "type": "sentence",
-      "text": "Which church is unclear."
+      "type": "text",
+      "text": "Which church is unclear.",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "And like most country music stars, he's got a few religious-themed songs in his repertoire, such as \"I Saw God Today,\" with lyrics like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.sing365.com/music/lyric.nsf/I-Saw-God-Today-lyrics-George-Strait/EF866273A3FFA0DA482573FB000EED82",
-      "sourceTitle": "I Saw God Today Lyrics – George Strait",
-      "text": "I've been to church/I've read the book/I know He's there/But I don't look/near as often as I should/His fingerprints are everywhere/I just look down and stop and stare/open my eyes and then I swear/I Saw God Today."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I've been to church/I've read the book/I know He's there/But I don't look/near as often as I should/His fingerprints are everywhere/I just look down and stop and stare/open my eyes and then I swear/I Saw God Today.",
+      "sourceTitle": "I Saw God Today Lyrics – George Strait",
+      "sourceUrl": "http://www.sing365.com/music/lyric.nsf/I-Saw-God-Today-lyrics-George-Strait/EF866273A3FFA0DA482573FB000EED82"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "So, despite the fact that Strait doesn't talk about it, we can say with considerable confidence that he's at least somewhat religious, and probably still a Baptist."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Strait talking politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.countrystandardtime.com/blog/rootstootshoots/entry.asp?xid=843",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "It won't happen, folks. In the arena of politics, Strait is even more tight-lipped than he is with his religious views. In 2012, Republican presidential candidate Newt Gingrich used his song, \"Heartland,\" at campaign events–which obviously Strait didn't take issue with.",
       "sourceTitle": "Gingrich, Strait, McBride and country music in campaigns",
-      "text": "It won't happen, folks. In the arena of politics, Strait is even more tight-lipped than he is with his religious views. In 2012, Republican presidential candidate Newt Gingrich used his song, \"Heartland,\" at campaign events–which obviously Strait didn't take issue with."
+      "sourceUrl": "http://www.countrystandardtime.com/blog/rootstootshoots/entry.asp?xid=843"
     },
     {
-      "type": "sentence",
-      "text": "But when asked to comment about candidates, issues, or anything political for that matter, all reporters could get was a statement from Strait's publicist:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But when asked to comment about candidates, issues, or anything political for that matter, all reporters could get was a statement from Strait's publicist:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.countrystandardtime.com/blog/rootstootshoots/entry.asp?xid=843",
-      "sourceTitle": "Gingrich, Strait, McBride and country music in campaigns",
-      "text": "George never comments publicly on political views."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "George never comments publicly on political views.",
+      "sourceTitle": "Gingrich, Strait, McBride and country music in campaigns",
+      "sourceUrl": "http://www.countrystandardtime.com/blog/rootstootshoots/entry.asp?xid=843"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "OK then…"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/George_Strait.php",
+      "parentId": 15,
+      "type": "text",
+      "text": "We have one tiny piece of evidence that suggests that Strait is probably a Republican. In 1992, he donated $240 to the National Republican Senatorial Committee.",
       "sourceTitle": "George Strait's Federal Campaign Contribution Report",
-      "text": "We have one tiny piece of evidence that suggests that Strait is probably a Republican. In 1992, he donated $240 to the National Republican Senatorial Committee."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/George_Strait.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.freerepublic.com/focus/chat/1311976/posts",
+      "parentId": 16,
+      "type": "text",
+      "text": "Beyond that, plenty of fan sites and rumor mills speculate that he's a Republican,",
       "sourceTitle": "List of Republican celebrities",
-      "text": "Beyond that, plenty of fan sites and rumor mills speculate that he's a Republican,"
+      "sourceUrl": "http://www.freerepublic.com/focus/chat/1311976/posts"
     },
     {
-      "type": "sentence",
-      "text": "so there must be some reason for that, which might just be he's a country singer from Texas."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "so there must be some reason for that, which might just be he's a country singer from Texas.",
+      "parentId": 16
     }
   ],
   "wikipediaData": {

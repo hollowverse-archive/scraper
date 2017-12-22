@@ -35,111 +35,190 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Frank Sinatra was born and raised in Hoboken, New Jersey. He died of complications associated with dementia, heart and kidney disease and bladder cancer in 1998 in Hollywood, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Sinatra is the oft-considered greatest of a generation of mostly Italian-American crooners, affectionately referred to as the \"Rat Pack.\" And Catholic Sinatra was. It was the religion of his family, his ethnic heritage, and for the most part, his entire life."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/news/features/8556824/My-life-with-Frank-Sinatra.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "However, Sinatra's four marriages put him at odds with the Catholic Church. And even though his faith was important enough to him that his fourth wife converted to Catholicism for Frank,",
       "sourceTitle": "My life with Frank Sinatra",
-      "text": "However, Sinatra's four marriages put him at odds with the Catholic Church. And even though his faith was important enough to him that his fourth wife converted to Catholicism for Frank,"
+      "sourceUrl": "http://www.telegraph.co.uk/news/features/8556824/My-life-with-Frank-Sinatra.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://answers.yahoo.com/question/index?qid=20100812150426AAHqGBw",
+      "type": "text",
+      "text": "the church did not allow him to participate in certain religious rites for a time as a result of his divorce",
+      "parentId": 3
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "s"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 3,
       "sourceTitle": "What did Frank Sinatra mean when he said this quote",
-      "text": "the church did not allow him to participate in certain religious rites for a time as a result of his divorce."
+      "sourceUrl": "http://answers.yahoo.com/question/index?qid=20100812150426AAHqGBw"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Furthermore, Sinatra didn't necessarily take a positive view toward Christianity. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://sinatrafamily.com/forum/frank-sinatra-8/frank-sinatras-1963-playboy-magazine-interview-29275/",
-      "sourceTitle": "Frank Sinatra's 1963 Playboy Magazine interview",
-      "text": "Christ is revered as the Prince of Peace, but more blood has been shed in His name than any other figure in history. You show me one step forward in the name of religion and I'll show you a hundred retrogressions."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Christ is revered as the Prince of Peace, but more blood has been shed in His name than any other figure in history. You show me one step forward in the name of religion and I'll show you a hundred retrogressions.",
+      "sourceTitle": "Frank Sinatra's 1963 Playboy Magazine interview",
+      "sourceUrl": "http://sinatrafamily.com/forum/frank-sinatra-8/frank-sinatras-1963-playboy-magazine-interview-29275/"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Ultimately, Sinatra was more \"spiritual\" than religious. His faith was about him and God. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.notable-quotes.com/s/sinatra_frank.html",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I'm for anything that gets you through the night, be it prayer, tranquilizers, or a bottle of Jack Daniels. But to me religion is a deeply personal thing in which man and God go it alone together, without the witch doctor in the middle.",
       "sourceTitle": "Frank Sinatra Quotes",
-      "text": "I'm for anything that gets you through the night, be it prayer, tranquilizers, or a bottle of Jack Daniels. But to me religion is a deeply personal thing in which man and God go it alone together, without the witch doctor in the middle."
+      "sourceUrl": "http://www.notable-quotes.com/s/sinatra_frank.html"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Waffling politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.blue-eyes.com/blog/biography-of-frank-sinatra/",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Sinatra's politics are divided by the 1970s. Growing up, he was exposed, rather glaringly, to the Democratic Party. Sinatra's mother was a leader in the local Democratic Party and radically liberal to the point that she would perform illegal abortions in secret–though she was twice tried and convicted for it.",
       "sourceTitle": "Biography of Frank Sinatra",
-      "text": "Sinatra's politics are divided by the 1970s. Growing up, he was exposed, rather glaringly, to the Democratic Party. Sinatra's mother was a leader in the local Democratic Party and radically liberal to the point that she would perform illegal abortions in secret–though she was twice tried and convicted for it."
+      "sourceUrl": "http://www.blue-eyes.com/blog/biography-of-frank-sinatra/"
     },
     {
-      "type": "sentence",
-      "text": "But his mother's example would set the tone for a lifetime of political involvement for Sinatra. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But his mother's example would set the tone for a lifetime of political involvement for Sinatra. He said:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.sinatra.com/content/frank-sinatra-and-politics",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "My mother had me in an election parade when I was a young boy. I never thought about it; I just think it is the duty of every American citizen to take part in political races and vote.",
       "sourceTitle": "Frank Sinatra and Politics",
-      "text": "My mother had me in an election parade when I was a young boy. I never thought about it; I just think it is the duty of every American citizen to take part in political races and vote."
+      "sourceUrl": "http://www.sinatra.com/content/frank-sinatra-and-politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.sinatra.com/content/frank-sinatra-and-politics",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Sinatra continued his Democratic leanings for quite some time, campaigning for Harry S. Truman in 1948 and John F. Kennedy in 1960. During this time, Sinatra plead with America to be tolerant of differences, particularly racial differences. At times, he was considered a radical liberal.",
       "sourceTitle": "Frank Sinatra and Politics",
-      "text": "Sinatra continued his Democratic leanings for quite some time, campaigning for Harry S. Truman in 1948 and John F. Kennedy in 1960. During this time, Sinatra plead with America to be tolerant of differences, particularly racial differences. At times, he was considered a radical liberal."
+      "sourceUrl": "http://www.sinatra.com/content/frank-sinatra-and-politics"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "In 1970, Sinatra switched teams and endorsed Republican Ronald Reagan's California governor re-election campaign–then Richard Nixon in 1972. For the rest of his life, he was a Republican. He said simply:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.sinatra.com/content/frank-sinatra-and-politics",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "The older you get the more conservative you get.",
       "sourceTitle": "Frank Sinatra and Politics",
-      "text": "The older you get the more conservative you get."
+      "sourceUrl": "http://www.sinatra.com/content/frank-sinatra-and-politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "Despite all of this, Sinatra remained a champion of equality and also retained his liberal view of abortion, indicating a thoughtful individuality characteristic of those who are truly self-aware of their thoughts and feelings."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

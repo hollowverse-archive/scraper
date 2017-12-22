@@ -37,107 +37,181 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sting, whose real name is Gordon Matthew Thomas Sumner, was born and raised in Wallsend, Newcastle upon Tyne, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Sting was raised a Catholic, but has since rejected his childhood faith and embarked on an uncertain religious journey that has taken him through various major religions. He went through a Hindu phase at one point, saying he was \"addicted to India\" and:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://hinduism.about.com/od/indianewscurrentaffair/a/sting.htm",
-      "sourceTitle": "Sting Feels Like a Hindu",
-      "text": "In a sense I am more of a Hindu … I like the Hindu religion more than anything else at the moment."
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.stingetc.com/stingaol99.shtml",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "In a sense I am more of a Hindu … I like the Hindu religion more than anything else at the moment.",
+      "sourceTitle": "Sting Feels Like a Hindu",
+      "sourceUrl": "http://hinduism.about.com/od/indianewscurrentaffair/a/sting.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "But Sting is still much more complicated than that and at the end of the day, he's a bit anti-religious and probably an agnostic though he still considers himself a part of the \"Christian culture.\"",
       "sourceTitle": "Sting's AOL Transcript from December 7, 1999",
-      "text": "But Sting is still much more complicated than that and at the end of the day, he's a bit anti-religious and probably an agnostic though he still considers himself a part of the \"Christian culture.\""
+      "sourceUrl": "http://www.stingetc.com/stingaol99.shtml"
     },
     {
-      "type": "sentence",
-      "text": "He once said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He once said:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://hinduism.about.com/od/indianewscurrentaffair/a/sting.htm",
-      "sourceTitle": "Sting Feels Like a Hindu",
-      "text": "I would not consider myself a Christian any longer. My beliefs are much wider than that. I don't believe God is necessarily a Catholic or Islamic or anything else…it's a much larger concept than that."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I would not consider myself a Christian any longer. My beliefs are much wider than that. I don't believe God is necessarily a Catholic or Islamic or anything else…it's a much larger concept than that.",
+      "sourceTitle": "Sting Feels Like a Hindu",
+      "sourceUrl": "http://hinduism.about.com/od/indianewscurrentaffair/a/sting.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Still, Sting has admitted to being very interested in religion and now that he's getting older, the idea of death and the afterlife has come up, but Sting has stuck with his convictions, even into old age, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.time.com/time/magazine/article/0,9171,2099139,00.html",
-      "sourceTitle": "10 Questions for Sting",
-      "text": "Am I afraid of [death]? No, I'm intrigued by it. I'm not ready for it yet. But in many ways, acknowledging that sense of mortality enriches the life you have left."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Am I afraid of [death]? No, I'm intrigued by it. I'm not ready for it yet. But in many ways, acknowledging that sense of mortality enriches the life you have left.",
+      "sourceTitle": "10 Questions for Sting",
+      "sourceUrl": "http://www.time.com/time/magazine/article/0,9171,2099139,00.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Sting could be viewed as soft and non-commital when it comes to religion, but the other perspective, the one I would tend to agree with, is that he's thoughtful and honest with himself about what he knows and what he realizes is unknowable. He's a thinker and this is reflected in the diverse and meaningful subject matter of many of his songs."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "Environmentalism as religion"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Michael Crichton once likened environmentalism to religion because its followers were generally from the less religious, more highly industrialized parts of the world, they took environmental issues on faith without fully understanding or even investigating the evidence, and could become narrow-minded and contemptuous toward those who disagree with them. This assessment would fit Sting well."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "He is a full-blown environmental activist and likens those who aren't to self-defeating idiots, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.sustainablebabysteps.com/environment-quotes.html",
-      "sourceTitle": "Environment Quotes, Green Quotes, Green Living Quotes",
-      "text": "If you really want to define civilization it should be a culture that doesn't destroy its environment. If you burn down the kitchen one day and expect to eat the next, it is not even intelligent, let alone civilized."
+      "id": 15
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "If you really want to define civilization it should be a culture that doesn't destroy its environment. If you burn down the kitchen one day and expect to eat the next, it is not even intelligent, let alone civilized.",
+      "sourceTitle": "Environment Quotes, Green Quotes, Green Living Quotes",
+      "sourceUrl": "http://www.sustainablebabysteps.com/environment-quotes.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "But the environment isn't Sting's only political/social interest. He's very involved in human rights issues and has lent his star power and money to many of the most down-trodden and poverty stricken citizens of the world. He's a big supporter of Amnesty International in particular, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.doonething.org/heroes/pages-s/sting-quotes.htm",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "I feel that Amnesty International is the most civilized organization in history… That's why I am a member. I believe in its non-violence… its dignity and its sense of commitment. Its focus on individuals and the concentration and tenacity with which they defend those imprisoned for their ideas has earned it the cautious respect of repressive governments throughout the world.",
       "sourceTitle": "Sting – Heroes For A Better World – Quotes",
-      "text": "I feel that Amnesty International is the most civilized organization in history… That's why I am a member. I believe in its non-violence… its dignity and its sense of commitment. Its focus on individuals and the concentration and tenacity with which they defend those imprisoned for their ideas has earned it the cautious respect of repressive governments throughout the world."
+      "sourceUrl": "http://www.doonething.org/heroes/pages-s/sting-quotes.htm"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "And that sums up Sting's political views well. Much like his religious view, Sting seems to have given society and the world's people and their condition quite a bit of thought. It's a respectable way to be and combined with Sting's influence as an entertainer, it's an effective way to be as well."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

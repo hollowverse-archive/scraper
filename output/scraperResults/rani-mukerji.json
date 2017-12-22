@@ -31,126 +31,193 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Rani Mukerji, also spelled \"Mukherjee,\" was born and raised in Mumbai, India in a prominent Bollywood family."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0611552/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Mukerji is a Benghali Indian,",
       "sourceTitle": "Rani Mukerji – Biography",
-      "text": "Mukerji is a Benghali Indian,"
+      "sourceUrl": "http://www.imdb.com/name/nm0611552/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.everyculture.com/South-Asia/Bengali-Religion-and-Expressive-Culture.html",
+      "type": "text",
+      "text": "a region of Northeastern India where 85% of residents are Muslim and 14% are Hindu.",
+      "parentId": 2,
       "sourceTitle": "Religion and expressive culture – Bengali",
-      "text": "a region of Northeastern India where 85% of residents are Muslim and 14% are Hindu."
+      "sourceUrl": "http://www.everyculture.com/South-Asia/Bengali-Religion-and-Expressive-Culture.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mid-day.com/entertainment/2011/oct/031011-informer-5.htm",
+      "type": "text",
+      "text": "However, Mukerji would be the minority in her homeland as she is a Hindu. She is a regular at the Bengali religious festival known as Durga Puja,",
+      "parentId": 2,
       "sourceTitle": "Rani Mukerji to celebrate Durga Puja with family",
-      "text": "However, Mukerji would be the minority in her homeland as she is a Hindu. She is a regular at the Bengali religious festival known as Durga Puja,"
+      "sourceUrl": "http://www.mid-day.com/entertainment/2011/oct/031011-informer-5.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.calcuttaweb.com/puja/",
+      "type": "text",
+      "text": "a large Hindu festival honoring the goddess Durga.",
+      "parentId": 2,
       "sourceTitle": "Durga Puja",
-      "text": "a large Hindu festival honoring the goddess Durga."
+      "sourceUrl": "http://www.calcuttaweb.com/puja/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hindustantimes.com/News-Feed/NM21/Is-Rani-Mukherjee-ruining-her-career/Article1-197112.aspx",
+      "parentId": 3,
+      "type": "text",
+      "text": "Religion is one of the many things Mukerji won't talk much about–she is well-known to be highly guarded when it comes to her personal life.",
       "sourceTitle": "Is Rani Mukherjee ruining her career?",
-      "text": "Religion is one of the many things Mukerji won't talk much about–she is well-known to be highly guarded when it comes to her personal life."
+      "sourceUrl": "http://www.hindustantimes.com/News-Feed/NM21/Is-Rani-Mukherjee-ruining-her-career/Article1-197112.aspx"
     },
     {
-      "type": "sentence",
-      "text": "But she has expressed her respect for the many Muslims in her life and their culture, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But she has expressed her respect for the many Muslims in her life and their culture, saying:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=EYxTobDLGQU",
-      "sourceTitle": "Rani Mukerji speaks about her Muslim friends",
-      "text": "Muslims have just been very, very important in my life. Somehow they've always played a very important role in my life."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Muslims have just been very, very important in my life. Somehow they've always played a very important role in my life.",
+      "sourceTitle": "Rani Mukerji speaks about her Muslim friends",
+      "sourceUrl": "http://www.youtube.com/watch?v=EYxTobDLGQU"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "And her Twitter feed contains the occasional religious tweet, such as:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/Rani_mukherji",
-      "sourceTitle": "Rani Mukherji (Rani_Mukherfi) on Twitter",
-      "text": "Well nobody can question God….He has a reason for everything…so guys lets just keep praying and hoping for the best…."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Well nobody can question God….He has a reason for everything…so guys lets just keep praying and hoping for the best….",
+      "sourceTitle": "Rani Mukherji (Rani_Mukherfi) on Twitter",
+      "sourceUrl": "https://twitter.com/Rani_mukherji"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "All in all, she appears to be a relatively spiritual person, connected to the religious traditions of her heritage, though highly accepting of faiths other than her own."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Politics of a controversial role model"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://indiatoday.intoday.in/story/rani-mukerji-to-star-in-yrfs-next-mardaani/1/261597.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Other than starring in the occasional political thriller,",
       "sourceTitle": "Rani Mukerji gets Mardaani, YRF's next; Bollywood, News",
-      "text": "Other than starring in the occasional political thriller,"
+      "sourceUrl": "http://indiatoday.intoday.in/story/rani-mukerji-to-star-in-yrfs-next-mardaani/1/261597.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0611552/bio",
+      "type": "text",
+      "text": "Mukerji doesn't seem to be all that political. She was the only Bollywood star to ever have been invited to a dinner in honor of former Pakistani President Pervez Musharraf.",
+      "parentId": 11,
       "sourceTitle": "Rani Mukerji – Biography",
-      "text": "Mukerji doesn't seem to be all that political. She was the only Bollywood star to ever have been invited to a dinner in honor of former Pakistani President Pervez Musharraf."
+      "sourceUrl": "http://www.imdb.com/name/nm0611552/bio"
     },
     {
-      "type": "sentence",
-      "text": "She said of the honor:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She said of the honor:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0611552/bio",
-      "sourceTitle": "Rani Mukerji – Biography",
-      "text": "It was like a dream come true! [to be invited to this State dinner] To just be part of such an event made me feel that I've done something to achieve this. All the biggest dignitaries from both sides of the border were so cultured and down-to-earth. When I was invited, I was disbelieving and overjoyed."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "It was like a dream come true! [to be invited to this State dinner] To just be part of such an event made me feel that I've done something to achieve this. All the biggest dignitaries from both sides of the border were so cultured and down-to-earth. When I was invited, I was disbelieving and overjoyed.",
+      "sourceTitle": "Rani Mukerji – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0611552/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Perhaps the most shocking political scandal to come from the Mukerji camp was her answer to the question of who she idolized during a routine interview. Her response… was Adolf Hitler. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.totallyjewish.com/news/national/?content_id=1014",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Hitler. I'd love to meet him to see what was going on inside his head.",
       "sourceTitle": "Bollywood Star 'Idolises Hitler.'",
-      "text": "Hitler. I'd love to meet him to see what was going on inside his head."
+      "sourceUrl": "http://www.totallyjewish.com/news/national/?content_id=1014"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "A firestorm of controversy, naturally, but as her apolgists reasonably pointed out–she might not idolize him in the sense that she admires him, rather she finds Hitler fascinating. He is fascinating. Nevertheless, the actress hasn't ever commented on her gaff and remains largely non-political."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

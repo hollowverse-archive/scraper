@@ -33,139 +33,238 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Evangeline Lilly was born in Fort Saskatchewan, Alberta, Canada and grew up there and in Kelowna, British Columbia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theglobeandmail.com/arts/television/the-blooming-of-evangeline-lilly/article4351559/#articlecontent",
+      "parentId": 2,
+      "type": "text",
+      "text": "Lilly had some sort of deeply Christian upbringing. Sources disagree on the denomination, with some saying Baptist and/or Mennonite,",
       "sourceTitle": "The blooming of Evangeline Lilly",
-      "text": "Lilly had some sort of deeply Christian upbringing. Sources disagree on the denomination, with some saying Baptist and/or Mennonite,"
+      "sourceUrl": "http://www.theglobeandmail.com/arts/television/the-blooming-of-evangeline-lilly/article4351559/#articlecontent"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/840/000096552/",
+      "type": "text",
+      "text": "some saying Evangelical and/or born-again Christian.",
+      "parentId": 2,
       "sourceTitle": "Evangeline Lilly",
-      "text": "some saying Evangelical and/or born-again Christian."
+      "sourceUrl": "http://www.nndb.com/people/840/000096552/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm1431940/bio",
+      "type": "text",
+      "text": "Whatever it was, she ran with it. At 14, she served a mission for her church in the Philippines,",
+      "parentId": 2,
       "sourceTitle": "Evangeline Lilly – Biography",
-      "text": "Whatever it was, she ran with it. At 14, she served a mission for her church in the Philippines,"
+      "sourceUrl": "http://www.imdb.com/name/nm1431940/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.buzzle.com/articles/biography-of-evangeline-lilly.html",
+      "type": "text",
+      "text": "she worked at a Bible camp while going to college,",
+      "parentId": 2,
       "sourceTitle": "Biography of Evangeline Lilly",
-      "text": "she worked at a Bible camp while going to college,"
+      "sourceUrl": "http://www.buzzle.com/articles/biography-of-evangeline-lilly.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.buzzle.com/articles/biography-of-evangeline-lilly.html",
+      "type": "text",
+      "text": "she left a potentially lucrative modeling career because of her moral reservations about sexual objectification,",
+      "parentId": 2,
       "sourceTitle": "Biography of Evangeline Lilly",
-      "text": "she left a potentially lucrative modeling career because of her moral reservations about sexual objectification,"
+      "sourceUrl": "http://www.buzzle.com/articles/biography-of-evangeline-lilly.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.religionfacts.com/celebrities/evangeline_lilly.htm",
+      "type": "text",
+      "text": "and according to her",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "Lost"
+    },
+    {
+      "type": "text",
+      "text": "castmates, she carries a Bible with her wherever she goes.",
+      "parentId": 2,
       "sourceTitle": "Evangeline Lilly and Religion",
-      "text": "and according to her  castmates, she carries a Bible with her wherever she goes."
+      "sourceUrl": "http://www.religionfacts.com/celebrities/evangeline_lilly.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "However, the actors she's worked with–and even Lilly herself to some extent–acknowledge the walking contradiction Lilly can be. For example, her  co-star, Jorge Garcia, said:"
+      "parentId": 3,
+      "type": "text",
+      "text": "However, the actors she's worked with–and even Lilly herself to some extent–acknowledge the walking contradiction Lilly can be. For example, her"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Lost"
+    },
+    {
+      "type": "text",
+      "text": "co-star, Jorge Garcia, said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.religionfacts.com/celebrities/evangeline_lilly.htm",
-      "sourceTitle": "Evangeline Lilly and Religion",
-      "text": "There's a lot of that Christian good girl in her, but sometimes certain things come out of her mouth. She's got the devil mixed in there too."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "There's a lot of that Christian good girl in her, but sometimes certain things come out of her mouth. She's got the devil mixed in there too.",
+      "sourceTitle": "Evangeline Lilly and Religion",
+      "sourceUrl": "http://www.religionfacts.com/celebrities/evangeline_lilly.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "And Lilly said once:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://quotes.lucywho.com/evangeline-lilly-quotes-t838.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Over and over again I've been called a walking oxymoron. I do things that you wouldn't associate with a good little Christian girl.",
       "sourceTitle": "Evangeline Lilly Quotes",
-      "text": "Over and over again I've been called a walking oxymoron. I do things that you wouldn't associate with a good little Christian girl."
+      "sourceUrl": "http://quotes.lucywho.com/evangeline-lilly-quotes-t838.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1389855/Evangeline-Lilly-gives-birth-boy.html",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "One wonders if the secular world got its fangs into Lilly. Not only are these quotes indicative of some sort of internal struggle, we know she had her child out of wedlock.",
       "sourceTitle": "Evangeline Lilly gives birth to a boy",
-      "text": "One wonders if the secular world got its fangs into Lilly. Not only are these quotes indicative of some sort of internal struggle, we know she had her child out of wedlock."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1389855/Evangeline-Lilly-gives-birth-boy.html"
     },
     {
-      "type": "sentence",
-      "text": "Not that there's anything wrong with that, it's just not normally the route taken by former missionary, Bible camp counselors."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Not that there's anything wrong with that, it's just not normally the route taken by former missionary, Bible camp counselors.",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Political role models"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Lilly's politics are informed by her concern for the environment. The issues she raises are somewhat diverse, but a clean and healthy planet is the common thread. She has addressed the threat overpopulation might pose to the planet, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.greenmuze.com/celebs/green/1749-evangeline-lilly-adopts-for-the-planet.html",
-      "sourceTitle": "Evangeline Lilly Adopts For The Planet",
-      "text": "We're not going to protect the Earth the way we need to protect it if we don't stop making so many babies."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "We're not going to protect the Earth the way we need to protect it if we don't stop making so many babies.",
+      "sourceTitle": "Evangeline Lilly Adopts For The Planet",
+      "sourceUrl": "http://www.greenmuze.com/celebs/green/1749-evangeline-lilly-adopts-for-the-planet.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "And she's protested environmental travesties in her home country of Canada, including tar sands oil extraction in Northern Alberta and oil pipelines. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://desmog.ca/2013/01/22/evangeline-lilly-i-am-canadian-what-are-you",
-      "sourceTitle": "Evangeline Lilly: I Am Canadian. What Are You?",
-      "text": "The tar sands in Alberta, the construction of new pipelines, the industrial abuse of clean water, the elimination of environmental laws and mistreatment of First Nations peoples are some of the greatest threats to our identity as Canadians. We are known as harmonious people: living in harmony with ourselves, with the rest of the world, and with nature."
+      "id": 15
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "The tar sands in Alberta, the construction of new pipelines, the industrial abuse of clean water, the elimination of environmental laws and mistreatment of First Nations peoples are some of the greatest threats to our identity as Canadians. We are known as harmonious people: living in harmony with ourselves, with the rest of the world, and with nature.",
+      "sourceTitle": "Evangeline Lilly: I Am Canadian. What Are You?",
+      "sourceUrl": "http://desmog.ca/2013/01/22/evangeline-lilly-i-am-canadian-what-are-you"
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "It's always a bit of a stretch to call someone a liberal simply because they're concerned about the environment. But Lilly is clearly a liberal. Note her Hollywood role models (and the religious imagery) in this quote:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.religionfacts.com/celebrities/evangeline_lilly.htm",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Hollywood is the Sodom and Gomorrah of today. It's a world I avoid because it's destroying our culture. And yet, I've recently seen a turnaround. People like George Clooney and Michael Moore are using Hollywood as a platform to send out positive messages.",
       "sourceTitle": "Evangeline Lilly and Religion",
-      "text": "Hollywood is the Sodom and Gomorrah of today. It's a world I avoid because it's destroying our culture. And yet, I've recently seen a turnaround. People like George Clooney and Michael Moore are using Hollywood as a platform to send out positive messages."
+      "sourceUrl": "http://www.religionfacts.com/celebrities/evangeline_lilly.htm"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "It's difficult to see the positive aspect of Michael Moore's message–poignant perhaps, but not necessarily positive. Maybe she takes that view because she's full-on left-wing. Let's hear your thoughts."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

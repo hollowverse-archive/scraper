@@ -37,118 +37,187 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Leonard Cohen was born and raised in Montreal, Quebec, Canada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://1heckofaguy.com/2008/04/21/the-childhood-of-leonard-cohen/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Cohen was raised in a traditional Jewish family. His maternal grandfather was a rabbi and Jewish scholar with whom the songwriter studied in his childhood.",
       "sourceTitle": "The Childhood Of Leonard Cohen.",
-      "text": "Cohen was raised in a traditional Jewish family. His maternal grandfather was a rabbi and Jewish scholar with whom the songwriter studied in his childhood."
+      "sourceUrl": "http://1heckofaguy.com/2008/04/21/the-childhood-of-leonard-cohen/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.myjewishlearning.com/culture/2/Literature/Jewish_American_Literature/Into_the_Literary_Mainstream/Leonard_Cohen.shtml",
+      "type": "text",
+      "text": "And that should be no surprise to Cohen fans. His music and poetry are laced with biblical references that go far beyond that of your average musician, delving deeply into Bible stories and biblical metaphor.",
+      "parentId": 2,
       "sourceTitle": "Leonard Cohen: Poet, Prophet, Eternal Optimist.",
-      "text": "And that should be no surprise to Cohen fans. His music and poetry are laced with biblical references that go far beyond that of your average musician, delving deeply into Bible stories and biblical metaphor."
+      "sourceUrl": "http://www.myjewishlearning.com/culture/2/Literature/Jewish_American_Literature/Into_the_Literary_Mainstream/Leonard_Cohen.shtml"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.myjewishlearning.com/culture/2/Literature/Jewish_American_Literature/Into_the_Literary_Mainstream/Leonard_Cohen.shtml",
+      "parentId": 3,
+      "type": "text",
+      "text": "He's carried his Jewish faith with him throughout his life, regularly observing the Sabbath.",
       "sourceTitle": "Leonard Cohen: Poet, Prophet, Eternal Optimist.",
-      "text": "He's carried his Jewish faith with him throughout his life, regularly observing the Sabbath."
+      "sourceUrl": "http://www.myjewishlearning.com/culture/2/Literature/Jewish_American_Literature/Into_the_Literary_Mainstream/Leonard_Cohen.shtml"
     },
     {
-      "type": "sentence",
-      "text": "Even after he started studying Zen Buddhism he said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Even after he started studying Zen Buddhism he said,",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.myjewishlearning.com/culture/2/Literature/Jewish_American_Literature/Into_the_Literary_Mainstream/Leonard_Cohen.shtml",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I'm not looking for a new religion. I'm quite happy with the old one, with Judaism.",
       "sourceTitle": "Leonard Cohen: Poet, Prophet, Eternal Optimist.",
-      "text": "I'm not looking for a new religion. I'm quite happy with the old one, with Judaism."
+      "sourceUrl": "http://www.myjewishlearning.com/culture/2/Literature/Jewish_American_Literature/Into_the_Literary_Mainstream/Leonard_Cohen.shtml"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newyorker.com/online/blogs/culture/2012/02/leonard-cohens-zen-sensuality.html",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "And Cohen's study of Zen wasn't just a weekend project. He lived at a Buddhist monastery for five years",
       "sourceTitle": "Leonard Cohen's Zen Sensuality.",
-      "text": "And Cohen's study of Zen wasn't just a weekend project. He lived at a Buddhist monastery for five years"
+      "sourceUrl": "http://www.newyorker.com/online/blogs/culture/2012/02/leonard-cohens-zen-sensuality.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.leonardcohenfiles.com/zenord.html",
+      "type": "text",
+      "text": "and became a fully ordained monk in 1996.",
+      "parentId": 6,
       "sourceTitle": "The Ordination of the Artist Formerly Known as Leonard Cohen.",
-      "text": "and became a fully ordained monk in 1996."
+      "sourceUrl": "http://www.leonardcohenfiles.com/zenord.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "About reconciling Buddhism and Judaism, Cohen said,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.nytimes.com/2009/02/25/arts/music/25cohe.html?_r=2&src=SkimME&",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Well, for one thing, in the tradition of Zen that I've practiced, there is no prayerful worship and there is no affirmation of a deity. So theologically there is no challenge to any Jewish belief.",
       "sourceTitle": "Leonard Cohen Returns to the Road, for Reasons Both Practical and Spiritual.",
-      "text": "Well, for one thing, in the tradition of Zen that I've practiced, there is no prayerful worship and there is no affirmation of a deity. So theologically there is no challenge to any Jewish belief."
+      "sourceUrl": "http://www.nytimes.com/2009/02/25/arts/music/25cohe.html?_r=2&src=SkimME&"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Politics in Song"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Songs_from_a_Room#Songs",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "As far as politics go, Cohen does not often insert himself overtly into political discourse, but he hasn't completely removed himself either. His song \"Story of Isaac\" is commonly viewed as a criticism of the Vietnam War,",
       "sourceTitle": "Songs from a Room.",
-      "text": "As far as politics go, Cohen does not often insert himself overtly into political discourse, but he hasn't completely removed himself either. His song \"Story of Isaac\" is commonly viewed as a criticism of the Vietnam War,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Songs_from_a_Room#Songs"
     },
     {
-      "type": "sentence",
-      "text": "admonishing fathers for sacrificing their sons to the war just as Abraham was willing to sacrifice his son:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "admonishing fathers for sacrificing their sons to the war just as Abraham was willing to sacrifice his son:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.songmeanings.net/songs/view/74118/",
-      "sourceTitle": "Leonard Cohen – Story of Isaac.",
-      "text": "You who build these altars now/ To sacrifice these children,/ You must not do it anymore./ A scheme is not a vision."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "You who build these altars now/ To sacrifice these children,/ You must not do it anymore./ A scheme is not a vision.",
+      "sourceTitle": "Leonard Cohen – Story of Isaac.",
+      "sourceUrl": "http://www.songmeanings.net/songs/view/74118/"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "His most overtly political song, \"Democracy,\" which came out in 1992, is a tribute to the messy, ugly, and beautiful process that is modern democracy. Cohen manages to stay neutral to partisanship however:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.azlyrics.com/lyrics/leonardcohen/democracy.html",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I'm sentimental, if you know what I mean/ I love the country but I can't stand the scene./ And I'm neither left or right/ I'm just staying home tonight,/ getting lost in that hopeless little screen.",
       "sourceTitle": "LEONARD COHEN LYRICS – Democracy.",
-      "text": "I'm sentimental, if you know what I mean/ I love the country but I can't stand the scene./ And I'm neither left or right/ I'm just staying home tonight,/ getting lost in that hopeless little screen."
+      "sourceUrl": "http://www.azlyrics.com/lyrics/leonardcohen/democracy.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2009/09/24/arts/music/24cohen.html",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Cohen's most focused political action is centered on the Israeli-Palestinian Conflict, which is no doubt a personal cause for him as a Jew. The musician spent time with the Israeli army playing performances for troops during the 1973 Arab-Israeli War. Then in 2009, he returned to the country to play a show billed as \"A Concert for Reconciliation, Tolerance and Peace.\" Cohen donated the proceeds from his concert to groups working to promote peace between Israelis and Palestinians.",
       "sourceTitle": "Leonard Cohen's Legacy for His Concert in Israel.",
-      "text": "Cohen's most focused political action is centered on the Israeli-Palestinian Conflict, which is no doubt a personal cause for him as a Jew. The musician spent time with the Israeli army playing performances for troops during the 1973 Arab-Israeli War. Then in 2009, he returned to the country to play a show billed as \"A Concert for Reconciliation, Tolerance and Peace.\" Cohen donated the proceeds from his concert to groups working to promote peace between Israelis and Palestinians."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.nytimes.com/2009/09/24/arts/music/24cohen.html"
     }
   ],
   "wikipediaData": {

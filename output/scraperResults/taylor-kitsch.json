@@ -31,90 +31,120 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Taylor Kitsch was born and raised in Kelowna, British Columbia, Canada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "The only comment Kitsch has made on religion was not about spirituality in the traditional sense. Talking about his brief foray as a pro in Canada's national sport he said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.gq.com/style/wear-it-now/201203/taylor-kitsch-interview-james-dean-style-gq-march-2012",
-      "sourceTitle": "Taylor Kitsch GQ March 2012 Interview: Wear It Now.",
-      "text": "I played pretty darn competitive-level hockey. Then the good old knee injury. Obviously, it's a blessing in disguise, but growing up Canadian, that's our religion, that's our football."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I played pretty darn competitive-level hockey. Then the good old knee injury. Obviously, it's a blessing in disguise, but growing up Canadian, that's our religion, that's our football.",
+      "sourceTitle": "Taylor Kitsch GQ March 2012 Interview: Wear It Now.",
+      "sourceUrl": "http://www.gq.com/style/wear-it-now/201203/taylor-kitsch-interview-james-dean-style-gq-march-2012"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "His Twitter page is no help since not one of his four tweets is remotely personal."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Demographics_of_British_Columbia#Religions",
+      "parentId": 6,
+      "type": "text",
+      "text": "British Columbia is considerably less religious than the rest of Canada with 36% of the population claiming no adherence to any religion,",
       "sourceTitle": "Demographics of British Columbia.",
-      "text": "British Columbia is considerably less religious than the rest of Canada with 36% of the population claiming no adherence to any religion,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Demographics_of_British_Columbia#Religions"
     },
     {
-      "type": "sentence",
-      "text": "and my best guess is that Kitsch belongs to that crowd."
+      "type": "text",
+      "text": "and my best guess is that Kitsch belongs to that crowd.",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "Kitsch doesn't even have a hockey equivalent to politics–there's nothing pseudo-political about him at all. He's as non-political as they come. But let's hypothesize anyway."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://realestalker.blogspot.com/2012/04/canadian-taylor-kitsch-buys-bare-land.html",
+      "parentId": 8,
+      "type": "text",
+      "text": "Where the United States' friendly neighbor to the north tends to be more liberal than its counterpart, Kitsch has spent most of his adulthood in the U.S. And on top of that, he bought a large piece of property in Texas, one of the most conservative states in the country.",
       "sourceTitle": "Canadian Taylor Kitsch Buys Bare Land in Texas.",
-      "text": "Where the United States' friendly neighbor to the north tends to be more liberal than its counterpart, Kitsch has spent most of his adulthood in the U.S. And on top of that, he bought a large piece of property in Texas, one of the most conservative states in the country."
+      "sourceUrl": "http://realestalker.blogspot.com/2012/04/canadian-taylor-kitsch-buys-bare-land.html"
     },
     {
-      "type": "sentence",
-      "text": "So maybe he's conservative after all?"
+      "type": "text",
+      "text": "So maybe he's conservative after all?",
+      "parentId": 8
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Politics_of_Texas#Current_situation",
+      "parentId": 9,
+      "type": "text",
+      "text": "But then, the property is right outside Austin–Texas' liberal stronghold.",
       "sourceTitle": "Politics of Texas.",
-      "text": "But then, the property is right outside Austin–Texas' liberal stronghold."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Politics_of_Texas#Current_situation"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theatlanticwire.com/entertainment/2013/03/taylor-kitsch-going-gay/62692/",
+      "type": "text",
+      "text": "And then there's the business of him playing the role of a closeted gay man and AIDS activist during the early days of that disease's epidemic.",
+      "parentId": 9,
       "sourceTitle": "Taylor Kitsch Is Going Gay.",
-      "text": "And then there's the business of him playing the role of a closeted gay man and AIDS activist during the early days of that disease's epidemic."
+      "sourceUrl": "http://www.theatlanticwire.com/entertainment/2013/03/taylor-kitsch-going-gay/62692/"
     },
     {
-      "type": "sentence",
-      "text": "So chances are he feels strongly in favor of gay rights."
+      "type": "text",
+      "text": "So chances are he feels strongly in favor of gay rights.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "I'm going to go with liberal. Have you got more information? Please let us know in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

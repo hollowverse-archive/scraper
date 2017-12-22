@@ -33,102 +33,156 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "George Harrison was born in Liverpool, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Spiritually, Harrison is considered a giant. In fact, his spiritual contributions are often thought to be more influential on western society than his music–which is saying a lot."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Harrison considered the quest for spiritual truths of the utmost importance and much of his life was dedicated to finding his place in the cosmos. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://hinduism.about.com/od/artculture/a/harrison.htm",
-      "sourceTitle": "The Spiritual Quest of George Harrison",
-      "text": "Everything else can wait, but the search for God cannot."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Everything else can wait, but the search for God cannot.",
+      "sourceTitle": "The Spiritual Quest of George Harrison",
+      "sourceUrl": "http://hinduism.about.com/od/artculture/a/harrison.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "His quest took him through much of India's history, culture, and landscape. He took many sabbaticals to that country and studied under many of its spiritual leaders. When asked why, George responded:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.garamchai.com/ArticleGeorgeHarrison.htm",
-      "sourceTitle": "Article on George Harrison and Indian Culture",
-      "text": "The people of India have a tremendous spiritual strength, which I don't think is found elsewhere. The spirit of the people, the beauty, the goodness—that's what I've been trying to learn about."
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.beliefnet.com/News/2001/12/In-His-Own-Words-George-Harrison-On-Spirituality.aspx",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "The people of India have a tremendous spiritual strength, which I don't think is found elsewhere. The spirit of the people, the beauty, the goodness—that's what I've been trying to learn about.",
+      "sourceTitle": "Article on George Harrison and Indian Culture",
+      "sourceUrl": "http://www.garamchai.com/ArticleGeorgeHarrison.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Harrison has admitted that his experimentation with drugs–particularly LSD–was an attempt to expand his spiritual consciousness",
       "sourceTitle": "In His Own Words: George Harrison on Spirituality",
-      "text": "Harrison has admitted that his experimentation with drugs–particularly LSD–was an attempt to expand his spiritual consciousness"
+      "sourceUrl": "http://www.beliefnet.com/News/2001/12/In-His-Own-Words-George-Harrison-On-Spirituality.aspx"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.garamchai.com/ArticleGeorgeHarrison.htm",
+      "type": "text",
+      "text": "but gave it up eventually. His quest took him to two distinct places. First, he became a Hare Krishna until the end of his life.",
+      "parentId": 9,
       "sourceTitle": "Article on George Harrison and Indian Culture",
-      "text": "but gave it up eventually. His quest took him to two distinct places. First, he became a Hare Krishna until the end of his life."
+      "sourceUrl": "http://www.garamchai.com/ArticleGeorgeHarrison.htm"
     },
     {
-      "type": "sentence",
-      "text": "Second, he seemed to come to the conclusion that all religions offered an opportunity to find truth, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Second, he seemed to come to the conclusion that all religions offered an opportunity to find truth, saying:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://hinduism.about.com/od/artculture/a/harrison.htm",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "All religions are branches of one big tree. It doesn't matter what you call Him just as long as you call.",
       "sourceTitle": "The Spiritual Quest of George Harrison",
-      "text": "All religions are branches of one big tree. It doesn't matter what you call Him just as long as you call."
+      "sourceUrl": "http://hinduism.about.com/od/artculture/a/harrison.htm"
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Political aversion"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thebeatlesrarity.com/2011/08/22/beatles-rarity-of-the-week-george-harrison-live-at-the-royal-albert-hall-april-1992/",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Politically, Harrison tended to keep out of the debate. He did, at one point in his life, lend his star power to a multinational political party called the Natural Law Party. The party attempted to place politicians in power in various countries from India to the U.S. to Britain based on some spiritual principles of Hinduism.",
       "sourceTitle": "The Beatles Rarity of the Week: George Harrison Live at the Royal Albert Hall, 1992",
-      "text": "Politically, Harrison tended to keep out of the debate. He did, at one point in his life, lend his star power to a multinational political party called the Natural Law Party. The party attempted to place politicians in power in various countries from India to the U.S. to Britain based on some spiritual principles of Hinduism."
+      "sourceUrl": "http://www.thebeatlesrarity.com/2011/08/22/beatles-rarity-of-the-week-george-harrison-live-at-the-royal-albert-hall-april-1992/"
     },
     {
-      "type": "sentence",
-      "text": "However, this could have been more of a religious agenda move than a political one–or an attempt to reconcile the two (which usually ends badly)."
+      "type": "text",
+      "text": "However, this could have been more of a religious agenda move than a political one–or an attempt to reconcile the two (which usually ends badly).",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.unicefusa.org/news/news-from-the-field/the-george-harrison-fund-for-u.html",
-      "sourceTitle": "The George Harrison Fund for UNICEF asks \"Help Us Save Some Lives.\" ",
-      "text": "Harrison did become a figure in the forefront of UNICEF, the United Nations aid agency, after holding a benefit concert for Bangladesh in 1971. To this day, the UN doles out aid for children who are the victims of humanitarian disasters from the George Harrison UNICEF fund."
+      "parentId": 14,
+      "type": "text",
+      "text": "Harrison did become a figure in the forefront of UNICEF, the United Nations aid agency, after holding a benefit concert for Bangladesh in 1971. To this day, the UN doles out aid for children who are the victims of humanitarian disasters from the George Harrison UNICEF fund.",
+      "sourceTitle": "The George Harrison Fund for UNICEF asks \"Help Us Save Some Lives.\"",
+      "sourceUrl": "http://www.unicefusa.org/news/news-from-the-field/the-george-harrison-fund-for-u.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "Looking backwards at The Beatles, George became the quiet outsider, the soft-spoken, big-hearted Beatle, whose spirituality and tenderness defined his life and his legacy."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

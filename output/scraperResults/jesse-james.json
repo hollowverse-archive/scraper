@@ -33,93 +33,136 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jesse James was born and raised in Clay County, Missouri near what is now Kearney, Missouri. He was killed with a bullet to the back of the head by a member of his own gang of outlaws who wanted to collect the reward money."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.civilwarbaptists.com/thisdayinhistory/1861-august-10/",
+      "parentId": 2,
+      "type": "text",
+      "text": "James was raised a Baptist. His father was the minister of the New Hope Baptist Church in Clay County",
       "sourceTitle": "Baptists and the American Civil War: August 10, 1861",
-      "text": "James was raised a Baptist. His father was the minister of the New Hope Baptist Church in Clay County"
+      "sourceUrl": "http://www.civilwarbaptists.com/thisdayinhistory/1861-august-10/"
     },
     {
-      "type": "sentence",
-      "text": "and traveled to California during the gold rush to preach to prospectors where he died when Jessie was three-years-old."
+      "type": "text",
+      "text": "and traveled to California during the gold rush to preach to prospectors where he died when Jessie was three-years-old.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "James is the subject of much myth and legend. Stories abound, such as one where James is reported to have, during a train robbery, encountered a young baptist minister and asked him for his money. When the minister expressed his unwillingness due to the fact that he was carrying his church parishioners' donations, Jessie is reported to have put his gun away, put out his hand and said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.liberalrev.com/?p=5689",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Shake, brother. I'm a Baptist too.",
       "sourceTitle": "Why I'm Proposing We Take \"Baptist\" Out Of Wedgewood Baptist Church – and one of my favorite, funny Baptist stories",
-      "text": "Shake, brother. I'm a Baptist too."
+      "sourceUrl": "http://www.liberalrev.com/?p=5689"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.travel-travel-travel.com/spot/archives/21/BLAZING_THROUGH_MISSOURI.htm",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Beyond his well-documented life of crime, killing and stealing, Jessie is reported by some to have been a devoted family man and \"religious in his own way.\"",
       "sourceTitle": "Blazing Through Missouri With Jessie James",
-      "text": "Beyond his well-documented life of crime, killing and stealing, Jessie is reported by some to have been a devoted family man and \"religious in his own way.\""
+      "sourceUrl": "http://www.travel-travel-travel.com/spot/archives/21/BLAZING_THROUGH_MISSOURI.htm"
     },
     {
-      "type": "sentence",
-      "text": "But you'd be hard-pressed to find anyone who said James was a good Christian."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But you'd be hard-pressed to find anyone who said James was a good Christian.",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Guerrilla politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pbs.org/wgbh/americanexperience/features/interview/james-guerrilla/",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "James is known to have justified his criminal ways with political causes. During the Civil War, the James family was on the side of the Confederates and Jesse fought in the war, sustaining multiple injuries and participating in some pretty gruesome events. Perhaps the most vile was the Centralia Massacre, in which James and some fellow guerrillas captured, disarmed and killed 22 Union soldiers"
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": ". They"
+    },
+    {
+      "type": "text",
+      "text": "then waited until their reinforcements arrived at which point they ambushed and killed 150 more Union soldiers.",
+      "parentId": 8,
       "sourceTitle": "Guerrilla Tactics – Jessie James",
-      "text": "James is known to have justified his criminal ways with political causes. During the Civil War, the James family was on the side of the Confederates and Jesse fought in the war, sustaining multiple injuries and participating in some pretty gruesome events. Perhaps the most vile was the Centralia Massacre, in which James and some fellow guerrillas captured, disarmed and killed 22 Union soldiers then waited until their reinforcements arrived at which point they ambushed and killed 150 more Union soldiers."
+      "sourceUrl": "http://www.pbs.org/wgbh/americanexperience/features/interview/james-guerrilla/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pbs.org/wgbh/americanexperience/features/primary-resources/james-newspapers/",
+      "parentId": 9,
+      "type": "text",
+      "text": "Some say the Civil War never ended for Jessie, who would detail his exploits in letters to a Kansas City Times journalist named John Newman Edwards.",
       "sourceTitle": "Newspaper Accounts – Jessie James",
-      "text": "Some say the Civil War never ended for Jessie, who would detail his exploits in letters to a Kansas City Times journalist named John Newman Edwards."
+      "sourceUrl": "http://www.pbs.org/wgbh/americanexperience/features/primary-resources/james-newspapers/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pbs.org/wgbh/americanexperience/features/biography/james-edwards/",
+      "type": "text",
+      "text": "Edwards, like James, was an anti-Unionist, a pro-slavery Confederate-sympathizer, and he would publish James' letters in the paper, often propagating a \"Robin Hood\" image and painting James as a hero for the poor and underprivileged.",
+      "parentId": 9,
       "sourceTitle": "John Newman Edwards – Jessie James",
-      "text": "Edwards, like James, was an anti-Unionist, a pro-slavery Confederate-sympathizer, and he would publish James' letters in the paper, often propagating a \"Robin Hood\" image and painting James as a hero for the poor and underprivileged."
+      "sourceUrl": "http://www.pbs.org/wgbh/americanexperience/features/biography/james-edwards/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usnews.com/news/articles/2007/06/24/how-the-civil-war-shaped-jesse-james",
+      "parentId": 10,
+      "type": "text",
+      "text": "And indeed, many of James' robberies were politically motivated. He would often target banks and trains owned and/or operated by Republicans (then the party of Abraham Lincoln and champions of slave emancipation).",
       "sourceTitle": "How the Civil War Shaped Jessie James",
-      "text": "And indeed, many of James' robberies were politically motivated. He would often target banks and trains owned and/or operated by Republicans (then the party of Abraham Lincoln and champions of slave emancipation)."
+      "sourceUrl": "http://www.usnews.com/news/articles/2007/06/24/how-the-civil-war-shaped-jesse-james"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usnews.com/news/articles/2007/06/24/how-the-civil-war-shaped-jesse-james",
+      "type": "text",
+      "text": "The image of Jessie James, for some, became one of a rebel for the people who fought off the industrializing, modernizing forces of banks and railroads that threatened to encroach on the old, traditional ways of life.",
+      "parentId": 10,
       "sourceTitle": "How the Civil War Shaped Jessie James",
-      "text": "The image of Jessie James, for some, became one of a rebel for the people who fought off the industrializing, modernizing forces of banks and railroads that threatened to encroach on the old, traditional ways of life."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.usnews.com/news/articles/2007/06/24/how-the-civil-war-shaped-jesse-james"
     }
   ],
   "wikipediaData": {

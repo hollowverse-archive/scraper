@@ -36,134 +36,219 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
+      "parentId": 1,
+      "type": "text",
+      "text": "Carla Bruni, who was born Carla Gilberta Bruni Tedeschi and is now called Carla Bruni-Sarkozy, was born in Turin, Italy and grew up in Paris, France."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
       "text": "Bruni, like most French and Italians, is Catholic. But it's a rocky relationship. She isn't devout at all, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/europe/france/5345389/Carla-Bruni-criticises-Pope-Benedict-XVI.html",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I was born Catholic, I was baptised, but in my life I feel profoundly secular.",
       "sourceTitle": "Carla Bruni criticizes Pope Benedict XVI",
-      "text": "I was born Catholic, I was baptised, but in my life I feel profoundly secular."
+      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/europe/france/5345389/Carla-Bruni-criticises-Pope-Benedict-XVI.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.time.com/time/world/article/0,8599,2032433,00.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "That's not all. Bruni has been quite an outspoken critic of the Pope and Catholic Church policies, particularly their handling of AIDS in Africa. The Catholic Church has had a strict policy against the use of birth control, (though Pope Benedict XVI has since made qualified concessions toward condoms in AIDS prevention",
       "sourceTitle": "Pope Interview: Benedict XVI on Condom Use to Prevent HIV",
-      "text": "That's not all. Bruni has been quite an outspoken critic of the Pope and Catholic Church policies, particularly their handling of AIDS in Africa. The Catholic Church has had a strict policy against the use of birth control, (though Pope Benedict XVI has since made qualified concessions toward condoms in AIDS prevention"
+      "sourceUrl": "http://www.time.com/time/world/article/0,8599,2032433,00.html"
     },
     {
-      "type": "sentence",
-      "text": ") and might be viewed by some as perpetuating a continent-wide epidemic. Bruni said, among other things:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": ") and might be viewed by some as perpetuating a continent-wide epidemic. Bruni said, among other things:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://atheism.about.com/b/2009/06/02/carla-bruni-lapsed-catholic-french-first-lady-criticizes-benedict-xvi.htm",
-      "sourceTitle": "Carla Bruni, Lapsed Catholic: French First Lady Criticizes Pope Benedict XVI",
-      "text": "I think the Church should evolve on this issue. It presents the condom as a contraceptive which, incidentally, it forbids, although it is the only existing protection."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I think the Church should evolve on this issue. It presents the condom as a contraceptive which, incidentally, it forbids, although it is the only existing protection.",
+      "sourceTitle": "Carla Bruni, Lapsed Catholic: French First Lady Criticizes Pope Benedict XVI",
+      "sourceUrl": "http://atheism.about.com/b/2009/06/02/carla-bruni-lapsed-catholic-french-first-lady-criticizes-benedict-xvi.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "The comment came with more than the usual amount of scandal considering Bruni was, at the time, the first lady in France and no French first lady had ever been so vocal with criticisms of the church."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0116257/bio",
+      "parentId": 9,
+      "type": "text",
+      "text": "Considering the majority of the French are at least raised in a Catholic tradition, it's no wonder Bruni was voted France's most irritating celebrity in 2010.",
       "sourceTitle": "Carla Bruni – Biography",
-      "text": "Considering the majority of the French are at least raised in a Catholic tradition, it's no wonder Bruni was voted France's most irritating celebrity in 2010."
+      "sourceUrl": "http://www.imdb.com/name/nm0116257/bio"
     },
     {
-      "type": "sentence",
-      "text": "(Let's not even get into the fact that we're not even mincing words anymore by calling political figures celebrities these days.)"
+      "type": "text",
+      "text": "(Let's not even get into the fact that we're not even mincing words anymore by calling political figures celebrities these days.)",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/europe/france/8064867/Pope-Benedict-XVI-says-Carla-Bruni-Sarkozy-not-welcome-at-the-Vatican.html",
+      "parentId": 10,
+      "type": "text",
+      "text": "For totally different reasons, Bruni has been banned from The Vatican. Apparently, the Pope was afraid of the media fallout that might occur if the photos from her visit might be juxtaposed with photos of Bruni's former nude modeling shoots in Italian papers.",
       "sourceTitle": "Pope Benedict XVI 'says Carla Bruni not welcome at the Vatican.'",
-      "text": "For totally different reasons, Bruni has been banned from The Vatican. Apparently, the Pope was afraid of the media fallout that might occur if the photos from her visit might be juxtaposed with photos of Bruni's former nude modeling shoots in Italian papers."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/europe/france/8064867/Pope-Benedict-XVI-says-Carla-Bruni-Sarkozy-not-welcome-at-the-Vatican.html"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Politics of obligatory support"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Bruni is the wife of former French president Nikolas Sarkozy, so we can assume that his politics are–at least superficially–her politics. And Sarkozy is a bit right-wing. But we'll examine that a bit later."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/europe/france/3539784/Carla-Bruni-became-aids-ambassador-because-brother-died-from-disease.html",
+      "parentId": 13,
+      "type": "text",
+      "text": "Bruni certainly has her own agendas. As you might imagine, she's big on third-world health issues, particularly HIV in Africa. She is a global ambassador for a Swiss-based charity to fight third-world diseases called the Global Fund to Fight Aids, Tuberculosis and Malaria.",
       "sourceTitle": "Carla Bruni becomes AIDS ambassador because brother died from disease",
-      "text": "Bruni certainly has her own agendas. As you might imagine, she's big on third-world health issues, particularly HIV in Africa. She is a global ambassador for a Swiss-based charity to fight third-world diseases called the Global Fund to Fight Aids, Tuberculosis and Malaria."
+      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/europe/france/3539784/Carla-Bruni-became-aids-ambassador-because-brother-died-from-disease.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "She's also an activist for animal rights and has teamed up with PETA to protest fur in fashion. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.washingtontimes.com/news/2009/jun/11/green-and-glover-undercover-86626247/",
-      "sourceTitle": "Green & Glover: The Great Fur Challenge",
-      "text": "Every designer who kindly lends me clothes for public appearances can tell you that I do not accept to wear fur pieces, even when they're only a small part of the outfit."
+      "id": 15
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Every designer who kindly lends me clothes for public appearances can tell you that I do not accept to wear fur pieces, even when they're only a small part of the outfit.",
+      "sourceTitle": "Green & Glover: The Great Fur Challenge",
+      "sourceUrl": "http://www.washingtontimes.com/news/2009/jun/11/green-and-glover-undercover-86626247/"
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "But is she a bit of a leftist? It depends on which Bruni you talk to. At the beginning of her marriage to conservative Nikolas Sarkozy, Bruni denied being in lock-step with her husband's politics, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/europe/france/8293545/Carla-Bruni-Sarkozy-confession-I-no-longer-feel-left-wing.html",
-      "sourceTitle": "Carla Bruni-Sarkozy confession: 'I no longer feel left-wing.'",
-      "text": "Nobody has to be joined at the hip in politics or with one's husband… I would never vote on the Right."
+      "id": 18
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Nobody has to be joined at the hip in politics or with one's husband… I would never vote on the Right.",
+      "sourceTitle": "Carla Bruni-Sarkozy confession: 'I no longer feel left-wing.'",
+      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/europe/france/8293545/Carla-Bruni-Sarkozy-confession-I-no-longer-feel-left-wing.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "But when 2012 rolled around and Sarkozy was up for reelection, Bruni seemed to have changed her tune. Expressing concern over recent rhetoric coming from France's more leftist factions, she confessed:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/europe/france/8293545/Carla-Bruni-Sarkozy-confession-I-no-longer-feel-left-wing.html",
+      "id": 21
+    },
+    {
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "[My friends and I in earlier days] were bobo (bourgeois bohemians), we were left-wing but at that time I voted in Italy. I have never voted for the Left in France and I can tell you, I'm not about to start now. I don't really feel left-wing anymore.",
       "sourceTitle": "Carla Bruni-Sarkozy confession: 'I no longer feel left-wing.'",
-      "text": "[My friends and I in earlier days] were bobo (bourgeois bohemians), we were left-wing but at that time I voted in Italy. I have never voted for the Left in France and I can tell you, I'm not about to start now. I don't really feel left-wing anymore."
+      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/europe/france/8293545/Carla-Bruni-Sarkozy-confession-I-no-longer-feel-left-wing.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 23
+    },
+    {
+      "parentId": 23,
+      "type": "text",
       "text": "So… a conservative first lady who is concerned with poverty and animal rights, eh? It takes all kinds to make up this big, crazy world."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

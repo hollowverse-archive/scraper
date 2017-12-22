@@ -36,118 +36,194 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Muhammad Ali was born in Louisville, Kentucky and raised in a Baptist household."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.notablebiographies.com/A-An/Ali-Muhammad.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "In a famous conversion in 1964, Ali renounced Christianity and announced that he was a member of the Nation of Islam. He had been incredibly disenchanted with the segregation of the United States and after learning of the militant Islamic freedom fighter, Malcom X, Ali decided to join and changed his name from Cassius Marcellus Clay, Jr. to Muhammad Ali.",
       "sourceTitle": "Muhammad Ali biography",
-      "text": "In a famous conversion in 1964, Ali renounced Christianity and announced that he was a member of the Nation of Islam. He had been incredibly disenchanted with the segregation of the United States and after learning of the militant Islamic freedom fighter, Malcom X, Ali decided to join and changed his name from Cassius Marcellus Clay, Jr. to Muhammad Ali."
+      "sourceUrl": "http://www.notablebiographies.com/A-An/Ali-Muhammad.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "In his youth, Ali's faith and anger at American racism made him a controversial figure, speaking out against white Americans and saying things like:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Integration is wrong. We don't want to live with the white man; that's all."
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "and"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://observer.guardian.co.uk/osm/story/0,,1072751,00.html",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "No intelligent black man or black woman in his or her right black mind wants white boys and white girls coming to their homes to marry their black sons and daughters.",
       "sourceTitle": "Ali: the legacy",
-      "text": "No intelligent black man or black woman in his or her right black mind wants white boys and white girls coming to their homes to marry their black sons and daughters."
+      "sourceUrl": "http://observer.guardian.co.uk/osm/story/0,,1072751,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.beliefnet.com/Faiths/Islam/2005/02/Muhammad-Alis-New-Spiritual-Quest.aspx",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Later in life, Ali mellowed, converted to a small sect of Islam called Sufi",
       "sourceTitle": "Muhammad Ali has embraced Sufi Islam and is on a new spiritual quest",
-      "text": "Later in life, Ali mellowed, converted to a small sect of Islam called Sufi"
+      "sourceUrl": "http://www.beliefnet.com/Faiths/Islam/2005/02/Muhammad-Alis-New-Spiritual-Quest.aspx"
     },
     {
-      "type": "sentence",
-      "text": "and even acknowledges other religions as containing some truth, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and even acknowledges other religions as containing some truth, saying:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/muhammad_ali_2.html",
-      "sourceTitle": "Muhammad Ali Quotes",
-      "text": "Rivers, ponds, lakes and streams – they all have different names, but they all contain water. Just as religions do – they all contain truths."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Rivers, ponds, lakes and streams – they all have different names, but they all contain water. Just as religions do – they all contain truths.",
+      "sourceTitle": "Muhammad Ali Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/muhammad_ali_2.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "As a devout Muslim, Ali was deeply saddened by the 9/11 World Trade Center attacks in New York City and the subsequent anti-Muslim sentiment that swept the U.S. He made a statement saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 13
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.mediamonitors.net/muhammadali1.html",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Islam is a religion of peace. Islam does not promote terrorism or the killing of people…If the culprits are Muslim, they have twisted the teachings of Islam.",
       "sourceTitle": "Islam is a religion of Peace, not Terrorism",
-      "text": "Islam is a religion of peace. Islam does not promote terrorism or the killing of people…If the culprits are Muslim, they have twisted the teachings of Islam."
+      "sourceUrl": "http://www.mediamonitors.net/muhammadali1.html"
     },
     {
       "type": "heading",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "From fighting in the ring to fighting the man"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Ali tells a story of winning an Olympic gold medal in Italy and returning to the U.S. a champion, only to be denied service at a local five-and-dime store because he is black. This was the moment he decided to become a social activist."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "Ali has championed many issues relating to civil rights and racial equality. He also stood up against the U.S. war in Vietnam and refused to be drafted. The incident was highly controversial at the time and Ali even took his case as high as the U.S. Supreme Court where he was acquitted of all charges. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://colorlines.com/archives/2012/01/boxing_legend_muhammad_ali_turns_70.html",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "I ain't got no quarrel with them Viet Cong… No Viet Cong ever called me nigger.",
       "sourceTitle": "Boxing legend Muhammad Ali turns 70",
-      "text": "I ain't got no quarrel with them Viet Cong… No Viet Cong ever called me nigger."
+      "sourceUrl": "http://colorlines.com/archives/2012/01/boxing_legend_muhammad_ali_turns_70.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://biography.jrank.org/pages/2728/Ali-Muhammad.html",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "Ali is a Democrat and even campaigned for Jimmy Carter in 1980, who lost to Ronald Reagan.",
       "sourceTitle": "Muhammad Ali biography",
-      "text": "Ali is a Democrat and even campaigned for Jimmy Carter in 1980, who lost to Ronald Reagan."
+      "sourceUrl": "http://biography.jrank.org/pages/2728/Ali-Muhammad.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2000/04/30/sports/backtalk-today-s-athletes-owe-everything-to-ali.html?pagewanted=2&src=pm",
+      "parentId": 21,
+      "type": "text",
+      "text": "Ali was loved and respected as an athlete by white and black America alike. His high-profile, celebrity status did much to bring these issues to the forefront at the height of the civil rights movement. It is even said that he inspired Dr. Martin Luther King, Jr. to finally stand up to then-president Lyndon Johnson against the Vietnam War.",
       "sourceTitle": "Backtalk; Today's Athletes Owe Everything to Ali",
-      "text": "Ali was loved and respected as an athlete by white and black America alike. His high-profile, celebrity status did much to bring these issues to the forefront at the height of the civil rights movement. It is even said that he inspired Dr. Martin Luther King, Jr. to finally stand up to then-president Lyndon Johnson against the Vietnam War."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.nytimes.com/2000/04/30/sports/backtalk-today-s-athletes-owe-everything-to-ali.html?pagewanted=2&src=pm"
     }
   ],
   "wikipediaData": {

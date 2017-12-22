@@ -34,96 +34,150 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Wayne Rooney was born and raised in Liverpool, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.smh.com.au/world-cup-2010/world-cup-news/rooney-banned-from-talking-about-religion-20100617-yhka.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Rooney is Catholic, and appears to be quite devout. During the 2010 World Cup, a reporter asked him a question about the rosary that he wore around his neck during practice, and the footballer said, \"It's my religion.\" But then an official stepped in and told Rooney to stop discussing the topic, saying, \"We don't do religion.\"",
       "sourceTitle": "Wayne Rooney banned from talking about religion.",
-      "text": "Rooney is Catholic, and appears to be quite devout. During the 2010 World Cup, a reporter asked him a question about the rosary that he wore around his neck during practice, and the footballer said, \"It's my religion.\" But then an official stepped in and told Rooney to stop discussing the topic, saying, \"We don't do religion.\""
+      "sourceUrl": "http://www.smh.com.au/world-cup-2010/world-cup-news/rooney-banned-from-talking-about-religion-20100617-yhka.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.irishcentral.com/sport/Wayne-Rooney-has-found-religion-96658334.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Luckily for those of us who"
+    },
+    {
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "do"
+    },
+    {
+      "type": "text",
+      "text": "\"do religion,\" Rooney opened up to the press a couple years later. He said in an interview that he went to a Catholic school where he impressed the nuns in his religious education classes.",
+      "parentId": 3,
       "sourceTitle": "Wayne Rooney has found religion.",
-      "text": "Luckily for those of us who  \"do religion,\" Rooney opened up to the press a couple years later. He said in an interview that he went to a Catholic school where he impressed the nuns in his religious education classes."
+      "sourceUrl": "http://www.irishcentral.com/sport/Wayne-Rooney-has-found-religion-96658334.html"
     },
     {
-      "type": "sentence",
-      "text": "And while in those days, he mostly just prayed for his football club to win games, as an adult he takes his faith more seriously. He said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And while in those days, he mostly just prayed for his football club to win games, as an adult he takes his faith more seriously. He said,",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2200139/Wayne-Rooney-I-pray-family-match.html",
-      "sourceTitle": "Wayne Rooney: 'I pray for my family before every match.'",
-      "text": "I pray to God, of course. I believe in God. . . . I don't pray to help me score goals. I pray for the health of me and everyone on the pitch. It is something I have always done. I pray at night. I pray for my family and friends and for the health of everyone I love."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I pray to God, of course. I believe in God. . . . I don't pray to help me score goals. I pray for the health of me and everyone on the pitch. It is something I have always done. I pray at night. I pray for my family and friends and for the health of everyone I love.",
+      "sourceTitle": "Wayne Rooney: 'I pray for my family before every match.'",
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2200139/Wayne-Rooney-I-pray-family-match.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "After waiting for years to hear what he has to say about his religion, there you have it folks. He's just a good old Catholic boy."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Rooney for. . . Obama?"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Nobody has to stop Rooney from talking about politics, because it doesn't look like he's very interested. I couldn't find any clue that Rooney is interested in the political scene in the U.K., but politicians seem to be interested in invoking his name."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/news/politics/david-cameron/7987334/David-Cameron-pokes-fun-at-Wayne-Rooney-as-he-picks-up-GQ-award.html",
+      "parentId": 9,
+      "type": "text",
+      "text": "Conservative Prime Minister David Cameron used the allegations that Rooney had an affair with a prostitute as a punchline.",
       "sourceTitle": "David Cameron pokes fun at Wayne Rooney as he picks up GQ award.",
-      "text": "Conservative Prime Minister David Cameron used the allegations that Rooney had an affair with a prostitute as a punchline."
+      "sourceUrl": "http://www.telegraph.co.uk/news/politics/david-cameron/7987334/David-Cameron-pokes-fun-at-Wayne-Rooney-as-he-picks-up-GQ-award.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blogs.telegraph.co.uk/news/davidhughes/100032677/gordon-brown-gets-wayne-rooneys-ligaments-in-a-twist/",
+      "type": "text",
+      "text": "And former Labour Prime Minister Gordon Brown used a Rooney injury as a metaphor for the ailing British economy.",
+      "parentId": 9,
       "sourceTitle": "Gordon Brown gets Wayne Rooney's ligaments in a twist.",
-      "text": "And former Labour Prime Minister Gordon Brown used a Rooney injury as a metaphor for the ailing British economy."
+      "sourceUrl": "http://blogs.telegraph.co.uk/news/davidhughes/100032677/gordon-brown-gets-wayne-rooneys-ligaments-in-a-twist/"
     },
     {
-      "type": "sentence",
-      "text": "If I were Rooney, I might be apt to vote Labour after that."
+      "type": "text",
+      "text": "If I were Rooney, I might be apt to vote Labour after that.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "And it's possible that he did. After all, he seems to be liberal, at least by American standards. During the 2012 campaign for president in the U.S., Rooney tweeted,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/sport/football/players/wayne-rooney/9634361/Wayne-Rooney-the-Prezmaker-happy-to-put-his-political-clout-behind-Barack-Obama.html",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Watched all the presidential debates. If I had to vote would vote for Obama.",
       "sourceTitle": "Wayne Rooney the Prezmaker happy to put his political clout behind Barack Obama.",
-      "text": "Watched all the presidential debates. If I had to vote would vote for Obama."
+      "sourceUrl": "http://www.telegraph.co.uk/sport/football/players/wayne-rooney/9634361/Wayne-Rooney-the-Prezmaker-happy-to-put-his-political-clout-behind-Barack-Obama.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "It's a little odd that he endorsed Obama, and took the time to watch more debates than most Americans, considering he doesn't seem to have anything to say about politics in his own country. Maybe he does, and he's just not letting on. Do you know anything more? Let us know in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

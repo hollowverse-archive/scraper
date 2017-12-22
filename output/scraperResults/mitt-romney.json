@@ -34,77 +34,117 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.csmonitor.com/2007/0809/p01s01-uspo.html",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
+      "text": "Mitt Romney was born and raised in Detroit, Michigan. He is a fifth-generation Mormon and very devout.",
       "sourceTitle": "Mitt Romney: proudly, quietly Mormon",
-      "text": "Mitt Romney was born and raised in Detroit, Michigan. He is a fifth-generation Mormon and very devout."
+      "sourceUrl": "http://www.csmonitor.com/2007/0809/p01s01-uspo.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Romney even donated over $4 million to the Mormon church over the last 5 years."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Mormonism",
+      "parentId": 3,
+      "type": "text",
+      "text": "Mormonism is a highly misunderstood and, in many people's opinion, strange religion. Romney has, so far, been able to avoid discussing it.",
       "sourceTitle": "Mormonism",
-      "text": "Mormonism is a highly misunderstood and, in many people's opinion, strange religion. Romney has, so far, been able to avoid discussing it."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Mormonism"
     },
     {
-      "type": "sentence",
-      "text": "And he doesn't want to discuss it:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And he doesn't want to discuss it:",
+      "parentId": 3
     },
     {
       "type": "quote",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "We shouldn't choose leaders by their religion."
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "and"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://ontheissues.org/Mitt_Romney.htm",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "No church authorities will exert influence on my decisions.",
       "sourceTitle": "Mitt Romney on the Issues",
-      "text": "No church authorities will exert influence on my decisions."
+      "sourceUrl": "http://ontheissues.org/Mitt_Romney.htm"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Politicians: Doing and saying whatever it takes"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Romney is a Republican, through and through. He's in deep with the U.S. political establishment and his father was the governor of Michigan and Mitt was governor of Massachusetts. He's run for president two times."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/02/01/ann-coulter-mitt-romney-health-care-law_n_1248610.html",
+      "parentId": 11,
+      "type": "text",
+      "text": "The funny thing is, Mitt's first time running for president, he played up his stance as a moderate Republican and even did the very Democrat thing of making it illegal to not have health insurance in Massachusetts.",
       "sourceTitle": "Ann Coulter Defends Mitt Romney's Massachusetts Health Care Law",
-      "text": "The funny thing is, Mitt's first time running for president, he played up his stance as a moderate Republican and even did the very Democrat thing of making it illegal to not have health insurance in Massachusetts."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/02/01/ann-coulter-mitt-romney-health-care-law_n_1248610.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "During his second campaign, he tried to pass himself off as ultra conservative and is even slamming Obama's adding contraceptives to health insurance plans."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

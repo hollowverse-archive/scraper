@@ -34,87 +34,157 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Eric Church was born and raised in Granite Falls, North Carolina."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Did you expect a country boy named Church to be a Christian? Well, stereotypes win; you're right–except not totally. In the one direct quote about his religious beliefs that I could find, Church sounds like religion didn't always have all the answers for him:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.americansongwriter.com/2008/05/eric-church-the-adventures-of-the-carolina-kid/",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I was raised in a Christian. . . . Baptist family–the religion of contradictions. I had a view of the world. Then I went out on my own. . .",
       "sourceTitle": "ERIC CHURCH: The Adventures of the Carolina Kid.",
-      "text": "I was raised in a Christian. . . . Baptist family–the religion of contradictions. I had a view of the world. Then I went out on my own. . ."
+      "sourceUrl": "http://www.americansongwriter.com/2008/05/eric-church-the-adventures-of-the-carolina-kid/"
     },
     {
-      "type": "sentence",
-      "text": "As the title of his debut album  suggests, Church's songwriting is sometimes more about straying from the image of a perfect Christian, but not too far away. In the title track he sings,"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "text",
+      "text": "As the title of his debut album"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Sinners Like Me"
+    },
+    {
+      "type": "text",
+      "text": "suggests, Church's songwriting is sometimes more about straying from the image of a perfect Christian, but not too far away. In the title track he sings,",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.cowboylyrics.com/lyrics/church-eric/sinners-like-me-17214.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "On the day I die/ I know where I'm gonna go/ Me and Jesus got that part worked out/ I'll wait at the gates til his face I see/ And stand in a long line of sinners like me",
       "sourceTitle": "Eric Church * Sinners Like Me Lyrics.",
-      "text": "On the day I die/ I know where I'm gonna go/ Me and Jesus got that part worked out/ I'll wait at the gates til his face I see/ And stand in a long line of sinners like me"
+      "sourceUrl": "http://www.cowboylyrics.com/lyrics/church-eric/sinners-like-me-17214.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cowboylyrics.com/lyrics/church-eric/loves-me-like-jesus-does-33150.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Regardless, his Christian background comes through in plenty of his songs from \"Loves Me Like Jesus Does\"",
       "sourceTitle": "Eric Church * Loves Me Like Jesus Does Lyrics.",
-      "text": "Regardless, his Christian background comes through in plenty of his songs from \"Loves Me Like Jesus Does\""
+      "sourceUrl": "http://www.cowboylyrics.com/lyrics/church-eric/loves-me-like-jesus-does-33150.html"
     },
     {
-      "type": "sentence",
-      "text": "to \"Country Music Jesus\":"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "to \"Country Music Jesus\":",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.cowboylyrics.com/lyrics/church-eric/country-music-jesus-33153.html",
-      "sourceTitle": "Eric Church * Country Music Jesus Lyrics.",
-      "text": "I had a revelation last night/ A divine inspiration from the other side/ On what it's gonna take to right all this wrong/ We need a country music Jesus/ To come and save us all"
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I had a revelation last night/ A divine inspiration from the other side/ On what it's gonna take to right all this wrong/ We need a country music Jesus/ To come and save us all",
+      "sourceTitle": "Eric Church * Country Music Jesus Lyrics.",
+      "sourceUrl": "http://www.cowboylyrics.com/lyrics/church-eric/country-music-jesus-33153.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Even if Church thinks the Baptists of his youth were full of contradictions, it seems fairly clear through his songwriting that he still believes in God and considers himself a Christian. If that's not the case, he does a good job of fooling us."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "Church and politics don't mix"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Eric Church thinks talking about politics is fine and dandy, and celebrities should let their opinions be known if they want. But he's not going to–mainly because he doesn't have any opinions. He implied that he looked at being political as an admirable quality, but after stating that he considers himself a non-political independent, he said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.countryweekly.com/news/eric-church-says-hes-not-terribly-interested-politics",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I guess I look at it sometimes, and I have a hard time telling the difference between them, with Democrats and Republicans. At least for me, it's just not something I'm terribly interested in.",
       "sourceTitle": "Eric Church Says He's \"Not That Terribly Interested\" in Politics.",
-      "text": "I guess I look at it sometimes, and I have a hard time telling the difference between them, with Democrats and Republicans. At least for me, it's just not something I'm terribly interested in."
+      "sourceUrl": "http://www.countryweekly.com/news/eric-church-says-hes-not-terribly-interested-politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Fair enough. And I'm sure plenty of his fans are happy to take a break from political punditry and just enjoy the music."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

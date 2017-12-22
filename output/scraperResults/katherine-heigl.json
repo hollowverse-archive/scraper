@@ -33,106 +33,160 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Katherine Heigl was born Washington D.C. She moved around as a kid, hitting Denver and parts of Virginia before settling in New Canaan, Connecticut."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.vanityfair.com/culture/features/2008/01/heigl200801?currentPage=2",
+      "parentId": 2,
+      "type": "text",
+      "text": "Heigl was raised in the Church of Jesus Christ of Latter Day Saints, commonly known as the Mormon Church. This wasn't always the case. Before Heigl was eight, her mother was a Lutheran and her father a Catholic. After a tragic auto accident killed Heigl's brother, the whole family converted to the Mormon Church.",
       "sourceTitle": "Katherine Heigl",
-      "text": "Heigl was raised in the Church of Jesus Christ of Latter Day Saints, commonly known as the Mormon Church. This wasn't always the case. Before Heigl was eight, her mother was a Lutheran and her father a Catholic. After a tragic auto accident killed Heigl's brother, the whole family converted to the Mormon Church."
+      "sourceUrl": "http://www.vanityfair.com/culture/features/2008/01/heigl200801?currentPage=2"
     },
     {
-      "type": "sentence",
-      "text": "Of the incident, Heigl said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Of the incident, Heigl said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.vanityfair.com/culture/features/2008/01/heigl200801?currentPage=2",
-      "sourceTitle": "Katherine Heigl",
-      "text": "Both my parents felt a great desire for answers, and they found an answer in the Mormon church—or answers they could live with, anyway, because there really are none… But I give my parents unbelievable credit for pulling it together, and I give the Mormon church a lot of credit for helping them to do that."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Both my parents felt a great desire for answers, and they found an answer in the Mormon church—or answers they could live with, anyway, because there really are none… But I give my parents unbelievable credit for pulling it together, and I give the Mormon church a lot of credit for helping them to do that.",
+      "sourceTitle": "Katherine Heigl",
+      "sourceUrl": "http://www.vanityfair.com/culture/features/2008/01/heigl200801?currentPage=2"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Now, Heigl's stardom flows almost as much from her vulgar humor, devil-may-care attitude, and the fact that she smokes cigarettes–a lot as it does from her acting chops. When asked if she is still a devout Mormon, she says things like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.dailymail.co.uk/femail/article-1036311/Katherine-Heigl-I-love-sinner.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I'm ashamed to say that I've just got very lazy about it. I satisfy my vices instead of fighting them. If I start going back to church, I'd have to stop the smoking and drinking, and I wouldn't be able to curse any more.",
       "sourceTitle": "Katherine Heigl: 'I love being a sinner.'",
-      "text": "I'm ashamed to say that I've just got very lazy about it. I satisfy my vices instead of fighting them. If I start going back to church, I'd have to stop the smoking and drinking, and I wouldn't be able to curse any more."
+      "sourceUrl": "http://www.dailymail.co.uk/femail/article-1036311/Katherine-Heigl-I-love-sinner.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2008/01/14/AR2008011403061_pf.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Despite all that, Heigl is still a believer and she is still touched by those intangible spiritual forces. She's said she still prays every night and every once in a while, she gets that \"inkling\" of something out there, something greater than herself.",
       "sourceTitle": "A Puff of Fresh Air",
-      "text": "Despite all that, Heigl is still a believer and she is still touched by those intangible spiritual forces. She's said she still prays every night and every once in a while, she gets that \"inkling\" of something out there, something greater than herself."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2008/01/14/AR2008011403061_pf.html"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Politics isn't her \"forum\""
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Heigl tries to shy away from politics, but it doesn't always work out. When she was asked by paparazzi to comment on the 2008 presidential elections, she said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=8KalUsEScfU",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I don't do politics. It's not my forum, man, you know? I get annoyed.",
       "sourceTitle": "Katherine Heigl 'I Don't Do Politics.'",
-      "text": "I don't do politics. It's not my forum, man, you know? I get annoyed."
+      "sourceUrl": "http://www.youtube.com/watch?v=8KalUsEScfU"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.icelebz.com/celebs/katherine_heigl/videos/katherine_heigl_s_voting_for_obama.html",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "When pressed again by paparazzi, she begrudgingly admitted that she was an Obama supporter and asked, \"Isn't it obvious?\"",
       "sourceTitle": "Katherine Heigl's voting for Obama video",
-      "text": "When pressed again by paparazzi, she begrudgingly admitted that she was an Obama supporter and asked, \"Isn't it obvious?\""
+      "sourceUrl": "http://www.icelebz.com/celebs/katherine_heigl/videos/katherine_heigl_s_voting_for_obama.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2010/06/07/katherine-heigl-explains_n_603244.html",
+      "parentId": 14,
+      "type": "text",
+      "text": "She seemed pretty upset about the BP Gulf of Mexico oil spill in 2010, expressing concern for wildlife–indicating at least some investment in environmental issues.",
       "sourceTitle": "Katherine Heigl Explains How To Stop The Oil Spill",
-      "text": "She seemed pretty upset about the BP Gulf of Mexico oil spill in 2010, expressing concern for wildlife–indicating at least some investment in environmental issues."
+      "sourceUrl": "http://www.huffingtonpost.com/2010/06/07/katherine-heigl-explains_n_603244.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/katherine-heigl",
+      "parentId": 15,
+      "type": "text",
+      "text": "But perhaps most interesting is her support of the Gay and Lesbian Alliance Against Defamation (GLAAD).",
       "sourceTitle": "Katherine Heigl's Charity, Events, and Causes",
-      "text": "But perhaps most interesting is her support of the Gay and Lesbian Alliance Against Defamation (GLAAD)."
+      "sourceUrl": "http://www.looktothestars.org/celebrity/katherine-heigl"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.queerty.com/how-the-mormon-church-bought-prop-8-20090202/",
+      "type": "text",
+      "text": "For someone who still professes loyalty to the Mormon Church–even though she smokes and drinks–she doesn't follow their political agenda either. In 2008, the Mormon Church threw money at California's anti-gay marriage law Prop 8.",
+      "parentId": 15,
       "sourceTitle": "How the Mormon Church Bought Prop 8",
-      "text": "For someone who still professes loyalty to the Mormon Church–even though she smokes and drinks–she doesn't follow their political agenda either. In 2008, the Mormon Church threw money at California's anti-gay marriage law Prop 8."
+      "sourceUrl": "http://www.queerty.com/how-the-mormon-church-bought-prop-8-20090202/"
     },
     {
-      "type": "sentence",
-      "text": "She has yet to comment on any of this."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She has yet to comment on any of this.",
+      "parentId": 15
     }
   ],
   "wikipediaData": {

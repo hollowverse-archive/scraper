@@ -35,115 +35,200 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Wesley Snipes was born in Orlando, Florida and grew up in New York City."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianpost.com/news/wesley-snipes-birthday-today-celebrated-behind-bars-79203/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Snipes was raised in a Christian home,",
       "sourceTitle": "Wesley Snipes Birthday Today, Celebrated Behind Bars?",
-      "text": "Snipes was raised in a Christian home,"
+      "sourceUrl": "http://www.christianpost.com/news/wesley-snipes-birthday-today-celebrated-behind-bars-79203/"
     },
     {
-      "type": "sentence",
-      "text": "but as he grew up, his interests in religion expanded and he started looking into other faiths. He said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but as he grew up, his interests in religion expanded and he started looking into other faiths. He said,",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://thesop.org/story/entertainment/2010/04/08/wesley-snipes-fascinated-by-different-religions.php",
-      "sourceTitle": "Wesley Snipes Fascinated By Different Religions.",
-      "text": "I like to read about different religions–Judaism, Islam, Christianity, Hinduism and Buddhism. . . . It was actually my martial arts training that got me into it–after all it's quite spiritual. And at the theater they always tell you what you're not. That actually made me wonder who I actually am."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I like to read about different religions–Judaism, Islam, Christianity, Hinduism and Buddhism. . . . It was actually my martial arts training that got me into it–after all it's quite spiritual. And at the theater they always tell you what you're not. That actually made me wonder who I actually am.",
+      "sourceTitle": "Wesley Snipes Fascinated By Different Religions.",
+      "sourceUrl": "http://thesop.org/story/entertainment/2010/04/08/wesley-snipes-fascinated-by-different-religions.php"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "For a while, the religion he connected to most strongly was Islam. For ten years until 1988, the actor was a practicing Muslim. He said about his conversion,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.christianpost.com/news/wesley-snipes-birthday-today-celebrated-behind-bars-79203/",
-      "sourceTitle": "Wesley Snipes Birthday Today, Celebrated Behind Bars?",
-      "text": "[Islam made] me more conscious of what African people have accomplished, of my self-worth, [and gave] me some self-dignity."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "[Islam made] me more conscious of what African people have accomplished, of my self-worth, [and gave] me some self-dignity.",
+      "sourceTitle": "Wesley Snipes Birthday Today, Celebrated Behind Bars?",
+      "sourceUrl": "http://www.christianpost.com/news/wesley-snipes-birthday-today-celebrated-behind-bars-79203/"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Considering he's not Muslim anymore, I would assume he's gone back to Christianity–he's still religious anyway. After being sentenced to three years in prison for tax evasion, Snipes said,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.hecklerspray.com/wesley-snipes-hopes-jesus-christ-our-lord-can-pray-the-handcuffs-off-his-wrists/201053956.php",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "We still have prayers out there. We still believe in miracles. So don't send me up the river yet.",
       "sourceTitle": "Wesley Snipes Hopes Jesus Christ Our Lord Can Pray The Handcuffs Off His Wrists.",
-      "text": "We still have prayers out there. We still believe in miracles. So don't send me up the river yet."
+      "sourceUrl": "http://www.hecklerspray.com/wesley-snipes-hopes-jesus-christ-our-lord-can-pray-the-handcuffs-off-his-wrists/201053956.php"
     },
     {
-      "type": "sentence",
-      "text": "And apparently he also worked his faith into his defense. The court's opinion lays out Snipes' view of who should  be required to pay taxes, a view that caused his tax attorneys to drop him as a client:"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "break"
+      "parentId": 11,
+      "type": "text",
+      "text": "And apparently he also worked his faith into his defense. The court's opinion lays out Snipes' view of who should"
+    },
+    {
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "not"
+    },
+    {
+      "type": "text",
+      "text": "be required to pay taxes, a view that caused his tax attorneys to drop him as a client:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.ca11.uscourts.gov/opinions/ops/200812402.pdf",
-      "sourceTitle": "United States of America vs. Wesley Trent Snipes.",
-      "text": "Snipes also claimed that as a \"fiduciary of God, who is a 'nontaxpayer,'\" he was a \"'foreign diplomat'\" who was not obliged to pay taxes."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Snipes also claimed that as a \"fiduciary of God, who is a 'nontaxpayer,'\" he was a \"'foreign diplomat'\" who was not obliged to pay taxes.",
+      "sourceTitle": "United States of America vs. Wesley Trent Snipes.",
+      "sourceUrl": "http://www.ca11.uscourts.gov/opinions/ops/200812402.pdf"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "But I suppose we're starting to weirdly get into politics here, so. . ."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 15
     },
     {
-      "type": "heading",
+      "parentId": 15,
+      "type": "text",
       "text": "The United States vs. Wesley Snipes"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ca11.uscourts.gov/opinions/ops/200812402.pdf",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Most of what we can glean about Snipes' political views come from his position on taxes. After not paying any taxes on his significant income for several years, he wrote a letter to the IRS asking for tax money he had previously paid to be returned to him. The letter claimed that he was a \"non-resident alien\" of the country and the federal government did not in fact have the authority to levy an income tax outside of Washington, D.C. and those who produce \"distilled spirits.\"",
       "sourceTitle": "United States of America vs. Wesley Trent Snipes.",
-      "text": "Most of what we can glean about Snipes' political views come from his position on taxes. After not paying any taxes on his significant income for several years, he wrote a letter to the IRS asking for tax money he had previously paid to be returned to him. The letter claimed that he was a \"non-resident alien\" of the country and the federal government did not in fact have the authority to levy an income tax outside of Washington, D.C. and those who produce \"distilled spirits.\""
+      "sourceUrl": "http://www.ca11.uscourts.gov/opinions/ops/200812402.pdf"
     },
     {
-      "type": "sentence",
-      "text": "He concluded it with what appears to be genuine sincerity:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He concluded it with what appears to be genuine sincerity:",
+      "parentId": 16
     },
     {
       "type": "quote",
-      "sourceUrl": "http://thelede.blogs.nytimes.com/2008/01/30/in-his-words-wesley-snipes-on-not-paying-taxes/",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Whatever the case, thank you for taking the time to educate me and help me comply with what the letter of the law requires, which has always been my sincere desire as a patriotic, law-abiding responsible American.",
       "sourceTitle": "Wesley Snipes's Anti-Tax Manifesto.",
-      "text": "Whatever the case, thank you for taking the time to educate me and help me comply with what the letter of the law requires, which has always been my sincere desire as a patriotic, law-abiding responsible American."
+      "sourceUrl": "http://thelede.blogs.nytimes.com/2008/01/30/in-his-words-wesley-snipes-on-not-paying-taxes/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theatlantic.com/politics/archive/2010/12/libertarian-party-defends-wesley-snipes/67464/",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Clearly Snipes can identify with the Libertarian party, although I couldn't find an explicit endorsement from the actor. The party, however, has endorsed Snipes. Libertarian executive director Wes Benedict released a statement defending his actions and attacking the court system for sending him to prison when they had the full authority to simply take his money, if that was their goal.",
       "sourceTitle": "Libertarian Party Defends Wesley Snipes.",
-      "text": "Clearly Snipes can identify with the Libertarian party, although I couldn't find an explicit endorsement from the actor. The party, however, has endorsed Snipes. Libertarian executive director Wes Benedict released a statement defending his actions and attacking the court system for sending him to prison when they had the full authority to simply take his money, if that was their goal."
+      "sourceUrl": "http://www.theatlantic.com/politics/archive/2010/12/libertarian-party-defends-wesley-snipes/67464/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "Who knows, maybe he'll be a spokesman for the party after he gets out of jail. Or maybe he'll decide prison isn't worth it, and he'll just stay quiet and pay his taxes. Keep us updated in the comments, Snipes fans."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

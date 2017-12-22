@@ -36,129 +36,235 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Regina Spektor was born in Moscow, U.S.S.R. and grew up there until she was nine-years-old when her parents moved to the New York City area by way of Austria and Italy."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jta.org/news/article/2012/04/02/3092511/amid-mainstream-success-regina-spektor-stays-true-to-jewish-roots",
+      "parentId": 2,
+      "type": "text",
+      "text": "Spektor is an interesting case religiously. She is Jewish by blood. In fact, the reason she and her family left the Soviet Union was for religious reasons and their admission into the U.S. was due to assistance from the American Hebrew Immigrant Aid Society.",
       "sourceTitle": "Amid mainstream success, Regina Spektor stays true to Jewish roots",
-      "text": "Spektor is an interesting case religiously. She is Jewish by blood. In fact, the reason she and her family left the Soviet Union was for religious reasons and their admission into the U.S. was due to assistance from the American Hebrew Immigrant Aid Society."
+      "sourceUrl": "http://www.jta.org/news/article/2012/04/02/3092511/amid-mainstream-success-regina-spektor-stays-true-to-jewish-roots"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=uKcVziEKv4c",
+      "parentId": 3,
+      "type": "text",
+      "text": "However, Spektor, who has admitted to there being a heavy religious influence in her music, particularly her album,"
+    },
+    {
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Far"
+    },
+    {
+      "type": "text",
+      "text": ",",
+      "parentId": 3,
       "sourceTitle": "Regina Spektor talks religion, parents, fame and 'Far.'",
-      "text": "However, Spektor, who has admitted to there being a heavy religious influence in her music, particularly her album, ,"
+      "sourceUrl": "http://www.youtube.com/watch?v=uKcVziEKv4c"
     },
     {
-      "type": "sentence",
-      "text": "doesn't seem to really know what to think about religion. Check out this . For nearly ten minutes, Spektor–as adorably and endearingly as anyone possibly ever could–rambles incoherently about religion and belief and what's important in life. And not once does she mention Judaism, or anything at all related to the religion of her heritage."
+      "type": "text",
+      "text": "doesn't seem to really know what to think about religion. Check out this",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.youtube.com/watch?v=Dnh2cBBTVlQ"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=uKcVziEKv4c",
+      "type": "text",
+      "text": ". For nearly ten minutes, Spektor–as adorably and endearingly as anyone possibly ever could–rambles incoherently about religion and belief and what's important in life. And not once does she mention Judaism, or anything at all related to the religion of her heritage.",
+      "parentId": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "If there is any sort of theme to her theological waxing,",
       "sourceTitle": "Regina Spektor talks religion, parents, fame and 'Far.'",
-      "text": "If there is any sort of theme to her theological waxing,"
+      "sourceUrl": "http://www.youtube.com/watch?v=uKcVziEKv4c"
     },
     {
-      "type": "sentence",
-      "text": "it's that she doesn't know what to think. A quote to sum it all up, perhaps:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "it's that she doesn't know what to think. A quote to sum it all up, perhaps:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=uKcVziEKv4c",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I'm always thinking about faith and spirituality and tradition and religion and how those things fit together or don't fit together… Does religion do good or does it harm? …obviously it does both. I don't exactly know how I feel about it.",
       "sourceTitle": "Regina Spektor talks religion, parents, fame and 'Far.'",
-      "text": "I'm always thinking about faith and spirituality and tradition and religion and how those things fit together or don't fit together… Does religion do good or does it harm? …obviously it does both. I don't exactly know how I feel about it."
+      "sourceUrl": "http://www.youtube.com/watch?v=uKcVziEKv4c"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "A moving political target"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.baltimoresun.com/2012-09-26/entertainment/bs-ae-regina-spektor-interview-20120925_1_regina-spektor-jack-dishel-strokes-and-kings",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Spektor is slightly more straightforward about her political views than she is about her religious views. We'll start out simple. She's an Obama supporter.",
       "sourceTitle": "Regina Spektor on Obama, opening night jitters",
-      "text": "Spektor is slightly more straightforward about her political views than she is about her religious views. We'll start out simple. She's an Obama supporter."
+      "sourceUrl": "http://articles.baltimoresun.com/2012-09-26/entertainment/bs-ae-regina-spektor-interview-20120925_1_regina-spektor-jack-dishel-strokes-and-kings"
     },
     {
-      "type": "sentence",
-      "text": "And she's quite passionate about gay rights and gay marriage indeed. During the height of the buzz surrounding California's Prop 8, Spektor said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And she's quite passionate about gay rights and gay marriage indeed. During the height of the buzz surrounding California's Prop 8, Spektor said:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://queersunited.blogspot.com/2009/06/regina-spektor-calls-prop-8-disgusting.html",
-      "sourceTitle": "Regina Spektor Calls Prop 8 'Disgusting.' We Call Her Correct!",
-      "text": "I'm just waiting for this whole 'not allowing gay people to marry' thing goes into the dark, yucky part of our history — like white-only drinking fountains. It's just disgusting that it's not just a given already."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I'm just waiting for this whole 'not allowing gay people to marry' thing goes into the dark, yucky part of our history — like white-only drinking fountains. It's just disgusting that it's not just a given already.",
+      "sourceTitle": "Regina Spektor Calls Prop 8 'Disgusting.' We Call Her Correct!",
+      "sourceUrl": "http://queersunited.blogspot.com/2009/06/regina-spektor-calls-prop-8-disgusting.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "What an unapologetic liberal! Right? Right?!"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Maybe not."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "As we discussed previously, she's Jewish. Well, when it comes to Israel, Spektor sounds pretty conservative. She even said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.jrtelegraph.com/2009/02/regina-spektor-when-a-jew-who-loves-israel-.html",
-      "sourceTitle": "Regina Spektor: \"When a Jew Who Loves Israel…\"",
-      "text": "I do not agree with the liberal media when it comes to Israel. I have never seen such one sided reporting in my life. And I've seen some amazing propaganda growing up in the Soviet Union."
+      "id": 15
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "I do not agree with the liberal media when it comes to Israel. I have never seen such one sided reporting in my life. And I've seen some amazing propaganda growing up in the Soviet Union.",
+      "sourceTitle": "Regina Spektor: \"When a Jew Who Loves Israel…\"",
+      "sourceUrl": "http://www.jrtelegraph.com/2009/02/regina-spektor-when-a-jew-who-loves-israel-.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Spektor made a fair point about Israel's reaction to Palestinian rockets being fired into their territory:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.jrtelegraph.com/2009/02/regina-spektor-when-a-jew-who-loves-israel-.html",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Israel has been shelled. It has been hit with rockets for years. Years. Manchester, St. Louis, Leon, Munich, Copenhagen, Detroit, Madrid, Brisbane, Leeds, LA, Tokyo, these cities are not. But if they were, God forbid, their governments would be completely authorized and in the right to fight back.",
       "sourceTitle": "Regina Spektor: \"When a Jew Who Loves Israel…\"",
-      "text": "Israel has been shelled. It has been hit with rockets for years. Years. Manchester, St. Louis, Leon, Munich, Copenhagen, Detroit, Madrid, Brisbane, Leeds, LA, Tokyo, these cities are not. But if they were, God forbid, their governments would be completely authorized and in the right to fight back."
+      "sourceUrl": "http://www.jrtelegraph.com/2009/02/regina-spektor-when-a-jew-who-loves-israel-.html"
     },
     {
-      "type": "sentence",
-      "text": "And her song, \"Ballad of a Politician\" doesn't paint a pretty picture of politicians. It's difficult to work out exactly what it means–sort of like her diatribes on religion–but it doesn't seem positive. Have a look for yourself ."
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "break"
+      "parentId": 20,
+      "type": "text",
+      "text": "And her song, \"Ballad of a Politician\" doesn't paint a pretty picture of politicians. It's difficult to work out exactly what it means–sort of like her diatribes on religion–but it doesn't seem positive. Have a look for yourself"
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "link",
+      "text": "here",
+      "sourceUrl": "http://www.azlyrics.com/lyrics/reginaspektor/balladofapolitician.html"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 20
+    },
+    {
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "Ultimately, Spektor is complex. She tickles the ivories to the beat of her own drum. She certainly doesn't only view the world down one ideological channel–and that's nice to see."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -36,112 +36,213 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.laweekly.com/2008-05-15/news/horizontal-hostess/",
+      "parentId": 1,
+      "type": "text",
+      "text": "Chelsea Handler was born and raised in Livingston, New Jersey."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Handler comes from a rather diverse religious background, with a Jewish father and Mormon mother as the youngest in a family of six children.",
       "sourceTitle": "Chelsea Handler",
-      "text": "Handler comes from a rather diverse religious background, with a Jewish father and Mormon mother as the youngest in a family of six children."
+      "sourceUrl": "http://www.laweekly.com/2008-05-15/news/horizontal-hostess/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "She seems to identify with Judaism, but invoking a classic, iconic episode of , she might just be in it for the comedy. She once said, justifying the content of her race-oriented comedy:"
+      "parentId": 3,
+      "type": "text",
+      "text": "She seems to identify with Judaism, but invoking a classic, iconic episode of"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Seinfeld"
+    },
+    {
+      "type": "text",
+      "text": ", she might just be in it for the comedy. She once said, justifying the content of her race-oriented comedy:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.nytimes.com/2011/05/22/fashion/comedy-with-a-side-of-disgust.html?pagewanted=2&_r=3&",
-      "sourceTitle": "Comedy With a Side of Disgust",
-      "text": "I try to make fun of everyone as often as possible, especially minorities. I'm a Jewish woman, so…"
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Chelsea_Handler",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I try to make fun of everyone as often as possible, especially minorities. I'm a Jewish woman, so…",
+      "sourceTitle": "Comedy With a Side of Disgust",
+      "sourceUrl": "http://www.nytimes.com/2011/05/22/fashion/comedy-with-a-side-of-disgust.html?pagewanted=2&_r=3&"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "There is much speculation that Handler is an atheist–or at least demonstrably skeptical of religion. Apparently, she referred to Jesus and Moses as fictional characters once on her show",
       "sourceTitle": "Chelsea Handler.",
-      "text": "There is much speculation that Handler is an atheist–or at least demonstrably skeptical of religion. Apparently, she referred to Jesus and Moses as fictional characters once on her show"
+      "sourceUrl": "http://www.celebatheists.com/wiki/Chelsea_Handler"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.laweekly.com/2008-05-15/news/horizontal-hostess/",
+      "type": "text",
+      "text": "and in her book,",
+      "parentId": 6
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "Are You There Vodka? It's Me, Chelsea"
+    },
+    {
+      "type": "text",
+      "text": ", she \"finds religion\" in a bottle of Grey Goose.",
+      "parentId": 6,
       "sourceTitle": "Chelsea Handler",
-      "text": "and in her book, , she \"finds religion\" in a bottle of Grey Goose."
+      "sourceUrl": "http://www.laweekly.com/2008-05-15/news/horizontal-hostess/"
     },
     {
-      "type": "sentence",
-      "text": "(It actually makes even more sense when you realize the title of her book is a reference to the famous teen girl, coming-of-age book by Judy Blume, .)"
+      "type": "text",
+      "text": "(It actually makes even more sense when you realize the title of her book is a reference to the famous teen girl, coming-of-age book by Judy Blume,",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "Are You There God, It's Me Margaret"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2011/05/22/fashion/comedy-with-a-side-of-disgust.html?pagewanted=2&_r=3&",
+      "type": "text",
+      "text": ".)",
+      "parentId": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "It's a bit tenuous admittedly, but if Handler isn't an atheist, she's certainly irreverent. She proudly proclaimed that she had had an abortion at the age of 16 to the"
+    },
+    {
+      "parentId": 7,
+      "type": "emphasis",
+      "text": "New York Times"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 7,
       "sourceTitle": "Comedy With a Side of Disgust",
-      "text": "It's a bit tenuous admittedly, but if Handler isn't an atheist, she's certainly irreverent. She proudly proclaimed that she had had an abortion at the age of 16 to the ."
+      "sourceUrl": "http://www.nytimes.com/2011/05/22/fashion/comedy-with-a-side-of-disgust.html?pagewanted=2&_r=3&"
     },
     {
-      "type": "sentence",
-      "text": "Whether you think that was right or wrong, it's certainly a bit strange to just bring it up to the . I would say it's a conscious decision to fly in the face of religious conceptions of morality. Maybe you disagree–that's what the comments are for."
+      "type": "text",
+      "text": "Whether you think that was right or wrong, it's certainly a bit strange to just bring it up to the",
+      "parentId": 7
     },
     {
-      "type": "break"
+      "parentId": 7,
+      "type": "emphasis",
+      "text": "New York Times"
+    },
+    {
+      "type": "text",
+      "text": ". I would say it's a conscious decision to fly in the face of religious conceptions of morality. Maybe you disagree–that's what the comments are for.",
+      "parentId": 7
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "You can't Handler these politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://jezebel.com/5856219/chelsea-handler-entering-politics-to-take-ann-coulter-down",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Handler is relentlessly antagonistic toward Republicans. Seriously, the list goes on and on. She has said she wants to enter politics just to \"take [Ann Coulter] down.\"",
       "sourceTitle": "Chelsea Handler Entering Politics To Take Ann Coulter Down",
-      "text": "Handler is relentlessly antagonistic toward Republicans. Seriously, the list goes on and on. She has said she wants to enter politics just to \"take [Ann Coulter] down.\""
+      "sourceUrl": "http://jezebel.com/5856219/chelsea-handler-entering-politics-to-take-ann-coulter-down"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=gjx18ZCMMsM",
+      "type": "text",
+      "text": "She has called Republican Speaker of the House, John Boehner, \"ridiculous.\"",
+      "parentId": 9,
       "sourceTitle": "Chelsea Handler on Sarah Palin, Boehner, Trump, Schwarzenegger and Obama",
-      "text": "She has called Republican Speaker of the House, John Boehner, \"ridiculous.\""
+      "sourceUrl": "http://www.youtube.com/watch?v=gjx18ZCMMsM"
     },
     {
-      "type": "sentence",
-      "text": "And she nailed the two most famous ladies of the Republican Party in one shot, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And she nailed the two most famous ladies of the Republican Party in one shot, saying:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.politico.com/blogs/click/0811/Chelsea_Handler_gets_political_.html",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Sarah Palin is a little bit more frightening than Michele Bachmann. Well, she's dumber.",
       "sourceTitle": "Chelsea Handler gets political",
-      "text": "Sarah Palin is a little bit more frightening than Michele Bachmann. Well, she's dumber."
+      "sourceUrl": "http://www.politico.com/blogs/click/0811/Chelsea_Handler_gets_political_.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=gjx18ZCMMsM",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "So? Democrat, then? It would appear that way. She's a pretty big Obama fan. She proclaimed her intention to vote for him before the 2012 election, saying that he hadn't had enough time to clean up a big mess.",
       "sourceTitle": "Chelsea Handler on Sarah Palin, Boehner, Trump, Schwarzenegger and Obama",
-      "text": "So? Democrat, then? It would appear that way. She's a pretty big Obama fan. She proclaimed her intention to vote for him before the 2012 election, saying that he hadn't had enough time to clean up a big mess."
+      "sourceUrl": "http://www.youtube.com/watch?v=gjx18ZCMMsM"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.wilshireandwashington.com/2012/04/chelsea-handler-gives-100000-to-obama-superpac.html",
+      "type": "text",
+      "text": "And if that wasn't enough, she gave $100,000 to an Obama Super-PAC.",
+      "parentId": 12,
       "sourceTitle": "Chelsea Handler Gives $100,000 to Obama Super-PAC",
-      "text": "And if that wasn't enough, she gave $100,000 to an Obama Super-PAC."
+      "sourceUrl": "http://www.wilshireandwashington.com/2012/04/chelsea-handler-gives-100000-to-obama-superpac.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "And if you're wondering: Is she a liberal Democrat? Refer to the previous discussion on abortion."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

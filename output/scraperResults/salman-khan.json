@@ -33,152 +33,234 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Salman Khan was born and raised in Indore, India."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Khan is truly meta-religious and appears to be fascinated by religion in general. But the fact that his mother is a Hindu and his father is a Muslim has made him the subject of much religious inquiry in India–a country where these two religions often clash. He has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://ibnlive.in.com/news/simply-salman-salman-on-srk-islam-and-family-life/100707-8-p0.html",
-      "sourceTitle": "Salman Khan talks about SRK, religion, family",
-      "text": "I am a human being, I am an Indian, I am a Muslim, I am a Hindu."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I am a human being, I am an Indian, I am a Muslim, I am a Hindu.",
+      "sourceTitle": "Salman Khan talks about SRK, religion, family",
+      "sourceUrl": "http://ibnlive.in.com/news/simply-salman-salman-on-srk-islam-and-family-life/100707-8-p0.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "And speaking of the wave of Muslim attacks on Indians, Khan said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://ibnlive.in.com/news/simply-salman-salman-on-srk-islam-and-family-life/100707-8-p0.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "All I can say is that the meaning of Islam is peace, the tenets of Islam are peace and when you ingrain violence in that…when you do not follow that, then that is the end of the conversation.",
       "sourceTitle": "Salman Khan talks about SRK, religion, family",
-      "text": "All I can say is that the meaning of Islam is peace, the tenets of Islam are peace and when you ingrain violence in that…when you do not follow that, then that is the end of the conversation."
+      "sourceUrl": "http://ibnlive.in.com/news/simply-salman-salman-on-srk-islam-and-family-life/100707-8-p0.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.apunkachoice.com/content/slide_show/sid100008163-lover_of_all_religions_salman_khan_celebrates_maha_shivratri/3.html#news",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "It may seem non-committal from a bi-religious man in the public eye, but Khan extends his interest in religion beyond Islam and Hinduism. He's been known to pray at holy Sikh shrines",
       "sourceTitle": "Golden Temple: Salman Khan praying at the Golden Temple, the holiest shrine for the Sikhs",
-      "text": "It may seem non-committal from a bi-religious man in the public eye, but Khan extends his interest in religion beyond Islam and Hinduism. He's been known to pray at holy Sikh shrines"
+      "sourceUrl": "http://www.apunkachoice.com/content/slide_show/sid100008163-lover_of_all_religions_salman_khan_celebrates_maha_shivratri/3.html#news"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.apunkachoice.com/content/slide_show/sid100008163-lover_of_all_religions_salman_khan_celebrates_maha_shivratri/6.html#news",
+      "type": "text",
+      "text": "and, a prolific painter, Khan has done portraits of both Buddha",
+      "parentId": 8,
       "sourceTitle": "Buddha: Salman Khan with a painting of the Buddha made by him",
-      "text": "and, a prolific painter, Khan has done portraits of both Buddha"
+      "sourceUrl": "http://www.apunkachoice.com/content/slide_show/sid100008163-lover_of_all_religions_salman_khan_celebrates_maha_shivratri/6.html#news"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.apunkachoice.com/content/slide_show/sid100008163-lover_of_all_religions_salman_khan_celebrates_maha_shivratri/7.html#news",
+      "type": "text",
+      "text": "and Jesus Christ.",
+      "parentId": 8,
       "sourceTitle": "Christ: Salman with a painting of Christ",
-      "text": "and Jesus Christ."
+      "sourceUrl": "http://www.apunkachoice.com/content/slide_show/sid100008163-lover_of_all_religions_salman_khan_celebrates_maha_shivratri/7.html#news"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hindustantimes.com/Entertainment/Tabloid/Salman-Khan-celebrates-Mahashivratri/Article1-814210.aspx",
+      "parentId": 9,
+      "type": "text",
+      "text": "But my view is that Khan leans more toward Hinduism than he wants to let on. He's been known to make international trips home to India just to make special Hindu celebrations and built a Shiva shrine in his family's farmhouse.",
       "sourceTitle": "Salman Khan celebrates Mahashivratri",
-      "text": "But my view is that Khan leans more toward Hinduism than he wants to let on. He's been known to make international trips home to India just to make special Hindu celebrations and built a Shiva shrine in his family's farmhouse."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.hindustantimes.com/Entertainment/Tabloid/Salman-Khan-celebrates-Mahashivratri/Article1-814210.aspx"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Attention-grabbing politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Khan is a great lover of his country, so much so that it's just another one of his religions! He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.masala.com/14553-nationalism-is-my-religion-says-salman-khan",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I am an Indian. Nationalism is my religion. We want responsible citizens who think about India first. We should unite and do everything for the betterment of our country.",
       "sourceTitle": "Nationalism is my religion, says Salman Khan",
-      "text": "I am an Indian. Nationalism is my religion. We want responsible citizens who think about India first. We should unite and do everything for the betterment of our country."
+      "sourceUrl": "http://www.masala.com/14553-nationalism-is-my-religion-says-salman-khan"
     },
     {
-      "type": "sentence",
-      "text": "And apparently, Khan is interested in participating in Indian politics. I'd tell you what he's all about if I spoke Hindi–but I don't. If you do speak Hindi and you want more information, check out  video or  one."
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "break"
+      "parentId": 14,
+      "type": "text",
+      "text": "And apparently, Khan is interested in participating in Indian politics. I'd tell you what he's all about if I spoke Hindi–but I don't. If you do speak Hindi and you want more information, check out"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.sify.com/movies/Salman-Khan-s-political-flip-flop-imagegallery-bollywood-jeqnf1hhigg.html?html=5",
+      "parentId": 14,
+      "type": "link",
+      "text": "this",
+      "sourceUrl": "http://www.youtube.com/watch?v=cS52TrjG1VM"
+    },
+    {
+      "type": "text",
+      "text": "video or",
+      "parentId": 14
+    },
+    {
+      "parentId": 14,
+      "type": "link",
+      "text": "this",
+      "sourceUrl": "http://www.youtube.com/watch?v=VOdE9AO4a0Y"
+    },
+    {
+      "type": "text",
+      "text": "one.",
+      "parentId": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "One thing that has come through in English is Khan's supposed political hypocrisy. He has been known to endorse Indian politicians. The rub is–they are often from opposing parties.",
       "sourceTitle": "Salman Khan's political flip-flop",
-      "text": "One thing that has come through in English is Khan's supposed political hypocrisy. He has been known to endorse Indian politicians. The rub is–they are often from opposing parties."
+      "sourceUrl": "http://www.sify.com/movies/Salman-Khan-s-political-flip-flop-imagegallery-bollywood-jeqnf1hhigg.html?html=5"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.indianexpress.com/news/salman-khan-campaigns-but-does-not-vote/453052",
+      "type": "text",
+      "text": "Some have accused him of just wanting attention, especially because after all the pomp and circumstance, Khan didn't even cast a vote.",
+      "parentId": 15,
       "sourceTitle": "Salman Khan campaigns, but does not vote",
-      "text": "Some have accused him of just wanting attention, especially because after all the pomp and circumstance, Khan didn't even cast a vote."
+      "sourceUrl": "http://www.indianexpress.com/news/salman-khan-campaigns-but-does-not-vote/453052"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Perhaps the most intriguing political point made by Khan referred to the 26/11 attacks perpetrated by Pakistani Islamic fundamentalists on a swanky Mumbai hotel."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.indianexpress.com/news/salman-causes-uproar-with-mumbai-attack-comment-aplologises/680675/",
+      "parentId": 17,
+      "type": "text",
+      "text": "Khan pointed out that, while these attacks had garnered significant, even international media attention, the scores of other religiously-motivated attacks in India were not similarly covered. Khan proposed the reason for this was that \"elites\" had been attacked in a five-star hotel and the majority of other attacks had been on poorer people. Apparently, the comments were quite controversial.",
       "sourceTitle": "Salman causes uproar with Mumbai attack comment, apologises",
-      "text": "Khan pointed out that, while these attacks had garnered significant, even international media attention, the scores of other religiously-motivated attacks in India were not similarly covered. Khan proposed the reason for this was that \"elites\" had been attacked in a five-star hotel and the majority of other attacks had been on poorer people. Apparently, the comments were quite controversial."
+      "sourceUrl": "http://www.indianexpress.com/news/salman-causes-uproar-with-mumbai-attack-comment-aplologises/680675/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "Seems like a perfectly reasonable thing to say to me."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Salman_Khan",
     "title": "Salman Khan",
     "image": {
-      "name": "SalmanKhan.jpg",
+      "name": "Salman_Khan_filmfare.jpg",
       "info": {
-        "canonicaltitle": "File:SalmanKhan.jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SalmanKhan.jpg/207px-SalmanKhan.jpg",
-        "thumbwidth": 207,
+        "canonicaltitle": "File:Salman Khan filmfare.jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Salman_Khan_filmfare.jpg/199px-Salman_Khan_filmfare.jpg",
+        "thumbwidth": 199,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/SalmanKhan.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:SalmanKhan.jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3873953",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Salman_Khan_filmfare.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Salman_Khan_filmfare.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52787523",
         "extmetadata": {
           "DateTime": {
-            "value": "2008-04-13 02:20:43",
+            "value": "2016-11-04 08:14:35",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "SalmanKhan",
+            "value": "Salman Khan filmfare",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -198,20 +280,20 @@
             "hidden": ""
           },
           "ImageDescription": {
-            "value": "Indian actor <a href=\"https://en.wikipedia.org/wiki/Salman_Khan\" class=\"extiw\" title=\"en:Salman Khan\">Salman Khan</a>",
+            "value": "Image of Salman Khan",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "2008-04-13",
+            "value": "2016-11-04",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.indiafm.com/stills/partiesnevents/Jaan-e-Mann_and_UFO_tie-up_party/still14999.html\">Salman Khan at the Jaan-E-Mann and UFO tie-up party</a>",
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.bollywoodhungama.com/news/parties-and-events/celebs-grace-the-61st-britannia-filmfare-awards/celebs-grace-the-61st-britannia-filmfare-awards-2\">http://www.bollywoodhungama.com/news/parties-and-events/celebs-grace-the-61st-britannia-filmfare-awards/celebs-grace-the-61st-britannia-filmfare-awards-2</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.indiafm.com/\">IndiaFM</a>",
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.bollywoodhungama.com\">http://www.bollywoodhungama.com</a>",
             "source": "commons-desc-page"
           },
           "LicenseShortName": {

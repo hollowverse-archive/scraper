@@ -32,103 +32,162 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "George H.W. Bush was born in Milton, Massachusetts and grew up between Greenwich, Connecticut and Andover, Massachusetts."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Bush is an Episcopalian. He wore his religious beliefs on his sleeve during his political career, often invoking God and faith as synonymous with American values. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pb/George_HW_Bush.html",
-      "sourceTitle": "The religion of George H.W. Bush, 41st U.S. President",
-      "text": "Americans are the most religious people on Earth. And we have always instinctively sensed that God's purpose was bound up with the cause of liberty."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Americans are the most religious people on Earth. And we have always instinctively sensed that God's purpose was bound up with the cause of liberty.",
+      "sourceTitle": "The religion of George H.W. Bush, 41st U.S. President",
+      "sourceUrl": "http://www.adherents.com/people/pb/George_HW_Bush.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "But one gets the sense it wasn't just political posturing for Bush, who often expressed a deep, personal commitment to Christianity. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pb/George_HW_Bush.html",
-      "sourceTitle": "The religion of George H.W. Bush, 41st U.S. President",
-      "text": "I am guided by certain traditions. One is that there is a God and He is good, and His love, while free, has a self imposed cost: We must be good to one another."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I am guided by certain traditions. One is that there is a God and He is good, and His love, while free, has a self imposed cost: We must be good to one another.",
+      "sourceTitle": "The religion of George H.W. Bush, 41st U.S. President",
+      "sourceUrl": "http://www.adherents.com/people/pb/George_HW_Bush.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "But Bush expressed a marked intolerance during his presidential campaign. Let's just say he didn't get much of the atheist vote. During an interview with Robert Sherman, a reporter for the American Atheist News Journal, Bush was asked if he felt atheists should be recognized as equal citizens and as patriots. He replied:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.positiveatheism.org/writ/ghwbush.htm",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "No, I don't know that atheists should be considered as citizens, nor should they be considered patriots. This is one nation under God.",
       "sourceTitle": "George H.W. Bush: \"Atheists Neither Citizens Nor Patriots.\"",
-      "text": "No, I don't know that atheists should be considered as citizens, nor should they be considered patriots. This is one nation under God."
+      "sourceUrl": "http://www.positiveatheism.org/writ/ghwbush.htm"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Three-term president?"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Bush had a long and powerful political career, serving as Vice-President under Ronald Reagan for eight years, then being elected president on the Republican ticket in 1988. As with all career politicians, there is quite a bit more than can be covered in this short article."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "His greatest success, arguably, was to oversee the end of the Cold War, the breakup of the Soviet Union and the fall of the Berlin Wall. His greatest failure was, arguably, not being re-elected–or choosing Dan Quayle as his Vice-President–but they might be related."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.time.com/time/specials/packages/article/0,28804,1859513_1859526_1859516,00.html",
+      "parentId": 15,
+      "type": "text",
+      "text": "Economically, Bush was a standard Republican. He ran on the platform of \"No New Taxes,\" then raised taxes.",
       "sourceTitle": "George H.W. Bush – Top 10 Unfortunate Political One-Liners",
-      "text": "Economically, Bush was a standard Republican. He ran on the platform of \"No New Taxes,\" then raised taxes."
+      "sourceUrl": "http://www.time.com/time/specials/packages/article/0,28804,1859513_1859526_1859516,00.html"
     },
     {
-      "type": "sentence",
-      "text": "Bill Clinton used this against him rather effectively in the 1992 elections."
+      "type": "text",
+      "text": "Bill Clinton used this against him rather effectively in the 1992 elections.",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB39/",
+      "parentId": 16,
+      "type": "text",
+      "text": "He began what would become a family tradition and led the U.S. into a war in Iraq. The difference with Bush Sr.'s Iraq war was that it was backed by a U.N. Security Council resolution",
       "sourceTitle": "Operation Desert Storm",
-      "text": "He began what would become a family tradition and led the U.S. into a war in Iraq. The difference with Bush Sr.'s Iraq war was that it was backed by a U.N. Security Council resolution"
+      "sourceUrl": "http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB39/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Gulf_War",
+      "type": "text",
+      "text": "and only lasted about 7-8 months.",
+      "parentId": 16,
       "sourceTitle": "Gulf War",
-      "text": "and only lasted about 7-8 months."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Gulf_War"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "There is quite a bit of tongue-wagging centered around the idea that Bush Sr. was behind his son's decision to invade Iraq again, that he was the puppet master of George W. Bush's presidency. I'm not saying it's true or untrue–just that people say it a lot. What do you guys think?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

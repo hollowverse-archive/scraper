@@ -34,120 +34,286 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Rob Kardashian was born and raised in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Kardashian is a Christian of the non-denominational variety, and seems to be relatively devout. He is known to tweet Bible verses from time to time as well as simple phrases like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.examiner.com/article/rob-kardashian-treats-his-sensitive-side-photo-slideshow",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Loving God.",
       "sourceTitle": "Rob Kardashian treats his sensitive side",
-      "text": "Loving God."
+      "sourceUrl": "http://www.examiner.com/article/rob-kardashian-treats-his-sensitive-side-photo-slideshow"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.upi.com/News_Photos/gallery/Celebrity-Religions/4764/5",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Religion is an interesting and diverse phenomenon in the Kardashian household. Rob's late father and his namesake, Robert Kardashian, Sr., was of Armenien descent and thus a member of the Armenian Orthodox Church.",
       "sourceTitle": "Celebrity Religions",
-      "text": "Religion is an interesting and diverse phenomenon in the Kardashian household. Rob's late father and his namesake, Robert Kardashian, Sr., was of Armenien descent and thus a member of the Armenian Orthodox Church."
+      "sourceUrl": "http://www.upi.com/News_Photos/gallery/Celebrity-Religions/4764/5"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.handbag.com/celebrity/i490394/celebrity-religion-celebrity-religionthe-kardashians-arenian-orthodox.html",
+      "type": "text",
+      "text": "Apparently, Rob and his many sisters were raised reading Bible stories almost every night.",
+      "parentId": 5,
       "sourceTitle": "Celebrity Religions – The Kardashians Armenian Orthodox",
-      "text": "Apparently, Rob and his many sisters were raised reading Bible stories almost every night."
+      "sourceUrl": "http://www.handbag.com/celebrity/i490394/celebrity-religion-celebrity-religionthe-kardashians-arenian-orthodox.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2012/09/a-kardashian-kult-is-more-realistic-than-you-think/",
+      "parentId": 6,
+      "type": "text",
+      "text": "Now, however, the Kardashian matron, Kris Jenner, has helped to start and now funds a non-denominational Christian church in Los Angeles called the Life Change Community Church.",
       "sourceTitle": "A Kardashian Kult is More Realistic Than You Think",
-      "text": "Now, however, the Kardashian matron, Kris Jenner, has helped to start and now funds a non-denominational Christian church in Los Angeles called the Life Change Community Church."
+      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2012/09/a-kardashian-kult-is-more-realistic-than-you-think/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1350685/Kim-Kardashian-reveals-Piers-Morgan-funds-mother-Kris-church.html",
+      "type": "text",
+      "text": "And we know his most famous sister, Kim, also pays a hefty bill to keep the church in operation,",
+      "parentId": 6,
       "sourceTitle": "Kim Kardashian reveals to Piers Morgan that she funds mother Kris' church",
-      "text": "And we know his most famous sister, Kim, also pays a hefty bill to keep the church in operation,"
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1350685/Kim-Kardashian-reveals-Piers-Morgan-funds-mother-Kris-church.html"
     },
     {
-      "type": "sentence",
-      "text": "indicating that it's a family affair."
+      "type": "text",
+      "text": "indicating that it's a family affair.",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "It's unclear how wrapped-up Rob is in all of this. But he certainly bears the mark of a good Christian boy. Commenting on his sister Kim's surprise pregnancy, he raised the issue of out-of-wedlock babies, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.people.com/people/article/0,,20660656,00.html",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I'm so proud of my sisters, but I'll be married before I have a baby.",
       "sourceTitle": "Kim Kardiashian Pregnancy – Rob Kardashian Speaks Out",
-      "text": "I'm so proud of my sisters, but I'll be married before I have a baby."
+      "sourceUrl": "http://www.people.com/people/article/0,,20660656,00.html"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Family Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Kardashian has only publicly commented one time about politics or politicians. It was in response to President Obama saying he wouldn't let his daughters watch the Kardashian's reality TV show. Rob responded during an interview on the Ellen DeGeneres show:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.eurweb.com/2011/10/rob-kardashian-%E2%80%98understands%E2%80%99-still-supports-obama/",
-      "sourceTitle": "Rob Kardashian 'Understands,' Still Supports Obama",
-      "text": "But you really learn a lot from our show. There are no negative things on our show. There is always a positive message at the end of the day. But, Go Obama!"
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "But you really learn a lot from our show. There are no negative things on our show. There is always a positive message at the end of the day. But, Go Obama!",
+      "sourceTitle": "Rob Kardashian 'Understands,' Still Supports Obama",
+      "sourceUrl": "http://www.eurweb.com/2011/10/rob-kardashian-%E2%80%98understands%E2%80%99-still-supports-obama/"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "This came at the end of 2011, as election season was just starting to heat up, so it's seems reasonable to assume that he was voicing his support of Obama's re-election ambitions."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "There is corroborration that Rob would lean Democrat. His sister, Kim, once said in an interview:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=rS2Fry0u4L0",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "My household is really split up. The parents are Republicans and the children are Democrats. So, it's like a political warfare in our household when we talk about politics.",
       "sourceTitle": "Kim Kardashian says there's 'political warfare' in her house, parents are Republicans",
-      "text": "My household is really split up. The parents are Republicans and the children are Democrats. So, it's like a political warfare in our household when we talk about politics."
+      "sourceUrl": "http://www.youtube.com/watch?v=rS2Fry0u4L0"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "But that's about the extent of Kardashian's spiritual/political depth. Perhaps if he remains relevant in the entertainment industry for a few more minutes, we'll get more out of him."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Rob_Kardashian",
     "title": "Rob Kardashian",
+    "image": {
+      "name": "RobK2017.jpg",
+      "info": {
+        "canonicaltitle": "File:RobK2017.jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/RobK2017.jpg/451px-RobK2017.jpg",
+        "thumbwidth": 451,
+        "thumbheight": 300,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/RobK2017.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:RobK2017.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64955699",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-12-21 02:11:03",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "RobK2017",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "All media needing categories as of 2017|Deletion requests December 2017|Media needing categories as of 21 December 2017",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Robert K",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2017-08-01",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "The Kardashian family",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Artist": {
+            "value": "The kardashians",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "DeletionReason": {
+            "value": "[[Commons:Deletion requests/Files uploaded by Family and Friends]]: Found elsewhere on the web; definitely not own work",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    },
     "isDisambiguation": false
   }
 }

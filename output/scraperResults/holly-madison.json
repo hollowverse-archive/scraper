@@ -34,108 +34,174 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Holly Cullen, best known as Holly Madison, was born in Astoria, Oregon. She grew up in Craig, Alaska and St. Helens, Oregon."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.myspace.com/hollyewok",
+      "parentId": 2,
+      "type": "text",
+      "text": "Madison appears to be ambiguously Christian. It seems probable that her Myspace page was created by her, and it lists her religion as Catholic,",
       "sourceTitle": "Holly Madison (Holly Madison) on Myspace.",
-      "text": "Madison appears to be ambiguously Christian. It seems probable that her Myspace page was created by her, and it lists her religion as Catholic,"
+      "sourceUrl": "http://www.myspace.com/hollyewok"
     },
     {
-      "type": "sentence",
-      "text": "but I couldn't find any other sign that Catholic was the denomination of her choosing."
+      "type": "text",
+      "text": "but I couldn't find any other sign that Catholic was the denomination of her choosing.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "She mentioned in one interview that she regularly attends church with her friend Angel, although she didn't specify which one. And when the reporter asked her about the denomination in which she was raised, she responded,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.pr.com/article/1153",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I wasn't raised religious. My dad would take us to different churches, but we were raised in Alaska and it was really rural. There wasn't really one church we connected with up there.",
       "sourceTitle": "Holly Madison 2.0: Las Vegas or Bust.",
-      "text": "I wasn't raised religious. My dad would take us to different churches, but we were raised in Alaska and it was really rural. There wasn't really one church we connected with up there."
+      "sourceUrl": "http://www.pr.com/article/1153"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.novafm.com.au/article/holly-madison-wants-enter-politics",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Aside from that little snippet, there's not a whole lot else on Madison's religious beliefs. She did mention once that she'd like to teach Sunday School,",
       "sourceTitle": "Holly Madison wants to enter politics.",
-      "text": "Aside from that little snippet, there's not a whole lot else on Madison's religious beliefs. She did mention once that she'd like to teach Sunday School,"
+      "sourceUrl": "http://www.novafm.com.au/article/holly-madison-wants-enter-politics"
     },
     {
-      "type": "sentence",
-      "text": "but she doesn't talk about God all that much and she doesn't mention religion on her . So we'll have to leave it at Christian, fairly devout, and maybe Catholic. Have anything else for us? Let us know in the comments."
+      "type": "text",
+      "text": "but she doesn't talk about God all that much and she doesn't mention religion on her",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "link",
+      "text": "Twitter feed",
+      "sourceUrl": "https://twitter.com/hollymadison"
+    },
+    {
+      "type": "text",
+      "text": ". So we'll have to leave it at Christian, fairly devout, and maybe Catholic. Have anything else for us? Let us know in the comments.",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Playmate Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://instagram.com/p/RwDBAvFTPD/",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Holly Madison's involvement in politics is a little hit or miss. There was nothing on her Twitter feed about the presidential election in 2012–just unbridled excitement about being in Disney World and Instagram pictures of her drinking a gigantic non-alcoholic beverage out of a pineapple.",
       "sourceTitle": "Photo by hollymadison.",
-      "text": "Holly Madison's involvement in politics is a little hit or miss. There was nothing on her Twitter feed about the presidential election in 2012–just unbridled excitement about being in Disney World and Instagram pictures of her drinking a gigantic non-alcoholic beverage out of a pineapple."
+      "sourceUrl": "http://instagram.com/p/RwDBAvFTPD/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Maybe she just didn't want to alienate fans, because she's clearly interested in politics. She mentioned in one article that she'd like to get involved in city politics in Las Vegas. What issue would she focus on?"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.novafm.com.au/article/holly-madison-wants-enter-politics",
-      "sourceTitle": "Holly Madison wants to enter politics.",
-      "text": "My favorite idea is to fix the way they do construction because sometimes they leave a construction site up too long when they're doing road work."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "My favorite idea is to fix the way they do construction because sometimes they leave a construction site up too long when they're doing road work.",
+      "sourceTitle": "Holly Madison wants to enter politics.",
+      "sourceUrl": "http://www.novafm.com.au/article/holly-madison-wants-enter-politics"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Fair enough; that can be annoying. Despite never endorsing Obama, it appears that she has liberal tendencies. About gay marriage laws, she tweeted,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://tweets.hollymadison.com/topics/gay-marriage",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Right?Vegas used to be so liberal re: marraige,why are we lagging? \"@RichardAbowitz I wish Las Vegas would be the Las Vegas of gay marriage\"",
       "sourceTitle": "Gay Marriage Tweets, Holly Madison Twitter.",
-      "text": "Right?Vegas used to be so liberal re: marraige,why are we lagging? \"@RichardAbowitz I wish Las Vegas would be the Las Vegas of gay marriage\""
+      "sourceUrl": "http://tweets.hollymadison.com/topics/gay-marriage"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2013/02/28/holly-madison-placenta-eat_n_2781461.html",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "But then again, she could be socially liberal and fiscally conservative. She could be anti-abortion and pro-gay marriage. It's all very tough to say since she doesn't enter into the political debate all that much. You can decide for yourself whether or not her plans to encapsulate and ingest her placenta after her daughter's birth",
       "sourceTitle": "Holly Madison's Placenta To Be Turned Into Edible Pills After Showgirl Gives Birth.",
-      "text": "But then again, she could be socially liberal and fiscally conservative. She could be anti-abortion and pro-gay marriage. It's all very tough to say since she doesn't enter into the political debate all that much. You can decide for yourself whether or not her plans to encapsulate and ingest her placenta after her daughter's birth"
+      "sourceUrl": "http://www.huffingtonpost.com/2013/02/28/holly-madison-placenta-eat_n_2781461.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.evilbeetgossip.com/2013/03/10/holly-madison-defends-daughters-name/",
+      "type": "text",
+      "text": "–whose name incidentally is Rainbow Aurora",
+      "parentId": 15,
       "sourceTitle": "Holly Madison Defends Daughter's Name.",
-      "text": "–whose name incidentally is Rainbow Aurora"
+      "sourceUrl": "http://www.evilbeetgossip.com/2013/03/10/holly-madison-defends-daughters-name/"
     },
     {
-      "type": "sentence",
-      "text": "–makes her sound more liberal or not."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "–makes her sound more liberal or not.",
+      "parentId": 15
     }
   ],
   "wikipediaData": {

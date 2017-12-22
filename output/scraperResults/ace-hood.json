@@ -32,106 +32,189 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ace Hood, whose real name is Antoine McColister, was born in St. Lucie, Florida and grew up in Deerfield Beach, Florida."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.sohh.com/2012/03/ace_hood_hustles_hard_for_higher_power_i.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Ace is a devout Christian, who credits his mother for his faith.",
       "sourceTitle": "Ace Hood Hustles Hard for Higher Power, 'It's Important For Me To Give That Time To G-O-D",
-      "text": "Ace is a devout Christian, who credits his mother for his faith."
+      "sourceUrl": "http://www.sohh.com/2012/03/ace_hood_hustles_hard_for_higher_power_i.html"
     },
     {
-      "type": "sentence",
-      "text": "He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.sohh.com/2012/03/ace_hood_hustles_hard_for_higher_power_i.html",
-      "sourceTitle": "Ace Hood Hustles Hard for Higher Power, 'It's Important For Me To Give That Time To G-O-D",
-      "text": "I might be on tour and she'll [my mother] hit me saying, 'If you're not here, then you need to be in church.'"
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I might be on tour and she'll [my mother] hit me saying, 'If you're not here, then you need to be in church.'",
+      "sourceTitle": "Ace Hood Hustles Hard for Higher Power, 'It's Important For Me To Give That Time To G-O-D",
+      "sourceUrl": "http://www.sohh.com/2012/03/ace_hood_hustles_hard_for_higher_power_i.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Ace reconciles his faith and his \"thug\" lifestyle by explaining that his faith in God and church attendance balances things like going to strip clubs and drinking:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.sohh.com/2012/03/ace_hood_hustles_hard_for_higher_power_i.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I'm going to make time for family, for women, partying and so it's important for me to give that time to the G-o-d. It's why I wake up to a beautiful penthouse and cars and all this nice stuff. So I have to give it back–praying and going through different things in my life, I've seen a change. It's the reason why I believe in who I believe in.",
       "sourceTitle": "Ace Hood Hustles Hard for Higher Power, 'It's Important For Me To Give That Time To G-O-D",
-      "text": "I'm going to make time for family, for women, partying and so it's important for me to give that time to the G-o-d. It's why I wake up to a beautiful penthouse and cars and all this nice stuff. So I have to give it back–praying and going through different things in my life, I've seen a change. It's the reason why I believe in who I believe in."
+      "sourceUrl": "http://www.sohh.com/2012/03/ace_hood_hustles_hard_for_higher_power_i.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/Acehood",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "And occasionally, Ace tweets about going to church",
       "sourceTitle": "acehood (Acehood) on Twitter",
-      "text": "And occasionally, Ace tweets about going to church"
+      "sourceUrl": "https://twitter.com/Acehood"
     },
     {
-      "type": "sentence",
-      "text": "so we can be assured that Ace keeps up with his religious convictions."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "so we can be assured that Ace keeps up with his religious convictions.",
+      "parentId": 8
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Bastard politicians–except Obama"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Certain lyrics within Ace's repertoire suggest that he's not too fond of politics and politicians. He raps:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Fuck the world – the government too/I'm keepin' it real, them killers are still in political suits",
+      "sourceTitle": "Ace Hood – Fuck Da World Lyrics",
+      "sourceUrl": "http://rapgenius.com/Ace-hood-fuck-da-world-lyrics#note-1411878"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "The description for that lyric on the rap interpretations website,"
+    },
+    {
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "Rap Genius"
+    },
+    {
+      "type": "text",
+      "text": ", reads:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://rapgenius.com/Ace-hood-fuck-da-world-lyrics#note-1411878",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Politicians are the real crooks. The real killers are people in Congress and people that work for our government. Ace proclaims our whole Government is corrupt.",
       "sourceTitle": "Ace Hood – Fuck Da World Lyrics",
-      "text": "Fuck the world – the government too/I'm keepin' it real, them killers are still in political suits"
+      "sourceUrl": "http://rapgenius.com/Ace-hood-fuck-da-world-lyrics#note-1411878"
     },
     {
-      "type": "sentence",
-      "text": "The description for that lyric on the rap interpretations website, , reads:"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://rapgenius.com/Ace-hood-fuck-da-world-lyrics#note-1411878",
-      "sourceTitle": "Ace Hood – Fuck Da World Lyrics",
-      "text": "Politicians are the real crooks. The real killers are people in Congress and people that work for our government. Ace proclaims our whole Government is corrupt."
-    },
-    {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Seems a reasonable interpretation to me. But his love for Obama indicates that either Obama is the exception to Ace's views or Ace doesn't quite believe what he says. He said during an interview before Obama won reelection in 2012:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://blogs.miaminewtimes.com/crossfade/2012/05/ace_hood_interview_barack_obama_strippers_facebook_stock.php",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Barack Obama is the greatest. He's the man. He balls hard; he's the man.",
       "sourceTitle": "Ace Hood Talks Barack Obama, Strip Clubs and Facebook Stock",
-      "text": "Barack Obama is the greatest. He's the man. He balls hard; he's the man."
+      "sourceUrl": "http://blogs.miaminewtimes.com/crossfade/2012/05/ace_hood_interview_barack_obama_strippers_facebook_stock.php"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "I suppose we'll call him a skeptical Democrat. But other than that, Ace seems to keep away from any specific political issues. Keep us posted in the comments, won't you?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

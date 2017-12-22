@@ -33,111 +33,200 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Angus T. Jones was born in Austin, Texas and grew up there and in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "Most who are familiar with Jones probably know about his faith. It made headlines and nearly cost him his rather high-paying job as star of the popular sitcom, ."
+      "parentId": 2,
+      "type": "text",
+      "text": "Most who are familiar with Jones probably know about his faith. It made headlines and nearly cost him his rather high-paying job as star of the popular sitcom,"
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "Two and a Half Men"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianpost.com/news/angus-t-jones-of-two-and-a-half-men-finds-christ-slams-show-video-85603/",
+      "type": "text",
+      "text": ".",
+      "parentId": 2
+    },
+    {
+      "type": "paragraph",
+      "id": 3
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "The show is certainly a perfect example of base humor, full of racy jokes and sexual innuendo. At some point, Jones had a crisis of faith and felt overwhelmingly guilty about his role in spreading what he called \"filth.\"",
       "sourceTitle": "Angus T. Jones of 'Two and a Half Men' Finds Christ, Slams Show",
-      "text": "The show is certainly a perfect example of base humor, full of racy jokes and sexual innuendo. At some point, Jones had a crisis of faith and felt overwhelmingly guilty about his role in spreading what he called \"filth.\""
+      "sourceUrl": "http://www.christianpost.com/news/angus-t-jones-of-two-and-a-half-men-finds-christ-slams-show-video-85603/"
     },
     {
-      "type": "sentence",
-      "text": "He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.christianitytoday.com/ct/2012/november-web-only/i-am-paid-hypocrite-two-and-half-men-star-talks-to-ct-about.html",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I just had this big wake-up call… I felt God was speaking to me. There were so many other things I could have steered off into that could have made me just another statistic.",
       "sourceTitle": "How 'Two and a Half Men' Star Became a 'Paid Hypocrite.'",
-      "text": "I just had this big wake-up call… I felt God was speaking to me. There were so many other things I could have steered off into that could have made me just another statistic."
+      "sourceUrl": "http://www.christianitytoday.com/ct/2012/november-web-only/i-am-paid-hypocrite-two-and-half-men-star-talks-to-ct-about.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianpost.com/news/angus-t-jones-of-two-and-a-half-men-finds-christ-slams-show-video-85603/",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "This set off a spiritual quest of sorts for Jones, who eventually settled on becoming a Seventh Day Adventist.",
       "sourceTitle": "Angus T. Jones of 'Two and a Half Men' Finds Christ, Slams Show",
-      "text": "This set off a spiritual quest of sorts for Jones, who eventually settled on becoming a Seventh Day Adventist."
+      "sourceUrl": "http://www.christianpost.com/news/angus-t-jones-of-two-and-a-half-men-finds-christ-slams-show-video-85603/"
     },
     {
-      "type": "sentence",
-      "text": "Shortly after, he made a well-produced  with a controversial Seventh Day Adventist pastor in which he actually asked people to watch his show:"
+      "type": "text",
+      "text": "Shortly after, he made a well-produced",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.youtube.com/watch?v=aYKaYZzRDg8"
+    },
+    {
+      "type": "text",
+      "text": "with a controversial Seventh Day Adventist pastor in which he actually asked people to",
+      "parentId": 6
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "not"
+    },
+    {
+      "type": "text",
+      "text": "watch his show:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.christianpost.com/news/angus-t-jones-of-two-and-a-half-men-finds-christ-slams-show-video-85603/",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "If you watch 'Two and a Half Men,' please stop watching 'Two and a Half Men.' I'm on 'Two and a Half Men,' and I don't want to be on it. Please stop watching it, please stop filling your head with filth.",
       "sourceTitle": "Angus T. Jones of 'Two and a Half Men' Finds Christ, Slams Show",
-      "text": "If you watch 'Two and a Half Men,' please stop watching 'Two and a Half Men.' I'm on 'Two and a Half Men,' and I don't want to be on it. Please stop watching it, please stop filling your head with filth."
+      "sourceUrl": "http://www.christianpost.com/news/angus-t-jones-of-two-and-a-half-men-finds-christ-slams-show-video-85603/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/11/29/angus-t-jones-two-and-a-half-men-likely-leaving_n_2210801.html",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Industry insiders reported that Young was pulled from the show,",
       "sourceTitle": "Angus T. Jones Of 'Two And A Half Men' Will 'Likely' Be Leaving After Current Season",
-      "text": "Industry insiders reported that Young was pulled from the show,"
+      "sourceUrl": "http://www.huffingtonpost.com/2012/11/29/angus-t-jones-two-and-a-half-men-likely-leaving_n_2210801.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nydailynews.com/entertainment/tv-movies/angus-t-jones-welcomed-back-men-article-1.1238841",
+      "type": "text",
+      "text": "but lo and behold, it looks like he'll be back for the 2013 season after all.",
+      "parentId": 9,
       "sourceTitle": "Angus T. Jones will be welcomed back to 'Two and a Half Men' despite trashing the show, CBS Entertainment President Nina Tassler says",
-      "text": "but lo and behold, it looks like he'll be back for the 2013 season after all."
+      "sourceUrl": "http://www.nydailynews.com/entertainment/tv-movies/angus-t-jones-welcomed-back-men-article-1.1238841"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianpost.com/news/stephen-baldwin-believes-angus-t-jones-in-true-walk-with-christianity-85881/",
+      "parentId": 10,
+      "type": "text",
+      "text": "Perhaps the allure of money was just too much for this devout young man. (I might even suspend my ideals for $350,000 per episode.",
       "sourceTitle": "Stephen Baldwin Believes Angus T. Jones in 'True Walk With Christianity'",
-      "text": "Perhaps the allure of money was just too much for this devout young man. (I might even suspend my ideals for $350,000 per episode."
+      "sourceUrl": "http://www.christianpost.com/news/stephen-baldwin-believes-angus-t-jones-in-true-walk-with-christianity-85881/"
     },
     {
-      "type": "sentence",
-      "text": ")"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": ")",
+      "parentId": 10
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Careful who you run with"
     },
     {
-      "type": "sentence",
-      "text": "Jones himself doesn't seem too political. No mention of Obama or gay marriage or any of that hot-button stuff. Even his  conveniently skips over most of election season 2012."
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "break"
+      "parentId": 12,
+      "type": "text",
+      "text": "Jones himself doesn't seem too political. No mention of Obama or gay marriage or any of that hot-button stuff. Even his"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2238968/Angus-T-Jones-Jay-Z-devil-worshiping-Freemason-Obama-like-Hitler.html",
+      "parentId": 12,
+      "type": "link",
+      "text": "Twitter feed",
+      "sourceUrl": "https://twitter.com/AngusTJones"
+    },
+    {
+      "type": "text",
+      "text": "conveniently skips over most of election season 2012.",
+      "parentId": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "But it's the people Jones associates with who seem to be most interesting politically. Remember the controversial pastor mentioned above? His name is Christopher Hudson and he's got a few things to say, among them: Obama is tantamount to Hitler and Jay-Z and the Devil are good buddies.",
       "sourceTitle": "'Jay-Z is a devil-worshiping Freemason and Obama is like Hitler': Bizarre beliefs of spiritual guide to Two and A Half Men star who branded show 'FILTH' . . . as it's revealed he WON'T be sacked",
-      "text": "But it's the people Jones associates with who seem to be most interesting politically. Remember the controversial pastor mentioned above? His name is Christopher Hudson and he's got a few things to say, among them: Obama is tantamount to Hitler and Jay-Z and the Devil are good buddies."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2238968/Angus-T-Jones-Jay-Z-devil-worshiping-Freemason-Obama-like-Hitler.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "Well, it's not Jones himself saying these things, so we'll leave it at that. Perhaps someday, Christopher Hudson will have his own little corner in the Hollowverse. But let it be a lesson: be careful who you make ranting, religious YouTube videos with."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

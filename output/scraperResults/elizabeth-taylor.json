@@ -34,131 +34,190 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Elizabeth Taylor was born outside of London, England and grew up largely in Los Angeles, California. She died of heart failure in Los Angeles in 2011."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewwatch.com/jew-entertainment-elizabeth-taylor.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Taylor was born into a Christian Scientist family. Her godfather, English statesman Victor Cazalet, was a Christian Science preacher",
       "sourceTitle": "Elizabeth Taylor – Jewish Entertainment",
-      "text": "Taylor was born into a Christian Scientist family. Her godfather, English statesman Victor Cazalet, was a Christian Science preacher"
+      "sourceUrl": "http://www.jewwatch.com/jew-entertainment-elizabeth-taylor.html"
     },
     {
-      "type": "sentence",
-      "text": "but it doesn't seem to be something she spoke about very much."
+      "type": "text",
+      "text": "but it doesn't seem to be something she spoke about very much.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pt/Elizabeth_Taylor.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Her first husband (of seven), Nicky Hilton, was a devout Catholic and tried to convert her to his faith–but it didn't work out–the marriage or the conversion.",
       "sourceTitle": "The religion of Elizabeth Taylor, actress",
-      "text": "Her first husband (of seven), Nicky Hilton, was a devout Catholic and tried to convert her to his faith–but it didn't work out–the marriage or the conversion."
+      "sourceUrl": "http://www.adherents.com/people/pt/Elizabeth_Taylor.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "The big news regarding Taylor's religion came when she announced she had converted to Judaism. The announcement came after the death of her third husband, Michael Todd (a Jew), and before her marriage to her fourth husband, Eddie Fisher (also a Jew). However, Taylor insisted that it had nothing to do with the religion of her respective husbands. She said of her conversion:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "It had absolutely nothing to do with my past marriage to Mike [Todd] or my upcoming marriage to Eddie Fisher, both of whom were Jewish. It was something I had wanted to do for a long time.",
+      "sourceTitle": "The religion of Elizabeth Taylor, actress",
+      "sourceUrl": "http://www.adherents.com/people/pt/Elizabeth_Taylor.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Taylor remained a Jew for the rest of her life, though she wasn't the type to go to synagogue regularly.",
+      "sourceTitle": "The religion of Elizabeth Taylor, actress",
+      "sourceUrl": "http://www.adherents.com/people/pt/Elizabeth_Taylor.html"
+    },
+    {
+      "type": "text",
+      "text": "She did speak of her adherence to regular prayer:",
+      "parentId": 7
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pt/Elizabeth_Taylor.html",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I pray to God all the time. We have a conversational relationship and those conversations calm my fears.",
       "sourceTitle": "The religion of Elizabeth Taylor, actress",
-      "text": "It had absolutely nothing to do with my past marriage to Mike [Todd] or my upcoming marriage to Eddie Fisher, both of whom were Jewish. It was something I had wanted to do for a long time."
+      "sourceUrl": "http://www.adherents.com/people/pt/Elizabeth_Taylor.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pt/Elizabeth_Taylor.html",
-      "sourceTitle": "The religion of Elizabeth Taylor, actress",
-      "text": "Taylor remained a Jew for the rest of her life, though she wasn't the type to go to synagogue regularly."
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "text": "She did speak of her adherence to regular prayer:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pt/Elizabeth_Taylor.html",
-      "sourceTitle": "The religion of Elizabeth Taylor, actress",
-      "text": "I pray to God all the time. We have a conversational relationship and those conversations calm my fears."
-    },
-    {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtonpost.com/opinions/elizabeth-taylor-and-israel-a-lasting-love/2011/03/24/AFbnZZYB_story.html",
+      "parentId": 10,
+      "type": "text",
+      "text": "And she supported numerous Jewish and pro-Israel charities throughout her life from buying large amounts of Israeli bonds to lobbying for countries like Russia to allow their Jewish populations to emigrate to Israel to raising money for the Jewish National Fund.",
       "sourceTitle": "Elizabeth Taylor and Israel, a lasting love",
-      "text": "And she supported numerous Jewish and pro-Israel charities throughout her life from buying large amounts of Israeli bonds to lobbying for countries like Russia to allow their Jewish populations to emigrate to Israel to raising money for the Jewish National Fund."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.washingtonpost.com/opinions/elizabeth-taylor-and-israel-a-lasting-love/2011/03/24/AFbnZZYB_story.html"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Wedding bells and votes"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://content.usatoday.com/communities/onpolitics/post/2011/03/elizabeth-taylor-john-warner-/1#.ULkvMYUZ-Bg",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Taylor was able to separate her heart from her politics. Her sixth husband, John Warner, was a Republican Congressman from Virginia. And Warner admitted that his wife was instrumental in his ability to drum up votes.",
       "sourceTitle": "Elizabeth Taylor played political role as senator's wife",
-      "text": "Taylor was able to separate her heart from her politics. Her sixth husband, John Warner, was a Republican Congressman from Virginia. And Warner admitted that his wife was instrumental in his ability to drum up votes."
+      "sourceUrl": "http://content.usatoday.com/communities/onpolitics/post/2011/03/elizabeth-taylor-john-warner-/1#.ULkvMYUZ-Bg"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://content.usatoday.com/communities/onpolitics/post/2011/03/elizabeth-taylor-john-warner-/1#.ULkvMYUZ-Bg",
+      "type": "text",
+      "text": "But Warner had a reputation as a centrist and often went against the tides of GOP sentiment.",
+      "parentId": 12,
       "sourceTitle": "Elizabeth Taylor played political role as senator's wife",
-      "text": "But Warner had a reputation as a centrist and often went against the tides of GOP sentiment."
+      "sourceUrl": "http://content.usatoday.com/communities/onpolitics/post/2011/03/elizabeth-taylor-john-warner-/1#.ULkvMYUZ-Bg"
     },
     {
-      "type": "sentence",
-      "text": "Perhaps that's how he and Taylor managed to stay married for six years."
+      "type": "text",
+      "text": "Perhaps that's how he and Taylor managed to stay married for six years.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/Elizabeth_Taylor.php",
+      "parentId": 13,
+      "type": "text",
+      "text": "Taylor was a Democrat–at least during her later years. She made very few political contributions during her lifetime and it didn't start until the late 90s when she gave $1,000 to a Democratic political action group and ended when she donated to Hillary Clinton's presidential candidacy in 2008.",
       "sourceTitle": "Elizabeth Taylor's Federal Campaign Contribution Report",
-      "text": "Taylor was a Democrat–at least during her later years. She made very few political contributions during her lifetime and it didn't start until the late 90s when she gave $1,000 to a Democratic political action group and ended when she donated to Hillary Clinton's presidential candidacy in 2008."
+      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/Elizabeth_Taylor.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.popeater.com/2011/03/23/elizabeth-taylor-humanitarian-aids-activist/",
+      "parentId": 14,
+      "type": "text",
+      "text": "Perhaps Taylor's most celebrated contribution to society was her advocacy for AIDS awareness and research–not really a controversial subject now, but it was in the mid-80s when Taylor took up the cause. Since then, she's raised over $50 million for AIDS research",
       "sourceTitle": "Elizabeth Taylor: A Humanitarian and AIDS Activist Like No Other",
-      "text": "Perhaps Taylor's most celebrated contribution to society was her advocacy for AIDS awareness and research–not really a controversial subject now, but it was in the mid-80s when Taylor took up the cause. Since then, she's raised over $50 million for AIDS research"
+      "sourceUrl": "http://www.popeater.com/2011/03/23/elizabeth-taylor-humanitarian-aids-activist/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.elizabethtayloraidsfoundation.org/",
+      "type": "text",
+      "text": "and launched the Elizabeth Taylor AIDS Foundation.",
+      "parentId": 14,
       "sourceTitle": "In Memoriam",
-      "text": "and launched the Elizabeth Taylor AIDS Foundation."
+      "sourceUrl": "http://www.elizabethtayloraidsfoundation.org/"
     },
     {
-      "type": "sentence",
-      "text": "She said, exhibiting a wonderful display of unselfishness:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She said, exhibiting a wonderful display of unselfishness:",
+      "parentId": 14
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.popeater.com/2011/03/23/elizabeth-taylor-humanitarian-aids-activist/",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Celebrity is not something that comes without responsibility. I kept seeing all these news reports on this new disease and kept asking myself why no one was doing anything. And then I realized that I was just like them. I wasn't doing anything to help.",
       "sourceTitle": "Elizabeth Taylor: A Humanitarian and AIDS Activist Like No Other",
-      "text": "Celebrity is not something that comes without responsibility. I kept seeing all these news reports on this new disease and kept asking myself why no one was doing anything. And then I realized that I was just like them. I wasn't doing anything to help."
+      "sourceUrl": "http://www.popeater.com/2011/03/23/elizabeth-taylor-humanitarian-aids-activist/"
     }
   ],
   "wikipediaData": {

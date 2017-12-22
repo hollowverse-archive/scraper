@@ -35,108 +35,176 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Nikola Tesla was born in Smiljan in what was then a part of the Austrian Empire and is now in Croatia. He died of coronary thrombosis in New York City in 1943."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pbs.org/tesla/ll/ll_early.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Tesla was raised a Serbian Orthodox. His family was likely quite devout as his father was a priest in the church.",
       "sourceTitle": "Tesla – Master of Lightning: Tesla's Early Years",
-      "text": "Tesla was raised a Serbian Orthodox. His family was likely quite devout as his father was a priest in the church."
+      "sourceUrl": "http://www.pbs.org/tesla/ll/ll_early.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "As an adult, Tesla developed a nuanced view of religion and mankind's place in the universe. You could say his personal philosophy was closer to Buddhist with its orientation toward unity and oneness. He often said things like:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/author/quotes/278.Nikola_Tesla",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Can anyone doubt to-day that all the millions of individuals and all the innumerable types and characters constitute an entity, a unit? Though free to think and act, we are held together, like the stars in the firmament, with ties inseparable.",
       "sourceTitle": "Nikola Tesla Quotes (Author of My Inventions",
-      "text": "Can anyone doubt to-day that all the millions of individuals and all the innumerable types and characters constitute an entity, a unit? Though free to think and act, we are held together, like the stars in the firmament, with ties inseparable."
+      "sourceUrl": "http://www.goodreads.com/author/quotes/278.Nikola_Tesla"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Nikola_Tesla",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "At other times, Tesla sounded highly skeptical of religion and the supernatural (not surprising given that he was a rabid defender of the scientific method). And many consider him an atheist,",
       "sourceTitle": "Nikola Tesla",
-      "text": "At other times, Tesla sounded highly skeptical of religion and the supernatural (not surprising given that he was a rabid defender of the scientific method). And many consider him an atheist,"
+      "sourceUrl": "http://www.celebatheists.com/wiki/Nikola_Tesla"
     },
     {
-      "type": "sentence",
-      "text": "most likely because of quotes like:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "most likely because of quotes like:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Nikola_Tesla",
-      "sourceTitle": "Nikola Tesla",
-      "text": "It might as well be said that God has properties. He has not, but only attributes and these are of our own making."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "It might as well be said that God has properties. He has not, but only attributes and these are of our own making.",
+      "sourceTitle": "Nikola Tesla",
+      "sourceUrl": "http://www.celebatheists.com/wiki/Nikola_Tesla"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Ah yes. The old 'Man made God' ploy. Very nice, but it is also possible that Tesla never fully bucked his Christian indoctrination and at the very least, he acknowledged it, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 10
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://philosophiesofmen.blogspot.com/2012/08/nikola-tesla-on-religion.html",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "The gift of mental power comes from God, Divine Being, and if we concentrate our minds on that truth, we become in tune with this great power. My Mother had taught me to seek all truth in the Bible; therefore I devoted the next few months to the study of this work.",
       "sourceTitle": "Nikola Tesla on Religion",
-      "text": "The gift of mental power comes from God, Divine Being, and if we concentrate our minds on that truth, we become in tune with this great power. My Mother had taught me to seek all truth in the Bible; therefore I devoted the next few months to the study of this work."
+      "sourceUrl": "http://philosophiesofmen.blogspot.com/2012/08/nikola-tesla-on-religion.html"
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "type": "heading",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "The politics of electricity, unity and peace"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.funtrivia.com/en/History/Austrian-4027.html",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Tesla's political context was one of worldwide violence and destruction. He lived to see his home country broken into pieces",
       "sourceTitle": "Austrian",
-      "text": "Tesla's political context was one of worldwide violence and destruction. He lived to see his home country broken into pieces"
+      "sourceUrl": "http://www.funtrivia.com/en/History/Austrian-4027.html"
     },
     {
-      "type": "sentence",
-      "text": "after World War I and died as World War II was in full swing."
+      "type": "text",
+      "text": "after World War I and died as World War II was in full swing.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "In this context, it's easy to understand his reaction–his fixation on peace and human unity. Rather than being a supporter of one or the other political party, Tesla took a meta-political approach and hoped for changes in human consciousness. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/author/quotes/278.Nikola_Tesla",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "What we now want is closer contact and better understanding between individuals and communities all over the earth, and the elimination of egoism and pride which is always prone to plunge the world into primeval barbarism and strife… Peace can only come as a natural consequence of universal enlightenment.",
       "sourceTitle": "Nikola Tesla Quotes (Author of My Inventions",
-      "text": "What we now want is closer contact and better understanding between individuals and communities all over the earth, and the elimination of egoism and pride which is always prone to plunge the world into primeval barbarism and strife… Peace can only come as a natural consequence of universal enlightenment."
+      "sourceUrl": "http://www.goodreads.com/author/quotes/278.Nikola_Tesla"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikiquote.org/wiki/Nikola_Tesla",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Tesla's politics are timeless, idealistic and forward-looking. But, as the man who described the Internet to a tee in the 1908,",
       "sourceTitle": "Nikola Tesla",
-      "text": "Tesla's politics are timeless, idealistic and forward-looking. But, as the man who described the Internet to a tee in the 1908,"
+      "sourceUrl": "http://en.wikiquote.org/wiki/Nikola_Tesla"
     },
     {
-      "type": "sentence",
-      "text": "maybe we have reason to hope his idealistic civilization could actually happen."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "maybe we have reason to hope his idealistic civilization could actually happen.",
+      "parentId": 18
     }
   ],
   "wikipediaData": {

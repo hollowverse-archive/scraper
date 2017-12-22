@@ -32,105 +32,179 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Young Jeezy, whose real name is Jay Wayne Jenkins, was born in Columbia, South Carolina and grew up in Atlanta, Georgia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.xxlmag.com/magazine/2005/10/im-a-king/",
+      "parentId": 2,
+      "type": "text",
+      "text": "He doesn't talk about religion to the press and his childhood years were spent bouncing around between relatives before he moved out and onto the streets at 12-years-old.",
       "sourceTitle": "I'm a King.",
-      "text": "He doesn't talk about religion to the press and his childhood years were spent bouncing around between relatives before he moved out and onto the streets at 12-years-old."
+      "sourceUrl": "http://www.xxlmag.com/magazine/2005/10/im-a-king/"
     },
     {
-      "type": "sentence",
-      "text": "So, needless to say, not a lot of religion growing up."
+      "type": "text",
+      "text": "So, needless to say, not a lot of religion growing up.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/The_Inspiration",
+      "parentId": 3,
+      "type": "text",
+      "text": "The only thing we have to go on with Jeezy are his songs, and I think it's safe to say he believes in God. The cover of his album,"
+    },
+    {
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "The Inspiration"
+    },
+    {
+      "type": "text",
+      "text": ", features a picture of him with his hands together as if in prayer.",
+      "parentId": 3,
       "sourceTitle": "The Inspiration.",
-      "text": "The only thing we have to go on with Jeezy are his songs, and I think it's safe to say he believes in God. The cover of his album, , features a picture of him with his hands together as if in prayer."
+      "sourceUrl": "http://en.wikipedia.org/wiki/The_Inspiration"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Many of his songs mention God, even if only in passing. Some songs get a little heavier. His song, \"Bury Me a G\" is about the prospect of him getting shot on the streets. There are Christian references throughout, but the song ends with this:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.lyricstime.com/young-jeezy-bury-me-a-g-lyrics.html",
-      "sourceTitle": "Bury Me A G.",
-      "text": "So I gotta thank God for waking me up this morning/ And giving me this air to breath/ Jesus lord forgive me. . ."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "So I gotta thank God for waking me up this morning/ And giving me this air to breath/ Jesus lord forgive me. . .",
+      "sourceTitle": "Bury Me A G.",
+      "sourceUrl": "http://www.lyricstime.com/young-jeezy-bury-me-a-g-lyrics.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "And in the song \"Soul Survivor,\" he asks God for forgiveness for selling drugs on the street."
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.azlyrics.com/lyrics/youngjeezy/soulsurvivor.html",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Forgive me Lord–I know I ain't livin' right/ Gotta feed the block, niggaz starvin', they got appetites.",
       "sourceTitle": "Soul Survivor.",
-      "text": "Forgive me Lord–I know I ain't livin' right/ Gotta feed the block, niggaz starvin', they got appetites."
+      "sourceUrl": "http://www.azlyrics.com/lyrics/youngjeezy/soulsurvivor.html"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "My President Is Black"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Jeezy is a big Obama fan. He's obviously enthralled with the idea of a black president, and says so in his song, \"My President.\" It's an unusually uplifting song for Jeezy, celebrating black history and Obama's historical presidency."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.metrolyrics.com/my-president-lyrics-young-jeezy.html",
-      "sourceTitle": "My President.  ",
-      "text": "Tell him I'm doin' fine, Obama for mankind/ We ready for damn change, so y'all let the man shine/ Stuntin' on Martin Luther 'cause I'm feelin' just like a king/ Guess this is what he meant when he said that he had a dream"
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cbsnews.com/8301-31749_162-57423994-10391698/young-jeezy-gets-a-shout-out-from-president-obama/",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Tell him I'm doin' fine, Obama for mankind/ We ready for damn change, so y'all let the man shine/ Stuntin' on Martin Luther 'cause I'm feelin' just like a king/ Guess this is what he meant when he said that he had a dream",
+      "sourceTitle": "My President.",
+      "sourceUrl": "http://www.metrolyrics.com/my-president-lyrics-young-jeezy.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "And Obama is apparently listening, or at least his speech writers are. He mentioned Jeezy at the White House Correspondents Dinner in 2012. And Jeezy gave Obama a little shout out right back on his Twitter feed.",
       "sourceTitle": "Young Jeezy gets a shout out from President Obama.",
-      "text": "And Obama is apparently listening, or at least his speech writers are. He mentioned Jeezy at the White House Correspondents Dinner in 2012. And Jeezy gave Obama a little shout out right back on his Twitter feed."
+      "sourceUrl": "http://www.cbsnews.com/8301-31749_162-57423994-10391698/young-jeezy-gets-a-shout-out-from-president-obama/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "On a darker note, he gets political on his single \"Shake Life.\" Despite all his praise for Obama, he doesn't paint of very rosy picture of government."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://rapgenius.com/Young-jeezy-shake-life-lyrics#note-288736",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Government playin' round with everybody money/ Got us brainwashed so we all big dummies/ War in these streets everyday like Libya/ Will I get shot in the head? it's like Trivia",
       "sourceTitle": "Young Jeezy – Shake Life Lyrics.",
-      "text": "Government playin' round with everybody money/ Got us brainwashed so we all big dummies/ War in these streets everyday like Libya/ Will I get shot in the head? it's like Trivia"
+      "sourceUrl": "http://rapgenius.com/Young-jeezy-shake-life-lyrics#note-288736"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "So in the end, it's not that Jeezy is a Democrat. He's mostly a fan of Obama because he's black, and understandably so. You can tell by his lyrics that Jeezy is informed about politics. But he probably hasn't seen a lot of help from the government in his life–especially early on–and has another reality that has nothing to do with whether or not gay people can get married or the children of immigrants can get student loans. But having a black man in the White House–that's something he can get behind."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

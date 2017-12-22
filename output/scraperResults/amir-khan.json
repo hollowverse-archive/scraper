@@ -33,120 +33,207 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Amir Khan was born and raised in Bolton, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Khan is Muslim and very devoted to his faith. It is central to who he is as a boxer:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/sport/boxing/2694178/We-hope-fans-enjoy-fight-in-peace.html",
-      "sourceTitle": "We hope fans enjoy fight in peace.",
-      "text": "Religion is as important to me as it is to a lot of other people. By praying I feel spiritually stronger. When I pray before a bout, I know God will be with me and guide me through it. Religion gives me the discipline I need to succeed in a very tough sport."
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailystar.co.uk/posts/view/52607",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Religion is as important to me as it is to a lot of other people. By praying I feel spiritually stronger. When I pray before a bout, I know God will be with me and guide me through it. Religion gives me the discipline I need to succeed in a very tough sport.",
+      "sourceTitle": "We hope fans enjoy fight in peace.",
+      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/sport/boxing/2694178/We-hope-fans-enjoy-fight-in-peace.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "In 2008, Khan had the first big defeat of his career at a fight during Ramadan, for which he received some criticism in the Muslim community.",
       "sourceTitle": "Khan KO'd by fist in faith.",
-      "text": "In 2008, Khan had the first big defeat of his career at a fight during Ramadan, for which he received some criticism in the Muslim community."
+      "sourceUrl": "http://www.dailystar.co.uk/posts/view/52607"
     },
     {
-      "type": "sentence",
-      "text": "Since then, he says, he's decided not to fight during the holy month:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Since then, he says, he's decided not to fight during the holy month:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/sport/boxing/2694178/We-hope-fans-enjoy-fight-in-peace.html",
-      "sourceTitle": "We hope fans enjoy fight in peace.",
-      "text": "I have learned to take Ramadan more seriously, not to box during that time and, really, that defeat was a blessing in disguise for me."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I have learned to take Ramadan more seriously, not to box during that time and, really, that defeat was a blessing in disguise for me.",
+      "sourceTitle": "We hope fans enjoy fight in peace.",
+      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/sport/boxing/2694178/We-hope-fans-enjoy-fight-in-peace.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Khan successfully completed Hajj, a pilgrimage to Mecca, Saudi Arabia, with his family in 2011. He updated his fans about his journey through Twitter, at one point saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://creativemuslims.com/2011/champion-boxer-social-activist-and-dedicated-muslim-happy-birthday-amir-khan/",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Life is a circle, There is no beginning or end, Yesterday is history, Tomorrow is a mystery, Today is a gift.",
       "sourceTitle": "Champion Boxer, Social Activist, and Dedicated Muslim: Happy Birthday Amir Khan.",
-      "text": "Life is a circle, There is no beginning or end, Yesterday is history, Tomorrow is a mystery, Today is a gift."
+      "sourceUrl": "http://creativemuslims.com/2011/champion-boxer-social-activist-and-dedicated-muslim-happy-birthday-amir-khan/"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Muslim for peace and unity"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Rather than endorse political parties or candidates, his political action revolves around his desire to be a positive Muslim role model in the West. He feels that religion should bring people together, not tear them apart."
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I really do feel that if you practise your religion seriously it should bring you closer to other religions through understanding. . . . Religion is about peace and love, working together.",
+      "sourceTitle": "We hope fans enjoy fight in peace.",
+      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/sport/boxing/2694178/We-hope-fans-enjoy-fight-in-peace.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "And he feels that athletes are in a unique position to unite disparate people. In 2009, Khan fought Dmitry Salita in the first major fight between a Muslim and a Jew, which Khan saw as an opportunity to peacefully bring together people of two faiths that have had so much conflict.",
+      "sourceTitle": "We hope fans enjoy fight in peace.",
+      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/sport/boxing/2694178/We-hope-fans-enjoy-fight-in-peace.html"
+    },
+    {
+      "type": "text",
+      "text": "And that is exactly what Khan is trying to do:",
+      "parentId": 16
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/sport/boxing/2694178/We-hope-fans-enjoy-fight-in-peace.html",
-      "sourceTitle": "We hope fans enjoy fight in peace.",
-      "text": "I really do feel that if you practise your religion seriously it should bring you closer to other religions through understanding. . . . Religion is about peace and love, working together."
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/sport/boxing/2694178/We-hope-fans-enjoy-fight-in-peace.html",
-      "sourceTitle": "We hope fans enjoy fight in peace.",
-      "text": "And he feels that athletes are in a unique position to unite disparate people. In 2009, Khan fought Dmitry Salita in the first major fight between a Muslim and a Jew, which Khan saw as an opportunity to peacefully bring together people of two faiths that have had so much conflict."
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
     },
     {
-      "type": "sentence",
-      "text": "And that is exactly what Khan is trying to do:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://articles.latimes.com/2010/dec/10/sports/la-sp-1211-amir-khan-20101211",
+      "parentId": 18,
+      "type": "text",
+      "text": "I can break barriers with my skills and change things about the way people think of Muslims. We're all equal, we're all trying to succeed and we should all get along. That's what sport does: brings people together.",
       "sourceTitle": "Amir Khan looks for success in the ring, acceptance outside it.",
-      "text": "I can break barriers with my skills and change things about the way people think of Muslims. We're all equal, we're all trying to succeed and we should all get along. That's what sport does: brings people together."
+      "sourceUrl": "http://articles.latimes.com/2010/dec/10/sports/la-sp-1211-amir-khan-20101211"
     },
     {
       "type": "heading",
+      "id": 19
+    },
+    {
+      "type": "heading",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "Generosity at home and abroad"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/news/justice/864515/Gloves-Community-Centre-Bolton-Amir-Khan-helps-mend-Broken-Britain.html",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "Khan's desire to improve his community prompted him to open a boxing gym in his home town. Khan grew up in a tough neighborhood, and boxing helped keep him out of trouble. He says his gym will help bring down the crime rate, and he criticizes the government for not putting more money into sports in the schools.",
       "sourceTitle": "Amir Khan helps mend Broken Britain.",
-      "text": "Khan's desire to improve his community prompted him to open a boxing gym in his home town. Khan grew up in a tough neighborhood, and boxing helped keep him out of trouble. He says his gym will help bring down the crime rate, and he criticizes the government for not putting more money into sports in the schools."
+      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/news/justice/864515/Gloves-Community-Centre-Bolton-Amir-Khan-helps-mend-Broken-Britain.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 22
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/sport/sportvideo/boxingandmmavideo/7978383/Boxer-Amir-Khan-in-Pakistan-to-view-flood-devastation.html",
+      "parentId": 22,
+      "type": "text",
+      "text": "And his charity work doesn't stop in England. When his parents' home country Pakistan was hit with terrible flooding in 2010, Khan visited affected areas in the country and urged fellow Brits to donate to the cause.",
       "sourceTitle": "Boxer Amir Khan in Pakistan to view flood devastation.",
-      "text": "And his charity work doesn't stop in England. When his parents' home country Pakistan was hit with terrible flooding in 2010, Khan visited affected areas in the country and urged fellow Brits to donate to the cause."
+      "sourceUrl": "http://www.telegraph.co.uk/sport/sportvideo/boxingandmmavideo/7978383/Boxer-Amir-Khan-in-Pakistan-to-view-flood-devastation.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.oxfam.org.uk/blogs/2012/03/amir-khan-and-oxfam-help-build-schools-in-pakistan",
+      "type": "text",
+      "text": "After his visit, he helped raise enough money to open five new schools in areas affected by the floods.",
+      "parentId": 22,
       "sourceTitle": "Amir Khan and Oxfam help build schools in Pakistan.",
-      "text": "After his visit, he helped raise enough money to open five new schools in areas affected by the floods."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.oxfam.org.uk/blogs/2012/03/amir-khan-and-oxfam-help-build-schools-in-pakistan"
     }
   ],
   "wikipediaData": {

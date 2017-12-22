@@ -32,118 +32,193 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Wentworth Miller was born in Chipping Norton, Oxfordshire, England and grew up in Brooklyn, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0589505/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "It is widely speculated that Miller is Jewish, and he does have Jewish ancestry",
       "sourceTitle": "Wentworth Miller – Biography",
-      "text": "It is widely speculated that Miller is Jewish, and he does have Jewish ancestry"
+      "sourceUrl": "http://www.imdb.com/name/nm0589505/bio"
     },
     {
-      "type": "sentence",
-      "text": "but he doesn't really seem to identify as Jewish. He did visit Israel and, when asked for a statement, he said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but he doesn't really seem to identify as Jewish. He did visit Israel and, when asked for a statement, he said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.jewishtimes.com/index.php/jewishtimes/celebrities/jt/celebrities/wentworth_miller/",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Someone made me aware that Israel is approaching its 60th anniversary, and I'd like to wish Israel a happy anniversary and wish its people peace and prosperity.",
       "sourceTitle": "Wentworth Miller – Breaking Out",
-      "text": "Someone made me aware that Israel is approaching its 60th anniversary, and I'd like to wish Israel a happy anniversary and wish its people peace and prosperity."
+      "sourceUrl": "http://www.jewishtimes.com/index.php/jewishtimes/celebrities/jt/celebrities/wentworth_miller/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0589505/bio",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "This seems too diplomatic, too emotionally removed to indicate that he has any sort of attachment to Judaism. Really, Miller seems to value rationality above all else. He is highly educated, a Princeton graduate,",
       "sourceTitle": "Wentworth Miller – Biography",
-      "text": "This seems too diplomatic, too emotionally removed to indicate that he has any sort of attachment to Judaism. Really, Miller seems to value rationality above all else. He is highly educated, a Princeton graduate,"
+      "sourceUrl": "http://www.imdb.com/name/nm0589505/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=d2OvNbFkMxo",
+      "type": "text",
+      "text": "and he speaks with the vocabulary and tone of a highbrow elitist.",
+      "parentId": 5,
       "sourceTitle": "Yes – Interview with Wentworth Miller in Israel",
-      "text": "and he speaks with the vocabulary and tone of a highbrow elitist."
+      "sourceUrl": "http://www.youtube.com/watch?v=d2OvNbFkMxo"
     },
     {
-      "type": "sentence",
-      "text": "On the nature of evil, he said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "On the nature of evil, he said:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/wentworth_miller.html",
-      "sourceTitle": "Wentworth Miller Quotes",
-      "text": "I think there's something about evil that is thoughtless and relentless and incredibly frightening because it can't be reckoned with, reasoned with or stopped."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I think there's something about evil that is thoughtless and relentless and incredibly frightening because it can't be reckoned with, reasoned with or stopped.",
+      "sourceTitle": "Wentworth Miller Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/wentworth_miller.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "And he speaks of leaps of faith he's had to take regarding his career–and how they are counter to reason:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/wentworth_miller.html",
-      "sourceTitle": "Wentworth Miller Quotes",
-      "text": "There has to be a measure of faith. That's what this business is all about: trusting in something that may never show up, that you have no concrete proof of."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "There has to be a measure of faith. That's what this business is all about: trusting in something that may never show up, that you have no concrete proof of.",
+      "sourceTitle": "Wentworth Miller Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/wentworth_miller.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Based on these quotes, my guess is that Miller would reject the cosmological claims of religion for lack of evidence and irrationality. I could be wrong, let me know in the comments if you know anything."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "Multi-race politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wentworthmilleronline.com/?p=536",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Miller doesn't seem to have taken a political stand on any side of the multidimensional ideological divide. He has commented frequently on his multi-racial heritage and, as a result, been compared with President Barack Obama.",
       "sourceTitle": "Wentworth Miller is a lot like… Obama?",
-      "text": "Miller doesn't seem to have taken a political stand on any side of the multidimensional ideological divide. He has commented frequently on his multi-racial heritage and, as a result, been compared with President Barack Obama."
+      "sourceUrl": "http://wentworthmilleronline.com/?p=536"
     },
     {
-      "type": "sentence",
-      "text": "Miller has made it clear that his ethnic heritage has been central in his life:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Miller has made it clear that his ethnic heritage has been central in his life:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/wentworth_miller.html",
-      "sourceTitle": "Wentworth Miller Quotes",
-      "text": "My father is black and my mother is white. Therefore, I could answer to either, which kind of makes me a racial Lone Ranger, caught between two communities."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "My father is black and my mother is white. Therefore, I could answer to either, which kind of makes me a racial Lone Ranger, caught between two communities.",
+      "sourceTitle": "Wentworth Miller Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/wentworth_miller.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "And yet, he admits to having been spared the brunt of racism–probably because he could easily pass as white:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/wentworth_miller.html",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I've been spared to a large extent the business end of the race stick.",
       "sourceTitle": "Wentworth Miller Quotes",
-      "text": "I've been spared to a large extent the business end of the race stick."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/wentworth_miller.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "He seems to be a calculating rationalist, not about to show his hand to the public–either in terms of religion or politics. Perhaps something will come along and inspire Miller to get more involved. Let us know if that happens."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

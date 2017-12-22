@@ -32,120 +32,179 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ryan Reynolds was born in Vancouver, British Columbia, Canada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.glamourmagazine.co.uk/celebrity/biographies/ryan-reynolds",
+      "parentId": 2,
+      "type": "text",
+      "text": "Reynolds comes from a large family with strong Irish roots. He was brought up Catholic.",
       "sourceTitle": "Ryan Reynolds #17 of Sexiest Men 2011",
-      "text": "Reynolds comes from a large family with strong Irish roots. He was brought up Catholic."
+      "sourceUrl": "http://www.glamourmagazine.co.uk/celebrity/biographies/ryan-reynolds"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Reynolds is very succinct in his views on religion today, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.celebritiesquotes.com/Ryan-Reynolds-Quotes.php",
-      "sourceTitle": "Ryan Reynolds Quotes on Love, Life and Being Sexy",
-      "text": "Religion poisons everything good in this world."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Religion poisons everything good in this world.",
+      "sourceTitle": "Ryan Reynolds Quotes on Love, Life and Being Sexy",
+      "sourceUrl": "http://www.celebritiesquotes.com/Ryan-Reynolds-Quotes.php"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Still, this doesn't necessarily make him an atheist. Maybe he just feels that organized religion has polluted the greater message, you know, like Thomas Jefferson. Maybe he's a deist."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.starpulse.com/news/index.php/2012/04/12/scarlett_johansson_opens_up_about_ryan",
+      "parentId": 7,
+      "type": "text",
+      "text": "However, this quote reeks of contempt, maybe even emotional scarring. Perhaps Reynolds resents his religious upbringing. Whatever the case may be, Reynolds isn't that orthodox of a Catholic. He did get a divorce, and from one of the world's greatest beauties, Scarlett Johansson, who is Jewish by the way.",
       "sourceTitle": "Scarlett Johansson Opens Up About Ryan Reynolds Divorce & Dating Sean Penn",
-      "text": "However, this quote reeks of contempt, maybe even emotional scarring. Perhaps Reynolds resents his religious upbringing. Whatever the case may be, Reynolds isn't that orthodox of a Catholic. He did get a divorce, and from one of the world's greatest beauties, Scarlett Johansson, who is Jewish by the way."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.starpulse.com/news/index.php/2012/04/12/scarlett_johansson_opens_up_about_ryan"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Reynolds is a Democrat."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.justjared.com/2008/08/04/ryan-reynolds-barack-obama/",
+      "parentId": 10,
+      "type": "text",
+      "text": "He supported Barack Obama's presidential bid in 2008 and showed his distaste with John McCain all at once–by putting two politically-charged bumper stickers on his eco-friendly, hybrid car.",
       "sourceTitle": "Ryan Reynolds: Vote Barack Obama!",
-      "text": "He supported Barack Obama's presidential bid in 2008 and showed his distaste with John McCain all at once–by putting two politically-charged bumper stickers on his eco-friendly, hybrid car."
+      "sourceUrl": "http://www.justjared.com/2008/08/04/ryan-reynolds-barack-obama/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Ryan_Reynolds.php",
+      "parentId": 11,
+      "type": "text",
+      "text": "But it's not Obama who turned the tide for Reynolds. He's been giving money to Democrats since the John Kerry days in 2004. Plus, he's donated to super-liberal organization MoveOn.org. All tolled, Reynolds has dropped $4,700 in support of Democrat/liberal causes.",
       "sourceTitle": "Ryan Reynolds's Federal Campaign Contribution Report",
-      "text": "But it's not Obama who turned the tide for Reynolds. He's been giving money to Democrats since the John Kerry days in 2004. Plus, he's donated to super-liberal organization MoveOn.org. All tolled, Reynolds has dropped $4,700 in support of Democrat/liberal causes."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Ryan_Reynolds.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Reynolds would not call himself a moderate, either. He's extreme. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://tumblr.innovationforendurance.com/post/9929070342/ryan-reynolds-on-environmental-innovators",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "My definition of innovation is anyone, an individual or a group, that steers us away from this kind of \"middle-think.\"",
       "sourceTitle": "Ryan Reynolds: On Environmental Innovators",
-      "text": "My definition of innovation is anyone, an individual or a group, that steers us away from this kind of \"middle-think.\""
+      "sourceUrl": "http://tumblr.innovationforendurance.com/post/9929070342/ryan-reynolds-on-environmental-innovators"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/1543-ryan-reynolds",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "But he's not too generous with the philanthropy, like most stars are obligated to be. He's only ever supported Michael J. Fox's Parkinson's research foundation.",
       "sourceTitle": "Ryan Reynolds's Charity Work, Events and Causes",
-      "text": "But he's not too generous with the philanthropy, like most stars are obligated to be. He's only ever supported Michael J. Fox's Parkinson's research foundation."
+      "sourceUrl": "http://www.looktothestars.org/celebrity/1543-ryan-reynolds"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Perhaps the most important issue to Reynolds is the environment. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://tumblr.innovationforendurance.com/post/9600682116/ryan-reynolds-in-a-greener-world-ryan-reynolds",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I would love to see a green economy. I would love to see a huge investment in alternative energy. I'd love to see that pay off, because I know it would. I would love to see new homes that are built in California and Arizona and states that receive an enormous amount of solar energy, to have bylaws passed in which new home construction, you're required to build solar panels.",
       "sourceTitle": "Ryan Reynolds: In a Greener World",
-      "text": "I would love to see a green economy. I would love to see a huge investment in alternative energy. I'd love to see that pay off, because I know it would. I would love to see new homes that are built in California and Arizona and states that receive an enormous amount of solar energy, to have bylaws passed in which new home construction, you're required to build solar panels."
+      "sourceUrl": "http://tumblr.innovationforendurance.com/post/9600682116/ryan-reynolds-in-a-greener-world-ryan-reynolds"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "Reynolds added that these things are easier said then done and he wouldn't like them to happen as a result of finger-wagging and preaching, which is nice. At least he's not one of those holier-than-thou celebrities."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

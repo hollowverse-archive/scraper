@@ -32,123 +32,215 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jimmy Page was born just outside London, England. He grew up there and in Epsom, Surrey, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rollingstone.com/music/lists/the-10-wildest-led-zeppelin-legends-fact-checked-20121121/jimmy-page-worshipped-the-devil-19691231",
+      "parentId": 2,
+      "type": "text",
+      "text": "Lots of rumors and misinformation surround Page's interest in the occult. There were rumors he was a Satanist, into black magic, or sold his soul in exchange for fame.",
       "sourceTitle": "The 10 Wildest Led Zeppelin Legends, Fact-Check: Jimmy Page Worshipped the Devil.",
-      "text": "Lots of rumors and misinformation surround Page's interest in the occult. There were rumors he was a Satanist, into black magic, or sold his soul in exchange for fame."
+      "sourceUrl": "http://www.rollingstone.com/music/lists/the-10-wildest-led-zeppelin-legends-fact-checked-20121121/jimmy-page-worshipped-the-devil-19691231"
     },
     {
-      "type": "sentence",
-      "text": "Regardless of whether or not you believe all the rumors, that's not how Page describes it."
+      "type": "text",
+      "text": "Regardless of whether or not you believe all the rumors, that's not how Page describes it.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://deeppaganthoughts.blogspot.com/2011/11/normal.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "The Led Zeppelin guitarist was a follower of"
+    },
+    {
+      "parentId": 3,
+      "type": "link",
+      "text": "Aleister Crowley",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Aleister_Crowley#Beliefs"
+    },
+    {
+      "type": "text",
+      "text": ", an occultist, mystic, and magician, among other things. Page said he read one of Crowley's books when he was just 11-years-old, and started really getting into \"",
+      "parentId": 3
+    },
+    {
+      "parentId": 3,
+      "type": "link",
+      "text": "magick",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Magick"
+    },
+    {
+      "type": "text",
+      "text": "\" when he was just 15. He eventually bought Crowley's old house and opened up an occult bookstore in London because, as he put it, \"I was so pissed off not being able to get the books I wanted.\"",
+      "parentId": 3,
       "sourceTitle": "Led Zeppelin and the Occult.",
-      "text": "The Led Zeppelin guitarist was a follower of , an occultist, mystic, and magician, among other things. Page said he read one of Crowley's books when he was just 11-years-old, and started really getting into \"\" when he was just 15. He eventually bought Crowley's old house and opened up an occult bookstore in London because, as he put it, \"I was so pissed off not being able to get the books I wanted.\""
+      "sourceUrl": "http://deeppaganthoughts.blogspot.com/2011/11/normal.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://deeppaganthoughts.blogspot.com/2011/11/normal.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "Page made clear that he did not worship the devil",
       "sourceTitle": "Led Zeppelin and the Occult.",
-      "text": "Page made clear that he did not worship the devil"
+      "sourceUrl": "http://deeppaganthoughts.blogspot.com/2011/11/normal.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://endofthegame.net/2012/03/13/william-burroughs-interviews-jimmy-page-1975/",
+      "type": "text",
+      "text": "or practice black magic.",
+      "parentId": 4,
       "sourceTitle": "William Burroughs Interviews Jimmy Page [1975].",
-      "text": "or practice black magic."
+      "sourceUrl": "http://endofthegame.net/2012/03/13/william-burroughs-interviews-jimmy-page-1975/"
     },
     {
-      "type": "sentence",
-      "text": "Instead, he was creating a fusion between magick and music. He said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Instead, he was creating a fusion between magick and music. He said,",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.zimbio.com/Aleister+Crowley/articles/11/Jimmy+Page+Aleister+Crowley+deciphering+mage",
-      "sourceTitle": "Jimmy Page and Aleister Crowley: deciphering the mage.",
-      "text": "The four musical elements of Led Zeppelin making a fifth is magick into itself. That's the alchemical process."
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.zimbio.com/Aleister+Crowley/articles/11/Jimmy+Page+Aleister+Crowley+deciphering+mage",
-      "sourceTitle": "Jimmy Page and Aleister Crowley: deciphering the mage.",
-      "text": "Page never tried to tone down his interest in the occult. He wore embroidered symbols on his clothes and placed them on album covers, which he called \"talismanic magick.\""
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.spin.com/articles/do-what-thou-wilt-led-zeppelin-reunite-london",
+      "parentId": 6,
+      "type": "text",
+      "text": "The four musical elements of Led Zeppelin making a fifth is magick into itself. That's the alchemical process.",
+      "sourceTitle": "Jimmy Page and Aleister Crowley: deciphering the mage.",
+      "sourceUrl": "http://www.zimbio.com/Aleister+Crowley/articles/11/Jimmy+Page+Aleister+Crowley+deciphering+mage"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Page never tried to tone down his interest in the occult. He wore embroidered symbols on his clothes and placed them on album covers, which he called \"talismanic magick.\"",
+      "sourceTitle": "Jimmy Page and Aleister Crowley: deciphering the mage.",
+      "sourceUrl": "http://www.zimbio.com/Aleister+Crowley/articles/11/Jimmy+Page+Aleister+Crowley+deciphering+mage"
+    },
+    {
+      "type": "text",
+      "text": "And he had the words \"Do what thou wilt\" written on the original vinyl pressing of the album",
+      "parentId": 7
+    },
+    {
+      "parentId": 7,
+      "type": "emphasis",
+      "text": "Led Zeppelin IV"
+    },
+    {
+      "type": "text",
+      "text": ", which was a reference to Crowley's main philosophical tenet.",
+      "parentId": 7,
       "sourceTitle": "Do What Thou Wilt: Led Zeppelin Reunite in London.",
-      "text": "And he had the words \"Do what thou wilt\" written on the original vinyl pressing of the album , which was a reference to Crowley's main philosophical tenet."
+      "sourceUrl": "http://www.spin.com/articles/do-what-thou-wilt-led-zeppelin-reunite-london"
     },
     {
-      "type": "sentence",
-      "text": "But he rarely went into much depth about it in interviews. He said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But he rarely went into much depth about it in interviews. He said,",
+      "parentId": 7
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.rollingstone.com/music/lists/the-10-wildest-led-zeppelin-legends-fact-checked-20121121/jimmy-page-worshipped-the-devil-19691231",
-      "sourceTitle": "The 10 Wildest Led Zeppelin Legends, Fact-Checked: Jimmy Page Worshipped the Devil.",
-      "text": "I don't really want to go on about my personal beliefs or my involvement in magic. I'm not interested in turning anybody on to anybody that I'm turned on to. If people want to find things, they find them themselves."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I don't really want to go on about my personal beliefs or my involvement in magic. I'm not interested in turning anybody on to anybody that I'm turned on to. If people want to find things, they find them themselves.",
+      "sourceTitle": "The 10 Wildest Led Zeppelin Legends, Fact-Checked: Jimmy Page Worshipped the Devil.",
+      "sourceUrl": "http://www.rollingstone.com/music/lists/the-10-wildest-led-zeppelin-legends-fact-checked-20121121/jimmy-page-worshipped-the-devil-19691231"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Well, thanks to Page, I'm sure many young rockers found their way to Aleister Crowley themselves."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "Making Peaceful Magick"
     },
     {
-      "type": "sentence",
-      "text": "I couldn't find much evidence that Page is very concerned with partisan politics. I would assume that he's generally left of the center considering his role in 1970s rock 'n roll counter-culture. (Take  with William Burroughs as an example.) But it doesn't appear that he's entered the debate."
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "break"
+      "parentId": 12,
+      "type": "text",
+      "text": "I couldn't find much evidence that Page is very concerned with partisan politics. I would assume that he's generally left of the center considering his role in 1970s rock 'n roll counter-culture. (Take"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.billboard.com/articles/photos/live/266360/jimmy-page-to-play-show-of-peace-concert-in-china",
+      "parentId": 12,
+      "type": "link",
+      "text": "this conversation",
+      "sourceUrl": "http://endofthegame.net/2012/03/13/william-burroughs-interviews-jimmy-page-1975/"
+    },
+    {
+      "type": "text",
+      "text": "with William Burroughs as an example.) But it doesn't appear that he's entered the debate.",
+      "parentId": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "In non-partisan political news, after agreeing to perform at the 2010 \"Show of Peace\" concert in China,",
       "sourceTitle": "Jimmy Page To Play 'Show Of Peace' Concert in China.",
-      "text": "In non-partisan political news, after agreeing to perform at the 2010 \"Show of Peace\" concert in China,"
+      "sourceUrl": "http://www.billboard.com/articles/photos/live/266360/jimmy-page-to-play-show-of-peace-concert-in-china"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=LDMX1y6AqbU",
+      "type": "text",
+      "text": "Page was honored with the first ever United Nations Pathways to Peace Global Peace Award.",
+      "parentId": 13,
       "sourceTitle": "Jimmy Page Receives Global Peace Award at Show of Peace Launch Event.",
-      "text": "Page was honored with the first ever United Nations Pathways to Peace Global Peace Award."
+      "sourceUrl": "http://www.youtube.com/watch?v=LDMX1y6AqbU"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "But that appears to be about it. If you know anything else about Page's politics, or you have any thoughts on his less than mainstream spiritual beliefs, leave us a comment."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

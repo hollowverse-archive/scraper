@@ -36,121 +36,169 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Khloé Kardashian was born in Los Angeles, California and grew up in Beverly Hills, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "This Kardashian sister is a devoted Christian. She prays every night with her husband, Lamar Odom. They even call each other when they're away."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://thechurchladyblogs.com/2012/07/05/lamar-odom-and-khloe-kardashian-says-prayer-keeps-their-marriage-in-check-video/",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "We pray nightly together. That's how we keep our spirituality. . . . That's just what we do together. It keeps us close and connected.",
       "sourceTitle": "LaMar Odom and Khloe Kardashian says Prayer Keeps their Marriage in Check.",
-      "text": "We pray nightly together. That's how we keep our spirituality. . . . That's just what we do together. It keeps us close and connected."
+      "sourceUrl": "http://thechurchladyblogs.com/2012/07/05/lamar-odom-and-khloe-kardashian-says-prayer-keeps-their-marriage-in-check-video/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thechurchladyblogs.com/2012/07/05/lamar-odom-and-khloe-kardashian-says-prayer-keeps-their-marriage-in-check-video/",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Apparently they even pray for their enemies because, according to Kardashian, \"they know not what they do.\"",
       "sourceTitle": "LaMar Odom and Khloe Kardashian says Prayer Keeps their Marriage in Check.",
-      "text": "Apparently they even pray for their enemies because, according to Kardashian, \"they know not what they do.\""
+      "sourceUrl": "http://thechurchladyblogs.com/2012/07/05/lamar-odom-and-khloe-kardashian-says-prayer-keeps-their-marriage-in-check-video/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "Khloé puts the ball in God's court when it comes to having a baby. About the couple's troubles conceiving, she tweeted,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2011/12/23/khloe-kardashian-lamar-odom-praying-for-a-baby_n_1167827.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I'm waiting on the big man upstairs to bless us with that blessing",
       "sourceTitle": "Khloe Kardashian And Lamar Odom Praying For A Baby: Have Their Prayers Been Answered?",
-      "text": "I'm waiting on the big man upstairs to bless us with that blessing"
+      "sourceUrl": "http://www.huffingtonpost.com/2011/12/23/khloe-kardashian-lamar-odom-praying-for-a-baby_n_1167827.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1350685/Kim-Kardashian-reveals-Piers-Morgan-funds-mother-Kris-church.html",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Things get a little weird when you start talking about the Kardashian family's favorite pastor, Brad Johnson, who officiated Khloé's wedding (which incidentally was aired on television in front of three million viewers).",
       "sourceTitle": "Kim Kardashain reveals to Piers Morgan that she funds mother Kris' church.",
-      "text": "Things get a little weird when you start talking about the Kardashian family's favorite pastor, Brad Johnson, who officiated Khloé's wedding (which incidentally was aired on television in front of three million viewers)."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1350685/Kim-Kardashian-reveals-Piers-Morgan-funds-mother-Kris-church.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1350685/Kim-Kardashian-reveals-Piers-Morgan-funds-mother-Kris-church.html",
+      "type": "text",
+      "text": "He was working at a prominent church in California when he left in disgrace after found cheating on his wife. Khloe's mother then found him working at a Starbucks, and asked him to head up a new church funded by the family.",
+      "parentId": 9,
       "sourceTitle": "Kim Kardashain reveals to Piers Morgan that she funds mother Kris' church.",
-      "text": "He was working at a prominent church in California when he left in disgrace after found cheating on his wife. Khloe's mother then found him working at a Starbucks, and asked him to head up a new church funded by the family."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1350685/Kim-Kardashian-reveals-Piers-Morgan-funds-mother-Kris-church.html"
     },
     {
-      "type": "sentence",
-      "text": "But then again, Christians are supposed to take forgiveness pretty seriously, right?"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But then again, Christians are supposed to take forgiveness pretty seriously, right?",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Oh no he didn't!"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.politico.com/blogs/click/2012/04/kim-kardashian-on-running-for-mayor-stay-tuned-121938.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Khloé's sister Kim stated that the sisters are all Democrats, even though their parents are Republicans, and that they all voted for Obama.",
       "sourceTitle": "Kim Kardashian, Democrat, on running for mayor: 'Stay tuned.'",
-      "text": "Khloé's sister Kim stated that the sisters are all Democrats, even though their parents are Republicans, and that they all voted for Obama."
+      "sourceUrl": "http://www.politico.com/blogs/click/2012/04/kim-kardashian-on-running-for-mayor-stay-tuned-121938.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2010/01/25/khloe-kardashian-meets-pr_n_435987.html",
+      "type": "text",
+      "text": "And after Khloé met Obama at the White House through an event with her NBA-player husband, she was excited enough to tweet that it was \"an amazing day.\"",
+      "parentId": 11,
       "sourceTitle": "Khloe Kardashian Meets President Obama At The White House.",
-      "text": "And after Khloé met Obama at the White House through an event with her NBA-player husband, she was excited enough to tweet that it was \"an amazing day.\""
+      "sourceUrl": "http://www.huffingtonpost.com/2010/01/25/khloe-kardashian-meets-pr_n_435987.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.sheknows.com/entertainment/articles/845577/kardashians-insult-michelle-obamas-wardrobe",
+      "parentId": 12,
+      "type": "text",
+      "text": "But apparently Kardashian was none-too-impressed when the President told his daughters they weren't allowed to watch her family's reality TV show. She was especially upset because he said he liked the show when they met. The sisters' classy reply was to insult Michelle Obama's wardrobe.",
       "sourceTitle": "Kardashians insult Michelle Obama's wardrobe.",
-      "text": "But apparently Kardashian was none-too-impressed when the President told his daughters they weren't allowed to watch her family's reality TV show. She was especially upset because he said he liked the show when they met. The sisters' classy reply was to insult Michelle Obama's wardrobe."
+      "sourceUrl": "http://www.sheknows.com/entertainment/articles/845577/kardashians-insult-michelle-obamas-wardrobe"
     },
     {
-      "type": "sentence",
-      "text": "Well played ladies. The ratings had to have gone up after that move."
+      "type": "text",
+      "text": "Well played ladies. The ratings had to have gone up after that move.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.peta.org/tv/videos/skins-fur/292373971001.aspx",
+      "parentId": 13,
+      "type": "text",
+      "text": "But even if she's a little down on the Obamas, she lends her support to other liberal causes. She appeared naked in a photo shoot for PETA (People for the Ethical Treatment of Animals) under the slogan, I'd rather go naked than wear fur.",
       "sourceTitle": "Khloe Kardashian's Naked Photo Shoot for PETA.",
-      "text": "But even if she's a little down on the Obamas, she lends her support to other liberal causes. She appeared naked in a photo shoot for PETA (People for the Ethical Treatment of Animals) under the slogan, I'd rather go naked than wear fur."
+      "sourceUrl": "http://www.peta.org/tv/videos/skins-fur/292373971001.aspx"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://khloekardashian.celebuzz.com/tag/gay-rights",
+      "parentId": 14,
+      "type": "text",
+      "text": "She also supports gay marriage",
       "sourceTitle": "Gay Rights – Khloe Kardashian official website.",
-      "text": "She also supports gay marriage"
+      "sourceUrl": "http://khloekardashian.celebuzz.com/tag/gay-rights"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=f7f99_HS7w8",
+      "type": "text",
+      "text": "and recorded a video for the \"It Gets Better\" campaign, which aims to help LGBT youth get through the bullying of their teenage years.",
+      "parentId": 14,
       "sourceTitle": "Khloe Kardashian Says It Will Get Better.",
-      "text": "and recorded a video for the \"It Gets Better\" campaign, which aims to help LGBT youth get through the bullying of their teenage years."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.youtube.com/watch?v=f7f99_HS7w8"
     }
   ],
   "wikipediaData": {

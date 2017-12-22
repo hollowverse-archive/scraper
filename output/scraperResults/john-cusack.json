@@ -34,186 +34,325 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Cusack's rare comments on religion are difficult to deconstruct, but indicate he may have a loose belief in Christianity."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "In a 2008 interview with Vanity Fair, when asked who his heroes in real life are, Cusack said"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.vanityfair.com/culture/features/2008/06/proust_cusack200806",
-      "sourceTitle": "Proust Questionaire: John Cusack",
-      "text": "Let's go with Jesus. Not the gay-hating, war-making, political tool of the right, but the outcast, subversive."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Let's go with Jesus. Not the gay-hating, war-making, political tool of the right, but the outcast, subversive.",
+      "sourceTitle": "Proust Questionaire: John Cusack",
+      "sourceUrl": "http://www.vanityfair.com/culture/features/2008/06/proust_cusack200806"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "This would indicate that not only does Cusack possibly believe in Jesus, but he doesn't like the right wing much, preferring a Jesus who"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.vanityfair.com/culture/features/2008/06/proust_cusack200806",
-      "sourceTitle": "Proust Questionaire: John Cusack",
-      "text": "….despised and doomed to the rich and powerful. The man Gary Wills described 'with the future in his eyes….paradoxically calming and provoking,' and whom Flannery O'Connor saw as 'the ragged figure who moves from tree to tree in the back of [one's] mind.'"
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "….despised and doomed to the rich and powerful. The man Gary Wills described 'with the future in his eyes….paradoxically calming and provoking,' and whom Flannery O'Connor saw as 'the ragged figure who moves from tree to tree in the back of [one's] mind.'",
+      "sourceTitle": "Proust Questionaire: John Cusack",
+      "sourceUrl": "http://www.vanityfair.com/culture/features/2008/06/proust_cusack200806"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "It seems John Cusack likes Jesus, but whether he believes in him as the Son of God or just likes the idea of him is another story."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "He's not Catholic, as he stated in an interview with belief.net,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.beliefnet.com/Entertainment/Movies/2003/01/Is-Art-Mightier-Than-War.aspx",
-      "sourceTitle": "Actor John Cusack on Hitler, politics and his movie 'Max.' ",
-      "text": "I was raised Catholic, until I was old enough to say no."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I was raised Catholic, until I was old enough to say no.",
+      "sourceTitle": "Actor John Cusack on Hitler, politics and his movie 'Max.'",
+      "sourceUrl": "http://www.beliefnet.com/Entertainment/Movies/2003/01/Is-Art-Mightier-Than-War.aspx"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Adding later in the same interview:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 13
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.beliefnet.com/Entertainment/Movies/2003/01/Is-Art-Mightier-Than-War.aspx",
-      "sourceTitle": "Actor John Cusack on Hitler, politics and his movie 'Max.' ",
-      "text": "I was raised Irish Catholic, but I don't consider myself Irish Catholic. I consider myself me, an American. I was raised Catholic, until I was old enough to say no."
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I was raised Irish Catholic, but I don't consider myself Irish Catholic. I consider myself me, an American. I was raised Catholic, until I was old enough to say no.",
+      "sourceTitle": "Actor John Cusack on Hitler, politics and his movie 'Max.'",
+      "sourceUrl": "http://www.beliefnet.com/Entertainment/Movies/2003/01/Is-Art-Mightier-Than-War.aspx"
     },
     {
       "type": "heading",
+      "id": 15
+    },
+    {
+      "type": "heading",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "More liberal but not of the knee-jerk variety"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Cusack's indication of the Jesus he prefers, i.e. 'not the right wing tool,' would indicate he has some contempt for the right."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "He is against guns, or at least feels that they can be obtained too easily."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.searchquotes.com/search/Sometimes_You_Have_To_Go_Through_The_Storm/",
-      "sourceTitle": "Sometimes You Have To Go Through The Storm Quotes",
-      "text": "Death is a billion-dollar business.' They can't even pass a law where it takes 7 days to get a gun. Why don't you have to go through the same kind of screening you do to get a driver's license?"
+      "id": 19
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "Death is a billion-dollar business.' They can't even pass a law where it takes 7 days to get a gun. Why don't you have to go through the same kind of screening you do to get a driver's license?",
+      "sourceTitle": "Sometimes You Have To Go Through The Storm Quotes",
+      "sourceUrl": "http://www.searchquotes.com/search/Sometimes_You_Have_To_Go_Through_The_Storm/"
+    },
+    {
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "Cusack went on a twitter rant against Fox News, tweeting:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://perezhilton.com/2010-08-31-john-cusacks-twitter-rampage#.U9y3XICSwfg",
-      "sourceTitle": "John Cusack's Twitter Rampage",
-      "text": "I AM FOR A SATANIC DEATH CULT CENTER AT FOX NEWS HQ AND OUTSIDE THE OFFICES ORDICK ARMEYAND NEWT GINGRICH"
+      "id": 22
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 23,
+      "parentId": 22
+    },
+    {
+      "parentId": 23,
+      "type": "text",
+      "text": "I AM FOR A SATANIC DEATH CULT CENTER AT FOX NEWS HQ AND OUTSIDE THE OFFICES ORDICK ARMEYAND NEWT GINGRICH",
+      "sourceTitle": "John Cusack's Twitter Rampage",
+      "sourceUrl": "http://perezhilton.com/2010-08-31-john-cusacks-twitter-rampage#.U9y3XICSwfg"
+    },
+    {
+      "type": "paragraph",
+      "id": 24
+    },
+    {
+      "parentId": 24,
+      "type": "text",
       "text": "This further indicates his dislike for the right wing. During his interview with belief.net [conducted in 2003] he was asked about politics and said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.beliefnet.com/Entertainment/Movies/2003/01/Is-Art-Mightier-Than-War.aspx",
-      "sourceTitle": "Actor John Cusack on Hitler, politics and his movie 'Max.' ",
-      "text": "It's all aesthetics. And even the people who are covering politics don't question whether that's right or not. They just tell you \"Bush is doing a wonderful job of convincing people he is compassionate.\" It's a very successful con job. We've stopped questioning that it's all theatre. We all know it. It's just disgusting."
+      "id": 25
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 26,
+      "parentId": 25
+    },
+    {
+      "parentId": 26,
+      "type": "text",
+      "text": "It's all aesthetics. And even the people who are covering politics don't question whether that's right or not. They just tell you \"Bush is doing a wonderful job of convincing people he is compassionate.\" It's a very successful con job. We've stopped questioning that it's all theatre. We all know it. It's just disgusting.",
+      "sourceTitle": "Actor John Cusack on Hitler, politics and his movie 'Max.'",
+      "sourceUrl": "http://www.beliefnet.com/Entertainment/Movies/2003/01/Is-Art-Mightier-Than-War.aspx"
+    },
+    {
+      "type": "paragraph",
+      "id": 27
+    },
+    {
+      "parentId": 27,
+      "type": "text",
       "text": "Whether this was a stab at politics in general or a more precise attack on Bush and the Republican government at the time, is hard to be sure of, but most of Cusack's political criticisms do seem aimed at the right."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 28
     },
     {
-      "type": "sentence",
+      "parentId": 28,
+      "type": "text",
       "text": "Cusack has however also shown some contempt for Obama."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 29
     },
     {
-      "type": "sentence",
+      "parentId": 29,
+      "type": "text",
       "text": "In 2012 he wrote a piece on Obama, asking:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://newsbusters.org/blogs/noel-sheppard/2012/09/03/john-cusack-obama-just-another-ivy-league-hole",
-      "sourceTitle": "John Cusack: 'Is Obama Just Another Ivy League A–Hole?",
-      "text": "Is the President just another Ivy League A–hole shredding civil liberties and due process and sending people to die in some s–thole for purely political reasons?"
+      "id": 30
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 31,
+      "parentId": 30
+    },
+    {
+      "parentId": 31,
+      "type": "text",
+      "text": "Is the President just another Ivy League A–hole shredding civil liberties and due process and sending people to die in some s–thole for purely political reasons?",
+      "sourceTitle": "John Cusack: 'Is Obama Just Another Ivy League A–Hole?",
+      "sourceUrl": "http://newsbusters.org/blogs/noel-sheppard/2012/09/03/john-cusack-obama-just-another-ivy-league-hole"
+    },
+    {
+      "type": "paragraph",
+      "id": 32
+    },
+    {
+      "parentId": 32,
+      "type": "text",
       "text": "Cusack has also shown contempt for left wing liberal media, suggesting they are kinder to Obama and don't question what he does as much."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://newsbusters.org/blogs/noel-sheppard/2012/09/03/john-cusack-obama-just-another-ivy-league-hole",
-      "sourceTitle": "John Cusack: 'Is Obama Just Another Ivy League A–Hole?",
-      "text": "Under Obama do we continue to call the thousands of mercenaries in Afghanistan \"general contractors\" now that Bush is gone? No, we don't talk about them… not a story anymore."
+      "id": 33
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 34,
+      "parentId": 33
+    },
+    {
+      "parentId": 34,
+      "type": "text",
+      "text": "Under Obama do we continue to call the thousands of mercenaries in Afghanistan \"general contractors\" now that Bush is gone? No, we don't talk about them… not a story anymore.",
+      "sourceTitle": "John Cusack: 'Is Obama Just Another Ivy League A–Hole?",
+      "sourceUrl": "http://newsbusters.org/blogs/noel-sheppard/2012/09/03/john-cusack-obama-just-another-ivy-league-hole"
+    },
+    {
+      "type": "paragraph",
+      "id": 35
+    },
+    {
+      "parentId": 35,
+      "type": "text",
       "text": "It seems Cusack is generally not a fan of politics and politicians, and tends to attack the person in charge at the time. Earlier during the Bush administration he attacked Bush and the right wing media. Now he focuses more on Obama and the left wing media."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 36
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/johncusack",
+      "parentId": 36,
+      "type": "text",
+      "text": "Still, Cusack's Twitter account smacks of a proud, though possibly conflicted, liberal.",
       "sourceTitle": "John Cusack on Twitter (johncusack)",
-      "text": "Still, Cusack's Twitter account smacks of a proud, though possibly conflicted, liberal."
+      "sourceUrl": "https://twitter.com/johncusack"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 37
     },
     {
-      "type": "sentence",
+      "parentId": 37,
+      "type": "text",
       "text": "Cusack is not keen on right wing politics but is also disillusioned with what the left is doing while in power."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 38
     },
     {
-      "type": "break"
+      "parentId": 38,
+      "type": "emphasis",
+      "text": "This article written by Wojciech Zdrojkowski"
     }
   ],
   "wikipediaData": {

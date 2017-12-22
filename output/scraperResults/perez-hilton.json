@@ -33,83 +33,133 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Perez Hilton, whole real name is Mario Armando Lavandeira, Jr., was born and raised in Miama, Florida."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Hilton's parents are both from Cuba, and he went to a Jesuit high school, so all signs point to him growing up in a Catholic household."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://perezhilton.com/2011-10-04-man-tears-out-his-own-eyes-with-his-bare-hands-during-catholic-church-mass#.UDw7hsFmRbw",
+      "parentId": 3,
+      "type": "text",
+      "text": "He doesn't, however, appear to have anything to do with the church now. Not only is he openly gay and strongly supportive of gay rights–two things the Catholics aren't big on–but he also pokes fun at Catholics fairly frequently on his blog.",
       "sourceTitle": "Man Tears Out His Own Eyes With His BARE HANDS During Church Mass.",
-      "text": "He doesn't, however, appear to have anything to do with the church now. Not only is he openly gay and strongly supportive of gay rights–two things the Catholics aren't big on–but he also pokes fun at Catholics fairly frequently on his blog."
+      "sourceUrl": "http://perezhilton.com/2011-10-04-man-tears-out-his-own-eyes-with-his-bare-hands-during-catholic-church-mass#.UDw7hsFmRbw"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://perezhilton.com/2011-09-15-catholic-mom-is-scared-to-leave-the-house-because-of-all-the-gays#.UDw0_MFmRbw",
+      "type": "text",
+      "text": "When it comes to Catholic anti-gay sentiment, he moves from fun to anger. It's clearly an affront by the church that he considers personal.",
+      "parentId": 3,
       "sourceTitle": "What In Tarnation?! Catholic Woman Refuses To Leave Her House Because Of \"The Gays.\"",
-      "text": "When it comes to Catholic anti-gay sentiment, he moves from fun to anger. It's clearly an affront by the church that he considers personal."
+      "sourceUrl": "http://perezhilton.com/2011-09-15-catholic-mom-is-scared-to-leave-the-house-because-of-all-the-gays#.UDw0_MFmRbw"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "He calls himself a \"fatalist\" who thinks about death often. His thoughts on his own demise lean him toward atheism with an agnostic past."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/media/2011/dec/04/perez-hilton-interview-itv2-show",
-      "sourceTitle": "Perez Hilton interview: 'I'm sassy, without being nasty.'",
-      "text": "For the longest time I thought this was it, but then I thought maybe reincarnation does exist and we will all come back. My new thought is either of these could be true, but realistically what is going to happen is when you are dead you are not going to know you are dead, so it's not the end of the world."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "For the longest time I thought this was it, but then I thought maybe reincarnation does exist and we will all come back. My new thought is either of these could be true, but realistically what is going to happen is when you are dead you are not going to know you are dead, so it's not the end of the world.",
+      "sourceTitle": "Perez Hilton interview: 'I'm sassy, without being nasty.'",
+      "sourceUrl": "http://www.guardian.co.uk/media/2011/dec/04/perez-hilton-interview-itv2-show"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Politically, Hilton is definitely in the liberal camp. He throws his support Obama's way, especially since his decision to support gay marriage."
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://perezhilton.com/2012-05-11-the-talk-women-cry-over-obamas-gay-marriage-support#.UDw-TcFmRbw",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "A lot of us have shed a tear or two ever since President Obama made the brave decision to publicly support gay marriage while sitting in office.",
       "sourceTitle": "The Ladies Of The Talk Cry Over Obama's Support For Gay Marriage!!.",
-      "text": "A lot of us have shed a tear or two ever since President Obama made the brave decision to publicly support gay marriage while sitting in office."
+      "sourceUrl": "http://perezhilton.com/2012-05-11-the-talk-women-cry-over-obamas-gay-marriage-support#.UDw-TcFmRbw"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "The Anti-Celebrity Bullying Campaign"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Gay rights isn't the only issue that is near to Hilton's heart. He has been outspoken against the bullying of gay teens. His attitude on the issue even caused a complete about-face in his blogging style. After he was repeatedly called a hypocrite for his own bullying of celebrities, Hilton vowed to stop being so cruel to the rich and famous."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=Q0HRu1HN3bY",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I want to be able to continue to speak out on the gay bullying and the teen suicides. And I want to be able to go to the rallies and the marches like I have been in the past and not have people in my own community feel guilty about me or embarrassed.",
       "sourceTitle": "Perez Hilton Pledges to Be Kind On Ellen.",
-      "text": "I want to be able to continue to speak out on the gay bullying and the teen suicides. And I want to be able to go to the rallies and the marches like I have been in the past and not have people in my own community feel guilty about me or embarrassed."
+      "sourceUrl": "http://www.youtube.com/watch?v=Q0HRu1HN3bY"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Maybe he's just been thinking about his own death too much lately, and that lingering Catholic guilt inspired a confession before he meets up with Saint Peter."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

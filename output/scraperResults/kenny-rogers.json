@@ -33,114 +33,180 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kenny Rogers was born and raised in Houston, Texas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "There is surprisingly little information available about Rogers' religious beliefs. We have a couple of vague quotes and, of course, his music from which to draw conclusions, but little more. Rogers once simply stated:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/k/kenny_rogers.html",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I was raised in the church.",
       "sourceTitle": "Kenny Rogers Quotes",
-      "text": "I was raised in the church."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/k/kenny_rogers.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.reuters.com/article/2012/10/01/entertainment-us-kennyrogers-idUSBRE8901D320121001",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "However, he doesn't elaborate which church or denomination that was exactly. However, we can be sure that Rogers was raised, and remains, a Christian. Now, as an older man, Rogers still doesn't recall his religion with much fondness. He said his mother \"force-fed\" him and his siblings religion and that he complained about going to church,",
       "sourceTitle": "Kenny Rogers opens up about childhood, career in memoir",
-      "text": "However, he doesn't elaborate which church or denomination that was exactly. However, we can be sure that Rogers was raised, and remains, a Christian. Now, as an older man, Rogers still doesn't recall his religion with much fondness. He said his mother \"force-fed\" him and his siblings religion and that he complained about going to church,"
+      "sourceUrl": "http://www.reuters.com/article/2012/10/01/entertainment-us-kennyrogers-idUSBRE8901D320121001"
     },
     {
-      "type": "sentence",
-      "text": "to which his mother replied:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "to which his mother replied:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.reuters.com/article/2012/10/01/entertainment-us-kennyrogers-idUSBRE8901D320121001",
-      "sourceTitle": "Kenny Rogers opens up about childhood, career in memoir",
-      "text": "You can never be more as an adult than what's put into you as a child."
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.kennyrogers.com/index.htm?id=15750",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "You can never be more as an adult than what's put into you as a child.",
+      "sourceTitle": "Kenny Rogers opens up about childhood, career in memoir",
+      "sourceUrl": "http://www.reuters.com/article/2012/10/01/entertainment-us-kennyrogers-idUSBRE8901D320121001"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Recently, Rogers released an album of gospel songs called"
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "The Love of God"
+    },
+    {
+      "type": "text",
+      "text": ". He sold it as a collection of religious songs that he grew up with and that he has a \"personal relationship with every song.\"",
+      "parentId": 8,
       "sourceTitle": "Kenny Rogers – Bio",
-      "text": "Recently, Rogers released an album of gospel songs called . He sold it as a collection of religious songs that he grew up with and that he has a \"personal relationship with every song.\""
+      "sourceUrl": "http://www.kennyrogers.com/index.htm?id=15750"
     },
     {
-      "type": "sentence",
-      "text": "The song list includes such Christian standards as \"Amazing Grace,\" \"The Rock of Your Love,\" and \"Grace.\" And though it is clearly Christian-inspired, it still seems rather soft on dogma. As one reviewer put it:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "The song list includes such Christian standards as \"Amazing Grace,\" \"The Rock of Your Love,\" and \"Grace.\" And though it is clearly Christian-inspired, it still seems rather soft on dogma. As one reviewer put it:",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.roughstock.com/reviews/kenny-rogers-the-love-of-god",
-      "sourceTitle": "Kenny Rogers – The Love of God",
-      "text": "These songs reflect more of a personal relationship with God… You may not agree with his theology, nor would you want to take it on as your own, but you will never feel threatened by it either."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "These songs reflect more of a personal relationship with God… You may not agree with his theology, nor would you want to take it on as your own, but you will never feel threatened by it either.",
+      "sourceTitle": "Kenny Rogers – The Love of God",
+      "sourceUrl": "http://www.roughstock.com/reviews/kenny-rogers-the-love-of-god"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "It all amounts to a sort of soft, unspecific, shapeless spirituality. While Rogers definitely identifies with Christianity, it appears to be only a minor part of his life."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "Gotta Know When to Walk Away"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtonpost.com/blogs/post-politics/post/with-kenny-rogers-nod-george-hw-bush-endorses-romney-in-houston/2012/03/29/gIQAHgmnjS_blog.html",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Rogers' political views are even more cloudy than his religious views. We've got very little to go on. There will undoubtedly be objections by the Hollowverse's Republican/conservative readers to what I'm about to say, as Kenny is a favorite among Republicans. George H. W. Bush sings his songs during interviews,",
       "sourceTitle": "With Kenny Rogers nod, George H.W. Bush endorses Romney in Houston",
-      "text": "Rogers' political views are even more cloudy than his religious views. We've got very little to go on. There will undoubtedly be objections by the Hollowverse's Republican/conservative readers to what I'm about to say, as Kenny is a favorite among Republicans. George H. W. Bush sings his songs during interviews,"
+      "sourceUrl": "http://www.washingtonpost.com/blogs/post-politics/post/with-kenny-rogers-nod-george-hw-bush-endorses-romney-in-houston/2012/03/29/gIQAHgmnjS_blog.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://economix.blogs.nytimes.com/2010/12/02/the-kenny-rogers-theory-of-the-bush-tax-cuts/",
+      "type": "text",
+      "text": "his songs are cited as the foundation of Republican economic theory at times",
+      "parentId": 13,
       "sourceTitle": "The Kenny Rogers Theory of the Bush Tax Cuts",
-      "text": "his songs are cited as the foundation of Republican economic theory at times"
+      "sourceUrl": "http://economix.blogs.nytimes.com/2010/12/02/the-kenny-rogers-theory-of-the-bush-tax-cuts/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://au.answers.yahoo.com/question/index?qid=20091222152103AA2G7rK",
+      "type": "text",
+      "text": "and Internet rumors generally peg Rogers as a supporter of the Republican Party.",
+      "parentId": 13,
       "sourceTitle": "Is Kenny Rogers (the country singer) a Republican or Democrat supporter?",
-      "text": "and Internet rumors generally peg Rogers as a supporter of the Republican Party."
+      "sourceUrl": "http://au.answers.yahoo.com/question/index?qid=20091222152103AA2G7rK"
     },
     {
-      "type": "sentence",
-      "text": "Not to mention he's from one of the most Republican state in the U.S."
+      "type": "text",
+      "text": "Not to mention he's from one of the most Republican state in the U.S.",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Kenny_Rogers.php",
+      "parentId": 14,
+      "type": "text",
+      "text": "But we're going to have to call him a Democrat, if for no other reason than his only two political campaign donations were to a Democrat, a Mr. Birch E Bayh, Jr., who ran for U.S. Congress out of Indiana in 1980 on the Democratic ticket.",
       "sourceTitle": "Kenny Rogers' Federal Campaign Contribution Report",
-      "text": "But we're going to have to call him a Democrat, if for no other reason than his only two political campaign donations were to a Democrat, a Mr. Birch E Bayh, Jr., who ran for U.S. Congress out of Indiana in 1980 on the Democratic ticket."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Kenny_Rogers.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "So… let's hear your thoughts."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

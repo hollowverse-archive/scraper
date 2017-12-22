@@ -34,138 +34,235 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Robert De Niro was born and raised in Manhattan, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pd/Robert_DeNiro.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "De Niro's father was raised a Catholic, but when little Robbie was two years old, his father announced that he was gay and his parents got a divorce. His mother was raised Presbyterian but quickly confirmed that she was an atheist upon adulthood. De Niro's parents did not want him baptized into the Catholic Church, but during their divorce, he stayed with his devoutly Catholic grandparents who had him baptized in secret.",
       "sourceTitle": "The religion of Robert De Niro, actor",
-      "text": "De Niro's father was raised a Catholic, but when little Robbie was two years old, his father announced that he was gay and his parents got a divorce. His mother was raised Presbyterian but quickly confirmed that she was an atheist upon adulthood. De Niro's parents did not want him baptized into the Catholic Church, but during their divorce, he stayed with his devoutly Catholic grandparents who had him baptized in secret."
+      "sourceUrl": "http://www.adherents.com/people/pd/Robert_DeNiro.html"
     },
     {
-      "type": "sentence",
-      "text": "It's safe to say that if De Niro is anything, he's a Catholic, but he doesn't seem to practice and he doesn't want to talk about it."
+      "type": "text",
+      "text": "It's safe to say that if De Niro is anything, he's a Catholic, but he doesn't seem to practice and he doesn't want to talk about it.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000134/bio",
+      "parentId": 3,
+      "type": "text",
+      "text": "De Niro is a private man. He doesn't like to be interviewed and on the rare occasions that he does grant an interview, reporters are given a list of off-limit topics, which includes religion, politics, his family, or wine (which he apparently loves).",
       "sourceTitle": "Robert De Niro – Biography",
-      "text": "De Niro is a private man. He doesn't like to be interviewed and on the rare occasions that he does grant an interview, reporters are given a list of off-limit topics, which includes religion, politics, his family, or wine (which he apparently loves)."
+      "sourceUrl": "http://www.imdb.com/name/nm0000134/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "text": "Still, De Niro has played a disproportionate amount of Catholic characters in his movies, likely due to his association with devout Catholic director Martin Scorsese. De Niro once even played a Catholic priest in the film , which was hailed by Catholics as an honest and complimentary portrayal of a man of the cloth. But he didn't want to play Jesus in Scorsese's , saying:"
+      "parentId": 4,
+      "type": "text",
+      "text": "Still, De Niro has played a disproportionate amount of Catholic characters in his movies, likely due to his association with devout Catholic director Martin Scorsese. De Niro once even played a Catholic priest in the film"
     },
     {
-      "type": "break"
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "The Mission"
+    },
+    {
+      "type": "text",
+      "text": ", which was hailed by Catholics as an honest and complimentary portrayal of a man of the cloth. But he didn't want to play Jesus in Scorsese's",
+      "parentId": 4
+    },
+    {
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "The Last Temptation of Christ"
+    },
+    {
+      "type": "text",
+      "text": ", saying:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pd/Robert_DeNiro.html",
-      "sourceTitle": "The religion of Robert De Niro, actor",
-      "text": "was something I was never interested in doing. But I did tell [Scorsese], 'If you really have a problem, if you really want to do it, and you need me, I'll do it. If you're against the wall and have no other way, I'll do it as a friend."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "Last Temptation"
+    },
+    {
+      "type": "text",
+      "text": "was something I was never interested in doing. But I did tell [Scorsese], 'If you really have a problem, if you really want to do it, and you need me, I'll do it. If you're against the wall and have no other way, I'll do it as a friend.",
+      "parentId": 6,
+      "sourceTitle": "The religion of Robert De Niro, actor",
+      "sourceUrl": "http://www.adherents.com/people/pd/Robert_DeNiro.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Eventually, Scorsese got Willem Dafoe to play Christ, but it did bring up questions as to De Niro's true feelings about religion. Does he possibly find it objectionable. He did once say:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000134/bio",
-      "sourceTitle": "Robert De Niro – Biography",
-      "text": "If there is a God he has a lot to answer for."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "If there is a God he has a lot to answer for.",
+      "sourceTitle": "Robert De Niro – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0000134/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "So it's reasonable to assume that first, De Niro questions the existence of God and second, he questions the omni-benevolence of God. I'm going to call him an agnostic, though he might be full-blown atheist."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "Is there an Italian Party?"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.latimes.com/2004/aug/14/entertainment/et-deniro14",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "De Niro has been granted honorary Italian citizenship,",
       "sourceTitle": "Italy to Robert De Niro: You're Family",
-      "text": "De Niro has been granted honorary Italian citizenship,"
+      "sourceUrl": "http://articles.latimes.com/2004/aug/14/entertainment/et-deniro14"
     },
     {
-      "type": "sentence",
-      "text": "so his loyalties don't only lie in U.S. politics. Though he's not known to get involved in Italian or EU politics."
+      "type": "text",
+      "text": "so his loyalties don't only lie in U.S. politics. Though he's not known to get involved in Italian or EU politics.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Robert_Deniro.php",
+      "parentId": 13,
+      "type": "text",
+      "text": "He has been known to get heavily involved in U.S. politics, however, and when he does it is only for the Democratic Party. In his lifetime, De Niro has donated over $70,000 to the Democratic Party.",
       "sourceTitle": "Robert DeNiro's Federal Campaign Contribution Report",
-      "text": "He has been known to get heavily involved in U.S. politics, however, and when he does it is only for the Democratic Party. In his lifetime, De Niro has donated over $70,000 to the Democratic Party."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Robert_Deniro.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000134/bio",
+      "type": "text",
+      "text": "But that's not all. De Niro campaigns for his favorite candidates. He's officially endorsed Al Gore in 2000, John Kerry in 2004, and Obama in 2008. During the Clinton \"Monicagate\" scandal, De Niro even lobbied Congress to not impeach the president.",
+      "parentId": 13,
       "sourceTitle": "Robert De Niro – Biography",
-      "text": "But that's not all. De Niro campaigns for his favorite candidates. He's officially endorsed Al Gore in 2000, John Kerry in 2004, and Obama in 2008. During the Clinton \"Monicagate\" scandal, De Niro even lobbied Congress to not impeach the president."
+      "sourceUrl": "http://www.imdb.com/name/nm0000134/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "In 2008, De Niro spoke at an Obama rally, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/us-election/8474850/You-talkin-to-me-Donald-Trump-picks-fight-with-Robert-De-Niro.html#",
-      "sourceTitle": "You talkin' to me? Donald Trump picks fight with Robert De Niro",
-      "text": "I've never made a speech like this at a political event before. So, what am I doing here? Finally, one person has inspired me. Guess who."
+      "id": 15
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "I've never made a speech like this at a political event before. So, what am I doing here? Finally, one person has inspired me. Guess who.",
+      "sourceTitle": "You talkin' to me? Donald Trump picks fight with Robert De Niro",
+      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/us-election/8474850/You-talkin-to-me-Donald-Trump-picks-fight-with-Robert-De-Niro.html#"
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Obama, that's who!"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "Still an Obama supporter in 2012, De Niro got himself into a little hot water and was called a racist by Republican presidential candidates–particularly Newt Gingrich–when he said at an Obama fundraiser:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://content.usatoday.com/communities/theoval/post/2012/03/de-niro-apologizes-for-joke-about-white-first-lady/1#.T-R9Pb_Nob0",
+      "id": 19
+    },
+    {
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "Callista Gingrich, Karen Santorum, Ann Romney. Now do you really think our country is ready for a white first lady?",
       "sourceTitle": "De Niro apologizes for joke about 'white first lady.'",
-      "text": "Callista Gingrich, Karen Santorum, Ann Romney. Now do you really think our country is ready for a white first lady?"
+      "sourceUrl": "http://content.usatoday.com/communities/theoval/post/2012/03/de-niro-apologizes-for-joke-about-white-first-lady/1#.T-R9Pb_Nob0"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "Can someone tell me what that even means?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

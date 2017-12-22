@@ -33,125 +33,217 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Joyce Meyer, born Pauline Joyce Hutchison, was born and raised in St. Louis, Missouri."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rickross.com/reference/meyer/meyer9.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Meyer is what's called a"
+    },
+    {
+      "parentId": 2,
+      "type": "link",
+      "text": "Charismatic Christian",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Charismatic_Christianity"
+    },
+    {
+      "type": "text",
+      "text": ", meaning she believes that the Holy Spirit guides her and fills her with euphoric feelings. Meyer was a victim of a range of abuses as a child and an adult. She was surrounded by alcoholism and was even sucked into it herself to some extent. It was a moment of providence in the 1960s, after a trip to a beauty salon and in a bowling alley that turned Meyer into the religious",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "tour de force"
+    },
+    {
+      "type": "text",
+      "text": "she is today.",
+      "parentId": 2,
       "sourceTitle": "Meyer traces her fervor to early abuse, alcohol",
-      "text": "Meyer is what's called a , meaning she believes that the Holy Spirit guides her and fills her with euphoric feelings. Meyer was a victim of a range of abuses as a child and an adult. She was surrounded by alcoholism and was even sucked into it herself to some extent. It was a moment of providence in the 1960s, after a trip to a beauty salon and in a bowling alley that turned Meyer into the religious  she is today."
+      "sourceUrl": "http://www.rickross.com/reference/meyer/meyer9.html"
     },
     {
-      "type": "sentence",
-      "text": "She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.rickross.com/reference/meyer/meyer9.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "[God filled me] full of liquid love… [I] felt almost drunk with the spirit of God.",
       "sourceTitle": "Meyer traces her fervor to early abuse, alcohol",
-      "text": "[God filled me] full of liquid love… [I] felt almost drunk with the spirit of God."
+      "sourceUrl": "http://www.rickross.com/reference/meyer/meyer9.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0583218/bio",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Now, decades later, Meyer has worked her way from humble Bible teacher to, as Time Magazine put it, one of the most influential evangelical leaders in America.",
       "sourceTitle": "Joyce Meyer – Biography",
-      "text": "Now, decades later, Meyer has worked her way from humble Bible teacher to, as Time Magazine put it, one of the most influential evangelical leaders in America."
+      "sourceUrl": "http://www.imdb.com/name/nm0583218/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0583218/bio",
+      "type": "text",
+      "text": "She is the author of dozens of religious-themed self-help books and a recipient of three honorary doctorate degrees in theology.",
+      "parentId": 5,
       "sourceTitle": "Joyce Meyer – Biography",
-      "text": "She is the author of dozens of religious-themed self-help books and a recipient of three honorary doctorate degrees in theology."
+      "sourceUrl": "http://www.imdb.com/name/nm0583218/bio"
     },
     {
-      "type": "sentence",
-      "text": "She has said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She has said:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0583218/bio",
-      "sourceTitle": "Joyce Meyer – Biography",
-      "text": "I am radically, insanely, nutty in love with Jesus! He has set me free!"
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.trinityfi.org/press/JoyceMeyer1.html",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I am radically, insanely, nutty in love with Jesus! He has set me free!",
+      "sourceTitle": "Joyce Meyer – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0583218/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "In classic televangelist style, Meyer has been the subject of much scrutiny over her luxurious lifestyle, which includes traveling the world in her private jet, her fleet of luxury vehicles and her millions in real estate.",
       "sourceTitle": "Joyce Meyer",
-      "text": "In classic televangelist style, Meyer has been the subject of much scrutiny over her luxurious lifestyle, which includes traveling the world in her private jet, her fleet of luxury vehicles and her millions in real estate."
+      "sourceUrl": "http://www.trinityfi.org/press/JoyceMeyer1.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rickross.com/reference/meyer/meyer1.html",
+      "type": "text",
+      "text": "So excessive is her lifestyle that her TV program,",
+      "parentId": 8
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "Life of the World"
+    },
+    {
+      "type": "text",
+      "text": ", was dropped by its programmers because they felt that Meyer's \"lavish lifestyle\" and teachings that go \"beyond scripture\" were inappropriate.",
+      "parentId": 8,
       "sourceTitle": "Meyer's ministry withdraws program from Channel 24",
-      "text": "So excessive is her lifestyle that her TV program, , was dropped by its programmers because they felt that Meyer's \"lavish lifestyle\" and teachings that go \"beyond scripture\" were inappropriate."
+      "sourceUrl": "http://www.rickross.com/reference/meyer/meyer1.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianpost.com/news/grassley-concludes-senate-probe-of-prosperity-televangelists-48383/",
+      "type": "text",
+      "text": "Furthermore, Meyer's finances were investigated by a U.S. Senate committee, though she was cleared of any wrongdoing.",
+      "parentId": 8,
       "sourceTitle": "Grassley Concludes Senate Probe of 'Prosperity' Televangelists",
-      "text": "Furthermore, Meyer's finances were investigated by a U.S. Senate committee, though she was cleared of any wrongdoing."
+      "sourceUrl": "http://www.christianpost.com/news/grassley-concludes-senate-probe-of-prosperity-televangelists-48383/"
     },
     {
-      "type": "sentence",
-      "text": "Meyer's response:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Meyer's response:",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.trinityfi.org/press/JoyceMeyer1.html",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "If you stay in your faith, you are going to get paid. I'm living now in my reward.",
       "sourceTitle": "Joyce Meyer",
-      "text": "If you stay in your faith, you are going to get paid. I'm living now in my reward."
+      "sourceUrl": "http://www.trinityfi.org/press/JoyceMeyer1.html"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Not-so-neutral neutrality"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rickross.com/reference/meyer/meyer23.html",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Like any savvy religious leader, Meyer knows that an explicit political position would probably cost her–followers and money. So, she keeps her views private, though she does tell her parishioners to vote \"godly,\" and to get out there and vote. But she won't tell you who to vote for.",
       "sourceTitle": "Interview With Joyce Meyer",
-      "text": "Like any savvy religious leader, Meyer knows that an explicit political position would probably cost her–followers and money. So, she keeps her views private, though she does tell her parishioners to vote \"godly,\" and to get out there and vote. But she won't tell you who to vote for."
+      "sourceUrl": "http://www.rickross.com/reference/meyer/meyer23.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.joycemeyer.org/America.aspx",
+      "parentId": 14,
+      "type": "text",
+      "text": "However, her husband, Dave Meyer, travels with her to her speaking engagements, playing \"opening act\" in which he talks about \"patriotism.\" His corner of Meyer's website is full of language like \"voice our disapproval of ungodliness,\" \"immorality has taken center stage while our Christian heritage has fallen by the wayside,\" and \"keep America a free and godly nation.\"",
       "sourceTitle": "America – Politics – Patriotism",
-      "text": "However, her husband, Dave Meyer, travels with her to her speaking engagements, playing \"opening act\" in which he talks about \"patriotism.\" His corner of Meyer's website is full of language like \"voice our disapproval of ungodliness,\" \"immorality has taken center stage while our Christian heritage has fallen by the wayside,\" and \"keep America a free and godly nation.\""
+      "sourceUrl": "http://www.joycemeyer.org/America.aspx"
     },
     {
-      "type": "sentence",
-      "text": "These are the watermarks of Christian Conservatism."
+      "type": "text",
+      "text": "These are the watermarks of Christian Conservatism.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ethicsdaily.com/conservative-christian-leaders-plot-to-replace-obama-cms-17004",
+      "parentId": 15,
+      "type": "text",
+      "text": "But if that's not enough to convince you, there's that little meeting of America's top Christian leaders in Dallas in 2010, the purpose of which was to band together to topple Obama's reelection efforts.",
       "sourceTitle": "Conservative Christians Leaders Plot to Replace Obama",
-      "text": "But if that's not enough to convince you, there's that little meeting of America's top Christian leaders in Dallas in 2010, the purpose of which was to band together to topple Obama's reelection efforts."
+      "sourceUrl": "http://www.ethicsdaily.com/conservative-christian-leaders-plot-to-replace-obama-cms-17004"
     },
     {
-      "type": "sentence",
-      "text": "Too bad for them that it didn't pan out."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Too bad for them that it didn't pan out.",
+      "parentId": 15
     }
   ],
   "wikipediaData": {

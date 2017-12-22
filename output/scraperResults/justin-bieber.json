@@ -34,117 +34,185 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Justin Bieber was born in London, Ontario, Canada and grew up in Stratford, Ontario Canada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "He's quite religious, much like his Disney-promoted counterparts Selena Gomez and Miley Cyrus and the like. He's a devout Christian, likely adhering to some Protestant denomination–though he is home-schooled as his demanding touring, appearances, and recording schedule don't allow him to participate fully in school or church. He has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.ivillage.com/justin-bieber-talks-jesus-and-marriage/1-a-294985",
-      "sourceTitle": "Justin Biieber Talks Jesus and Marriage",
-      "text": "I'm a Christian, I believe in God, I believe that Jesus died on a cross for my sins. I believe that I have a relationship and I'm able to talk to him and really, he's the reason I'm here."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I'm a Christian, I believe in God, I believe that Jesus died on a cross for my sins. I believe that I have a relationship and I'm able to talk to him and really, he's the reason I'm here.",
+      "sourceTitle": "Justin Biieber Talks Jesus and Marriage",
+      "sourceUrl": "http://www.ivillage.com/justin-bieber-talks-jesus-and-marriage/1-a-294985"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "His devout religiosity seems to dictate his social views, taking the generic Christian stance against things like homosexuality and abortion. He feels homosexuality is a choice (which would imply that gays could be reformed) and feels that abortion is never justified, even in cases of rape. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.pinknews.co.uk/2011/02/17/justin-bieber-being-gay-is-a-decision-and-abortion-is-wrong-even-as-a-result-of-rape/",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I really don't believe in abortion. I think [an embryo] is a human. It's like killing a baby.",
       "sourceTitle": "Justin Bieber: being gay is a decision and abortion is wrong",
-      "text": "I really don't believe in abortion. I think [an embryo] is a human. It's like killing a baby."
+      "sourceUrl": "http://www.pinknews.co.uk/2011/02/17/justin-bieber-being-gay-is-a-decision-and-abortion-is-wrong-even-as-a-result-of-rape/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pinknews.co.uk/2011/02/17/justin-bieber-being-gay-is-a-decision-and-abortion-is-wrong-even-as-a-result-of-rape/",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Justifying his stance on abortion in the case of rape, Bieber said that \"everything happens for a reason.\"",
       "sourceTitle": "Justin Bieber: being gay is a decision and abortion is wrong",
-      "text": "Justifying his stance on abortion in the case of rape, Bieber said that \"everything happens for a reason.\""
+      "sourceUrl": "http://www.pinknews.co.uk/2011/02/17/justin-bieber-being-gay-is-a-decision-and-abortion-is-wrong-even-as-a-result-of-rape/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "O.K…"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Politics \"A\""
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Bieber is a Canadian and a proud one at that. He has said that he won't even consider U.S. citizenship because Canada is a much better country, saying of Americans:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.rollingstone.com/music/news/justin-bieber-talks-sex-politics-music-and-puberty-in-new-rolling-stone-cover-story-20110216",
-      "sourceTitle": "Justin Bieber Talks Sex, Politics, Music and Puberty In New 'Rolling Stone' Cover Story",
-      "text": "You guys are evil. Canada's the best country in the world. We go to the doctor and we don't need to worry about paying him, but here, your whole life, you're broke because of medical bills. My bodyguard's baby was premature, and now he has to pay for it. In Canada, if your baby's premature, he stays in the hospital as long as he needs to, and then you go home."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "You guys are evil. Canada's the best country in the world. We go to the doctor and we don't need to worry about paying him, but here, your whole life, you're broke because of medical bills. My bodyguard's baby was premature, and now he has to pay for it. In Canada, if your baby's premature, he stays in the hospital as long as he needs to, and then you go home.",
+      "sourceTitle": "Justin Bieber Talks Sex, Politics, Music and Puberty In New 'Rolling Stone' Cover Story",
+      "sourceUrl": "http://www.rollingstone.com/music/news/justin-bieber-talks-sex-politics-music-and-puberty-in-new-rolling-stone-cover-story-20110216"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Well, alright. Admittedly, Canada's health care system seems pretty cool."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "But our little Biebster doesn't really seem to know much about politics at all. When asked about political parties, he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.rollingstone.com/music/news/justin-bieber-talks-sex-politics-music-and-puberty-in-new-rolling-stone-cover-story-20110216",
-      "sourceTitle": "Justin Bieber Talks Sex, Politics, Music and Puberty In New 'Rolling Stone' Cover Story",
-      "text": "I'm not sure about the parties. But whatever they have in Korea, that's bad."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I'm not sure about the parties. But whatever they have in Korea, that's bad.",
+      "sourceTitle": "Justin Bieber Talks Sex, Politics, Music and Puberty In New 'Rolling Stone' Cover Story",
+      "sourceUrl": "http://www.rollingstone.com/music/news/justin-bieber-talks-sex-politics-music-and-puberty-in-new-rolling-stone-cover-story-20110216"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "That is just hilarious. Yes, I'm turning in my \"Korean Party Card\" now Justin. Does that please you?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.itgetsbetter.org/",
+      "parentId": 19,
+      "type": "text",
+      "text": "Somewhat confusingly, one of Justin's charity projects is an organization called It Gets Better. Its goal is to prevent gays and lesbians from committing suicide",
       "sourceTitle": "It Gets Better Project",
-      "text": "Somewhat confusingly, one of Justin's charity projects is an organization called It Gets Better. Its goal is to prevent gays and lesbians from committing suicide"
+      "sourceUrl": "http://www.itgetsbetter.org/"
     },
     {
-      "type": "sentence",
-      "text": "and seems to be associated with the anti-bullying programs sweeping the nation."
+      "type": "text",
+      "text": "and seems to be associated with the anti-bullying programs sweeping the nation.",
+      "parentId": 19
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "The question is: once we get them off the ledge, are they going straight to Michelle Bachmann's gay rehab clinic?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

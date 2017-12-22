@@ -36,105 +36,159 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Mariah Carey was born in Huffington, New York and grew up in various places in the New York City area."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.iamfan.com/~mariah_carey/mariah-carey-facts.htm",
+      "parentId": 2,
+      "type": "text",
+      "text": "She is Episcopalian",
       "sourceTitle": "Mariah Carey Facts",
-      "text": "She is Episcopalian"
+      "sourceUrl": "http://www.iamfan.com/~mariah_carey/mariah-carey-facts.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.romancestuck.com/wedding/celebrity/20-most-expensive-weddings.htm",
+      "type": "text",
+      "text": "and her first wedding was held at St. Thomas Episcopal Church on Manhattan's Fifth Avenue.",
+      "parentId": 2,
       "sourceTitle": "Most Expensive Celebrity Weddings",
-      "text": "and her first wedding was held at St. Thomas Episcopal Church on Manhattan's Fifth Avenue."
+      "sourceUrl": "http://www.romancestuck.com/wedding/celebrity/20-most-expensive-weddings.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Carey seems marginally religious, though doesn't go on and on about it. She has spoken about the benefits of prayer, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.christiantoday.com/article/mariah.carey.testifies.new.career.success.down.to.god/7171.htm",
-      "sourceTitle": "Mariah Carey Testifies New Career Success Down to God",
-      "text": "I feel the difference when I don't have my private moments to pray."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I feel the difference when I don't have my private moments to pray.",
+      "sourceTitle": "Mariah Carey Testifies New Career Success Down to God",
+      "sourceUrl": "http://www.christiantoday.com/article/mariah.carey.testifies.new.career.success.down.to.god/7171.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "She also credits God to helping her through rough times in her life, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.femalefirst.co.uk/celebrity/Mariah+Carey-11639.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "My whole life has been some form of struggle that I've had to go through. And I think the main thing is if you're in a good place, you put your trust in God and focus on your spirituality, everything will turn out the way it's supposed to.",
       "sourceTitle": "Mariah Carey: God Solves My Problems",
-      "text": "My whole life has been some form of struggle that I've had to go through. And I think the main thing is if you're in a good place, you put your trust in God and focus on your spirituality, everything will turn out the way it's supposed to."
+      "sourceUrl": "http://www.femalefirst.co.uk/celebrity/Mariah+Carey-11639.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://entertainment.malaysia.msn.com/photos/photoviewer.aspx?ucsort=4&cp-documentid=5070674&page=17",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Carey has found antagonists in the Muslim world for her sexually-charged performance and demeanor. She was the subject of much controversy when Malaysian authorities deemed her act \"moral degradation.\" She still performed there, only in jeans and a pink shirt.",
       "sourceTitle": "When Malaysia bans and censors artistes",
-      "text": "Carey has found antagonists in the Muslim world for her sexually-charged performance and demeanor. She was the subject of much controversy when Malaysian authorities deemed her act \"moral degradation.\" She still performed there, only in jeans and a pink shirt."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://entertainment.malaysia.msn.com/photos/photoviewer.aspx?ucsort=4&cp-documentid=5070674&page=17"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Quietly liberal"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Carey doesn't know much about politics, but at least she's woman enough to admit it. It might be why she has very little to say about political issues. However, speaking about the effect Obama's 2008 campaign had on her, she said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://shine.yahoo.com/fashion/exclusive-from-elle-mariah-carey-opens-up-about-race-politics-her-new-marriage-and-the-secrets-shes-had-to-keep-203604.html",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I can relate a lot to so many of the stories he tells. Clearly I am not the political analyst of the ages, but this is something that hits me on a deeper level than anything I've ever experienced growing up.",
       "sourceTitle": "Exclusive from ELLE: Mariah Carey opens up about race, politics, her new marriage and the secrets she's had to keep",
-      "text": "I can relate a lot to so many of the stories he tells. Clearly I am not the political analyst of the ages, but this is something that hits me on a deeper level than anything I've ever experienced growing up."
+      "sourceUrl": "http://shine.yahoo.com/fashion/exclusive-from-elle-mariah-carey-opens-up-about-race-politics-her-new-marriage-and-the-secrets-shes-had-to-keep-203604.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.wilshireandwashington.com/2012/03/star-donors-turn-out-for-obama-but-the-jurys-out-on-superpacs.html",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "She has stuck with Obama over the years and has even contributed to his 2012 campaign.",
       "sourceTitle": "Star Donors Turn Out for Obama, But the Jury's Still Out on SuperPac's",
-      "text": "She has stuck with Obama over the years and has even contributed to his 2012 campaign."
+      "sourceUrl": "http://www.wilshireandwashington.com/2012/03/star-donors-turn-out-for-obama-but-the-jurys-out-on-superpacs.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.city-data.com/elec2/08/elec-DANA-POINT-CA-08.html",
+      "parentId": 15,
+      "type": "text",
+      "text": "Speaking of contributions, Carey has made at least two donations to the hyper-liberal organization Moveon.org.",
       "sourceTitle": "DANA-POINT, California (CA) Political Contributions by Individuals",
-      "text": "Speaking of contributions, Carey has made at least two donations to the hyper-liberal organization Moveon.org."
+      "sourceUrl": "http://www.city-data.com/elec2/08/elec-DANA-POINT-CA-08.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://powerwall.msnbc.msn.com/politics/beyonce-mariah-carey-and-others-whove-performed-for-gadhafi-clan-9556.gallery",
+      "parentId": 16,
+      "type": "text",
+      "text": "One might question Carey's political sensitivity, though, as she is one of a short list of artists who has performed for human rights-violating, third-world dictators for quite a bit of money. In Carey's case, she performed for the Gadhafi family before they were overthrown by a NATO-backed popular uprising.",
       "sourceTitle": "Which Stars Have Performed For Dictators",
-      "text": "One might question Carey's political sensitivity, though, as she is one of a short list of artists who has performed for human rights-violating, third-world dictators for quite a bit of money. In Carey's case, she performed for the Gadhafi family before they were overthrown by a NATO-backed popular uprising."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://powerwall.msnbc.msn.com/politics/beyonce-mariah-carey-and-others-whove-performed-for-gadhafi-clan-9556.gallery"
     }
   ],
   "wikipediaData": {

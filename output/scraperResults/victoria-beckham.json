@@ -34,126 +34,187 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Victoria Beckham, originally Victoria Adams, was born in Harlow, Essex, England and grew up in Goffs Oak, Hertfordshire, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Beckham's religion seems to be up in the air. Perhaps she's searching for the right one. She has said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "I'm a very driven, ambitious, positive person. But I'm a spiritual person as well. I believe in creative visualization."
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "See, the motivation is there!"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.reuters.com/article/2007/07/10/us-beckham-idUSN1027150720070710",
+      "parentId": 6,
+      "type": "text",
+      "text": "Being British and all, it's highly likely Beckham has Anglican roots–and she was married in an Anglican ceremony.",
       "sourceTitle": "Victoria Beckham says no religion talk with stars",
-      "text": "Being British and all, it's highly likely Beckham has Anglican roots–and she was married in an Anglican ceremony."
+      "sourceUrl": "http://www.reuters.com/article/2007/07/10/us-beckham-idUSN1027150720070710"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "It was speculated that the Beckhams would find themselves Scientologists due to their highly-publicized friendship with Tom Cruise and Katie Holmes, but Beckham denied it, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://marquee.blogs.cnn.com/2010/10/07/victoria-beckham-on-tom-cruise-katie-holmes-and-scientology/",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "We aren't Scientologists. We really don't know very much about it. I mean, Tom and Katie – they've mentioned it to us. But, no, they didn't try to hook us and reel us in. It never really crops up.",
       "sourceTitle": "Victoria Beckham on TomKat and Scientology",
-      "text": "We aren't Scientologists. We really don't know very much about it. I mean, Tom and Katie – they've mentioned it to us. But, no, they didn't try to hook us and reel us in. It never really crops up."
+      "sourceUrl": "http://marquee.blogs.cnn.com/2010/10/07/victoria-beckham-on-tom-cruise-katie-holmes-and-scientology/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.boston.com/ae/celebrity/articles/2008/09/06/buddhist_victoria_beckham/",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "There have also been rumors that Victoria had gone Buddhist, but it appears to be hearsay.",
       "sourceTitle": "'Buddhist' Victoria Beckham",
-      "text": "There have also been rumors that Victoria had gone Buddhist, but it appears to be hearsay."
+      "sourceUrl": "http://www.boston.com/ae/celebrity/articles/2008/09/06/buddhist_victoria_beckham/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/danielle-berrin/victoria-beckhams-hebrew-_b_707804.html",
+      "parentId": 11,
+      "type": "text",
+      "text": "The evidence (though weak) seems to point to Judaism in one form or another. Beckham's husband, David, considers himself half-Jewish and Beckham put a tattoo marking their relationship on her neck–in Hebrew.",
       "sourceTitle": "Danielle Berrin: Victoria Beckha's Hebrew Tattoo: Marital Goodluck Charm?",
-      "text": "The evidence (though weak) seems to point to Judaism in one form or another. Beckham's husband, David, considers himself half-Jewish and Beckham put a tattoo marking their relationship on her neck–in Hebrew."
+      "sourceUrl": "http://www.huffingtonpost.com/danielle-berrin/victoria-beckhams-hebrew-_b_707804.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://celebrityreligion.typepad.com/celebrity_religion/2006/03/scientology_vs_.html",
+      "type": "text",
+      "text": "Plus, she was spotted with the notorious Kabbalah red string bracelet.",
+      "parentId": 11,
       "sourceTitle": "Scientology Vs Kabbalah; The Battle For Victoria Beckham's Soul",
-      "text": "Plus, she was spotted with the notorious Kabbalah red string bracelet."
+      "sourceUrl": "http://celebrityreligion.typepad.com/celebrity_religion/2006/03/scientology_vs_.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Oh dear, so many questions."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 13
     },
     {
-      "type": "heading",
+      "parentId": 13,
+      "type": "text",
       "text": "What's really important"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Beckham's politics are just as ambiguous as her religion. Maybe more so."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2179505/David-Beckham-dines-Victoria-Harper-ahead-Downing-Street-meeting-PM.html",
+      "parentId": 15,
+      "type": "text",
+      "text": "Considering she was, for quite some time, known as \"Posh\" or \"Posh Spice,\" one might consider her to be aligned with Britain's \"posh\" political party–the Tories, or Conservatives. And her husband has met with Conservative British Prime Minister David Cameron to discuss child hunger and poverty.",
       "sourceTitle": "David Beckham dines out with Victoria and Harper ahead of Downing Street Meeting with PM",
-      "text": "Considering she was, for quite some time, known as \"Posh\" or \"Posh Spice,\" one might consider her to be aligned with Britain's \"posh\" political party–the Tories, or Conservatives. And her husband has met with Conservative British Prime Minister David Cameron to discuss child hunger and poverty."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2179505/David-Beckham-dines-Victoria-Harper-ahead-Downing-Street-meeting-PM.html"
     },
     {
-      "type": "sentence",
-      "text": "But this doesn't necessarily mean Victoria is a supporter."
+      "type": "text",
+      "text": "But this doesn't necessarily mean Victoria is a supporter.",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Only adding to the confusion is Beckham's shout-out to the gay community. It seems supportive, like maybe she'd take a liberal view on social issues, but she really says nothing at all:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.dyertimes.com/taxonomy/term/101",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "All the men that like me are gay. It's true. I have a really strong gaydar. I do love gay men though.",
       "sourceTitle": "Victoria Beckham",
-      "text": "All the men that like me are gay. It's true. I have a really strong gaydar. I do love gay men though."
+      "sourceUrl": "http://www.dyertimes.com/taxonomy/term/101"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "If I'm totally wrong about Beckham, (that she seems to not really care about pressing political issues) feel free to chastise me unmercifully in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

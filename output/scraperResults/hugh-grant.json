@@ -32,120 +32,169 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Hugh Grant was born and raised in Hammersmith, London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "The well of information regarding Grant's religious views is about as dry as his wit. He has a long, English family heritage. One genealogist, Antony Adolph, said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.scotsman.com/news/stars-dig-up-surprises-with-their-ancestors-1-729532",
-      "sourceTitle": "Stars dig up surprises with their ancestors",
-      "text": "[Grant's family line is] a colorful Anglo-Scottish tapestry of warriors, empire-builders and aristocracy."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "[Grant's family line is] a colorful Anglo-Scottish tapestry of warriors, empire-builders and aristocracy.",
+      "sourceTitle": "Stars dig up surprises with their ancestors",
+      "sourceUrl": "http://www.scotsman.com/news/stars-dig-up-surprises-with-their-ancestors-1-729532"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Given that information, it's a safe bet that there is a strong Anglican influence in there. Most Brits wouldn't have been invited to all the empire-building and aristocracy without falling in line with the state religion."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cirencesterpeople.co.uk/Hugh-Grant-s-daughter-christened-little-church/story-15967569-detail/story.html",
+      "parentId": 6,
+      "type": "text",
+      "text": "There is some confirmation of this given the fact that Grant's daughter was baptized in a Church of England church house called St Mary's Church, Ampney St Mary, near Cirencester, England.",
       "sourceTitle": "Hugh Grant's daughter is christened at little church near Cirencester",
-      "text": "There is some confirmation of this given the fact that Grant's daughter was baptized in a Church of England church house called St Mary's Church, Ampney St Mary, near Cirencester, England."
+      "sourceUrl": "http://www.cirencesterpeople.co.uk/Hugh-Grant-s-daughter-christened-little-church/story-15967569-detail/story.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "But, we have to admit that given his fame quotient compared with his longevity, calculated against the fact that there's little to no spiritual information from Grant himself, he's probably not all that religious."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Charming, understated politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Grant doesn't seem to affiliate with any particular political party there in England. Much like his religious views, it's probably not something he spends much of his free time considering–unless he's directly affected. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000424/bio",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Am I a lefty? I'm not. I'm not a righty either. I drift.",
       "sourceTitle": "Hugh Grant – Biography",
-      "text": "Am I a lefty? I'm not. I'm not a righty either. I drift."
+      "sourceUrl": "http://www.imdb.com/name/nm0000424/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000424/bio",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "This was in response to Grant being asked about his pet political project–press regulation. Grant has, like most celebrities, been hounded by paparazzi and reporters trying to get something to dish about for most of his career. It didn't exactly help things when he was caught with a prostitute in Los Angeles,",
       "sourceTitle": "Hugh Grant – Biography",
-      "text": "This was in response to Grant being asked about his pet political project–press regulation. Grant has, like most celebrities, been hounded by paparazzi and reporters trying to get something to dish about for most of his career. It didn't exactly help things when he was caught with a prostitute in Los Angeles,"
+      "sourceUrl": "http://www.imdb.com/name/nm0000424/bio"
     },
     {
-      "type": "sentence",
-      "text": "resulting in his eventual breakup with longtime girlfriend, Elizabeth Hurley. The press had a field day with that one."
+      "type": "text",
+      "text": "resulting in his eventual breakup with longtime girlfriend, Elizabeth Hurley. The press had a field day with that one.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/media/2013/feb/08/phone-hacking-sarah-ferguson-hugh-grant",
+      "parentId": 13,
+      "type": "text",
+      "text": "And though that might be enough to justify his crusade, Grant was also the victim of the infamous News of the World phone hacking scandal. Between 2004 and 2011, Grant was mystified by how the press had come into possession of a shocking amount of private information about him, so much so that he contacted law enforcement and distanced himself from friends. As events unfolded and evidence came to light, it became clear that News of the World had been tapping phones and otherwise placing people of public interest under surveillance.",
       "sourceTitle": "Phone Hacking: Sarah Ferguson and Hugh Grant among 144 to win damages",
-      "text": "And though that might be enough to justify his crusade, Grant was also the victim of the infamous News of the World phone hacking scandal. Between 2004 and 2011, Grant was mystified by how the press had come into possession of a shocking amount of private information about him, so much so that he contacted law enforcement and distanced himself from friends. As events unfolded and evidence came to light, it became clear that News of the World had been tapping phones and otherwise placing people of public interest under surveillance."
+      "sourceUrl": "http://www.guardian.co.uk/media/2013/feb/08/phone-hacking-sarah-ferguson-hugh-grant"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/news/uknews/leveson-inquiry/9709726/Hugh-Grant-throws-down-the-gauntlet-to-David-Cameron-to-act-on-press-regulation.html",
+      "parentId": 14,
+      "type": "text",
+      "text": "Now, Grant lobbies for strict regulations of the British press through his organization, Hacked Off. It doesn't really matter what party a politician belongs to, he'll speak with them if he thinks they might advance his cause. He called on Conservative Prime Minister David Cameron to have \"courage\" and be a \"statesman\" by not caving to press pressures.",
       "sourceTitle": "Video: Hugh Grant throws down the gauntlet to David Cameron to act on press regulation",
-      "text": "Now, Grant lobbies for strict regulations of the British press through his organization, Hacked Off. It doesn't really matter what party a politician belongs to, he'll speak with them if he thinks they might advance his cause. He called on Conservative Prime Minister David Cameron to have \"courage\" and be a \"statesman\" by not caving to press pressures."
+      "sourceUrl": "http://www.telegraph.co.uk/news/uknews/leveson-inquiry/9709726/Hugh-Grant-throws-down-the-gauntlet-to-David-Cameron-to-act-on-press-regulation.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.libdemvoice.org/ldv-caption-competition-hugh-grant-and-nick-clegg-one-for-the-family-album-edition-25300.html",
+      "type": "text",
+      "text": "And he's taken his case to the Liberal Democrats",
+      "parentId": 14,
       "sourceTitle": "Hugh Grant and Nick Clegg \"one for the family album\" edition",
-      "text": "And he's taken his case to the Liberal Democrats"
+      "sourceUrl": "http://www.libdemvoice.org/ldv-caption-competition-hugh-grant-and-nick-clegg-one-for-the-family-album-edition-25300.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/politics/2011/sep/27/hugh-grant-conference-circuit",
+      "type": "text",
+      "text": "as well as the Labour Party.",
+      "parentId": 14,
       "sourceTitle": "Hugh, actually: Hacked Off campaigner is star attraction of conference circuit",
-      "text": "as well as the Labour Party."
+      "sourceUrl": "http://www.guardian.co.uk/politics/2011/sep/27/hugh-grant-conference-circuit"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/politics/2011/sep/27/hugh-grant-conference-circuit",
+      "parentId": 15,
+      "type": "text",
+      "text": "What's more, Grant is getting respect for his political contributions–even among the press for which he directs his ire.",
       "sourceTitle": "Hugh, actually: Hacked Off campaigner is star attraction of conference circuit",
-      "text": "What's more, Grant is getting respect for his political contributions–even among the press for which he directs his ire."
+      "sourceUrl": "http://www.guardian.co.uk/politics/2011/sep/27/hugh-grant-conference-circuit"
     },
     {
-      "type": "sentence",
-      "text": "That's no small task."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "That's no small task.",
+      "parentId": 15
     }
   ],
   "wikipediaData": {

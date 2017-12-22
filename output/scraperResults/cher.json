@@ -35,133 +35,203 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Cher, whose real name is Cheryl Sarkisian, was born in El Centro, California and raised there and in Fresno, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Cher had a tumultuous childhood, where religion was probably not present–at least in any significant amount. New, she calls herself a Buddhist, though a self-proclaimed lazy one. She once admitted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://buddhistcelebrities.blogspot.com/2010/12/cher-lazy-buddhist.html",
-      "sourceTitle": "Cher, A Lazy Buddhist",
-      "text": "I am the worst Buddhist ever. I love reading it and saying the prayers, but I'm such a lazy-assed Buddhist. I meditate but only when I want to. I'm so stubborn. I don't like to be forced to do anything. If you try and force me, it's the wrong thing to do."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I am the worst Buddhist ever. I love reading it and saying the prayers, but I'm such a lazy-assed Buddhist. I meditate but only when I want to. I'm so stubborn. I don't like to be forced to do anything. If you try and force me, it's the wrong thing to do.",
+      "sourceTitle": "Cher, A Lazy Buddhist",
+      "sourceUrl": "http://buddhistcelebrities.blogspot.com/2010/12/cher-lazy-buddhist.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "But even though she doesn't give it her all–and is willing to admit it–Buddhism is the right religion for Cher. She says:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.tricycle.com/p/1881",
-      "sourceTitle": "Who's Buddhist Now? Cher! ",
-      "text": "I've played around with Buddhism for years. As corny as it sounds, the soul of the universe, everything that I need, I can find in its practice."
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cherworld.com/cher-news/inside-chers-hollywood-apartment/",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I've played around with Buddhism for years. As corny as it sounds, the soul of the universe, everything that I need, I can find in its practice.",
+      "sourceTitle": "Who's Buddhist Now? Cher!",
+      "sourceUrl": "http://www.tricycle.com/p/1881"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "It's possible that it's all an act and she really just likes Buddhist art. An expose of her Los Angeles apartment revealed 4,000 spare feet of Asian sculptures, furniture, and decor.",
       "sourceTitle": "Inside Cher's Hollywood Apartment",
-      "text": "It's possible that it's all an act and she really just likes Buddhist art. An expose of her Los Angeles apartment revealed 4,000 spare feet of Asian sculptures, furniture, and decor."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.cherworld.com/cher-news/inside-chers-hollywood-apartment/"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Do you believe in… politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Cher.php",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Cher is a longtime and active Democrat. She's donated $11,400 to the Democratic Party and left-leaning interest groups since 1988, when she threw her support behind Michael Dukakis.",
       "sourceTitle": "Cher's Federal Campaign Contribution Report",
-      "text": "Cher is a longtime and active Democrat. She's donated $11,400 to the Democratic Party and left-leaning interest groups since 1988, when she threw her support behind Michael Dukakis."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Cher.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=R5lGYw6hx_A",
+      "parentId": 11,
+      "type": "text",
+      "text": "More recently, Cher bucked Barack Obama in favor of Hillary Clinton in the 2008 Democratic primaries,",
       "sourceTitle": "Cher Talks About Hillary Clinton and Barack Obama",
-      "text": "More recently, Cher bucked Barack Obama in favor of Hillary Clinton in the 2008 Democratic primaries,"
+      "sourceUrl": "http://www.youtube.com/watch?v=R5lGYw6hx_A"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.politico.com/politico44/2012/06/julia-roberts-cher-fundraise-with-obama-125515.html",
+      "type": "text",
+      "text": "but when Obama got the nomination, she endorsed him and did so again during his 2012 re-election bid.",
+      "parentId": 11,
       "sourceTitle": "Julia Roberts, Cher fundraise with Obama",
-      "text": "but when Obama got the nomination, she endorsed him and did so again during his 2012 re-election bid."
+      "sourceUrl": "http://www.politico.com/politico44/2012/06/julia-roberts-cher-fundraise-with-obama-125515.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "But it's not just that Cher supports the Democrats, she's been a loud critic of conservative Republicans, particularly during the Bush administration. She once said, both condemning George W. Bush and addressing those who criticize celebrities for expressing their views:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.lyricsfreak.com/c/cher/biography.html",
-      "sourceTitle": "Cher – Biography",
-      "text": "You know, I think it's the duty of artists to say what they want, in favor or in opposition. Unfortunately, I think that… because of 9/11, if you say anything opposed to the [Bush] administration, somehow they've been able to wrap themselves in the flag, so that if you have any opposing viewpoint, you're unpatriotic."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "You know, I think it's the duty of artists to say what they want, in favor or in opposition. Unfortunately, I think that… because of 9/11, if you say anything opposed to the [Bush] administration, somehow they've been able to wrap themselves in the flag, so that if you have any opposing viewpoint, you're unpatriotic.",
+      "sourceTitle": "Cher – Biography",
+      "sourceUrl": "http://www.lyricsfreak.com/c/cher/biography.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "And when Mitt Romney won the Republican nomination for president, Cher hilariously tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thegatewaypundit.com/2012/05/its-time-for-obama-to-apologize-for-chers-awful-tweets/cher-nuts/",
-      "sourceTitle": "Cher Nuts",
-      "text": "If ROMNEY gets elected I don't know if I can breathe same air as Him & His Right Wing Racist Homophobic Women Hating Tea Bagger Masters."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "If ROMNEY gets elected I don't know if I can breathe same air as Him & His Right Wing Racist Homophobic Women Hating Tea Bagger Masters.",
+      "sourceTitle": "Cher Nuts",
+      "sourceUrl": "http://www.thegatewaypundit.com/2012/05/its-time-for-obama-to-apologize-for-chers-awful-tweets/cher-nuts/"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "Awesome."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thenewgay.net/2011/03/what-makes-a-gay-icon.html",
+      "parentId": 19,
+      "type": "text",
+      "text": "Cher is quite invested in the gay community as well. Not only is she an absolute goddess, having won numerous awards and accolades from LGBT organizations,",
       "sourceTitle": "What Makes a Gay Icon?",
-      "text": "Cher is quite invested in the gay community as well. Not only is she an absolute goddess, having won numerous awards and accolades from LGBT organizations,"
+      "sourceUrl": "http://thenewgay.net/2011/03/what-makes-a-gay-icon.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://gossiponthis.com/2011/05/10/chaz-bono-cher-daughter-son-talks-sex-change-oprah/",
+      "type": "text",
+      "text": "her daughter (now her son) is a transgender man,",
+      "parentId": 19,
       "sourceTitle": "Chaz Bono – Cher's Daughter Who Turned Into Her Son – Talks Sex Change On Oprah",
-      "text": "her daughter (now her son) is a transgender man,"
+      "sourceUrl": "http://gossiponthis.com/2011/05/10/chaz-bono-cher-daughter-son-talks-sex-change-oprah/"
     },
     {
-      "type": "sentence",
-      "text": "who has forced Cher to truly examine her feelings on homosexuality and caused her to become one of the gay community's most outspoken advocates for equality and fair treatment."
+      "type": "text",
+      "text": "who has forced Cher to truly examine her feelings on homosexuality and caused her to become one of the gay community's most outspoken advocates for equality and fair treatment.",
+      "parentId": 19
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "In short, Cher's about as liberal a Democrat as they come."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

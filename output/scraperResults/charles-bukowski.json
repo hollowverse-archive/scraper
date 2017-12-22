@@ -37,109 +37,196 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Charles Bukowski, born Heinrich Karl Bukowski, was born in Andernach, Germany and grew up in Baltimore, Maryland and Los Angeles, California. He died of leukemia in San Pedro, California in 1994."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Charles_Bukowski.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Bukowski's parents were Catholics,",
       "sourceTitle": "Charles Bukowski.",
-      "text": "Bukowski's parents were Catholics,"
+      "sourceUrl": "http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Charles_Bukowski.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/132/000057958/",
+      "type": "text",
+      "text": "but there's very little information regarding how devout they were and it didn't seem to have a lasting affect on Bukowski. He's widely cited as an atheist.",
+      "parentId": 2,
       "sourceTitle": "Charles Bukowski.",
-      "text": "but there's very little information regarding how devout they were and it didn't seem to have a lasting affect on Bukowski. He's widely cited as an atheist."
+      "sourceUrl": "http://www.nndb.com/people/132/000057958/"
     },
     {
-      "type": "sentence",
-      "text": "As far as I can tell, the reason for this designation comes from this quote:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "As far as I can tell, the reason for this designation comes from this quote:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/quotes/13733-for-those-who-believe-in-god-most-of-the-big",
-      "sourceTitle": "Quote by Charles Bukowski",
-      "text": "For those who believe in God, most of the big questions are answered. But for those of us who can't readily accept the God formula, the big answers don't remain stone-written. We adjust to new conditions and discoveries. We are pliable. Love need not be a command nor faith a dictum. I am my own god. We are here to unlearn the teachings of the church, state, and our educational system…"
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "For those who believe in God, most of the big questions are answered. But for those of us who can't readily accept the God formula, the big answers don't remain stone-written. We adjust to new conditions and discoveries. We are pliable. Love need not be a command nor faith a dictum. I am my own god. We are here to unlearn the teachings of the church, state, and our educational system…",
+      "sourceTitle": "Quote by Charles Bukowski",
+      "sourceUrl": "http://www.goodreads.com/quotes/13733-for-those-who-believe-in-god-most-of-the-big"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "It sounds atheist to me, maybe agnostic considering the line \"can't readily accept the God formula.\" It's sounds more like uncertainty than rejection."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://bukowskiquotes.com/2012/04/charles-bukowski-and-the-japanese-garden/",
+      "parentId": 6,
+      "type": "text",
+      "text": "Bukowski took an interest in Buddhism later in his life, as is evidenced by his poem,"
+    },
+    {
+      "parentId": 6,
+      "type": "link",
+      "text": "as Buddha smiles",
+      "sourceUrl": "http://thethrownrope.blogspot.com/2011/07/bukowski-buddhist.html"
+    },
+    {
+      "type": "text",
+      "text": "and the fact that he requested Buddhist monks officiate his funeral.",
+      "parentId": 6,
       "sourceTitle": "Charles Bukowski and the Japanese Garden",
-      "text": "Bukowski took an interest in Buddhism later in his life, as is evidenced by his poem,  and the fact that he requested Buddhist monks officiate his funeral."
+      "sourceUrl": "http://bukowskiquotes.com/2012/04/charles-bukowski-and-the-japanese-garden/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "Still, as with most things in life, it would seem Bukowski thought religion was a lie and a waste of time and energy."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Not at all interested"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Politics for Bukowski fell into a similar category. He asserted for the duration of his life that he was not at all interested in politics. When pressed, he would explain as follows:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://hightimes.com/entertainment/ht_admin/499",
-      "sourceTitle": "Charles Bukowski: Quotes of a Dirty Old Man",
-      "text": "There is no political motivation in me. I don't want to save the world, I don't want to make it a better place. I just want to live in it and talk about what happens. I don't want the whales to be saved, I don't want the nuclear plants to be broken down and taken away. Whatever is here, I am with it. I may say I don't like it, but I don't want to change it."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "There is no political motivation in me. I don't want to save the world, I don't want to make it a better place. I just want to live in it and talk about what happens. I don't want the whales to be saved, I don't want the nuclear plants to be broken down and taken away. Whatever is here, I am with it. I may say I don't like it, but I don't want to change it.",
+      "sourceTitle": "Charles Bukowski: Quotes of a Dirty Old Man",
+      "sourceUrl": "http://hightimes.com/entertainment/ht_admin/499"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "He seems to have seen politics as a whole as just a game, different names for different styles of controlling people. For example, of democracy, he said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 13
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/c/charles_bukowski.html?vm=l",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "The difference between a democracy and a dictatorship is that in a democracy you vote first and take orders later; in a dictatorship you don't have to waste your time voting.",
       "sourceTitle": "Charles Bukowski Quotes",
-      "text": "The difference between a democracy and a dictatorship is that in a democracy you vote first and take orders later; in a dictatorship you don't have to waste your time voting."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/c/charles_bukowski.html?vm=l"
     },
     {
-      "type": "sentence",
-      "text": "His \"fuck it all\" attitude was such that he even pretended to be a Nazi just to provoke his classmates during his college years. He wrote about the experience in this semi-autobiographical . The funniest part is that he gained some followers, then grew tired of the game:"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "break"
+      "parentId": 15,
+      "type": "text",
+      "text": "His \"fuck it all\" attitude was such that he even pretended to be a Nazi just to provoke his classmates during his college years. He wrote about the experience in this semi-autobiographical"
+    },
+    {
+      "parentId": 15,
+      "type": "link",
+      "text": "story",
+      "sourceUrl": "http://iate.oac.uncor.edu/~mario/politics.html"
+    },
+    {
+      "type": "text",
+      "text": ". The funniest part is that he gained some followers, then grew tired of the game:",
+      "parentId": 15
     },
     {
       "type": "quote",
-      "sourceUrl": "http://iate.oac.uncor.edu/~mario/politics.html",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "But I was losing interest. In fact, just before Pearl Harbor I gave it up. The fun had gone out of it. I felt the war was going to happen and I didn't feel much like going to war and I didn't feel much like being a conscientious objector either. It was catshit. It was useless. Me and my medium-sized cock were in trouble.",
       "sourceTitle": "\"POLITICS\" by Charles Bukowski",
-      "text": "But I was losing interest. In fact, just before Pearl Harbor I gave it up. The fun had gone out of it. I felt the war was going to happen and I didn't feel much like going to war and I didn't feel much like being a conscientious objector either. It was catshit. It was useless. Me and my medium-sized cock were in trouble."
+      "sourceUrl": "http://iate.oac.uncor.edu/~mario/politics.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "What a brilliant, sad, crazy man."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

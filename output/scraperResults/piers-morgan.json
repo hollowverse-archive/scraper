@@ -34,101 +34,173 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Piers Morgan, whose given name was Piers Stefan O'Meara, was born in Guildford, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/femail/article-1050530/Piers-Morgan-Why-I-tell-kids-I-did-drugs.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Morgan was brought up a Catholic",
       "sourceTitle": "Piers Morgan: Why I had to tell my kids I did drugs",
-      "text": "Morgan was brought up a Catholic"
+      "sourceUrl": "http://www.dailymail.co.uk/femail/article-1050530/Piers-Morgan-Why-I-tell-kids-I-did-drugs.html"
     },
     {
-      "type": "sentence",
-      "text": "and he still is a Catholic. He appears to be at least somewhat devout. Most of Morgan's religious views come out when he interviews atheists on his show, . For example, when talking with Ricky Gervais, he said:"
+      "type": "text",
+      "text": "and he still is a Catholic. He appears to be at least somewhat devout. Most of Morgan's religious views come out when he interviews atheists on his show,",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "Piers Morgan Tonight"
+    },
+    {
+      "type": "text",
+      "text": ". For example, when talking with Ricky Gervais, he said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://newsbusters.org/blogs/scott-whitlock/2011/01/22/cnns-piers-morgan-debates-atheist-ricky-gervais-declares-america-ver",
-      "sourceTitle": "CNN's Piers Morgan Debates Atheist Ricky Gervais, Declares America a 'Very Christian Nation.'",
-      "text": "I do believe, because I grew up a Catholic and I remain so. But, you know, I think everyone is entitled to their own beliefs, whatever they may be. The problem for atheists, it must be so doom and gloom. When you get to, like, 70, 80, to think, well, hang on, that's it. That's the end of everything."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I do believe, because I grew up a Catholic and I remain so. But, you know, I think everyone is entitled to their own beliefs, whatever they may be. The problem for atheists, it must be so doom and gloom. When you get to, like, 70, 80, to think, well, hang on, that's it. That's the end of everything.",
+      "sourceTitle": "CNN's Piers Morgan Debates Atheist Ricky Gervais, Declares America a 'Very Christian Nation.'",
+      "sourceUrl": "http://newsbusters.org/blogs/scott-whitlock/2011/01/22/cnns-piers-morgan-debates-atheist-ricky-gervais-declares-america-ver"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Or when he debated with Penn Jillette, said Jillette's book \"angered him,\" and continued with:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=2m3qYFKxmYo",
-      "sourceTitle": "Penn Jillette on Atheism and Religion + Piers Morgan's \"You Don't Know, Therefore Jesus\" Fallacy.",
-      "text": "I believe in this superior being, a God. And therefore, the questions which always baffle atheist, the hard reality of life, I believe there is something greater out there, there's a greater entity, which is a spiritual being that allows comprehension on a scale we could never understand."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I believe in this superior being, a God. And therefore, the questions which always baffle atheist, the hard reality of life, I believe there is something greater out there, there's a greater entity, which is a spiritual being that allows comprehension on a scale we could never understand.",
+      "sourceTitle": "Penn Jillette on Atheism and Religion + Piers Morgan's \"You Don't Know, Therefore Jesus\" Fallacy.",
+      "sourceUrl": "http://www.youtube.com/watch?v=2m3qYFKxmYo"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "These two rather intelligent atheists, who had probably heard these arguments time and time again, quickly countered with the obvious \"just because you don't know or understand something or you are afraid of death, why assume God or Christianity?\" argument. Morgan, while an intelligent man himself, is clearly not prepared to honestly debate religion vs. atheism. But his faith is strong."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Piers Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Morgan considers himself a journalist and tries to be objective. Whether or not he is objective (see previous quotes) might be a debate for another time. He has mostly been able to keep his political opinions to himself but occasionally slips and shows his rather liberal side. For example, in an interview with conservative evangelical Christian and former child star Kirk Cameron, Morgan asked what Cameron would say if one of his kid told him he was gay. Morgan then said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 11
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/03/03/kirk-cameron-piers-morgan-homosexuality-unnatural_n_1318430.html",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I'd say, 'That's great, son! As long as you're happy.'",
       "sourceTitle": "Kirk Cameron Tells Piers Morgan Homosexuality Is 'Unnatural,' 'Ultimately Destructive.'",
-      "text": "I'd say, 'That's great, son! As long as you're happy.'"
+      "sourceUrl": "http://www.huffingtonpost.com/2012/03/03/kirk-cameron-piers-morgan-homosexuality-unnatural_n_1318430.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmax.com/Limbaugh/Goldberg-Morgan-liberal-bias/2012/05/04/id/438056",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "He has also criticized conservatives for their criticism of Obama,",
       "sourceTitle": "Interview Reveals Morgan's Liberal Bias",
-      "text": "He has also criticized conservatives for their criticism of Obama,"
+      "sourceUrl": "http://www.newsmax.com/Limbaugh/Goldberg-Morgan-liberal-bias/2012/05/04/id/438056"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://hotair.com/archives/2012/03/06/michele-bachmann-and-piers-morgan-spar-about-gay-marriage/",
+      "type": "text",
+      "text": "he brow-beats conservative politicians on his show on social issues, such as Michele Bachmann on gay marriage.",
+      "parentId": 13,
       "sourceTitle": "Michele Bachmann and Piers Morgan spar about gay marriage",
-      "text": "he brow-beats conservative politicians on his show on social issues, such as Michele Bachmann on gay marriage."
+      "sourceUrl": "http://hotair.com/archives/2012/03/06/michele-bachmann-and-piers-morgan-spar-about-gay-marriage/"
     },
     {
-      "type": "sentence",
-      "text": ", and he sided with Obama and the Democrats and condemned Republicans for their opposition to tax increases for America's wealthiest citizens, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": ", and he sided with Obama and the Democrats and condemned Republicans for their opposition to tax increases for America's wealthiest citizens, saying:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://newsbusters.org/blogs/brent-baker/2011/07/26/cnn-s-piers-morgan-rails-against-republicans-not-compromising-slaps-ant",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Isn't it time you guys [Republicans] took one for the team, the team being America? …Most impartial observers outside of America say that is crazy, and you have got to change your attitude to this and allow some tax increases.",
       "sourceTitle": "CNN's Piers Morgan Rails Against Republicans for Not 'Compromising,' Slaps Anti-Tax Hike Stand as 'Crazy.'",
-      "text": "Isn't it time you guys [Republicans] took one for the team, the team being America? …Most impartial observers outside of America say that is crazy, and you have got to change your attitude to this and allow some tax increases."
+      "sourceUrl": "http://newsbusters.org/blogs/brent-baker/2011/07/26/cnn-s-piers-morgan-rails-against-republicans-not-compromising-slaps-ant"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=Nt4rGeSSF4U",
-      "sourceTitle": "Barackward: CNN's Piers Morgan Mocks Obama \"Documentary.\" ",
-      "text": "But Morgan, for the most part, tends to be an equal-opportunity condemner. For example, he got on one documentary filmmaker's case for not being able to find one thing he didn't like about Obama."
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "break"
+      "parentId": 16,
+      "type": "text",
+      "text": "But Morgan, for the most part, tends to be an equal-opportunity condemner. For example, he got on one documentary filmmaker's case for not being able to find one thing he didn't like about Obama.",
+      "sourceTitle": "Barackward: CNN's Piers Morgan Mocks Obama \"Documentary.\"",
+      "sourceUrl": "http://www.youtube.com/watch?v=Nt4rGeSSF4U"
     }
   ],
   "wikipediaData": {

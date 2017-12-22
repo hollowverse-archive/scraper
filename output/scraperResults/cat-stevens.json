@@ -37,165 +37,259 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Cat Stevens, who was born Steven Demetre Georgiou, and has since changed his name to Yusuf Islam, was born and raised in London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.salon.com/1999/08/14/cat_2/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Stevens' religious upbringing was undeniably Christian. His mother was a Swedish Baptist and his father was a Greek Orthodox Cypriot.",
       "sourceTitle": "Cat Stevens",
-      "text": "Stevens' religious upbringing was undeniably Christian. His mother was a Swedish Baptist and his father was a Greek Orthodox Cypriot."
+      "sourceUrl": "http://www.salon.com/1999/08/14/cat_2/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.salon.com/1999/08/14/cat_2/",
+      "type": "text",
+      "text": "It's not clear if one religion won out over the other, particularly as Stevens considered his upbringing \"isolated from both the English and the Greek community,\"",
+      "parentId": 2,
       "sourceTitle": "Cat Stevens",
-      "text": "It's not clear if one religion won out over the other, particularly as Stevens considered his upbringing \"isolated from both the English and the Greek community,\""
+      "sourceUrl": "http://www.salon.com/1999/08/14/cat_2/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.experienceproject.com/stories/Convert-To-True-Religion/143158",
+      "type": "text",
+      "text": "but Stevens has said that during his childhood, he \"more or less believed\" the tenets of Christianity.",
+      "parentId": 2,
       "sourceTitle": "Story of Cat Stevens: I Convert To True Religion Story & Experience",
-      "text": "but Stevens has said that during his childhood, he \"more or less believed\" the tenets of Christianity."
+      "sourceUrl": "http://www.experienceproject.com/stories/Convert-To-True-Religion/143158"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.experienceproject.com/stories/Convert-To-True-Religion/143158",
+      "parentId": 3,
+      "type": "text",
+      "text": "Then, in his 20s, Stevens had a bad case of Tuberculosis, was hospitalized and, as he put it, \"was fed up with Christianity.\"",
       "sourceTitle": "Story of Cat Stevens: I Convert To True Religion Story & Experience",
-      "text": "Then, in his 20s, Stevens had a bad case of Tuberculosis, was hospitalized and, as he put it, \"was fed up with Christianity.\""
+      "sourceUrl": "http://www.experienceproject.com/stories/Convert-To-True-Religion/143158"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.experienceproject.com/stories/Convert-To-True-Religion/143158",
+      "type": "text",
+      "text": "But any way you cut it, Stevens is a religious guy. It's like he has to be. His TB hospitalization began a period of Eastern, Buddhist and Occult spiritual experiments including Tarot card reading, numerology and astrology.",
+      "parentId": 3,
       "sourceTitle": "Story of Cat Stevens: I Convert To True Religion Story & Experience",
-      "text": "But any way you cut it, Stevens is a religious guy. It's like he has to be. His TB hospitalization began a period of Eastern, Buddhist and Occult spiritual experiments including Tarot card reading, numerology and astrology."
+      "sourceUrl": "http://www.experienceproject.com/stories/Convert-To-True-Religion/143158"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "In the mid-70s, Stevens brother gave him a copy of the Koran. Stevens said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.experienceproject.com/stories/Convert-To-True-Religion/143158",
-      "sourceTitle": "Story of Cat Stevens: I Convert To True Religion Story & Experience",
-      "text": "When I received the book, a guidance that would explain everything to me – who I was; what was the purpose of life; what was the reality and what would be the reality; and where I came from – I realized that this was the true religion."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "When I received the book, a guidance that would explain everything to me – who I was; what was the purpose of life; what was the reality and what would be the reality; and where I came from – I realized that this was the true religion.",
+      "sourceTitle": "Story of Cat Stevens: I Convert To True Religion Story & Experience",
+      "sourceUrl": "http://www.experienceproject.com/stories/Convert-To-True-Religion/143158"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Within two years, Stevens had changed his name to Yusuf Islam, began studying Islam in earnest and had completely bowed out of his music career. This choice, he said, was not because there is anything wrong with music, but because the environment that goes along with pop stardom is not conducive to Islamic recommendations:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.salon.com/1999/08/14/cat_2/",
-      "sourceTitle": "Cat Stevens",
-      "text": "I didn't read anything in the Koran against singing, but the Koran forbade a lot of things, like fornication and drinking. I thought, 'The music business is full of that.' It's very difficult to be a good Muslim when you're in that kind of world."
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.salon.com/1999/08/14/cat_2/",
-      "sourceTitle": "Cat Stevens",
-      "text": "In the late 90s, Stevens started releasing albums again, though they are now all overflowing with Muslim themes."
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
     },
     {
-      "type": "break"
+      "parentId": 9,
+      "type": "text",
+      "text": "I didn't read anything in the Koran against singing, but the Koran forbade a lot of things, like fornication and drinking. I thought, 'The music business is full of that.' It's very difficult to be a good Muslim when you're in that kind of world.",
+      "sourceTitle": "Cat Stevens",
+      "sourceUrl": "http://www.salon.com/1999/08/14/cat_2/"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "In the late 90s, Stevens started releasing albums again, though they are now all overflowing with Muslim themes.",
+      "sourceTitle": "Cat Stevens",
+      "sourceUrl": "http://www.salon.com/1999/08/14/cat_2/"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Sly as a Cat Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.experienceproject.com/stories/Convert-To-True-Religion/143158",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "During the late 60s, early 70s when Cat Stevens was becoming the legendary folk-pop singer we know him as today, (and during his Eastern religion phase), Stevens said he believed in 'peace and flower power.'",
       "sourceTitle": "Story of Cat Stevens: I Convert To True Religion Story & Experience",
-      "text": "During the late 60s, early 70s when Cat Stevens was becoming the legendary folk-pop singer we know him as today, (and during his Eastern religion phase), Stevens said he believed in 'peace and flower power.'"
+      "sourceUrl": "http://www.experienceproject.com/stories/Convert-To-True-Religion/143158"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.salon.com/1999/08/14/cat_2/",
+      "type": "text",
+      "text": "Furthermore, he was a hard-partying musician.",
+      "parentId": 12,
       "sourceTitle": "Cat Stevens",
-      "text": "Furthermore, he was a hard-partying musician."
+      "sourceUrl": "http://www.salon.com/1999/08/14/cat_2/"
     },
     {
-      "type": "sentence",
-      "text": "Combine all that and what have you got? A hippie–the quintessential personification of social liberalism."
+      "type": "text",
+      "text": "Combine all that and what have you got? A hippie–the quintessential personification of social liberalism.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.salon.com/1999/08/14/cat_2/",
+      "parentId": 13,
+      "type": "text",
+      "text": "But after the conversion, he took the sort of fundamentalist conservatism route, and advocated banning Salman Rushdie's book,"
+    },
+    {
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "The Satanic Versus"
+    },
+    {
+      "type": "text",
+      "text": ", for reasons of blasphemy.",
+      "parentId": 13,
       "sourceTitle": "Cat Stevens",
-      "text": "But after the conversion, he took the sort of fundamentalist conservatism route, and advocated banning Salman Rushdie's book, , for reasons of blasphemy."
+      "sourceUrl": "http://www.salon.com/1999/08/14/cat_2/"
     },
     {
-      "type": "sentence",
-      "text": "However, he's no extremist and was perhaps the first famous Muslim in the West to condemn 9/11. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "However, he's no extremist and was perhaps the first famous Muslim in the West to condemn 9/11. He said:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.takeonit.com/question/385.aspx",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "…no right-thinking follower of Islam could possibly condone such an action. The Qur'an equates the murder of one innocent person with the murder of the whole of humanity.",
       "sourceTitle": "Is Islam fundamentally a peaceful religion?",
-      "text": "…no right-thinking follower of Islam could possibly condone such an action. The Qur'an equates the murder of one innocent person with the murder of the whole of humanity."
+      "sourceUrl": "http://www.takeonit.com/question/385.aspx"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mtv.com/news/articles/1449389/cat-stevens-box-set-9-11-fund.jhtml",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "He then donated a portion of the sales of a boxed set to a 9/11 victims fund.",
       "sourceTitle": "Former Cat Stevens To Donate Some Box Set Royalties To September 11 Fund",
-      "text": "He then donated a portion of the sales of a boxed set to a 9/11 victims fund."
+      "sourceUrl": "http://www.mtv.com/news/articles/1449389/cat-stevens-box-set-9-11-fund.jhtml"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/entertainment/3679808.stm",
+      "parentId": 17,
+      "type": "text",
+      "text": "Nevertheless, Stevens was denied entry into the United States for being on some sort of \"watch list\" having to do with terrorist activity.",
       "sourceTitle": "Yusuf's return to musical roots",
-      "text": "Nevertheless, Stevens was denied entry into the United States for being on some sort of \"watch list\" having to do with terrorist activity."
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/entertainment/3679808.stm"
     },
     {
-      "type": "sentence",
-      "text": "He denied ever having any association to terrorist groups, but did call Israel a \"so-called society\" and Judaism a \"so-called religion\" and that all Muslims should help:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He denied ever having any association to terrorist groups, but did call Israel a \"so-called society\" and Judaism a \"so-called religion\" and that all Muslims should help:",
+      "parentId": 17
     },
     {
       "type": "quote",
-      "sourceUrl": "http://atheism.about.com/b/2004/10/12/cat-stevens-judaism-a-so-called-religion.htm",
-      "sourceTitle": "Cat Stevens: Judaism a \"so-called Religion.\"",
-      "text": "…lessen the suffering of our brothers and sisters in Palestine and the Holy Land."
+      "id": 18
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "…lessen the suffering of our brothers and sisters in Palestine and the Holy Land.",
+      "sourceTitle": "Cat Stevens: Judaism a \"so-called Religion.\"",
+      "sourceUrl": "http://atheism.about.com/b/2004/10/12/cat-stevens-judaism-a-so-called-religion.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "In the end, Stevens politics are his religion and his religion is his politics. He expressed a desire for a catch-all theocratic solution to life and society's problems, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 21
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://atheism.about.com/b/2004/10/12/cat-stevens-judaism-a-so-called-religion.htm",
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "No political concept or construct or treaty or agent except the laws of Allah, which he instructed for this world.",
       "sourceTitle": "Cat Stevens: Judaism a \"so-called Religion.\"",
-      "text": "No political concept or construct or treaty or agent except the laws of Allah, which he instructed for this world."
+      "sourceUrl": "http://atheism.about.com/b/2004/10/12/cat-stevens-judaism-a-so-called-religion.htm"
     }
   ],
   "wikipediaData": {

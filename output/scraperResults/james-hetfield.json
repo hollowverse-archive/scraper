@@ -35,145 +35,226 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "James Hetfield was born and raised in Downey, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0381723/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Hetfield was raised in a strict Christian Scientist home. Christian Scientists do not accept conventional medical care, rather, they feel that any ailment can and should be cured by God. Due to this, Hetfield's mother died of untreated cancer when he 16.",
       "sourceTitle": "James Hetfield (I) – Biography",
-      "text": "Hetfield was raised in a strict Christian Scientist home. Christian Scientists do not accept conventional medical care, rather, they feel that any ailment can and should be cured by God. Due to this, Hetfield's mother died of untreated cancer when he 16."
+      "sourceUrl": "http://www.imdb.com/name/nm0381723/bio"
     },
     {
-      "type": "sentence",
-      "text": "Hetfield, to this day, blames religion to some extent for the early death of his mother. He has said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Hetfield, to this day, blames religion to some extent for the early death of his mother. He has said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.rockvillemusicmagazine.com/2011/03/james-hetfield-fame-and-fortune-doesnt.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "You know, watching my mother wither away because of the rules of the \"religion\" was extremely difficult, and not being able to step up. Not even being able to say anything about it.",
       "sourceTitle": "James Hetfield: \"Fame and Fortune Doesn't Fill That Hole That A Father Leaves.\"",
-      "text": "You know, watching my mother wither away because of the rules of the \"religion\" was extremely difficult, and not being able to step up. Not even being able to say anything about it."
+      "sourceUrl": "http://www.rockvillemusicmagazine.com/2011/03/james-hetfield-fame-and-fortune-doesnt.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0381723/bio",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "The experience also inspired Hetfield to write the Metallica song \"The God That Failed.\"",
       "sourceTitle": "James Hetfield (I) – Biography",
-      "text": "The experience also inspired Hetfield to write the Metallica song \"The God That Failed.\""
+      "sourceUrl": "http://www.imdb.com/name/nm0381723/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebritysmackblog.com/2007/03/26/rock-stars-whove-caught-fire-onstage/",
+      "parentId": 6,
+      "type": "text",
+      "text": "It is clear that Hetfield no longer practices or adheres to the Christian Scientist faith if, for no other reason, he has obtained conventional medical treatment. The most famous instance being, perhaps, his treatment for third-degree burns obtained during the pyrotechnics of one of his concerts.",
       "sourceTitle": "Rock Stars Who've Caught Fire Onstage",
-      "text": "It is clear that Hetfield no longer practices or adheres to the Christian Scientist faith if, for no other reason, he has obtained conventional medical treatment. The most famous instance being, perhaps, his treatment for third-degree burns obtained during the pyrotechnics of one of his concerts."
+      "sourceUrl": "http://www.celebritysmackblog.com/2007/03/26/rock-stars-whove-caught-fire-onstage/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=AJCfrqawxkw",
+      "parentId": 7,
+      "type": "text",
+      "text": "However, Hetfield retains a certain kind of faith, mostly expressed in his tattoos. On his left arm, Hetfield has an eye looking down onto an angel. He describes this as a reminder that a higher power is watching over him–as he most certainly should've died many times over due to poor decisions and dangerous situations.",
       "sourceTitle": "Exclusive Full Interview With James Hetfield on his tattoos",
-      "text": "However, Hetfield retains a certain kind of faith, mostly expressed in his tattoos. On his left arm, Hetfield has an eye looking down onto an angel. He describes this as a reminder that a higher power is watching over him–as he most certainly should've died many times over due to poor decisions and dangerous situations."
+      "sourceUrl": "http://www.youtube.com/watch?v=AJCfrqawxkw"
     },
     {
-      "type": "sentence",
-      "text": "He also has a cross tattooed on his chest. When asked about it, he said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He also has a cross tattooed on his chest. When asked about it, he said:",
+      "parentId": 7
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.metallicaworld.co.uk/James-Hetfield.htm",
-      "sourceTitle": "James Hetfield",
-      "text": "Symbolism is pretty big for me, and the cross for me represents balance and connection with a higher power… I love some of the religious stories because whether they are real or not they are awesome inspiring stories."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Symbolism is pretty big for me, and the cross for me represents balance and connection with a higher power… I love some of the religious stories because whether they are real or not they are awesome inspiring stories.",
+      "sourceTitle": "James Hetfield",
+      "sourceUrl": "http://www.metallicaworld.co.uk/James-Hetfield.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "And so his faith might be formless and without an official name, but it's faith nonetheless–and clearly influenced by, or a part of Christianity."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "Throw out the Puppet Masters"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.libertarianrepublican.net/2009/04/rightwinger-american-patriot-james.html",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Hetfield has been asked if he was a libertarian, and he seemed to agree that he was while dodging the questions.",
       "sourceTitle": "Rightwinger American Patriot James Hetfield & Metallica inducted into Rock & Roll Hall of Fame",
-      "text": "Hetfield has been asked if he was a libertarian, and he seemed to agree that he was while dodging the questions."
+      "sourceUrl": "http://www.libertarianrepublican.net/2009/04/rightwinger-american-patriot-james.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.libertarianrepublican.net/2009/04/rightwinger-american-patriot-james.html",
+      "type": "text",
+      "text": "Plus he's been listed as one of about 20 Republican rock stars by The Arkansas Project, a small Arkansas-based public policy think tank.",
+      "parentId": 12,
       "sourceTitle": "Rightwinger American Patriot James Hetfield & Metallica inducted into Rock & Roll Hall of Fame",
-      "text": "Plus he's been listed as one of about 20 Republican rock stars by The Arkansas Project, a small Arkansas-based public policy think tank."
+      "sourceUrl": "http://www.libertarianrepublican.net/2009/04/rightwinger-american-patriot-james.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "But, as you can see, we're already knee-deep in secondary sources. Hetfield doesn't like discussing politics. He's expressed this on numerous occasions. Speaking of Metallica's involvement in the London leg of the 2007 Live Earth tour–a global warming, environmental awareness festival–Hetfield said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 14
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.starpulse.com/news/index.php/2007/08/01/james_hetfield_i_don_t_like_talking_poli",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I really avoided the press around the Live Earth day. I didn't quite agree with what was going on there. Politics drive me crazy, and I don't like talking politics. Politics get in the way of things; they get in the way of getting things done, and getting our music across is what we wanna do.",
       "sourceTitle": "James Hetfield: \"I Don't Like Talking Politics.\"",
-      "text": "I really avoided the press around the Live Earth day. I didn't quite agree with what was going on there. Politics drive me crazy, and I don't like talking politics. Politics get in the way of things; they get in the way of getting things done, and getting our music across is what we wanna do."
+      "sourceUrl": "http://www.starpulse.com/news/index.php/2007/08/01/james_hetfield_i_don_t_like_talking_poli"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0381723/bio",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "But Hetfield is an avid hunter and member of the National Rifle Association,",
       "sourceTitle": "James Hetfield (I) – Biography",
-      "text": "But Hetfield is an avid hunter and member of the National Rifle Association,"
+      "sourceUrl": "http://www.imdb.com/name/nm0381723/bio"
     },
     {
-      "type": "sentence",
-      "text": "things often associated with Republican/conservative ideals. He did once mention that he leans right on a few things:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "things often associated with Republican/conservative ideals. He did once mention that he leans right on a few things:",
+      "parentId": 16
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.libertarianrepublican.net/2009/04/rightwinger-american-patriot-james.html",
-      "sourceTitle": "Rightwinger American Patriot James Hetfield & Metallica inducted into Rock & Roll Hall of Fame",
-      "text": "I'm pretty conservative on a lot of things. [Bill Clinton's] new tax thing doesn't make sense to me. I don't know what the goal is. The middle-class people really suffer for it."
+      "id": 17
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I'm pretty conservative on a lot of things. [Bill Clinton's] new tax thing doesn't make sense to me. I don't know what the goal is. The middle-class people really suffer for it.",
+      "sourceTitle": "Rightwinger American Patriot James Hetfield & Metallica inducted into Rock & Roll Hall of Fame",
+      "sourceUrl": "http://www.libertarianrepublican.net/2009/04/rightwinger-american-patriot-james.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "But if he were a libertarian, he might take issue with the U.S. government using Metallica's music to torture Iraqi prisoners during the Iraq War. He didn't:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/world/2008/jun/19/usa.guantanamo",
+      "id": 20
+    },
+    {
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "If the Iraqis aren't used to freedom, then I'm glad to be part of their exposure.",
       "sourceTitle": "How US interrogators use music as a tool of torture",
-      "text": "If the Iraqis aren't used to freedom, then I'm glad to be part of their exposure."
+      "sourceUrl": "http://www.guardian.co.uk/world/2008/jun/19/usa.guantanamo"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 22
+    },
+    {
+      "parentId": 22,
+      "type": "text",
       "text": "So, I think we're just going to call him a Republican/conservative."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

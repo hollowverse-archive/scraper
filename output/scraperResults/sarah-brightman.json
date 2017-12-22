@@ -35,70 +35,171 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sarah Brightman was born and raised in Berkhamsted, Hertfordshire, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "I expected to find more on Brightman's Catholic faith, but I could only find one quote which clearly shows her devotion to her religion.Talking about her Christmas album, , which features songs heavy on religion like \"Silent Night,\" \"Ave Maria,\" and \"In the Bleak Midwinter,\" Brightman said,"
+      "parentId": 2,
+      "type": "text",
+      "text": "I expected to find more on Brightman's Catholic faith, but I could only find one quote which clearly shows her devotion to her religion."
     },
     {
-      "type": "break"
+      "type": "text",
+      "text": "Talking about her Christmas album,",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "A Winter Symphony"
+    },
+    {
+      "type": "text",
+      "text": ", which features songs heavy on religion like \"Silent Night,\" \"Ave Maria,\" and \"In the Bleak Midwinter,\" Brightman said,",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.azcentral.com/ent/music/articles/2008/12/11/20081211brightman.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "My family is Catholic, and my mother is very Catholic. The whole Christian side of Christmas has been an important thing in my family. Christmas is actually a very textured moment of the year for me.",
       "sourceTitle": "12/21: Sarah Brightman at Jobing.com Arena.",
-      "text": "My family is Catholic, and my mother is very Catholic. The whole Christian side of Christmas has been an important thing in my family. Christmas is actually a very textured moment of the year for me."
+      "sourceUrl": "http://www.azcentral.com/ent/music/articles/2008/12/11/20081211brightman.html"
     },
     {
-      "type": "sentence",
-      "text": "Her holiday album isn't the only one with religious songs either. Just looking at titles, she has songs like \",\" \"\" and \".\" And one of her albums is called ."
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "text",
+      "text": "Her holiday album isn't the only one with religious songs either. Just looking at titles, she has songs like \""
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "link",
+      "text": "Heaven is Here",
+      "sourceUrl": "http://www.sing365.com/music/lyric.nsf/Heaven-is-Here-lyrics-Sarah-Brightman/4D09B0DD28B61E954825696100133C58"
+    },
+    {
+      "type": "text",
+      "text": ",\" \"",
+      "parentId": 5
+    },
+    {
+      "parentId": 5,
+      "type": "link",
+      "text": "How Can Heaven Love Me?",
+      "sourceUrl": "http://www.metrolyrics.com/how-can-heaven-love-me-lyrics-sarah-brightman.html"
+    },
+    {
+      "type": "text",
+      "text": "\" and \"",
+      "parentId": 5
+    },
+    {
+      "parentId": 5,
+      "type": "link",
+      "text": "Angel",
+      "sourceUrl": "http://www.lyricsreg.com/lyrics/sarah+brightman/Angel/"
+    },
+    {
+      "type": "text",
+      "text": ".\" And one of her albums is called",
+      "parentId": 5
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Eden"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Maybe she doesn't like to talk about her faith much, maybe people don't ask her very often, or maybe I just couldn't find those interviews. But regardless, she's made it pretty clear that she's a religious Catholic."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/Technology/space-tourist-sarah-brightman-buys-seat-russian-soyuz/story?id=17384120",
+      "parentId": 7,
+      "type": "text",
+      "text": "Take that, NASA"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "The only even remotely political thing that Sarah Brightman has done is try to go to space, or at least pay for a ticket. Brightman outbid NASA–or in other words, the U.S. government–for a spot on a trip up the International Space Station. She reportedly spent more than $50 million for the ticket",
       "sourceTitle": "Space Tourist Sarah Brightman Buys Seat on Russian Soyuz Spacecraft.",
-      "text": "The only even remotely political thing that Sarah Brightman has done is try to go to space, or at least pay for a ticket. Brightman outbid NASA–or in other words, the U.S. government–for a spot on a trip up the International Space Station. She reportedly spent more than $50 million for the ticket"
+      "sourceUrl": "http://abcnews.go.com/Technology/space-tourist-sarah-brightman-buys-seat-russian-soyuz/story?id=17384120"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/science/2012/oct/11/sarah-brightman-space-station",
+      "type": "text",
+      "text": "and will spend six month training in Russia for the mission.",
+      "parentId": 8,
       "sourceTitle": "Sarah Brightman books flight to space station.",
-      "text": "and will spend six month training in Russia for the mission."
+      "sourceUrl": "http://www.guardian.co.uk/science/2012/oct/11/sarah-brightman-space-station"
     },
     {
-      "type": "sentence",
-      "text": "But hey, if you've got more money to spare than the United States, then why not? She said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But hey, if you've got more money to spare than the United States, then why not? She said,",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=WoGe-9gGMdM",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I think it will be a beautiful journey and I think just to look back at our planet from that perspective is life changing, it has to be.",
       "sourceTitle": "Sarah Brightman: my space flight will be 'life-changing.'",
-      "text": "I think it will be a beautiful journey and I think just to look back at our planet from that perspective is life changing, it has to be."
+      "sourceUrl": "http://www.youtube.com/watch?v=WoGe-9gGMdM"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "It's hardly partisan politics, but it's something all right. In fact, she doesn't appear to have anything to say about the partisan in her country or anywhere else. I guess she's just sticking to peaceful international missions for now. If you know anything else, please give us a holler in the comments!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

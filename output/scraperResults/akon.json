@@ -35,126 +35,214 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Akon, whose real name is Aliaune Damala Badara Akon Thiam, was born in St Louis, Missouri and grew up in various places including Senegal and Newark, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.akonfan.com/biography.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Akon is a Muslim and uses his religion to justify his claims that he has three wives.",
       "sourceTitle": "Akon's Biography",
-      "text": "Akon is a Muslim and uses his religion to justify his claims that he has three wives."
+      "sourceUrl": "http://www.akonfan.com/biography.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://lockerz.com/d/7822002",
+      "type": "text",
+      "text": "You know, because Muslims can have up to four wives. But considering his raunchy sex party music videos",
+      "parentId": 2,
       "sourceTitle": "Jordan Whitford's Decalz: I Just Had Sex (feat. Akon)",
-      "text": "You know, because Muslims can have up to four wives. But considering his raunchy sex party music videos"
+      "sourceUrl": "http://lockerz.com/d/7822002"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thesource4ym.com/musicdiscussions/MusicDiscussions.aspx?id=9",
+      "type": "text",
+      "text": "and controversies involving him and sex acts with underage girls,",
+      "parentId": 2,
       "sourceTitle": "Music Discussions: Akon Sorry – Blame it on Me",
-      "text": "and controversies involving him and sex acts with underage girls,"
+      "sourceUrl": "http://www.thesource4ym.com/musicdiscussions/MusicDiscussions.aspx?id=9"
     },
     {
-      "type": "sentence",
-      "text": "he's probably not a great husband–or Muslim. But he still finds it in his heart to give a shout-out to Allah in one of his songs, \"Senegal,\" He raps:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "he's probably not a great husband–or Muslim. But he still finds it in his heart to give a shout-out to Allah in one of his songs, \"Senegal,\" He raps:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.lyrics007.com/Akon%20Lyrics/Senegal%20Lyrics.html",
-      "sourceTitle": "Akon – Senegal Lyrics",
-      "text": "So what you know about how God comes first in our lives, everything that we do is for Allah/So what you know about that Holy place called Touba where Prophets are born/So what you know about comin here, gettin money and investing it back home."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "So what you know about how God comes first in our lives, everything that we do is for Allah/So what you know about that Holy place called Touba where Prophets are born/So what you know about comin here, gettin money and investing it back home.",
+      "sourceTitle": "Akon – Senegal Lyrics",
+      "sourceUrl": "http://www.lyrics007.com/Akon%20Lyrics/Senegal%20Lyrics.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Speaking of raunchy sex party music videos, Akon is no friend to Buddhists, at least Buddhists of the Sri Lankan variety. His video for the song \"Sexy Chick\" featured a statue of Buddha at a wild and crazy dance party where scantily-clad women rubbed up against the singer. Buddhists in Sri Lanka were so offended that Akon was denied a visa to perform in the country. Akon said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 6
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/music/2010/mar/25/akon-sri-lanka-buddha-statue",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "[I] am a spiritual man, so I can understand why they are offended.",
       "sourceTitle": "Akon banned from Sri Lanka for Buddha statue video",
-      "text": "[I] am a spiritual man, so I can understand why they are offended."
+      "sourceUrl": "http://www.guardian.co.uk/music/2010/mar/25/akon-sri-lanka-buddha-statue"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Stuck in the middle"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Akon's politics range from African diamond controversy to attempting to unite disparate U.S. political factions."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "Akon is a part-owner of an African diamond mine. It's almost a guarantee that there are some human rights violations going on and Akon has denied that such a thing even exists, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.independent.co.uk/arts-entertainment/music/features/akon-so-what-if-i-own-a-diamond-mine-436472.html",
-      "sourceTitle": "Akon: So what if I own a diamond mine?",
-      "text": "I don't even believe in conflict diamonds. That's just a movie. Think about it. Ain't nobody thought about nothing about no conflict diamonds until the movie, [], came out. Where was all that shit before the movie?"
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I don't even believe in conflict diamonds. That's just a movie. Think about it. Ain't nobody thought about nothing about no conflict diamonds until the movie, ["
+    },
+    {
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "Blood Diamond"
+    },
+    {
+      "type": "text",
+      "text": "], came out. Where was all that shit before the movie?",
+      "parentId": 12,
+      "sourceTitle": "Akon: So what if I own a diamond mine?",
+      "sourceUrl": "http://www.independent.co.uk/arts-entertainment/music/features/akon-so-what-if-i-own-a-diamond-mine-436472.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Ok…"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "In the U.S., Akon is a confirmed centrist–not Republican, not Democrat, and pissed off that these politicians can't just get along long enough to get anything done. Hey, aren't we all?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "Akon donated a song to a political organization called \"No Labels,\" which attempts to get centrist politicians elected so as to dampen rampant partisanship in U.S. politics. In the song, Akon sings:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.theatlanticwire.com/politics/2010/12/akon-croons-ode-to-political-centrism/18213/",
-      "sourceTitle": "Akon Croons Ode to Political Centrism",
-      "text": "He's a Democrat/ He's Republican/ There's a fight and a race who's gonna win/ put your differences aside 'man up' you can/ 'Cause there's way too many people suffering/ I wish they didn't have 'No Labels'/ There'd be more change with 'No Labels.'"
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "He's a Democrat/ He's Republican/ There's a fight and a race who's gonna win/ put your differences aside 'man up' you can/ 'Cause there's way too many people suffering/ I wish they didn't have 'No Labels'/ There'd be more change with 'No Labels.'",
+      "sourceTitle": "Akon Croons Ode to Political Centrism",
+      "sourceUrl": "http://www.theatlanticwire.com/politics/2010/12/akon-croons-ode-to-political-centrism/18213/"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "He makes a good point. In fact, Akon seems to be rather politically astute–despite his supposed ignorance of conflict diamonds. He once tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/Akon/statuses/162688014236131329",
+      "id": 19
+    },
+    {
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "Politics is the art of postponing a decision until it is no longer relevant!",
       "sourceTitle": "Akon: Politics is the art of pos",
-      "text": "Politics is the art of postponing a decision until it is no longer relevant!"
+      "sourceUrl": "https://twitter.com/Akon/statuses/162688014236131329"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "Amen."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

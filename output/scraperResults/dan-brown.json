@@ -31,98 +31,155 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Dan Brown was born in Exeter, New Hampshire in a family of Episcopalians."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Religiously, we have to acknowledge Brown's fascination with Catholicism and its many mysteries. The ancient societies, organizations, and conspiracies of the Catholic church are the subject matter of the majority of Brown's best-selling novels."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "His family was quite religious, but Dan, like many self-aware seekers of knowledge, couldn't find sufficient answers in his faith."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.boston.com/news/local/articles_of_faith/2009/09/dan_brown_on_re.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "Brown tells the story of asking a minister which was true: the big bang or the story of Genesis. The minister replied that 'nice boys don't ask questions.'",
       "sourceTitle": "Articles of Faith",
-      "text": "Brown tells the story of asking a minister which was true: the big bang or the story of Genesis. The minister replied that 'nice boys don't ask questions.'"
+      "sourceUrl": "http://www.boston.com/news/local/articles_of_faith/2009/09/dan_brown_on_re.html"
     },
     {
-      "type": "sentence",
-      "text": "He then turned to science and mathematics–which isn't surprising considering Brown's father was a math teacher for his entire career."
+      "type": "text",
+      "text": "He then turned to science and mathematics–which isn't surprising considering Brown's father was a math teacher for his entire career.",
+      "parentId": 4
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "Brown now considers himself more generally spiritual, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.beliefnet.com/Entertainment/Movies/The-Da-Vinci-Code/An-Interview-With-Dan-Brown.aspx",
-      "sourceTitle": "An Interview with Dan Brown",
-      "text": "I consider myself a student of many religions. The more I learn, the more questions I have. For me, the spiritual quest will be a life-long work in progress."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I consider myself a student of many religions. The more I learn, the more questions I have. For me, the spiritual quest will be a life-long work in progress.",
+      "sourceTitle": "An Interview with Dan Brown",
+      "sourceUrl": "http://www.beliefnet.com/Entertainment/Movies/The-Da-Vinci-Code/An-Interview-With-Dan-Brown.aspx"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Still, the more Brown learns about science, the more he wants to come back to God. He has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.boston.com/news/local/articles_of_faith/2009/09/dan_brown_on_re.html",
-      "sourceTitle": "Articles of Faith",
-      "text": "The irony is that I've really come full circle. The more science I studied, the more I saw that physics becomes metaphysics and numbers become imaginary numbers. The farther you go into science, the mushier the ground gets. You start to say, 'Oh, there is an order and a spiritual aspect to science.'"
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "The irony is that I've really come full circle. The more science I studied, the more I saw that physics becomes metaphysics and numbers become imaginary numbers. The farther you go into science, the mushier the ground gets. You start to say, 'Oh, there is an order and a spiritual aspect to science.'",
+      "sourceTitle": "Articles of Faith",
+      "sourceUrl": "http://www.boston.com/news/local/articles_of_faith/2009/09/dan_brown_on_re.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "God in nature and the reconciliation of science with a Supreme Being is known as Deism. It is perhaps the first religion and the spiritual belief of many ancient tribes."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "Political flop"
     },
     {
-      "type": "sentence",
-      "text": "In the political arena, Dan Brown is nowhere to be seen. His books often touch on highly political topics, like the 's role in protecting America or the conspiratorial role of America's forefathers, but in real-life, Brown's got absolutely nothing to say about politics."
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "text",
+      "text": "In the political arena, Dan Brown is nowhere to be seen. His books often touch on highly political topics, like the"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/1492-dan-brown",
+      "parentId": 13,
+      "type": "link",
+      "text": "NSA",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Nsa"
+    },
+    {
+      "type": "text",
+      "text": "'s role in protecting America or the conspiratorial role of America's forefathers, but in real-life, Brown's got absolutely nothing to say about politics.",
+      "parentId": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Looking to his philanthropy, for a mega-bestelling author, Brown has very little to show except a $2.2 million donation to his childhood school, the Philips Exeter Academy.",
       "sourceTitle": "Dan Brown",
-      "text": "Looking to his philanthropy, for a mega-bestelling author, Brown has very little to show except a $2.2 million donation to his childhood school, the Philips Exeter Academy."
+      "sourceUrl": "http://www.looktothestars.org/celebrity/1492-dan-brown"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "We might say he values education, but the fact that it was the school he went to and that his father taught at even calls that into question. Does he care about anything?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

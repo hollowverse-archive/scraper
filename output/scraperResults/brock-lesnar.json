@@ -30,78 +30,117 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chacha.com/question/what-is-the-religion-of-brock-lesnar",
+      "parentId": 1,
+      "type": "text",
+      "text": "Brock Lesnar was born and raised in Webster, North Dakota."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Webster has nothing to say about religion. Even the speculative question and answer sites are stumped,",
       "sourceTitle": "What is the religion of Brock Lesnar.",
-      "text": "Webster has nothing to say about religion. Even the speculative question and answer sites are stumped,"
+      "sourceUrl": "http://www.chacha.com/question/what-is-the-religion-of-brock-lesnar"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wiki.answers.com/Q/What_religion_does_brock_lesnar_have",
+      "type": "text",
+      "text": "save one, where someone said he's a Christian.",
+      "parentId": 2,
       "sourceTitle": "What religion does brock lesnar have?",
-      "text": "save one, where someone said he's a Christian."
+      "sourceUrl": "http://wiki.answers.com/Q/What_religion_does_brock_lesnar_have"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "I guess that could be true. He is, after all, a white American–most of which are Christian, at least in heritage. It seems unlikely that we can ever expect Lesnar to get into details about his religious views–if there are any. He said once:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://sports.yahoo.com/mma/news?slug=ki-lesnar102210",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I just don't put myself out there to the fans and prostitute my private life to everybody. In today's day and age, with the Internet and cameras and cell phones, I just like being old school and living in the woods and living my life.",
       "sourceTitle": "Lesnar separates public from private – UFC",
-      "text": "I just don't put myself out there to the fans and prostitute my private life to everybody. In today's day and age, with the Internet and cameras and cell phones, I just like being old school and living in the woods and living my life."
+      "sourceUrl": "http://sports.yahoo.com/mma/news?slug=ki-lesnar102210"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Canadian-American Sociopolitical Comparisons"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://latimesblogs.latimes.com/sports_blog/2010/10/brock-lesnar-cain-velasquez-ufc.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Lesnar might be a bit political. He has been called an \"unapologetic Republican,\"",
       "sourceTitle": "Brock Lesnar skirts immigration conference call with Cain Velasquez",
-      "text": "Lesnar might be a bit political. He has been called an \"unapologetic Republican,\""
+      "sourceUrl": "http://latimesblogs.latimes.com/sports_blog/2010/10/brock-lesnar-cain-velasquez-ufc.html"
     },
     {
-      "type": "sentence",
-      "text": "but nowhere can I find him being asked to apologize, let alone him saying he's a Republican."
+      "type": "text",
+      "text": "but nowhere can I find him being asked to apologize, let alone him saying he's a Republican.",
+      "parentId": 8
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cagepotato.com/millionaire-pro-athlete-brock-lesnar-makes-case-american-health-care-system/",
+      "parentId": 9,
+      "type": "text",
+      "text": "It wouldn't be surprising, though. He did go on an eight minute rant about how America's health care system was far superior to Canada's.",
       "sourceTitle": "Millionaire Pro Athlete Brock Lesnar Makes the Case for American Health Care System",
-      "text": "It wouldn't be surprising, though. He did go on an eight minute rant about how America's health care system was far superior to Canada's."
+      "sourceUrl": "http://www.cagepotato.com/millionaire-pro-athlete-brock-lesnar-makes-case-american-health-care-system/"
     },
     {
-      "type": "sentence",
-      "text": "Seriously, Lesnar is quite unimpressed with Canadian health care–which is, to some degree, a model for the Democratic/liberal vision of American socialized health care."
+      "type": "text",
+      "text": "Seriously, Lesnar is quite unimpressed with Canadian health care–which is, to some degree, a model for the Democratic/liberal vision of American socialized health care.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theglobeandmail.com/sports/more-sports/ufc-fighter-brock-lesnar-pleads-guilty-to-alberta-hunting-charge/article2278118/",
+      "parentId": 10,
+      "type": "text",
+      "text": "Also, he's a hunter,",
       "sourceTitle": "UFC fighter Brock Lesnar pleads guilty to Alberta hunting charge",
-      "text": "Also, he's a hunter,"
+      "sourceUrl": "http://www.theglobeandmail.com/sports/more-sports/ufc-fighter-brock-lesnar-pleads-guilty-to-alberta-hunting-charge/article2278118/"
     },
     {
-      "type": "sentence",
-      "text": "so… there's all sorts of Republican associations: NRA, defenders of the 2nd amendment, etc. He's probably not a member of PETA…"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "so… there's all sorts of Republican associations: NRA, defenders of the 2nd amendment, etc. He's probably not a member of PETA…",
+      "parentId": 10
     }
   ],
   "wikipediaData": {

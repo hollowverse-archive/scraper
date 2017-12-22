@@ -30,63 +30,99 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Christian Bale was born in Haverfordwest, Wales, United Kingdom. He grew up in England, Portugal, and the United States."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Bale's upbringing was admittedly non-religious. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.christianbale.net/articles/2000/eonlinewebcasttr.htm",
-      "sourceTitle": "Christian Takes On Sex, Violence, Underwear and Horse Manure",
-      "text": "I always pictured Jesus as Neil Diamond when I was younger. My upbringing was not a religious one, but an inquisitive one. My father was best friends with the bishop and fascinated by religion. I would come back from church, and my dad would put on Neil Diamond. So, I would always picture Neil Diamond with a big white beard, standing in a tunic and preaching to masses of people… I do go to church on occasion, but I don't adhere to any particular religion. His [Jesus'] basic message of encompassing all people was a great one."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I always pictured Jesus as Neil Diamond when I was younger. My upbringing was not a religious one, but an inquisitive one. My father was best friends with the bishop and fascinated by religion. I would come back from church, and my dad would put on Neil Diamond. So, I would always picture Neil Diamond with a big white beard, standing in a tunic and preaching to masses of people… I do go to church on occasion, but I don't adhere to any particular religion. His [Jesus'] basic message of encompassing all people was a great one.",
+      "sourceTitle": "Christian Takes On Sex, Violence, Underwear and Horse Manure",
+      "sourceUrl": "http://www.christianbale.net/articles/2000/eonlinewebcasttr.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "My guess is that if he had to say, he'd identify with Catholic–the largest denomination in Wales. Plus, his father was best friends with a bishop–a Catholic designation."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 6
     },
     {
-      "type": "heading",
+      "parentId": 6,
+      "type": "text",
       "text": "Chinese politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Bale is pretty quiet about his political views. He did mention that he was inspired by Chinese democracy advocate, Chen Guangcheng, and was stopped by Chinese officials when he was trying to visit him. Bale said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.patheos.com/blogs/yimcatholic/2011/12/quote-of-the-week-christian-bale.html",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "What I really wanted to do was shake the man's hand and say 'thank you,' and tell him what an inspiration he is.",
       "sourceTitle": "Quote of the Week: Christian Bale",
-      "text": "What I really wanted to do was shake the man's hand and say 'thank you,' and tell him what an inspiration he is."
+      "sourceUrl": "http://www.patheos.com/blogs/yimcatholic/2011/12/quote-of-the-week-christian-bale.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chacha.com/question/is-christian-bale-republican",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Bale is listed as a Republican by some question and answer sites",
       "sourceTitle": "Is christian bale republican",
-      "text": "Bale is listed as a Republican by some question and answer sites"
+      "sourceUrl": "http://www.chacha.com/question/is-christian-bale-republican"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.secretoftheincas.co.uk/page28.html",
+      "type": "text",
+      "text": "and there is evidence of that considering Bale was one of the few to attend famous Republican and NRA member Charlton Heston's funeral.",
+      "parentId": 10,
       "sourceTitle": "Fraser Heston Interview",
-      "text": "and there is evidence of that considering Bale was one of the few to attend famous Republican and NRA member Charlton Heston's funeral."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.secretoftheincas.co.uk/page28.html"
     }
   ],
   "wikipediaData": {

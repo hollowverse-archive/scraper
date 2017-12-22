@@ -31,113 +31,179 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "LeBron James was born and raised in Akron, Ohio. He's a Catholic and went to St. Vincent-St. Mary Catholic High School, from which he was immediately drafted into the NBA upon graduation."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://bleacherreport.com/articles/740403-lebron-james-the-12-dumbest-quotes-of-his-professional-career/page/5",
+      "parentId": 2,
+      "type": "text",
+      "text": "James doesn't talk much about religion, except to be kind of ridiculous. He once likened basketball legend Michael Jordan to \"black Jesus\"",
       "sourceTitle": "LeBron James: The 12 Dumbest Quotes of His Professional Career",
-      "text": "James doesn't talk much about religion, except to be kind of ridiculous. He once likened basketball legend Michael Jordan to \"black Jesus\""
+      "sourceUrl": "http://bleacherreport.com/articles/740403-lebron-james-the-12-dumbest-quotes-of-his-professional-career/page/5"
     },
     {
-      "type": "sentence",
-      "text": "and then once, he blamed God for losing an important game, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and then once, he blamed God for losing an important game, saying:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://bleacherreport.com/articles/733110-lebron-james-blames-god-for-miamis-nba-finals-loss",
-      "sourceTitle": "NBA Finals 2011: LeBron James Blames God for Miami Heat's NBA Finals Loss.",
-      "text": "The Greater Man upstairs know when it's my time. Right now isn't the time."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "The Greater Man upstairs know when it's my time. Right now isn't the time.",
+      "sourceTitle": "NBA Finals 2011: LeBron James Blames God for Miami Heat's NBA Finals Loss.",
+      "sourceUrl": "http://bleacherreport.com/articles/733110-lebron-james-blames-god-for-miamis-nba-finals-loss"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "It was a bit controversial at the time."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "Despite the religion of his upbringing, there is at least one thing about James that some devout Catholics might take issue with. He's spoken about Karma, a Hindu/Buddhist principle, and mixed it with monotheism, saying once of his opponents:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://bleacherreport.com/articles/740403-lebron-james-the-12-dumbest-quotes-of-his-professional-career/page/10",
-      "sourceTitle": "LeBron James: The 12 Dumbest Quotes of His Professional Career",
-      "text": "Karma is a bitch. Gets you every time. It's not good to wish bad on anybody. God sees everything!"
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Karma is a bitch. Gets you every time. It's not good to wish bad on anybody. God sees everything!",
+      "sourceTitle": "LeBron James: The 12 Dumbest Quotes of His Professional Career",
+      "sourceUrl": "http://bleacherreport.com/articles/740403-lebron-james-the-12-dumbest-quotes-of-his-professional-career/page/10"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "In his defense, James might have been speaking of Karma in the colloquial sense."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Obligatory Democrat?"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "James is a huge Obama supporter, a Democrat, but not all that socially aware."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.insidehoops.com/blog/?p=1529",
+      "parentId": 12,
+      "type": "text",
+      "text": "James supported Obama's 2008 bid, donating $20,000 to the cause.",
       "sourceTitle": "LeBron donates cash to Obama",
-      "text": "James supported Obama's 2008 bid, donating $20,000 to the cause."
+      "sourceUrl": "http://www.insidehoops.com/blog/?p=1529"
     },
     {
-      "type": "sentence",
-      "text": "He also hosted a free concert to raise money and awareness for the campaign where Jay-Z also lent his starpower. James said at the event:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He also hosted a free concert to raise money and awareness for the campaign where Jay-Z also lent his starpower. James said at the event:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://today.msnbc.msn.com/id/27455428#.T2zod3luDAk",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I want everybody in here, moms, dads, aunts, uncles to get out and vote. November fourth is the most important day of our lives.",
       "sourceTitle": "Jay-Z, LeBron James get out vote for Obama",
-      "text": "I want everybody in here, moms, dads, aunts, uncles to get out and vote. November fourth is the most important day of our lives."
+      "sourceUrl": "http://today.msnbc.msn.com/id/27455428#.T2zod3luDAk"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blacksportsonline.com/home/2011/06/lebron-on-his-critics-they-have-to-wake-up-to-their-personal-problems/",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "James didn't bring up any issues that were of such alleged importance and one wonders if James really cares much about anything. He was even callous enough, in a moment of frustration, to basically tell his critics that he has a good life and they don't.",
       "sourceTitle": "LeBron on His Critics: \"They Have To Wake Up To Their Personal Problems.\"",
-      "text": "James didn't bring up any issues that were of such alleged importance and one wonders if James really cares much about anything. He was even callous enough, in a moment of frustration, to basically tell his critics that he has a good life and they don't."
+      "sourceUrl": "http://blacksportsonline.com/home/2011/06/lebron-on-his-critics-they-have-to-wake-up-to-their-personal-problems/"
     },
     {
-      "type": "sentence",
-      "text": "He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said:",
+      "parentId": 15
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.goldenstateofmind.com/2011/6/12/2221034/heres-the-exact-quote-from-lebron-james-at-the-end-of-the-day-all-of",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "At the end of the day, all of the people that were rooting for me to fail, tomorrow they'll have to wake up and have the same life that [they had] before they woke up today. They got the same personal problems they had today and I'm going to continue to live the way I want to live and continue to do the things I want to do.",
       "sourceTitle": "Here's the exact quote from LeBron James",
-      "text": "At the end of the day, all of the people that were rooting for me to fail, tomorrow they'll have to wake up and have the same life that [they had] before they woke up today. They got the same personal problems they had today and I'm going to continue to live the way I want to live and continue to do the things I want to do."
+      "sourceUrl": "http://www.goldenstateofmind.com/2011/6/12/2221034/heres-the-exact-quote-from-lebron-james-at-the-end-of-the-day-all-of"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "Fair enough. A wise man once said: \"The best revenge is living well.\" If that's his philosophy, then so be it. But he sort of comes off as an arrogant elitist."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

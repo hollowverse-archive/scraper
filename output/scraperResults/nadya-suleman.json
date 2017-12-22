@@ -31,119 +31,196 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Nadya Suleman, more commonly known as \"Octomom,\" was born and raised in the Los Angeles, California area."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2009/04/07/nadya-suleman-realty-show_n_184249.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Accounts differ as to Suleman's religion–even the accounts she, herself has given. It is highly speculated that she is desperate for attention, which explains the reality TV contracts,",
       "sourceTitle": "Nadya Suleman Reality Show: OctoMom To Raise 14 Kids, Look For Love?",
-      "text": "Accounts differ as to Suleman's religion–even the accounts she, herself has given. It is highly speculated that she is desperate for attention, which explains the reality TV contracts,"
+      "sourceUrl": "http://www.huffingtonpost.com/2009/04/07/nadya-suleman-realty-show_n_184249.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blogs.ocweekly.com/navelgazing/2012/07/octomom_set_to_release_awful_s.php",
+      "type": "text",
+      "text": "the pornographic films",
+      "parentId": 2,
       "sourceTitle": "Octomom Set To Release Awful Single",
-      "text": "the pornographic films"
+      "sourceUrl": "http://blogs.ocweekly.com/navelgazing/2012/07/octomom_set_to_release_awful_s.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.tmz.com/2012/08/04/octomom-topless-album-cover/",
+      "type": "text",
+      "text": "and the \"hit\" single called \"Sexy Time.\"",
+      "parentId": 2,
       "sourceTitle": "Octomom – The Topless Album Cover",
-      "text": "and the \"hit\" single called \"Sexy Time.\""
+      "sourceUrl": "http://www.tmz.com/2012/08/04/octomom-topless-album-cover/"
     },
     {
-      "type": "sentence",
-      "text": "It might also explain this quote:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "It might also explain this quote:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://blogs.ocweekly.com/navelgazing/2011/07/octomom_nadya_suleman_muslim_d.php",
-      "sourceTitle": "Nadya Suleman's Latest Octo-Promos: I Was Raised Muslim, I've Been Celibate 12 Years and No Touching!",
-      "text": "I was humiliated doing the first [paid interview]. I was raised Muslim and I'm very anxious about it. I was not proud of it."
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blogs.ocweekly.com/navelgazing/2011/07/octomom_nadya_suleman_muslim_d.php",
-      "sourceTitle": "Nadya Suleman's Latest Octo-Promos: I Was Raised Muslim, I've Been Celibate 12 Years and No Touching!",
-      "text": "I think maybe being Muslim was \"in\" that week or something. The truth is, Suleman's father is an Iraqi  man, meaning he's a Middle Eastern Christian."
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Lithuania#Religion",
+      "parentId": 4,
+      "type": "text",
+      "text": "I was humiliated doing the first [paid interview]. I was raised Muslim and I'm very anxious about it. I was not proud of it.",
+      "sourceTitle": "Nadya Suleman's Latest Octo-Promos: I Was Raised Muslim, I've Been Celibate 12 Years and No Touching!",
+      "sourceUrl": "http://blogs.ocweekly.com/navelgazing/2011/07/octomom_nadya_suleman_muslim_d.php"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I think maybe being Muslim was \"in\" that week or something. The truth is, Suleman's father is an Iraqi"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Assyrian"
+    },
+    {
+      "type": "text",
+      "text": "man, meaning he's a Middle Eastern Christian.",
+      "parentId": 5,
+      "sourceTitle": "Nadya Suleman's Latest Octo-Promos: I Was Raised Muslim, I've Been Celibate 12 Years and No Touching!",
+      "sourceUrl": "http://blogs.ocweekly.com/navelgazing/2011/07/octomom_nadya_suleman_muslim_d.php"
+    },
+    {
+      "type": "text",
+      "text": "Her mother is of Lithuanian descent, and Lithuania has been a predominantly Catholic country for about 600 years.",
+      "parentId": 5,
       "sourceTitle": "Lithuania",
-      "text": "Her mother is of Lithuanian descent, and Lithuania has been a predominantly Catholic country for about 600 years."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Lithuania#Religion"
     },
     {
-      "type": "sentence",
-      "text": "So, all signs point to Christian, and strangely, Suleman would agree!"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "So, all signs point to Christian, and strangely, Suleman would agree!",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://blogs.ocweekly.com/navelgazing/2011/07/octomom_nadya_suleman_muslim_d.php",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "[I'll do] anything that I can do to generate money in a respectable way so I can take care of my kids and pay for school for them. I want them into a private Christian school so I am trying to save up for that.",
       "sourceTitle": "Nadya Suleman's Latest Octo-Promos: I Was Raised Muslim, I've Been Celibate 12 Years and No Touching!",
-      "text": "[I'll do] anything that I can do to generate money in a respectable way so I can take care of my kids and pay for school for them. I want them into a private Christian school so I am trying to save up for that."
+      "sourceUrl": "http://blogs.ocweekly.com/navelgazing/2011/07/octomom_nadya_suleman_muslim_d.php"
     },
     {
-      "type": "sentence",
-      "text": "Not convinced? Check out this . Oh, I got you! Did you notice all the crucifixes? No? Well, have another look. They look pretty Eastern Orthodox to me–which would align with the religions of both her parents. Of course, Suleman credits Madonna for the photo shoot idea, but I'd say fairly confidently that she's a Christian of some kind or another."
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "text",
+      "text": "Not convinced? Check out this"
+    },
+    {
+      "parentId": 8,
+      "type": "link",
+      "text": "photo",
+      "sourceUrl": "http://www.tmz.com/2012/08/04/octomom-topless-album-cover/"
+    },
+    {
+      "type": "text",
+      "text": ". Oh, I got you! Did you notice all the crucifixes? No? Well, have another look. They look pretty Eastern Orthodox to me–which would align with the religions of both her parents. Of course, Suleman credits Madonna for the photo shoot idea, but I'd say fairly confidently that she's a Christian of some kind or another.",
+      "parentId": 8
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Let's go all Europe up in here!"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/10/16/octomom-nadya-suleman-president-obama_n_1971012.html",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Octomom is a Democrat. She's not one for high-level political discourse, but she will tell you the harrowing tale of going to the polls in 2008, pregnant with kidney stones and a broken rib (uphill in the snow both ways?) to get one vote out for Obama.",
       "sourceTitle": "'Octomom' Nadya Suleman Endorses President Obama",
-      "text": "Octomom is a Democrat. She's not one for high-level political discourse, but she will tell you the harrowing tale of going to the polls in 2008, pregnant with kidney stones and a broken rib (uphill in the snow both ways?) to get one vote out for Obama."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/10/16/octomom-nadya-suleman-president-obama_n_1971012.html"
     },
     {
-      "type": "sentence",
-      "text": "In 2012, she had not wavered:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "In 2012, she had not wavered:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/10/16/octomom-nadya-suleman-president-obama_n_1971012.html",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I would still vote the same this time… it's very important because this is our children's future.",
       "sourceTitle": "'Octomom' Nadya Suleman Endorses President Obama",
-      "text": "I would still vote the same this time… it's very important because this is our children's future."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/10/16/octomom-nadya-suleman-president-obama_n_1971012.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/09/05/octomom-nadya-suleman-mitt-romney_n_1858948.html",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "One gets the sense she wasn't all that informed, because about six weeks earlier, she had admitted that she had never even heard of Obama's opponent, Republican Mitt Romney.",
       "sourceTitle": "'Octomom' Nadya Suleman Has Not Heard Of Mitt Romney",
-      "text": "One gets the sense she wasn't all that informed, because about six weeks earlier, she had admitted that she had never even heard of Obama's opponent, Republican Mitt Romney."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/09/05/octomom-nadya-suleman-mitt-romney_n_1858948.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/blogs/entertainment/2013/01/octomom-nadya-suleman-back-on-welfare/",
+      "parentId": 14,
+      "type": "text",
+      "text": "There's very little reason for her to favor Republicans anyway. She has repeatedly proven her support (and been supported by) the welfare state.",
       "sourceTitle": "'Octomom' Nadya Suleman Back on Welfare",
-      "text": "There's very little reason for her to favor Republicans anyway. She has repeatedly proven her support (and been supported by) the welfare state."
+      "sourceUrl": "http://abcnews.go.com/blogs/entertainment/2013/01/octomom-nadya-suleman-back-on-welfare/"
     },
     {
-      "type": "sentence",
-      "text": "Perhaps she would be a socialist but third party politics might be more in-depth than she'd like to go."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Perhaps she would be a socialist but third party politics might be more in-depth than she'd like to go.",
+      "parentId": 14
     }
   ],
   "wikipediaData": {

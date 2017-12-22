@@ -32,153 +32,232 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Joe Biden was born in Scranton, Pennsylvania and grew up there, in Wilmington, Delaware and in Claymont, Delaware."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cnn.com/election/2012/vice-presidents.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Biden is a Catholic",
       "sourceTitle": "Vice Presidents – 2012 Election Center",
-      "text": "Biden is a Catholic"
+      "sourceUrl": "http://www.cnn.com/election/2012/vice-presidents.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/megan-smolenyak-smolenyak/joe-bidens-irish-roots_b_1641678.html",
+      "type": "text",
+      "text": "and he is a descendent of Irish Catholic immigrants.",
+      "parentId": 2,
       "sourceTitle": "Megan Smolenyak: Joe Biden's Irish Roots",
-      "text": "and he is a descendent of Irish Catholic immigrants."
+      "sourceUrl": "http://www.huffingtonpost.com/megan-smolenyak-smolenyak/joe-bidens-irish-roots_b_1641678.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Perhaps Biden's most famous reference to his faith came during the 2012 vice-presidential debates, where Biden squared-off with Republican candidate Paul Ryan–also a Catholic. When both candidates were asked their views on abortion, Ryan took a pro-life stance, citing his church's position on the issue, and Biden went the other direction, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.nationalreview.com/articles/330511/joe-biden-s-religion-catholicism-or-leftism-dennis-prager#",
-      "sourceTitle": "Joe Biden's Religion: Catholicism or Leftism?",
-      "text": "My religion defines who I am. And I've been a practicing Catholic my whole life… With regard to abortion, I accept my church's position on abortion as a — what we call de fide doctrine. Life begins at conception. That's the Church's judgment. I accept it in my personal life. But I refuse to impose it on equally devout Christians and Muslims and Jews and — I just refuse to impose that on others, unlike my friend here, the congressman."
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.americanthinker.com/2012/10/joe_biden_practicing_catholic.html",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "My religion defines who I am. And I've been a practicing Catholic my whole life… With regard to abortion, I accept my church's position on abortion as a — what we call de fide doctrine. Life begins at conception. That's the Church's judgment. I accept it in my personal life. But I refuse to impose it on equally devout Christians and Muslims and Jews and — I just refuse to impose that on others, unlike my friend here, the congressman.",
+      "sourceTitle": "Joe Biden's Religion: Catholicism or Leftism?",
+      "sourceUrl": "http://www.nationalreview.com/articles/330511/joe-biden-s-religion-catholicism-or-leftism-dennis-prager#"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "It's a view informed by the philosophy of separation of church and state and a tolerance of the wide array of religious belief systems present in the United States. However, Biden's critics were quick to jump on the comment, questioning Biden's faith",
       "sourceTitle": "Articles: Joe Biden, 'Practicing Catholic.'",
-      "text": "It's a view informed by the philosophy of separation of church and state and a tolerance of the wide array of religious belief systems present in the United States. However, Biden's critics were quick to jump on the comment, questioning Biden's faith"
+      "sourceUrl": "http://www.americanthinker.com/2012/10/joe_biden_practicing_catholic.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nationalreview.com/articles/330511/joe-biden-s-religion-catholicism-or-leftism-dennis-prager#",
+      "type": "text",
+      "text": "and calling him out as a hypocrite.",
+      "parentId": 6,
       "sourceTitle": "Joe Biden's Religion: Catholicism or Leftism?",
-      "text": "and calling him out as a hypocrite."
+      "sourceUrl": "http://www.nationalreview.com/articles/330511/joe-biden-s-religion-catholicism-or-leftism-dennis-prager#"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.humanevents.com/2012/10/16/catholic-bishop-says-joe-biden-should-not-receive-communion/",
+      "type": "text",
+      "text": "Certain members of the Catholic clergy even suggested that Biden was not qualified to take Catholic communion.",
+      "parentId": 6,
       "sourceTitle": "Catholic bishop says Joe Biden should not receive communion",
-      "text": "Certain members of the Catholic clergy even suggested that Biden was not qualified to take Catholic communion."
+      "sourceUrl": "http://www.humanevents.com/2012/10/16/catholic-bishop-says-joe-biden-should-not-receive-communion/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "Fair enough, but that's politics. You don't just fly in the face of your party ideology–especially during an election year."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "\"Middle class Joe\" walks the halls of power"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Biden is a Democrat and his political career spans over four decades. At the time this article was written, he was serving his second term as the vice-president of the United States of America–referred to by some as the second-most powerful man in the world."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "text": "For a good synopsis of his political positions, check out this  article or this  from On The Issues.org."
+      "parentId": 10,
+      "type": "text",
+      "text": "For a good synopsis of his political positions, check out this"
     },
     {
-      "type": "break"
+      "parentId": 10,
+      "type": "link",
+      "text": "Wikipedia",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Political_positions_of_Joe_Biden"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ontheissues.org/senate/joe_biden.htm",
+      "type": "text",
+      "text": "article or this",
+      "parentId": 10
+    },
+    {
+      "parentId": 10,
+      "type": "link",
+      "text": "webpage",
+      "sourceUrl": "http://www.ontheissues.org/senate/joe_biden.htm"
+    },
+    {
+      "type": "text",
+      "text": "from On The Issues.org.",
+      "parentId": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Suffice it to say, he takes a fairly standard Democratic view on most everything: Pro-life, pro-environment, higher taxes on the wealthy, an expansion of government programs/regulatory agencies in most arenas of society,",
       "sourceTitle": "Joe Biden on the Issues",
-      "text": "Suffice it to say, he takes a fairly standard Democratic view on most everything: Pro-life, pro-environment, higher taxes on the wealthy, an expansion of government programs/regulatory agencies in most arenas of society,"
+      "sourceUrl": "http://www.ontheissues.org/senate/joe_biden.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.washingtonpost.com/2012-05-07/politics/35456276_1_vice-president-biden-biden-spokesman-gay-couples",
+      "type": "text",
+      "text": "\"comfortable\" with same-sex marriage,",
+      "parentId": 11,
       "sourceTitle": "Biden 'comfortable' with same-sex marriage",
-      "text": "\"comfortable\" with same-sex marriage,"
+      "sourceUrl": "http://articles.washingtonpost.com/2012-05-07/politics/35456276_1_vice-president-biden-biden-spokesman-gay-couples"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nydailynews.com/news/politics/obama-biden-remarks-gay-marriage-forced-move-announcement-hard-feelings-article-1.1075641",
+      "type": "text",
+      "text": "etc, etc, etc. In fact, it was Biden's off-hand comment about gay marriage that sort of opened the floodgates and put pressure on Obama to also endorse gay marriage, a first for a sitting president.",
+      "parentId": 11,
       "sourceTitle": "Obama: Biden's remarks on gay marriage forced me to move up announcement, but no hard feelings",
-      "text": "etc, etc, etc. In fact, it was Biden's off-hand comment about gay marriage that sort of opened the floodgates and put pressure on Obama to also endorse gay marriage, a first for a sitting president."
+      "sourceUrl": "http://www.nydailynews.com/news/politics/obama-biden-remarks-gay-marriage-forced-move-announcement-hard-feelings-article-1.1075641"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ontheissues.org/senate/joe_biden.htm",
+      "parentId": 12,
+      "type": "text",
+      "text": "He does diverge a bit here and there. For example, he considers high corporate taxes as an incentive for business to outsource their employment needs to foreign countries",
       "sourceTitle": "Joe Biden on the Issues",
-      "text": "He does diverge a bit here and there. For example, he considers high corporate taxes as an incentive for business to outsource their employment needs to foreign countries"
+      "sourceUrl": "http://www.ontheissues.org/senate/joe_biden.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/northamerica/usa/8822267/Iran-to-be-held-accountable-for-assassination-plot-says-Joe-Biden.html",
+      "type": "text",
+      "text": "and he can be a bit heavy-handed with his remarks on foreign policy, saying countries like Iran",
+      "parentId": 12,
       "sourceTitle": "Iran to be 'held accountable' for assassination plot, says Joe Biden",
-      "text": "and he can be a bit heavy-handed with his remarks on foreign policy, saying countries like Iran"
+      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/northamerica/usa/8822267/Iran-to-be-held-accountable-for-assassination-plot-says-Joe-Biden.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cfr.org/experts/world/joseph-r-biden-jr/b1451",
+      "type": "text",
+      "text": "and China",
+      "parentId": 12,
       "sourceTitle": "Joseph R. Biden, Jr",
-      "text": "and China"
+      "sourceUrl": "http://www.cfr.org/experts/world/joseph-r-biden-jr/b1451"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ontheissues.org/senate/joe_biden.htm",
+      "type": "text",
+      "text": "should be held \"accountable\" for their actions. Though he says circumstances would have to be quite extreme for the U.S. to give up on diplomacy and resort to military intervention.",
+      "parentId": 12,
       "sourceTitle": "Joe Biden on the Issues",
-      "text": "should be held \"accountable\" for their actions. Though he says circumstances would have to be quite extreme for the U.S. to give up on diplomacy and resort to military intervention."
+      "sourceUrl": "http://www.ontheissues.org/senate/joe_biden.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.politico.com/story/2013/01/biden-guns-executive-actions-86187.html",
+      "parentId": 13,
+      "type": "text",
+      "text": "As this article is being written, Biden's primary focus has been a task force regarding gun control in response to the Sandy Hook school shooting. Conclusions so far include a renewed effort to ban private ownership of assault rifles, a ban on high-capacity ammunition magazines/clips, and universal background checks for gun buyers.",
       "sourceTitle": "Joe Biden on guns: White House eying 19 executive actions",
-      "text": "As this article is being written, Biden's primary focus has been a task force regarding gun control in response to the Sandy Hook school shooting. Conclusions so far include a renewed effort to ban private ownership of assault rifles, a ban on high-capacity ammunition magazines/clips, and universal background checks for gun buyers."
+      "sourceUrl": "http://www.politico.com/story/2013/01/biden-guns-executive-actions-86187.html"
     },
     {
-      "type": "sentence",
-      "text": "Of course, this has the conservative sector of American society quite up-in-arms (pun intended). Check out conservative pundit Alex Jones' incredible  to potential gun measures as an example."
+      "type": "text",
+      "text": "Of course, this has the conservative sector of American society quite up-in-arms (pun intended). Check out conservative pundit Alex Jones' incredible",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "link",
+      "text": "response",
+      "sourceUrl": "http://www.upworthy.com/angry-gun-advocate-loses-it-live-on-cnn-in-the-most-bizarre-interview-ever"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": "to potential gun measures as an example.",
+      "parentId": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "There is much speculation that Biden will be the Democrat's presidential candidate in 2016. When/if that happens, we'll be updating this article and very much looking forward to your comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

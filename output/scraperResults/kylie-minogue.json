@@ -34,98 +34,187 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://journal.media-culture.org.au/0104/spiritual.php",
+      "parentId": 1,
+      "type": "text",
+      "text": "Kylie Minogue was born and raised in Melbourne, Australia."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Minogue's religious views run the gamut from Christian ethics to Eastern philosophy–and she can be quite articulate. But the thread that runs through her narrative is one of deep spirituality. Once, when she was asked if it is important to be a good person, Minogue responded with the New Testament platitude: \"Do unto others..\"",
       "sourceTitle": "Pop Goes (the) Spiritual",
-      "text": "Minogue's religious views run the gamut from Christian ethics to Eastern philosophy–and she can be quite articulate. But the thread that runs through her narrative is one of deep spirituality. Once, when she was asked if it is important to be a good person, Minogue responded with the New Testament platitude: \"Do unto others..\""
+      "sourceUrl": "http://journal.media-culture.org.au/0104/spiritual.php"
     },
     {
-      "type": "sentence",
-      "text": "This comes as no surprise considering her white, Western upbringing."
+      "type": "text",
+      "text": "This comes as no surprise considering her white, Western upbringing.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://journal.media-culture.org.au/0104/spiritual.php",
+      "parentId": 3,
+      "type": "text",
+      "text": "Still, she goes much deeper, invoking Hindu and Buddhist karma and reincarnation at times and even speaking of the virtues of balance,"
+    },
+    {
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "a la"
+    },
+    {
+      "type": "text",
+      "text": "Yin and Yang.",
+      "parentId": 3,
       "sourceTitle": "Pop Goes (the) Spiritual",
-      "text": "Still, she goes much deeper, invoking Hindu and Buddhist karma and reincarnation at times and even speaking of the virtues of balance,  Yin and Yang."
+      "sourceUrl": "http://journal.media-culture.org.au/0104/spiritual.php"
     },
     {
-      "type": "sentence",
-      "text": "She may seem to be confused, or searching blindly through the world's many belief systems but it's all about continuity for Minogue, who said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She may seem to be confused, or searching blindly through the world's many belief systems but it's all about continuity for Minogue, who said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.tumblr.com/tagged/kylie-minogue?before=1295457578",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I can't think that this is all there is… I believe in a universal power. That's how I would define spirituality: as something universal that we don't understand but that somehow governs and guides the aspects of our being that aren't merely physical… I believe I came from somewhere and that I'm going somewhere beyond this life so therefore I must have lived before.",
       "sourceTitle": "Kylie Minogue",
-      "text": "I can't think that this is all there is… I believe in a universal power. That's how I would define spirituality: as something universal that we don't understand but that somehow governs and guides the aspects of our being that aren't merely physical… I believe I came from somewhere and that I'm going somewhere beyond this life so therefore I must have lived before."
+      "sourceUrl": "http://www.tumblr.com/tagged/kylie-minogue?before=1295457578"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1286633/Kylie-Minogue-steps-sporting-Kabbalah-red-string-bracelet.html",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Speculation abounds as to her formal religious affiliation, with paparazzi fixating on spotting her with a Kabbalah bracelet at one point",
       "sourceTitle": "Kylie Minogue steps out sporting Kabbalah red string bracelet",
-      "text": "Speculation abounds as to her formal religious affiliation, with paparazzi fixating on spotting her with a Kabbalah bracelet at one point"
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1286633/Kylie-Minogue-steps-sporting-Kabbalah-red-string-bracelet.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newser.com/story/138587/8-celebs-who-switched-religions-for-love.html",
+      "type": "text",
+      "text": "and the press speculating as to whether or not she would convert to Catholicism for her Spanish Catholic boyfriend's sake.",
+      "parentId": 6,
       "sourceTitle": "8 Celebs Who Switched Religions… For Love",
-      "text": "and the press speculating as to whether or not she would convert to Catholicism for her Spanish Catholic boyfriend's sake."
+      "sourceUrl": "http://www.newser.com/story/138587/8-celebs-who-switched-religions-for-love.html"
     },
     {
-      "type": "sentence",
-      "text": "But I think Kylie probably can't be tamed."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But I think Kylie probably can't be tamed.",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Politics of a fan base"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Minogue is not nearly as outspoken about political issues as she is about her spiritual beliefs. But that doesn't mean we can't get a line on her views of society. First of all, despite being an international star (particularly in England), Minogue holds a special place in her heart for her home country of Australia, saying things like:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I think Australians are down to earth, … We have a good work ethic.",
+      "sourceTitle": "Minogue keeps fans coming into her world",
+      "sourceUrl": "http://articles.cnn.com/2004-03-25/entertainment/mroom.minogue_1_kylie-minogue-olivia-newton-john-work-ethic?_s=PM:SHOWBIZ"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "And:"
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/k/kylie_minogue.html",
-      "sourceTitle": "Kylie Minogue Quotes",
-      "text": "Everyone knows how much Australia means to me."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Everyone knows how much Australia means to me.",
+      "sourceTitle": "Kylie Minogue Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/k/kylie_minogue.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Her most controversial statement was about her views of gay marriage. It's hard to know if she was just coddling her enormous gay fan base or if she was being sincere, but she said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thegaymarriageblog.com/2010/07/kylie-minogue/",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Well, I think [gay marriage] should be allowed! I mean, how many countries have caught up with it by now? The earth didn't cave in. If it's love, it's love. And that's it. That's all that matters.",
       "sourceTitle": "Kylie Minogue Shocks Fans With Her Gay Marriage Stance",
-      "text": "Well, I think [gay marriage] should be allowed! I mean, how many countries have caught up with it by now? The earth didn't cave in. If it's love, it's love. And that's it. That's all that matters."
+      "sourceUrl": "http://www.thegaymarriageblog.com/2010/07/kylie-minogue/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "I guess that makes her a liberal."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

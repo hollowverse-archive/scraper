@@ -35,157 +35,210 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Angela Merkel was born in Hamburg in what was then West Germany. However, in an unusual move, her family moved just outside of Berlin in East Germany."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.bbc.co.uk/news/magazine-17489035",
+      "parentId": 2,
+      "type": "text",
+      "text": "Merkel is Lutheran and her father was a Lutheran minister.",
       "sourceTitle": "Germans can't escape their Lutheran past",
-      "text": "Merkel is Lutheran and her father was a Lutheran minister."
+      "sourceUrl": "http://www.bbc.co.uk/news/magazine-17489035"
     },
     {
-      "type": "sentence",
-      "text": "It is safe to assume that Merkel grew up rather devout."
+      "type": "text",
+      "text": "It is safe to assume that Merkel grew up rather devout.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "However, despite her upbringing, Merkel doesn't seem to be overbearing when it comes to her religious views. Unlike religious U.S. politicians, she doesn't claim to ask God for guidance regarding political decisions or spout platitudes about Germany being God's country or anything like that. …Well, for the most part. She did once refer to Germany as adhering to the larger, overall Christian ethic, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/angela_merkel_3.html",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "We feel bound to the Christian image of humanity – that is what defines us. Those who do not accept this are in the wrong place here.",
       "sourceTitle": "Angela Merkel Quotes",
-      "text": "We feel bound to the Christian image of humanity – that is what defines us. Those who do not accept this are in the wrong place here."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/angela_merkel_3.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dw.de/dw/article/0,2144,1786512,00.html",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Plus, when she was sworn in as Germany's first woman Chancellor, she chose to say the optional phrase: \"So help me God,\" a tradition during the swearing-in of a Chancellor, but not required.",
       "sourceTitle": "Angela Merkel Sworn in as German Chancellor",
-      "text": "Plus, when she was sworn in as Germany's first woman Chancellor, she chose to say the optional phrase: \"So help me God,\" a tradition during the swearing-in of a Chancellor, but not required."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.dw.de/dw/article/0,2144,1786512,00.html"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Politics of a crisis"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Merkel belongs to the Christian Democratic Party of Germany, a center-right German party. But it should not be thought of as religious and does not campaign or govern from a religious platform. Its name is an old throwback to a more religious time in Germany."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blogs.reuters.com/great-debate-uk/tag/angela-merkel/",
+      "parentId": 9,
+      "type": "text",
+      "text": "Merkel's politics are quite controversial–but not because she is radical, actually she is notorious for being a centrist.",
       "sourceTitle": "Can Greek public opinion be turned?",
-      "text": "Merkel's politics are quite controversial–but not because she is radical, actually she is notorious for being a centrist."
+      "sourceUrl": "http://blogs.reuters.com/great-debate-uk/tag/angela-merkel/"
     },
     {
-      "type": "sentence",
-      "text": "Merkel's controversy stems from being the public face of Europe's wealthiest, most powerful, and most populated country during the \"Euro crisis,\" as it has come to be known."
+      "type": "text",
+      "text": "Merkel's controversy stems from being the public face of Europe's wealthiest, most powerful, and most populated country during the \"Euro crisis,\" as it has come to be known.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.english.rfi.fr/economy/20120519-euro-zone-crisis-central-g8-talks",
+      "parentId": 10,
+      "type": "text",
+      "text": "Germany is seen by many (particularly Greeks, Irish, and possibly Portugeuse, Italian, and Spanish) as a tough cookie who won't take anyone's excuses or irresponsibility. Merkel has demanded that if countries like Greece are to stay in the European Union and not drag the rest of the EU down with them, they had better pay up and stop whining.",
       "sourceTitle": "Eurozone crisis central to G8 talks",
-      "text": "Germany is seen by many (particularly Greeks, Irish, and possibly Portugeuse, Italian, and Spanish) as a tough cookie who won't take anyone's excuses or irresponsibility. Merkel has demanded that if countries like Greece are to stay in the European Union and not drag the rest of the EU down with them, they had better pay up and stop whining."
+      "sourceUrl": "http://www.english.rfi.fr/economy/20120519-euro-zone-crisis-central-g8-talks"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "Much of Merkel's time and energy has been sapped by the financial problems in the Eurozone and as a result, she has had little of herself left for Germany's domestic issues. However, one statement Merkel has made put her in the center of controversy on the world's stage."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "In my view, Merkel is more conservative (by U.S. standards). In the spirit of full-disclosure, I will tell you that I write this article from Frankfurt, Germany. My wife is German and I spend a lot of time here. I am no expert in EU or German socio-political issues, but I am familiar with many of the challenges they face. As such, it is important that you trust me when I say Germany has a race problem."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Turks_in_Germany",
+      "parentId": 13,
+      "type": "text",
+      "text": "Following the total destruction of Germany after World War II, many Turkish workers were recruited to help with reconstruction efforts. Now, approximately 5% of German citizens are of Turkish descent.",
       "sourceTitle": "Turks in Germany",
-      "text": "Following the total destruction of Germany after World War II, many Turkish workers were recruited to help with reconstruction efforts. Now, approximately 5% of German citizens are of Turkish descent."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Turks_in_Germany"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thelocal.de/society/20090125-16987.html",
+      "type": "text",
+      "text": "Study after study has shown that Turks are the least integrated (while largest) ethnic group in Germany. They have the lowest levels of education and success in the labor force. They are more likely to be in trouble with the law and often don't even speak German.",
+      "parentId": 13,
       "sourceTitle": "Study says Turks are Germany's worst integrated immigrants",
-      "text": "Study after study has shown that Turks are the least integrated (while largest) ethnic group in Germany. They have the lowest levels of education and success in the labor force. They are more likely to be in trouble with the law and often don't even speak German."
+      "sourceUrl": "http://www.thelocal.de/society/20090125-16987.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "As a result, Merkel bucked social conventions of \"Can't we all just get along?\" when she said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/angela_merkel_2.html",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "This multicultural approach, saying that we simply live side by side and live happily with each other has failed. Utterly failed.",
       "sourceTitle": "Angela Merkel Quotes",
-      "text": "This multicultural approach, saying that we simply live side by side and live happily with each other has failed. Utterly failed."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/angela_merkel_2.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thelocal.de/politics/20120621-43303.html",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "When Merkel said this, it sent shock waves throughout the Western world, whose orientation to political correctness had never heard this kind of honesty from such a high-ranking politician. It is this sort of thing that sets Merkel apart from her peers. And while some think she spells doom for Europe (and maybe the world) with her fiscal policies,",
       "sourceTitle": "UK Magazine: Merkel 'most dangerous leader.'",
-      "text": "When Merkel said this, it sent shock waves throughout the Western world, whose orientation to political correctness had never heard this kind of honesty from such a high-ranking politician. It is this sort of thing that sets Merkel apart from her peers. And while some think she spells doom for Europe (and maybe the world) with her fiscal policies,"
+      "sourceUrl": "http://www.thelocal.de/politics/20120621-43303.html"
     },
     {
-      "type": "sentence",
-      "text": "I find her quite refreshing."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "I find her quite refreshing.",
+      "parentId": 17
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Angela_Merkel",
     "title": "Angela Merkel",
     "image": {
-      "name": "Angela_Merkel_Juli_2010_-_3zu4.jpg",
+      "name": "Angela_Merkel_2016.jpg",
       "info": {
-        "canonicaltitle": "File:Angela Merkel Juli 2010 - 3zu4.jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Angela_Merkel_Juli_2010_-_3zu4.jpg/247px-Angela_Merkel_Juli_2010_-_3zu4.jpg",
-        "thumbwidth": 247,
+        "canonicaltitle": "File:Angela Merkel 2016.jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Angela_Merkel_2016.jpg/244px-Angela_Merkel_2016.jpg",
+        "thumbwidth": 244,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Angela_Merkel_Juli_2010_-_3zu4.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Angela_Merkel_Juli_2010_-_3zu4.jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16103982",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Angela_Merkel_2016.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Angela_Merkel_2016.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=47997163",
         "extmetadata": {
           "DateTime": {
-            "value": "2014-12-22 20:43:59",
+            "value": "2016-04-12 12:54:25",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "Angela Merkel Juli 2010 - 3zu4",
+            "value": "Angela Merkel 2016",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -195,7 +248,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Angela Merkel \"Merkel-Raute\"|Derivative versions|Extracted images|Images from CDU/CSU-Bundestagsfraktion|Images with extracted images|Portrait photographs of women at half length|Red clothing, female|Retouched pictures|Taken with Nikon D200",
+            "value": "Angela Merkel in 2016|Flickr images reviewed by FlickreviewR|Photos from European People's Party",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -205,29 +258,29 @@
             "hidden": ""
           },
           "ImageDescription": {
-            "value": "Angela Merkel, Chancellor of the Federal Republic of Germany, chairperson of the <a href=\"https://en.wikipedia.org/wiki/Christian_Democratic_Union_(Germany)\" class=\"extiw\" title=\"en:Christian Democratic Union (Germany)\">CDU</a>",
+            "value": "Merkel at the EPP Summit in Brussels, March 2016",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "2010-07",
+            "value": "2016-03-17 14:27:59",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a href=\"//commons.wikimedia.org/wiki/File:Angela_Merkel,_Juli_2010.jpg\" title=\"File:Angela Merkel, Juli 2010.jpg\">File:Angela Merkel, Juli 2010.jpg</a> (\"Armin Linnartz <a rel=\"nofollow\" class=\"external text\" href=\"http://www.cducsu.de/Titel__dr_angela_merkel/TabID__23/SubTabID__24/AbgLetter__77/BildID__3512/AbgID__14/abgeordnete.aspx\">site [http://www.cducsu.de/WebUserControls/ShowPicture.aspx?picid=3512&amp;type=3 image</a>\")",
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/eppofficial/25738722632/\">https://www.flickr.com/photos/eppofficial/25738722632/</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "Armin Linnartz",
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/eppofficial/\">https://www.flickr.com/photos/eppofficial/</a>",
             "source": "commons-desc-page"
           },
           "LicenseShortName": {
-            "value": "CC BY-SA 3.0 de",
+            "value": "CC BY 2.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "UsageTerms": {
-            "value": "Creative Commons Attribution-Share Alike 3.0 de",
+            "value": "Creative Commons Attribution 2.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -236,13 +289,8 @@
             "source": "commons-desc-page",
             "hidden": ""
           },
-          "Attribution": {
-            "value": "Armin Linnartz",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
           "LicenseUrl": {
-            "value": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+            "value": "http://creativecommons.org/licenses/by/2.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -257,7 +305,7 @@
             "hidden": ""
           },
           "License": {
-            "value": "cc-by-sa-3.0-de",
+            "value": "cc-by-2.0",
             "source": "commons-templates",
             "hidden": ""
           }

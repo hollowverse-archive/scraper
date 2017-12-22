@@ -32,103 +32,163 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Daddy Yankee, whose real name is Ramón Luis Ayala Rodríguez, was born and raised in Santurce, Puerto Rico."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.peopleenespanol.com/article/daddy-yankee-rompe-el-silencio",
+      "parentId": 2,
+      "type": "text",
+      "text": "He doesn't like to talk about his family to the press,",
       "sourceTitle": "Daddy Yankee rompe el silencio.",
-      "text": "He doesn't like to talk about his family to the press,"
+      "sourceUrl": "http://www.peopleenespanol.com/article/daddy-yankee-rompe-el-silencio"
     },
     {
-      "type": "sentence",
-      "text": "but about his religion and politics, there are no secrets. We can be sure Daddy Yankee is a Christian. When the celebrity magazine,  published an article stating that Yankee practiced Santería, he held a press conference to clear up the matter."
+      "type": "text",
+      "text": "but about his religion and politics, there are no secrets. We can be sure Daddy Yankee is a Christian. When the celebrity magazine,",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "TV y Novelas"
+    },
+    {
+      "type": "text",
+      "text": "published an article stating that Yankee practiced Santería, he held a press conference to clear up the matter.",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://hipermusica.com/daddy-yankee-demandara-a-tv-y-novelas-por-tildarlo-de-satanico",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I am a person with 100% Christian beliefs and I am sure that I never was, am not and never will be a practitioner of Santería.",
       "sourceTitle": "Daddy Yankee demandará a TV y Novelas por decir que practica la santería.",
-      "text": "I am a person with 100% Christian beliefs and I am sure that I never was, am not and never will be a practitioner of Santería."
+      "sourceUrl": "http://hipermusica.com/daddy-yankee-demandara-a-tv-y-novelas-por-tildarlo-de-satanico"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.latingossip.com/daddy-yankee/daddy-yankee-denies-santeria-claim.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "He even said he would consider suing the magazine, but apparently decided against it. Although his faith is obviously very important to him, he made sure to state that he has nothing against Santería, and has friends that practice the syncretic religion.",
       "sourceTitle": "Daddy Yankee Denies Santeria Claim.",
-      "text": "He even said he would consider suing the magazine, but apparently decided against it. Although his faith is obviously very important to him, he made sure to state that he has nothing against Santería, and has friends that practice the syncretic religion."
+      "sourceUrl": "http://www.latingossip.com/daddy-yankee/daddy-yankee-denies-santeria-claim.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "He also occasionally inserts Christian language and imagery into his lyrics, even comparing himself to Jesus."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://lyricstranslate.com/en/Corazones-Corazones.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "If it were up to my enemies/ . . . they would crucify me in an act of raw homicide/but they are wrong, my God lifts me up with health and life.",
       "sourceTitle": "Corazones.",
-      "text": "If it were up to my enemies/ . . . they would crucify me in an act of raw homicide/but they are wrong, my God lifts me up with health and life."
+      "sourceUrl": "http://lyricstranslate.com/en/Corazones-Corazones.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thecaucus.blogs.nytimes.com/2008/08/25/mccains-daddy-yankee-endorsement/",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Daddy Yankee made his political beliefs clear in the 2008 presidential election. He endorsed Senator John McCain in his bid for the White House. He appeared with the senator at a campaign event prompting McCain to thank him for his endorsement. The singer said McCain was \"a fighter for the Hispanic community\" and \"a fighter for the immigration issue.\"",
       "sourceTitle": "McCain's Daddy Yankee Endorsement.",
-      "text": "Daddy Yankee made his political beliefs clear in the 2008 presidential election. He endorsed Senator John McCain in his bid for the White House. He appeared with the senator at a campaign event prompting McCain to thank him for his endorsement. The singer said McCain was \"a fighter for the Hispanic community\" and \"a fighter for the immigration issue.\""
+      "sourceUrl": "http://thecaucus.blogs.nytimes.com/2008/08/25/mccains-daddy-yankee-endorsement/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lipstickalley.com/f15/daddy-yankee-jumps-off-republican-national-convention-w-fiesta-americana-151025/",
+      "parentId": 10,
+      "type": "text",
+      "text": "He continued his support for the Republican Party that year by jump-starting the national convention with a concert, which was also a fundraiser for the Red Cross Relief Fund.",
       "sourceTitle": "Daddy Yankee Jumps Off The Republican National Convention W/ \"Fiesta Americana.\"",
-      "text": "He continued his support for the Republican Party that year by jump-starting the national convention with a concert, which was also a fundraiser for the Red Cross Relief Fund."
+      "sourceUrl": "http://www.lipstickalley.com/f15/daddy-yankee-jumps-off-republican-national-convention-w-fiesta-americana-151025/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2012/03/19/us/politics/romney-wins-easily-in-puerto-rico-primary.html",
+      "parentId": 11,
+      "type": "text",
+      "text": "Like many Republicans, Yankee isn't as enthusiastic about Mitt Romney as he was about McCain four years earlier. Even though Romney easily won the Republican nomination in Puerto Rico during the primaries,",
       "sourceTitle": "Romney Wins Puerto Rico Primary.",
-      "text": "Like many Republicans, Yankee isn't as enthusiastic about Mitt Romney as he was about McCain four years earlier. Even though Romney easily won the Republican nomination in Puerto Rico during the primaries,"
+      "sourceUrl": "http://www.nytimes.com/2012/03/19/us/politics/romney-wins-easily-in-puerto-rico-primary.html"
     },
     {
-      "type": "sentence",
-      "text": "the press has received no word on whether or not the Republican singer supports him. That stark contrast to his support of McCain is perhaps an indication of the whole party's lack of enthusiasm for Romney."
+      "type": "text",
+      "text": "the press has received no word on whether or not the Republican singer supports him. That stark contrast to his support of McCain is perhaps an indication of the whole party's lack of enthusiasm for Romney.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "He also infuses some of his songs with his political beliefs. In the song, \"Corazones\" he talks about what he thinks needs to be done to help the poor in Puerto Rico."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://lyricstranslate.com/en/Corazones-Corazones.html",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "[The politicians] don't see that education in the neighborhoods is not good enough/they need teachers, need materials/to raise more leaders and less criminals.",
       "sourceTitle": "Corazones.",
-      "text": "[The politicians] don't see that education in the neighborhoods is not good enough/they need teachers, need materials/to raise more leaders and less criminals."
+      "sourceUrl": "http://lyricstranslate.com/en/Corazones-Corazones.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Regardless of his direct support of its presidential candidate, Yankee apparently thinks the Republicans are the ones to do the job."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

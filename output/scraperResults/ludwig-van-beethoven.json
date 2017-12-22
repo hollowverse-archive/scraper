@@ -33,117 +33,157 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ludwig van Beethoven was born and grew up in Bonn, Germany."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nowpublic.com/culture/beethovens-life-and-death-day-his-baptism-december-17th-2539766.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Beethoven was raised a Catholic, and his baptism records still exist to this day,",
       "sourceTitle": "Beethoven's Life and Death on Day of His Baptism, December 17th",
-      "text": "Beethoven was raised a Catholic, and his baptism records still exist to this day,"
+      "sourceUrl": "http://www.nowpublic.com/culture/beethovens-life-and-death-day-his-baptism-december-17th-2539766.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.its.caltech.edu/~tan/BeethovenMissaSolemnis/religious_views.html",
+      "type": "text",
+      "text": "though it seems unlikely that his was a religious family. Beethoven's father was an alcoholic and his mother died when he was a teenager. And it is widely agreed upon by historians that Beethoven didn't attend Mass very often,",
+      "parentId": 2,
       "sourceTitle": "Beethoven's Religious Views",
-      "text": "though it seems unlikely that his was a religious family. Beethoven's father was an alcoholic and his mother died when he was a teenager. And it is widely agreed upon by historians that Beethoven didn't attend Mass very often,"
+      "sourceUrl": "http://www.its.caltech.edu/~tan/BeethovenMissaSolemnis/religious_views.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lvbeethoven.com/Oeuvres_Presentation/Presentation-Mass-MissaSolemnis.html",
+      "type": "text",
+      "text": "nor did he claim allegiance to any church as an adult.",
+      "parentId": 2,
       "sourceTitle": "Mass: Missa Solemnis – Ludwig van Beethoven",
-      "text": "nor did he claim allegiance to any church as an adult."
+      "sourceUrl": "http://www.lvbeethoven.com/Oeuvres_Presentation/Presentation-Mass-MissaSolemnis.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.awesomestories.com/assets/archduke-rudolph-beethoven-patron",
+      "parentId": 3,
+      "type": "text",
+      "text": "However, Beethoven seems to have turned to religion when it might serve him. For example, one of his lifelong patrons and cheerleaders was Archduke Rudolph, the Cardinal Archbishop of Olmütz.",
       "sourceTitle": "Archduke Rudolph – Beethoven Patron",
-      "text": "However, Beethoven seems to have turned to religion when it might serve him. For example, one of his lifelong patrons and cheerleaders was Archduke Rudolph, the Cardinal Archbishop of Olmütz."
+      "sourceUrl": "http://www.awesomestories.com/assets/archduke-rudolph-beethoven-patron"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Furthermore, Beethoven (who was always in poor health) is known to have turned to God at least once during a time of physical duress, writing a letter to a friend that read:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.hyperhistory.net/apwh/bios/b2beethoven.htm",
-      "sourceTitle": "Ludwig van Beethoven",
-      "text": "I was operated on for the fourth time on the 27th of February, and now symptoms evidently exist which show that I must expect a fifth operation… The Almighty will give me strength to endure my lot, however severe and terrible, with resignation to His will."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I was operated on for the fourth time on the 27th of February, and now symptoms evidently exist which show that I must expect a fifth operation… The Almighty will give me strength to endure my lot, however severe and terrible, with resignation to His will.",
+      "sourceTitle": "Ludwig van Beethoven",
+      "sourceUrl": "http://www.hyperhistory.net/apwh/bios/b2beethoven.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "That's some highly religious rhetoric, maybe even enough to throw the historical consensus that Beethoven was largely non-religious out the window. Here, Beethoven expresses a belief (or at least hope) that an all-knowing, benevolent God exists."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "But I'm certainly not about to fly in the face of much more highly educated music historians."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Politics of a different era"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "In the late 16th, early 17th centuries, liberal meant something quite a bit different than it does today. And what we might think of as conservative were just the values of everyday society. There were divisions, however, and they were mostly drawn along economic and family lines–the divisions of class."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "But it was also the time of the Enlightenment, when such divisions were labeled as unjust and the \"conservative\" values of religiosity were being questioned. Beethoven appears to have identified with this new social consciousness."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nivmusic.com/Beethoven.html",
+      "parentId": 12,
+      "type": "text",
+      "text": "Beethoven was born a commoner, but his musical skills and the power of his compositions made him many friends along the upper crust, including the aforementioned patron Archduke Rudolph. Beethoven held this class separation in particular disdain and was characteristically rebellious and disrespectful toward authority. It is said that his lack of propriety in upper-class social events became so disruptive that Archduke Rudolph declared that the rules of social etiquette didn't apply to Beethoven.",
       "sourceTitle": "Ludwig van Beethoven",
-      "text": "Beethoven was born a commoner, but his musical skills and the power of his compositions made him many friends along the upper crust, including the aforementioned patron Archduke Rudolph. Beethoven held this class separation in particular disdain and was characteristically rebellious and disrespectful toward authority. It is said that his lack of propriety in upper-class social events became so disruptive that Archduke Rudolph declared that the rules of social etiquette didn't apply to Beethoven."
+      "sourceUrl": "http://www.nivmusic.com/Beethoven.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.badeagle.com/2011/12/16/beethoven-was-a-revolutionary/",
+      "parentId": 13,
+      "type": "text",
+      "text": "Furthermore, Beethoven was thrilled to hear that Napoleon, a supposed enlightened ruler, might come from France to free central and western Europe from the bonds of hereditary rule; so much so that he originally dedicated his 3rd symphony to him. But when he heard news that Napoleon had renamed himself \"His Imperial Majesty Napoleon the First, Emperor of the French,\" Beethoven became violently angry,",
       "sourceTitle": "Beethoven was a Revolutionary",
-      "text": "Furthermore, Beethoven was thrilled to hear that Napoleon, a supposed enlightened ruler, might come from France to free central and western Europe from the bonds of hereditary rule; so much so that he originally dedicated his 3rd symphony to him. But when he heard news that Napoleon had renamed himself \"His Imperial Majesty Napoleon the First, Emperor of the French,\" Beethoven became violently angry,"
+      "sourceUrl": "http://www.badeagle.com/2011/12/16/beethoven-was-a-revolutionary/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=tHvztnHOWEQ",
+      "type": "text",
+      "text": "and ultimately renamed the symphony \"Heroic Symphony, composed to celebrate the memory of a great man.\"",
+      "parentId": 13,
       "sourceTitle": "Beethoven 3rd Symphony (1/5); 1st Movement; Bernstein",
-      "text": "and ultimately renamed the symphony \"Heroic Symphony, composed to celebrate the memory of a great man.\""
+      "sourceUrl": "http://www.youtube.com/watch?v=tHvztnHOWEQ"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "In the end, Beethoven's politics were the same that ended the stranglehold that church and kings had on Europe for so many centuries, the same politics that framed the great documents that created the United States of America, the politics of freedom and democracy."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -176,7 +216,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "1820 portrait paintings of men|Art works, uploaded by Andrew Butko from various sources (1000-1999 px on long side)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Derivative versions|Featured pictures on Wikipedia, Bengali|Featured pictures on Wikipedia, Hebrew|Featured pictures on Wikipedia, Persian|Ludwig van Beethoven (Stieler, 1820)|PD-Art (PD-old-100)",
+            "value": "1820 portrait paintings of men|Art works, uploaded by Andrew Butko from various sources (1000-1999 px on long side)|Artworks with Wikidata item|Artworks with Wikidata item without dimensions|Artworks with Wikidata item without inception|Artworks with Wikidata item without material used|Artworks with known accession number|CC-PD-Mark|Derivative versions|Featured pictures on Wikipedia, Bengali|Featured pictures on Wikipedia, Hebrew|Featured pictures on Wikipedia, Persian|Ludwig van Beethoven (Stieler, 1820)|PD-Art (PD-old-100)",
             "source": "commons-categories",
             "hidden": ""
           },

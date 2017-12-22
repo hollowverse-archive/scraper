@@ -34,155 +34,239 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Paul McCartney was born in Liverpool, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/5087006.stm",
+      "parentId": 2,
+      "type": "text",
+      "text": "His mother was a Roman Catholic and Paul was baptized into that church. Paul's father was a Protestant, but Paul asserts that he was raised largely without religion.",
       "sourceTitle": "The seven ages of Paul McCartney",
-      "text": "His mother was a Roman Catholic and Paul was baptized into that church. Paul's father was a Protestant, but Paul asserts that he was raised largely without religion."
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/5087006.stm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "The Beatles, and Paul McCartney, went through a series of religious/spiritual phases. In a widely-publicized event in 1968, all four Beatles studied under the Hindu guru Maharishi Mahesh. But the religion didn't seem to stick with any of them except George Harrison."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "During some interviews, Paul hinted at agnosticism/atheism, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.beatlesinterviews.org/dbbtspb.int2.html",
-      "sourceTitle": "Beatles Interviews: Playboy, February 1965",
-      "text": "We probably seem anti-religious because of the fact that none of us believe in God… We're all agnostics."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "We probably seem anti-religious because of the fact that none of us believe in God… We're all agnostics.",
+      "sourceTitle": "Beatles Interviews: Playboy, February 1965",
+      "sourceUrl": "http://www.beatlesinterviews.org/dbbtspb.int2.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "As time wore on, Paul grew up and Beatlemania subsided enough for the four members to get on with their lives and contemplate the cosmos in quiet. Paul softened his views on religion."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.whosdatedwho.com/tpx_5721/paul-mccartney/quotes",
-      "sourceTitle": "Paul McCartney Quotes",
-      "text": "I'm not religious, but I'm very spiritual."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I'm not religious, but I'm very spiritual.",
+      "sourceTitle": "Paul McCartney Quotes",
+      "sourceUrl": "http://www.whosdatedwho.com/tpx_5721/paul-mccartney/quotes"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "McCartney referenced God in a song called \"Freedom,\" which was in honor of 9/11 victims, saying that:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.lyricsfreak.com/p/paul+mccartney/freedom_20105550.html",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "This is my right, a right given by God. To live a free life, to live in freedom.",
       "sourceTitle": "Freedom Lyrics",
-      "text": "This is my right, a right given by God. To live a free life, to live in freedom."
+      "sourceUrl": "http://www.lyricsfreak.com/p/paul+mccartney/freedom_20105550.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://gothamist.com/2011/10/28/got_to_get_jew_into_my_life_is_paul.php",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Still, McCartney hasn't truly come around to religion yet, despite rumors of converting to Judaism for his most recent wife, Nancy Shevell.",
       "sourceTitle": "Got To Get Jew Into My Life: Is Paul McCartney Converting For Nancy Shevell?",
-      "text": "Still, McCartney hasn't truly come around to religion yet, despite rumors of converting to Judaism for his most recent wife, Nancy Shevell."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://gothamist.com/2011/10/28/got_to_get_jew_into_my_life_is_paul.php"
     },
     {
       "type": "heading",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Activism, not politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "McCartney has actively taken up quite a few causes in his long career as mega-celebrity."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Most, though not all, of McCartney's activism has centered around animal rights. He explained the genesis of this choice to dedicate his considerable star power to animals, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.hecklerspray.com/paul-mccartney-why-im-a-feeble-vegetarian/200812984.php",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Many years ago, I was fishing, and as I was reeling in the poor fish, I realized, 'I am killing him – all for the passing pleasure it brings me'. Something inside me clicked. I realized as I watched him fight for breath that his life was as important to him as mine is to me.",
       "sourceTitle": "Paul McCartney: Why I'm a Feeble Vegetarian",
-      "text": "Many years ago, I was fishing, and as I was reeling in the poor fish, I realized, 'I am killing him – all for the passing pleasure it brings me'. Something inside me clicked. I realized as I watched him fight for breath that his life was as important to him as mine is to me."
+      "sourceUrl": "http://www.hecklerspray.com/paul-mccartney-why-im-a-feeble-vegetarian/200812984.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cbc.ca/news/canada/story/2006/03/02/mccartney-060302.html",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "His activism has included fighting for the preservation of seals,",
       "sourceTitle": "Harp seal hunt a 'stain' on Canada, McCartney says",
-      "text": "His activism has included fighting for the preservation of seals,"
+      "sourceUrl": "http://www.cbc.ca/news/canada/story/2006/03/02/mccartney-060302.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/asia-pacific/4476664.stm",
+      "type": "text",
+      "text": "criticizing the Chinese government and boycotting the 2008 Beijing Olympics over their fur industry,",
+      "parentId": 19,
       "sourceTitle": "McCartney attacks China over fur",
-      "text": "criticizing the Chinese government and boycotting the 2008 Beijing Olympics over their fur industry,"
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/asia-pacific/4476664.stm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ecorazzi.com/2008/12/16/paul-mccartney-reveals-shock-in-dalai-lamas-meat-eating-ways/",
+      "type": "text",
+      "text": "and writing a letter to the Dalai Llama, urging him to be a vegetarian.",
+      "parentId": 19,
       "sourceTitle": "Sir Paul McCartney Reveals Shock in Dalai Llama's Meat-Eating Ways",
-      "text": "and writing a letter to the Dalai Llama, urging him to be a vegetarian."
+      "sourceUrl": "http://www.ecorazzi.com/2008/12/16/paul-mccartney-reveals-shock-in-dalai-lamas-meat-eating-ways/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://uscampaignforburma.org/about-us-campaign-for-burma/accomplishments/",
+      "parentId": 20,
+      "type": "text",
+      "text": "McCartney has also advocated for democracy in Burma",
       "sourceTitle": "US Campaign for Burma",
-      "text": "McCartney has also advocated for democracy in Burma"
+      "sourceUrl": "http://uscampaignforburma.org/about-us-campaign-for-burma/accomplishments/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://today.msnbc.msn.com/id/6190793/ns/today-entertainment/t/paul-mccartneys-quest-rid-world-landmines/",
+      "type": "text",
+      "text": "and has undertaken a campaign against landmines.",
+      "parentId": 20,
       "sourceTitle": "McCartney's quest to rid the world of landmines",
-      "text": "and has undertaken a campaign against landmines."
+      "sourceUrl": "http://today.msnbc.msn.com/id/6190793/ns/today-entertainment/t/paul-mccartneys-quest-rid-world-landmines/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "sentence",
+      "parentId": 21,
+      "type": "text",
       "text": "In terms of U.S. politics, McCartney has been a supporter of Obama and has slammed Bush, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.mediaite.com/online/paul-mccartney-slams-bush-nice-to-have-a-president-who-knows-what-a-library-is/",
+      "id": 22
+    },
+    {
+      "type": "paragraph",
+      "id": 23,
+      "parentId": 22
+    },
+    {
+      "parentId": 23,
+      "type": "text",
+      "text": "It's nice to have a president who knows what a library is.",
       "sourceTitle": "Paul McCartney Slams Bush",
-      "text": "It's nice to have a president who knows what a library is."
+      "sourceUrl": "http://www.mediaite.com/online/paul-mccartney-slams-bush-nice-to-have-a-president-who-knows-what-a-library-is/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 24
+    },
+    {
+      "parentId": 24,
+      "type": "text",
       "text": "Though he's British, so we can't call him a Democrat, he's an Obama supporter and an animal rights activist, so he's a liberal in our eyes."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

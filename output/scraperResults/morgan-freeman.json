@@ -33,116 +33,182 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Morgan Freeman was born in Memphis, Tennessee and grew up in Greenwood, Mississippi, Gary, Indiana, and Chicago, Illinois."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Freeman is not a \"man of God\" and he seems to be highly interested in matters of epistemology. Generally, those concerned with epistemology end up rejecting religion as its claims have very little basis in verifiable reality. When an interviewer assumed Freeman was religious, he responded:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.patheos.com/blogs/friendlyatheist/2010/06/02/morgan-freeman-tells-cnn-anchor-he-is-not-a-man-of-god/",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "When did I say I was a 'man of god'? …[I am a man of] faith! There's a big difference… We take a lot of what we're talking about in science on faith. We posit a theory… and until it's disproven, we have faith that it's true. If the mathematics work out, then it's true. Until it's proven to be untrue.",
       "sourceTitle": "Morgan Freeman Tells CNN Anchor He is Not a 'Man of God.'",
-      "text": "When did I say I was a 'man of god'? …[I am a man of] faith! There's a big difference… We take a lot of what we're talking about in science on faith. We posit a theory… and until it's disproven, we have faith that it's true. If the mathematics work out, then it's true. Until it's proven to be untrue."
+      "sourceUrl": "http://www.patheos.com/blogs/friendlyatheist/2010/06/02/morgan-freeman-tells-cnn-anchor-he-is-not-a-man-of-god/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2011/06/22/morgan-freeman-talks-afte_n_882355.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Freeman is known for his gravitas and he has shown much interest in the unanswerable questions of life, particularly on his show,"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Through the Wormhole"
+    },
+    {
+      "type": "text",
+      "text": ". The show tackles topics such as: whether or not man invented God, if there are superior beings in the universe, and the nature of good and evil.",
+      "parentId": 5,
       "sourceTitle": "Morgan Freeman Talks Afterlife, The Universe, Aliens On 'Through The Wormhole.'",
-      "text": "Freeman is known for his gravitas and he has shown much interest in the unanswerable questions of life, particularly on his show, . The show tackles topics such as: whether or not man invented God, if there are superior beings in the universe, and the nature of good and evil."
+      "sourceUrl": "http://www.huffingtonpost.com/2011/06/22/morgan-freeman-talks-afte_n_882355.html"
     },
     {
-      "type": "sentence",
-      "text": "On that topic, Freeman says:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "On that topic, Freeman says:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.thewrap.com/tv/article/morgan-freeman-inventing-god-aliens-eating-us-and-his-odds-surviving-dark-knight-rises-42886?page=0,0",
-      "sourceTitle": "Morgan Freeman on Inventing God, Aliens Eating Us and His Survival Odds in 'Dark Knight Rises.'",
-      "text": "You cannot [eliminate evil]. Because if you eliminate evil you'll also eliminate good… Evil is the opposite of good. Like up is the opposite of down, left is the opposite of right. You only have one because you have the other."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "You cannot [eliminate evil]. Because if you eliminate evil you'll also eliminate good… Evil is the opposite of good. Like up is the opposite of down, left is the opposite of right. You only have one because you have the other.",
+      "sourceTitle": "Morgan Freeman on Inventing God, Aliens Eating Us and His Survival Odds in 'Dark Knight Rises.'",
+      "sourceUrl": "http://www.thewrap.com/tv/article/morgan-freeman-inventing-god-aliens-eating-us-and-his-odds-surviving-dark-knight-rises-42886?page=0,0"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Though he's never said it, my view is that because of his strong rejection to being called a \"man of god\" and his fascination with topics that would easily be borderline blasphemous to religious folks, Freeman is an atheist."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "No black politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thedailybeast.com/newsweek/2007/12/20/freeman-obama-and-hollywood-immortality.html",
-      "sourceTitle": "Morgan Freeman on Obama, Movies and Race",
-      "text": "Freeman hasn't shied away from controversy when it comes to politics. He did endorse Barack Obama in 2008,"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thedailybeast.com/newsweek/2007/12/20/freeman-obama-and-hollywood-immortality.html",
+      "parentId": 10,
+      "type": "text",
+      "text": "Freeman hasn't shied away from controversy when it comes to politics. He did endorse Barack Obama in 2008,",
       "sourceTitle": "Morgan Freeman on Obama, Movies and Race",
-      "text": "but not because he's black. Freeman has said he doesn't \"do\" race"
+      "sourceUrl": "http://www.thedailybeast.com/newsweek/2007/12/20/freeman-obama-and-hollywood-immortality.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://today.msnbc.msn.com/id/10482634",
+      "type": "text",
+      "text": "but not because he's black. Freeman has said he doesn't \"do\" race",
+      "parentId": 10,
+      "sourceTitle": "Morgan Freeman on Obama, Movies and Race",
+      "sourceUrl": "http://www.thedailybeast.com/newsweek/2007/12/20/freeman-obama-and-hollywood-immortality.html"
+    },
+    {
+      "type": "text",
+      "text": "and has even said there should be no black history month because it is ridiculous and black history is American history. Plus, there's no white history month.",
+      "parentId": 10,
       "sourceTitle": "Freeman says black history month 'ridiculous.'",
-      "text": "and has even said there should be no black history month because it is ridiculous and black history is American history. Plus, there's no white history month."
+      "sourceUrl": "http://today.msnbc.msn.com/id/10482634"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "Ok, he doesn't do race. But he called the Tea Party's anti-Obama stance a matter of race, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://articles.nydailynews.com/2011-09-23/news/30214850_1_tea-party-cnn-s-piers-morgan-president-obama",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "The Tea Partiers who are controlling the Republican party… their stated policy, publicly stated, is to do whatever it takes to see to it that Obama only serves one term. What underlines that …'Screw the country, we're going to do whatever we can to get this black man out of here [mentality]'? It is a racist thing.",
       "sourceTitle": "Morgan Freeman to CNN's Piers Morgan: The Tea Party is racist",
-      "text": "The Tea Partiers who are controlling the Republican party… their stated policy, publicly stated, is to do whatever it takes to see to it that Obama only serves one term. What underlines that …'Screw the country, we're going to do whatever we can to get this black man out of here [mentality]'? It is a racist thing."
+      "sourceUrl": "http://articles.nydailynews.com/2011-09-23/news/30214850_1_tea-party-cnn-s-piers-morgan-president-obama"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hollywoodreporter.com/news/morgan-freeman-time-warner-shareholders-meeting-324725",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "The statement, while possibly true, caused concern among sponsors and shareholders of a Morgan Freeman movie that was coming out at the time",
       "sourceTitle": "Morgan Freeman Political Statements Discussed at Time Warner Shareholder Meeting",
-      "text": "The statement, while possibly true, caused concern among sponsors and shareholders of a Morgan Freeman movie that was coming out at the time"
+      "sourceUrl": "http://www.hollywoodreporter.com/news/morgan-freeman-time-warner-shareholders-meeting-324725"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.foxnews.com/politics/2011/09/29/morgan-freeman-receives-invite-to-tea-party-after-calls-movement-racist/",
+      "type": "text",
+      "text": "and prompted the Tea Party to invite Freeman to any event.",
+      "parentId": 14,
       "sourceTitle": "Morgan Freeman Receives Invite to Tea Party After He Calls Movement Racist",
-      "text": "and prompted the Tea Party to invite Freeman to any event."
+      "sourceUrl": "http://www.foxnews.com/politics/2011/09/29/morgan-freeman-receives-invite-to-tea-party-after-calls-movement-racist/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.nydailynews.com/2011-09-24/news/30219839_1_herman-cain-gop-presidential-debate-presidential-hopefuls",
+      "type": "text",
+      "text": "Plus, Tea Party favorite and African American former presidential candidate Herman Cain weighed-in on Freeman's comments, calling them untrue.",
+      "parentId": 14,
       "sourceTitle": "Herman Cain, GOP presidential candidate, hits back at Morgan Freeman for calling Tea Party 'racist.'",
-      "text": "Plus, Tea Party favorite and African American former presidential candidate Herman Cain weighed-in on Freeman's comments, calling them untrue."
+      "sourceUrl": "http://articles.nydailynews.com/2011-09-24/news/30219839_1_herman-cain-gop-presidential-debate-presidential-hopefuls"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "Apparently, when Freeman speaks, the establishment listens. Maybe he should speak up more often."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

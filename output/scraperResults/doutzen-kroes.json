@@ -32,93 +32,149 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Doutzen Kroes was born in Eastermar, Friesland, the Netherlands."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_the_Netherlands",
+      "parentId": 2,
+      "type": "text",
+      "text": "Over half the population of Kroes' home country, one of the most secular in the world, is non-religious,",
       "sourceTitle": "Religion in the Netherlands.",
-      "text": "Over half the population of Kroes' home country, one of the most secular in the world, is non-religious,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_the_Netherlands"
     },
     {
-      "type": "sentence",
-      "text": "and I'm afraid that our current subject is one of them. Mostly that's bad news because she doesn't give me hardly anything to write about."
+      "type": "text",
+      "text": "and I'm afraid that our current subject is one of them. Mostly that's bad news because she doesn't give me hardly anything to write about.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/Doutzen/status/284046339183099905",
+      "parentId": 3,
+      "type": "text",
+      "text": "But let's see, the pseudo-Christian influence on her upbringing came out in 2012 when she  tweeted \"How was your Christmas?\" with a little Instagram"
+    },
+    {
+      "parentId": 3,
+      "type": "link",
+      "text": "picture",
+      "sourceUrl": "http://instagram.com/p/TtvI-pzVPj/"
+    },
+    {
+      "type": "text",
+      "text": "attached.",
+      "parentId": 3,
       "sourceTitle": "Doutzen: How was your Christmas? …",
-      "text": "But let's see, the pseudo-Christian influence on her upbringing came out in 2012 when she  tweeted \"How was your Christmas?\" with a little Instagram  attached."
+      "sourceUrl": "https://twitter.com/Doutzen/status/284046339183099905"
     },
     {
-      "type": "sentence",
-      "text": "So she celebrates Christmas, but apparently she does it wearing less fabric than it takes to make a baby sock."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "So she celebrates Christmas, but apparently she does it wearing less fabric than it takes to make a baby sock.",
+      "parentId": 3
     },
     {
       "type": "heading",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "Obama and the Liberal Worldview"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://coolspotters.com/models/doutzen-kroes/and/clothing/barack-obama-progress-t-shirt#medium-246400",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Moving on, as you would expect from a Dutch woman, she is liberal when it comes to American politics. I couldn't find a thing about her political views in the country of her birth, but in the U.S. where she works and lives, she's an Obama fan. She wears Obama t-shirts out and about",
       "sourceTitle": "Doutzen Kroes and Barack Obama Progress T-Shirt.",
-      "text": "Moving on, as you would expect from a Dutch woman, she is liberal when it comes to American politics. I couldn't find a thing about her political views in the country of her birth, but in the U.S. where she works and lives, she's an Obama fan. She wears Obama t-shirts out and about"
+      "sourceUrl": "http://coolspotters.com/models/doutzen-kroes/and/clothing/barack-obama-progress-t-shirt#medium-246400"
     },
     {
-      "type": "sentence",
-      "text": "and she was all over Twitter supporting the president in 2012."
+      "type": "text",
+      "text": "and she was all over Twitter supporting the president in 2012.",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tweetwood.com/Doutzen/tweet/217364285859430400",
+      "parentId": 6,
+      "type": "text",
+      "text": "She tweeted Obama quotes",
       "sourceTitle": "Doutzen Kroes tweets.",
-      "text": "She tweeted Obama quotes"
+      "sourceUrl": "http://tweetwood.com/Doutzen/tweet/217364285859430400"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tweetwood.com/conversation/Doutzen/BarackObama",
+      "type": "text",
+      "text": "and her congratulations on election night.",
+      "parentId": 6,
       "sourceTitle": "Twitter conversation between Doutzen Kroes and Barack Obama.",
-      "text": "and her congratulations on election night."
+      "sourceUrl": "http://tweetwood.com/conversation/Doutzen/BarackObama"
     },
     {
-      "type": "sentence",
-      "text": "But perhaps the best indication of her liberal worldview is her retweet of  from Obama's campaign comparing Mitt Romney's quote that if people want to go to college, they should borrow money from their parents with Obama's:"
+      "type": "text",
+      "text": "But perhaps the best indication of her liberal worldview is her retweet of",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "link",
+      "text": "this poster",
+      "sourceUrl": "https://twitter.com/BarackObama/status/265290216716263424/photo/1"
+    },
+    {
+      "type": "text",
+      "text": "from Obama's campaign comparing Mitt Romney's quote that if people want to go to college, they should borrow money from their parents with Obama's:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/Doutzen",
-      "sourceTitle": "Doutzen Kroes (Doutzen) on Twitter.",
-      "text": "A higher education can't be a luxury–it's an economic imperative that every American should be able to afford."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "A higher education can't be a luxury–it's an economic imperative that every American should be able to afford.",
+      "sourceTitle": "Doutzen Kroes (Doutzen) on Twitter.",
+      "sourceUrl": "https://twitter.com/Doutzen"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "That quote gets right to the meat of the distinction between liberal and conservative. Things like health care and education are things the government will either provide or help people afford–or they are the responsibility of the individual to provide for themselves, and government only gets in the way."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "Maybe this would be a good opportunity for you all to have a civil discussion about which is the better approach? Or maybe that's too heavy for Kroes' page. You decide amongst yourselves."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

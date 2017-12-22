@@ -36,128 +36,197 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Brigitte Bardot was born and raised in Paris, France."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/815/000023746/",
+      "parentId": 2,
+      "type": "text",
+      "text": "She grew up in a conservative Catholic family,",
       "sourceTitle": "Brigitte Bardot.",
-      "text": "She grew up in a conservative Catholic family,"
+      "sourceUrl": "http://www.nndb.com/people/815/000023746/"
     },
     {
-      "type": "sentence",
-      "text": "but it didn't seem to stick with her. I couldn't find any indication that Bardot considers herself a Catholic as an adult, or that she considers herself religious at all. I couldn't even find a picture of her wearing a cross, or any other subtle indication of religious faith."
+      "type": "text",
+      "text": "but it didn't seem to stick with her. I couldn't find any indication that Bardot considers herself a Catholic as an adult, or that she considers herself religious at all. I couldn't even find a picture of her wearing a cross, or any other subtle indication of religious faith.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "And some of the things she says make clear that certain tenets of the Catholic faith–like, say, the prohibition against adultery–aren't something she takes seriously. She said,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.nndb.com/people/815/000023746/",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "It is better to be unfaithful than to be faithful without wanting to be.",
       "sourceTitle": "Brigitte Bardot.",
-      "text": "It is better to be unfaithful than to be faithful without wanting to be."
+      "sourceUrl": "http://www.nndb.com/people/815/000023746/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://pate.blogs.france24.com/article/2012/03/06/brigitte-bardot-cat-loving-muslim-hating-old-bag-0",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "She hasn't said anything about being an atheist either, so she's probably not. But she's certainly not overly tolerant of religion either. Bardot has railed against the Muslim practice of slaughtering animals during the holiday Eid al-Adha, and insists that the animals should be stunned before being killed. But her comments about the practice, and also the increasing Muslim immigrant population in France, have a racist tone that has caused her to be fined by French courts five times for inciting racial hatred.",
       "sourceTitle": "Brigitte Bardot: Loves dogs, hates Muslims.",
-      "text": "She hasn't said anything about being an atheist either, so she's probably not. But she's certainly not overly tolerant of religion either. Bardot has railed against the Muslim practice of slaughtering animals during the holiday Eid al-Adha, and insists that the animals should be stunned before being killed. But her comments about the practice, and also the increasing Muslim immigrant population in France, have a racist tone that has caused her to be fined by French courts five times for inciting racial hatred."
+      "sourceUrl": "http://pate.blogs.france24.com/article/2012/03/06/brigitte-bardot-cat-loving-muslim-hating-old-bag-0"
     },
     {
-      "type": "sentence",
-      "text": "In a book written in 2003, Bardot stated,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "In a book written in 2003, Bardot stated,",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.vdare.com/articles/brigitte-bardots-cry-in-the-silence",
-      "sourceTitle": "Brigitte Bardot's Cry In The Silence.",
-      "text": "Over the last twenty years, we have given in to a subterranean, dangerous, and uncontrolled infiltration, which not only resists adjusting to our laws and customs but which will, as the years pass, attempt to impose its own."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Over the last twenty years, we have given in to a subterranean, dangerous, and uncontrolled infiltration, which not only resists adjusting to our laws and customs but which will, as the years pass, attempt to impose its own.",
+      "sourceTitle": "Brigitte Bardot's Cry In The Silence.",
+      "sourceUrl": "http://www.vdare.com/articles/brigitte-bardots-cry-in-the-silence"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Whether her comments are made in the spirit of animal rights or religious intolerance is a matter for you all to debate in the comments."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "In defense of the defenseless"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "As mentioned above, Bardot is an incredibly devoted animal rights activist. She retired from her film career in 1973 in order to focus all her energy on the cause. She founded the Brigitte Bardot Foundation and even sold many of her possession to fill its coffers. She said about her work,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.ecorazzi.com/2012/02/20/brigitte-bardot-talks-lifelong-passion-for-animals/",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I am not playing political games. . . . I belong to no party and I am militant for no one. All of my causes, including the most radical, are motivated by the defense of animals. I don't care about looking conservative and awkward. I'm only looking to assuage my soul and protect the animals.",
       "sourceTitle": "Brigitte Bardot Talks Lifelong Passion for Animals.",
-      "text": "I am not playing political games. . . . I belong to no party and I am militant for no one. All of my causes, including the most radical, are motivated by the defense of animals. I don't care about looking conservative and awkward. I'm only looking to assuage my soul and protect the animals."
+      "sourceUrl": "http://www.ecorazzi.com/2012/02/20/brigitte-bardot-talks-lifelong-passion-for-animals/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ecorazzi.com/2012/02/20/brigitte-bardot-talks-lifelong-passion-for-animals/",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "She has publicly opposed seal hunts, animal testing, hunting, fur-wearing, and bullfighting to name a few.",
       "sourceTitle": "Brigitte Bardot Talks Lifelong Passion for Animals.",
-      "text": "She has publicly opposed seal hunts, animal testing, hunting, fur-wearing, and bullfighting to name a few."
+      "sourceUrl": "http://www.ecorazzi.com/2012/02/20/brigitte-bardot-talks-lifelong-passion-for-animals/"
     },
     {
-      "type": "sentence",
-      "text": "And her defense of animals will take her both to the far right and the far left of any given debate."
+      "type": "text",
+      "text": "And her defense of animals will take her both to the far right and the far left of any given debate.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "On the heels of Gerard Depardieu gaining Russian citizenship in protest of François Hollande's promised extreme tax hike on the rich, Bardot claimed she would do the same, but in reaction to a French court's decision to put down two tuberculosis-infected circus elephants–not taxes. She said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/europe/france/9780815/Brigitte-Bardot-threatens-to-follow-Gerard-Depardieu-in-leaving-France-for-Russia.html",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "If those in power are cowardly and impudent enough to kill the elephants. . . then I have decided I will ask for Russian nationality to get out of this country which has become nothing more than an animal cemetery.",
       "sourceTitle": "Brigitte Bardot threatens to follow Gerard Depardieu in leaving France for Russia.",
-      "text": "If those in power are cowardly and impudent enough to kill the elephants. . . then I have decided I will ask for Russian nationality to get out of this country which has become nothing more than an animal cemetery."
+      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/europe/france/9780815/Brigitte-Bardot-threatens-to-follow-Gerard-Depardieu-in-leaving-France-for-Russia.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/news/article-1321320/Brigitte-Bardot-wants-challenge-Nicholas-Sarkozy-French-president.html#axzz2Kcw75Hjk",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "And although she considered running for president with the left-leaning Independent Ecological Alliance party in 2012,",
       "sourceTitle": "Brigitte Bardot wants to challenge Nicholas Sarkozy as French president.",
-      "text": "And although she considered running for president with the left-leaning Independent Ecological Alliance party in 2012,"
+      "sourceUrl": "http://www.dailymail.co.uk/news/article-1321320/Brigitte-Bardot-wants-challenge-Nicholas-Sarkozy-French-president.html#axzz2Kcw75Hjk"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thedailybeast.com/articles/2012/02/24/brigitte-bardot-pens-letter-of-support-for-far-right-front-national-candidate-marine-le-pen.html",
+      "type": "text",
+      "text": "she instead endorsed far-right National Front candidate Marine Le Pen for her defense of animal rights.",
+      "parentId": 18,
       "sourceTitle": "Brigitte Bardot Pens Letter of Support For Far-Right Front National Candidate Marine Le Pen.",
-      "text": "she instead endorsed far-right National Front candidate Marine Le Pen for her defense of animal rights."
+      "sourceUrl": "http://www.thedailybeast.com/articles/2012/02/24/brigitte-bardot-pens-letter-of-support-for-far-right-front-national-candidate-marine-le-pen.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
+      "parentId": 19,
+      "type": "text",
       "text": "Talk about your one-issue voter. It's tough to say where Bardot's beliefs will take her next. You'll keep us updated in the comments, won't you?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

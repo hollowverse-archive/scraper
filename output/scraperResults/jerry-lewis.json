@@ -38,97 +38,156 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jerry Lewis, whose name at birth was Jerry Levitch, was born and raised in Newark, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.buzzle.com/articles/biography-of-jerry-lewis.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "To my surprise, I couldn't find hardly any information about Lewis' religious beliefs. He was Jewish–both of his parents were Russian Jewish immigrants.",
       "sourceTitle": "Biography of Jerry Lewis.",
-      "text": "To my surprise, I couldn't find hardly any information about Lewis' religious beliefs. He was Jewish–both of his parents were Russian Jewish immigrants."
+      "sourceUrl": "http://www.buzzle.com/articles/biography-of-jerry-lewis.html"
     },
     {
-      "type": "sentence",
-      "text": "But beyond that, the details are sketchy."
+      "type": "text",
+      "text": "But beyond that, the details are sketchy.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "When asked about his life in high school, he once said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.tabletmag.com/jewish-arts-and-culture/94492/hey-jer-ree",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "[I was] the original graffiti artist—I drew a picture of Hitler kissing a Jewish lady!",
       "sourceTitle": "Celebrating Jerry Lewis' 86th birthday.",
-      "text": "[I was] the original graffiti artist—I drew a picture of Hitler kissing a Jewish lady!"
+      "sourceUrl": "http://www.tabletmag.com/jewish-arts-and-culture/94492/hey-jer-ree"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/408/000022342/",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I don't know if that makes him sound more or less like a Jew. He also once directed and starred in a movie with a. . . um, odd premise, called"
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "The Day The Clown Cried"
+    },
+    {
+      "type": "text",
+      "text": "about a clown in a concentration camp, although it was never released.",
+      "parentId": 6,
       "sourceTitle": "Jerry Lewis.",
-      "text": "I don't know if that makes him sound more or less like a Jew. He also once directed and starred in a movie with a. . . um, odd premise, called  about a clown in a concentration camp, although it was never released."
+      "sourceUrl": "http://www.nndb.com/people/408/000022342/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "The best conclusion I can come to is that he was not a practicing Jew, and that it didn't have an overwhelming influence on his life or career. If any of you have more information, please let us know in the comments."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
+      "text": "Show Some Respect, Moron"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "You're not going to get a lot of political opinions out of Lewis either. He seems to feel that it's more important to support one's leaders than to criticize. When asked by a British journalist in 2004 what he was least proud of, he said politics–not his, but the world's. He said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/film/2004/apr/08/1",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "President Bush is my president. I will not say anything negative about the president of the United States. I don't do that. And I don't allow my children to do that. Likewise when I come to England don't you do any jokes about 'Mum' to me. That is the Queen of England, you moron.",
       "sourceTitle": "'My dream is to be perfect.'",
-      "text": "President Bush is my president. I will not say anything negative about the president of the United States. I don't do that. And I don't allow my children to do that. Likewise when I come to England don't you do any jokes about 'Mum' to me. That is the Queen of England, you moron."
+      "sourceUrl": "http://www.guardian.co.uk/film/2004/apr/08/1"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/film/2004/apr/08/1",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "He went on to say that none of us know how hard it is to be the leader of a country, and that not enough people take the time to say they are proud of their country anymore.",
       "sourceTitle": "'My dream is to be perfect.'",
-      "text": "He went on to say that none of us know how hard it is to be the leader of a country, and that not enough people take the time to say they are proud of their country anymore."
+      "sourceUrl": "http://www.guardian.co.uk/film/2004/apr/08/1"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://entertainment.time.com/2012/08/16/why-did-jerry-lewis-leave-the-telethon/",
+      "parentId": 13,
+      "type": "text",
+      "text": "So instead of devoting his time to partisan politics, Lewis spent his time trying to help America's children. He was the national chairman for the Muscular Dystrophy Association, hosting its national telethon every year for 45 years until 2011, and raised over $2 billion over his time with the organization.",
       "sourceTitle": "Why Did Jerry Lewis Leave the Telethon?",
-      "text": "So instead of devoting his time to partisan politics, Lewis spent his time trying to help America's children. He was the national chairman for the Muscular Dystrophy Association, hosting its national telethon every year for 45 years until 2011, and raised over $2 billion over his time with the organization."
+      "sourceUrl": "http://entertainment.time.com/2012/08/16/why-did-jerry-lewis-leave-the-telethon/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/film/2004/apr/08/1",
+      "type": "text",
+      "text": "He was even nominated for a Nobel prize for his work.",
+      "parentId": 13,
       "sourceTitle": "'My dream is to be perfect.'",
-      "text": "He was even nominated for a Nobel prize for his work."
+      "sourceUrl": "http://www.guardian.co.uk/film/2004/apr/08/1"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "For him, politics means pride in one's country, and pride in one's country means helping its fellow citizens. And his work in that capacity will be a permanent fixture of the Jerry Lewis legacy."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

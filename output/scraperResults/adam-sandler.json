@@ -33,127 +33,220 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Adam Sandler grew up between Brooklyn, New York and New Hampshire in a Jewish family. He doesn't talk a lot about his religion except in his films and songs, but the Jewish holiday-centered ditty \"Hanukkah Song\" was a worldwide hit. And it's no wonder with lyrics like:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 2
     },
     {
-      "type": "quote",
+      "type": "paragraph",
+      "id": 3,
+      "parentId": 2
+    },
+    {
+      "parentId": 3,
+      "type": "text",
       "text": "Put on your yalmulka, here comes hanukkah\nIts so much fun-akkah to celebrate hanukkah"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "and"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.lyricsfreak.com/a/adam+sandler/the+hanukkah+song_20003925.html",
-      "sourceTitle": "The Hanukkah Song Lyrics",
-      "text": "So drink your gin-and-tonic-ah, and smoke your mara-juanic-ah,\nIf you really, really wanna-kah, have a happy, happy, happy, happy\nHanukkah."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "So drink your gin-and-tonic-ah, and smoke your mara-juanic-ah,\nIf you really, really wanna-kah, have a happy, happy, happy, happy\nHanukkah.",
+      "sourceTitle": "The Hanukkah Song Lyrics",
+      "sourceUrl": "http://www.lyricsfreak.com/a/adam+sandler/the+hanukkah+song_20003925.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "I didn't realize being Jewish involved getting baked. I might convert."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "text": "His movie, , was a 2-hour montage of Jewish stereotypes with people using hummus as fire retardant and toothpaste and dialogue interspersed with Yiddish phrases."
+      "parentId": 8,
+      "type": "text",
+      "text": "His movie,"
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "You Don't Mess with the Zohan"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": ", was a 2-hour montage of Jewish stereotypes with people using hummus as fire retardant and toothpaste and dialogue interspersed with Yiddish phrases.",
+      "parentId": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Being Jewish isn't something Sandler openly discusses much. He has talked about growing up Jewish, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.msnbc.msn.com/id/37543215/ns/dateline_nbc-newsmakers/t/growing-funny/#.T1Jbf4FuDAk",
-      "sourceTitle": "Growing up funny",
-      "text": "There weren't that many Jewish people where I grew up. What would happen is I'd hear comments made from not, not my buddies but someone else in the class would say something. So, yeah, that would be painful. But when it happened, you know, my father would always tell me I'd have to smack the kid around whoever would say it."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "There weren't that many Jewish people where I grew up. What would happen is I'd hear comments made from not, not my buddies but someone else in the class would say something. So, yeah, that would be painful. But when it happened, you know, my father would always tell me I'd have to smack the kid around whoever would say it.",
+      "sourceTitle": "Growing up funny",
+      "sourceUrl": "http://www.msnbc.msn.com/id/37543215/ns/dateline_nbc-newsmakers/t/growing-funny/#.T1Jbf4FuDAk"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Sandler probably didn't smack too many kids around, but has said being funny is how he dealt with bullies. He once said, though I'm not quite sure what it means:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 13
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.msnbc.msn.com/id/37543215/ns/dateline_nbc-newsmakers/t/growing-funny/#.T1Jbf4FuDAk",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "There'd be no Jews without bullies!",
       "sourceTitle": "Growing up funny",
-      "text": "There'd be no Jews without bullies!"
+      "sourceUrl": "http://www.msnbc.msn.com/id/37543215/ns/dateline_nbc-newsmakers/t/growing-funny/#.T1Jbf4FuDAk"
     },
     {
       "type": "heading",
+      "id": 15
+    },
+    {
+      "type": "heading",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "A Republican Jew?"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Again, politics or the advancement of society isn't a topic Sandler likes to talk about. His expertise lies mostly in dick and fart jokes. But he is a registered Republican, which is uncharacteristic for a Jew and is even somewhat active in the party."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Adam_Sandler.php",
+      "parentId": 18,
+      "type": "text",
+      "text": "In 2007, Sandler donated $2,100 to Republican Rudy Giuliani's failed presidential campaign",
       "sourceTitle": "Adam Sandler's Federal Campaign Contribution Report",
-      "text": "In 2007, Sandler donated $2,100 to Republican Rudy Giuliani's failed presidential campaign"
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Adam_Sandler.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://xfinity.comcast.net/slideshow/entertainment-10adamsandlerfacts/7/",
+      "type": "text",
+      "text": "and he performed at the 2004 Republican National Convention.",
+      "parentId": 18,
       "sourceTitle": "10 Surprising Facts About Adam Sandler",
-      "text": "and he performed at the 2004 Republican National Convention."
+      "sourceUrl": "http://xfinity.comcast.net/slideshow/entertainment-10adamsandlerfacts/7/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/1-adam-sandler",
+      "parentId": 19,
+      "type": "text",
+      "text": "He's contributed to a long list of charities,",
       "sourceTitle": "Adam Sandler",
-      "text": "He's contributed to a long list of charities,"
+      "sourceUrl": "http://www.looktothestars.org/celebrity/1-adam-sandler"
     },
     {
-      "type": "sentence",
-      "text": "some of which involving Israel. In 2006, he donated 400 PlayStation game consoles to Israeli kids whose houses were hit by Hamas rockets."
+      "type": "text",
+      "text": "some of which involving Israel. In 2006, he donated 400 PlayStation game consoles to Israeli kids whose houses were hit by Hamas rockets.",
+      "parentId": 19
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "The program was part of a celebrity-endorsed anti-terrorist campaign, whose declaration read:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://news.softpedia.com/news/Adam-Sandler-Wants-to-Fight-Against-Terrorism-33306.shtml",
+      "id": 21
+    },
+    {
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "We, signed below, are devastated and shocked from the civilian damage in Israel and Lebanon caused by terrorist activities and executed by terrorist organizations such as Hamas and Hizballah. If we do not stop global terrorism, chaos will reign and innocent people will continue to pay with their lives. We must support democratic societies and stop terrorism at all cost.",
       "sourceTitle": "Adam Sandler Joins the Fight against Terrorism",
-      "text": "We, signed below, are devastated and shocked from the civilian damage in Israel and Lebanon caused by terrorist activities and executed by terrorist organizations such as Hamas and Hizballah. If we do not stop global terrorism, chaos will reign and innocent people will continue to pay with their lives. We must support democratic societies and stop terrorism at all cost."
+      "sourceUrl": "http://news.softpedia.com/news/Adam-Sandler-Wants-to-Fight-Against-Terrorism-33306.shtml"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 23
+    },
+    {
+      "parentId": 23,
+      "type": "text",
       "text": "See, the funny man can get serious."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

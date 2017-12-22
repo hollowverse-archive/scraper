@@ -31,216 +31,280 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Barack Obama was born in Honolulu, Hawaii and grew up there and in Seattle, Washington and in Indonesia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://atheism.about.com/od/barackobamareligionfaith/a/ObamaReligion.htm",
+      "parentId": 2,
+      "type": "text",
+      "text": "Obama's father was an atheist who was raised by Muslims in Kenya. His mother was a Christian but we know she wasn't very devout.",
       "sourceTitle": "Barack Obama's Religious Beliefs & Background: What does Barack Obama Believe?",
-      "text": "Obama's father was an atheist who was raised by Muslims in Kenya. His mother was a Christian but we know she wasn't very devout."
+      "sourceUrl": "http://atheism.about.com/od/barackobamareligionfaith/a/ObamaReligion.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://archives.starbulletin.com/2004/03/21/news/story4.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Throughout his childhood, Obama attended a Catholic school, a Muslim school, public school, and private school. It would be safe to assume that Obama is conscious and aware of a multitude of religious belief systems.",
       "sourceTitle": "Punahou Grad Stirs Up Illinois Politics",
-      "text": "Throughout his childhood, Obama attended a Catholic school, a Muslim school, public school, and private school. It would be safe to assume that Obama is conscious and aware of a multitude of religious belief systems."
+      "sourceUrl": "http://archives.starbulletin.com/2004/03/21/news/story4.html"
     },
     {
-      "type": "sentence",
-      "text": "."
+      "type": "text",
+      "text": ".",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://atheism.about.com/od/barackobamareligionfaith/a/ObamaReligion.htm",
+      "parentId": 4,
+      "type": "text",
+      "text": "Just about the time he wanted to be a politician, Obama was baptized in a Protestant church called the Trinity United Church of Christ in Chicago, Illinois.",
       "sourceTitle": "Barack Obama's Religious Beliefs & Background: What does Barack Obama Believe?",
-      "text": "Just about the time he wanted to be a politician, Obama was baptized in a Protestant church called the Trinity United Church of Christ in Chicago, Illinois."
+      "sourceUrl": "http://atheism.about.com/od/barackobamareligionfaith/a/ObamaReligion.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "Obama's chosen denomination caused him some grief during his bid for the presidency in 2008. Rev. Jeremiah Wright Jr. of the Trinity United Church of Christ is known to be a bit more than critical of various American institutions."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.csmonitor.com/USA/Society/2008/0328/p03s07-ussc.html/%28page%29/2",
+      "parentId": 6,
+      "type": "text",
+      "text": "For example, rather than sing the traditional lyrics of the patriotic song \"God Bless America,\" Wright suggested they might consider singing \"God Damn America\" instead.",
       "sourceTitle": "Did Obama's pastor preach hate?",
-      "text": "For example, rather than sing the traditional lyrics of the patriotic song \"God Bless America,\" Wright suggested they might consider singing \"God Damn America\" instead."
+      "sourceUrl": "http://www.csmonitor.com/USA/Society/2008/0328/p03s07-ussc.html/%28page%29/2"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.csmonitor.com/USA/Society/2008/0328/p03s07-ussc.html/%28page%29/2",
+      "type": "text",
+      "text": "Furthermore, (and Rev. Wright is certainly not the first person to say this) America's racist, oppressive policies–both foreign and domestic–were to blame for 9/11.",
+      "parentId": 6,
       "sourceTitle": "Did Obama's pastor preach hate?",
-      "text": "Furthermore, (and Rev. Wright is certainly not the first person to say this) America's racist, oppressive policies–both foreign and domestic–were to blame for 9/11."
+      "sourceUrl": "http://www.csmonitor.com/USA/Society/2008/0328/p03s07-ussc.html/%28page%29/2"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.csmonitor.com/USA/Society/2008/0328/p03s07-ussc.html/%28page%29/2",
+      "parentId": 7,
+      "type": "text",
+      "text": "Naturally, Obama quickly condemned his former preacher's remarks and distanced himself from the church.",
       "sourceTitle": "Did Obama's pastor preach hate?",
-      "text": "Naturally, Obama quickly condemned his former preacher's remarks and distanced himself from the church."
+      "sourceUrl": "http://www.csmonitor.com/USA/Society/2008/0328/p03s07-ussc.html/%28page%29/2"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "The evidence suggests that perhaps Obama isn't a particularly religious man. He's certainly not a politician who advocates the combination of church and state, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.notable-quotes.com/o/obama_barack.html",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "And those who do are likely to be those with the most insular views of faith, or who cynically use religion to justify partisan ends.",
       "sourceTitle": "Barack Obama Quotes",
-      "text": "And those who do are likely to be those with the most insular views of faith, or who cynically use religion to justify partisan ends."
+      "sourceUrl": "http://www.notable-quotes.com/o/obama_barack.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/blogs/politics/2011/12/the-first-family-goes-to-church/",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Moreover, the president and his family have yet to formally claim any church since moving to Washington D.C., though they do attend various churches in the area on occasion–sometimes Baptist, sometimes Episcopalian, but always Christian.",
       "sourceTitle": "The First Family Goes to Church",
-      "text": "Moreover, the president and his family have yet to formally claim any church since moving to Washington D.C., though they do attend various churches in the area on occasion–sometimes Baptist, sometimes Episcopalian, but always Christian."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://abcnews.go.com/blogs/politics/2011/12/the-first-family-goes-to-church/"
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Presidential politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Obama is a member of the Democratic Party."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "The truth of his presidency is shrouded in a thick veil of partisanship, obfuscation and propaganda. It is likely the full weight and implications of his policies and political philosophy won't be realized or understood until many years after he leaves office."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.justforeignpolicy.org/obamavsbush",
+      "parentId": 15,
+      "type": "text",
+      "text": "In many ways, he continued some of the more controversial aspects of his predecessor, George W. Bush. He continued the war in Afghanistan,",
       "sourceTitle": "U.S. Deaths in Afghanistan: Obama vs Bush",
-      "text": "In many ways, he continued some of the more controversial aspects of his predecessor, George W. Bush. He continued the war in Afghanistan,"
+      "sourceUrl": "http://www.justforeignpolicy.org/obamavsbush"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2011/03/07/obama-guantanamo-trials_n_832451.html",
+      "type": "text",
+      "text": "kept the dubious prison known as Guantanamo Bay open and fully operational,",
+      "parentId": 15,
       "sourceTitle": "Obama To Restart Guantanamo Bay Trails After Two-Year Ban",
-      "text": "kept the dubious prison known as Guantanamo Bay open and fully operational,"
+      "sourceUrl": "http://www.huffingtonpost.com/2011/03/07/obama-guantanamo-trials_n_832451.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.debate.org/opinions/was-the-700-billion-bailout-plan-for-the-us-financial-crisis-a-good-idea",
+      "type": "text",
+      "text": "and he provided hundreds of billions of dollars to flailing corporations and Wall Street firms in hopes of preventing an all-out economic meltdown",
+      "parentId": 15,
       "sourceTitle": "Was the $700 billion bailout plan for the US financial crisis a good idea?",
-      "text": "and he provided hundreds of billions of dollars to flailing corporations and Wall Street firms in hopes of preventing an all-out economic meltdown"
+      "sourceUrl": "http://www.debate.org/opinions/was-the-700-billion-bailout-plan-for-the-us-financial-crisis-a-good-idea"
     },
     {
-      "type": "sentence",
-      "text": "–or to concentrate enormous amounts of wealth into the hands of political and financial elites, depending on how you look at it."
+      "type": "text",
+      "text": "–or to concentrate enormous amounts of wealth into the hands of political and financial elites, depending on how you look at it.",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.denverpost.com/nationworld/ci_20981764/obamacares-passing-causing-controversy-congress",
+      "parentId": 16,
+      "type": "text",
+      "text": "The bulk of his truly liberal policies (at least at the time this article was written) have yet to be implemented. His socialized health care program, known as Obamacare, passed through Congress but debate and controversy swirl around it, threatening to overturn the law.",
       "sourceTitle": "Obamacare's passing causing controversy in Congress",
-      "text": "The bulk of his truly liberal policies (at least at the time this article was written) have yet to be implemented. His socialized health care program, known as Obamacare, passed through Congress but debate and controversy swirl around it, threatening to overturn the law."
+      "sourceUrl": "http://www.denverpost.com/nationworld/ci_20981764/obamacares-passing-causing-controversy-congress"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianpost.com/news/franklin-graham-obamas-endorsement-of-same-sex-marriage-a-big-problem-83523/",
+      "type": "text",
+      "text": "He has endorsed gay marriage, but it is still illegal on a federal level.",
+      "parentId": 16,
       "sourceTitle": "Franklin Graham: Obama's Endorsement of Same-Sex Marriage a 'big problem.'",
-      "text": "He has endorsed gay marriage, but it is still illegal on a federal level."
+      "sourceUrl": "http://www.christianpost.com/news/franklin-graham-obamas-endorsement-of-same-sex-marriage-a-big-problem-83523/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/DREAM_Act",
+      "type": "text",
+      "text": "His hope of nationalizing millions of illegal immigrants, a bill called the DREAM Act, has been introduced and denied four times since Obama took office.",
+      "parentId": 16,
       "sourceTitle": "DREAM Act",
-      "text": "His hope of nationalizing millions of illegal immigrants, a bill called the DREAM Act, has been introduced and denied four times since Obama took office."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://en.wikipedia.org/wiki/DREAM_Act"
     },
     {
       "type": "heading",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Public Perception"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.classwarfareexists.com/34-of-conservatives-think-obama-is-muslim-double-that-in-2008/#axzz29iThCK58",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Obama is a naturally divisive figure in America. It seems that you love and admire him or you revile everything about the man. Liberals are smitten with Obama's efforts regarding the previously-mentioned social issues. Conservatives have accused him of being a Muslim,",
       "sourceTitle": "34% of Conservatives Think Obama is Muslim; Double That in 2008",
-      "text": "Obama is a naturally divisive figure in America. It seems that you love and admire him or you revile everything about the man. Liberals are smitten with Obama's efforts regarding the previously-mentioned social issues. Conservatives have accused him of being a Muslim,"
+      "sourceUrl": "http://www.classwarfareexists.com/34-of-conservatives-think-obama-is-muslim-double-that-in-2008/#axzz29iThCK58"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theatlanticwire.com/politics/2012/06/conservatives-go-war-obama-they-have-not-socialist-they-want/53295/",
+      "type": "text",
+      "text": "a socialist",
+      "parentId": 18,
       "sourceTitle": "Conservatives Go To War with the Obama they have, Not the Socialist They Want",
-      "text": "a socialist"
+      "sourceUrl": "http://www.theatlanticwire.com/politics/2012/06/conservatives-go-war-obama-they-have-not-socialist-they-want/53295/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Barack_Obama_citizenship_conspiracy_theories",
+      "type": "text",
+      "text": "and a surprisingly large movement attempted to prove that he wasn't even an American citizen.",
+      "parentId": 18,
       "sourceTitle": "Barack Obama citizenship conspiracy theories",
-      "text": "and a surprisingly large movement attempted to prove that he wasn't even an American citizen."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Barack_Obama_citizenship_conspiracy_theories"
     },
     {
-      "type": "sentence",
-      "text": "No doubt, his race has garnered both undue support and undeserved hatred."
+      "type": "text",
+      "text": "No doubt, his race has garnered both undue support and undeserved hatred.",
+      "parentId": 18
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/blogs/politics/2011/12/with-reservations-obama-signs-act-to-allow-detention-of-citizens/",
+      "parentId": 19,
+      "type": "text",
+      "text": "Perhaps more legitimately, he has been called an enemy of freedom, signing into law the controversial National Defense Authorization Act (NDAA) that allows the U.S. military to detain U.S. citizens indefinitely without due process.",
       "sourceTitle": "With Reservations, Obama Signs Act to Allow Detention of Citizens",
-      "text": "Perhaps more legitimately, he has been called an enemy of freedom, signing into law the controversial National Defense Authorization Act (NDAA) that allows the U.S. military to detain U.S. citizens indefinitely without due process."
+      "sourceUrl": "http://abcnews.go.com/blogs/politics/2011/12/with-reservations-obama-signs-act-to-allow-detention-of-citizens/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtontimes.com/news/2011/oct/11/obamas-killing-of-us-citizens/",
+      "type": "text",
+      "text": "Furthermore, he has had U.S. citizens assassinated",
+      "parentId": 19,
       "sourceTitle": "Editorial: Obama's killing of U.S. citizens",
-      "text": "Furthermore, he has had U.S. citizens assassinated"
+      "sourceUrl": "http://www.washingtontimes.com/news/2011/oct/11/obamas-killing-of-us-citizens/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.slate.com/articles/news_and_politics/view_from_chicago/2012/10/obama_s_drone_war_is_probably_illegal_will_it_stop_.html",
+      "type": "text",
+      "text": "and wages a drone war on civilians in various parts of the world.",
+      "parentId": 19,
       "sourceTitle": "Obama's Drone Was Is Probably Illegal: Will It Stop?",
-      "text": "and wages a drone war on civilians in various parts of the world."
+      "sourceUrl": "http://www.slate.com/articles/news_and_politics/view_from_chicago/2012/10/obama_s_drone_war_is_probably_illegal_will_it_stop_.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "I look forward to your comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

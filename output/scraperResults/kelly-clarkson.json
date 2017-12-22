@@ -32,115 +32,196 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kelly Clarkson was born and raised in Fort Worth, Texas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Clarkson was raised a strict Southern Baptist. She explains her religious upbringing:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://music-mix.ew.com/2011/08/31/kelly-clarkson-on-the-soundtrack-of-her-life-read-her-exclusive-ew-interview-here/",
-      "sourceTitle": "Kelly Clarkson on the soundtrack of her life",
-      "text": "I come from a conservative family. My family was highly conservative; I had to go to church on Sunday and Wednesday."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I come from a conservative family. My family was highly conservative; I had to go to church on Sunday and Wednesday.",
+      "sourceTitle": "Kelly Clarkson on the soundtrack of her life",
+      "sourceUrl": "http://music-mix.ew.com/2011/08/31/kelly-clarkson-on-the-soundtrack-of-her-life-read-her-exclusive-ew-interview-here/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "And while acknowledging the importance of religion during her childhood, Clarkson confirmed in 2004 that it's become even more important to her in adulthood:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.crosswalk.com/culture/music/listening-in-with-rj-helton-and-kelly-clarkson-1263775.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I always grew up in church. I was the leader of our youth group. I've always grown up pretty close to church and with God. But I think I've just gotten a lot closer just because He's the only One I can lean on.",
       "sourceTitle": "Listening In.. With R.J. Helton and Kelly Clarkson",
-      "text": "I always grew up in church. I was the leader of our youth group. I've always grown up pretty close to church and with God. But I think I've just gotten a lot closer just because He's the only One I can lean on."
+      "sourceUrl": "http://www.crosswalk.com/culture/music/listening-in-with-rj-helton-and-kelly-clarkson-1263775.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.beliefnet.com/Celebrity-Faith-Database/C/Kelly-Clarkson.aspx",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "It would seem that Christianity is a big deal for Clarkson, though she insists that she's not a \"fundamentalist.\"",
       "sourceTitle": "Celebrity Faith: Kelly Clarkson",
-      "text": "It would seem that Christianity is a big deal for Clarkson, though she insists that she's not a \"fundamentalist.\""
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.beliefnet.com/Celebrity-Faith-Database/C/Kelly-Clarkson.aspx"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "A Mixed Bag"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Politically, Clarkson is a bit all over the place, indicating an independent or moderate stance on politics."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mtv.com/news/1696892/kelly-clarkson-presidential-election-barack-obama/",
+      "parentId": 11,
+      "type": "text",
+      "text": "For example, she married a Republican who declared his support for Mitt Romney in 2012, but in both 2008 and 2012, she voted for Obama, even declaring herself an \"Obama girl.\"",
       "sourceTitle": "Kelly Clarkson an 'Obama Girl'–Even If Her Man Backs Romney",
-      "text": "For example, she married a Republican who declared his support for Mitt Romney in 2012, but in both 2008 and 2012, she voted for Obama, even declaring herself an \"Obama girl.\""
+      "sourceUrl": "http://www.mtv.com/news/1696892/kelly-clarkson-presidential-election-barack-obama/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "One wonders about the political discussions in the Clarkson household, as she once explained why she couldn't support Mitt Romney:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.advocate.com/politics/election/2012/10/22/kelly-clarkson-likely-vote-obama-because-gay-issues",
-      "sourceTitle": "Kelly Clarkson Likely To Vote Obama Because of Gay Issues",
-      "text": "I can't support Romney's policies as I have a lot of gay friends and I don't think it's fair they can't get married."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I can't support Romney's policies as I have a lot of gay friends and I don't think it's fair they can't get married.",
+      "sourceTitle": "Kelly Clarkson Likely To Vote Obama Because of Gay Issues",
+      "sourceUrl": "http://www.advocate.com/politics/election/2012/10/22/kelly-clarkson-likely-vote-obama-because-gay-issues"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Interestingly, the previous year, as Republican primaries were underway, Clarkson expressed support for Republican (though formerly Libertarian) candidate, Ron Paul, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.usmagazine.com/celebrity-news/news/kelly-clarkson-endorses-ron-paul-20112912",
-      "sourceTitle": "Kelly Clarkson Endorses Ron Paul",
-      "text": "I love Ron Paul. I liked him a lot during the last Republican nomination and no one gave him a chance. If he wins the nomination for the Republican party in 2012 he's got my vote."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I love Ron Paul. I liked him a lot during the last Republican nomination and no one gave him a chance. If he wins the nomination for the Republican party in 2012 he's got my vote.",
+      "sourceTitle": "Kelly Clarkson Endorses Ron Paul",
+      "sourceUrl": "http://www.usmagazine.com/celebrity-news/news/kelly-clarkson-endorses-ron-paul-20112912"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "And when asked about her views on the death penalty, she seemed to qualify her statement from the frame of being a Republican, in a sort of 'this is how I'm different from my fellow Republicans' way. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thewrap.com/tv/article/kelly-clarkson-endorses-ron-paul-33968/",
-      "sourceTitle": "Kelly Clarkson Endorses Ron Paul",
-      "text": "I don't believe in the death penalty. Most Republicans do but not me."
+      "id": 19
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "I don't believe in the death penalty. Most Republicans do but not me.",
+      "sourceTitle": "Kelly Clarkson Endorses Ron Paul",
+      "sourceUrl": "http://www.thewrap.com/tv/article/kelly-clarkson-endorses-ron-paul-33968/"
+    },
+    {
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "Clarkson appears to be a person who evaluates issues rather than parties–and that's great."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 22
     },
     {
-      "type": "break"
+      "parentId": 22,
+      "type": "emphasis",
+      "text": "Written by Giorgio Taietti and Tom Kershaw"
     }
   ],
   "wikipediaData": {

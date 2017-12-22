@@ -33,109 +33,146 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Catherine Zeta-Jones was born in Swansea, Wales, United Kingdom."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thebiographychannel.co.uk/biographies/catherine-zeta-jones.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Zeta-Jones grew up Catholic and got her start acting in a Catholic performance troupe.",
       "sourceTitle": "Catherine Zeta Jones Biography.",
-      "text": "Zeta-Jones grew up Catholic and got her start acting in a Catholic performance troupe."
+      "sourceUrl": "http://www.thebiographychannel.co.uk/biographies/catherine-zeta-jones.html"
     },
     {
-      "type": "sentence",
-      "text": "She seems to continue to practice her childhood faith."
+      "type": "text",
+      "text": "She seems to continue to practice her childhood faith.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-116041/Star-crucifixes-make-Vatican-cross.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "She's a fan of wearing elaborate and expensive crucifixes, which drew the criticism of a charity organization based in the Vatican.",
       "sourceTitle": "Star crucifixes make Vatican cross.",
-      "text": "She's a fan of wearing elaborate and expensive crucifixes, which drew the criticism of a charity organization based in the Vatican."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-116041/Star-crucifixes-make-Vatican-cross.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.eleven.com.au/eleven/newsarticles/Catherine-Zeta-Jones-Life-is-sweet.htm",
+      "type": "text",
+      "text": "After her husband, actor Michael Douglas, recovered from throat cancer, she said her \"prayers were answered.\"",
+      "parentId": 3,
       "sourceTitle": "Catherine Zeta-Jones: Life is sweet.",
-      "text": "After her husband, actor Michael Douglas, recovered from throat cancer, she said her \"prayers were answered.\""
+      "sourceUrl": "http://www.eleven.com.au/eleven/newsarticles/Catherine-Zeta-Jones-Life-is-sweet.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.catherinezetajones.org/articles/religion.htm",
+      "type": "text",
+      "text": "And she at least at one point was making plans to baptize her children.",
+      "parentId": 3,
       "sourceTitle": "Zeta in religion muddle.",
-      "text": "And she at least at one point was making plans to baptize her children."
+      "sourceUrl": "http://www.catherinezetajones.org/articles/religion.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://transcripts.cnn.com/TRANSCRIPTS/0107/21/lklw.00.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "Despite all this, her husband identifies as Jewish and she said once that she wasn't necessarily going to raise her children Catholic, but just let them decide what path to take.",
       "sourceTitle": "Transcripts.",
-      "text": "Despite all this, her husband identifies as Jewish and she said once that she wasn't necessarily going to raise her children Catholic, but just let them decide what path to take."
+      "sourceUrl": "http://transcripts.cnn.com/TRANSCRIPTS/0107/21/lklw.00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebritybrideguide.com/michael-douglas-catherine-zeta-jones-wedding/",
+      "type": "text",
+      "text": "And she wasn't married in a church, or even in a religious ceremony at all. Her wedding was performed in a hotel by a judge.",
+      "parentId": 4,
       "sourceTitle": "Michael Douglas and Catherine Zeta-Jones Wedding.",
-      "text": "And she wasn't married in a church, or even in a religious ceremony at all. Her wedding was performed in a hotel by a judge."
+      "sourceUrl": "http://www.celebritybrideguide.com/michael-douglas-catherine-zeta-jones-wedding/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "So while she appears to be a practicing Catholic, she does not do everything by the book, and doesn't seem to mind that those she loves don't share her faith."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 6
     },
     {
-      "type": "heading",
+      "parentId": 6,
+      "type": "text",
       "text": "Brits Just Get Down to Business"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "There's not much information out there about Zeta-Jones' political beliefs, but I'm going to guess she's fairly liberal–at least by American standards–based on one little comment. She seemed a little miffed when asked what she thought about the 2012 presidential election in the summer of that year. She reminded the reporter that she cannot vote in the U.S. and votes in her own country. Then she said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.justjared.com/2012/06/15/catherine-zeta-jones-cant-wait-election-over/",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "There really is a ridiculous amount of money wasted on campaigning over here. You know, we [Brits] just get down to business, don't we? You vote and then it's done. This goes on for two years, it's ridiculous. I can't wait until November when it's all over and Obama is back in.",
       "sourceTitle": "Catherine Zeta-Jones 'Can't Wait' for Election to be Over.",
-      "text": "There really is a ridiculous amount of money wasted on campaigning over here. You know, we [Brits] just get down to business, don't we? You vote and then it's done. This goes on for two years, it's ridiculous. I can't wait until November when it's all over and Obama is back in."
+      "sourceUrl": "http://www.justjared.com/2012/06/15/catherine-zeta-jones-cant-wait-election-over/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.afterelton.com/people/2009/01/celebritygaybrothers?page=last",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "So, she can't wait for Obama to be back in office, but that's all we've got. I couldn't find any information about her views on British politics or politicians. And she didn't seem to have anything to say about gay marriage, even though her brother is gay.",
       "sourceTitle": "Stars and Their Gay Brothers!",
-      "text": "So, she can't wait for Obama to be back in office, but that's all we've got. I couldn't find any information about her views on British politics or politicians. And she didn't seem to have anything to say about gay marriage, even though her brother is gay."
+      "sourceUrl": "http://www.afterelton.com/people/2009/01/celebritygaybrothers?page=last"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtontimes.com/news/2011/feb/24/catherine-zeta-jones-receives-uk-royal-honor/",
+      "parentId": 11,
+      "type": "text",
+      "text": "She was received the honor of being named a Commander of the Order of the British Empire by Prince Charles in 2011, which she said was \"very emotional.\"",
       "sourceTitle": "Catherine Zeta-Jones receives UK royal honor.",
-      "text": "She was received the honor of being named a Commander of the Order of the British Empire by Prince Charles in 2011, which she said was \"very emotional.\""
+      "sourceUrl": "http://www.washingtontimes.com/news/2011/feb/24/catherine-zeta-jones-receives-uk-royal-honor/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "That's all we've got on this actress. Maybe she doesn't want to belabor the subject. Just vote and get on with it already!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

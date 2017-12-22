@@ -33,152 +33,256 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jonathan \"Jon\" Jones was born in Rochester, New York and raised in Endicott, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://martialarts.about.com/od/mmaandufc/p/Biography-And-Profile-Of-Jon-Jones.htm",
+      "parentId": 2,
+      "type": "text",
+      "text": "Jones is a devout Christian. His father is a Pentecostal pastor in Endicott to this day",
       "sourceTitle": "Biography and Profile of Jon Jones",
-      "text": "Jones is a devout Christian. His father is a Pentecostal pastor in Endicott to this day"
+      "sourceUrl": "http://martialarts.about.com/od/mmaandufc/p/Biography-And-Profile-Of-Jon-Jones.htm"
     },
     {
-      "type": "sentence",
-      "text": "so, naturally, the Christian faith was central in Jones' upbringing."
+      "type": "text",
+      "text": "so, naturally, the Christian faith was central in Jones' upbringing.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://martialarts.about.com/od/mmaandufc/p/Biography-And-Profile-Of-Jon-Jones.htm",
+      "parentId": 3,
+      "type": "text",
+      "text": "Jones expresses his faith in various ways, though he's not the kind of MMA fighter to go into a bout saying he's going to kick some ass for Jesus or anything. Still, he has \"Philippians 4:13″ tattooed on his chest,",
       "sourceTitle": "Biography and Profile of Jon Jones",
-      "text": "Jones expresses his faith in various ways, though he's not the kind of MMA fighter to go into a bout saying he's going to kick some ass for Jesus or anything. Still, he has \"Philippians 4:13″ tattooed on his chest,"
+      "sourceUrl": "http://martialarts.about.com/od/mmaandufc/p/Biography-And-Profile-Of-Jon-Jones.htm"
     },
     {
-      "type": "sentence",
-      "text": "which, if you're looking at the King James version, reads:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "which, if you're looking at the King James version, reads:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.biblegateway.com/verse/en/Philippians%204:13",
-      "sourceTitle": "Philippians 4:13",
-      "text": "I can do all things through Christ who strengtheneth me."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I can do all things through Christ who strengtheneth me.",
+      "sourceTitle": "Philippians 4:13",
+      "sourceUrl": "http://www.biblegateway.com/verse/en/Philippians%204:13"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Furthermore, his Twitter account is littered with references to God and Jesus. In fact, his main Twitter description reads:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/JonnyBones",
-      "sourceTitle": "Jon Bones Jones (JonnyBones) on Twitter",
-      "text": "Youngest world Champion in UFC history, Fighting toward Greatness, Glorifying Christ, Breaking down walls, Living amazed, Will YOU be a witness?"
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Youngest world Champion in UFC history, Fighting toward Greatness, Glorifying Christ, Breaking down walls, Living amazed, Will YOU be a witness?",
+      "sourceTitle": "Jon Bones Jones (JonnyBones) on Twitter",
+      "sourceUrl": "https://twitter.com/JonnyBones"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "And just to give you a taste, here are a couple of choice tweets:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/JonnyBones",
-      "sourceTitle": "Jon Bones Jones (JonnyBones) on Twitter",
-      "text": "Today the pastor talked about not just being a fan of Christ but being a true follower. The message hit home"
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Today the pastor talked about not just being a fan of Christ but being a true follower. The message hit home",
+      "sourceTitle": "Jon Bones Jones (JonnyBones) on Twitter",
+      "sourceUrl": "https://twitter.com/JonnyBones"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "And:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/JonnyBones",
-      "sourceTitle": "Jon Bones Jones (JonnyBones) on Twitter",
-      "text": "…I intend to always have God as the center of my life."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "…I intend to always have God as the center of my life.",
+      "sourceTitle": "Jon Bones Jones (JonnyBones) on Twitter",
+      "sourceUrl": "https://twitter.com/JonnyBones"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Clearly, he's very religious."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 16
     },
     {
-      "type": "heading",
+      "parentId": 16,
+      "type": "text",
       "text": "In the blue shorts… Obama! In the red shorts… gun rights!"
     },
     {
-      "type": "sentence",
-      "text": "Jones appears to be a pretty big fan of Obama. Here's a  of Jones positively beaming next to a wax rendition of the president. Plus, his Twitter has a couple of Obama-related tweets. For example:"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "break"
+      "parentId": 17,
+      "type": "text",
+      "text": "Jones appears to be a pretty big fan of Obama. Here's a"
+    },
+    {
+      "parentId": 17,
+      "type": "link",
+      "text": "photo",
+      "sourceUrl": "http://www.titocouture.com/jon-jones-hangs-with-pres-obama/jon-jones-with-prez-obama/"
+    },
+    {
+      "type": "text",
+      "text": "of Jones positively beaming next to a wax rendition of the president. Plus, his Twitter has a couple of Obama-related tweets. For example:",
+      "parentId": 17
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/JonnyBones",
-      "sourceTitle": "Jon Bones Jones (JonnyBones) on Twitter",
-      "text": "Behind-the-scenes video: President Obama calls to congratulate @Ravens Coach John Harbaugh on their #Superbowl victory"
+      "id": 18
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Behind-the-scenes video: President Obama calls to congratulate @Ravens Coach John Harbaugh on their #Superbowl victory",
+      "sourceTitle": "Jon Bones Jones (JonnyBones) on Twitter",
+      "sourceUrl": "https://twitter.com/JonnyBones"
+    },
+    {
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "But that's about it. Jones doesn't seem to get into or support any specific Obama policies or positions. In fact, when it comes to at least one issue, Jones might take issue with the president's ideals. Jones tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/JonnyBones",
-      "sourceTitle": "Jon Bones Jones (JonnyBones) on Twitter",
-      "text": "Just can't handle these New York State gun laws anymore"
+      "id": 21
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Gun_laws_in_New_York",
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "Just can't handle these New York State gun laws anymore",
+      "sourceTitle": "Jon Bones Jones (JonnyBones) on Twitter",
+      "sourceUrl": "https://twitter.com/JonnyBones"
+    },
+    {
+      "type": "paragraph",
+      "id": 23
+    },
+    {
+      "parentId": 23,
+      "type": "text",
+      "text": "According to Wikipedia, New York has some of the strictest gun restrictions in the U.S.,",
       "sourceTitle": "Gun Laws in New York",
-      "text": "According to Wikipedia, New York has some of the strictest gun restrictions in the U.S.,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Gun_laws_in_New_York"
     },
     {
-      "type": "sentence",
-      "text": "and obviously Jones isn't happy about that."
+      "type": "text",
+      "text": "and obviously Jones isn't happy about that.",
+      "parentId": 23
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 24
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/JonnyBones",
+      "parentId": 24,
+      "type": "text",
+      "text": "He also mentioned hitting up a shooting range in Las Vegas on his Twitter.",
       "sourceTitle": "Jon Bones Jones (JonnyBones) on Twitter",
-      "text": "He also mentioned hitting up a shooting range in Las Vegas on his Twitter."
+      "sourceUrl": "https://twitter.com/JonnyBones"
     },
     {
-      "type": "sentence",
-      "text": "My guess is he leans right on this particular debate. And if that's all we have to go on (which it is), Jones looks conservative."
+      "type": "text",
+      "text": "My guess is he leans right on this particular debate. And if that's all we have to go on (which it is), Jones looks conservative.",
+      "parentId": 24
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 25
     },
     {
-      "type": "sentence",
+      "parentId": 25,
+      "type": "text",
       "text": "If you dispute that, please weigh-in."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

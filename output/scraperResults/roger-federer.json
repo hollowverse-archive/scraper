@@ -33,88 +33,135 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Roger Federer was born in Binningen, Switzerland and was raised nearby in Münchenstein, Switzerland."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.monstersandcritics.com/sport/tennis/article_1162996.php/Federer_meets_pope_wins_match",
+      "parentId": 2,
+      "type": "text",
+      "text": "Federer is a devout Roman Catholic, and is one of the few of that faith who has personally met the pope. Obviously it was a huge honor for the tennis champ to shake hands with the holiest of men. Reflecting only hours later, Federer said, \"This was just the perfect day.\"",
       "sourceTitle": "Federer meets pope, wins match.",
-      "text": "Federer is a devout Roman Catholic, and is one of the few of that faith who has personally met the pope. Obviously it was a huge honor for the tennis champ to shake hands with the holiest of men. Reflecting only hours later, Federer said, \"This was just the perfect day.\""
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.monstersandcritics.com/sport/tennis/article_1162996.php/Federer_meets_pope_wins_match"
     },
     {
       "type": "heading",
+      "id": 3
+    },
+    {
+      "parentId": 3,
+      "type": "text",
       "text": "The Private Catholic"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "He is quick to tell the press that he is Catholic, but he doesn't expound on his religion in public too much. He doesn't pray on the court before matches or get down on his knees in thanks after a win. He prefers to be more private with his religion than some other professional athletes of late."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebritybrideguide.com/roger-federer-wedding-photos/",
+      "parentId": 5,
+      "type": "text",
+      "text": "But he does appear to be a good Catholic. He hasn't been implicated in too many big scandals, managed to get his temper under control, and married his long-time girlfriend"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "before"
+    },
+    {
+      "type": "text",
+      "text": "their twin girls were born four months later.",
+      "parentId": 5,
       "sourceTitle": "Roger Federer and Mirka Vavrinec Share Wedding Photos.",
-      "text": "But he does appear to be a good Catholic. He hasn't been implicated in too many big scandals, managed to get his temper under control, and married his long-time girlfriend  their twin girls were born four months later."
+      "sourceUrl": "http://www.celebritybrideguide.com/roger-federer-wedding-photos/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "Federer doesn't plan to go into politics any time soon. He seems to want to help people in a less polarizing capacity. When asked if he would run for office, he said,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.tennis-x.com/playerquotes/Roger-Federer.php",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Like Ahh-nold? (Schwarzenegger) I don't think so. I'm more into, in general, helping people. . . . We're living on the same world, you know? And not alone. Sometimes people forget. This is why we have fights all over the world. Of course you can't stop them, but still pick an issue, maybe in the future. Of course it goes into politics a little bit. Maybe. . . . But I don't really see this sort of role. I'd like to be more of an ambassador.",
       "sourceTitle": "Roger Federer Quotes.",
-      "text": "Like Ahh-nold? (Schwarzenegger) I don't think so. I'm more into, in general, helping people. . . . We're living on the same world, you know? And not alone. Sometimes people forget. This is why we have fights all over the world. Of course you can't stop them, but still pick an issue, maybe in the future. Of course it goes into politics a little bit. Maybe. . . . But I don't really see this sort of role. I'd like to be more of an ambassador."
+      "sourceUrl": "http://www.tennis-x.com/playerquotes/Roger-Federer.php"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Ambassador for Change… and Chocolate"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lindt.com/swf/eng/company/roger-federer/lindt-roger-federer/",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "So far the only ambassadorship he's been able to snag is for Lindt Chocolate,",
       "sourceTitle": "LINDT & Roger Federer.",
-      "text": "So far the only ambassadorship he's been able to snag is for Lindt Chocolate,"
+      "sourceUrl": "http://www.lindt.com/swf/eng/company/roger-federer/lindt-roger-federer/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/charity/roger-federer-foundation",
+      "type": "text",
+      "text": "but he's still in the business of helping others. He created the Roger Federer Foundation to support educational, sports, and leisure opportunities for children in places of the world where there is little funding for that.",
+      "parentId": 10,
       "sourceTitle": "Roger Federer Foundation.",
-      "text": "but he's still in the business of helping others. He created the Roger Federer Foundation to support educational, sports, and leisure opportunities for children in places of the world where there is little funding for that."
+      "sourceUrl": "http://www.looktothestars.org/charity/roger-federer-foundation"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/233-roger-federer",
+      "parentId": 11,
+      "type": "text",
+      "text": "He works regularly with the Humpty Dumpty Foundation, an Australian organization that raises money for children's hospitals, and UNICEF.  Plus he frequently lends his name to countless other events and causes.",
       "sourceTitle": "Roger Federer.",
-      "text": "He works regularly with the Humpty Dumpty Foundation, an Australian organization that raises money for children's hospitals, and UNICEF.  Plus he frequently lends his name to countless other events and causes."
+      "sourceUrl": "http://www.looktothestars.org/celebrity/233-roger-federer"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Federer isn't terribly vocal about his religion, and isn't trying to force it on anyone, but he certainly uses his celebrity and fortune to benefit people in need, a theme the Catholic church emphasizes and which would no doubt cause them to be proud."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

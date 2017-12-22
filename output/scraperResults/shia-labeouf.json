@@ -32,81 +32,181 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.cineplex.com/Movies/FamousNews/FamousMagazine/July%202007.aspx?FamousArticles=4399",
+      "parentId": 1,
+      "type": "text",
+      "text": "Shia LaBeouf was born and raised in Los Angeles, California. LaBeouf is sort of like a dual citizen in the religion department. He has options. His mother is Jewish and Shia had a Bar Mitzvah.",
       "sourceTitle": "Interview – Shai LaBeouf",
-      "text": "Religion is funny. If it gives people hope, it makes sense. But it never made sense to me."
+      "sourceUrl": "http://www.cineplex.com/Movies/FamousNews/FamousMagazine/July%202007.aspx?FamousArticles=4399"
     },
     {
-      "type": "sentence",
-      "text": "Nevertheless, if LaBeouf had to choose, he'd definitely choose Judaism. He once contributed to a book called in honor of slain Jewish journalist Daniel Pearl, where he wrote:"
+      "type": "text",
+      "text": "But his dad is Christian and he was baptized in a Pentecostal church.",
+      "parentId": 1,
+      "sourceTitle": "Is Shia LaBeouf Jewish?",
+      "sourceUrl": "http://jewishornot.blogspot.com/2012/08/is-shia-labeouf-jewish.html"
     },
     {
-      "type": "break"
+      "type": "text",
+      "text": "It appears that LaBeouf is not very religious. He once said:",
+      "parentId": 1
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Interfaith_Celebrities_Shia_the_Mensch.shtml?rd=2",
+      "id": 2
+    },
+    {
+      "type": "paragraph",
+      "id": 3,
+      "parentId": 2
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "Religion is funny. If it gives people hope, it makes sense. But it never made sense to me.",
+      "sourceTitle": "Interview – Shai LaBeouf",
+      "sourceUrl": "http://www.cineplex.com/Movies/FamousNews/FamousMagazine/July%202007.aspx?FamousArticles=4399"
+    },
+    {
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Nevertheless, if LaBeouf had to choose, he'd definitely choose Judaism. He once contributed to a book called"
+    },
+    {
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "I Am Jewish"
+    },
+    {
+      "type": "text",
+      "text": "in honor of slain Jewish journalist Daniel Pearl, where he wrote:",
+      "parentId": 4
+    },
+    {
+      "type": "quote",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I am what you would call a claimer Jew. See, I claim to be Jewish because it is beneficial to be Jewish… How? I have a personal relationship with God that happens to work within the confines of Judaism… Really, I feel cocky when I say I am Jewish, not bad cocky, but good cocky. Because what I am really saying is that I am one of the few chosen ones out there. I made it; God chose me and I take pride in that.",
       "sourceTitle": "Shia the Mensch",
-      "text": "I am what you would call a claimer Jew. See, I claim to be Jewish because it is beneficial to be Jewish… How? I have a personal relationship with God that happens to work within the confines of Judaism… Really, I feel cocky when I say I am Jewish, not bad cocky, but good cocky. Because what I am really saying is that I am one of the few chosen ones out there. I made it; God chose me and I take pride in that."
+      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Interfaith_Celebrities_Shia_the_Mensch.shtml?rd=2"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Political thrillers don't count"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chacha.com/question/is-shia-labeouf-a-republican-or-democrat",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "LaBeouf is a political mystery with opinions divided about whether he's a Republican",
       "sourceTitle": "Is Shia LaBeouf a republican or democrat?",
-      "text": "LaBeouf is a political mystery with opinions divided about whether he's a Republican"
+      "sourceUrl": "http://www.chacha.com/question/is-shia-labeouf-a-republican-or-democrat"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wiki.answers.com/Q/Is_shia_labeouf_democrat_or_republican",
+      "type": "text",
+      "text": "or a Democrat.",
+      "parentId": 9,
       "sourceTitle": "Is shia labeouf democrat or republican",
-      "text": "or a Democrat."
+      "sourceUrl": "http://wiki.answers.com/Q/Is_shia_labeouf_democrat_or_republican"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.firstshowing.net/2010/shia-labeouf-joining-college-republicans-as-young-karl-rove/",
+      "type": "text",
+      "text": "There's very little evidence that would sway me to one side or the other. However, LaBeouf has expressed interest in playing a young Karl Rove in a film called",
+      "parentId": 9
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "College Republicans"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 9,
       "sourceTitle": "Shia LaBeouf Joining 'College Republicans' as Young Karl Rove?",
-      "text": "There's very little evidence that would sway me to one side or the other. However, LaBeouf has expressed interest in playing a young Karl Rove in a film called ."
+      "sourceUrl": "http://www.firstshowing.net/2010/shia-labeouf-joining-college-republicans-as-young-karl-rove/"
     },
     {
-      "type": "sentence",
-      "text": "It could be an artistic challenge for him or maybe he admires George W. Bush's former Deputy Chief of Staff. Hard to say. LaBeouf's background might suggest that he at least grew up a liberal. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "It could be an artistic challenge for him or maybe he admires George W. Bush's former Deputy Chief of Staff. Hard to say. LaBeouf's background might suggest that he at least grew up a liberal. He said:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/s/shia_labeouf.html",
-      "sourceTitle": "Shia LaBeouf Quotes",
-      "text": "No, I come from a hippy lifestyle, it's very open; my parents are both hippies."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "No, I come from a hippy lifestyle, it's very open; my parents are both hippies.",
+      "sourceTitle": "Shia LaBeouf Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/s/shia_labeouf.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "And he's certainly no environmentalist–despite feeling guilty about it. LaBeouf once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.sustainabilityninja.com/eco-news/shia-labeouf-admits-hes-an-environmental-jerk-51052/",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I'm gonna be honest with you, I'm not [environmentally friendly]. I drive a truck, I'm a loser that way. I'll figure it out eventually but I'm not the greatest guy… I'm horrible, horrible, horrible. My mum hates me for it. Sometimes I put the can in the right bin, sometimes I don't. I have to be better about it, I know, and I'm sorry world.",
       "sourceTitle": "Shia LaBeouf Admits He's an Environmental Jerk",
-      "text": "I'm gonna be honest with you, I'm not [environmentally friendly]. I drive a truck, I'm a loser that way. I'll figure it out eventually but I'm not the greatest guy… I'm horrible, horrible, horrible. My mum hates me for it. Sometimes I put the can in the right bin, sometimes I don't. I have to be better about it, I know, and I'm sorry world."
+      "sourceUrl": "http://www.sustainabilityninja.com/eco-news/shia-labeouf-admits-hes-an-environmental-jerk-51052/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Is that conservatism or laziness? You decide."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

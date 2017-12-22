@@ -33,96 +33,149 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Rosie Huntington-Whiteley was born in Plymouth, Devon, England and grew up a few miles away in Tavistock."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "There's no word on if she grew up with religion, but the safe bet would be that she didn't. She does believe in… something though. When asked if she believes in ghosts, she says,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.complex.com/pop-culture/2011/05/rosie-huntington-whiteley-2011-cover-story-gallery",
-      "sourceTitle": "Rosie Huntingston-Whiteley: The Future Is Rosie.",
-      "text": "No. I believe that there's something else out there, but… I don't know what I believe in. That's a good question. I haven't seen them and I haven't met anybody who I would really trust telling me that they have. I believe in aliens… and spirits, but I'm not sure in what form a ghost would be."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "No. I believe that there's something else out there, but… I don't know what I believe in. That's a good question. I haven't seen them and I haven't met anybody who I would really trust telling me that they have. I believe in aliens… and spirits, but I'm not sure in what form a ghost would be.",
+      "sourceTitle": "Rosie Huntingston-Whiteley: The Future Is Rosie.",
+      "sourceUrl": "http://www.complex.com/pop-culture/2011/05/rosie-huntington-whiteley-2011-cover-story-gallery"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "So she believes in something and aliens and spirits. But apparently not organized religion. She re-tweeted this thought from the Dalai Lama:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.justjared.com/2012/06/14/rosie-huntington-whiteley-inspired-by-dalai-lama/",
-      "sourceTitle": "Rosie Huntington-Whiteley Inspired by Dalai Lama.",
-      "text": "I am increasingly convinced that the time has come to find a way of thinking about spirituality and ethics beyond religion altogether."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I am increasingly convinced that the time has come to find a way of thinking about spirituality and ethics beyond religion altogether.",
+      "sourceTitle": "Rosie Huntington-Whiteley Inspired by Dalai Lama.",
+      "sourceUrl": "http://www.justjared.com/2012/06/14/rosie-huntington-whiteley-inspired-by-dalai-lama/"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "It appears that Huntington-Whiteley is still trying to define her own spirituality, so maybe we should revisit with her in a decade or so. For now, we'll put her in the agnostic camp."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Sir_Herbert_Huntington-Whiteley,_1st_Baronet",
+      "parentId": 9,
+      "type": "text",
+      "text": "Despite having a distant family history in British politics, her great great grandfather was a conservative member of parliament,",
       "sourceTitle": "Sir Herbert Huntington-Whiteley, 1st Baronet.",
-      "text": "Despite having a distant family history in British politics, her great great grandfather was a conservative member of parliament,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Sir_Herbert_Huntington-Whiteley,_1st_Baronet"
     },
     {
-      "type": "sentence",
-      "text": "the young model doesn't appear involved in the least in the politics of her home country."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "the young model doesn't appear involved in the least in the politics of her home country.",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Grow something!"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.express.co.uk/posts/view/245241/Is-this-the-sexiest-woman-in-the-world-",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "In fact, the only issue she seems to be very vocal about is organic food and beauty products. The issue is understandably dear to her heart considering she grew up on a small organic farm.",
       "sourceTitle": "Is this the sexiest woman in the world?.",
-      "text": "In fact, the only issue she seems to be very vocal about is organic food and beauty products. The issue is understandably dear to her heart considering she grew up on a small organic farm."
+      "sourceUrl": "http://www.express.co.uk/posts/view/245241/Is-this-the-sexiest-woman-in-the-world-"
     },
     {
-      "type": "sentence",
-      "text": "On how to \"go organic,\" she replies,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "On how to \"go organic,\" she replies,",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.womenshealthmag.com/life/rosie-huntington-whiteley-transforms-0",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "If you have the space, grow something! Just think about all the things that go into processed foods—the chemicals, the additives. I always find that organic food tastes much better.",
       "sourceTitle": "Rosie Huntington-Whiteley.",
-      "text": "If you have the space, grow something! Just think about all the things that go into processed foods—the chemicals, the additives. I always find that organic food tastes much better."
+      "sourceUrl": "http://www.womenshealthmag.com/life/rosie-huntington-whiteley-transforms-0"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.modelinia.com/videos/how-i-stay-green--rosie-huntington-whiteley/199",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "And when she's not talking up organic food, Huntington-Whiteley is busy endorsing her favorite organic beauty lines.",
       "sourceTitle": "Model Rosie Huntington-Whiteley's Environmentally Concious Lifestyle.",
-      "text": "And when she's not talking up organic food, Huntington-Whiteley is busy endorsing her favorite organic beauty lines."
+      "sourceUrl": "http://www.modelinia.com/videos/how-i-stay-green--rosie-huntington-whiteley/199"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "So far she seems like a perfect fit for the Green party, so maybe we'll see her glam up one of their fundraisers soon–if she ever decides to get into politics."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

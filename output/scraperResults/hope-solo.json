@@ -33,75 +33,92 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Hope Solo was born and raised in Richland, Washington."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blog.seattlepi.com/seattlesports/2012/11/15/it-looks-like-hope-solo-and-jerramy-stevens-indeed-got-married/",
+      "parentId": 2,
+      "type": "text",
+      "text": "There is no indication that Solo is even remotely religious. I couldn't even find anything from her about Christmas. And it doesn't look like her wedding ceremony had any religious affiliation either.",
       "sourceTitle": "It looks like Hope Solo and Jerramy Stevens indeed got married.",
-      "text": "There is no indication that Solo is even remotely religious. I couldn't even find anything from her about Christmas. And it doesn't look like her wedding ceremony had any religious affiliation either."
+      "sourceUrl": "http://blog.seattlepi.com/seattlesports/2012/11/15/it-looks-like-hope-solo-and-jerramy-stevens-indeed-got-married/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://usatoday30.usatoday.com/sports/soccer/national/2007-07-24-hope-solo_N.htm?csp=34",
+      "parentId": 3,
+      "type": "text",
+      "text": "She described her father as a \"tough Italian guy\" so it's possible that she has some Catholic roots. But her father wasn't exactly a stable presence in her life. Although they had a good relationship, he lived on the streets and in tents in the woods outside Seattle, a vagabond of sorts. So needless to say, he wasn't taking her to church every Sunday.",
       "sourceTitle": "Solo's success as USA's goalie is no accident.",
-      "text": "She described her father as a \"tough Italian guy\" so it's possible that she has some Catholic roots. But her father wasn't exactly a stable presence in her life. Although they had a good relationship, he lived on the streets and in tents in the woods outside Seattle, a vagabond of sorts. So needless to say, he wasn't taking her to church every Sunday."
+      "sourceUrl": "http://usatoday30.usatoday.com/sports/soccer/national/2007-07-24-hope-solo_N.htm?csp=34"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "With that said, I think it's safe to say that Solo is entirely non-religious."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newsbusters.org/blogs/noel-sheppard/2012/08/15/womens-gold-medal-soccer-goalie-asks-flirtatious-piers-morgan-you-wat",
+      "parentId": 5,
+      "type": "text",
+      "text": "Evidence of Solo having any political affiliation is equally sparse. Even talk show host Piers Morgan, who usually gets some political discussion going with his celebrity guests, managed only to shamelessly flirt with the soccer star prompting her to ask, \"You're telling me you watched our final because I'm hot?\"",
       "sourceTitle": "Gold Medalist Hope Solo to Piers Morgan: 'You're Telling Me You Watched Our Final Because I'm Hot?'",
-      "text": "Evidence of Solo having any political affiliation is equally sparse. Even talk show host Piers Morgan, who usually gets some political discussion going with his celebrity guests, managed only to shamelessly flirt with the soccer star prompting her to ask, \"You're telling me you watched our final because I'm hot?\""
+      "sourceUrl": "http://newsbusters.org/blogs/noel-sheppard/2012/08/15/womens-gold-medal-soccer-goalie-asks-flirtatious-piers-morgan-you-wat"
     },
     {
-      "type": "sentence",
-      "text": "Talk show host fail."
+      "type": "text",
+      "text": "Talk show host fail.",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.businessinsider.com/hope-solo-book-2012-8?op=1",
+      "parentId": 6,
+      "type": "text",
+      "text": "Does the fact that she kissed a girl make her sound like a social liberal?",
       "sourceTitle": "Most Interesting Things From Hope Solo's Book.",
-      "text": "Does the fact that she kissed a girl make her sound like a social liberal?"
+      "sourceUrl": "http://www.businessinsider.com/hope-solo-book-2012-8?op=1"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=83_mHrKQotc",
+      "type": "text",
+      "text": "How about the fact that she seems to support gay marriage?",
+      "parentId": 6,
       "sourceTitle": "HOPE SOLO 2012 & 2008 Gold Medalist.",
-      "text": "How about the fact that she seems to support gay marriage?"
+      "sourceUrl": "http://www.youtube.com/watch?v=83_mHrKQotc"
     },
     {
-      "type": "sentence",
-      "text": "Maybe. But it doesn't mean she votes."
+      "type": "text",
+      "text": "Maybe. But it doesn't mean she votes.",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "I suppose for now we'll have to call her non-political with a possible liberal bent. If you have any more information about Solo, let us know in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -157,7 +174,7 @@
             "hidden": ""
           },
           "Artist": {
-            "value": "<ul>\n<li>Photo by <a href=\"//commons.wikimedia.org/w/index.php?title=User:Ampatent&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ampatent (page does not exist)\">Ampatent</a>\n</li>\n<li>Retouched by <a href=\"//commons.wikimedia.org/w/index.php?title=User:Danyele&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Danyele (page does not exist)\">Danyele</a>\n</li>\n</ul>",
+            "value": "<ul>\n<li>Photo by <a href=\"//commons.wikimedia.org/w/index.php?title=User:Ampatent&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ampatent (page does not exist)\">Ampatent</a>\n</li>\n<li>Retouched by <a href=\"//commons.wikimedia.org/wiki/User:Danyele\" title=\"User:Danyele\">Danyele</a>\n</li>\n</ul>",
             "source": "commons-desc-page"
           },
           "Permission": {

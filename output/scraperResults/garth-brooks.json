@@ -34,112 +34,192 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.planetgarth.com/news/article.php?cid=00078",
+      "parentId": 1,
+      "type": "text",
+      "text": "Garth Brooks was born and raised in Yukon, Oklahoma."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Brooks is a Christian–though which denomination eludes us. He has admitted to not having any particular church.",
       "sourceTitle": "King of Country",
-      "text": "Brooks is a Christian–though which denomination eludes us. He has admitted to not having any particular church."
+      "sourceUrl": "http://www.planetgarth.com/news/article.php?cid=00078"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/g/garth_brooks_2.html",
+      "type": "text",
+      "text": "Nevertheless, he appears to be a very spiritual man. He once credited God (and his mother) for any musical talent he might have.",
+      "parentId": 2,
       "sourceTitle": "Garth Brooks Quotes Page 2",
-      "text": "Nevertheless, he appears to be a very spiritual man. He once credited God (and his mother) for any musical talent he might have."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/g/garth_brooks_2.html"
     },
     {
-      "type": "sentence",
-      "text": "And he's always heavy on the praise for the man upstairs in the sleeves of his albums. Every record comes with a dedication to God or Jesus or both. One example:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And he's always heavy on the praise for the man upstairs in the sleeves of his albums. Every record comes with a dedication to God or Jesus or both. One example:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.planetgarth.com/forums/archive/index.php/t-112250.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "…and most of all [I'd like to thank] Jesus Christ for without Him, nothing is possible, God Bless Us All.",
       "sourceTitle": "Garth's Religion",
-      "text": "…and most of all [I'd like to thank] Jesus Christ for without Him, nothing is possible, God Bless Us All."
+      "sourceUrl": "http://www.planetgarth.com/forums/archive/index.php/t-112250.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.angelfire.com/ak2/Tulip2/q3.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Garth has occasionally released religious songs. He considers \"It's Your Song\" to most reflect his feelings about God.",
       "sourceTitle": "Garth, God/Religion, ect.",
-      "text": "Garth has occasionally released religious songs. He considers \"It's Your Song\" to most reflect his feelings about God."
+      "sourceUrl": "http://www.angelfire.com/ak2/Tulip2/q3.html"
     },
     {
-      "type": "sentence",
-      "text": "Some of the choice lyrics include:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Some of the choice lyrics include:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.metrolyrics.com/its-your-song-lyrics-garth-brooks.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Every night I pray/Before the music starts to play/That I'll do my best and I won't let you down/And for all the times I've stood here/This feeling feels brand new/And anytime I doubt myself I think of you.",
       "sourceTitle": "Garth Brooks – It's Your Song Lyrics",
-      "text": "Every night I pray/Before the music starts to play/That I'll do my best and I won't let you down/And for all the times I've stood here/This feeling feels brand new/And anytime I doubt myself I think of you."
+      "sourceUrl": "http://www.metrolyrics.com/its-your-song-lyrics-garth-brooks.html"
     },
     {
-      "type": "sentence",
-      "text": "It's difficult to classify Brooks specifically. However, regardless of which flavor of Christianity he prefers, he does seem quite religious and does talk about God a lot. Just check out all of these ."
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "text",
+      "text": "It's difficult to classify Brooks specifically. However, regardless of which flavor of Christianity he prefers, he does seem quite religious and does talk about God a lot. Just check out all of these"
+    },
+    {
+      "parentId": 8,
+      "type": "link",
+      "text": "quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/g/garth_brooks.html"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 8
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Good 'ol fashioned politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "One gets the sense Brooks laments a different time in American society. He once said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 11
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.angelfire.com/ak2/Tulip2/q3.html",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I think we've overshot paradise with a lot of things in life, we need to get the flag back out on the porch and God to the supper table.",
       "sourceTitle": "Garth, God/Religion, ect.",
-      "text": "I think we've overshot paradise with a lot of things in life, we need to get the flag back out on the porch and God to the supper table."
+      "sourceUrl": "http://www.angelfire.com/ak2/Tulip2/q3.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.planetgarth.com/news/article.php?cid=00078",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Sounds kind of Republican–probably because it is. Brooks is a registered Republican,",
       "sourceTitle": "King of Country",
-      "text": "Sounds kind of Republican–probably because it is. Brooks is a registered Republican,"
+      "sourceUrl": "http://www.planetgarth.com/news/article.php?cid=00078"
     },
     {
-      "type": "sentence",
-      "text": "but rather than take the route of many fellow GOPers during Obama's first term, he condemned those that worked against the president, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but rather than take the route of many fellow GOPers during Obama's first term, he condemned those that worked against the president, saying:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.planetgarth.com/news/article.php?cid=00078",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "…one of the things that's killing us right now in our country is if you didn't vote for him, then knock him for four years, well, he can't do any good so you can say, 'see, I was right.' Screw that…",
       "sourceTitle": "King of Country",
-      "text": "…one of the things that's killing us right now in our country is if you didn't vote for him, then knock him for four years, well, he can't do any good so you can say, 'see, I was right.' Screw that…"
+      "sourceUrl": "http://www.planetgarth.com/news/article.php?cid=00078"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://cnsnews.com/news/article/garth-brooks-obama-i-love-him-death-its-got-be-hell-office",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "And when re-election time came around for Obama, Brooks even expressed support for the president and sympathy for the difficulty of his job.",
       "sourceTitle": "Garth Brooks on Obama: I Love Him to Death; It's Got To Be Hell in That Office",
-      "text": "And when re-election time came around for Obama, Brooks even expressed support for the president and sympathy for the difficulty of his job."
+      "sourceUrl": "http://cnsnews.com/news/article/garth-brooks-obama-i-love-him-death-its-got-be-hell-office"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Garth_Brooks.php",
+      "parentId": 17,
+      "type": "text",
+      "text": "Yes, he's a patriotic fellow, to be sure and seems to just want what's best for America–whether that's a Republican or Democrat conception probably doesn't matter to him. He's just not so political. Think about this: Despite being second only to The Beatles when it comes to U.S. album sales, he's only ever donated $1,000 to a non-partisan political action group.",
       "sourceTitle": "Garth Brooks' Federal Campaign Contribution Report.",
-      "text": "Yes, he's a patriotic fellow, to be sure and seems to just want what's best for America–whether that's a Republican or Democrat conception probably doesn't matter to him. He's just not so political. Think about this: Despite being second only to The Beatles when it comes to U.S. album sales, he's only ever donated $1,000 to a non-partisan political action group."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Garth_Brooks.php"
     }
   ],
   "wikipediaData": {

@@ -33,107 +33,182 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Eva Green was born and raised in Paris, France."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/film/2011/jun/05/eva-green-interview-playing-evil",
+      "parentId": 2,
+      "type": "text",
+      "text": "Eva's mother is Jewish–though for reasons we'll discuss shortly, I would venture a guess that she didn't go to temple–and Green has said she is Jewish.",
       "sourceTitle": "Eva Green interview: Playing evil",
-      "text": "Eva's mother is Jewish–though for reasons we'll discuss shortly, I would venture a guess that she didn't go to temple–and Green has said she is Jewish."
+      "sourceUrl": "http://www.guardian.co.uk/film/2011/jun/05/eva-green-interview-playing-evil"
     },
     {
-      "type": "sentence",
-      "text": "But she must only identify with the cultural, historical aspects of Judaism, because Green seems to be an atheist. She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But she must only identify with the cultural, historical aspects of Judaism, because Green seems to be an atheist. She said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://mychristianmother.blogspot.com/2012/01/week-18-prominent-women-atheists.html",
-      "sourceTitle": "Prominent Women Atheists, Agnostics, & Anti-Theists",
-      "text": "I have no religion. I wasn't raised that way, and I have nothing now."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I have no religion. I wasn't raised that way, and I have nothing now.",
+      "sourceTitle": "Prominent Women Atheists, Agnostics, & Anti-Theists",
+      "sourceUrl": "http://mychristianmother.blogspot.com/2012/01/week-18-prominent-women-atheists.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Let's be honest, though. This is a vague and possibly misleading quote. Green hasn't said whether or not she believes in God or some spiritual force, only that she has no religion. Plenty of people just don't like organized religion."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blog.churchofliberty.org/2011/04/too-hot-for-hell-15-hot-atheist-babes.html",
+      "parentId": 6,
+      "type": "text",
+      "text": "Her attitude on religion, however, has landed her on various atheists lists.",
       "sourceTitle": "Too Hot for Hell: 15 Hot Atheist Babes",
-      "text": "Her attitude on religion, however, has landed her on various atheists lists."
+      "sourceUrl": "http://blog.churchofliberty.org/2011/04/too-hot-for-hell-15-hot-atheist-babes.html"
     },
     {
-      "type": "sentence",
-      "text": "So, until new evidence comes to light, we'll just agree for now."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "So, until new evidence comes to light, we'll just agree for now.",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "French-American, shall we say, relations"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Green isn't into politics. She'll tell you herself:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/e/eva_green.html",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I'm not really involved with politics… I'm living in my cocoon with my classical music around.",
       "sourceTitle": "Eva Green Quotes",
-      "text": "I'm not really involved with politics… I'm living in my cocoon with my classical music around."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/e/eva_green.html"
     },
     {
-      "type": "sentence",
-      "text": "But considering that she's a French girl in an American industry, certain cultural differences become glaring enough for Green to comment. Green's breakthrough role was playing a fully nude member of a  in a Bernardo Bertolucci film. The American reception was a bit foreign to Green, who said:"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "break"
+      "parentId": 11,
+      "type": "text",
+      "text": "But considering that she's a French girl in an American industry, certain cultural differences become glaring enough for Green to comment. Green's breakthrough role was playing a fully nude member of a"
+    },
+    {
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "ménage à trois"
+    },
+    {
+      "type": "text",
+      "text": "in a Bernardo Bertolucci film. The American reception was a bit foreign to Green, who said:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm1200692/bio",
-      "sourceTitle": "Eva Green – Biography",
-      "text": "It must be very shocking for the American people, but what I don't understand is why they are so crazy about that. I don't understand why you can't see naked people on screen but we can see a baby being killed. It's quite strange. They're too puritan, too uptight."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "It must be very shocking for the American people, but what I don't understand is why they are so crazy about that. I don't understand why you can't see naked people on screen but we can see a baby being killed. It's quite strange. They're too puritan, too uptight.",
+      "sourceTitle": "Eva Green – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm1200692/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "In American terms, she'd probably be considered a liberal for her aversion to Puritanical social values, but in France it's just another day."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "Green objects to American film's treatment of women as well, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/e/eva_green_2.html",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Most of the women in film are there to be beautiful to the man.",
       "sourceTitle": "Eva Green Quotes",
-      "text": "Most of the women in film are there to be beautiful to the man."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/e/eva_green_2.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "So she's got enough moxie to come out about institutional sexism. Again, this would put her in the American social liberal camp. But in the end, Green doesn't care about politics. She's an artist, floating above the concerns of everyday folks."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

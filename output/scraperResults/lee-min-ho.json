@@ -29,67 +29,92 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Lee Min-ho was born and raised in Seoul, South Korea."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Most things Lee-related happen in Korean, not English, so I'm at a little bit of a disadvantage. But, according to an interview posted on one of his fan sites, when asked what his religion is, he said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.leeminhoworld.com/leeminho",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I don't have one for myself, but my parents are Buddhist.",
       "sourceTitle": "Lee Min Ho.",
-      "text": "I don't have one for myself, but my parents are Buddhist."
+      "sourceUrl": "http://www.leeminhoworld.com/leeminho"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_South_Korea",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "That seems entirely possibly considering a little under half of South Koreans don't adhere to any particular religion, and a little less than a quarter consider themselves Buddhist.",
       "sourceTitle": "Religion in South Korea.",
-      "text": "That seems entirely possibly considering a little under half of South Koreans don't adhere to any particular religion, and a little less than a quarter consider themselves Buddhist."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_South_Korea"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "I guess he didn't have much else to say–at least that's been translated–because I couldn't find anything else but speculation. Let's move on, shall we?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.korea.com/blog/enter/tv/city-hunter%E2%80%99s-lee-min-ho-wins-high-praise-for-his-spectacular-action-scenes-and-absorbing-acting-skill/",
+      "parentId": 7,
+      "type": "text",
+      "text": "Lee doesn't seem to be too interested in politics. I thought he might have an opinion about South Korea's volatile neighbor to the north, but I couldn't find a thing. He did have a role in one movie playing a spy who gathered intelligence against North Korea,",
       "sourceTitle": "City Hunter's Lee Min Ho wins high praise for his spectacular action scene and absorbing acting skill.",
-      "text": "Lee doesn't seem to be too interested in politics. I thought he might have an opinion about South Korea's volatile neighbor to the north, but I couldn't find a thing. He did have a role in one movie playing a spy who gathered intelligence against North Korea,"
+      "sourceUrl": "http://en.korea.com/blog/enter/tv/city-hunter%E2%80%99s-lee-min-ho-wins-high-praise-for-his-spectacular-action-scenes-and-absorbing-acting-skill/"
     },
     {
-      "type": "sentence",
-      "text": "so I guess we can assume he's not a North Korean sympathizer."
+      "type": "text",
+      "text": "so I guess we can assume he's not a North Korean sympathizer.",
+      "parentId": 7
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "He didn't have anything to say about South Korea's first woman president, Park Geun-hye, who was elected at the tail end of 2012. I couldn't even find a spotting of him at the voting booth."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "So, my best guess is that Lee is entirely non-political. Do you speak Korean and have any insight for us? If so, please let us know in the comment."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

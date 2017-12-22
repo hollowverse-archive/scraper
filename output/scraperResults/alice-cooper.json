@@ -34,82 +34,165 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "break"
+      "parentId": 1,
+      "type": "text",
+      "text": "Alice Cooper, born Vincent Damon Furnier, was born in Detroit, Michigan and grew up there and in Phoenix, Arizona."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Cooper was raised a devout Mormon, a religion his family converted to when he was 11.  According to Cooper, it was a very significant moment. He says:"
     },
     {
       "type": "quote",
-      "sourceUrl": "http://timesandseasons.org/index.php/2003/12/famous-mormons/",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "The church was suddenly everything to us, a religion, a social life, a new family. My father's devotion was inspiring… From then on I was in church with my father seven days a week! God, you wouldn't believe it. We studied the Bible and the Book of Mormon backward and forward. I even had entire scriptures memorized. In a year I was a religious whiz kid.",
       "sourceTitle": "Famous Mormons",
-      "text": "The church was suddenly everything to us, a religion, a social life, a new family. My father's devotion was inspiring… From then on I was in church with my father seven days a week! God, you wouldn't believe it. We studied the Bible and the Book of Mormon backward and forward. I even had entire scriptures memorized. In a year I was a religious whiz kid."
+      "sourceUrl": "http://timesandseasons.org/index.php/2003/12/famous-mormons/"
     },
     {
-      "type": "sentence",
-      "text": "Of course, stardom set in and Cooper reveled in it. His shows were designed to shock and he actively shattered taboos including necrophilia to murder to gratuitous sex to androgyny. It's safe to say that the good little Mormon boy had disappeared."
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "text",
+      "text": "Of course, stardom set in and Cooper reveled in it. His shows were designed to shock and he actively shattered taboos including"
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
+      "text": "from"
+    },
+    {
+      "type": "text",
+      "text": "necrophilia to murder to gratuitous sex to androgyny. It's safe to say that the good little Mormon boy had disappeared.",
+      "parentId": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "In the 80s, Cooper says the divine intervened and cured him of his alcoholism and various other vices. Now he's a devout born-again Christian who defends Jesus from his contemporary shock-rockers like Marilyn Manson, a fellow who is pretty down on Christianity. To his critics, Cooper says:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.jesusjournal.com/content/view/79/85/",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "When people say, 'How do you believe this [religious stuff]? Why do you believe this?' I just say nothing else speaks to my heart. This doesn't speak to my intellect, it doesn't speak to my logic – it speaks right to my heart and right to my soul, deeper than anything I've ever thought of. And I totally believe it.",
       "sourceTitle": "Alice Cooper Is A Christian",
-      "text": "When people say, 'How do you believe this [religious stuff]? Why do you believe this?' I just say nothing else speaks to my heart. This doesn't speak to my intellect, it doesn't speak to my logic – it speaks right to my heart and right to my soul, deeper than anything I've ever thought of. And I totally believe it."
+      "sourceUrl": "http://www.jesusjournal.com/content/view/79/85/"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Passionate non-politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Cooper is very outspoken about his political views–those being that he has none. In fact, he's highly critical of rock musicians who get political, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/articles/A27098-2004Aug23.html",
-      "sourceTitle": "Alice Cooper's Political Makeup",
-      "text": "To me, that's treason. I call it treason against rock-and-roll, because rock is the antithesis of politics. Rock should never be in bed with politics."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "To me, that's treason. I call it treason against rock-and-roll, because rock is the antithesis of politics. Rock should never be in bed with politics.",
+      "sourceTitle": "Alice Cooper's Political Makeup",
+      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/articles/A27098-2004Aug23.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Cooper would even go so far as to do the opposite of what everyone else is doing just to make a point. During the 2004 election season, he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/articles/A27098-2004Aug23.html",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "When I read the list of people who are supporting Kerry, if I wasn't already a Bush supporter, I would have immediately switched. Linda Ronstadt? Don Henley? Geez, that's a good reason right there to vote for Bush.",
       "sourceTitle": "Alice Cooper's Political Makeup",
-      "text": "When I read the list of people who are supporting Kerry, if I wasn't already a Bush supporter, I would have immediately switched. Linda Ronstadt? Don Henley? Geez, that's a good reason right there to vote for Bush."
+      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/articles/A27098-2004Aug23.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rollingstone.com/music/news/alice-cooper-rock-and-roll-hall-of-fame-inductee-was-elated-when-he-got-the-news-20101214",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Apparently, it's how he's always been, and how he remains to this day. He muses about sitting between such political rocker icons as John Lennon and Harry Nilsson while they argued politics and thinking, 'I don't care.'",
       "sourceTitle": "Alice Cooper, Rock and Roll Hall of Fame Inductee, was 'Elated' When He Got The News",
-      "text": "Apparently, it's how he's always been, and how he remains to this day. He muses about sitting between such political rocker icons as John Lennon and Harry Nilsson while they argued politics and thinking, 'I don't care.'"
+      "sourceUrl": "http://www.rollingstone.com/music/news/alice-cooper-rock-and-roll-hall-of-fame-inductee-was-elated-when-he-got-the-news-20101214"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "That's really a shame. What a fascinating conversation that must have been."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

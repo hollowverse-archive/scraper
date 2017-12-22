@@ -34,73 +34,133 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sidney \"Sid\" Meier was born in Sarnia, Ontario, Canada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Information as to the details of Meier's childhood is unavailable. I can't even find if he grew up in Sarnia or elsewhere, let alone his religious background."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.joabj.com/Balt/GameBoy.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "However, we do know that Meier is a devout Lutheran and attends the Faith Evangelical Lutheran Church in Cockysville, Maryland. In fact, this is where Meier met his second and current wife and they both sing in the church choir there.",
       "sourceTitle": "Game Boy",
-      "text": "However, we do know that Meier is a devout Lutheran and attends the Faith Evangelical Lutheran Church in Cockysville, Maryland. In fact, this is where Meier met his second and current wife and they both sing in the church choir there."
+      "sourceUrl": "http://www.joabj.com/Balt/GameBoy.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.giantbomb.com/sid-meier/3040-4212/",
+      "parentId": 4,
+      "type": "text",
+      "text": "It is worth noting that Meier is sometimes referred to as the father of \"God games,\"",
       "sourceTitle": "Sid Meier (Person)",
-      "text": "It is worth noting that Meier is sometimes referred to as the father of \"God games,\""
+      "sourceUrl": "http://www.giantbomb.com/sid-meier/3040-4212/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.patheos.com/blogs/getreligion/2007/03/god-man-and-civilization-iv/",
+      "type": "text",
+      "text": "because his popular computer games allow the user to control entire nations, cultures, armies, kings, etc. Furthermore, his games contain elements of religion, built into the gameplay. This began with his hit game,",
+      "parentId": 4
+    },
+    {
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "Civilization IV"
+    },
+    {
+      "type": "text",
+      "text": ", in which characters adopt and even evangelize the world's major religions. It is a feature that has made the game popular and acceptable to religious parents.",
+      "parentId": 4,
       "sourceTitle": "God, man and Civilization IV",
-      "text": "because his popular computer games allow the user to control entire nations, cultures, armies, kings, etc. Furthermore, his games contain elements of religion, built into the gameplay. This began with his hit game, , in which characters adopt and even evangelize the world's major religions. It is a feature that has made the game popular and acceptable to religious parents."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.patheos.com/blogs/getreligion/2007/03/god-man-and-civilization-iv/"
     },
     {
       "type": "heading",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Simulated politics"
     },
     {
-      "type": "sentence",
-      "text": "In terms of Meier's personal political affiliations, there is nothing to be found. However, again examining his work, there are strong political elements and aspects of economic/social ideology. In the  series, players can choose to run their simulated societies based on various socio-philosophical ideologies, including Communist, Democratic, Free Market, Feudalist, Monarchical, etc. (My source here is that I'm a  fan of these games and have logged hundreds of hours playing them.)"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "text",
+      "text": "In terms of Meier's personal political affiliations, there is nothing to be found. However, again examining his work, there are strong political elements and aspects of economic/social ideology. In the"
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "Civilization"
+    },
+    {
+      "type": "text",
+      "text": "series, players can choose to run their simulated societies based on various socio-philosophical ideologies, including Communist, Democratic, Free Market, Feudalist, Monarchical, etc. (My source here is that I'm a",
+      "parentId": 6
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "huge"
+    },
+    {
+      "type": "text",
+      "text": "fan of these games and have logged hundreds of hours playing them.)",
+      "parentId": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Interestingly, adopting a particular ideology results in various consequences within the game. For example, choosing to have a communist society results in lower rates of production while having a Democratic society results in war weariness and the tendency for social disruption. It's clearly something Meier and his fellow game developers have put a lot of thought into. But some evidence suggests this isn't Meier's doing. When asked if he had a formal background in history, he replied that he did not, and said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.mindjack.com/interviews/sidmeier.html",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "We do some historical research but it is not the starting point for a game. We want people to be able to start the game already knowing enough to play. After they play for a while we might introduce a new idea and they might be interested in learning more about that but we want people to feel they are immediately making progress and they are at home in the new world.",
       "sourceTitle": "Interview: Sid Meier",
-      "text": "We do some historical research but it is not the starting point for a game. We want people to be able to start the game already knowing enough to play. After they play for a while we might introduce a new idea and they might be interested in learning more about that but we want people to feel they are immediately making progress and they are at home in the new world."
+      "sourceUrl": "http://www.mindjack.com/interviews/sidmeier.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Meier is not a celebrity in the traditional sense, so his interviews and comments tend away from his personal thoughts and beliefs. But, if we've missed something, readers, do let us know in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

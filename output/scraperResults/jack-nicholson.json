@@ -32,109 +32,169 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pn/Jack_Nicholson.html",
+      "parentId": 1,
+      "type": "text",
+      "text": "Jack Nicholson was born in New York City and grew up in Neptune City, New Jersey."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Nicholson had a strange and mysterious childhood, thinking his grandparents were his parents and his mother was his sister–never knowing to this day who his father is. And while there was some Protestant influence, his upbringing was largely Irish Catholic.",
       "sourceTitle": "The religion of Jack Nicholson, actor",
-      "text": "Nicholson had a strange and mysterious childhood, thinking his grandparents were his parents and his mother was his sister–never knowing to this day who his father is. And while there was some Protestant influence, his upbringing was largely Irish Catholic."
+      "sourceUrl": "http://www.adherents.com/people/pn/Jack_Nicholson.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Despite the religion being a fixture in his early family life, Nicholson says he looked into Catholicism independently and was generally impressed:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.parade.com/celebrity/articles/071204-jack-nicholson.html",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "My immediate family were failed Irish Catholics. So I had to haltingly investigate Catholicism by myself because nobody asked me to go to church. I was the oldest kid in my First Communion classes. In my opinion, if you're going to be theocratic, Catholicism is the most intelligent belief system.",
       "sourceTitle": "Interview With Jack Nicholson",
-      "text": "My immediate family were failed Irish Catholics. So I had to haltingly investigate Catholicism by myself because nobody asked me to go to church. I was the oldest kid in my First Communion classes. In my opinion, if you're going to be theocratic, Catholicism is the most intelligent belief system."
+      "sourceUrl": "http://www.parade.com/celebrity/articles/071204-jack-nicholson.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pn/Jack_Nicholson.html",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "For many, the story could have ended there. But Nicholson, who designates himself as non-religious at times and agnostic at others,",
       "sourceTitle": "The religion of Jack Nicholson, actor.",
-      "text": "For many, the story could have ended there. But Nicholson, who designates himself as non-religious at times and agnostic at others,"
+      "sourceUrl": "http://www.adherents.com/people/pn/Jack_Nicholson.html"
     },
     {
-      "type": "sentence",
-      "text": "has investigated many a religious idea. Perhaps most notably is the psychological philosophy of Wilhelm Reich, a student of Sigmud Freud who touted the spiritual power of sexual climax. As one Nicholson biographer, Patrick McGilligan, said while commenting on how it was a perfect philosophy for the notorious womanizer:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "has investigated many a religious idea. Perhaps most notably is the psychological philosophy of Wilhelm Reich, a student of Sigmud Freud who touted the spiritual power of sexual climax. As one Nicholson biographer, Patrick McGilligan, said while commenting on how it was a perfect philosophy for the notorious womanizer:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pn/Jack_Nicholson.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "[Reichian therapy became] a new religion for Jack, a counterpoint to Catholicism, and one that, like [Catholicism], contained articles of faith that might be utilized in every area of life.",
       "sourceTitle": "The religion of Jack Nicholson, actor",
-      "text": "[Reichian therapy became] a new religion for Jack, a counterpoint to Catholicism, and one that, like [Catholicism], contained articles of faith that might be utilized in every area of life."
+      "sourceUrl": "http://www.adherents.com/people/pn/Jack_Nicholson.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pn/Jack_Nicholson.html",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Whether or not that's an authentic religious philosophy could be debated, however, and as Nicholson has stated he only prays when he goes jogging,",
       "sourceTitle": "The religion of Jack Nicholson, actor",
-      "text": "Whether or not that's an authentic religious philosophy could be debated, however, and as Nicholson has stated he only prays when he goes jogging,"
+      "sourceUrl": "http://www.adherents.com/people/pn/Jack_Nicholson.html"
     },
     {
-      "type": "sentence",
-      "text": "we'd be safer to say that he is effectively non-religious."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "we'd be safer to say that he is effectively non-religious.",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Here's politics!"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://today.msnbc.msn.com/id/22346316/ns/today-entertainment/t/jack-nicholson-goes-public-his-politics/#.UICDpxg1Zdg",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Nicholson has called himself a \"lifelong Irish Democrat,\"",
       "sourceTitle": "Nicholson goes public with his politics",
-      "text": "Nicholson has called himself a \"lifelong Irish Democrat,\""
+      "sourceUrl": "http://today.msnbc.msn.com/id/22346316/ns/today-entertainment/t/jack-nicholson-goes-public-his-politics/#.UICDpxg1Zdg"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/Jack_Nicholson.php",
+      "type": "text",
+      "text": "and he's got the financial records to prove it. Since 1980, he's donated $23,350 to Democrats–and not a penny to any Republicans.",
+      "parentId": 11,
       "sourceTitle": "Jack Nicholson's Federal Campaign Contribution Report",
-      "text": "and he's got the financial records to prove it. Since 1980, he's donated $23,350 to Democrats–and not a penny to any Republicans."
+      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/Jack_Nicholson.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "But his involvement with Democrats goes back farther than that. In 1972, he was a supporter of George McGovern's failed presidential bid against Richard Nixon. Back then, Nicholson was supporting causes that many think are new in today's political conversation:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://today.msnbc.msn.com/id/22346316/ns/today-entertainment/t/jack-nicholson-goes-public-his-politics/#.UICDpxg1Zdg",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I wanted to do solar energy. I wanted to legalize drugs versus the terrorist problem, which I was aware of in the '70s. Because where else are they getting illegal money at that level?",
       "sourceTitle": "Nicholson goes public with his politics",
-      "text": "I wanted to do solar energy. I wanted to legalize drugs versus the terrorist problem, which I was aware of in the '70s. Because where else are they getting illegal money at that level?"
+      "sourceUrl": "http://today.msnbc.msn.com/id/22346316/ns/today-entertainment/t/jack-nicholson-goes-public-his-politics/#.UICDpxg1Zdg"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://today.msnbc.msn.com/id/22346316/ns/today-entertainment/t/jack-nicholson-goes-public-his-politics/#.UICDpxg1Zdg",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "The issue of solar energy and the big corporations that prevent it from becoming a widespread phenomenon was on Nicholson's mind as recently as 2007, when he ranted that big oil sets the energy agenda even into the level of education and likened them to an \"evil genius.\"",
       "sourceTitle": "Nicholson goes public with his politics",
-      "text": "The issue of solar energy and the big corporations that prevent it from becoming a widespread phenomenon was on Nicholson's mind as recently as 2007, when he ranted that big oil sets the energy agenda even into the level of education and likened them to an \"evil genius.\""
+      "sourceUrl": "http://today.msnbc.msn.com/id/22346316/ns/today-entertainment/t/jack-nicholson-goes-public-his-politics/#.UICDpxg1Zdg"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "So in the end, Nicholson is a liberal Democrat like the majority of his Hollywood colleagues. The difference is, he might be one of the originals who set the tone for later incarnations of Tinseltown politics."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

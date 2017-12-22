@@ -32,113 +32,178 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pj/Andrew_Jackson.html",
+      "parentId": 1,
+      "type": "text",
+      "text": "Andrew Jackson's exact birthplace is unknown. He was born while his mother was traveling through the Waxhaws border region between North and South Carolina and this is where he grew up. Jackson died in 1845 in his home outside of Nashville, Tennessee of unknown causes."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Jackson was raised a strict Presbyterian. Biographers assert that he was not very religious as a young man, but became progressively more so with age.",
       "sourceTitle": "The religion of Andrew Jackson, 7th U.S. President",
-      "text": "Jackson was raised a strict Presbyterian. Biographers assert that he was not very religious as a young man, but became progressively more so with age."
+      "sourceUrl": "http://www.adherents.com/people/pj/Andrew_Jackson.html"
     },
     {
-      "type": "sentence",
-      "text": "He did speak of his religious upbringing on occasion, saying once:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He did speak of his religious upbringing on occasion, saying once:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pj/Andrew_Jackson.html",
-      "sourceTitle": "The religion of Andrew Jackson, 7th U.S. President",
-      "text": "I was brought up a rigid Presbyterian, to which I have always adhered."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I was brought up a rigid Presbyterian, to which I have always adhered.",
+      "sourceTitle": "The religion of Andrew Jackson, 7th U.S. President",
+      "sourceUrl": "http://www.adherents.com/people/pj/Andrew_Jackson.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "And his final words, uttered on his deathbed were:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pj/Andrew_Jackson.html",
-      "sourceTitle": "The religion of Andrew Jackson, 7th U.S. President",
-      "text": "What is the matter with my dear children, have I alarmed you? Oh, do not cry — be good children and we will all meet in heaven."
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.sethkaller.com/item/77-Andrew-Jackson-Bashes-The-Whigs-For-Mixing-Religion-And-Politics",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "What is the matter with my dear children, have I alarmed you? Oh, do not cry — be good children and we will all meet in heaven.",
+      "sourceTitle": "The religion of Andrew Jackson, 7th U.S. President",
+      "sourceUrl": "http://www.adherents.com/people/pj/Andrew_Jackson.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Despite his religiosity, Jackson was a staunch defender of the separation of church and state and had no problems lambasting his fellow politicians whose religion dictated their political actions.",
       "sourceTitle": "Andrew Jackson Bashes The Whigs For Mixing Religion and Politics",
-      "text": "Despite his religiosity, Jackson was a staunch defender of the separation of church and state and had no problems lambasting his fellow politicians whose religion dictated their political actions."
+      "sourceUrl": "http://www.sethkaller.com/item/77-Andrew-Jackson-Bashes-The-Whigs-For-Mixing-Religion-And-Politics"
     },
     {
-      "type": "sentence",
-      "text": "Jackson preached religious tolerance, (as long as they were some form of Christian, at least) and said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Jackson preached religious tolerance, (as long as they were some form of Christian, at least) and said:",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pj/Andrew_Jackson.html",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Our excellent constitution guarantees to every one freedom of religion… All who profess Christianity, believe in a Savior and that by and through Him we must be saved. We ought therefor to consider all good Christians… be him Presbyterian, Episcopalian, Baptist, Methodist or Roman Catholic. Let it be remembered… that no established religion can exist under our glorious constitution.",
       "sourceTitle": "The religion of Andrew Jackson, 7th U.S. President",
-      "text": "Our excellent constitution guarantees to every one freedom of religion… All who profess Christianity, believe in a Savior and that by and through Him we must be saved. We ought therefor to consider all good Christians… be him Presbyterian, Episcopalian, Baptist, Methodist or Roman Catholic. Let it be remembered… that no established religion can exist under our glorious constitution."
+      "sourceUrl": "http://www.adherents.com/people/pj/Andrew_Jackson.html"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Old School politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.presidentprofiles.com/Washington-Johnson/Andrew-Jackson-Slavery.html",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Some of Jackson's political stances would most certainly be judged by today's society to be on the wrong side of history. For example, Jackson strongly supported and endorsed the institution of slavery. This might not have been an issue had it not been for the fact that during Jackson's presidency, vocal factions of American society, particularly in the north, were banding together to rail against slavery,",
       "sourceTitle": "Slavery – Andrew Jackson – policy, election, second",
-      "text": "Some of Jackson's political stances would most certainly be judged by today's society to be on the wrong side of history. For example, Jackson strongly supported and endorsed the institution of slavery. This might not have been an issue had it not been for the fact that during Jackson's presidency, vocal factions of American society, particularly in the north, were banding together to rail against slavery,"
+      "sourceUrl": "http://www.presidentprofiles.com/Washington-Johnson/Andrew-Jackson-Slavery.html"
     },
     {
-      "type": "sentence",
-      "text": "a trend that would eventually lead to the civil war."
+      "type": "text",
+      "text": "a trend that would eventually lead to the civil war.",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pbs.org/wgbh/aia/part4/4p2959.html",
+      "parentId": 14,
+      "type": "text",
+      "text": "Beyond that, Jackson was, shall we say, not very nice to the Native Americans. Jackson waged multiple wars on various Native American tribes, acquiring tens of millions of acres of land from them and forcing their migration ever-further west. Jackson likened Native Americans to \"children, who required guidance.\"",
       "sourceTitle": "Indian removal",
-      "text": "Beyond that, Jackson was, shall we say, not very nice to the Native Americans. Jackson waged multiple wars on various Native American tribes, acquiring tens of millions of acres of land from them and forcing their migration ever-further west. Jackson likened Native Americans to \"children, who required guidance.\""
+      "sourceUrl": "http://www.pbs.org/wgbh/aia/part4/4p2959.html"
     },
     {
-      "type": "sentence",
-      "text": "He was certainly not a friend to those without white skin."
+      "type": "text",
+      "text": "He was certainly not a friend to those without white skin.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.factmonster.com/ce6/people/A0858962.html",
+      "parentId": 15,
+      "type": "text",
+      "text": "Jackson did, however, have his redeeming presidential policies. He advocated a kind of democracy, later known as Jacksonian Democracy, where popular participation was paramount. Jackson was strongly opposed to a rule by an elite class–religious, financial, or otherwise–and made his views known that every citizen, regardless of wealth, status, religion, etc. should participate in the governance of their society.",
       "sourceTitle": "Andrew Jackson: Jacksonian Democracy.",
-      "text": "Jackson did, however, have his redeeming presidential policies. He advocated a kind of democracy, later known as Jacksonian Democracy, where popular participation was paramount. Jackson was strongly opposed to a rule by an elite class–religious, financial, or otherwise–and made his views known that every citizen, regardless of wealth, status, religion, etc. should participate in the governance of their society."
+      "sourceUrl": "http://www.factmonster.com/ce6/people/A0858962.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.history.com/this-day-in-history/andrew-jackson-shuts-down-second-bank-of-the-us",
+      "parentId": 16,
+      "type": "text",
+      "text": "Jackson's disdain for the financial elite was part of the reason for his war against America's central bank. Jackson resented the power held by the bank and its unwillingness to fund projects in the western frontier as opposed to helping to line the pockets of industrial cronies in the Northeast. Jackson signed an executive order completely shutting down the bank and removing all federal funds.",
       "sourceTitle": "Andrew Jackson shuts down Second Bank of the U.S.",
-      "text": "Jackson's disdain for the financial elite was part of the reason for his war against America's central bank. Jackson resented the power held by the bank and its unwillingness to fund projects in the western frontier as opposed to helping to line the pockets of industrial cronies in the Northeast. Jackson signed an executive order completely shutting down the bank and removing all federal funds."
+      "sourceUrl": "http://www.history.com/this-day-in-history/andrew-jackson-shuts-down-second-bank-of-the-us"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "In the end, we could view Jackson as a man of the people and a man of his time. Clearly, his views on race relations wouldn't fly today, but his disdain for financial elites and support of popular democracy might."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -198,7 +263,7 @@
             "source": "commons-desc-page"
           },
           "Permission": {
-            "value": "<table class=\"licensetpl\" style=\"display:none\"><tr>\n<td>\n<span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td>\n</tr></table>\n<table style=\"width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr; border-spacing: 8px; padding: 0px;\" class=\"layouttemplate mw-content-ltr\" lang=\"en\"><tr>\n<td><img alt=\"PD-icon.svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/70px-PD-icon.svg.png\" width=\"70\" height=\"70\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/105px-PD-icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/140px-PD-icon.svg.png 2x\" data-file-width=\"196\" data-file-height=\"196\"></td>\n<td>\n<span lang=\"en\" class=\"description en\">This image is a work of an employee of the <a href=\"https://en.wikipedia.org/wiki/Executive_Office_of_the_President_of_the_United_States\" class=\"extiw\" title=\"w:Executive Office of the President of the United States\">Executive Office of the President of the United States</a>, taken or made as part of that person's official duties. As a <a href=\"https://en.wikipedia.org/wiki/Work_of_the_United_States_Government\" class=\"extiw\" title=\"w:Work of the United States Government\">work</a> of the <a href=\"https://en.wikipedia.org/wiki/Federal_Government_of_the_United_States\" class=\"extiw\" title=\"w:Federal Government of the United States\">U.S. federal government</a>, the image is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b>.</span>\n<hr>\n<p><span style=\"font-size:x-small;line-height:140%\" class=\"plainlinks noprint\"><a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/de\">Deutsch</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/en\">English</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/es\">Español</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/fa\">فارسی</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/fr\">Français</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/gl\">Galego</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/he\">עברית</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/it\">Italiano</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/ja\">日本語</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/ml\">മലയാളം</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/nl\">Nederlands</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/pt\">Português</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/ru\">Русский</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/scn\">Sicilianu</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/sl\">Slovenščina</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/zh-hans\">中文（简体）‎</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/zh-hant\">中文（繁體）‎</a> | <small class=\"plainlinks\"><a class=\"external text\" href=\"//commons.wikimedia.org/w/index.php?title=Template:PD-USGov-POTUS/lang&amp;action=edit\">+/−</a></small></span></p>\n</td>\n<td>\n<div class=\"floatright\"><img alt=\"Seal of the President of the United States.svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/64px-Seal_of_the_President_of_the_United_States.svg.png\" width=\"64\" height=\"64\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/96px-Seal_of_the_President_of_the_United_States.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/128px-Seal_of_the_President_of_the_United_States.svg.png 2x\" data-file-width=\"2424\" data-file-height=\"2425\"></div>\n</td>\n</tr></table>\n<table cellspacing=\"8\" cellpadding=\"0\" style=\"clear:both; margin:0.5em auto; background-color:#f0f0f0; border:2px solid #e0e0e0; direction: ltr;\" class=\"layouttemplate\"><tr>\n<td>\n<center>This is a faithful photographic reproduction of a two-dimensional, <a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">public domain</a> work of art. The work of art itself is in the public domain for the following reason:\n<table class=\"licensetpl\" style=\"display:none\"><tr>\n<td>\n<span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td>\n</tr></table>\n<table style=\"width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr; border-spacing: 8px; padding: 0px;\" class=\"layouttemplate mw-content-ltr\" lang=\"en\">\n<tr>\n<td rowspan=\"2\"><img alt=\"Public domain\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/64px-PD-icon.svg.png\" title=\"Public domain\" width=\"64\" height=\"64\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/96px-PD-icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png 2x\" data-file-width=\"196\" data-file-height=\"196\"></td>\n<td>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_length\" class=\"extiw\" title=\"w:List of countries' copyright length\">copyright term</a> is the author's <b>life plus 100 years or less</b>.</p>\n<hr>\n<p><img alt=\"Dialog-warning.svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/25px-Dialog-warning.svg.png\" width=\"25\" height=\"25\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/38px-Dialog-warning.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/50px-Dialog-warning.svg.png 2x\" data-file-width=\"48\" data-file-height=\"48\"><small>You must also include a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags#United_States\" title=\"Commons:Copyright tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.</small></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\">\n<center><span style=\"font-size:x-small;line-height:140%\" class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a></span></center>\n</td>\n</tr>\n</table>\nThe official position taken by the Wikimedia Foundation is that \"<i>faithful reproductions of two-dimensional public domain works of art are public domain</i>\".<br><b>This photographic reproduction is therefore also considered to be in the public domain in the United States.</b> In other jurisdictions, re-use of this content may be restricted; <b>see <a href=\"//commons.wikimedia.org/wiki/Commons:Reuse_of_PD-Art_photographs\" title=\"Commons:Reuse of PD-Art photographs\">Reuse of PD-Art photographs</a> for details.</b>\n</center>\n</td>\n</tr></table>",
+            "value": "<table class=\"licensetpl\" style=\"display:none\"><tr>\n<td>\n<span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td>\n</tr></table>\n<table style=\"width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr; border-spacing: 8px; padding: 0px;\" class=\"layouttemplate mw-content-ltr\" lang=\"en\"><tr>\n<td><img alt=\"PD-icon.svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/70px-PD-icon.svg.png\" width=\"70\" height=\"70\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/105px-PD-icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/140px-PD-icon.svg.png 2x\" data-file-width=\"196\" data-file-height=\"196\"></td>\n<td>\n<span lang=\"en\" class=\"description en\">This image is a work of an employee of the <a href=\"https://en.wikipedia.org/wiki/Executive_Office_of_the_President_of_the_United_States\" class=\"extiw\" title=\"w:Executive Office of the President of the United States\">Executive Office of the President of the United States</a>, taken or made as part of that person's official duties. As a <a href=\"https://en.wikipedia.org/wiki/Work_of_the_United_States_Government\" class=\"extiw\" title=\"w:Work of the United States Government\">work</a> of the <a href=\"https://en.wikipedia.org/wiki/Federal_Government_of_the_United_States\" class=\"extiw\" title=\"w:Federal Government of the United States\">U.S. federal government</a>, the image is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b>.</span>\n<hr>\n<p><span style=\"font-size:x-small;line-height:140%\" class=\"plainlinks noprint\"><a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/de\">Deutsch</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/en\">English</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/es\">Español</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/fa\">فارسی</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/fr\">Français</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/gl\">Galego</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/he\">עברית</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/it\">Italiano</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/ja\">日本語</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/ml\">മലയാളം</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/nl\">Nederlands</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/pt\">Português</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/ru\">Русский</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/scn\">Sicilianu</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/sl\">Slovenščina</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/zh-hans\">中文（简体）‎</a> | <a class=\"external text\" href=\"//commons.wikimedia.org/wiki/Template:PD-USGov-POTUS/zh-hant\">中文（繁體）‎</a> | <small class=\"plainlinks\"><a class=\"external text\" href=\"//commons.wikimedia.org/w/index.php?title=Template:PD-USGov-POTUS/lang&amp;action=edit\">+/−</a></small></span></p>\n</td>\n<td>\n<div class=\"floatright\"><img alt=\"Seal of the President of the United States.svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/64px-Seal_of_the_President_of_the_United_States.svg.png\" width=\"64\" height=\"64\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/96px-Seal_of_the_President_of_the_United_States.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/128px-Seal_of_the_President_of_the_United_States.svg.png 2x\" data-file-width=\"2424\" data-file-height=\"2425\"></div>\n</td>\n</tr></table>\n<table cellspacing=\"8\" cellpadding=\"0\" style=\"clear:both; margin:0.5em auto; background-color:#f0f0f0; border:2px solid #e0e0e0; direction: ltr;\" class=\"layouttemplate\"><tr>\n<td>\n<center>This is a faithful photographic reproduction of a two-dimensional, <a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">public domain</a> work of art. The work of art itself is in the public domain for the following reason:\n<table class=\"licensetpl\" style=\"display:none\"><tr>\n<td>\n<span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td>\n</tr></table>\n<table style=\"width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr; border-spacing: 8px; padding: 0px;\" class=\"layouttemplate mw-content-ltr\" lang=\"en\">\n<tr>\n<td rowspan=\"2\"><img alt=\"Public domain\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/64px-PD-icon.svg.png\" title=\"Public domain\" width=\"64\" height=\"64\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/96px-PD-icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png 2x\" data-file-width=\"196\" data-file-height=\"196\"></td>\n<td>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_length\" class=\"extiw\" title=\"w:List of countries' copyright length\">copyright term</a> is the author's <b>life plus 100 years or less</b>.</p>\n<hr>\n<p><img alt=\"Dialog-warning.svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/25px-Dialog-warning.svg.png\" width=\"25\" height=\"25\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/38px-Dialog-warning.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/50px-Dialog-warning.svg.png 2x\" data-file-width=\"48\" data-file-height=\"48\"><small>You must also include a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags#United_States\" title=\"Commons:Copyright tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.</small></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;\"><span style=\"font-size:x-small;line-height:140%\" class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a></span></td>\n</tr>\n</table>\nThe official position taken by the Wikimedia Foundation is that \"<i>faithful reproductions of two-dimensional public domain works of art are public domain</i>\".<br><b>This photographic reproduction is therefore also considered to be in the public domain in the United States.</b> In other jurisdictions, re-use of this content may be restricted; <b>see <a href=\"//commons.wikimedia.org/wiki/Commons:Reuse_of_PD-Art_photographs\" title=\"Commons:Reuse of PD-Art photographs\">Reuse of PD-Art photographs</a> for details.</b>\n</center>\n</td>\n</tr></table>",
             "source": "commons-desc-page",
             "hidden": ""
           },

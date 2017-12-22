@@ -34,85 +34,148 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Mohamed \"Mo\" Farah was born in Mogadishu, Somalia. He was raised in Djibouti until age eight when he moved to London, England and spent the remainder of his childhood there."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.independent.co.uk/sport/olympics/news/mo-farah-seeks-a-peaceful-haven-as-he-prepares-for-second-date-with-olympic-destiny-8031603.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Farah is a devoted Muslim, and although he only speaks about it rarely,",
       "sourceTitle": "Mo Farah seeks a peaceful haven as he prepares for second date with Olympic destiny.",
-      "text": "Farah is a devoted Muslim, and although he only speaks about it rarely,"
+      "sourceUrl": "http://www.independent.co.uk/sport/olympics/news/mo-farah-seeks-a-peaceful-haven-as-he-prepares-for-second-date-with-olympic-destiny-8031603.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=ESKb0h_e-2k",
+      "type": "text",
+      "text": "his mega-star status during the 2012 London Olympics afforded him more opportunities than usual. The runner said he tries to pray five times a day, and that his faith plays an essential role in his success as an athlete.",
+      "parentId": 2,
       "sourceTitle": "Mo Farah on being a British Athlete and a Devout Muslim.",
-      "text": "his mega-star status during the 2012 London Olympics afforded him more opportunities than usual. The runner said he tries to pray five times a day, and that his faith plays an essential role in his success as an athlete."
+      "sourceUrl": "http://www.youtube.com/watch?v=ESKb0h_e-2k"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/news/article-2197340/Mo-Farah-shows-newborn-daughters-time.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Farah, who gave his twin girls Muslim names,",
       "sourceTitle": "Mo Farah shows off his newborn daughters for first time.",
-      "text": "Farah, who gave his twin girls Muslim names,"
+      "sourceUrl": "http://www.dailymail.co.uk/news/article-2197340/Mo-Farah-shows-newborn-daughters-time.html"
     },
     {
-      "type": "sentence",
-      "text": "said his religion keeps him relaxed and focused:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "said his religion keeps him relaxed and focused:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.independent.co.uk/sport/olympics/news/mo-farah-seeks-a-peaceful-haven-as-he-prepares-for-second-date-with-olympic-destiny-8031603.html",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "You've got to believe in God.  Everything happens for a reason, so you shouldn't get wound up. . . . It also says in the Qur'an that you must work hard in whatever you do, so I work hard in training and that's got a lot to do with being successful.",
       "sourceTitle": "Mo Farah seeks a peaceful haven as he prepares for second date with Olympic destiny.",
-      "text": "You've got to believe in God.  Everything happens for a reason, so you shouldn't get wound up. . . . It also says in the Qur'an that you must work hard in whatever you do, so I work hard in training and that's got a lot to do with being successful."
+      "sourceUrl": "http://www.independent.co.uk/sport/olympics/news/mo-farah-seeks-a-peaceful-haven-as-he-prepares-for-second-date-with-olympic-destiny-8031603.html"
     },
     {
-      "type": "sentence",
-      "text": "Apparently that's worked out for him, because he left the London Olympics as one of the most beloved and successful British athletes. Now, if only  felt the same way. . . but excuse me for getting off track. Let us continue."
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "text",
+      "text": "Apparently that's worked out for him, because he left the London Olympics as one of the most beloved and successful British athletes. Now, if only"
+    },
+    {
+      "parentId": 6,
+      "type": "link",
+      "text": "U.S. Customs",
+      "sourceUrl": "http://news.sky.com/story/1031513/olympic-hero-mo-held-in-us-terror-blunder"
+    },
+    {
+      "type": "text",
+      "text": "felt the same way. . . but excuse me for getting off track. Let us continue.",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Mo Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mofarahfoundation.org.uk/completed-projects/",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "As far as I can tell, Farah doesn't get involved in British partisan politics. His focus is set on the country of his birth, Somalia. The gold medalist set up the Mo Farah Foundation to alleviate the devastation caused by the severe 2011 drought in the Horn of Africa. The organization focused on both short-term and long-term goals with emergency aid, access to clean water, medical help, agricultural development, and education.",
       "sourceTitle": "Completed Projects.",
-      "text": "As far as I can tell, Farah doesn't get involved in British partisan politics. His focus is set on the country of his birth, Somalia. The gold medalist set up the Mo Farah Foundation to alleviate the devastation caused by the severe 2011 drought in the Horn of Africa. The organization focused on both short-term and long-term goals with emergency aid, access to clean water, medical help, agricultural development, and education."
+      "sourceUrl": "http://www.mofarahfoundation.org.uk/completed-projects/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "He also threw his support behind the 2013 Somalia Conference in London which hopes to build international support and awareness for the fledgling Somali government. In a video for the Conference, Farah said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://www.gov.uk/government/news/somalia-conference-videos",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I had the opportunity to come to Britain to start a new life, and I was one of the lucky ones. . . . But there are people out there that need our help. . . . The kids don't know anything other than fighting. . . . I want to see Somalia back again to what it was.",
       "sourceTitle": "Somalia Conference videos.",
-      "text": "I had the opportunity to come to Britain to start a new life, and I was one of the lucky ones. . . . But there are people out there that need our help. . . . The kids don't know anything other than fighting. . . . I want to see Somalia back again to what it was."
+      "sourceUrl": "https://www.gov.uk/government/news/somalia-conference-videos"
     },
     {
-      "type": "sentence",
-      "text": "It's hard not to be moved by man as  and sincere as Mo Farah."
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "break"
+      "parentId": 12,
+      "type": "text",
+      "text": "It's hard not to be moved by man as"
+    },
+    {
+      "parentId": 12,
+      "type": "link",
+      "text": "humble",
+      "sourceUrl": "http://www.guardian.co.uk/commentisfree/2013/feb/26/mo-farah-run-before"
+    },
+    {
+      "type": "text",
+      "text": "and sincere as Mo Farah.",
+      "parentId": 12
     }
   ],
   "wikipediaData": {

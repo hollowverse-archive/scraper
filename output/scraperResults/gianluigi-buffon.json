@@ -33,97 +33,132 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Gianluigi \"Gigi\" Buffon was born in Carrara, Italy."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://books.google.com/books?id=y6VwrJfEivgC&pg=PA20&lpg=PA20&dq=gianluigi+buffon+pope&source=bl&ots=zrvnTI1_tA&sig=oSeSRIVA0TeUi2f73qlsUjScC5M&hl=en&sa=X&ei=lDPrUIK8EOSP0QHB_YGgBw&ved=0CEIQ6AEwAg#v=onepage&q=gianluigi%20buffon%20pope&f=false",
+      "parentId": 2,
+      "type": "text",
+      "text": "No surprise that this Italian footballer is Catholic. He even met Pope John Paul II, who was a big football fan.",
       "sourceTitle": "Gianluigi Buffon – Arturo Contró.",
-      "text": "No surprise that this Italian footballer is Catholic. He even met Pope John Paul II, who was a big football fan."
+      "sourceUrl": "http://books.google.com/books?id=y6VwrJfEivgC&pg=PA20&lpg=PA20&dq=gianluigi+buffon+pope&source=bl&ots=zrvnTI1_tA&sig=oSeSRIVA0TeUi2f73qlsUjScC5M&hl=en&sa=X&ei=lDPrUIK8EOSP0QHB_YGgBw&ved=0CEIQ6AEwAg#v=onepage&q=gianluigi%20buffon%20pope&f=false"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.goal.com/en-gb/news/3265/italy/2012/07/04/3220345/buffon-goes-on-religious-pilgrimage-to-bosnia",
+      "parentId": 3,
+      "type": "text",
+      "text": "Some information I found makes Buffon sound like a very devout Catholic. He made a religious pilgrimage to Bosnia, for example, to a town where several practitioners of his faith reportedly saw visions of the Virgin Mary.",
       "sourceTitle": "Buffon goes on religious pilgrimage to Bosnia.",
-      "text": "Some information I found makes Buffon sound like a very devout Catholic. He made a religious pilgrimage to Bosnia, for example, to a town where several practitioners of his faith reportedly saw visions of the Virgin Mary."
+      "sourceUrl": "http://www.goal.com/en-gb/news/3265/italy/2012/07/04/3220345/buffon-goes-on-religious-pilgrimage-to-bosnia"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dreamweddingitaly.com/the-wedding-guide/famous-wedding/1475-gianluigi-buffon-and-alena-seredova-shes-the-one-for-the-italian-keeper-of-juventus.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "And although he was married in what appears to be a Catholic wedding, he married his wife after they already had children.",
       "sourceTitle": "Gianluigi Buffon and Alena Seredova: she's the one for the italian keeper of Juventus.",
-      "text": "And although he was married in what appears to be a Catholic wedding, he married his wife after they already had children."
+      "sourceUrl": "http://www.dreamweddingitaly.com/the-wedding-guide/famous-wedding/1475-gianluigi-buffon-and-alena-seredova-shes-the-one-for-the-italian-keeper-of-juventus.html"
     },
     {
-      "type": "sentence",
-      "text": "So apparently that whole premarital sex thing didn't apply to his brand of Catholicism."
+      "type": "text",
+      "text": "So apparently that whole premarital sex thing didn't apply to his brand of Catholicism.",
+      "parentId": 4
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/88_(number)#As_a_Neo-Nazi_symbol",
+      "parentId": 5,
+      "type": "text",
+      "text": "Buffon was involved in a little scandal involving his pick of jersey number 88 back in 2000. Jewish groups in Italy pointed to the number's connection with Nazis and Hilter",
       "sourceTitle": "88 (number).",
-      "text": "Buffon was involved in a little scandal involving his pick of jersey number 88 back in 2000. Jewish groups in Italy pointed to the number's connection with Nazis and Hilter"
+      "sourceUrl": "http://en.wikipedia.org/wiki/88_(number)#As_a_Neo-Nazi_symbol"
     },
     {
-      "type": "sentence",
-      "text": "prompting cries of antisemitism. Buffon responded saying he meant no insult:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "prompting cries of antisemitism. Buffon responded saying he meant no insult:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.news24.com/xArchive/Sport/Soccer/Buffon-to-change-shirt-over-neo-Nazi-row-20000909",
-      "sourceTitle": "Buffon to change shirt over neo-Nazi row.",
-      "text": "My family taught me to respect others, so for me to have to answer these accusations is an insult to them. I was taught about the holocaust and anti-semitism and to be accused of such sympathies horrifies and hurts me."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "My family taught me to respect others, so for me to have to answer these accusations is an insult to them. I was taught about the holocaust and anti-semitism and to be accused of such sympathies horrifies and hurts me.",
+      "sourceTitle": "Buffon to change shirt over neo-Nazi row.",
+      "sourceUrl": "http://www.news24.com/xArchive/Sport/Soccer/Buffon-to-change-shirt-over-neo-Nazi-row-20000909"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "So regardless of how devoted a Catholic Buffon is, he appears to be tolerant of other religions, even if he accidentally insults them from time to time."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "The politics of a scandal"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/football/2012/jun/08/euro-2012-gianluigi-buffon-italy",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Buffon appears to stay out of the political debate. I couldn't find anything about him responding to Berlusconi's promiscuous sex life, the European debt crisis, or Italian pride–although he did appeal to the Italian people to support their country's team during the 2012 World Cup, despite a match-fixing and betting scandal.",
       "sourceTitle": "Euro2012: Gianluigi Buffon wants fans to back scandal-hit Italy.",
-      "text": "Buffon appears to stay out of the political debate. I couldn't find anything about him responding to Berlusconi's promiscuous sex life, the European debt crisis, or Italian pride–although he did appeal to the Italian people to support their country's team during the 2012 World Cup, despite a match-fixing and betting scandal."
+      "sourceUrl": "http://www.guardian.co.uk/football/2012/jun/08/euro-2012-gianluigi-buffon-italy"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mondogossip.com/news/17922/gigi-buffon-contro-mario-monti-e-al-suo-stop-al-calcio.html",
+      "parentId": 11,
+      "type": "text",
+      "text": "Buffon, in fact, was involved in that scandal after being accused of making bets on games. But after Italian Prime Minister Mario Monti suggested maybe the Italian team should be shut down for a few years, Buffon heartily disagreed. He said it would be unfair to punish the whole league when most players were honest.",
       "sourceTitle": "Gigi Buffon contro Mario Monti e al suo \"Stop al Calcio.\"",
-      "text": "Buffon, in fact, was involved in that scandal after being accused of making bets on games. But after Italian Prime Minister Mario Monti suggested maybe the Italian team should be shut down for a few years, Buffon heartily disagreed. He said it would be unfair to punish the whole league when most players were honest."
+      "sourceUrl": "http://www.mondogossip.com/news/17922/gigi-buffon-contro-mario-monti-e-al-suo-stop-al-calcio.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "But that's all I could find. For those of you readers who speak Italian, or happen to be huge Buffon fans, let us know in the comments if we missed anything."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

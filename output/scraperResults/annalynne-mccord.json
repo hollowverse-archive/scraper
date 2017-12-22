@@ -32,104 +32,171 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "AnnaLynne McCord was born in Atlanta, Georgia and grew up in Buford, Georgia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jpost.com/Travel/AroundIsrael/Article.aspx?id=269844",
+      "parentId": 2,
+      "type": "text",
+      "text": "McCord appears to be a sort of quiet Christian. First of all, McCord's father is a Christian pastor (denomination unknown, though Baptist seems a reasonable assumption) and McCord grew up reading the Bible for two hours a day.",
       "sourceTitle": "Hollywood stars find faith during Israel tour",
-      "text": "McCord appears to be a sort of quiet Christian. First of all, McCord's father is a Christian pastor (denomination unknown, though Baptist seems a reasonable assumption) and McCord grew up reading the Bible for two hours a day."
+      "sourceUrl": "http://www.jpost.com/Travel/AroundIsrael/Article.aspx?id=269844"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "For the most part, McCord seems preoccupied by her work and her political views (forthcoming, of course) and doesn't get too much into religion."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "However, she visited Israel with a flock of fellow stars of the small screen, and during a debriefing interview, her Christian background–and emotions–came to the fore. She spoke of visiting historical Christian sites, returning to her hotel room and listening to a powerful song:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.jpost.com/Travel/AroundIsrael/Article.aspx?id=269844",
-      "sourceTitle": "Hollywood stars find faith during Israel tour",
-      "text": "The lyrics talked about the scars in his hand and I was imagining Mary, his mother, and today being Mother's Day… and thinking about her and how she walked beside him… And I thought about myself. What if I was there? What would I be thinking and doing?… And then it just washed over me. I realized he did all of this for me, for us."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "The lyrics talked about the scars in his hand and I was imagining Mary, his mother, and today being Mother's Day… and thinking about her and how she walked beside him… And I thought about myself. What if I was there? What would I be thinking and doing?… And then it just washed over me. I realized he did all of this for me, for us.",
+      "sourceTitle": "Hollywood stars find faith during Israel tour",
+      "sourceUrl": "http://www.jpost.com/Travel/AroundIsrael/Article.aspx?id=269844"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "That sounds like some serious devotion to me."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Politicizing rape"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.opposingviews.com/i/entertainment/annalynne-mccord-was-once-raped",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "McCord is a Democrat. And she found herself an expert of sorts on an issue that took center stage during the 2012 elections–rape. McCord is a victim of rape herself,",
       "sourceTitle": "AnnaLynne McCord Talks About Rape Experience",
-      "text": "McCord is a Democrat. And she found herself an expert of sorts on an issue that took center stage during the 2012 elections–rape. McCord is a victim of rape herself,"
+      "sourceUrl": "http://www.opposingviews.com/i/entertainment/annalynne-mccord-was-once-raped"
     },
     {
-      "type": "sentence",
-      "text": "and understandably found the rhetoric surrounding the issue to be quite offensive."
+      "type": "text",
+      "text": "and understandably found the rhetoric surrounding the issue to be quite offensive.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "text": "Consequently, and mostly via her , McCord kept up a sustained attack on Republicans during election season, particularly the ones who had commented on rape. For example, of Todd Akin, she said:"
+      "parentId": 10,
+      "type": "text",
+      "text": "Consequently, and mostly via her"
     },
     {
-      "type": "break"
+      "parentId": 10,
+      "type": "link",
+      "text": "Twitter feed",
+      "sourceUrl": "https://twitter.com/IAMannalynnemcc"
+    },
+    {
+      "type": "text",
+      "text": ", McCord kept up a sustained attack on Republicans during election season, particularly the ones who had commented on rape. For example, of Todd Akin, she said:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://tmi.me/yUCdJ",
-      "sourceTitle": "IAMannalynnemcc: Republican, si.",
-      "text": "Republican, six-term Tea Party backed Missouri Congressman Todd Akin who, during a live television interview, when asked about his views on rape and abortion said: 'If it's a legitimate rape, the female body has ways to try to shut that whole thing down.'"
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Republican, six-term Tea Party backed Missouri Congressman Todd Akin who, during a live television interview, when asked about his views on rape and abortion said: 'If it's a legitimate rape, the female body has ways to try to shut that whole thing down.'",
+      "sourceTitle": "IAMannalynnemcc: Republican, si.",
+      "sourceUrl": "http://tmi.me/yUCdJ"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "It's interesting, not an explicit condemnation, just the facts–as if they speak for themselves. We are asked to wonder: Legitimate rape? Is that a thing?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "Naturally, she supported Obama. And when he won, she tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/IAMannalynnemcc",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Omg!!!!! Aaaaaahhhhh!!!!",
       "sourceTitle": "AnnaLynne McCord (IAMannalynnemcc) on Twitter",
-      "text": "Omg!!!!! Aaaaaahhhhh!!!!"
+      "sourceUrl": "https://twitter.com/IAMannalynnemcc"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Not strikingly eloquent, but the point was made."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

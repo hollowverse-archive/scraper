@@ -32,118 +32,188 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Tyler, The Creator, born Tyler Okonma in Los Angeles, doesn't appear to have any significant religious background. There is evidence that his family has roots in Christiantiy based on a story he tells of his grandma (which indicates some answers to other questions about Tyler's beliefs). He says:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://cakesandbrains.blogspot.com/2009/12/tyler-creator-presentsbastard.html",
-      "sourceTitle": "Tyler, The Creator Presents: BASTARD",
-      "text": "My grandmother once told me I was from hell, since I was so evil. I kinda took that and flipped it. Since I didn't have a father, I sorta went to 'this devil guy' as a role model."
+      "id": 2
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 3,
+      "parentId": 2
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "My grandmother once told me I was from hell, since I was so evil. I kinda took that and flipped it. Since I didn't have a father, I sorta went to 'this devil guy' as a role model.",
+      "sourceTitle": "Tyler, The Creator Presents: BASTARD",
+      "sourceUrl": "http://cakesandbrains.blogspot.com/2009/12/tyler-creator-presentsbastard.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "Tyler is frequently accused of being a devil or Satan worshiper, and he sort of encourages it with album liner notes that say things like: \"Sold my soul to the devil for 30% off.\" Plus, admitting that he sees the devil as a role model doesn't help. But he insists that he isn't really a Satan worshiper, just an antagonist of religion, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.coolehmag.com/frontEnd/interview.php?i=51&s=101",
-      "sourceTitle": "You Can't Blame The Youth",
-      "text": "I don't worship the devil, I just hate religion."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I don't worship the devil, I just hate religion.",
+      "sourceTitle": "You Can't Blame The Youth",
+      "sourceUrl": "http://www.coolehmag.com/frontEnd/interview.php?i=51&s=101"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Tyler's even kind enough to say why he hates religion, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.complex.com/music/2011/05/10-facts-we-learned-about-tyler-the-creator-from-formspring#10",
-      "sourceTitle": "Q&A: 10 Facts We Learned About Tyler, The Creator From Formspring",
-      "text": "[Religion] keeps people in a box and won't allow them to do what the fuck they want."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "[Religion] keeps people in a box and won't allow them to do what the fuck they want.",
+      "sourceTitle": "Q&A: 10 Facts We Learned About Tyler, The Creator From Formspring",
+      "sourceUrl": "http://www.complex.com/music/2011/05/10-facts-we-learned-about-tyler-the-creator-from-formspring#10"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Tyler is a confirmed atheist and, in classic Tyler, The Creator hilarious fashion, he says of Jesus:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 11
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.complex.com/music/2011/05/10-facts-we-learned-about-tyler-the-creator-from-formspring#10",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "THAT NIGGA IS NOT REAL.",
       "sourceTitle": "Q&A: 10 Facts We Learned About Tyler, The Creator From Formspring",
-      "text": "THAT NIGGA IS NOT REAL."
+      "sourceUrl": "http://www.complex.com/music/2011/05/10-facts-we-learned-about-tyler-the-creator-from-formspring#10"
     },
     {
       "type": "heading",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "The Politics of Controversy"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://campusprogress.org/articles/tyler_the_creator_reignites_debate_about_misogyny_in_music/",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Tyler, The Creator's politics is all about controversy. His lyrics have gotten him called a homophobic misogynist.",
       "sourceTitle": "Tyler, the Creator Reignites Debate About Misogyny in Music.",
-      "text": "Tyler, The Creator's politics is all about controversy. His lyrics have gotten him called a homophobic misogynist."
+      "sourceUrl": "http://campusprogress.org/articles/tyler_the_creator_reignites_debate_about_misogyny_in_music/"
     },
     {
-      "type": "sentence",
-      "text": "But Tyler insists it's harmless wordplay and plays it off like a good-natured poke at the ridiculousness of political correctness. He says:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But Tyler insists it's harmless wordplay and plays it off like a good-natured poke at the ridiculousness of political correctness. He says:",
+      "parentId": 14
     },
     {
       "type": "quote",
-      "sourceUrl": "http://flavorwire.com/187857/why-tyler-the-creator-needs-to-grow-up",
-      "sourceTitle": "Why Tyler, The Creator Needs to Grow Up",
-      "text": "I have gay fans. They don't really take it offensive, so I don't know. If it offends you, it offends you. If you call me a nigger. I really don't care, but that's just me, personally. Some people might take it the other way; I personally don't give a shit."
+      "id": 15
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "I have gay fans. They don't really take it offensive, so I don't know. If it offends you, it offends you. If you call me a nigger. I really don't care, but that's just me, personally. Some people might take it the other way; I personally don't give a shit.",
+      "sourceTitle": "Why Tyler, The Creator Needs to Grow Up",
+      "sourceUrl": "http://flavorwire.com/187857/why-tyler-the-creator-needs-to-grow-up"
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Regarding mainstream politics, Tyler has thrown a few opinions into the ring, but only a few. There is a video he posted on the day before the 2008 elections where Tyler says he isn't voting for either of the candidates (Obama or McCain) and he is going to move to Canada with his white girlfriend and his mom can't know about it. (He was, of course, 17 and not able to vote anyway.)"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=Agpnxd-ajLA&feature=player_embedded#!",
+      "parentId": 18,
+      "type": "text",
+      "text": "However, in the same video, he also calls for a sort of liberal view towards gay people and speaks out against California's Prop 8, the law that sought to make it illegal for homosexuals to marry.",
       "sourceTitle": "Black Guy Eats Parsnisps With McCain",
-      "text": "However, in the same video, he also calls for a sort of liberal view towards gay people and speaks out against California's Prop 8, the law that sought to make it illegal for homosexuals to marry."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.youtube.com/watch?v=Agpnxd-ajLA&feature=player_embedded#!"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Tyler,_the_Creator",
     "title": "Tyler, the Creator",
     "image": {
-      "name": "Official_image_for_Tyler,_the_Creator.jpg",
+      "name": "Tyler,_The_Creator_(8048745695)_(cropped).jpg",
       "info": {
-        "canonicaltitle": "File:Official image for Tyler, the Creator.jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Official_image_for_Tyler%2C_the_Creator.jpg/240px-Official_image_for_Tyler%2C_the_Creator.jpg",
-        "thumbwidth": 240,
+        "canonicaltitle": "File:Tyler, The Creator (8048745695) (cropped).jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Tyler%2C_The_Creator_%288048745695%29_%28cropped%29.jpg/206px-Tyler%2C_The_Creator_%288048745695%29_%28cropped%29.jpg",
+        "thumbwidth": 206,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/en/5/51/Official_image_for_Tyler%2C_the_Creator.jpg",
-        "descriptionurl": "https://en.wikipedia.org/wiki/File:Official_image_for_Tyler,_the_Creator.jpg",
-        "descriptionshorturl": "https://en.wikipedia.org/w/index.php?curid=55934928",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Tyler%2C_The_Creator_%288048745695%29_%28cropped%29.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tyler,_The_Creator_(8048745695)_(cropped).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41148512",
         "extmetadata": {
           "DateTime": {
-            "value": "2017-12-02 06:52:10",
+            "value": "2015-06-23 14:31:26",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "Official image for Tyler, the Creator",
+            "value": "Tyler, The Creator (8048745695) (cropped)",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -153,7 +223,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "All non-free media|Fair use images|Non-free files uploaded as object of commentary|Non-free files with orphaned versions|Non-free images for NFUR review",
+            "value": "Extracted images|Flickr images reviewed by trusted users|Media with locations|Pages with maps|Tyler, the Creator",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -162,41 +232,53 @@
             "source": "commons-categories",
             "hidden": ""
           },
-          "ImageDescription": {
-            "value": "It will be used as the official main image for rapper Tyler the Creator",
+          "GPSLatitude": {
+            "value": "34.043174",
             "source": "commons-desc-page"
           },
-          "Artist": {
-            "value": "N/A",
+          "GPSLongitude": {
+            "value": "-118.265172",
             "source": "commons-desc-page"
           },
-          "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hollywoodlife.com/pics/tyler-the-creator-photos-rapper-pics/\">http://hollywoodlife.com/pics/tyler-the-creator-photos-rapper-pics/</a>",
+          "GPSMapDatum": {
+            "value": "WGS-84",
             "source": "commons-desc-page",
             "hidden": ""
           },
+          "ImageDescription": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/Tyler,_The_Creator\" class=\"extiw\" title=\"en:Tyler, The Creator\">Tyler, The Creator</a>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2012-09-29 22:43",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/goincase/8048745695/\">Tyler</a>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/62021300@N00\">Incase</a> from California, USA",
+            "source": "commons-desc-page"
+          },
           "LicenseShortName": {
-            "value": "Fair use",
+            "value": "CC BY 2.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "UsageTerms": {
-            "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/Tyler,_the_Creator\" title=\"Tyler, the Creator\">Tyler, the Creator</a>",
+            "value": "Creative Commons Attribution 2.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
-          "Attribution": {
-            "value": "<span title=\"must have been published or publicly displayed outside Wikipedia\">Source</span> <small>(<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_content_criteria#4\" title=\"Wikipedia:Non-free content criteria\">WP:NFCC#4</a>)</small>",
+          "AttributionRequired": {
+            "value": "true",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "LicenseUrl": {
-            "value": "//en.wikipedia.org/wiki/File:Official_image_for_Tyler,_the_Creator.jpg",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "NonFree": {
-            "value": "true",
+            "value": "http://creativecommons.org/licenses/by/2.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -208,6 +290,11 @@
           "Restrictions": {
             "value": "",
             "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
             "hidden": ""
           }
         }

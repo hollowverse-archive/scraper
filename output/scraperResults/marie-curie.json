@@ -32,133 +32,194 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Marie Curie, born Maria Sklodowska, was born and raised in Warsaw, Poland. Due to her work with radioactive materials, Curie contracted leukemia and died of pernicious anemia in 1934."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pc/Marie_Curie.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Curie, being Polish and living most of her life in France, was surrounded by Catholicism and her mother was an active Catholic. Her father, who was a physics professor in Warsaw, is cited as having been a \"freethinker,\"",
       "sourceTitle": "The religion of Marie Curie, physicist",
-      "text": "Curie, being Polish and living most of her life in France, was surrounded by Catholicism and her mother was an active Catholic. Her father, who was a physics professor in Warsaw, is cited as having been a \"freethinker,\""
+      "sourceUrl": "http://www.adherents.com/people/pc/Marie_Curie.html"
     },
     {
-      "type": "sentence",
-      "text": "which is code for atheist."
+      "type": "text",
+      "text": "which is code for atheist.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Marie_Curie",
+      "parentId": 3,
+      "type": "text",
+      "text": "Curie herself was not religious, and is often considered an atheist,",
       "sourceTitle": "Marie Curie",
-      "text": "Curie herself was not religious, and is often considered an atheist,"
+      "sourceUrl": "http://www.celebatheists.com/wiki/Marie_Curie"
     },
     {
-      "type": "sentence",
-      "text": "but it seems more likely given her scientific worldview that she was more of an agnostic. She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but it seems more likely given her scientific worldview that she was more of an agnostic. She said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/marie_curie.html",
-      "sourceTitle": "Marie Curie Quotes",
-      "text": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+      "sourceTitle": "Marie Curie Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/marie_curie.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Writing of her marriage to Pierre Curie (in a civil, non-religious ceremony), she revealed the secular nature of both Pierre and herself:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pc/Marie_Curie.html",
-      "sourceTitle": "The religion of Marie Curie, physicist",
-      "text": "Pierre belonged to no religion and I did not practice any."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Pierre belonged to no religion and I did not practice any.",
+      "sourceTitle": "The religion of Marie Curie, physicist",
+      "sourceUrl": "http://www.adherents.com/people/pc/Marie_Curie.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "This may all seem rather vague, but when considering the highly religious environment of Europe during the 19th Century, for Curie to be so nonchalant about religion amounts to a bold statement against the social conventions of her time."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Science, women and politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nobelprize.org/nobel_prizes/physics/laureates/1903/marie-curie-bio.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Curie was a bit of a revolutionary. During her youth in Warsaw, she participated in a student's revolutionary organization protesting Russian occupation of that part of Poland, and ultimately was forced to flee to Krakow (then a part of the Austrian Empire) to escape a potential backlash.",
       "sourceTitle": "Marie Curie – Biography",
-      "text": "Curie was a bit of a revolutionary. During her youth in Warsaw, she participated in a student's revolutionary organization protesting Russian occupation of that part of Poland, and ultimately was forced to flee to Krakow (then a part of the Austrian Empire) to escape a potential backlash."
+      "sourceUrl": "http://www.nobelprize.org/nobel_prizes/physics/laureates/1903/marie-curie-bio.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://womenshistory.about.com/od/mariecurie/p/marie_curie.htm",
+      "parentId": 12,
+      "type": "text",
+      "text": "Curie was fiercely loyal to France in her later years and during World War I, she drove ambulances (that she had equipped with x-ray equipment for the French government) to the front lines of the war.",
       "sourceTitle": "Marie Curie – Women's History.",
-      "text": "Curie was fiercely loyal to France in her later years and during World War I, she drove ambulances (that she had equipped with x-ray equipment for the French government) to the front lines of the war."
+      "sourceUrl": "http://womenshistory.about.com/od/mariecurie/p/marie_curie.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://womenshistory.about.com/od/mariecurie/p/marie_curie.htm",
+      "parentId": 13,
+      "type": "text",
+      "text": "However, France was not always kind to her, and in her battles with the patriarchal scientific community there, Curie became a champion of early feminism. She was the first woman to get a Ph.D in research science in Europe, the first woman professor at the Sorbonne, the first woman to win a Nobel Prize and the first person ever to win two Nobel Prizes in different scientific disciplines.",
       "sourceTitle": "Marie Curie – Women's History.",
-      "text": "However, France was not always kind to her, and in her battles with the patriarchal scientific community there, Curie became a champion of early feminism. She was the first woman to get a Ph.D in research science in Europe, the first woman professor at the Sorbonne, the first woman to win a Nobel Prize and the first person ever to win two Nobel Prizes in different scientific disciplines."
+      "sourceUrl": "http://womenshistory.about.com/od/mariecurie/p/marie_curie.htm"
     },
     {
-      "type": "sentence",
-      "text": "She certainly proved for many women that they could run with the scientific big dogs."
+      "type": "text",
+      "text": "She certainly proved for many women that they could run with the scientific big dogs.",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "Despite her brilliance, Curie was denied a place in the French Academy of Sciences, with the stated reason being:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://womenshistory.about.com/od/mariecurie/p/marie_curie.htm",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Women cannot be part of the Institute of France.",
       "sourceTitle": "Marie Curie – Women's History.",
-      "text": "Women cannot be part of the Institute of France."
+      "sourceUrl": "http://womenshistory.about.com/od/mariecurie/p/marie_curie.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://womenshistory.about.com/od/mariecurie/p/marie_curie.htm",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "As a result, she wouldn't allow the Academy to publish her work for the next ten years.",
       "sourceTitle": "Marie Curie – Women's History.",
-      "text": "As a result, she wouldn't allow the Academy to publish her work for the next ten years."
+      "sourceUrl": "http://womenshistory.about.com/od/mariecurie/p/marie_curie.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://womenshistory.about.com/od/mariecurie/p/marie_curie.htm",
+      "parentId": 18,
+      "type": "text",
+      "text": "Also, and I'm tempted to call Curie a libertarian (by modern standards of course), after her husband died, leaving her to care for their two children alone, Curie refused state welfare assistance.",
       "sourceTitle": "Marie Curie – Women's History.",
-      "text": "Also, and I'm tempted to call Curie a libertarian (by modern standards of course), after her husband died, leaving her to care for their two children alone, Curie refused state welfare assistance."
+      "sourceUrl": "http://womenshistory.about.com/od/mariecurie/p/marie_curie.htm"
     },
     {
-      "type": "sentence",
-      "text": "As to why she did that, details are a bit sparse. If any of you commenters would like to weigh in on this, I'd love to hear your thoughts."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "As to why she did that, details are a bit sparse. If any of you commenters would like to weigh in on this, I'd love to hear your thoughts.",
+      "parentId": 18
     }
   ],
   "wikipediaData": {

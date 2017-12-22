@@ -36,134 +36,232 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Albert Camus was born in Dréan, Algeria and grew up in Algiers, Algeria when it was a part of the West African French empire. He died in a car accident in 1960 in Villeblevin, Burgundy, France."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.tabletmag.com/jewish-arts-and-culture/books/82555/camus-the-jew",
+      "parentId": 2,
+      "type": "text",
+      "text": "Camus was born and raised a Catholic, despite his father's Protestant upbringing, and received communion at the age of 11.",
       "sourceTitle": "Albert Camus Was Born Catholic, Died an Atheist, and Had Strong Ties to Jews",
-      "text": "Camus was born and raised a Catholic, despite his father's Protestant upbringing, and received communion at the age of 11."
+      "sourceUrl": "http://www.tabletmag.com/jewish-arts-and-culture/books/82555/camus-the-jew"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://maher.filfre.net/writings/camus.htm",
+      "type": "text",
+      "text": "Much of Camus' work is saturated in religious imagery. His",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "Myth of Sisyphus"
+    },
+    {
+      "type": "text",
+      "text": "is based on a popular Greek myth and",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "The Fall"
+    },
+    {
+      "type": "text",
+      "text": "contains references to and symbolism from Catholic theology and cosmology. The title itself is an allusion to the Biblical story of Adam and Eve.",
+      "parentId": 2,
       "sourceTitle": "Camus, The Fall, and the Question of Faith. Maher.",
-      "text": "Much of Camus' work is saturated in religious imagery. His is based on a popular Greek myth and  contains references to and symbolism from Catholic theology and cosmology. The title itself is an allusion to the Biblical story of Adam and Eve."
+      "sourceUrl": "http://maher.filfre.net/writings/camus.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://atheism.about.com/od/existentialistphilosophers/a/camus.htm",
+      "parentId": 3,
+      "type": "text",
+      "text": "However, Camus ultimately became an atheist and, as a thinker, he considered religious faith to be \"philosophical suicide.\"",
       "sourceTitle": "Albert Camus Biography: Biographical History of Existentialism",
-      "text": "However, Camus ultimately became an atheist and, as a thinker, he considered religious faith to be \"philosophical suicide.\""
+      "sourceUrl": "http://atheism.about.com/od/existentialistphilosophers/a/camus.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://atheism.about.com/od/existentialistphilosophers/a/camus.htm",
+      "type": "text",
+      "text": "This idea was based on Camus' philosophy of the absurd. According to Camus, mankind was perpetually attempting to rationalize an irrational universe. This process of rationalization resulted in the absurd and religious belief fell into said category.",
+      "parentId": 3,
       "sourceTitle": "Albert Camus Biography: Biographical History of Existentialism",
-      "text": "This idea was based on Camus' philosophy of the absurd. According to Camus, mankind was perpetually attempting to rationalize an irrational universe. This process of rationalization resulted in the absurd and religious belief fell into said category."
+      "sourceUrl": "http://atheism.about.com/od/existentialistphilosophers/a/camus.htm"
     },
     {
-      "type": "sentence",
-      "text": "He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/albert_camus_5.html?vm=l",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "We turn toward God only to obtain the impossible.",
       "sourceTitle": "Albert Camus Quotes",
-      "text": "We turn toward God only to obtain the impossible."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/albert_camus_5.html?vm=l"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://maher.filfre.net/writings/camus.htm",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Nevertheless, some maintain that the religious imagery and symbolism in Camus' work indicated a sort of conflict within him, and that he actually craved something spiritual.",
       "sourceTitle": "Camus, The Fall, and the Question of Faith. Maher.",
-      "text": "Nevertheless, some maintain that the religious imagery and symbolism in Camus' work indicated a sort of conflict within him, and that he actually craved something spiritual."
+      "sourceUrl": "http://maher.filfre.net/writings/camus.htm"
     },
     {
-      "type": "sentence",
-      "text": "But perhaps it was only Camus' struggle with the absurd. He was, after all, one of the men he described. Nevertheless, atheist seems the most appropriate designation."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But perhaps it was only Camus' struggle with the absurd. He was, after all, one of the men he described. Nevertheless, atheist seems the most appropriate designation.",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "A communist sympathiser and a man of the times"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.camus-society.com/albert-camus-bio.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Camus' political awakening came under the influence of his uncle Acault, who introduced him to anarchist ideas at an early age. However, his philosophy teacher and a famous writer in his own right, Jean Grenier, convinced Camus to join the Algerian Communist Party.",
       "sourceTitle": "Albert Camus biography.",
-      "text": "Camus' political awakening came under the influence of his uncle Acault, who introduced him to anarchist ideas at an early age. However, his philosophy teacher and a famous writer in his own right, Jean Grenier, convinced Camus to join the Algerian Communist Party."
+      "sourceUrl": "http://www.camus-society.com/albert-camus-bio.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.camus-society.com/albert-camus-bio.html",
+      "parentId": 9,
+      "type": "text",
+      "text": "Camus never committed to communist ideals and was ultimately ejected from the party.",
       "sourceTitle": "Albert Camus biography.",
-      "text": "Camus never committed to communist ideals and was ultimately ejected from the party."
+      "sourceUrl": "http://www.camus-society.com/albert-camus-bio.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jstor.org/discover/10.2307/443596?uid=3739648&uid=2&uid=4&uid=3739256&sid=21102252052451",
+      "type": "text",
+      "text": "And his book,",
+      "parentId": 9
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "The Rebel"
+    },
+    {
+      "type": "text",
+      "text": ", is said to have been instrumental in many young Frenchmen's rejection of Marxism at the time.",
+      "parentId": 9,
       "sourceTitle": "Albert Camus' Politics of Rebellion",
-      "text": "And his book, , is said to have been instrumental in many young Frenchmen's rejection of Marxism at the time."
+      "sourceUrl": "http://www.jstor.org/discover/10.2307/443596?uid=3739648&uid=2&uid=4&uid=3739256&sid=21102252052451"
     },
     {
-      "type": "sentence",
-      "text": "In fact, he wrote quite scathingly of revolutions–particularly their natural evolutions into tyranny:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "In fact, he wrote quite scathingly of revolutions–particularly their natural evolutions into tyranny:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/albert_camus_3.html?vm=l",
-      "sourceTitle": "Albert Camus Quotes",
-      "text": "All modern revolutions have ended in a reinforcement of the power of the State."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "All modern revolutions have ended in a reinforcement of the power of the State.",
+      "sourceTitle": "Albert Camus Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/albert_camus_3.html?vm=l"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Camus' contempt for the state is evident in this quote and it is no surprise that he would become an anarchist at heart, viewing all power structures as inherently corrupt and self-serving. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 13
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/albert_camus_3.html?vm=l",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Note, besides, that it is no more immoral to directly rob citizens than to slip indirect taxes into the price of goods that they cannot do without.",
       "sourceTitle": "Albert Camus Quotes",
-      "text": "Note, besides, that it is no more immoral to directly rob citizens than to slip indirect taxes into the price of goods that they cannot do without."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/albert_camus_3.html?vm=l"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://batr.org/solitary/102203.html",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Camus' anarchism is a natural corollary to his philosophy of existentialism, a philosophy of the individual. To Camus, individuality, free will and rebellion were among the highest features of mankind and governments and societies only hindered the endeavors that these features produced.",
       "sourceTitle": "Albert Camus, Anarchism and the Individual",
-      "text": "Camus' anarchism is a natural corollary to his philosophy of existentialism, a philosophy of the individual. To Camus, individuality, free will and rebellion were among the highest features of mankind and governments and societies only hindered the endeavors that these features produced."
+      "sourceUrl": "http://batr.org/solitary/102203.html"
     },
     {
-      "type": "sentence",
-      "text": "He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said:",
+      "parentId": 15
     },
     {
       "type": "quote",
-      "sourceUrl": "http://batr.org/solitary/102203.html",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "The only conception of freedom I can have is that of the prisoner or the individual in the midst of the State. The only one I know is freedom of thought and action.",
       "sourceTitle": "Albert Camus, Anarchism and the Individual",
-      "text": "The only conception of freedom I can have is that of the prisoner or the individual in the midst of the State. The only one I know is freedom of thought and action."
+      "sourceUrl": "http://batr.org/solitary/102203.html"
     }
   ],
   "wikipediaData": {

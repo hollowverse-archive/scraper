@@ -33,91 +33,133 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Serena Williams was born in Saginaw, Michigan and was raised in Compton, California and West Palm Beach, Florida."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Williams was raised as a Jehovah's Witness and continues to adhere to that faith today, but that doesn't mean she hasn't tripped up along the way. In 2009 she cursed out a line judge, even using the Lord's name in vain, for making a call with which she didn't agree. Talking about the incident several years later she said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.christianpost.com/news/serena-williams-swear-to-god-rant-at-2009-open-a-major-regret-poor-witness-of-faith-80562/",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "What bothered me most was that I was representing my religion. I just felt like anyone who knew I was a Witness was stumbled and I really don't want to stumble anyone. They had to have a talk with me. And I knew it was coming.",
       "sourceTitle": "Serena Williams' 'Swear to God' Rant at 2009 Open a Major Regret, Poor Witness of Faith.",
-      "text": "What bothered me most was that I was representing my religion. I just felt like anyone who knew I was a Witness was stumbled and I really don't want to stumble anyone. They had to have a talk with me. And I knew it was coming."
+      "sourceUrl": "http://www.christianpost.com/news/serena-williams-swear-to-god-rant-at-2009-open-a-major-regret-poor-witness-of-faith-80562/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/sport/olympics/article-2180416/London-2012-Olympics-Michelle-Obama-supports-Serena-Williams-Games-quest.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "And then there's that whole Olympics thing. Jehovah's Witnesses are not supposed to show allegiance to anything but God–including countries. So participating in the Olympics, which is considered a nationalistic activity, could be looked down upon. But Williams seemed to feel no qualms with representing her country. In fact during the 2012 Olympics she said, \"We're here for our country.\"",
       "sourceTitle": "London 2012 Olympics: Michelle Obama supports Serena Williams in her Games quest.",
-      "text": "And then there's that whole Olympics thing. Jehovah's Witnesses are not supposed to show allegiance to anything but God–including countries. So participating in the Olympics, which is considered a nationalistic activity, could be looked down upon. But Williams seemed to feel no qualms with representing her country. In fact during the 2012 Olympics she said, \"We're here for our country.\""
+      "sourceUrl": "http://www.dailymail.co.uk/sport/olympics/article-2180416/London-2012-Olympics-Michelle-Obama-supports-Serena-Williams-Games-quest.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jehovahs-witness.net/jw/friends/230239/1/Serena-Williams-Wins-Olympic-Gold-in-London",
+      "type": "text",
+      "text": "And then when the U.S. flag came loose of its holder and came sailing down while she was singing the national anthem, some Jehovah's Witnesses called it a sign of God's disapproval.",
+      "parentId": 5,
       "sourceTitle": "Serena Williams Wins Olympic Gold in London!",
-      "text": "And then when the U.S. flag came loose of its holder and came sailing down while she was singing the national anthem, some Jehovah's Witnesses called it a sign of God's disapproval."
+      "sourceUrl": "http://www.jehovahs-witness.net/jw/friends/230239/1/Serena-Williams-Wins-Olympic-Gold-in-London"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://global.christianpost.com/news/serena-williams-credits-jehovah-prayer-for-wimbledon-success-77893/",
+      "parentId": 6,
+      "type": "text",
+      "text": "Earlier that year, though, she made it clear that she's still dedicated to her faith. After winning Wimbledon she said, \"I want to thank Jehovah for letting me get this far.\"",
       "sourceTitle": "Serena Williams Credits Jehovah, Prayer for Wimbledon Success.",
-      "text": "Earlier that year, though, she made it clear that she's still dedicated to her faith. After winning Wimbledon she said, \"I want to thank Jehovah for letting me get this far.\""
+      "sourceUrl": "http://global.christianpost.com/news/serena-williams-credits-jehovah-prayer-for-wimbledon-success-77893/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://rollingout.com/culture/serena-williams-wants-a-man-who-shares-her-faith-8-other-members-of-her-faith/",
+      "type": "text",
+      "text": "And talking about how she was reconnecting with her religious roots she said she would only marry a man who shared her faith.",
+      "parentId": 6,
       "sourceTitle": "Serena Williams Wants a Man Who Shares Her Faith: 8 Other Members of Her Faith.",
-      "text": "And talking about how she was reconnecting with her religious roots she said she would only marry a man who shared her faith."
+      "sourceUrl": "http://rollingout.com/culture/serena-williams-wants-a-man-who-shares-her-faith-8-other-members-of-her-faith/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "So even though some Jehovah's Witnesses consider her a less-than-ideal representation of their faith, Williams clearly feels devoted to her religious beliefs."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Non-political for Obama"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Politics in Williams' case has everything to do with religion. Or more specifically, her lack of politics. As I stated above, Jehovah's Witnesses are discouraged from participating in any nationalist activity–and that includes voting. But if she did vote, Williams made it clear who would have her support:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.upi.com/News_Photos/gallery/Celebrity-Religions/4764/3",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I'm a Jehovah's Witness, so I don't get involved in politics. We stay neutral. We don't vote. So I'm not going to necessarily go out and vote for [Barack Obama]. I would if it wasn't for my religion.",
       "sourceTitle": "Celebrity Religions.",
-      "text": "I'm a Jehovah's Witness, so I don't get involved in politics. We stay neutral. We don't vote. So I'm not going to necessarily go out and vote for [Barack Obama]. I would if it wasn't for my religion."
+      "sourceUrl": "http://www.upi.com/News_Photos/gallery/Celebrity-Religions/4764/3"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/08/24/venus-and-serena-williams-new-york-times-magazine_n_1828500.html",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Not necessarily anyway. It's tough to know whether she likes Obama because he's black or because he's a Democrat. But if she really is a non-political person, skin color wouldn't be a bad guess. After all, she's had to deal with her share of racial bigotry,",
       "sourceTitle": "The Williams Sisters Show Off Their Fit Figures On Cover Of New York Times Magazine.",
-      "text": "Not necessarily anyway. It's tough to know whether she likes Obama because he's black or because he's a Democrat. But if she really is a non-political person, skin color wouldn't be a bad guess. After all, she's had to deal with her share of racial bigotry,"
+      "sourceUrl": "http://www.huffingtonpost.com/2012/08/24/venus-and-serena-williams-new-york-times-magazine_n_1828500.html"
     },
     {
-      "type": "sentence",
-      "text": "and even if she doesn't vote, it's got to feel good to see a black man in the White House. So I'm going to refrain from giving her a liberal label quite yet"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and even if she doesn't vote, it's got to feel good to see a black man in the White House. So I'm going to refrain from giving her a liberal label quite yet",
+      "parentId": 12
     }
   ],
   "wikipediaData": {

@@ -32,129 +32,231 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Brooke Shields was born in New York City and grew up in Haworth, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000222/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Shields was raised a Catholic and it would seem she is still a Catholic. She was confirmed at the age of ten",
       "sourceTitle": "Brooke Shields – Biography",
-      "text": "Shields was raised a Catholic and it would seem she is still a Catholic. She was confirmed at the age of ten"
+      "sourceUrl": "http://www.imdb.com/name/nm0000222/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000222/bio",
+      "type": "text",
+      "text": "and married her second and current husband in a Catholic ceremony. In fact, Shields had her first marriage to tennis legend Andre Agassi annulled, just so she could be remarried in the Catholic tradition.",
+      "parentId": 2,
       "sourceTitle": "Brooke Shields – Biography",
-      "text": "and married her second and current husband in a Catholic ceremony. In fact, Shields had her first marriage to tennis legend Andre Agassi annulled, just so she could be remarried in the Catholic tradition."
+      "sourceUrl": "http://www.imdb.com/name/nm0000222/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Shields admits to having some of that classic Catholic guilt as well. Referring to the discovery of precancerous cells on her skin, Shields said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.health.com/health/article/0,,20411695_1,00.html",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "When everything is going well, my Catholic guilt rears its ugly head and says, 'No, you're not allowed to be that happy. We're gonna give you cancer now!'",
       "sourceTitle": "Brooke Shields Gives Back: Her Mission to Empower Girls and More",
-      "text": "When everything is going well, my Catholic guilt rears its ugly head and says, 'No, you're not allowed to be that happy. We're gonna give you cancer now!'"
+      "sourceUrl": "http://www.health.com/health/article/0,,20411695_1,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.freerepublic.com/focus/f-bloggers/1178497/posts",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Certain aspects of Shields life haven't exactly conformed to Catholic doctrine. Shields, who has a long history of difficulty when it comes to child-bearing, has been criticized by"
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "some"
+    },
+    {
+      "type": "text",
+      "text": "Catholics for",
+      "parentId": 6
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "in vitro"
+    },
+    {
+      "type": "text",
+      "text": "fertilization, who say she \"killed\" all of the eggs she didn't use in the process.",
+      "parentId": 6,
       "sourceTitle": "Actress Brooke Shields Kills 140 of her very own Children by undergoing 7 IVF treatments",
-      "text": "Certain aspects of Shields life haven't exactly conformed to Catholic doctrine. Shields, who has a long history of difficulty when it comes to child-bearing, has been criticized by Catholics for  fertilization, who say she \"killed\" all of the eggs she didn't use in the process."
+      "sourceUrl": "http://www.freerepublic.com/focus/f-bloggers/1178497/posts"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "In perhaps her most famous outburst, Shields shot back at Tom Cruise (who had criticized her for taking anti-depressants during a nasty bout of postpartum depression) by taking shots at Scientology–which frowns on psychiatric drug use. Shields said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000222/bio",
-      "sourceTitle": "Brooke Shields – Biography",
-      "text": "Tom should stick to saving the world from aliens and let women who are experiencing postpartum depression decide what treatment options are best for them."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Tom should stick to saving the world from aliens and let women who are experiencing postpartum depression decide what treatment options are best for them.",
+      "sourceTitle": "Brooke Shields – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0000222/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Funny? Perhaps. Tolerant? Not so much."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "The Body Politic"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ns1.newsmeat.com/celebrity_political_donations/Brooke_Shields.php",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Shields appears to be a Democrat, but that might be a relatively recent development. Her one and only political contribution was to Barack Obama's 2008 presidential bid.",
       "sourceTitle": "Brooke Shields' Federal Campaign Contribution Report",
-      "text": "Shields appears to be a Democrat, but that might be a relatively recent development. Her one and only political contribution was to Barack Obama's 2008 presidential bid."
+      "sourceUrl": "http://ns1.newsmeat.com/celebrity_political_donations/Brooke_Shields.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "text": "But she has proclaimed the importance she attaches to the institution of voting. In a \"get out the vote\" , Shields said:"
+      "parentId": 13,
+      "type": "text",
+      "text": "But she has proclaimed the importance she attaches to the institution of voting. In a \"get out the vote\""
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.hollywoodreporter.com/news/brooke-shields-tia-mowry-andy-379072"
+    },
+    {
+      "type": "text",
+      "text": ", Shields said:",
+      "parentId": 13
     },
     {
       "type": "quote",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "I vote because it's a right, it's my right, it's a privilege, it's my privilege. And it's an honor and without voting, my voice wouldn't be heard."
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://voices.yahoo.com/the-media-influence-body-image-beauty-28406.html?cat=5",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Much of Shields' political involvement revolves around issues of body image in American society and the media. At the age of 16, Shields was being offered up as a sex symbol to sell jeans for Calvin Klein. The ads were so scandalous and controversial that a child pornography investigation ensued.",
       "sourceTitle": "The Media and Influence on Body Image and Beauty",
-      "text": "Much of Shields' political involvement revolves around issues of body image in American society and the media. At the age of 16, Shields was being offered up as a sex symbol to sell jeans for Calvin Klein. The ads were so scandalous and controversial that a child pornography investigation ensued."
+      "sourceUrl": "http://voices.yahoo.com/the-media-influence-body-image-beauty-28406.html?cat=5"
     },
     {
-      "type": "sentence",
-      "text": "Here's a particularly racy ."
+      "type": "text",
+      "text": "Here's a particularly racy",
+      "parentId": 16
     },
     {
-      "type": "break"
+      "parentId": 16,
+      "type": "link",
+      "text": "one",
+      "sourceUrl": "http://www.youtube.com/watch?v=AXzR5b6HoIA"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000222/bio",
+      "type": "text",
+      "text": ".",
+      "parentId": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Interestingly, Shields is as much a victim of this as anyone. She admits that, even though she's been rated and voted the sexiest-this and the most beautiful-that by dozens of organizations dozens of times,",
       "sourceTitle": "Brooke Shields – Biography",
-      "text": "Interestingly, Shields is as much a victim of this as anyone. She admits that, even though she's been rated and voted the sexiest-this and the most beautiful-that by dozens of organizations dozens of times,"
+      "sourceUrl": "http://www.imdb.com/name/nm0000222/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://horiwoodblog.com/2009/05/26/brooke-shields-still-struggles-with-body-image-issues/",
+      "type": "text",
+      "text": "she still struggles with insecurity over body image and beauty issues.",
+      "parentId": 17,
       "sourceTitle": "Brooke Shields Still Struggles With Body Image Issues",
-      "text": "she still struggles with insecurity over body image and beauty issues."
+      "sourceUrl": "http://horiwoodblog.com/2009/05/26/brooke-shields-still-struggles-with-body-image-issues/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://209.15.232.134/celebrity/celebrity-moms/50-charitable-celebrity-moms-angelina-madonna/?page=41",
+      "parentId": 18,
+      "type": "text",
+      "text": "In response, Shields has become the spokesperson for an organization called SMART Girls, the mission of which is to teach \"girls to nurture their mental and physical well-being and to celebrate the bonds of female friendships.\"",
       "sourceTitle": "Brooke Shields: SMART Girls Campaign",
-      "text": "In response, Shields has become the spokesperson for an organization called SMART Girls, the mission of which is to teach \"girls to nurture their mental and physical well-being and to celebrate the bonds of female friendships.\""
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://209.15.232.134/celebrity/celebrity-moms/50-charitable-celebrity-moms-angelina-madonna/?page=41"
     }
   ],
   "wikipediaData": {
@@ -205,12 +307,12 @@
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/ellasportfolio/6346639324/\">Brooke Shields</a>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/ellasportfolio/6346639324/\">Brooke Shields</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/people/ellasportfolio/\">Joella Marano</a>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/ellasportfolio/\">Joella Marano</a>",
             "source": "commons-desc-page"
           },
           "LicenseShortName": {

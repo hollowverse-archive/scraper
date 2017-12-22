@@ -38,134 +38,277 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Janelle Monáe Robinson, known professionally by her first two names, was born and raised in Kansas City, Kansas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biography.com/people/janelle-mon%C3%A1e-17178736",
+      "parentId": 2,
+      "type": "text",
+      "text": "Monáe was raised in the Baptist church, where she performed in the choir,",
       "sourceTitle": "Janelle Monáe Biography.",
-      "text": "Monáe was raised in the Baptist church, where she performed in the choir,"
+      "sourceUrl": "http://www.biography.com/people/janelle-mon%C3%A1e-17178736"
     },
     {
-      "type": "sentence",
-      "text": "but she doesn't appear to be tied down by a particular denomination anymore. Or if she is, she doesn't let on. All the comments she makes about religion are either vague or completely inclusive."
+      "type": "text",
+      "text": "but she doesn't appear to be tied down by a particular denomination anymore. Or if she is, she doesn't let on. All the comments she makes about religion are either vague or completely inclusive.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "Take, for instance, her  interview. When the reporter asked her if she still attended church, she responded as the character in her futuristic concept album, . She said,"
+      "parentId": 3,
+      "type": "text",
+      "text": "Take, for instance, her"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Rolling Stone"
+    },
+    {
+      "type": "text",
+      "text": "interview. When the reporter asked her if she still attended church, she responded as the character in her futuristic concept album,",
+      "parentId": 3
+    },
+    {
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "The ArchAndroid"
+    },
+    {
+      "type": "text",
+      "text": ". She said,",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.rollingstone.com/music/news/artist-of-the-week-janelle-monae-20100630",
-      "sourceTitle": "Artist of the Week: Janelle Monae.",
-      "text": "I attend an Android community church in Metropolis."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I attend an Android community church in Metropolis.",
+      "sourceTitle": "Artist of the Week: Janelle Monae.",
+      "sourceUrl": "http://www.rollingstone.com/music/news/artist-of-the-week-janelle-monae-20100630"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "In what seems like a more straight-forward, if general response, when a fan asked her on Twitter about her religious views, she responded,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/JanelleMonae/status/86546058976567296",
-      "sourceTitle": "JanelleMonae: God is Love. Religiously I …",
-      "text": "God is Love. Religiously I love all people."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "God is Love. Religiously I love all people.",
+      "sourceTitle": "JanelleMonae: God is Love. Religiously I …",
+      "sourceUrl": "https://twitter.com/JanelleMonae/status/86546058976567296"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "And then at another point on her Twitter feed, she tweeted this:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/JanelleMonae/status/226371873347338240",
-      "sourceTitle": "JanelleMonae: \"Whatever faith or religion …",
-      "text": "\"Whatever faith or religion makes you a better peaceful more loving compassionate person is the one you should chose & practice.\""
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "\"Whatever faith or religion makes you a better peaceful more loving compassionate person is the one you should chose & practice.\"",
+      "sourceTitle": "JanelleMonae: \"Whatever faith or religion …",
+      "sourceUrl": "https://twitter.com/JanelleMonae/status/226371873347338240"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "So to summarize the best I can, it appears that she believes in God and thinks religion is important, but what form it takes is meaningless as long as it's rooted in love for others. Dig it?"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 13
     },
     {
-      "type": "heading",
+      "parentId": 13,
+      "type": "text",
       "text": "Walking the Political Tightrope"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://necolebitchie.com/2012/01/17/janelle-monae-gets-major-props-from-president-obama/",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Janelle Monáe's most visible political statement is her heartfelt and enthusiastic support for Barack Obama. She was very active in his 2012 campaign, speaking at rallies,",
       "sourceTitle": "Janelle Monae Gets Major Props From President Obama.",
-      "text": "Janelle Monáe's most visible political statement is her heartfelt and enthusiastic support for Barack Obama. She was very active in his 2012 campaign, speaking at rallies,"
+      "sourceUrl": "http://necolebitchie.com/2012/01/17/janelle-monae-gets-major-props-from-president-obama/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=F00Zp2Fz5MA",
+      "type": "text",
+      "text": "recording videos for the campaign,",
+      "parentId": 14,
       "sourceTitle": "Janelle Monáe Supports President Obama.",
-      "text": "recording videos for the campaign,"
+      "sourceUrl": "http://www.youtube.com/watch?v=F00Zp2Fz5MA"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.eonline.com/news/342864/dnc-jams-janelle-mon-e-kicks-off-the-democratic-convention-in-charlotte-n-c",
+      "type": "text",
+      "text": "and performing at the Democratic National Convention.",
+      "parentId": 14,
       "sourceTitle": "Janelle Monáe Kicks Off the Democratic Convention in Charlotte, N.C.",
-      "text": "and performing at the Democratic National Convention."
+      "sourceUrl": "http://www.eonline.com/news/342864/dnc-jams-janelle-mon-e-kicks-off-the-democratic-convention-in-charlotte-n-c"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/JanelleMonae/status/266033489739137024",
+      "type": "text",
+      "text": "Plus her Twitter feed was consumed with Obama tweets surrounding the election. In one, she posted a picture of the \"tears of joy\" she shed after his victory was announced.",
+      "parentId": 14,
       "sourceTitle": "Janelle Monae: Tears of joy. President Obama …",
-      "text": "Plus her Twitter feed was consumed with Obama tweets surrounding the election. In one, she posted a picture of the \"tears of joy\" she shed after his victory was announced."
+      "sourceUrl": "https://twitter.com/JanelleMonae/status/266033489739137024"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "text": "When given the opportunity, the singer was quick to spout off a list of the president's accomplishments in his first term: stopping the war in Iraq, ending \",\" passing the , doubling , and signing the  (or Obamacare) into law. She said,"
+      "parentId": 15,
+      "type": "text",
+      "text": "When given the opportunity, the singer was quick to spout off a list of the president's accomplishments in his first term: stopping the war in Iraq, ending \""
     },
     {
-      "type": "break"
+      "parentId": 15,
+      "type": "link",
+      "text": "Don't Ask Don't Tell",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Don%27t_Ask,_Don%27t_Tell_Repeal_Act_of_2010"
+    },
+    {
+      "type": "text",
+      "text": ",\" passing the",
+      "parentId": 15
+    },
+    {
+      "parentId": 15,
+      "type": "link",
+      "text": "Lilly Ledbetter Act",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Lilly_Ledbetter_Fair_Pay_Act_of_2009"
+    },
+    {
+      "type": "text",
+      "text": ", doubling",
+      "parentId": 15
+    },
+    {
+      "parentId": 15,
+      "type": "link",
+      "text": "Pell Grants",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Pell_Grants"
+    },
+    {
+      "type": "text",
+      "text": ", and signing the",
+      "parentId": 15
+    },
+    {
+      "parentId": 15,
+      "type": "link",
+      "text": "Affordable Care Act",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Obamacare"
+    },
+    {
+      "type": "text",
+      "text": "(or Obamacare) into law. She said,",
+      "parentId": 15
     },
     {
       "type": "quote",
-      "sourceUrl": "http://necolebitchie.com/2012/01/17/janelle-monae-gets-major-props-from-president-obama/",
-      "sourceTitle": "Janelle Monae Gets Major Props From President Obama.",
-      "text": "These are all things he said he'd do before he was elected and did them. . . . President Obama remains the candidate of hope and change, and he will continue to move our country forward, bringing even more change if reelected."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "These are all things he said he'd do before he was elected and did them. . . . President Obama remains the candidate of hope and change, and he will continue to move our country forward, bringing even more change if reelected.",
+      "sourceTitle": "Janelle Monae Gets Major Props From President Obama.",
+      "sourceUrl": "http://necolebitchie.com/2012/01/17/janelle-monae-gets-major-props-from-president-obama/"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "Her crafted image also makes a political statement–whether she means it be political or not. Her uniform, as she calls it, is a 1920s throwback, androgynous pants-shirt-tie get-up with big pompadour hair. In other words, not what you would expect out of a young black female R&B artist. She says her look–and the android character on her concept album–represents the \"new other.\" She said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://alleyesonwho.com/events/2011/07/12/janell-monae-considers-herself-part-feminist-and-says-she-only-dates-androids-article-inside/",
+      "id": 19
+    },
+    {
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "What I want is for people who feel oppressed or feel like the 'other' to connect with the music and to feel like, 'She represents who I am.'",
       "sourceTitle": "Janell Monae Considers Herself Part Feminist and Says She Only Dates Androids!",
-      "text": "What I want is for people who feel oppressed or feel like the 'other' to connect with the music and to feel like, 'She represents who I am.'"
+      "sourceUrl": "http://alleyesonwho.com/events/2011/07/12/janell-monae-considers-herself-part-feminist-and-says-she-only-dates-androids-article-inside/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "Very progressive indeed. I'd say we're probably going to hear more from this unique and talented young woman. You'll keep us updated in the comments, won't you?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

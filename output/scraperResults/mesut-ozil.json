@@ -31,114 +31,189 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Mesut Özil was born and raised in Gelsenkirchen, Germany."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Özil is of Turkish descent and, as such, he is Muslim. Furthermore, Özil's faith is quite important to him and part of his pre-game ritual, praying and reciting verses of the Qur'an before the pitch. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://twocircles.net/2010jul03/germanys_mesut_ozil_recites_holy_quran_world_cup_matches.html",
-      "sourceTitle": "Germany's Mesut Ozil recites Holy Quran before World Cup matches",
-      "text": "I always do that before I go out [on the pitch]. I pray and my teammates know that they cannot talk to me during this brief period."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I always do that before I go out [on the pitch]. I pray and my teammates know that they cannot talk to me during this brief period.",
+      "sourceTitle": "Germany's Mesut Ozil recites Holy Quran before World Cup matches",
+      "sourceUrl": "http://twocircles.net/2010jul03/germanys_mesut_ozil_recites_holy_quran_world_cup_matches.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "There are aspects of Özil's faith that conflict with his career. For example, during the holy month of Ramadan, when devout Muslims do not eat or drink during the daytime, Özil feels that he has no choice to not follow the ritual and just do his best. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.goal.com/en-gb/news/2871/special/2011/08/27/2637353/my-manager-told-me-to-choose-between-fasting-or-playing-i",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Because of my job I cannot follow Ramadan properly. I do it only the few days I can, only when I have a free day. But other than that it's impossible, because you have to drink and eat a lot to stay at peak fitness.",
       "sourceTitle": "'My manager told me to choose between fasting or playing – I chose to fast' – how Muslim footballers including Mesut Ozil and Amr Zaki approach Ramadan",
-      "text": "Because of my job I cannot follow Ramadan properly. I do it only the few days I can, only when I have a free day. But other than that it's impossible, because you have to drink and eat a lot to stay at peak fitness."
+      "sourceUrl": "http://www.goal.com/en-gb/news/2871/special/2011/08/27/2637353/my-manager-told-me-to-choose-between-fasting-or-playing-i"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.goal.com/en-gb/news/2871/special/2011/08/27/2637353/my-manager-told-me-to-choose-between-fasting-or-playing-i",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Some clerics and imams have expressed disapproval at this approach,",
       "sourceTitle": "'My manager told me to choose between fasting or playing – I chose to fast' – how Muslim footballers including Mesut Ozil and Amr Zaki approach Ramadan",
-      "text": "Some clerics and imams have expressed disapproval at this approach,"
+      "sourceUrl": "http://www.goal.com/en-gb/news/2871/special/2011/08/27/2637353/my-manager-told-me-to-choose-between-fasting-or-playing-i"
     },
     {
-      "type": "sentence",
-      "text": "but Özil seems to have his mind made up, and as far as the Hollowverse is concerned, he's a devout Muslim."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but Özil seems to have his mind made up, and as far as the Hollowverse is concerned, he's a devout Muslim.",
+      "parentId": 8
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Integrative politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.spiegel.de/international/germany/at-home-in-a-foreign-country-german-turks-struggle-to-find-their-identity-a-795299.html",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Post-war Germany, largely decimated by the Allies, invited Turks to immigrate under a label called \""
+    },
+    {
+      "parentId": 10,
+      "type": "emphasis",
+      "text": "gastarbeiter"
+    },
+    {
+      "type": "text",
+      "text": ",\" or guest worker, to assist in reconstruction efforts. Roughly 50 years later, Germany has (what some may call) a race war on its hands.",
+      "parentId": 10,
       "sourceTitle": "At Home in a Foreign Country: German Turks Struggle to Find Their Identity",
-      "text": "Post-war Germany, largely decimated by the Allies, invited Turks to immigrate under a label called \",\" or guest worker, to assist in reconstruction efforts. Roughly 50 years later, Germany has (what some may call) a race war on its hands."
+      "sourceUrl": "http://www.spiegel.de/international/germany/at-home-in-a-foreign-country-german-turks-struggle-to-find-their-identity-a-795299.html"
     },
     {
-      "type": "sentence",
-      "text": "So problematic has this situation become that even at the highest levels of German government, officials are shaking their head in dismay. Chancellor Angela Merkel said once:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "So problematic has this situation become that even at the highest levels of German government, officials are shaking their head in dismay. Chancellor Angela Merkel said once:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.bbc.co.uk/news/world-europe-11559451",
-      "sourceTitle": "erkel says German multicultural society has failed",
-      "text": "And of course, the approach [to build] a multicultural [society] and to live side-by-side and to enjoy each other… has failed, utterly failed."
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.bbc.co.uk/news/world-europe-11559451",
-      "sourceTitle": "erkel says German multicultural society has failed",
-      "text": "This is a complex issue, with native (white) Germans feeling that the country is becoming \"overrun with foreigners\""
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://rt.com/news/germany-immigrants-turkish-police/",
+      "parentId": 12,
+      "type": "text",
+      "text": "And of course, the approach [to build] a multicultural [society] and to live side-by-side and to enjoy each other… has failed, utterly failed.",
+      "sourceTitle": "erkel says German multicultural society has failed",
+      "sourceUrl": "http://www.bbc.co.uk/news/world-europe-11559451"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "This is a complex issue, with native (white) Germans feeling that the country is becoming \"overrun with foreigners\"",
+      "sourceTitle": "erkel says German multicultural society has failed",
+      "sourceUrl": "http://www.bbc.co.uk/news/world-europe-11559451"
+    },
+    {
+      "type": "text",
+      "text": "and those of Turkish descent lashing out at what seems like their second-class status. Many refuse to work or learn the German language, and crime rates are higher in Turkish neighborhoods. German officials have considered importing native Turkish police forces to deal with the problem.",
+      "parentId": 13,
       "sourceTitle": "Germany to bring in Turkish police to combat crime in ethnic communities",
-      "text": "and those of Turkish descent lashing out at what seems like their second-class status. Many refuse to work or learn the German language, and crime rates are higher in Turkish neighborhoods. German officials have considered importing native Turkish police forces to deal with the problem."
+      "sourceUrl": "http://rt.com/news/germany-immigrants-turkish-police/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.reuters.com/article/2010/11/12/us-germany-bambi-awards-idUSTRE6AB38U20101112",
+      "parentId": 14,
+      "type": "text",
+      "text": "So, you can imagine Özil, a representative of the nation of Germany during soccer matches between countries (World Cup, European Cup) and a Turkish Muslim, must walk a fine line. Well, he's done a great job, apparently. The German media, whose annual awards are called the Bambi Awards, gave Özil a Bambi for being a \"prime example of successful integration into German society.\"",
       "sourceTitle": "Soccer stars steal show at Germany's Bambi Awards",
-      "text": "So, you can imagine Özil, a representative of the nation of Germany during soccer matches between countries (World Cup, European Cup) and a Turkish Muslim, must walk a fine line. Well, he's done a great job, apparently. The German media, whose annual awards are called the Bambi Awards, gave Özil a Bambi for being a \"prime example of successful integration into German society.\""
+      "sourceUrl": "http://www.reuters.com/article/2010/11/12/us-germany-bambi-awards-idUSTRE6AB38U20101112"
     },
     {
-      "type": "sentence",
-      "text": "He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said:",
+      "parentId": 14
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.reuters.com/article/2010/11/12/us-germany-bambi-awards-idUSTRE6AB38U20101112",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "This is a great honor for me and I'm very happy. Integration creates something new and makes for a more colorful Germany.",
       "sourceTitle": "Soccer stars steal show at Germany's Bambi Awards",
-      "text": "This is a great honor for me and I'm very happy. Integration creates something new and makes for a more colorful Germany."
+      "sourceUrl": "http://www.reuters.com/article/2010/11/12/us-germany-bambi-awards-idUSTRE6AB38U20101112"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Perhaps it is a good thing, but who are we to judge. I would speculate that members of the Turkish-German community consider Özil a traitor for being accepted and recognized within mainstream German society. Such is the nature of humanity."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -31,103 +31,167 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Joe Paterno was born and raised in Brooklyn, New York. He died of lung cancer in State College, Pennsylvania in 2012."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2011/11/12/opinion/nocera-the-institutional-pass.html?_r=0",
+      "parentId": 2,
+      "type": "text",
+      "text": "Paterno was a Catholic, and according to his friends and colleagues, a devout one.",
       "sourceTitle": "The Institutional Pass",
-      "text": "Paterno was a Catholic, and according to his friends and colleagues, a devout one."
+      "sourceUrl": "http://www.nytimes.com/2011/11/12/opinion/nocera-the-institutional-pass.html?_r=0"
     },
     {
-      "type": "sentence",
-      "text": "However, his religion and faith weren't something Joe talked much about explicitly. In fact, he recounts his upbringing and the way his father taught him to interact with others as tolerant and multi-cultural:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "However, his religion and faith weren't something Joe talked much about explicitly. In fact, he recounts his upbringing and the way his father taught him to interact with others as tolerant and multi-cultural:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.ydr.com/ci_19298014",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "He instilled in us the notion that religion shouldn't matter, color shouldn't matter. It didn't matter if you were Italian or Irish or Jewish or black, all that matters is what kind of person you are.",
       "sourceTitle": "In his own words: quotes from Penn State coach Joe Paterno over the years",
-      "text": "He instilled in us the notion that religion shouldn't matter, color shouldn't matter. It didn't matter if you were Italian or Irish or Jewish or black, all that matters is what kind of person you are."
+      "sourceUrl": "http://www.ydr.com/ci_19298014"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.foxnews.com/sports/2012/07/14/legal-expert-links-psu-catholic-church-scandals/",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Paterno's connection to the Catholic Church was, at the end of his life, marred with controversy. As a Catholic football coach who was accused of knowledge about one of his assistant coaches, Jerry Sandusky, molesting young boys and not notifying the police, Paterno is often compared to administrators in the Catholic Church who took no action against reports of their priests molesting young boys.",
       "sourceTitle": "Legal expert links PSU, Catholic Church scandals",
-      "text": "Paterno's connection to the Catholic Church was, at the end of his life, marred with controversy. As a Catholic football coach who was accused of knowledge about one of his assistant coaches, Jerry Sandusky, molesting young boys and not notifying the police, Paterno is often compared to administrators in the Catholic Church who took no action against reports of their priests molesting young boys."
+      "sourceUrl": "http://www.foxnews.com/sports/2012/07/14/legal-expert-links-psu-catholic-church-scandals/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2011/11/07/sandusky-penn-state-investigation-conference-paterno-ag_n_1080129.html",
+      "parentId": 6,
+      "type": "text",
+      "text": "The ensuing court case absolved Paterno of legal responsibility,",
       "sourceTitle": "Sandusky, Penn State Scandal: Joe Paterno Not A Target According to Pa. Attorney General",
-      "text": "The ensuing court case absolved Paterno of legal responsibility,"
+      "sourceUrl": "http://www.huffingtonpost.com/2011/11/07/sandusky-penn-state-investigation-conference-paterno-ag_n_1080129.html"
     },
     {
-      "type": "sentence",
-      "text": "but it was–and still is–a black mark on this highly-respected football coach's legacy."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but it was–and still is–a black mark on this highly-respected football coach's legacy.",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Diverse politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/sports_political_donations/Joe_Paterno.php",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Paterno was always a staunch Republican and had friends in high places within the party. But it wasn't all that simple. Paterno's political donation records indicate a healthy dose of Democrat. Of the $8,550 Paterno donated to federal political candidates and organizations, $2,250 went to Democrats. Interestingly, it would seem Paterno supported Barack Obama's 2008 campaign, giving $250 to the future president.",
       "sourceTitle": "Joe Paterno's Federal Campaign Contribution Report",
-      "text": "Paterno was always a staunch Republican and had friends in high places within the party. But it wasn't all that simple. Paterno's political donation records indicate a healthy dose of Democrat. Of the $8,550 Paterno donated to federal political candidates and organizations, $2,250 went to Democrats. Interestingly, it would seem Paterno supported Barack Obama's 2008 campaign, giving $250 to the future president."
+      "sourceUrl": "http://www.newsmeat.com/sports_political_donations/Joe_Paterno.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "And of his politically diverse children, Paterno said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 10
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.ydr.com/ci_19298014",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I brought my kids up to think for themselves since day one. It's interesting. I got a son who's a Republican, who ran for Congress, Scott. I'm a Republican. I've got a son, Jay, who's for Obama. I've got a daughter, who I'm pretty sure she's going to be for Hillary. So God bless America.",
       "sourceTitle": "In his own words: quotes from Penn State coach Joe Paterno over the years",
-      "text": "I brought my kids up to think for themselves since day one. It's interesting. I got a son who's a Republican, who ran for Congress, Scott. I'm a Republican. I've got a son, Jay, who's for Obama. I've got a daughter, who I'm pretty sure she's going to be for Hillary. So God bless America."
+      "sourceUrl": "http://www.ydr.com/ci_19298014"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.c-spanvideo.org/program/BushCampaignRally46",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Still, Paterno's Republican connections ran deep. Paterno was a speaker at the 1988 Republican National Convention where he nominated George H.W. Bush for the presidency.(("
+    },
+    {
+      "parentId": 12,
+      "type": "link",
+      "text": "Jerry Sandusky, Joe Paterno, registered Republicans",
+      "sourceUrl": "http://www.salon.com/2011/11/09/jerry_sandusky_and_joe_paterno_registered_republicans/"
+    },
+    {
+      "type": "text",
+      "text": ". Salon.)) He introduced the 2nd Bush, George W., at a Pennsylvania rally for his 2004 presidential campaign",
+      "parentId": 12,
       "sourceTitle": "Bush Campaign Rally",
-      "text": "Still, Paterno's Republican connections ran deep. Paterno was a speaker at the 1988 Republican National Convention where he nominated George H.W. Bush for the presidency.((. Salon.)) He introduced the 2nd Bush, George W., at a Pennsylvania rally for his 2004 presidential campaign"
+      "sourceUrl": "http://www.c-spanvideo.org/program/BushCampaignRally46"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.salon.com/2011/11/09/jerry_sandusky_and_joe_paterno_registered_republicans/",
+      "type": "text",
+      "text": "and Paterno was even considered as a Republican candidate for governor of Pennsylvania.",
+      "parentId": 12,
       "sourceTitle": "Jerry Sandusky, Joe Paterno, registered Republicans",
-      "text": "and Paterno was even considered as a Republican candidate for governor of Pennsylvania."
+      "sourceUrl": "http://www.salon.com/2011/11/09/jerry_sandusky_and_joe_paterno_registered_republicans/"
     },
     {
-      "type": "sentence",
-      "text": "George H.W. Bush made a statement after Paterno's death:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "George H.W. Bush made a statement after Paterno's death:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://gretawire.foxnewsinsider.com/2012/01/22/statement-by-former-president-george-h-w-bush-41-and-added-history-trivia-by-me/",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I was deeply saddened to hear of the passing of Joe Paterno. He was an outstanding American who was respected not only on the field of play but in life generally — and he was, without a doubt, a true icon in the world of sports. I was proud that he was a friend of mine.",
       "sourceTitle": "Statement by former President George H.W. Bush (41) and added history trivia by me",
-      "text": "I was deeply saddened to hear of the passing of Joe Paterno. He was an outstanding American who was respected not only on the field of play but in life generally — and he was, without a doubt, a true icon in the world of sports. I was proud that he was a friend of mine."
+      "sourceUrl": "http://gretawire.foxnewsinsider.com/2012/01/22/statement-by-former-president-george-h-w-bush-41-and-added-history-trivia-by-me/"
     }
   ],
   "wikipediaData": {

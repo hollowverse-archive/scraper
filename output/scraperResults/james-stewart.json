@@ -31,142 +31,236 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "James Stewart, often known as Jimmy Stewart, was born and raised in Indiana, Pennsylvania. He died of a heart attack caused by a pulmonary embolism in 1997 in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/ps/Jimmy_Stewart.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Stewart was raised a Presbyterian and remained devout in that faith for his entire life. Stewart's father, Alexander Stewart, instilled Presbyterianism in Jimmy, carting the family to Calvary Presbyterian Church in Indiana every week,",
       "sourceTitle": "The religion of Jimmy Stewart, actor (James Stewart)",
-      "text": "Stewart was raised a Presbyterian and remained devout in that faith for his entire life. Stewart's father, Alexander Stewart, instilled Presbyterianism in Jimmy, carting the family to Calvary Presbyterian Church in Indiana every week,"
+      "sourceUrl": "http://www.adherents.com/people/ps/Jimmy_Stewart.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blog.christianitytoday.com/ctentertainment/2009/07/jimmy-stewart-and-god.html",
+      "type": "text",
+      "text": "making Jimmy promise to go to church in Hollywood, and holding him to it.",
+      "parentId": 2,
       "sourceTitle": "Jimmy Stewart and God",
-      "text": "making Jimmy promise to go to church in Hollywood, and holding him to it."
+      "sourceUrl": "http://blog.christianitytoday.com/ctentertainment/2009/07/jimmy-stewart-and-god.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/ps/Jimmy_Stewart.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Stewart, who broke the mold by only marrying once and never divorcing, was married in a Presbyterian church in Brentwood, California.",
       "sourceTitle": "The religion of Jimmy Stewart, actor (James Stewart)",
-      "text": "Stewart, who broke the mold by only marrying once and never divorcing, was married in a Presbyterian church in Brentwood, California."
+      "sourceUrl": "http://www.adherents.com/people/ps/Jimmy_Stewart.html"
     },
     {
-      "type": "sentence",
-      "text": "He also raised his children in that faith. His son, Michael, wrote:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He also raised his children in that faith. His son, Michael, wrote:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/ps/Jimmy_Stewart.html",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "[We] were raised with that small-town Christian Presbyterian ethic that nobody owes you a living…",
       "sourceTitle": "The religion of Jimmy Stewart, actor (James Stewart)",
-      "text": "[We] were raised with that small-town Christian Presbyterian ethic that nobody owes you a living…"
+      "sourceUrl": "http://www.adherents.com/people/ps/Jimmy_Stewart.html"
     },
     {
-      "type": "sentence",
-      "text": "Stewart occasionally expressed his religious views publicly. Speaking of the famous scene in his now-iconic film, , in which Stewart prays while weeping, he commented:"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "text",
+      "text": "Stewart occasionally expressed his religious views publicly. Speaking of the famous scene in his now-iconic film,"
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "It's a Wonderful Life"
+    },
+    {
+      "type": "text",
+      "text": ", in which Stewart prays while weeping, he commented:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://blog.christianitytoday.com/ctentertainment/2009/07/jimmy-stewart-and-god.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "As I said those words, I felt the loneliness and hopelessness of people who had nowhere to turn, and my eyes filled with tears. I broke down sobbing. This was not planned at all, but the power of that prayer, the realization that our Father in heaven is there to help the hopeless had reduced me to tears.",
       "sourceTitle": "Jimmy Stewart and God",
-      "text": "As I said those words, I felt the loneliness and hopelessness of people who had nowhere to turn, and my eyes filled with tears. I broke down sobbing. This was not planned at all, but the power of that prayer, the realization that our Father in heaven is there to help the hopeless had reduced me to tears."
+      "sourceUrl": "http://blog.christianitytoday.com/ctentertainment/2009/07/jimmy-stewart-and-god.html"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Friends in high places"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000071/bio",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Stewart was a conservative Republican, so much so that he would come to blows over his political views from time to time. One story goes that, during a political debate with liberal Democrat Henry Fonda, Stewart and Fonda got into a fistfight–which Fonda apparently won. The two were lifelong friends, however, and simply decided to never speak of politics after the incident.",
       "sourceTitle": "James Stewart – Biography",
-      "text": "Stewart was a conservative Republican, so much so that he would come to blows over his political views from time to time. One story goes that, during a political debate with liberal Democrat Henry Fonda, Stewart and Fonda got into a fistfight–which Fonda apparently won. The two were lifelong friends, however, and simply decided to never speak of politics after the incident."
+      "sourceUrl": "http://www.imdb.com/name/nm0000071/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000071/bio",
+      "parentId": 12,
+      "type": "text",
+      "text": "Nevertheless, getting beat-up didn't convince Stewart to change his views. Throughout his long career as a film star, Stewart endorsed such Republican candidates as Barry Goldwater, Richard Nixon and Ronald Reagan.",
       "sourceTitle": "James Stewart – Biography",
-      "text": "Nevertheless, getting beat-up didn't convince Stewart to change his views. Throughout his long career as a film star, Stewart endorsed such Republican candidates as Barry Goldwater, Richard Nixon and Ronald Reagan."
+      "sourceUrl": "http://www.imdb.com/name/nm0000071/bio"
     },
     {
-      "type": "sentence",
-      "text": "In fact, Reagan and Stewart were good friends from Reagan's Hollywood days, and after helping him win the presidency, Stewart said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "In fact, Reagan and Stewart were good friends from Reagan's Hollywood days, and after helping him win the presidency, Stewart said:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000071/bio",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I cannot tell you, Mr President, just how happy I am to finally be able to call you my Commander-in-Chief.",
       "sourceTitle": "James Stewart – Biography",
-      "text": "I cannot tell you, Mr President, just how happy I am to finally be able to call you my Commander-in-Chief."
+      "sourceUrl": "http://www.imdb.com/name/nm0000071/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000071/bio",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Only a couple of controversies arose in Stewart's uncharacteristically squeaky-clean Hollywood career. One was his endorsement of Goldwater in 1964, who had just previously chosen to vote against the Civil Rights Act.",
       "sourceTitle": "James Stewart – Biography",
-      "text": "Only a couple of controversies arose in Stewart's uncharacteristically squeaky-clean Hollywood career. One was his endorsement of Goldwater in 1964, who had just previously chosen to vote against the Civil Rights Act."
+      "sourceUrl": "http://www.imdb.com/name/nm0000071/bio"
     },
     {
-      "type": "sentence",
-      "text": "It was a divisive time in U.S. history and Stewart was viewed by some as choosing the side of intolerance."
+      "type": "text",
+      "text": "It was a divisive time in U.S. history and Stewart was viewed by some as choosing the side of intolerance.",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Another was his congruity with the McCarthyism of the 1950s. While some Hollywood stars at the time (such as Lucille Ball or Humphrey Bogart) were either under suspicion for colluding with communists or being called to testify before McCarthy's House Un-American Activities committee, Stewart was saying things like:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I don't think there's any question that the Communists are behind a great deal of unrest in the United States. In addition, I feel they are still a potential danger in show business.",
+      "sourceTitle": "James Stewart – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0000071/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Stewart was a staunch patriot. He was the first Hollywood star to enlist in the armed forces after Pearl Harbor, joined the Air Force, flew over 20 combat missions, attained the rank of Brigadier General (the highest rank of any Hollywood star) and won a healthy handful of medals.",
+      "sourceTitle": "James Stewart – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0000071/bio"
+    },
+    {
+      "type": "text",
+      "text": "Toward the end of his life, he said:",
+      "parentId": 19
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000071/bio",
+      "id": 20
+    },
+    {
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "[I hope to be remembered] as someone who believed in hard work and love of country, love of family and love of community.",
       "sourceTitle": "James Stewart – Biography",
-      "text": "I don't think there's any question that the Communists are behind a great deal of unrest in the United States. In addition, I feel they are still a potential danger in show business."
+      "sourceUrl": "http://www.imdb.com/name/nm0000071/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000071/bio",
-      "sourceTitle": "James Stewart – Biography",
-      "text": "Stewart was a staunch patriot. He was the first Hollywood star to enlist in the armed forces after Pearl Harbor, joined the Air Force, flew over 20 combat missions, attained the rank of Brigadier General (the highest rank of any Hollywood star) and won a healthy handful of medals."
+      "type": "paragraph",
+      "id": 22
     },
     {
-      "type": "sentence",
-      "text": "Toward the end of his life, he said:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000071/bio",
-      "sourceTitle": "James Stewart – Biography",
-      "text": "[I hope to be remembered] as someone who believed in hard work and love of country, love of family and love of community."
-    },
-    {
-      "type": "sentence",
+      "parentId": 22,
+      "type": "text",
       "text": "I think he got his wish."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

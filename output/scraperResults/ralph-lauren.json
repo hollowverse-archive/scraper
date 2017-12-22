@@ -31,98 +31,142 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ralph Lauren, born Ralph Lifschitz, was born and raised in the Bronx, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Lauren is Jewish, the son of Jewish Belarusian immigrants. The fact that he had his name officially changed is the source of some controversy, with the occasional Jew wondering if he did it to get away from his religious and cultural roots. But this isn't the case. He told Oprah:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.oprah.com/omagazine/Oprah-Interviews-Ralph-Lauren/print/1",
-      "sourceTitle": "Oprah interviews Ralph Lauren",
-      "text": "My given name has the word shit in it. When I was a kid, the other kids would make a lot of fun of me… Then people said, 'Did you change your name because you don't want to be Jewish?' I said, 'Absolutely not. That's not what it's about…' It had to do with not wanting to be at a detriment for no reason in a world that makes fun of things."
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.oprah.com/omagazine/Oprah-Interviews-Ralph-Lauren/print/1",
-      "sourceTitle": "Oprah interviews Ralph Lauren",
-      "text": "He went on to say that he is still proud of being a Jew and celebrates the Jewish holidays."
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/fec/bystate_detail.php?st=NY&last=Lauren&first=Ralph",
+      "parentId": 4,
+      "type": "text",
+      "text": "My given name has the word shit in it. When I was a kid, the other kids would make a lot of fun of me… Then people said, 'Did you change your name because you don't want to be Jewish?' I said, 'Absolutely not. That's not what it's about…' It had to do with not wanting to be at a detriment for no reason in a world that makes fun of things.",
+      "sourceTitle": "Oprah interviews Ralph Lauren",
+      "sourceUrl": "http://www.oprah.com/omagazine/Oprah-Interviews-Ralph-Lauren/print/1"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "He went on to say that he is still proud of being a Jew and celebrates the Jewish holidays.",
+      "sourceTitle": "Oprah interviews Ralph Lauren",
+      "sourceUrl": "http://www.oprah.com/omagazine/Oprah-Interviews-Ralph-Lauren/print/1"
+    },
+    {
+      "type": "text",
+      "text": "Lauren has also given $20,000 to pro-Israel political action groups.",
+      "parentId": 5,
       "sourceTitle": "Ralph Lauren's federal campaign contribution search results",
-      "text": "Lauren has also given $20,000 to pro-Israel political action groups."
+      "sourceUrl": "http://www.newsmeat.com/fec/bystate_detail.php?st=NY&last=Lauren&first=Ralph"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=282",
+      "type": "text",
+      "text": "Plus, the website \"Jew or Not Jew\" gave Lauren an 11 out of 15 rating on his Jew-ness,",
+      "parentId": 5,
       "sourceTitle": "Ralph Lauren",
-      "text": "Plus, the website \"Jew or Not Jew\" gave Lauren an 11 out of 15 rating on his Jew-ness,"
+      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=282"
     },
     {
-      "type": "sentence",
-      "text": "so I'm sufficiently assured that Lauren is still devout."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "so I'm sufficiently assured that Lauren is still devout.",
+      "parentId": 5
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Politics is in fashion"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/fec/bystate_detail.php?st=NY&last=Lauren&first=Ralph",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Lauren is mostly a Democrat. Since 1982, of the $44,350 Lauren has donated to political candidates and campaigns, all but $2,250 was to Democratic candidates, the Democratic National Committee and Democrat-related political action groups. This includes such famous politicians as Michael Dukakis, Hillary Clinton and, of course, Barack Obama. Interestingly, Lauren donated to George Bush Sr. when he was running for his second term against Democrat darling Bill Clinton.",
       "sourceTitle": "Ralph Lauren's federal campaign contribution search results",
-      "text": "Lauren is mostly a Democrat. Since 1982, of the $44,350 Lauren has donated to political candidates and campaigns, all but $2,250 was to Democratic candidates, the Democratic National Committee and Democrat-related political action groups. This includes such famous politicians as Michael Dukakis, Hillary Clinton and, of course, Barack Obama. Interestingly, Lauren donated to George Bush Sr. when he was running for his second term against Democrat darling Bill Clinton."
+      "sourceUrl": "http://www.newsmeat.com/fec/bystate_detail.php?st=NY&last=Lauren&first=Ralph"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "You've got to wonder what caused the shift there. Maybe he thought the elder Bush had better fashion sense."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/blogs/politics/2012/07/lawmakers-want-made-in-china-u-s-olympic-uniforms-burned/",
+      "parentId": 9,
+      "type": "text",
+      "text": "Lauren again garnered controversy (this time in the political arena) when his company, Polo Ralph Lauren, got the contract to design and manufacture the uniforms for American Olympians competing in the 2012 Olympics. The thing is, the uniforms were made in China.",
       "sourceTitle": "Lawmakers Want 'Made in China' U.S. Olympic Uniforms Burned",
-      "text": "Lauren again garnered controversy (this time in the political arena) when his company, Polo Ralph Lauren, got the contract to design and manufacture the uniforms for American Olympians competing in the 2012 Olympics. The thing is, the uniforms were made in China."
+      "sourceUrl": "http://abcnews.go.com/blogs/politics/2012/07/lawmakers-want-made-in-china-u-s-olympic-uniforms-burned/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "When this came out, Lauren took some heat, particularly from Democrats. Senate Majority Leader, Harry Reid, said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://abcnews.go.com/blogs/politics/2012/07/lawmakers-want-made-in-china-u-s-olympic-uniforms-burned/",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I think they should take all the uniforms, put them in a big pile and burn them and start all over again. If they have to wear nothing but a singlet that says USA on it, painted by hand, that is what they should wear.",
       "sourceTitle": "Lawmakers Want 'Made in China' U.S. Olympic Uniforms Burned",
-      "text": "I think they should take all the uniforms, put them in a big pile and burn them and start all over again. If they have to wear nothing but a singlet that says USA on it, painted by hand, that is what they should wear."
+      "sourceUrl": "http://abcnews.go.com/blogs/politics/2012/07/lawmakers-want-made-in-china-u-s-olympic-uniforms-burned/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Oops, I guess this is one of those rare instances when business and politics don't mix."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

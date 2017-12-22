@@ -34,129 +34,201 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Uma Thurman was born in Boston, Massachusetts and grew up in Amherst, Massachusetts."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/598/000023529/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Thurman's upbringing was quite the religious one indeed. She was named after the Hindu goddess of light and beauty",
       "sourceTitle": "Uma Thurman",
-      "text": "Thurman's upbringing was quite the religious one indeed. She was named after the Hindu goddess of light and beauty"
+      "sourceUrl": "http://www.nndb.com/people/598/000023529/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pt/Uma_Thurman.html",
+      "type": "text",
+      "text": "and her father, Robert Thurman, is widely considered America's foremost Buddhist scholar. He is a professor of Indo-Tibetan Buddhist studies at Columbia University and the first-ever ordained Tibetan Buddhist monk in the U.S.",
+      "parentId": 2,
       "sourceTitle": "The religion of Uma Thurman, actress",
-      "text": "and her father, Robert Thurman, is widely considered America's foremost Buddhist scholar. He is a professor of Indo-Tibetan Buddhist studies at Columbia University and the first-ever ordained Tibetan Buddhist monk in the U.S."
+      "sourceUrl": "http://www.adherents.com/people/pt/Uma_Thurman.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Does that make Uma a Buddhist? Almost, but not quite. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Uma_Thurman",
-      "sourceTitle": "Uma Thurman",
-      "text": "When asked if I consider myself Buddhist, the answer is, not really. But it's more my religion than any other because I was brought up with it in an intellectual and spiritual environment. I don't practice or preach it, however. But Buddhism has had a major effect on who I am and how I think about the world. What I have learned is that I like all religions, but only parts of them."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "When asked if I consider myself Buddhist, the answer is, not really. But it's more my religion than any other because I was brought up with it in an intellectual and spiritual environment. I don't practice or preach it, however. But Buddhism has had a major effect on who I am and how I think about the world. What I have learned is that I like all religions, but only parts of them.",
+      "sourceTitle": "Uma Thurman",
+      "sourceUrl": "http://www.celebatheists.com/wiki/Uma_Thurman"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Thurman has decided that religion is a major commitment–one she's not up to make. She's happy dedicating her life to her work and her family:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://en.wikiquote.org/wiki/Uma_Thurman",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I have such respect for the rigor of being a practicing religious person. I'm an actress and a mom, and I probably don't have enough of an active spiritual life. And I don't know why people run around calling themselves by the names of religions when they don't actually practice them.",
       "sourceTitle": "Uma Thurman",
-      "text": "I have such respect for the rigor of being a practicing religious person. I'm an actress and a mom, and I probably don't have enough of an active spiritual life. And I don't know why people run around calling themselves by the names of religions when they don't actually practice them."
+      "sourceUrl": "http://en.wikiquote.org/wiki/Uma_Thurman"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Major league lefty"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/Uma_Thurman.php",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Thurman is a clear-cut case of liberal Democrat. Her financial contributions, totaling at least $28,000, have gone to Democrats, with the largest chunk ($20,000) going to Obama's 2008 Committee for Change.",
       "sourceTitle": "Uma Thurman's Federal Campaign Contribution Report",
-      "text": "Thurman is a clear-cut case of liberal Democrat. Her financial contributions, totaling at least $28,000, have gone to Democrats, with the largest chunk ($20,000) going to Obama's 2008 Committee for Change."
+      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/Uma_Thurman.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2008/10/21/AR2008102102996.html",
+      "type": "text",
+      "text": "The committee was designed specifically for ultra-wealthy donors who wanted to donate more than is legally allowed to give to an individual candidate,",
+      "parentId": 11,
       "sourceTitle": "Big Donors Drive Obama's Money Edge",
-      "text": "The committee was designed specifically for ultra-wealthy donors who wanted to donate more than is legally allowed to give to an individual candidate,"
+      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2008/10/21/AR2008102102996.html"
     },
     {
-      "type": "sentence",
-      "text": "so you know she's dead serious about her campaign contributions."
+      "type": "text",
+      "text": "so you know she's dead serious about her campaign contributions.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "She doesn't stop at supporting Democrats, either. She disparaged the crop of 2012 Republican presidential candidates, calling the lot of them a \"freak show,\" and saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 13
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.nme.com/filmandtv/news/uma-thurman-brands-presidential-race-a-freak-show/262152",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "It's televised and presented as really legitimate, but it's clearly a wildly eccentric bunch of individuals in a gigantic country, all professing various ideologies consumed by personal interest.",
       "sourceTitle": "Uma Thurman brands presidential race a 'freak show.'",
-      "text": "It's televised and presented as really legitimate, but it's clearly a wildly eccentric bunch of individuals in a gigantic country, all professing various ideologies consumed by personal interest."
+      "sourceUrl": "http://www.nme.com/filmandtv/news/uma-thurman-brands-presidential-race-a-freak-show/262152"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.care2.com/causes/uma-thurman-supports-marriage-equality-in-new-york-video.html",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Thurman has shown her liberal stripes by making videos in support of gay marriage,",
       "sourceTitle": "Uma Thurman Supports Marriage Equality in New York",
-      "text": "Thurman has shown her liberal stripes by making videos in support of gay marriage,"
+      "sourceUrl": "http://www.care2.com/causes/uma-thurman-supports-marriage-equality-in-new-york-video.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.vanityfair.com/style/stick-shift/2012/11/uma-thurman-environmentally-sustainable",
+      "type": "text",
+      "text": "and promoting for environmentally-friendly organizations and innovations, like the BMW electric car.",
+      "parentId": 15,
       "sourceTitle": "Stars & Cars: Uma Thurman on the Necessity of Environmentally Sustainable Vehicles, and the Terror of Winter Parking Lots",
-      "text": "and promoting for environmentally-friendly organizations and innovations, like the BMW electric car."
+      "sourceUrl": "http://www.vanityfair.com/style/stick-shift/2012/11/uma-thurman-environmentally-sustainable"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://nobelpeaceprize.org/concert/history/2007.php",
+      "parentId": 16,
+      "type": "text",
+      "text": "Speaking of environmentalism, Thurman was a presenter of the 2007 Nobel Peace Prize. The award was split between Al Gore and the Intergovernmental Panel on Climate Change \"for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change.\"",
       "sourceTitle": "Nobel Peace Prize Concert",
-      "text": "Speaking of environmentalism, Thurman was a presenter of the 2007 Nobel Peace Prize. The award was split between Al Gore and the Intergovernmental Panel on Climate Change \"for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change.\""
+      "sourceUrl": "http://nobelpeaceprize.org/concert/history/2007.php"
     },
     {
-      "type": "sentence",
-      "text": "During the celebrations, Thurman expressed gratitude that her children are getting an education in environmentalism:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "During the celebrations, Thurman expressed gratitude that her children are getting an education in environmentalism:",
+      "parentId": 16
     },
     {
       "type": "quote",
-      "sourceUrl": "http://celebritybabies.people.com/2007/12/11/uma-thurman-cre/",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I'm very fortunate in that I have a five- and nine-year-old who are getting a much better education [in environmental issues] than any of the rest of us. So I am constantly instructed on a daily basis what to do.",
       "sourceTitle": "Uma Thurman thankful for kids' environmental education",
-      "text": "I'm very fortunate in that I have a five- and nine-year-old who are getting a much better education [in environmental issues] than any of the rest of us. So I am constantly instructed on a daily basis what to do."
+      "sourceUrl": "http://celebritybabies.people.com/2007/12/11/uma-thurman-cre/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "Listening to children regarding socio-political issues might not be a bad idea. Adults don't usually do such a great job."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

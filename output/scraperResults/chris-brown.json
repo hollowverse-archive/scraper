@@ -33,108 +33,164 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Chris Brown was born and raised in Tappahannock, Virginia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biography.com/people/chris-brown-265946",
+      "parentId": 2,
+      "type": "text",
+      "text": "Brown is a born-again Christian who got his start as a singer in his church choir.",
       "sourceTitle": "Chris Brown Biography – Facts, Birthday, Life Story",
-      "text": "Brown is a born-again Christian who got his start as a singer in his church choir."
+      "sourceUrl": "http://www.biography.com/people/chris-brown-265946"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thesuperficial.com/chris-brown-blames-satan-for-releasing-new-rihanna-abuse-photos-02-2011",
+      "parentId": 3,
+      "type": "text",
+      "text": "In his professional life, Brown's faith wasn't really a big deal–until he beat up Rihanna. At that point, he was a music industry pariah, a media demon, and a Christian example of how not to be. But Brown used it to his advantage. Not only did he blame Satan for his deplorable behavior,",
       "sourceTitle": "Chris Brown Blames Satan For Releasing New Rihanna Abuse Photos",
-      "text": "In his professional life, Brown's faith wasn't really a big deal–until he beat up Rihanna. At that point, he was a music industry pariah, a media demon, and a Christian example of how not to be. But Brown used it to his advantage. Not only did he blame Satan for his deplorable behavior,"
+      "sourceUrl": "http://www.thesuperficial.com/chris-brown-blames-satan-for-releasing-new-rihanna-abuse-photos-02-2011"
     },
     {
-      "type": "sentence",
-      "text": "he said that God was going to get him through the challenging time when everyone hated him. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "he said that God was going to get him through the challenging time when everyone hated him. He said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.christiantoday.com/article/chris.brown.seeking.gods.help.after.rihanna.row/22599.htm",
-      "sourceTitle": "Chris Brown seeking 'God's help' after Rihanna row",
-      "text": "I am seeking the counselling of my pastor, my mother and other loved ones and I am committed, with God's help, to emerging a better person."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I am seeking the counselling of my pastor, my mother and other loved ones and I am committed, with God's help, to emerging a better person.",
+      "sourceTitle": "Chris Brown seeking 'God's help' after Rihanna row",
+      "sourceUrl": "http://www.christiantoday.com/article/chris.brown.seeking.gods.help.after.rihanna.row/22599.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "He might have gotten this idea from his mother, who also released a statement saying the whole women-bashing thing was about God somehow:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.patheos.com/blogs/friendlyatheist/2009/08/28/chris-browns-mother-its-about-god/",
-      "sourceTitle": "Chris Brown's Mother: \"It's About God.\"",
-      "text": "You see this whole thing isn't about Chris. It's about God. He wants to show all of you the goodness of him through Chris."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "You see this whole thing isn't about Chris. It's about God. He wants to show all of you the goodness of him through Chris.",
+      "sourceTitle": "Chris Brown's Mother: \"It's About God.\"",
+      "sourceUrl": "http://www.patheos.com/blogs/friendlyatheist/2009/08/28/chris-browns-mother-its-about-god/"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "What does that even mean? Did God make him beat Rihanna? Because I thought it was Satan. I think these people just use God as a catch-all, fair-weather excuse for anything and everything."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.justjared.com/2008/08/28/chris-brown-obama-or-die/",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "It's unlikely that any politician actually wants Chris Brown's endorsement but he seems to be a fan of Barack Obama and was spotted wearing a shirt that read: \"Obama or Die.\"",
       "sourceTitle": "Chris Brown: Obama Or Die!",
-      "text": "It's unlikely that any politician actually wants Chris Brown's endorsement but he seems to be a fan of Barack Obama and was spotted wearing a shirt that read: \"Obama or Die.\""
+      "sourceUrl": "http://www.justjared.com/2008/08/28/chris-brown-obama-or-die/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Other than that, Brown doesn't seem too politically aware, except for voicing concern over massacres in Syria on Twitter, where he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://jilliancyork.com/2012/05/26/the-politics-of-attention-on-chris-brown-and-syria/",
-      "sourceTitle": "The Politics of Attention: On Chris Brown and Syria",
-      "text": "Houla Massacre OMG!!!!! Not cool!"
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Houla Massacre OMG!!!!! Not cool!",
+      "sourceTitle": "The Politics of Attention: On Chris Brown and Syria",
+      "sourceUrl": "http://jilliancyork.com/2012/05/26/the-politics-of-attention-on-chris-brown-and-syria/"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Well put. Just brilliant."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.radaronline.com/exclusives/2011/07/gay-rights-group-slams-chris-browns-homophobic-rant",
+      "parentId": 16,
+      "type": "text",
+      "text": "And his relations with the gay community are less than ideal. Brown was reportedly using gay slurs at a gym basketball game, calling people faggots and saying things he didn't like (such as a bad play) were gay.",
       "sourceTitle": "Gay Rights Group Slams Chris Brown's Homophobic Rant",
-      "text": "And his relations with the gay community are less than ideal. Brown was reportedly using gay slurs at a gym basketball game, calling people faggots and saying things he didn't like (such as a bad play) were gay."
+      "sourceUrl": "http://www.radaronline.com/exclusives/2011/07/gay-rights-group-slams-chris-browns-homophobic-rant"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "So, I guess we'll call him a Democrat, but no honest liberal would call anyone a faggot. In all reality, Brown probably doesn't care for much–religiously or politically–other than himself."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -185,7 +241,7 @@
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/evarinaldiphotography/6936274970/\">Chris Brown</a>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/evarinaldiphotography/6936274970/\">Chris Brown</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },

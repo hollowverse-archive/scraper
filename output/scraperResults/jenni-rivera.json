@@ -33,113 +33,169 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Dolores Janney Rivera, known as Jenni Rivera, was born and raised in Long Beach, California. She died in a plane crash in 2012."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "As the child of Mexican immigrants to the U.S., it's not surprising that Rivera was Catholic. And her family is very devout. After her death, the singer's brother said,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://omg.yahoo.com/news/jenni-rivera%E2%80%99s-family-speaks-out-following-her-death-as-the-%E2%80%98final-photo%E2%80%99-of-the-singer-surfaces-online-174728034.html",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Life is like that. We live and we die. We may be sad, but when God has the last word for all of us in our last days, it's time to go. And this was the way Jenni had to go.",
       "sourceTitle": "Jenni Rivera's Family Speaks Out Following Her Death as the 'Final Photo' of the Singer Surfaces Online.",
-      "text": "Life is like that. We live and we die. We may be sad, but when God has the last word for all of us in our last days, it's time to go. And this was the way Jenni had to go."
+      "sourceUrl": "http://omg.yahoo.com/news/jenni-rivera%E2%80%99s-family-speaks-out-following-her-death-as-the-%E2%80%98final-photo%E2%80%99-of-the-singer-surfaces-online-174728034.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.laopinion.com/Jenni_Rivera_esta_mas_que_satisfecha_con_el_nuevo_rumbo_de_su_vida#.UPR5QW9EFf1",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Rivera herself said she wasn't quite as dedicated to her religion as she would like to be,",
       "sourceTitle": "Jenni Rivera está más que satisfecha con el nuevo rumbo de su vida.",
-      "text": "Rivera herself said she wasn't quite as dedicated to her religion as she would like to be,"
+      "sourceUrl": "http://www.laopinion.com/Jenni_Rivera_esta_mas_que_satisfecha_con_el_nuevo_rumbo_de_su_vida#.UPR5QW9EFf1"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.laopinion.com/Jenni_Rivera_esta_mas_que_satisfecha_con_el_nuevo_rumbo_de_su_vida#.UPR5QW9EFf1",
+      "type": "text",
+      "text": "but she still obviously had a strong faith in God. She said she was reading a book by Christian evangelist Billy Graham,",
+      "parentId": 5,
       "sourceTitle": "Jenni Rivera está más que satisfecha con el nuevo rumbo de su vida.",
-      "text": "but she still obviously had a strong faith in God. She said she was reading a book by Christian evangelist Billy Graham,"
+      "sourceUrl": "http://www.laopinion.com/Jenni_Rivera_esta_mas_que_satisfecha_con_el_nuevo_rumbo_de_su_vida#.UPR5QW9EFf1"
     },
     {
-      "type": "sentence",
-      "text": "and she had this to say about playing gigs in Mexican bordertowns racked with violence from drug cartels:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and she had this to say about playing gigs in Mexican bordertowns racked with violence from drug cartels:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.billboard.biz/bbbiz/genre/latin/jenni-rivera-reflects-on-her-struggles-triumphs-1008045042.story",
-      "sourceTitle": "Jenni Rivera Reflects on Her Struggles & Triumphs in 2011 Billboard Interview.",
-      "text": "A lot of my friends, colleagues in the business, have been kidnapped or murdered or whatever. . . . The best thing that I can do is pray and ask God to give me grace while I'm onstage and get me safely back home."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "A lot of my friends, colleagues in the business, have been kidnapped or murdered or whatever. . . . The best thing that I can do is pray and ask God to give me grace while I'm onstage and get me safely back home.",
+      "sourceTitle": "Jenni Rivera Reflects on Her Struggles & Triumphs in 2011 Billboard Interview.",
+      "sourceUrl": "http://www.billboard.biz/bbbiz/genre/latin/jenni-rivera-reflects-on-her-struggles-triumphs-1008045042.story"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "That certainly takes some faith."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "A Woman on a Mission of Equality"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.billboard.biz/bbbiz/genre/latin/jenni-rivera-reflects-on-her-struggles-triumphs-1008045042.story",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Perhaps Rivera's most lasting impact on politics has to do with her position as a woman in the male-dominated Norteño music industry. She refused to be branded as a docile or submissive woman, and instead made her mark as a strong, independent feminine role model. Her first big hit was called \"Las Malandrinas\" or \"The Bad Girls\" and is about women who \"go clubbing, drink tequila and stand up for themselves.\" She said she writes songs about strong women because that's what women want to hear.",
       "sourceTitle": "Jenni Rivera Reflects on Her Struggles & Triumphs in 2011 Billboard Interview.",
-      "text": "Perhaps Rivera's most lasting impact on politics has to do with her position as a woman in the male-dominated Norteño music industry. She refused to be branded as a docile or submissive woman, and instead made her mark as a strong, independent feminine role model. Her first big hit was called \"Las Malandrinas\" or \"The Bad Girls\" and is about women who \"go clubbing, drink tequila and stand up for themselves.\" She said she writes songs about strong women because that's what women want to hear."
+      "sourceUrl": "http://www.billboard.biz/bbbiz/genre/latin/jenni-rivera-reflects-on-her-struggles-triumphs-1008045042.story"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://colorlines.com/archives/2012/12/jenni_rivera_fought_for_rights_of_women_immigrants_and_lgbt_youth.html",
+      "type": "text",
+      "text": "She continued her advocacy for women through her work as spokeswoman for the National Coalition Against Battered Women and Domestic Violence in Los Angeles.",
+      "parentId": 10,
       "sourceTitle": "Jenni Rivera Fought For Women, Immigrants and LGBT Youth.",
-      "text": "She continued her advocacy for women through her work as spokeswoman for the National Coalition Against Battered Women and Domestic Violence in Los Angeles."
+      "sourceUrl": "http://colorlines.com/archives/2012/12/jenni_rivera_fought_for_rights_of_women_immigrants_and_lgbt_youth.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "She was also a vocal opponent of Arizona's immigration law, SB1070, that required police to check the immigration status of anyone they suspect to be illegal. At a 2010 rally in Arizona protesting the law, Rivera said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://colorlines.com/archives/2012/12/jenni_rivera_was_one_of_the_first_stars_to_raise_awareness_of_sb1070_and_call_the_law_racist.html",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "[SB1070] is an injustice, it's discriminatory, it's hate, it doesn't respect humanity and it's racist.",
       "sourceTitle": "Jenni Rivera Was One of First Stars to Call Arizona's SB1070 Racist.",
-      "text": "[SB1070] is an injustice, it's discriminatory, it's hate, it doesn't respect humanity and it's racist."
+      "sourceUrl": "http://colorlines.com/archives/2012/12/jenni_rivera_was_one_of_the_first_stars_to_raise_awareness_of_sb1070_and_call_the_law_racist.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=uc4GeEY6ZEY",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I couldn't find any endorsement of Democrats regarding immigration reform, but in one video, she appeals to Obama to respect illegal immigrants and the important work they do in the U.S.",
       "sourceTitle": "Jenni Rivera le habla al presidente Obama.",
-      "text": "I couldn't find any endorsement of Democrats regarding immigration reform, but in one video, she appeals to Obama to respect illegal immigrants and the important work they do in the U.S."
+      "sourceUrl": "http://www.youtube.com/watch?v=uc4GeEY6ZEY"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://colorlines.com/archives/2012/12/jenni_rivera_fought_for_rights_of_women_immigrants_and_lgbt_youth.html",
+      "parentId": 15,
+      "type": "text",
+      "text": "Despite her Catholic faith, she was an advocate for LGBT rights as well. She supported anti-bullying campaigns, and wore a purple dress to the Billboard awards in 2012 to honor those teens who had committed suicide due to harassment about their sexuality.",
       "sourceTitle": "Jenni Rivera Fought For Women, Immigrants and LGBT Youth.",
-      "text": "Despite her Catholic faith, she was an advocate for LGBT rights as well. She supported anti-bullying campaigns, and wore a purple dress to the Billboard awards in 2012 to honor those teens who had committed suicide due to harassment about their sexuality."
+      "sourceUrl": "http://colorlines.com/archives/2012/12/jenni_rivera_fought_for_rights_of_women_immigrants_and_lgbt_youth.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "There's no doubt we would have heard more from this woman if her life had not been cut short, but her impact on Mexican-American culture will no doubt last much longer."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

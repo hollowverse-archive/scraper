@@ -34,97 +34,177 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm1667139/bio",
+      "parentId": 1,
+      "type": "text",
+      "text": "Game, whose real name is Jayceon Terrell Taylor, was born in Los Angeles, California and grew up in Compton, California."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Game's childhood was highly unstable–involving drugs and gangs in the worst possible way.",
       "sourceTitle": "Game – Biography",
-      "text": "Game's childhood was highly unstable–involving drugs and gangs in the worst possible way."
+      "sourceUrl": "http://www.imdb.com/name/nm1667139/bio"
     },
     {
-      "type": "sentence",
-      "text": "If religion was present, it certainly didn't serve its purpose of instilling a moral center upon Game and his family."
+      "type": "text",
+      "text": "If religion was present, it certainly didn't serve its purpose of instilling a moral center upon Game and his family.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://buzz.eewmagazine.com/eew-magazine-buzz-blog/2012/9/24/rapper-the-game-talks-being-baptized-by-bishop-noel-jones-pe.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "This all changed for Game in 2012 when he was courted and subsequently baptized by Pentecostal preacher,"
+    },
+    {
+      "parentId": 3,
+      "type": "link",
+      "text": "Bishop Noel Jones",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Noel_Jones_%28Pentecostal_bishop%29"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 3,
       "sourceTitle": "Rapper 'The Game' talks being Baptized by Bishop Noel Jones & Personal Views on Christianity",
-      "text": "This all changed for Game in 2012 when he was courted and subsequently baptized by Pentecostal preacher,."
+      "sourceUrl": "http://buzz.eewmagazine.com/eew-magazine-buzz-blog/2012/9/24/rapper-the-game-talks-being-baptized-by-bishop-noel-jones-pe.html"
     },
     {
-      "type": "sentence",
-      "text": "In response to this life-changing event, Game named one of his albums . When talking about the album, Game outlined his unique view of Christian faith:"
+      "type": "text",
+      "text": "In response to this life-changing event, Game named one of his albums",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Jesus Piece"
+    },
+    {
+      "type": "text",
+      "text": ". When talking about the album, Game outlined his unique view of Christian faith:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://buzz.eewmagazine.com/eew-magazine-buzz-blog/2012/9/24/rapper-the-game-talks-being-baptized-by-bishop-noel-jones-pe.html",
-      "sourceTitle": "Rapper 'The Game' talks being Baptized by Bishop Noel Jones & Personal Views on Christianity",
-      "text": "I'm calling it 'Jesus Piece' because last year in August I got baptized and so I've been going to church… I still love the strip club and I still smoke and drink. I'm faithful to my family, so I wanted to make an album where you could love God and be of God, but still get it poppin' in your life."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I'm calling it 'Jesus Piece' because last year in August I got baptized and so I've been going to church… I still love the strip club and I still smoke and drink. I'm faithful to my family, so I wanted to make an album where you could love God and be of God, but still get it poppin' in your life.",
+      "sourceTitle": "Rapper 'The Game' talks being Baptized by Bishop Noel Jones & Personal Views on Christianity",
+      "sourceUrl": "http://buzz.eewmagazine.com/eew-magazine-buzz-blog/2012/9/24/rapper-the-game-talks-being-baptized-by-bishop-noel-jones-pe.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "That still doesn't really answer the question. Is Jesus a gun or is that some wordplay on \"peace\" and guns… or what? Let's try not too think to hard about it."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Politics is just a big Game. No, really."
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Game isn't too political. We could imagine a sudden political conversion in Game's future, where he joins a political party, then professes to still adhere to the opposite of their ideology–but it hasn't happened yet."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "He hasn't supported Obama, a surprise for some reason. In fact, he backed his friend, Lupe Fiasco, after Fiasco called Obama the country's biggest terrorist, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.sohh.com/2011/06/games_not_tripping_over_president_obama.html",
-      "sourceTitle": "Game's Not Tripping Over Prez Obama Jab, \"I Know Lupe & He's A Good Dude.\"",
-      "text": "I know Lupe and he's a good dude. I don't give a fuck because Obama's our president…"
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I know Lupe and he's a good dude. I don't give a fuck because Obama's our president…",
+      "sourceTitle": "Game's Not Tripping Over Prez Obama Jab, \"I Know Lupe & He's A Good Dude.\"",
+      "sourceUrl": "http://www.sohh.com/2011/06/games_not_tripping_over_president_obama.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Maybe it's not a political statement and Game is just a loyal friend. But when Frank Ocean forced the institution of hip-hop to examine its stance on gays, Game weighed in–largely sympathetically, but also from a very uninformed space in third-person land, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.alternet.org/story/152425/hip-hop_star_the_game_wants_gay_rappers_to_come_out,_but_spreads_downlow_myth/",
-      "sourceTitle": "Hip-Hop Star The Game Wants Gay Rappers To Come Out, But Spreads Downlow Myth",
-      "text": "It's a free country. Be gay, you can do that. Game don't have a problem with gay people. Game has a problem with people that are pretending not to be gay and are gay because the number one issue with that is that you could be fooling somebody and you could give them AIDS and they can die."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "It's a free country. Be gay, you can do that. Game don't have a problem with gay people. Game has a problem with people that are pretending not to be gay and are gay because the number one issue with that is that you could be fooling somebody and you could give them AIDS and they can die.",
+      "sourceTitle": "Hip-Hop Star The Game Wants Gay Rappers To Come Out, But Spreads Downlow Myth",
+      "sourceUrl": "http://www.alternet.org/story/152425/hip-hop_star_the_game_wants_gay_rappers_to_come_out,_but_spreads_downlow_myth/"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Game was talking about the idea, called Downlow, that gay men who also have sex with women are more likely to spread AIDS. But the myth has been widely discredited."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "It all adds up to the fact that Game is just not very informed about political issues–and that's his right. But it might be unwise to enter the debate when that's the case."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

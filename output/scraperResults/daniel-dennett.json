@@ -32,101 +32,146 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Daniel Dennett was born in Boston, Massachusetts."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.closertotruth.com/participant/Daniel-C-Dennett/27",
+      "parentId": 2,
+      "type": "text",
+      "text": "Dennett is one of modern-day philosophy's most powerful minds. His major contribution is his philosophy of mind based on empiricism, meaning that the mind is wholly a physical entity, not subject to the will of a soul or any other non-physical, supernatural, or paranormal force.",
       "sourceTitle": "Daniel C. Dennett: Participants Profile",
-      "text": "Dennett is one of modern-day philosophy's most powerful minds. His major contribution is his philosophy of mind based on empiricism, meaning that the mind is wholly a physical entity, not subject to the will of a soul or any other non-physical, supernatural, or paranormal force."
+      "sourceUrl": "http://www.closertotruth.com/participant/Daniel-C-Dennett/27"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.disinfo.com/2008/04/the-four-horsemen-richard-dawkins-daniel-dennett-sam-harris-and-christopher-hitchens/",
+      "parentId": 3,
+      "type": "text",
+      "text": "As you might imagine, this leaves little room for religion. Dennett is a proud atheist and sometimes referred to as one of the \"Four Horsemen of New Atheism,\" along with Richard Dawkins, Christopher Hitchens, and Sam Harris.",
       "sourceTitle": "The Four Horsemen: Richard Dawkins, Daneil Dennet, Sam Harris and Christopher Hitchens",
-      "text": "As you might imagine, this leaves little room for religion. Dennett is a proud atheist and sometimes referred to as one of the \"Four Horsemen of New Atheism,\" along with Richard Dawkins, Christopher Hitchens, and Sam Harris."
+      "sourceUrl": "http://www.disinfo.com/2008/04/the-four-horsemen-richard-dawkins-daniel-dennett-sam-harris-and-christopher-hitchens/"
     },
     {
-      "type": "sentence",
-      "text": "To write-off religion, he simply says:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "To write-off religion, he simply says:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://atheism.about.com/library/quotes/bl_q_DDennett.htm",
-      "sourceTitle": "Quotes on Religion: Daniel Dennett",
-      "text": "The kindly God who lovingly fashioned each and every one of us and sprinkled the sky with shining stars for our delight — that God is, like Santa Claus, a myth of childhood, not anything a sane, un-deluded adult could literally believe in. That God must either be turned into a symbol for something less concrete or abandoned altogether."
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.scienceandreligiontoday.com/2010/02/05/phil-clayton-to-dan-dennett-debate-me/",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "The kindly God who lovingly fashioned each and every one of us and sprinkled the sky with shining stars for our delight — that God is, like Santa Claus, a myth of childhood, not anything a sane, un-deluded adult could literally believe in. That God must either be turned into a symbol for something less concrete or abandoned altogether.",
+      "sourceTitle": "Quotes on Religion: Daniel Dennett",
+      "sourceUrl": "http://atheism.about.com/library/quotes/bl_q_DDennett.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "As it seems that famous theologians and religious believers find it somehow joyful to debate with atheists, Dennett is occasionally invited to formal debates.",
       "sourceTitle": "Phil Clayton to Dan Dennett: Debate Me!",
-      "text": "As it seems that famous theologians and religious believers find it somehow joyful to debate with atheists, Dennett is occasionally invited to formal debates."
+      "sourceUrl": "http://www.scienceandreligiontoday.com/2010/02/05/phil-clayton-to-dan-dennett-debate-me/"
     },
     {
-      "type": "sentence",
-      "text": "And though Dennett has participated from time to time, he thinks it a waste of time, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And though Dennett has participated from time to time, he thinks it a waste of time, saying:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://atheism.about.com/library/quotes/bl_q_DDennett.htm",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "There could be talking bunny rabbits, spiders who write English messages in their webs, and for that matter, melancholy choo-choo trains. There could be, I suppose, but there aren't–so my theory doesn't have to explain them.",
       "sourceTitle": "Quotes on Religion: Daniel Dennett",
-      "text": "There could be talking bunny rabbits, spiders who write English messages in their webs, and for that matter, melancholy choo-choo trains. There could be, I suppose, but there aren't–so my theory doesn't have to explain them."
+      "sourceUrl": "http://atheism.about.com/library/quotes/bl_q_DDennett.htm"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Philosophy of Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Politically, Dennett is more of a critic than an advocate of any ideology–though he seems sympathetic to socialists and those on the left."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.iwise.com/Daniel_C_Dennett/Politicians%20and%20Politics_quotes",
+      "parentId": 11,
+      "type": "text",
+      "text": "Dennett scorns those extremists–such as revolutionary Marxists or the religious right who believe in some sort of social inevitability. For example, Marxists feel that a revolution of the working class will come eventually, so they attempt to create the social conditions that would encourage such a revolution. On the other end, religious fanatics believe in some sort of \"End Days\" or Armageddon, so they attempt to create the political or social conditions conducive to this Armageddon. Dennett finds these people dangerous and probably unstable.",
       "sourceTitle": "Daniel C. Dennett Politicians and Politics Quotes",
-      "text": "Dennett scorns those extremists–such as revolutionary Marxists or the religious right who believe in some sort of social inevitability. For example, Marxists feel that a revolution of the working class will come eventually, so they attempt to create the social conditions that would encourage such a revolution. On the other end, religious fanatics believe in some sort of \"End Days\" or Armageddon, so they attempt to create the political or social conditions conducive to this Armageddon. Dennett finds these people dangerous and probably unstable."
+      "sourceUrl": "http://www.iwise.com/Daniel_C_Dennett/Politicians%20and%20Politics_quotes"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Dennett refers to those poor souls who must deal with the children of Marxists as the \"honest left,\" indicating an affinity to a more liberal political ideology."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://bigthink.com/ideas/13472",
+      "parentId": 13,
+      "type": "text",
+      "text": "Dennett also talks about \"evening out the wealth of the world\" and has spoken positively about the Obama administration, optimistic about their policies of clean and alternative energies.",
       "sourceTitle": "Daniel Dennett Investigates Energy Innovation",
-      "text": "Dennett also talks about \"evening out the wealth of the world\" and has spoken positively about the Obama administration, optimistic about their policies of clean and alternative energies."
+      "sourceUrl": "http://bigthink.com/ideas/13472"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "Overall, thinkers and scientists gravitate towards the left side of the political spectrum, though they are naturally skeptical of anyone in power–as they should be–and Dennett is no exception."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

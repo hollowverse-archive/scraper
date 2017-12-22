@@ -35,89 +35,144 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Najwa Karam was born and raised in Zahlé, Lebanon."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "Her  asserts (without citation, mind you) that Karam was raised a Maronite Catholic, one of the few Catholic sects East of Rome to pledge allegiance to the Vatican. However, I can't find a source to corroborate this unless you count this  about Lebanese Catholics."
+      "parentId": 2,
+      "type": "text",
+      "text": "Her"
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "link",
+      "text": "Wikipedia page",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Najwa_Karam"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://najwakaram.blogs-de-voyage.fr/",
+      "type": "text",
+      "text": "asserts (without citation, mind you) that Karam was raised a Maronite Catholic, one of the few Catholic sects East of Rome to pledge allegiance to the Vatican. However, I can't find a source to corroborate this unless you count this",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "link",
+      "text": "strange book",
+      "sourceUrl": "http://books.google.com/books/about/Lebanese_Eastern_Catholics.html?id=B_PHcQAACAAJ"
+    },
+    {
+      "type": "text",
+      "text": "about Lebanese Catholics.",
+      "parentId": 2
+    },
+    {
+      "type": "paragraph",
+      "id": 3
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "However, I'm inclined to believe it. Karam attended secondary school at a Jesus the Angel College in Zahlé and went on to earn her bachelor's degree in philosophy.",
       "sourceTitle": "Najwa Karam",
-      "text": "However, I'm inclined to believe it. Karam attended secondary school at a Jesus the Angel College in Zahlé and went on to earn her bachelor's degree in philosophy."
+      "sourceUrl": "http://najwakaram.blogs-de-voyage.fr/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mahjoob.com/en/forums/archive/index.php/t-275986.html",
+      "type": "text",
+      "text": "And she's listed on various sites as an Arabic Christian",
+      "parentId": 3,
       "sourceTitle": "Religions of arabic singers",
-      "text": "And she's listed on various sites as an Arabic Christian"
+      "sourceUrl": "http://www.mahjoob.com/en/forums/archive/index.php/t-275986.html"
     },
     {
-      "type": "sentence",
-      "text": "so I'm comfortable calling her a Catholic."
+      "type": "text",
+      "text": "so I'm comfortable calling her a Catholic.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/najwakaram",
+      "parentId": 4,
+      "type": "text",
+      "text": "As for Karam talking about it, I'd probably have to speak Arabic to tell you for sure. But I can tell you that her Twitter page is stuffed with references to \"Allah.\"",
       "sourceTitle": "Najwa Karam (najwakaram) on Twitter",
-      "text": "As for Karam talking about it, I'd probably have to speak Arabic to tell you for sure. But I can tell you that her Twitter page is stuffed with references to \"Allah.\""
+      "sourceUrl": "https://twitter.com/najwakaram"
     },
     {
-      "type": "sentence",
-      "text": "I'm assuming she's expressing her faith in a positive way, but I might be wrong. If anyone out there feels like translating, why don't you throw us a couple Najwa Karam religious Twitter quotes."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "I'm assuming she's expressing her faith in a positive way, but I might be wrong. If anyone out there feels like translating, why don't you throw us a couple Najwa Karam religious Twitter quotes.",
+      "parentId": 4
     },
     {
       "type": "heading",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Wisely eschewing politics in a volatile region"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.albawaba.com/entertainment/najwa-karam-al-assad-433765",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Perhaps Karam's biggest political controversy was when she performed for Syrian president Bashar Al Assad. It was early in Assad's presidency, well before the civil war and the genocide and whatnot. Still, it landed her on an infamous list of celebrities considered traitors to Middle Eastern people–particularly Syrians.",
       "sourceTitle": "Najwa regrets singing to Assad: pop-stars defect from Bashar.",
-      "text": "Perhaps Karam's biggest political controversy was when she performed for Syrian president Bashar Al Assad. It was early in Assad's presidency, well before the civil war and the genocide and whatnot. Still, it landed her on an infamous list of celebrities considered traitors to Middle Eastern people–particularly Syrians."
+      "sourceUrl": "http://www.albawaba.com/entertainment/najwa-karam-al-assad-433765"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.albawaba.com/entertainment/najwa-karam-al-assad-433765",
+      "type": "text",
+      "text": "She later apologized and expressed her regret for performing for Assad–and it seems she has since been forgiven.",
+      "parentId": 6,
       "sourceTitle": "Najwa regrets singing to Assad: pop-stars defect from Bashar.",
-      "text": "She later apologized and expressed her regret for performing for Assad–and it seems she has since been forgiven."
+      "sourceUrl": "http://www.albawaba.com/entertainment/najwa-karam-al-assad-433765"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "Nevertheless, this experience might be why, when asked about the seemingly political content of some of her songs, Karam said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.rollingstoneme.com/index.php?option=com_content&view=article&id=898",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "[I would say those songs] had more of a patriotic feel, a love for my country. They didn't necessarily take political sides and I don't like to get involved with revolutions. I'm happy to sing patriotic songs, but I avoid politically tense situations.",
       "sourceTitle": "Q&A: Najwa Karam",
-      "text": "[I would say those songs] had more of a patriotic feel, a love for my country. They didn't necessarily take political sides and I don't like to get involved with revolutions. I'm happy to sing patriotic songs, but I avoid politically tense situations."
+      "sourceUrl": "http://www.rollingstoneme.com/index.php?option=com_content&view=article&id=898"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "So, she's officially non-political. I guess we'll go with it, but my gut tells me a smart, successful woman in the Middle East with a degree in philosophy probably has quite a few more opinions than she's letting on."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

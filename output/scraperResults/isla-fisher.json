@@ -32,100 +32,154 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Isla Fisher was born in Muscat, Oman where her father was on assignment for the United Nations. She grew up partially in Bathgate, Scotland (where her parents are from) and mostly in Perth, Australia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Fisher is the wife of famous satirist Sacha Baron Cohen. Before marrying him, Fisher converted to Judaism, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.standard.co.uk/news/i-is-marrying-me-julie-6967254.html",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I will definitely have a Jewish wedding just to be with Sacha. I would do anything–move into any religion–to be united in marriage with him. We have a future together, and religion comes second to love as far as we are concerned.",
       "sourceTitle": "'I is marrying me Julie.'",
-      "text": "I will definitely have a Jewish wedding just to be with Sacha. I would do anything–move into any religion–to be united in marriage with him. We have a future together, and religion comes second to love as far as we are concerned."
+      "sourceUrl": "http://www.standard.co.uk/news/i-is-marrying-me-julie-6967254.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.heraldsun.com.au/entertainment/movies/isla-fishers-pregnant-pause/story-e6frf9h6-1111114331736",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Fisher studied theology and Hebrew for three years before her conversion,",
       "sourceTitle": "Isla Fisher's pregnant pause",
-      "text": "Fisher studied theology and Hebrew for three years before her conversion,"
+      "sourceUrl": "http://www.heraldsun.com.au/entertainment/movies/isla-fishers-pregnant-pause/story-e6frf9h6-1111114331736"
     },
     {
-      "type": "sentence",
-      "text": "and admits it's an ongoing learning process:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and admits it's an ongoing learning process:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.heraldsun.com.au/entertainment/movies/isla-fishers-pregnant-pause/story-e6frf9h6-1111114331736",
-      "sourceTitle": "Isla Fisher's pregnant pause",
-      "text": "I am still learning about Judaism and I love it."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I am still learning about Judaism and I love it.",
+      "sourceTitle": "Isla Fisher's pregnant pause",
+      "sourceUrl": "http://www.heraldsun.com.au/entertainment/movies/isla-fishers-pregnant-pause/story-e6frf9h6-1111114331736"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Clearly, the question is: what was she before she was Jewish? Given her purebred Scottish ancestry, it's reasonable to assume her family is Christian, with perhaps Anglican/Church of Scotland roots. But she hasn't spoken about it and her willingness to go Jewish indicates that Fisher probably wasn't all that attached to her previous faith."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Either way, she's fully Jewish now, and given her words on the subject, quite devout."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Associating with crazy"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.couriermail.com.au/entertainment/movies/isla-an-aussie-at-heart/story-e6freqex-1111113211840",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Fisher doesn't seem all that political. She's truly a citizen of the world, having grown up in various countries. Even now, her family is spread across the globe. Her mother and brothers live in Athens, Greece and her father lives in both Frankfurt, Germany and Nicaragua. Fisher considers herself largely Australian,",
       "sourceTitle": "Isla an Aussie at heart",
-      "text": "Fisher doesn't seem all that political. She's truly a citizen of the world, having grown up in various countries. Even now, her family is spread across the globe. Her mother and brothers live in Athens, Greece and her father lives in both Frankfurt, Germany and Nicaragua. Fisher considers herself largely Australian,"
+      "sourceUrl": "http://www.couriermail.com.au/entertainment/movies/isla-an-aussie-at-heart/story-e6freqex-1111113211840"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.standard.co.uk/news/i-is-marrying-me-julie-6967254.html",
+      "type": "text",
+      "text": "though she lives mostly in Britain.",
+      "parentId": 11,
       "sourceTitle": "'I is marrying me Julie.'",
-      "text": "though she lives mostly in Britain."
+      "sourceUrl": "http://www.standard.co.uk/news/i-is-marrying-me-julie-6967254.html"
     },
     {
-      "type": "sentence",
-      "text": "What country's politics does one choose to follow?"
+      "type": "text",
+      "text": "What country's politics does one choose to follow?",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Her husband is certainly known for pushing the envelope of social norms–something Fisher admits has been a strain at times. She once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.starpulse.com/news/index.php/2013/03/26/isla_fisher_my_marriage_isnt_normal_",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "You know there have been times in the past with the guerrilla style film making of Borat and Bruno where there were surreal conversations, 'How many people are suing us? Are you wanted in any states? Are you alive?'",
       "sourceTitle": "Isla Fisher: 'My Marriage Isn't Normal",
-      "text": "You know there have been times in the past with the guerrilla style film making of Borat and Bruno where there were surreal conversations, 'How many people are suing us? Are you wanted in any states? Are you alive?'"
+      "sourceUrl": "http://www.starpulse.com/news/index.php/2013/03/26/isla_fisher_my_marriage_isnt_normal_"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "It's kind of anti-politics in a way–or at least anti-political correctness. Fisher proves that it's a statement like any other political statement–it means something and it comes with risks."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

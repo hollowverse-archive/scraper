@@ -31,155 +31,241 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Naploeon Bonaparte was born in Ajaccio, Corsica, France in 1769. He died in exile on Saint Helena Island–a part of the British Empire–in 1821. His cause of death is disputed, with some claiming stomach cancer and others claiming he was murdered by cyanide poisoning."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.napoleon.org/en/magazine/museums/files/Cathedral-Ajaccio.asp",
+      "parentId": 2,
+      "type": "text",
+      "text": "Napoleon was baptized a Catholic in Ajaccio at the Ajaccio Cathedral.",
       "sourceTitle": "Cathedral – Ajaccio",
-      "text": "Napoleon was baptized a Catholic in Ajaccio at the Ajaccio Cathedral."
+      "sourceUrl": "http://www.napoleon.org/en/magazine/museums/files/Cathedral-Ajaccio.asp"
     },
     {
-      "type": "sentence",
-      "text": "His sentiments toward religion are seemingly contradictory. He was prone to commenting on religion and its roles, saying things like:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "His sentiments toward religion are seemingly contradictory. He was prone to commenting on religion and its roles, saying things like:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/n/napoleon_bonaparte.html?vm=l",
-      "sourceTitle": "Napoleon Bonaparte Quotes",
-      "text": "Religion is what keeps the poor from murdering the rich."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Religion is what keeps the poor from murdering the rich.",
+      "sourceTitle": "Napoleon Bonaparte Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/n/napoleon_bonaparte.html?vm=l"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "And:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/n/napoleon_bonaparte_2.html?vm=l",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "All religions have been made by men.",
       "sourceTitle": "Napoleon Banaparte Quotes",
-      "text": "All religions have been made by men."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/n/napoleon_bonaparte_2.html?vm=l"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pn/Napoleon.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "However, some claim Bonaparte had a deep faith and belief in God.",
       "sourceTitle": "The religion of Napoleon Bonaparte, military, political leader",
-      "text": "However, some claim Bonaparte had a deep faith and belief in God."
+      "sourceUrl": "http://www.adherents.com/people/pn/Napoleon.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pn/Napoleon.html",
+      "type": "text",
+      "text": "And during his years in exile, Bonaparte mused about his admiration for Jesus Christ. Having conquered nations by force and won allegiances with impressive rhetorical and political power, Bonaparte was impressed with Christ's ability to have won the hearts of men with his message of love.",
+      "parentId": 8,
       "sourceTitle": "The religion of Napoleon Bonaparte, military, political leader",
-      "text": "And during his years in exile, Bonaparte mused about his admiration for Jesus Christ. Having conquered nations by force and won allegiances with impressive rhetorical and political power, Bonaparte was impressed with Christ's ability to have won the hearts of men with his message of love."
+      "sourceUrl": "http://www.adherents.com/people/pn/Napoleon.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Either way, it seems that religion was a tool for Bonaparte, and he used it wisely, allowing the peoples of his conquered land to continue practicing whatever faith was inherent in their culture. In this way, Bonaparte took a page from the Roman empire-building playbook. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.napoleon-series.org/ins/weider/c_peace.html",
-      "sourceTitle": "Napoleon: Man of Peace",
-      "text": "It is by making myself Catholic that I brought peace to Brittany and Vendée. It is by making myself Italian that I won minds in Italy. It is by making myself a Moslem that I established myself in Egypt. If I governed a nation of Jews, I should reestablish the Temple of Solomon."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "It is by making myself Catholic that I brought peace to Brittany and Vendée. It is by making myself Italian that I won minds in Italy. It is by making myself a Moslem that I established myself in Egypt. If I governed a nation of Jews, I should reestablish the Temple of Solomon.",
+      "sourceTitle": "Napoleon: Man of Peace",
+      "sourceUrl": "http://www.napoleon-series.org/ins/weider/c_peace.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "It was tolerance, but tolerance with a power-centered agenda."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.patheos.com/blogs/yimcatholic/2011/03/because-napoleon-died-a-catholic-death.html",
+      "parentId": 13,
+      "type": "text",
+      "text": "Nevertheless, we are best to call Napoleon a Catholic. He did receive a Catholic education, was French, and was given his last rights on his deathbed.",
       "sourceTitle": "Because Napoleon Died a Catholic Death",
-      "text": "Nevertheless, we are best to call Napoleon a Catholic. He did receive a Catholic education, was French, and was given his last rights on his deathbed."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.patheos.com/blogs/yimcatholic/2011/03/because-napoleon-died-a-catholic-death.html"
     },
     {
       "type": "heading",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "The true nature of politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://teacherweb.ftl.pinecrest.edu/snyderd/mwh/projects/cov/maps.htm",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Bonaparte was politics–the pursuit and acquisition of power. His ambition knew no bounds and by the end of his career (resulting in exile), he had either conquered or forced alliances with most of Europe.",
       "sourceTitle": "Maps",
-      "text": "Bonaparte was politics–the pursuit and acquisition of power. His ambition knew no bounds and by the end of his career (resulting in exile), he had either conquered or forced alliances with most of Europe."
+      "sourceUrl": "http://teacherweb.ftl.pinecrest.edu/snyderd/mwh/projects/cov/maps.htm"
     },
     {
-      "type": "sentence",
-      "text": "He once said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He once said:",
+      "parentId": 15
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/n/napoleon_bonaparte_2.html?vm=l",
-      "sourceTitle": "Napoleon Banaparte Quotes",
-      "text": "I love power. But it is as an artist that I love it. I love it as a musician loves his violin, to draw out its sounds and chords and harmonies."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I love power. But it is as an artist that I love it. I love it as a musician loves his violin, to draw out its sounds and chords and harmonies.",
+      "sourceTitle": "Napoleon Banaparte Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/n/napoleon_bonaparte_2.html?vm=l"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "In the end, Napoleon was no match for the Russians, and his armies suffered heavy causalities just outside of Moscow. Encouraged by his defeat, various European powers including the British, the Austrians, The Russians and the Prussians formed an alliance against him, ultimately defeating him and exiling him to an island called Elba off the west coast of Italy."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pbs.org/empires/napoleon/n_war/campaign/page_14.html",
+      "parentId": 19,
+      "type": "text",
+      "text": "But Napoleon escaped, made his way to the French mainland where he met with an army of loyalists, and marched back to retake Paris. However, his return to power was short lived and he met with a coalition army at Waterloo in modern-day Belgium, where he was soundly defeated.",
       "sourceTitle": "Napoleon: Napoleon at War",
-      "text": "But Napoleon escaped, made his way to the French mainland where he met with an army of loyalists, and marched back to retake Paris. However, his return to power was short lived and he met with a coalition army at Waterloo in modern-day Belgium, where he was soundly defeated."
+      "sourceUrl": "http://www.pbs.org/empires/napoleon/n_war/campaign/page_14.html"
     },
     {
-      "type": "sentence",
-      "text": "Afterwards, he was sent to live out his days on the remote Saint Helena Island in the South Atlantic."
+      "type": "text",
+      "text": "Afterwards, he was sent to live out his days on the remote Saint Helena Island in the South Atlantic.",
+      "parentId": 19
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wyhsapeurohistory.blogspot.com/2011/01/napoleon-charts-on-domestic-and-foreign.html",
+      "parentId": 20,
+      "type": "text",
+      "text": "As the French Emperor, Napoleon instituted many reforms. He believed in a strong central government, and this even resulted in a formal political philosophy called Bonapartism. Beyond that, in a way, he was a child of the Enlightenment. Napoleon passed laws making all French males equal in the eyes of the law, established property rights and guaranteed religious liberty for all creeds, among other things",
       "sourceTitle": "Napoleon: Charts on domestic and foreign policies",
-      "text": "As the French Emperor, Napoleon instituted many reforms. He believed in a strong central government, and this even resulted in a formal political philosophy called Bonapartism. Beyond that, in a way, he was a child of the Enlightenment. Napoleon passed laws making all French males equal in the eyes of the law, established property rights and guaranteed religious liberty for all creeds, among other things"
+      "sourceUrl": "http://wyhsapeurohistory.blogspot.com/2011/01/napoleon-charts-on-domestic-and-foreign.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wyhsapeurohistory.blogspot.com/2011/01/napoleon-charts-on-domestic-and-foreign.html",
+      "parentId": 21,
+      "type": "text",
+      "text": "And yet, his ego prevented him from allowing his people total freedom. For example, Napoleon's regime exercised strict control over the press and would not allow any public criticism of the Emperor.",
       "sourceTitle": "Napoleon: Charts on domestic and foreign policies",
-      "text": "And yet, his ego prevented him from allowing his people total freedom. For example, Napoleon's regime exercised strict control over the press and would not allow any public criticism of the Emperor."
+      "sourceUrl": "http://wyhsapeurohistory.blogspot.com/2011/01/napoleon-charts-on-domestic-and-foreign.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 22
     },
     {
-      "type": "sentence",
-      "text": "Napoleon Bonaparte is one of history's most studied and fascinating characters. An article like this could never do him or his legacy enough justice. Check out the  page to start a more in-depth inquiry."
+      "parentId": 22,
+      "type": "text",
+      "text": "Napoleon Bonaparte is one of history's most studied and fascinating characters. An article like this could never do him or his legacy enough justice. Check out the"
     },
     {
-      "type": "break"
+      "parentId": 22,
+      "type": "link",
+      "text": "Wikipedia",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Napoleon#Napoleon_and_religions"
+    },
+    {
+      "type": "text",
+      "text": "page to start a more in-depth inquiry.",
+      "parentId": 22
     }
   ],
   "wikipediaData": {
@@ -239,7 +325,7 @@
             "source": "commons-desc-page"
           },
           "Permission": {
-            "value": "<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:#f9f9f9; border:2px solid #e0e0e0; padding: 0; border-spacing: 8px;\" class=\"layouttemplate licensetpl mw-content-ltr\" lang=\"en\" xml:lang=\"en\">\n<tr>\n<td style=\"width:90px;\" rowspan=\"3\">\n<img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/90px-CC_some_rights_reserved.svg.png\" title=\"w:en:Creative Commons\" width=\"90\" height=\"36\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/135px-CC_some_rights_reserved.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/180px-CC_some_rights_reserved.svg.png 2x\" data-file-width=\"744\" data-file-height=\"300\"><br><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/24px-Cc-by_new_white.svg.png\" title=\"attribution\" width=\"24\" height=\"24\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/36px-Cc-by_new_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/48px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/24px-Cc-sa_white.svg.png\" title=\"share alike\" width=\"24\" height=\"24\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/36px-Cc-sa_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/48px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\">\n</td>\n<td lang=\"en\" xml:lang=\"en\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</td>\n<td style=\"width:90px;\" rowspan=\"3\"></td>\n</tr>\n<tr style=\"text-align:center;\">\n<td><b>Attribution: <span style=\"font-size: larger;\" class=\"licensetpl_attr\"><a href=\"//commons.wikimedia.org/wiki/User:Katepanomegas\" title=\"User:Katepanomegas\">Katepanomegas</a></span></b></td>\n</tr>\n<tr style=\"text-align:left;\" lang=\"en\" xml:lang=\"en\">\n<td>\n<dl>\n<dd>You are free:\n<ul>\n<li>\n<b>to share</b> – to copy, distribute and transmit the work</li>\n<li>\n<b>to remix</b> – to adapt the work</li>\n</ul>\n</dd>\n<dd>Under the following conditions:\n<ul>\n<li>\n<b>attribution</b> – You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).</li>\n<li>\n<b>share alike</b> – If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</li>\n</ul>\n</dd>\n</dl>\n<p><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span> <span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0</span> <span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0</span> <span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>\n</td>\n</tr>\n</table>\n<table cellspacing=\"8\" cellpadding=\"0\" class=\"layouttemplate sourcetemplate\" style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; border:1px solid #555555; background:#f6f7f5; direction:ltr;\" lang=\"en\" xml:lang=\"en\"><tr>\n<td style=\"width:110px;\"><a href=\"//commons.wikimedia.org/wiki/File:CC-BY-SA_icon.svg\" class=\"image\"><img alt=\"CC-BY-SA icon.svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CC-BY-SA_icon.svg/100px-CC-BY-SA_icon.svg.png\" width=\"100\" height=\"35\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CC-BY-SA_icon.svg/150px-CC-BY-SA_icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CC-BY-SA_icon.svg/200px-CC-BY-SA_icon.svg.png 2x\" data-file-width=\"88\" data-file-height=\"31\"></a></td>\n<td style=\"text-align:left;\">\n<span lang=\"en\" class=\"description en\" xml:lang=\"en\"><span style=\"font-size:1.3em\"><b>This file has been published under the <a href=\"https://en.wikipedia.org/wiki/Creative_Commons\" class=\"extiw\" title=\"w:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"http://creativecommons.org/licenses/by-sa/3.0\">Attribution ShareAlike 3 license</a>. You can therefore reuse and modifiy it, <u>if and only if</u></b>:</span></span>\n<ul>\n<li>you credit the author's name (<b><a href=\"//commons.wikimedia.org/wiki/User:Katepanomegas\" title=\"User:Katepanomegas\">Katepanomegas</a></b>) or add the following monogram in the immediate vicinity of the image.</li>\n<li>you credit the respective creators of the file parts.</li>\n<li>you publish the altered file under the same license.</li>\n</ul>\n<p>A notification on my <a href=\"//commons.wikimedia.org/wiki/User_talk:Katepanomegas\" title=\"User talk:Katepanomegas\">talk page</a> would also be strongly appreciated for use outside wikipedia.</p>\n</td>\n<td><a href=\"//commons.wikimedia.org/wiki/File:Katepanomegas.svg\" class=\"image\"><img alt=\"Katepanomegas.svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Katepanomegas.svg/100px-Katepanomegas.svg.png\" width=\"100\" height=\"107\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Katepanomegas.svg/150px-Katepanomegas.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Katepanomegas.svg/200px-Katepanomegas.svg.png 2x\" data-file-width=\"69\" data-file-height=\"74\"></a></td>\n</tr></table>\n<table cellspacing=\"8\" cellpadding=\"0\" style=\"width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa;\" lang=\"en\" dir=\"ltr\" class=\"layouttemplate restrictiontemplate mw-content-ltr restriction-insignia\" xml:lang=\"en\"><tr>\n<td style=\"border:none;\" width=\"64px\"><a href=\"//commons.wikimedia.org/wiki/Commons:Non-copyright_restrictions\" title=\"Insignia\"><img alt=\"Insignia\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat-elements-2.png/64px-Coat-elements-2.png\" width=\"64\" height=\"77\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat-elements-2.png/96px-Coat-elements-2.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat-elements-2.png/128px-Coat-elements-2.png 2x\" data-file-width=\"609\" data-file-height=\"731\"></a></td>\n<td style=\"border:none;\">\n<p><span lang=\"en\" class=\"description en\" xml:lang=\"en\">This image shows a <a href=\"https://en.wikipedia.org/wiki/flag\" class=\"extiw\" title=\"w:flag\">flag</a>, a <a href=\"https://en.wikipedia.org/wiki/coat_of_arms\" class=\"extiw\" title=\"w:coat of arms\">coat of arms</a>, a <a href=\"https://en.wikipedia.org/wiki/seal_(device)\" class=\"extiw\" title=\"w:seal (device)\">seal</a> or some other official <b><a href=\"https://en.wikipedia.org/wiki/insignia\" class=\"extiw\" title=\"w:insignia\">insignia</a></b>. The use of such symbols is restricted in many countries. These restrictions are independent of the <a href=\"https://en.wikipedia.org/wiki/copyright\" class=\"extiw\" title=\"w:copyright\">copyright</a> status.</span></p>\n</td>\n</tr></table>",
+            "value": "<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:#f9f9f9; border:2px solid #e0e0e0; padding: 0; border-spacing: 8px;\" class=\"layouttemplate licensetpl mw-content-ltr\" lang=\"en\" xml:lang=\"en\">\n<tr>\n<td style=\"width:90px;\" rowspan=\"3\">\n<img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/90px-CC_some_rights_reserved.svg.png\" title=\"w:en:Creative Commons\" width=\"90\" height=\"36\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/135px-CC_some_rights_reserved.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/180px-CC_some_rights_reserved.svg.png 2x\" data-file-width=\"744\" data-file-height=\"300\"><br><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/24px-Cc-by_new_white.svg.png\" title=\"attribution\" width=\"24\" height=\"24\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/36px-Cc-by_new_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/48px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/24px-Cc-sa_white.svg.png\" title=\"share alike\" width=\"24\" height=\"24\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/36px-Cc-sa_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/48px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\">\n</td>\n<td lang=\"en\" xml:lang=\"en\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</td>\n<td style=\"width:90px;\" rowspan=\"3\"></td>\n</tr>\n<tr style=\"text-align:center;\">\n<td><b>Attribution: <span style=\"font-size: larger;\" class=\"licensetpl_attr\"><a href=\"//commons.wikimedia.org/wiki/User:Katepanomegas\" title=\"User:Katepanomegas\">Katepanomegas</a></span></b></td>\n</tr>\n<tr style=\"text-align:left;\" lang=\"en\" xml:lang=\"en\">\n<td>\n<dl>\n<dd>You are free:\n<ul>\n<li>\n<b>to share</b> – to copy, distribute and transmit the work</li>\n<li>\n<b>to remix</b> – to adapt the work</li>\n</ul>\n</dd>\n<dd>Under the following conditions:\n<ul>\n<li>\n<b>attribution</b> – You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).</li>\n<li>\n<b>share alike</b> – If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</li>\n</ul>\n</dd>\n</dl>\n<p><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span> <span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0</span> <span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0</span> <span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>\n</td>\n</tr>\n</table>\n<table cellspacing=\"8\" cellpadding=\"0\" class=\"layouttemplate sourcetemplate\" style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; border:1px solid #555555; background:#f6f7f5; direction:ltr;\" lang=\"en\" xml:lang=\"en\"><tr>\n<td style=\"width:110px;\"><a href=\"//commons.wikimedia.org/wiki/File:CC-BY-SA_icon.svg\" class=\"image\"><img alt=\"CC-BY-SA icon.svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CC-BY-SA_icon.svg/100px-CC-BY-SA_icon.svg.png\" width=\"100\" height=\"35\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CC-BY-SA_icon.svg/150px-CC-BY-SA_icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CC-BY-SA_icon.svg/200px-CC-BY-SA_icon.svg.png 2x\" data-file-width=\"88\" data-file-height=\"31\"></a></td>\n<td style=\"text-align:left;\">\n<span lang=\"en\" class=\"description en\" xml:lang=\"en\"><span style=\"font-size:1.3em\"><b>This file has been published under the <a href=\"https://en.wikipedia.org/wiki/Creative_Commons\" class=\"extiw\" title=\"w:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0\">Attribution ShareAlike 3 license</a>. You can therefore reuse and modifiy it, <u>if and only if</u></b>:</span></span>\n<ul>\n<li>you credit the author's name (<b><a href=\"//commons.wikimedia.org/wiki/User:Katepanomegas\" title=\"User:Katepanomegas\">Katepanomegas</a></b>) or add the following monogram in the immediate vicinity of the image.</li>\n<li>you credit the respective creators of the file parts.</li>\n<li>you publish the altered file under the same license.</li>\n</ul>\n<p>A notification on my <a href=\"//commons.wikimedia.org/wiki/User_talk:Katepanomegas\" title=\"User talk:Katepanomegas\">talk page</a> would also be strongly appreciated for use outside wikipedia.</p>\n</td>\n<td><a href=\"//commons.wikimedia.org/wiki/File:Katepanomegas.svg\" class=\"image\"><img alt=\"Katepanomegas.svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Katepanomegas.svg/100px-Katepanomegas.svg.png\" width=\"100\" height=\"107\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Katepanomegas.svg/150px-Katepanomegas.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Katepanomegas.svg/200px-Katepanomegas.svg.png 2x\" data-file-width=\"69\" data-file-height=\"74\"></a></td>\n</tr></table>\n<table cellspacing=\"8\" cellpadding=\"0\" style=\"width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa;\" lang=\"en\" dir=\"ltr\" class=\"layouttemplate restrictiontemplate mw-content-ltr restriction-insignia\" xml:lang=\"en\"><tr>\n<td style=\"border:none;\" width=\"64px\"><a href=\"//commons.wikimedia.org/wiki/Commons:Non-copyright_restrictions\" title=\"Insignia\"><img alt=\"Insignia\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat-elements-2.png/64px-Coat-elements-2.png\" width=\"64\" height=\"77\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat-elements-2.png/96px-Coat-elements-2.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat-elements-2.png/128px-Coat-elements-2.png 2x\" data-file-width=\"609\" data-file-height=\"731\"></a></td>\n<td style=\"border:none;\">\n<p><span lang=\"en\" class=\"description en\" xml:lang=\"en\">This image shows a <a href=\"https://en.wikipedia.org/wiki/flag\" class=\"extiw\" title=\"w:flag\">flag</a>, a <a href=\"https://en.wikipedia.org/wiki/coat_of_arms\" class=\"extiw\" title=\"w:coat of arms\">coat of arms</a>, a <a href=\"https://en.wikipedia.org/wiki/seal_(device)\" class=\"extiw\" title=\"w:seal (device)\">seal</a> or some other official <b><a href=\"https://en.wikipedia.org/wiki/insignia\" class=\"extiw\" title=\"w:insignia\">insignia</a></b>. The use of such symbols is restricted in many countries. These restrictions are independent of the <a href=\"https://en.wikipedia.org/wiki/copyright\" class=\"extiw\" title=\"w:copyright\">copyright</a> status.</span></p>\n</td>\n</tr></table>",
             "source": "commons-desc-page",
             "hidden": ""
           },

@@ -34,127 +34,202 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Tyler Perry, born Emmitt Perry, Jr., was born and raised in New Orleans, Louisiana."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.beliefnet.com/Entertainment/TV/Tyler-Perrys-House-Of-Payne/Diary-Of-A-Faithful-Black-Man.aspx",
+      "parentId": 2,
+      "type": "text",
+      "text": "Perry is a devout Christian and it shows in all of his work. As he has said, he's \"not afraid to have a character say, 'I am Christian' or 'I believe in God.'\"",
       "sourceTitle": "Diary of a Faithful Black Man",
-      "text": "Perry is a devout Christian and it shows in all of his work. As he has said, he's \"not afraid to have a character say, 'I am Christian' or 'I believe in God.'\""
+      "sourceUrl": "http://www.beliefnet.com/Entertainment/TV/Tyler-Perrys-House-Of-Payne/Diary-Of-A-Faithful-Black-Man.aspx"
     },
     {
-      "type": "sentence",
-      "text": "And that's the truth. Most of Perry's films, theater productions, and TV shows are Christian family-oriented."
+      "type": "text",
+      "text": "And that's the truth. Most of Perry's films, theater productions, and TV shows are Christian family-oriented.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.examiner.com/article/tyler-perry-reveals-that-he-suffered-abuse-during-his-childhood",
+      "parentId": 3,
+      "type": "text",
+      "text": "Perry's childhood was a perfect example of horrific, from his father beating him senseless on a regular basis to cases of being molested by neighbors.",
       "sourceTitle": "Tyler Perry reveals that he suffered abuse during his childhood",
-      "text": "Perry's childhood was a perfect example of horrific, from his father beating him senseless on a regular basis to cases of being molested by neighbors."
+      "sourceUrl": "http://www.examiner.com/article/tyler-perry-reveals-that-he-suffered-abuse-during-his-childhood"
     },
     {
-      "type": "sentence",
-      "text": "It was probably accompanying his mother to church on Sundays that provided Perry with a refuge, and subsequently his strong faith. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "It was probably accompanying his mother to church on Sundays that provided Perry with a refuge, and subsequently his strong faith. He said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.beliefnet.com/Entertainment/TV/Tyler-Perrys-House-Of-Payne/Diary-Of-A-Faithful-Black-Man.aspx",
-      "sourceTitle": "Diary of a Faithful Black Man",
-      "text": "I am a Christian, I am a believer, and I know had I not been a person of faith, I couldn't be here in this place, and I wouldn't be walking the path that I'm on now."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I am a Christian, I am a believer, and I know had I not been a person of faith, I couldn't be here in this place, and I wouldn't be walking the path that I'm on now.",
+      "sourceTitle": "Diary of a Faithful Black Man",
+      "sourceUrl": "http://www.beliefnet.com/Entertainment/TV/Tyler-Perrys-House-Of-Payne/Diary-Of-A-Faithful-Black-Man.aspx"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Now, being the media powerhouse that he is, Perry can afford to combine God and business. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/t/tyler_perry.html",
-      "sourceTitle": "Tyler Perry Quotes",
-      "text": "If you don't want my God here, you don't want me here either. God has been too good to me to go and try to sell out to get some money."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "If you don't want my God here, you don't want me here either. God has been too good to me to go and try to sell out to get some money.",
+      "sourceTitle": "Tyler Perry Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/t/tyler_perry.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "I guess we can expect more of the same from Tyler Perry."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Identity politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Tyler_Perry.php",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "As you can imagine given Perry's status among the American black community, he's an Obama supporter. He never gave money to a political candidate or cause until Obama came along, then he splurged: throwing $35,000 to Democrats and the Democratic National Committee.",
       "sourceTitle": "Tyler Perry's Federal Campaign Contribution Report",
-      "text": "As you can imagine given Perry's status among the American black community, he's an Obama supporter. He never gave money to a political candidate or cause until Obama came along, then he splurged: throwing $35,000 to Democrats and the Democratic National Committee."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Tyler_Perry.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thegrio.com/2012/03/12/tyler-perry-brings-obama-to-atlanta-with-35800-contributions/",
+      "parentId": 12,
+      "type": "text",
+      "text": "Then, in support of Obama's re-election campaign in 2012, Perry threw a high-priced fundraiser at his house in Atlanta for the president, charging $35,800 per person to get in.",
       "sourceTitle": "Tyler Perry brings Obama to Atlanta for high-priced event",
-      "text": "Then, in support of Obama's re-election campaign in 2012, Perry threw a high-priced fundraiser at his house in Atlanta for the president, charging $35,800 per person to get in."
+      "sourceUrl": "http://thegrio.com/2012/03/12/tyler-perry-brings-obama-to-atlanta-with-35800-contributions/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "text": "but I could be wrong. Perry might have just liked Obama for his politics, but that would be a little too coincidental."
+      "parentId": 13,
+      "type": "text",
+      "text": "It's probably racial politics"
     },
     {
-      "type": "break"
+      "type": "text",
+      "text": "but I could be wrong. Perry might have just liked Obama for his politics, but that would be a little too coincidental.",
+      "parentId": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "At the age of 42, Perry was as of yet unmarried and speculation swirled around the blogosphere that Perry might be gay, something that would have probably been shocking to his large, Christian audience. Then, after revealing the extent of the abuse during his childhood, Perry went on Oprah to talk about it. When Oprah asked if the events sexually confused him. Perry said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.oprah.com/oprahshow/Tyler-Perry-Speaks-Out-About-Being-Molested-and-the-Aftermath/8",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Yes, absolutely. How could it not? I knew I liked the little girls in the neighborhood, but this man was doing something to me and my body kept betraying me.",
       "sourceTitle": "Tyler Perry's Struggle to Understand Sexuality",
-      "text": "Yes, absolutely. How could it not? I knew I liked the little girls in the neighborhood, but this man was doing something to me and my body kept betraying me."
+      "sourceUrl": "http://www.oprah.com/oprahshow/Tyler-Perry-Speaks-Out-About-Being-Molested-and-the-Aftermath/8"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.blackmediascoop.com/2011/12/15/tyler-perry-getting-married-to-squash-gay-rumors/",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "And in 2011, Perry married, but many speculated that it was only to squash gay rumors.",
       "sourceTitle": "Tyler Perry Engaged?",
-      "text": "And in 2011, Perry married, but many speculated that it was only to squash gay rumors."
+      "sourceUrl": "http://www.blackmediascoop.com/2011/12/15/tyler-perry-getting-married-to-squash-gay-rumors/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=kQGMTPab9GQ",
+      "type": "text",
+      "text": "Regardless, we might be able to assume that Perry would be sympathetic toward the gay community, perhaps that he could even be liberal. He did continue to endorse Obama",
+      "parentId": 17
+    },
+    {
+      "parentId": 17,
+      "type": "emphasis",
+      "text": "after"
+    },
+    {
+      "type": "text",
+      "text": "the president came out to support gay marriage.",
+      "parentId": 17,
       "sourceTitle": "President Obama – Gay Marriage: Gay Couples \"Should Be Able To Marry.\"",
-      "text": "Regardless, we might be able to assume that Perry would be sympathetic toward the gay community, perhaps that he could even be liberal. He did continue to endorse Obama the president came out to support gay marriage."
+      "sourceUrl": "http://www.youtube.com/watch?v=kQGMTPab9GQ"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "We might have ourselves the rare combination of devout Christian, liberal Democrat."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

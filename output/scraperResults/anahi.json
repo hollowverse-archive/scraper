@@ -34,93 +34,139 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Anahí, whose full name is Anahí Giovanna Puente Portilla, was born in Mexico City, Mexico."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.spokeo.com/Anahi+1",
+      "parentId": 2,
+      "type": "text",
+      "text": "My research on Anahí would be a little more thorough if I spoke Spanish, but from what I could tell, the actress doesn't have a whole lot to say about religion. Most websites list her religion as Roman Catholic,",
       "sourceTitle": "Anahí (Singer).",
-      "text": "My research on Anahí would be a little more thorough if I spoke Spanish, but from what I could tell, the actress doesn't have a whole lot to say about religion. Most websites list her religion as Roman Catholic,"
+      "sourceUrl": "http://www.spokeo.com/Anahi+1"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Mexico",
+      "type": "text",
+      "text": "which would be expected considering she comes from a country that is over 80% Catholic.",
+      "parentId": 2,
       "sourceTitle": "Religion in Mexico.",
-      "text": "which would be expected considering she comes from a country that is over 80% Catholic."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Mexico"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "I couldn't find any information confirming that, but it seems like a good bet to me. Some of the lyrics in her song \"Te Puedo Escuchar\" imply that she's some sort of Christian, but not necessarily Catholic:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://lyricstranslate.com/en/te-puedo-escuchar-i-can-hear-you.html",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I know that your wings will stay with me/ That even from heaven, your embrace will be my shelter/ Divine angel, you protect me from all that is bad.",
       "sourceTitle": "Translation of \"Te puedo escuchar\" by Anahí from Spanish to English.",
-      "text": "I know that your wings will stay with me/ That even from heaven, your embrace will be my shelter/ Divine angel, you protect me from all that is bad."
+      "sourceUrl": "http://lyricstranslate.com/en/te-puedo-escuchar-i-can-hear-you.html"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Promoting Non-Violence"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.expedientenoticias.com/anahi-hace-campana-en-dia-electoral-2129",
-      "sourceTitle": "Anahi hace campaña en día electoral.",
-      "text": "Anahí supports the Ecologist Green Party of Mexico (PVEM)."
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://entretenimiento.univision.com/chismes/romances/article/2012-08-22/anahi-y-manuel-velasco-presumieron-su-amor-en-nueva-york",
+      "parentId": 8,
+      "type": "text",
+      "text": "Anahí supports the Ecologist Green Party of Mexico (PVEM).",
+      "sourceTitle": "Anahi hace campaña en día electoral.",
+      "sourceUrl": "http://www.expedientenoticias.com/anahi-hace-campana-en-dia-electoral-2129"
+    },
+    {
+      "type": "text",
+      "text": "Considering she's in a relationship with Manuel Velasco, a PVEM politician, that's probably a good move on her part.",
+      "parentId": 8,
       "sourceTitle": "Anahí y Manuel Valasco, virtual governador de Chiapas, presumieron su amor en Nueva York.",
-      "text": "Considering she's in a relationship with Manuel Velasco, a PVEM politician, that's probably a good move on her part."
+      "sourceUrl": "http://entretenimiento.univision.com/chismes/romances/article/2012-08-22/anahi-y-manuel-velasco-presumieron-su-amor-en-nueva-york"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.expedientenoticias.com/anahi-hace-campana-en-dia-electoral-2129",
+      "parentId": 9,
+      "type": "text",
+      "text": "She's also a fan of Enrique Nieto, a member of the Institutional Revolutionary Party (PRI), whom she supported during his successful bid for the presidency in 2012.",
       "sourceTitle": "Anahi hace campaña en día electoral.",
-      "text": "She's also a fan of Enrique Nieto, a member of the Institutional Revolutionary Party (PRI), whom she supported during his successful bid for the presidency in 2012."
+      "sourceUrl": "http://www.expedientenoticias.com/anahi-hace-campana-en-dia-electoral-2129"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "So I think we can safely say this actress and musician is left of the center."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.anahionline.com/web/2011/10/invita-yoko-ono-a-anahi-a-la-non-violence-foundation/",
+      "parentId": 11,
+      "type": "text",
+      "text": "She's also an advocate for non-violence, and has joined the Non-Violence Project as a Latin American ambassador to the campaign.",
       "sourceTitle": "Invita Yoko Ono a Anahi a la Non Violence Foundation.",
-      "text": "She's also an advocate for non-violence, and has joined the Non-Violence Project as a Latin American ambassador to the campaign."
+      "sourceUrl": "http://www.anahionline.com/web/2011/10/invita-yoko-ono-a-anahi-a-la-non-violence-foundation/"
     },
     {
-      "type": "sentence",
-      "text": "She frequently uses Twitter to promote her work with the project and encourages her fans to join the movement:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She frequently uses Twitter to promote her work with the project and encourages her fans to join the movement:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/Anahi/status/248553352558952448",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Peace is the responsibility of all, join the campaign @NVPMexico",
       "sourceTitle": "Anahi: La paz es responsibilidad de …",
-      "text": "Peace is the responsibility of all, join the campaign @NVPMexico"
+      "sourceUrl": "https://twitter.com/Anahi/status/248553352558952448"
     }
   ],
   "wikipediaData": {

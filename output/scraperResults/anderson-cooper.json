@@ -33,106 +33,142 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Anderson Cooper was born and raised in New York City. He is a direct descendent, on his mother's side, of the famously wealthy industrialist Vanderbilt family."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.trueknowledge.com/q/gloria_vanderbilt_religion",
+      "parentId": 2,
+      "type": "text",
+      "text": "Cooper's father died when he was 10 years old and his mother, the famous socialite and fashion designer Gloria Vanderbilt, was a Roman Catholic.",
       "sourceTitle": "Gloria Vanderbilt religion",
-      "text": "Cooper's father died when he was 10 years old and his mother, the famous socialite and fashion designer Gloria Vanderbilt, was a Roman Catholic."
+      "sourceUrl": "http://www.trueknowledge.com/q/gloria_vanderbilt_religion"
     },
     {
-      "type": "sentence",
-      "text": "This indicates at least an influence of Catholicism in Cooper's life."
+      "type": "text",
+      "text": "This indicates at least an influence of Catholicism in Cooper's life.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://nymag.com/nymetro/news/features/14301/index3.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "The man himself is very secretive about his personal life, religious beliefs, and political views. It is widely rumored that Cooper is gay but when he refuses to confirm or deny, he chalks up his overall secrecy to journalistic integrity, saying:\n<\nblockquote>You know, I understand why people might be interested. But I just don't talk about my personal life. It's a decision I made a long time ago, before I ever even knew anyone would be interested in my personal life. The whole thing about being a reporter is that you're supposed to be an observer and to be able to adapt with any group you're in, and I don't want to do anything that threatens that.",
       "sourceTitle": "Anderson Cooper's Hurricane Katrina Coverage",
-      "text": "The man himself is very secretive about his personal life, religious beliefs, and political views. It is widely rumored that Cooper is gay but when he refuses to confirm or deny, he chalks up his overall secrecy to journalistic integrity, saying:\n<\nblockquote>You know, I understand why people might be interested. But I just don't talk about my personal life. It's a decision I made a long time ago, before I ever even knew anyone would be interested in my personal life. The whole thing about being a reporter is that you're supposed to be an observer and to be able to adapt with any group you're in, and I don't want to do anything that threatens that."
+      "sourceUrl": "http://nymag.com/nymetro/news/features/14301/index3.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://nymag.com/nymetro/news/features/14301/index3.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "Despite the occasional emotional display,",
       "sourceTitle": "Anderson Cooper's Hurricane Katrina Coverage",
-      "text": "Despite the occasional emotional display,"
+      "sourceUrl": "http://nymag.com/nymetro/news/features/14301/index3.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ac360.blogs.cnn.com/2010/03/25/scientology-a-history-of-violence/",
+      "type": "text",
+      "text": "Cooper is known to be mostly objective. Not always, though, and at times, Cooper has shown his hand. He once aired a scathing report on the practices of leaders in the Church of Scientology,",
+      "parentId": 4,
       "sourceTitle": "Scientology: A history of violence",
-      "text": "Cooper is known to be mostly objective. Not always, though, and at times, Cooper has shown his hand. He once aired a scathing report on the practices of leaders in the Church of Scientology,"
+      "sourceUrl": "http://ac360.blogs.cnn.com/2010/03/25/scientology-a-history-of-violence/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newsbusters.org/blogs/tim-graham/2009/01/30/anderson-cooper-christianity-homosexuality-not-mutually-exclusive",
+      "type": "text",
+      "text": "once attempted to reconcile being gay and being a Christian,",
+      "parentId": 4,
       "sourceTitle": "Anderson Cooper: Christianity And Homosexuality 'Not Mutually Exclusive.",
-      "text": "once attempted to reconcile being gay and being a Christian,"
+      "sourceUrl": "http://newsbusters.org/blogs/tim-graham/2009/01/30/anderson-cooper-christianity-homosexuality-not-mutually-exclusive"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mediaite.com/tv/anderson-cooper-chastens-christine-odonnell-over-church-and-state-flap/",
+      "type": "text",
+      "text": "and once staunchly defended the separation of church and state.",
+      "parentId": 4,
       "sourceTitle": "Anderson Cooper and Christine O'Donnell: Separation of Church and State",
-      "text": "and once staunchly defended the separation of church and state."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.mediaite.com/tv/anderson-cooper-chastens-christine-odonnell-over-church-and-state-flap/"
     },
     {
       "type": "heading",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Objective politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Similar to Cooper's secrecy on religious and personal issues, he doesn't want his political opinions to be considered a factor in his ability to be a good journalist. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.ew.com/ew/article/0,,1196770,00.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I just don't believe in wearing my opinion on my sleeve. It's not my job to take a stand on issues. And as a viewer, I don't care what some overpaid, over-blow-dried anchor thinks about an issue.",
       "sourceTitle": "Booking Himself",
-      "text": "I just don't believe in wearing my opinion on my sleeve. It's not my job to take a stand on issues. And as a viewer, I don't care what some overpaid, over-blow-dried anchor thinks about an issue."
+      "sourceUrl": "http://www.ew.com/ew/article/0,,1196770,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.commentarymagazine.com/2011/06/15/the-liberal-bias-of-cnn%E2%80%99s-anderson-cooper/",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Conservatives regularly complain that the media has a liberal slant, and Cooper has not been immune to that criticism.",
       "sourceTitle": "The Liberal Bias of CNN's Anderson Cooper",
-      "text": "Conservatives regularly complain that the media has a liberal slant, and Cooper has not been immune to that criticism."
+      "sourceUrl": "http://www.commentarymagazine.com/2011/06/15/the-liberal-bias-of-cnn%E2%80%99s-anderson-cooper/"
     },
     {
-      "type": "sentence",
-      "text": "However, Cooper is regularly lauded for his objective stance to politics and society."
+      "type": "text",
+      "text": "However, Cooper is regularly lauded for his objective stance to politics and society.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/media_political_donations/Anderson_Cooper.php",
+      "parentId": 10,
+      "type": "text",
+      "text": "As far as political contributions, records show that Cooper donated, once and only once, $250 to a Republican candidate.",
       "sourceTitle": "Anderson Cooper's Federal Campaign Contribution Repor",
-      "text": "As far as political contributions, records show that Cooper donated, once and only once, $250 to a Republican candidate."
+      "sourceUrl": "http://www.newsmeat.com/media_political_donations/Anderson_Cooper.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "But! If you are going to say that Christianity and being gay can be reconciled, you're no conservative, at least by today's standards. So we're going to put Cooper in a very unique place: Republican and liberal. Feel free to offer a rebuttal, your opinion, or more evidence in the comments below."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -150,7 +186,7 @@
         "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26366280",
         "extmetadata": {
           "DateTime": {
-            "value": "2013-07-21 22:43:16",
+            "value": "2017-12-18 05:30:34",
             "source": "mediawiki-metadata",
             "hidden": ""
           },

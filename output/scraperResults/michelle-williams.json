@@ -32,94 +32,163 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Michelle Williams was born in Kalispell, Montana. She grew up there and in San Diego, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/06/25/michelle-williams-take-this-waltz-dawsons-creek_n_1620158.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Williams is notoriously reserved with the press,",
       "sourceTitle": "Michelle Williams, 'Take This Waltz' Star, On 'Dawson's Creek,' 'Couger Town,' And Not Watching 'Prometheus' In Her Spare Time.",
-      "text": "Williams is notoriously reserved with the press,"
+      "sourceUrl": "http://www.huffingtonpost.com/2012/06/25/michelle-williams-take-this-waltz-dawsons-creek_n_1620158.html"
     },
     {
-      "type": "sentence",
-      "text": "so there's not a whole lot of information about her opinions on much of anything."
+      "type": "text",
+      "text": "so there's not a whole lot of information about her opinions on much of anything.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/362/000109035/",
+      "parentId": 3,
+      "type": "text",
+      "text": "She took acting lessons at the Christian Youth Theater in San Diego, and went to a private Christian school there as well.",
       "sourceTitle": "Michelle Williams.",
-      "text": "She took acting lessons at the Christian Youth Theater in San Diego, and went to a private Christian school there as well."
+      "sourceUrl": "http://www.nndb.com/people/362/000109035/"
     },
     {
-      "type": "sentence",
-      "text": "The latter organization made the news when the headmaster publicly stated his disapproval of her role in the movie,  about a homosexual relationship between two men. He said,"
+      "type": "text",
+      "text": "The latter organization made the news when the headmaster publicly stated his disapproval of her role in the movie,",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Brokeback Mountain"
+    },
+    {
+      "type": "text",
+      "text": "about a homosexual relationship between two men. He said,",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.gossiprocks.com/forum/gossip-archive/12799-michelle-williams-christian-school-turns-their-backs-brokeback.html",
-      "sourceTitle": "Michelle Williams' christian school turns their backs on 'Brokeback.'",
-      "text": "Michelle doesn't represent the values of this institution. . . .  I hope we offered her something in life. But she made the kinds of choices of which we wouldn't approve. 'Brokeback Mountain' basically promotes a lifestyle we don't promote. It's not the word of God."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Michelle doesn't represent the values of this institution. . . .  I hope we offered her something in life. But she made the kinds of choices of which we wouldn't approve. 'Brokeback Mountain' basically promotes a lifestyle we don't promote. It's not the word of God.",
+      "sourceTitle": "Michelle Williams' christian school turns their backs on 'Brokeback.'",
+      "sourceUrl": "http://www.gossiprocks.com/forum/gossip-archive/12799-michelle-williams-christian-school-turns-their-backs-brokeback.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "As far as how she feels about Christianity now, I only found one vague reference to the religion that may or may not represent her views. Talking about the romantic relationship between two characters in one of her movies, she said that she thinks people are moving away from religion, and relationships are taking the place of the spiritual in people's lives:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/06/25/michelle-williams-take-this-waltz-dawsons-creek_n_1620158.html",
-      "sourceTitle": "Michelle Williams, 'Take This Waltz' Star, On 'Dawson's Creek,' 'Couger Town,' And Not Watching 'Prometheus' In Her Spare Time.",
-      "text": "[R]omantic love kind of replaces spiritual love these days. Because a relationship to God or church or something is lost. And in its place is romance. . . . So we look for our partners to kind of replace this ecstatic feeling that, maybe, human beings want to feel. Or used to feel. Or remember feeling."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "[R]omantic love kind of replaces spiritual love these days. Because a relationship to God or church or something is lost. And in its place is romance. . . . So we look for our partners to kind of replace this ecstatic feeling that, maybe, human beings want to feel. Or used to feel. Or remember feeling.",
+      "sourceTitle": "Michelle Williams, 'Take This Waltz' Star, On 'Dawson's Creek,' 'Couger Town,' And Not Watching 'Prometheus' In Her Spare Time.",
+      "sourceUrl": "http://www.huffingtonpost.com/2012/06/25/michelle-williams-take-this-waltz-dawsons-creek_n_1620158.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "She wasn't overt about it, but maybe that's how she feels about God these days. Relationships are spirituality. Sounds like maybe she's a Humanist."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "heading",
-      "text": "Politics"
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://archive.org/details/reportofofficial1978montrich",
+      "parentId": 10,
+      "type": "emphasis",
+      "text": "Brokeback"
+    },
+    {
+      "type": "text",
+      "text": "Politics",
+      "parentId": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Not surprisingly, she hasn't talked to the press about her political beliefs either. Her father was a Republican and ran twice (unsuccessfully) for the Senate in Montana,",
       "sourceTitle": "Report of the official canvass by County of votes cast at the general election, held in the State of Montana.",
-      "text": "Not surprisingly, she hasn't talked to the press about her political beliefs either. Her father was a Republican and ran twice (unsuccessfully) for the Senate in Montana,"
+      "sourceUrl": "http://archive.org/details/reportofofficial1978montrich"
     },
     {
-      "type": "sentence",
-      "text": "so we know she grew up in a conservative household."
+      "type": "text",
+      "text": "so we know she grew up in a conservative household.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "text": "There's nothing to indicate that she's a Republican now. And her role in , which was a breakthrough film for the gay community, makes her look more liberal than anything else. Although we have to be careful not to assume that just because an actor takes a certain role that it automatically reflects her worldview. But it indicates at the very least that she was not opposed to being associated with the gay rights movement."
+      "parentId": 12,
+      "type": "text",
+      "text": "There's nothing to indicate that she's a Republican now. And her role in"
     },
     {
-      "type": "break"
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "Brokeback Mountain"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": ", which was a breakthrough film for the gay community, makes her look more liberal than anything else. Although we have to be careful not to assume that just because an actor takes a certain role that it automatically reflects her worldview. But it indicates at the very least that she was not opposed to being associated with the gay rights movement.",
+      "parentId": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "I'm not going to take her silence on religion and politics as a lack of interest, so much as an interest in keeping her views private. Feel free to continue the speculation in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

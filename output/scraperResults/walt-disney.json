@@ -37,90 +37,132 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Walt Disney, whose full name is Walter Elias Disney, was born in Chicago, Illinois and grew up between Marceline, Missouri and Kansas City, Missouri. He died of lung cancer in Burbank, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pd/Walt_Disney.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Disney was a very devout Congregationalist Christian, the religion of his family, and was named after the family minister. He was unashamed and spoke of his faith publicly. He even had the first Disneyland dedicated by a Congregationalist reverend.",
       "sourceTitle": "The religion of filmmaker Walt Disney",
-      "text": "Disney was a very devout Congregationalist Christian, the religion of his family, and was named after the family minister. He was unashamed and spoke of his faith publicly. He even had the first Disneyland dedicated by a Congregationalist reverend."
+      "sourceUrl": "http://www.adherents.com/people/pd/Walt_Disney.html"
     },
     {
-      "type": "sentence",
-      "text": "He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.disneydreamer.com/Waltfaith.htm",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Whatever success I have had in bringing clean, informative entertainment to people of all ages, I attribute in great part to my Congregational upbringing and my lifelong habit of prayer. To me, today, at age sixty-one, all prayer, by the humble or highly placed, has one thing in common: supplication for strength and inspiration to carry on the best human impulses which should bind us together for a better world.",
       "sourceTitle": "Walt Disney on Faith",
-      "text": "Whatever success I have had in bringing clean, informative entertainment to people of all ages, I attribute in great part to my Congregational upbringing and my lifelong habit of prayer. To me, today, at age sixty-one, all prayer, by the humble or highly placed, has one thing in common: supplication for strength and inspiration to carry on the best human impulses which should bind us together for a better world."
+      "sourceUrl": "http://www.disneydreamer.com/Waltfaith.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.straightdope.com/columns/read/1623/was-walt-disney-a-fascist",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "There are many rumors that Disney was rabidly anti-Semitic. Some of this stems from Disney cartoon shorts featuring Jewish characters in a less-than-flattering light, while some of it stems from his association with various anti-Semites of the time.",
       "sourceTitle": "Was Walt Disney a fascist?",
-      "text": "There are many rumors that Disney was rabidly anti-Semitic. Some of this stems from Disney cartoon shorts featuring Jewish characters in a less-than-flattering light, while some of it stems from his association with various anti-Semites of the time."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.straightdope.com/columns/read/1623/was-walt-disney-a-fascist"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Cartoons and politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://boingboing.net/2007/03/07/walt-disney-bio-pull.html",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Disney's political leanings are well-known to be conservative, anti-union, and paranoid about communism. Disney was an associate of the poster boy for American anti-communism, Joe McCarthy, and even testified against some of his Hollywood peers in McCarthy's infamous House Un-American Activities Committee.",
       "sourceTitle": "Walt Disney bio pulls no punches, leaves Walt intact anyway.",
-      "text": "Disney's political leanings are well-known to be conservative, anti-union, and paranoid about communism. Disney was an associate of the poster boy for American anti-communism, Joe McCarthy, and even testified against some of his Hollywood peers in McCarthy's infamous House Un-American Activities Committee."
+      "sourceUrl": "http://boingboing.net/2007/03/07/walt-disney-bio-pull.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "There are rumors that he was a secret Nazi–what because of the rumors that he was anti-Semitic, hung around from time to time with Nazi sympathizers, and attended Nazi Party meetings. One of Disney's colleagues and Disney animator Art Babbitt once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.straightdope.com/columns/read/1623/was-walt-disney-a-fascist",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "In the immediate years before we entered [World War II], there was a small, but fiercely loyal, I suppose legal, following of the Nazi party…There were open meetings, anybody could attend and I wanted to see what was going on myself. On more than one occasion I observed Walt Disney and [Disney's lawyer] Gunther Lessing there, along with a lot of prominent Nazi-afflicted Hollywood personalities. Disney was going to meetings all the time.",
       "sourceTitle": "Was Walt Disney a fascist?",
-      "text": "In the immediate years before we entered [World War II], there was a small, but fiercely loyal, I suppose legal, following of the Nazi party…There were open meetings, anybody could attend and I wanted to see what was going on myself. On more than one occasion I observed Walt Disney and [Disney's lawyer] Gunther Lessing there, along with a lot of prominent Nazi-afflicted Hollywood personalities. Disney was going to meetings all the time."
+      "sourceUrl": "http://www.straightdope.com/columns/read/1623/was-walt-disney-a-fascist"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.parcbench.com/2010/09/02/artists-on-the-right-walt-disney-part-1/",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "But it's hard for anyone to believe that the man whose greatest success was entertaining children could be a Nazi–but it might be true. However, in terms of American politics, Disney was a staunch Republican and voted for the likes of Barry Goldwater for president and Ronald Reagan for California governor. But he only endorsed candidates after a writer's strike affected business, an event that is said to have very much affected Walt's political views.",
       "sourceTitle": "Artists on the Right: Walt Disney",
-      "text": "But it's hard for anyone to believe that the man whose greatest success was entertaining children could be a Nazi–but it might be true. However, in terms of American politics, Disney was a staunch Republican and voted for the likes of Barry Goldwater for president and Ronald Reagan for California governor. But he only endorsed candidates after a writer's strike affected business, an event that is said to have very much affected Walt's political views."
+      "sourceUrl": "http://www.parcbench.com/2010/09/02/artists-on-the-right-walt-disney-part-1/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000370/bio",
+      "parentId": 12,
+      "type": "text",
+      "text": "Disney's conservative views were manifested in his anti-pornography stance and the fact that he advocated the censorship of films, something he hoped to accomplish with his organization, the Motion Picture Alliance for the Preservation of American Ideals.",
       "sourceTitle": "Walt Disney – Biography",
-      "text": "Disney's conservative views were manifested in his anti-pornography stance and the fact that he advocated the censorship of films, something he hoped to accomplish with his organization, the Motion Picture Alliance for the Preservation of American Ideals."
+      "sourceUrl": "http://www.imdb.com/name/nm0000370/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Walt was certainly a pioneer, perhaps even a genius. And these things don't come without some controversy. It wouldn't be surprising if Disney had a few skeletons in the closet."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

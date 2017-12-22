@@ -33,90 +33,161 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "T-Pain, whose real name is Faheem Rasheed Najm, was born and raised in Tallahassee, Florida."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "Mr. Pain was raised a Muslim. But every chance he gets, he seems to want to  make it a big deal. He said:"
+      "parentId": 2,
+      "type": "text",
+      "text": "Mr. Pain was raised a Muslim. But every chance he gets, he seems to want to"
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "not"
+    },
+    {
+      "type": "text",
+      "text": "make it a big deal. He said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.news.com.au/escaping-tallahassee/story-e6frfn79-1111113720271",
-      "sourceTitle": "Escaping Tallahassee",
-      "text": "I'm still a person, a human being, no matter what religion I am… People don't even know. Me, Busta Rhymes, Lupe Fiasco – they don't even know we are Muslim. People think a Muslim has to have a turban or a big beard. It's stupid."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I'm still a person, a human being, no matter what religion I am… People don't even know. Me, Busta Rhymes, Lupe Fiasco – they don't even know we are Muslim. People think a Muslim has to have a turban or a big beard. It's stupid.",
+      "sourceTitle": "Escaping Tallahassee",
+      "sourceUrl": "http://www.news.com.au/escaping-tallahassee/story-e6frfn79-1111113720271"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "In fact, T-Pain's devotion to Islam is rather questionable. Based on this quote, he might want to talk to Chris Martin about \"alltheism.\" He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://elev8.com/577270/t-pain-on-being-a-muslim-married-to-a-christian-exclusive-video/",
-      "sourceTitle": "T-Pain On Being A Muslim Married To A Christian",
-      "text": "I don't think I like religion. I think it's another form of separation… I try not to put a label on my beliefs. I believe in God, I believe in Jesus. I was raised Muslim. I believe in everything. I believe in Buddha. I believe in whatever it is… I like free will."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I don't think I like religion. I think it's another form of separation… I try not to put a label on my beliefs. I believe in God, I believe in Jesus. I was raised Muslim. I believe in everything. I believe in Buddha. I believe in whatever it is… I like free will.",
+      "sourceTitle": "T-Pain On Being A Muslim Married To A Christian",
+      "sourceUrl": "http://elev8.com/577270/t-pain-on-being-a-muslim-married-to-a-christian-exclusive-video/"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Beyond that, with orthodox Muslims generally preaching the evils of drugs and alcohol, T-Pain doesn't seem that Muslim with songs like \"Bartender,\" \"Buy U a Drank,\" and \"One More Drink.\""
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Politics is so much better with auto-tune"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "T-Pain isn't much for politics. And he'll be the first to tell you that. There was a brief period when it seemed like Mr. Pain was endorsing the Republican Party and conservatives when he was cornered by conservative Fox News pundit Sean Hannity, who tricked him into the endorsement, asking the rapper to \"Say conservative victory 2010″ on camera, and T-Pain responded:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://sandrarose.com/2010/04/t-pain-sean-hannity-not-all-rappers-are-kool-aid-drinkers/",
-      "sourceTitle": "T-Pain & Sean Hannity: Not all rappers are Kool Aid drinkers",
-      "text": "Conservative victory 2010! You already know what it is! It's Hannity Baby, hey. T-Pain."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Conservative victory 2010! You already know what it is! It's Hannity Baby, hey. T-Pain.",
+      "sourceTitle": "T-Pain & Sean Hannity: Not all rappers are Kool Aid drinkers",
+      "sourceUrl": "http://sandrarose.com/2010/04/t-pain-sean-hannity-not-all-rappers-are-kool-aid-drinkers/"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "But T-Pain quickly realized he'd been duped and released this statement:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://nildoctrine.com/nil/t-pain-and-the-know-nothing-know-it-alls/",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "First off, I'm not even registered to vote. Second, this Hannity guy was blocking the door to my bus just to get that drop from me. If you go back through many interviews you will see I don't give a shit about politics because no matter who is in office, YOUR life is no different.",
       "sourceTitle": "T-Pain and the Know Nothing Know-It-Alls",
-      "text": "First off, I'm not even registered to vote. Second, this Hannity guy was blocking the door to my bus just to get that drop from me. If you go back through many interviews you will see I don't give a shit about politics because no matter who is in office, YOUR life is no different."
+      "sourceUrl": "http://nildoctrine.com/nil/t-pain-and-the-know-nothing-know-it-alls/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.blackcelebritygiving.com/2012/02/t-pain-launches-charity-organization-if-i-could-change-the-world-in-his-hometown-tallahassee-fl/",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Clearly, we've got an apolitical, apathetic celebrity–and he'll admit it. Is this a first? And adding to the evidence that T-Pain just doesn't give a shit, he even lets his fans pick what causes T-Pain will contribute his obligatory celebrity philanthropy to.",
       "sourceTitle": "T-Pain Launches Charity Organization; If I Could Change the World in his Hometown – Tallahassee, FL!",
-      "text": "Clearly, we've got an apolitical, apathetic celebrity–and he'll admit it. Is this a first? And adding to the evidence that T-Pain just doesn't give a shit, he even lets his fans pick what causes T-Pain will contribute his obligatory celebrity philanthropy to."
+      "sourceUrl": "http://www.blackcelebritygiving.com/2012/02/t-pain-launches-charity-organization-if-i-could-change-the-world-in-his-hometown-tallahassee-fl/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "T-Pain!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

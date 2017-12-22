@@ -34,107 +34,173 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Pink was born and raised in Doylestown, Pennsylvania."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Her father is a Catholic and her mother a Jew. It is traditional in Judaism that religious heritage is passed down through the mother, so Pink would be considered Jewish by fundamental sects of that religion."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christinamultimedia.com/newssource/index.php?date=2004-03&articleID=4250",
+      "parentId": 3,
+      "type": "text",
+      "text": "Pink doesn't talk much about religion or God, she seems more concerned with shooting guns",
       "sourceTitle": "Pinks Q Magazine Transcript",
-      "text": "Pink doesn't talk much about religion or God, she seems more concerned with shooting guns"
+      "sourceUrl": "http://www.christinamultimedia.com/newssource/index.php?date=2004-03&articleID=4250"
     },
     {
-      "type": "sentence",
-      "text": "or belting out epic party anthems."
+      "type": "text",
+      "text": "or belting out epic party anthems.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "text": "One of the few times Pink mentioned her Jewish heritage was when asked about Mel Gibson's highly anti-Semitic film,  Pink responded, saying:"
+      "parentId": 4,
+      "type": "text",
+      "text": "One of the few times Pink mentioned her Jewish heritage was when asked about Mel Gibson's highly anti-Semitic film,"
     },
     {
-      "type": "break"
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "The Passion of the Christ."
+    },
+    {
+      "type": "text",
+      "text": "Pink responded, saying:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Interfaith_Celebrities_Why_Pink_is_a_Mixed_Bag.shtml",
-      "sourceTitle": "Interfaith Celebrities: Why Pink is a Mixed Bag",
-      "text": "I'm a fan of [Gibson's] work. I think anybody with opinions like that needs well-wishing. And I'm Jewish. Alcohol makes you do crazy things."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I'm a fan of [Gibson's] work. I think anybody with opinions like that needs well-wishing. And I'm Jewish. Alcohol makes you do crazy things.",
+      "sourceTitle": "Interfaith Celebrities: Why Pink is a Mixed Bag",
+      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Interfaith_Celebrities_Why_Pink_is_a_Mixed_Bag.shtml"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Of course, the Jewish community wasn't too happy about that, with sentiments of 'you finally talk about being Jewish and it's to defend perhaps the world's most high-profile anti-Semite since Hitler.'"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Red, blue, or pink?"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.digitaljournal.com/article/283711",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Pink is a liberal, and by default, a Democrat. She is a huge animal rights supporter, even openly condemning the British royal family for fox hunting and wearing fur, calling Prince William a 'redneck.'",
       "sourceTitle": "Pink Calls Prince William 'Redneck' After Fox Hunting Letter",
-      "text": "Pink is a liberal, and by default, a Democrat. She is a huge animal rights supporter, even openly condemning the British royal family for fox hunting and wearing fur, calling Prince William a 'redneck.'"
+      "sourceUrl": "http://www.digitaljournal.com/article/283711"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usnews.com/news/blogs/washington-whispers/2009/09/29/singer-pink-a-peta-spokeswoman-cheers-michelle-obama",
+      "type": "text",
+      "text": "She is a spokesperson for People for the Ethical Treatment of Animals (PETA),",
+      "parentId": 9,
       "sourceTitle": "Singer Pink, a PETA Spokeswoman, Cheers Michelle Obama",
-      "text": "She is a spokesperson for People for the Ethical Treatment of Animals (PETA),"
+      "sourceUrl": "http://www.usnews.com/news/blogs/washington-whispers/2009/09/29/singer-pink-a-peta-spokeswoman-cheers-michelle-obama"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/502-pink",
+      "type": "text",
+      "text": "has publicly criticized Kentucky Fried Chicken for the poor treatment of animals in theirs supply line, and headlined a giant benefit concert in the U.K. for animal rights.",
+      "parentId": 9,
       "sourceTitle": "Pink",
-      "text": "has publicly criticized Kentucky Fried Chicken for the poor treatment of animals in theirs supply line, and headlined a giant benefit concert in the U.K. for animal rights."
+      "sourceUrl": "http://www.looktothestars.org/celebrity/502-pink"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "Pink's most significant political moment probably came with the release of her protest song, \"Dear Mr. President,\" in which she speaks out against the Bush administration and it's war policies. A couple of golden nuggets from that song include:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 11
     },
     {
-      "type": "quote",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "How can you say no child is left behind? We're not dumb and we're not blind. They're all sitting in your cells while you pave the road to hell. What kind of father would take his own daughter's rights away? And what kind of father might hate his own daughter if she were gay? I can only imagine what the first lady has to say: You've come a long way from whiskey and cocaine."
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Or the screeching climax of the song, when pink yells:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.azlyrics.com/lyrics/pink/dearmrpresident.html",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "You don't know nothing 'bout hard work!",
       "sourceTitle": "Pink Lyrics",
-      "text": "You don't know nothing 'bout hard work!"
+      "sourceUrl": "http://www.azlyrics.com/lyrics/pink/dearmrpresident.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Pink is certainly nothing if she's not passionate."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

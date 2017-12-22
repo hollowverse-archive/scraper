@@ -35,122 +35,179 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Meat Loaf, whose real name is Marvin Lee Aday, was born and raised in Dallas, Texas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://movies.yahoo.com/person/meat-loaf/biography.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Meat Loaf is a Christian who sang in his church choir as a kid and went to a Christian college.",
       "sourceTitle": "Meat Loaf Biography.",
-      "text": "Meat Loaf is a Christian who sang in his church choir as a kid and went to a Christian college."
+      "sourceUrl": "http://movies.yahoo.com/person/meat-loaf/biography.html"
     },
     {
-      "type": "sentence",
-      "text": "He believes God put him here for a reason:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He believes God put him here for a reason:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.pbs.org/wnet/tavissmiley/interviews/singer-actor-meat-loaf/",
-      "sourceTitle": "Singer-actor Meat Loaf.",
-      "text": "God put me on this Earth to help my fellow man, to have a kind heart, to be a good person."
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.providencejournal.com/breaking-news/2012/03/meat-loaf-says.html",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "God put me on this Earth to help my fellow man, to have a kind heart, to be a good person.",
+      "sourceTitle": "Singer-actor Meat Loaf.",
+      "sourceUrl": "http://www.pbs.org/wnet/tavissmiley/interviews/singer-actor-meat-loaf/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "And doing good for Meat Loaf does not include being a champion of the separation of church and state. Apparently the musician wasn't impressed when a student in Rhode Island challenged the constitutionality of a prayer that was hanging on the wall at her public high school.",
       "sourceTitle": "Singer Meat Loaf says new album's title inspired by news, Cranston prayer controversy.",
-      "text": "And doing good for Meat Loaf does not include being a champion of the separation of church and state. Apparently the musician wasn't impressed when a student in Rhode Island challenged the constitutionality of a prayer that was hanging on the wall at her public high school."
+      "sourceUrl": "http://news.providencejournal.com/breaking-news/2012/03/meat-loaf-says.html"
     },
     {
-      "type": "sentence",
-      "text": "About the controversy he said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "About the controversy he said,",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.pbs.org/wnet/tavissmiley/interviews/singer-actor-meat-loaf/",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "The world's gone to hell in a handbasket, because there's a lot more things to worry about than whether there's a prayer on the wall that's been on the wall for 50 years.",
       "sourceTitle": "Singer-actor Meat Loaf.",
-      "text": "The world's gone to hell in a handbasket, because there's a lot more things to worry about than whether there's a prayer on the wall that's been on the wall for 50 years."
+      "sourceUrl": "http://www.pbs.org/wnet/tavissmiley/interviews/singer-actor-meat-loaf/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.azlyrics.com/lyrics/meatloaf/ifgodcouldtalk.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "And you don't have to look too far to find Christianity in some of his lyrics too, with song like \"If God Could Talk\"",
       "sourceTitle": "MEAT LOAF LYRICS – If God Could Talk.",
-      "text": "And you don't have to look too far to find Christianity in some of his lyrics too, with song like \"If God Could Talk\""
+      "sourceUrl": "http://www.azlyrics.com/lyrics/meatloaf/ifgodcouldtalk.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.azlyrics.com/lyrics/meatloaf/idlovetobeasheavyasjesus.html",
+      "type": "text",
+      "text": "and \"(I'd Love to Be) As Heavy As Jesus.\"",
+      "parentId": 8,
       "sourceTitle": "MEAT LOAF LYRICS – (I'd Love To Be) As Heavy As Jesus.",
-      "text": "and \"(I'd Love to Be) As Heavy As Jesus.\""
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.azlyrics.com/lyrics/meatloaf/idlovetobeasheavyasjesus.html"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Politics of the Weird"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Meat Loaf doesn't consider himself aligned with any particular political party. He said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.esquire.com/the-side/qa/meat-loaf-interview-7161517",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I have a lot of views to the left, and I have a lot of views to the right, and that really doesn't put me in the middle. I don't know what that makes me. It makes me weird.",
       "sourceTitle": "Meat Loaf Interview.",
-      "text": "I have a lot of views to the left, and I have a lot of views to the right, and that really doesn't put me in the middle. I don't know what that makes me. It makes me weird."
+      "sourceUrl": "http://www.esquire.com/the-side/qa/meat-loaf-interview-7161517"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://transcripts.cnn.com/TRANSCRIPTS/1108/18/pmt.01.html",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "But he sure seems to lean right. When asked in 2011 who he would vote for in the next presidential election, he said he would vote for Chris Christie, the Republican Governor of New Jersey.",
       "sourceTitle": "Transcripts.",
-      "text": "But he sure seems to lean right. When asked in 2011 who he would vote for in the next presidential election, he said he would vote for Chris Christie, the Republican Governor of New Jersey."
+      "sourceUrl": "http://transcripts.cnn.com/TRANSCRIPTS/1108/18/pmt.01.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newsmeat.com/fec/bystate_detail.php?st=CA&last=aday&first=michael",
+      "type": "text",
+      "text": "And the only campaign contribution on record from Meat is for John McCain's presidential bid in 2008.",
+      "parentId": 13,
       "sourceTitle": "Michael Aday's federal campaign contribution search results.",
-      "text": "And the only campaign contribution on record from Meat is for John McCain's presidential bid in 2008."
+      "sourceUrl": "http://newsmeat.com/fec/bystate_detail.php?st=CA&last=aday&first=michael"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.businessweek.com/stories/2001-01-21/a-whirlwind-tour-of-inauguration-day",
+      "type": "text",
+      "text": "He also apparently attended George W. Bush's inauguration in 2000.",
+      "parentId": 13,
       "sourceTitle": "A Whirlwind Tour of Inauguration Day.",
-      "text": "He also apparently attended George W. Bush's inauguration in 2000."
+      "sourceUrl": "http://www.businessweek.com/stories/2001-01-21/a-whirlwind-tour-of-inauguration-day"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://transcripts.cnn.com/TRANSCRIPTS/1108/18/pmt.01.html",
+      "parentId": 14,
+      "type": "text",
+      "text": "He almost sounds like a could have joined the Occupy Wall Street movement when he said he blames politicians and bankers–and only less so the American people–for the financial crisis.",
       "sourceTitle": "Transcripts.",
-      "text": "He almost sounds like a could have joined the Occupy Wall Street movement when he said he blames politicians and bankers–and only less so the American people–for the financial crisis."
+      "sourceUrl": "http://transcripts.cnn.com/TRANSCRIPTS/1108/18/pmt.01.html"
     },
     {
-      "type": "sentence",
-      "text": "But then again, one doesn't need to be a Democrat to echo those sentiments."
+      "type": "text",
+      "text": "But then again, one doesn't need to be a Democrat to echo those sentiments.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "Meat Loaf may deny it, but he sure sounds like a Republican to me."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

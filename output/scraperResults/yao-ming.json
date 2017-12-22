@@ -30,92 +30,148 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Yao Ming was born and raised in Shanghai, China."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_China",
+      "parentId": 2,
+      "type": "text",
+      "text": "There's no reliable information that I could find about Yao's religious preferences, which is a pretty good indication that he doesn't have any to speak of. A little under half of the Chinese population does not associate with a religion,",
       "sourceTitle": "Religion in China.",
-      "text": "There's no reliable information that I could find about Yao's religious preferences, which is a pretty good indication that he doesn't have any to speak of. A little under half of the Chinese population does not associate with a religion,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_China"
     },
     {
-      "type": "sentence",
-      "text": "so that is definitely a good bet."
+      "type": "text",
+      "text": "so that is definitely a good bet.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "One fan claims that in  Yao is meditating before a game. That could possibly indicate an interest in Buddhism, or even Taoism. But he could also be praying. Or just concentrating really hard. And anyway, aren't all those things kind of the same in the end?"
+      "parentId": 3,
+      "type": "text",
+      "text": "One fan claims that in"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "link",
+      "text": "this picture",
+      "sourceUrl": "http://www.flickr.com/photos/johnball/2427699521/"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": "Yao is meditating before a game. That could possibly indicate an interest in Buddhism, or even Taoism. But he could also be praying. Or just concentrating really hard. And anyway, aren't all those things kind of the same in the end?",
+      "parentId": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "Let's just assume for now that he was just thinking about winning the game, and call him non-religious."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 5
     },
     {
-      "type": "heading",
+      "parentId": 5,
+      "type": "text",
       "text": "Yao for President!"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "In what is apparently not an uncommon move for celebrities in China, Yao Ming has decided to enter into politics. In early 2012, he joined the Chinese People's Political Consultative Conference (CPPCC) as its youngest member. A spokesman for the former basketball star said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://behindthewall.nbcnews.com/_news/2012/01/20/10197252-yao-mings-political-debut-is-an-eye-opener-for-some?lite",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Yao wants to use his influence to do good deeds for society, but not to seek a political position.",
       "sourceTitle": "Yao Ming's political debut is an eye-opener (for some).",
-      "text": "Yao wants to use his influence to do good deeds for society, but not to seek a political position."
+      "sourceUrl": "http://behindthewall.nbcnews.com/_news/2012/01/20/10197252-yao-mings-political-debut-is-an-eye-opener-for-some?lite"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://asiancorrespondent.com/74757/yao-ming-is-chinas-newest-popular-controversial-celebrity-politician/",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "And he seems to take it pretty seriously. Or at least more seriously than some of his fellow committee members. (Check out"
+    },
+    {
+      "parentId": 9,
+      "type": "link",
+      "text": "this picture",
+      "sourceUrl": "http://www.google.com/imgres?um=1&hl=en&sa=N&tbo=d&rlz=1C1ASUT_enUS499US499&biw=1366&bih=643&tbm=isch&tbnid=eXxizGcZZQsYoM:&imgrefurl=http://behindthewall.nbcnews.com/_news/2012/01/20/10197252-yao-mings-political-debut-is-an-eye-opener-for-some%3Flite&docid=G0wr64opnZAmHM&imgurl=http://m.static.newsvine.com/servista/imagesizer%253Ffile%253Dedflanagan27C086AE-ACF3-263E-E128-251C725620D0.jpg%2526width%253D600&w=600&h=419&ei=Qcz5UOf4HaTYigKN5oDYAQ&zoom=1&iact=hc&vpx=277&vpy=134&dur=813&hovh=188&hovw=269&tx=160&ty=99&sig=100862210527794923060&page=1&tbnh=148&tbnw=233&start=0&ndsp=31&ved=1t:429,r:2,s:0,i:91"
+    },
+    {
+      "type": "text",
+      "text": ".) The purpose of the CPPCC is supposedly to advise the Communist Party on issues affecting a wide diversity of groups, but in reality it doesn't have all that much power.",
+      "parentId": 9,
       "sourceTitle": "Yao Ming is China's newest popular, controversial celebrity politician.",
-      "text": "And he seems to take it pretty seriously. Or at least more seriously than some of his fellow committee members. (Check out .) The purpose of the CPPCC is supposedly to advise the Communist Party on issues affecting a wide diversity of groups, but in reality it doesn't have all that much power."
+      "sourceUrl": "http://asiancorrespondent.com/74757/yao-ming-is-chinas-newest-popular-controversial-celebrity-politician/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.xinhuanet.com/english/2007-09/14/content_6720883.htm",
+      "parentId": 10,
+      "type": "text",
+      "text": "Perhpas Yao can be more effective in influencing change outside the political realm. He has helped raised money for education for China's poorest children,",
       "sourceTitle": "Basketball stars raise 7 mln yuan at charity auction.",
-      "text": "Perhpas Yao can be more effective in influencing change outside the political realm. He has helped raised money for education for China's poorest children,"
+      "sourceUrl": "http://news.xinhuanet.com/english/2007-09/14/content_6720883.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://planetsave.com/2012/08/17/rhino-crisis-round-up-yao-ming-in-kenya-more/",
+      "type": "text",
+      "text": "and he's thrown his celebrity behind several environmental causes. He participated in a film meant to bring awareness to endangered African rhinoceroses and elephants,",
+      "parentId": 10,
       "sourceTitle": "Rhino Crisis Round Up: Yao Ming in Kenya & More.",
-      "text": "and he's thrown his celebrity behind several environmental causes. He participated in a film meant to bring awareness to endangered African rhinoceroses and elephants,"
+      "sourceUrl": "http://planetsave.com/2012/08/17/rhino-crisis-round-up-yao-ming-in-kenya-more/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wildaid.org/news/yao-ming-calls-shark-fin-ban-china",
+      "type": "text",
+      "text": "and he has joined with the organization WildAid to urge the Chinese government to ban the sale of shark fins from several endangered shark populations, which are the essential ingredient in the popular Chinese dish, shark fin soup.",
+      "parentId": 10,
       "sourceTitle": "Yao Ming Calls for a Shark Fin Ban in China.",
-      "text": "and he has joined with the organization WildAid to urge the Chinese government to ban the sale of shark fins from several endangered shark populations, which are the essential ingredient in the popular Chinese dish, shark fin soup."
+      "sourceUrl": "http://wildaid.org/news/yao-ming-calls-shark-fin-ban-china"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "Whichever form it takes, it looks like Yao Ming is out to use his celebrity to make positive change in China."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

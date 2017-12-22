@@ -30,80 +30,151 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Michael C. Hall was born and raised in Raleigh, North Carolina."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.people.com/people/package/gallery/0,,20315920_20635373_21207520,00.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Hall is not particularly forthcoming about his religious affiliations, if he has any. The"
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "Dexter"
+    },
+    {
+      "type": "text",
+      "text": "actor apparently sang in a church choir when he was young,",
+      "parentId": 2,
       "sourceTitle": "Sexiest Men Alive: 50 Hot Guys from 50 States.",
-      "text": "Hall is not particularly forthcoming about his religious affiliations, if he has any. The  actor apparently sang in a church choir when he was young,"
+      "sourceUrl": "http://www.people.com/people/package/gallery/0,,20315920_20635373_21207520,00.html"
     },
     {
-      "type": "sentence",
-      "text": "so we can assume some sort of Christian background, but I have no reason to believe he carried it with him into adulthood."
+      "type": "text",
+      "text": "so we can assume some sort of Christian background, but I have no reason to believe he carried it with him into adulthood.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://darklydexter.com/articles/michael-c-hall-if-theres-a-god-in-dexters-world-its-harry/",
+      "parentId": 3,
+      "type": "text",
+      "text": "One season of his hit show revolved around a spiritual/religious theme, and he did plenty of talking about his character's relationship with God,",
       "sourceTitle": "Michael C. Hall: 'If There's A God In Dexter's World, It's Harry.'",
-      "text": "One season of his hit show revolved around a spiritual/religious theme, and he did plenty of talking about his character's relationship with God,"
+      "sourceUrl": "http://darklydexter.com/articles/michael-c-hall-if-theres-a-god-in-dexters-world-its-harry/"
     },
     {
-      "type": "sentence",
-      "text": "but nothing about his own. And that's probably revealing. Either he is very intent on keeping his views private, or he's non-religious. We'll have to stick with the latter until further notice."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but nothing about his own. And that's probably revealing. Either he is very intent on keeping his views private, or he's non-religious. We'll have to stick with the latter until further notice.",
+      "parentId": 3
     },
     {
       "type": "heading",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "From Fiction to Murder"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Hall doesn't have anything to say about partisan politics. He doesn't have a current Twitter account, he doesn't talk about it in interviews, and it doesn't appear that he's made any large campaign contributions. So whether he is intentionally silent or just doesn't care, we can't know."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://entertainment.time.com/2008/01/30/dexter_decency_and_dvrs/",
+      "parentId": 6,
+      "type": "text",
+      "text": "Some controversy has surrounded Hall however. In"
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "Dexter"
+    },
+    {
+      "type": "text",
+      "text": "Hall plays the eponymous protagonist good-guy serial killer, and the show has received some criticism for its positive characterization of a violent murderer.",
+      "parentId": 6,
       "sourceTitle": "Dexter, Decency and DVRs.",
-      "text": "Some controversy has surrounded Hall however. In  Hall plays the eponymous protagonist good-guy serial killer, and the show has received some criticism for its positive characterization of a violent murderer."
+      "sourceUrl": "http://entertainment.time.com/2008/01/30/dexter_decency_and_dvrs/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.ca/2012/12/14/mark-twitchell-michael-c-hall-dexter_n_2302465.html",
+      "type": "text",
+      "text": "Beyond that, at least several convicted murderers have cited Hall's character as inspiration.",
+      "parentId": 6,
       "sourceTitle": "Michael C. Hall, 'Dexter' Star Horrified By Mark Twitchell Case, Convicted Killer Who Took Inspiration From Show.",
-      "text": "Beyond that, at least several convicted murderers have cited Hall's character as inspiration."
+      "sourceUrl": "http://www.huffingtonpost.ca/2012/12/14/mark-twitchell-michael-c-hall-dexter_n_2302465.html"
     },
     {
-      "type": "sentence",
-      "text": "So what does Hall think about these murders and violence on television? He seems a little torn. He said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "So what does Hall think about these murders and violence on television? He seems a little torn. He said,",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.ca/2012/12/14/mark-twitchell-michael-c-hall-dexter_n_2302465.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I don't think it is a primer on serial killing or it advocates the lifestyle. . . . I wouldn't stop making"
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "Dexter"
+    },
+    {
+      "type": "text",
+      "text": "because someone was fascinated by it only in that way. I try to tell myself that their fixated nature would have done it one way or the other. But it seems that",
+      "parentId": 8
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "Dexter"
+    },
+    {
+      "type": "text",
+      "text": "had something to do with it. It's horrifying.",
+      "parentId": 8,
       "sourceTitle": "Michael C. Hall, 'Dexter' Star Horrified By Mark Twitchell Case, Convicted Killer Who Took Inspiration From Show.",
-      "text": "I don't think it is a primer on serial killing or it advocates the lifestyle. . . . I wouldn't stop making  because someone was fascinated by it only in that way. I try to tell myself that their fixated nature would have done it one way or the other. But it seems that  had something to do with it. It's horrifying."
+      "sourceUrl": "http://www.huffingtonpost.ca/2012/12/14/mark-twitchell-michael-c-hall-dexter_n_2302465.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "That sounds like a very agnostic position to take, but it doesn't look like he's thinking of quitting the show any time soon. If you know anything else about Hall's religion or politics, drop us a line in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -36,120 +36,170 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Alphonse, or Al Capone was born and raised in New York City. He died in 1947 of a cardiac arrest at the age of 48."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Capone came from a family of Italian immigrants, and so a family of Catholics. But his early experience with the church wasn't all that great, and could have indirectly led to his career as one of the most notorious American criminals of all time."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biography.com/people/al-capone-9237536",
+      "parentId": 3,
+      "type": "text",
+      "text": "He went to a strict and brutal Catholic school as a young boy. At the age of 14, he rebelled by hitting one of his female teachers, and never returned. It was during his time on the streets as a teenager that he made connections with the world of gangsters.",
       "sourceTitle": "Al Capone Biography.",
-      "text": "He went to a strict and brutal Catholic school as a young boy. At the age of 14, he rebelled by hitting one of his female teachers, and never returned. It was during his time on the streets as a teenager that he made connections with the world of gangsters."
+      "sourceUrl": "http://www.biography.com/people/al-capone-9237536"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.myalcaponemuseum.com/id4.htm",
+      "parentId": 4,
+      "type": "text",
+      "text": "It doesn't appear that this fostered a connection with Catholicism during Capone's life. There's no indication that he was particularly religious–some Catholic medals found behind the safe in his office, presumably given to him by his mother, were probably more of an indication of her faith rather than his own.",
       "sourceTitle": "Interesting items retrieved from Al Capone's Lexington office suite and hallway.",
-      "text": "It doesn't appear that this fostered a connection with Catholicism during Capone's life. There's no indication that he was particularly religious–some Catholic medals found behind the safe in his office, presumably given to him by his mother, were probably more of an indication of her faith rather than his own."
+      "sourceUrl": "http://www.myalcaponemuseum.com/id4.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.google.com/newspapers?nid=860&dat=19390324&id=lU8hAAAAIBAJ&sjid=RYMFAAAAIBAJ&pg=2119,3266509",
+      "parentId": 5,
+      "type": "text",
+      "text": "An article from a 1939 newspaper claims Capone found religion while serving his prison sentence after a Baptist minister preached to the inmates,",
       "sourceTitle": "Ellensburg Daily Record.",
-      "text": "An article from a 1939 newspaper claims Capone found religion while serving his prison sentence after a Baptist minister preached to the inmates,"
+      "sourceUrl": "http://news.google.com/newspapers?nid=860&dat=19390324&id=lU8hAAAAIBAJ&sjid=RYMFAAAAIBAJ&pg=2119,3266509"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biography.com/people/al-capone-9237536?page=6",
+      "type": "text",
+      "text": "but considering that later in life he suffered dementia caused by an untreated case of syphilis,",
+      "parentId": 5,
       "sourceTitle": "Al Capone Biography.",
-      "text": "but considering that later in life he suffered dementia caused by an untreated case of syphilis,"
+      "sourceUrl": "http://www.biography.com/people/al-capone-9237536?page=6"
     },
     {
-      "type": "sentence",
-      "text": "it's tough to know if his interest was genuine."
+      "type": "text",
+      "text": "it's tough to know if his interest was genuine.",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "For all intents and purposes, I'd say it's safe to call Capone a seriously lapsed Catholic."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "The Original Gangster"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "You could call Capone a laissez-faire capitalist and maybe a Machiavellian. But regardless, he embraced the system that allowed him to become one of the most successful mob bosses of all time. He said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/al_capone.html",
-      "sourceTitle": "Al Capone Quotes.",
-      "text": "This American system of ours, call it Americanism, call it capitalism, call it what you will, gives each and every one of us a great opportunity if we only seize it with both hands and make the most of it."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "This American system of ours, call it Americanism, call it capitalism, call it what you will, gives each and every one of us a great opportunity if we only seize it with both hands and make the most of it.",
+      "sourceTitle": "Al Capone Quotes.",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/al_capone.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Capone is one of the prohibition-era's most notorious symbols. His rise to power, defined by his willingness to murder his enemies, coincided with the failed experiment of banning the production, sale, and transport of alcohol in the United States. It was this law which provided him with an underground economy upon which to profit."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biography.com/people/al-capone-9237536?page=2",
+      "parentId": 12,
+      "type": "text",
+      "text": "And beyond that, Capone and his racket"
+    },
+    {
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "became"
+    },
+    {
+      "type": "text",
+      "text": "the government that was supposed to bring him to justice. They infiltrated police departments, elected offices in the city government,",
+      "parentId": 12,
       "sourceTitle": "Al Capone Biography.",
-      "text": "And beyond that, Capone and his racket  the government that was supposed to bring him to justice. They infiltrated police departments, elected offices in the city government,"
+      "sourceUrl": "http://www.biography.com/people/al-capone-9237536?page=2"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pbs.org/kenburns/prohibition/media_detail/S0987/",
+      "type": "text",
+      "text": "and paid off politicians. Capone reportedly gave Chicago Mayor Big Bill Thompson a quarter of a million dollars to protect his interests.",
+      "parentId": 12,
       "sourceTitle": "Prohibition: Big Bill Thompson.",
-      "text": "and paid off politicians. Capone reportedly gave Chicago Mayor Big Bill Thompson a quarter of a million dollars to protect his interests."
+      "sourceUrl": "http://www.pbs.org/kenburns/prohibition/media_detail/S0987/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biography.com/people/al-capone-9237536?page=4",
+      "parentId": 13,
+      "type": "text",
+      "text": "After a particularly brutal massacre of a rival gang, he was nabbed for tax evasion, and spent most of the rest of his life in jail.",
       "sourceTitle": "Al Capone Biography.",
-      "text": "After a particularly brutal massacre of a rival gang, he was nabbed for tax evasion, and spent most of the rest of his life in jail."
+      "sourceUrl": "http://www.biography.com/people/al-capone-9237536?page=4"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2010/04/23/us/23cnccapone.html",
+      "type": "text",
+      "text": "But, because Americans love a good outlaw, and much to the chagrin of Chicago's current leadership, he's remained one of the most glorified American criminals ever.",
+      "parentId": 13,
       "sourceTitle": "Capone's Legacy Endures, to Chicago's Dismay.",
-      "text": "But, because Americans love a good outlaw, and much to the chagrin of Chicago's current leadership, he's remained one of the most glorified American criminals ever."
+      "sourceUrl": "http://www.nytimes.com/2010/04/23/us/23cnccapone.html"
     },
     {
-      "type": "sentence",
-      "text": "Maybe it's the unwillingness to really consider the implications of some of his most violent deeds. Ah, but one must never let the truth get in the way of a good story."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Maybe it's the unwillingness to really consider the implications of some of his most violent deeds. Ah, but one must never let the truth get in the way of a good story.",
+      "parentId": 13
     }
   ],
   "wikipediaData": {

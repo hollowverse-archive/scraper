@@ -34,84 +34,125 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.btea.org/aboutus.asp",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
+      "text": "Tim Tebow was born in the Philippines while both of his Baptist parents were there doing missionary work for their church. Tim was home schooled until college so that he could be indoctrinated with Christian values without the pesky interference of public education.",
       "sourceTitle": "About the Tebow Family",
-      "text": "Tim Tebow was born in the Philippines while both of his Baptist parents were there doing missionary work for their church. Tim was home schooled until college so that he could be indoctrinated with Christian values without the pesky interference of public education."
+      "sourceUrl": "http://www.btea.org/aboutus.asp"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "God is the biggest thing in Tebow's life, probably even bigger than his status as a star quarterback for the Denver Broncos."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "He is frequently a topic of discussion because he doesn't shy away from outwardly expressing his religious views, either by praying on the football field or talking God during interviews. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.nypost.com/p/sports/more_sports/can_argue_tebow_must_see_oKFttFRUY4C7WwYW47MBkP",
-      "sourceTitle": "Bronco's Tim Tebow's religion continues to polarize",
-      "text": "I'm just very thankful for the platform that God has given me . . . because I have the opportunity to affect people."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I'm just very thankful for the platform that God has given me . . . because I have the opportunity to affect people.",
+      "sourceTitle": "Bronco's Tim Tebow's religion continues to polarize",
+      "sourceUrl": "http://www.nypost.com/p/sports/more_sports/can_argue_tebow_must_see_oKFttFRUY4C7WwYW47MBkP"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "He's a football missionary! He's just out there throwing the pigskin and spreading the good word."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cbsnews.com/8301-31751_162-57358717-10391697/poll-does-god-help-tebow-win-43-say-yes/",
+      "parentId": 7,
+      "type": "text",
+      "text": "While many think that God should stay out of football, Tebow has a lot of supporters. In fact, 43% of those asked if God helps Tebow win games in a CBS poll said yes.",
       "sourceTitle": "Poll: Does God Help Tebow Win? 43% say yes!",
-      "text": "While many think that God should stay out of football, Tebow has a lot of supporters. In fact, 43% of those asked if God helps Tebow win games in a CBS poll said yes."
+      "sourceUrl": "http://www.cbsnews.com/8301-31751_162-57358717-10391697/poll-does-god-help-tebow-win-43-say-yes/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nypost.com/p/sports/more_sports/can_argue_tebow_must_see_oKFttFRUY4C7WwYW47MBkP",
+      "parentId": 8,
+      "type": "text",
+      "text": "And better still, a Christian sect called the Church of God in Denver actually thinks Tebow is the Jesus Christ, coming back to save the world!",
       "sourceTitle": "Bronco's Tim Tebow's religion continues to polarize",
-      "text": "And better still, a Christian sect called the Church of God in Denver actually thinks Tebow is the Jesus Christ, coming back to save the world!"
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.nypost.com/p/sports/more_sports/can_argue_tebow_must_see_oKFttFRUY4C7WwYW47MBkP"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "The next Rick Santorum?"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/TimTebow",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Tebow hasn't said much about his specific political views. His religiosity might lead him in that respect, but no evidence for or against. Even his Twitter feed is suspiciously vacant between November 4 and November 12, 2012 (election time).",
       "sourceTitle": "Tim Tebow (Tim Tebow) on Twitter",
-      "text": "Tebow hasn't said much about his specific political views. His religiosity might lead him in that respect, but no evidence for or against. Even his Twitter feed is suspiciously vacant between November 4 and November 12, 2012 (election time)."
+      "sourceUrl": "https://twitter.com/TimTebow"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "However, Tebow has expressed some interest in pursuing a career in politics. Maybe he could ask Rick Santorum to be his mentor. Those two might get along, except for the fact that Santorum is Catholic and Tebow is Evangelical. Maybe not. Tebow said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 12
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.cbsnews.com/8301-400_162-57372306/tim-tebow-wont-rule-out-a-future-in-politics/",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "[Politics] could be something in my future. You know, it's something I also think about and definitely pray about.",
       "sourceTitle": "Tim Tebow won't rule out a future in politics",
-      "text": "[Politics] could be something in my future. You know, it's something I also think about and definitely pray about."
+      "sourceUrl": "http://www.cbsnews.com/8301-400_162-57372306/tim-tebow-wont-rule-out-a-future-in-politics/"
     }
   ],
   "wikipediaData": {

@@ -33,136 +33,197 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Steve McQueen, whose full name was Terence Stephen McQueen, was born in Beech Grove, Indiana and raised in Slater, Missouri, Los Angeles, California and Chino, California. McQueen died in 1980 in Cuidad Juarez, Mexico of a heart attack brought on by complications of lung cancer treatment."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.people.com/people/archive/article/0,,20077667,00.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "McQueen was raised a Catholic,",
       "sourceTitle": "Steve McQueen, Stricken with Cancer, Seeks a Cure at Controversial Mexican Clinic",
-      "text": "McQueen was raised a Catholic,"
+      "sourceUrl": "http://www.people.com/people/archive/article/0,,20077667,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biography.com/people/steve-mcqueen-9394602",
+      "type": "text",
+      "text": "but it probably wasn't all that serious an influence in his life considering McQueen bounced between family members in the Midwest and California, weathered abuse, turned to crime and various other tell-tale symptoms of a rough childhood.",
+      "parentId": 2,
       "sourceTitle": "Steve McQueen Biography",
-      "text": "but it probably wasn't all that serious an influence in his life considering McQueen bounced between family members in the Midwest and California, weathered abuse, turned to crime and various other tell-tale symptoms of a rough childhood."
+      "sourceUrl": "http://www.biography.com/people/steve-mcqueen-9394602"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "As an adult, McQueen seemed more an adherent of a religion of which he was the deity. When asked at the height of his fame if he believed in God, McQueen said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://southerngospelyankee.wordpress.com/2012/12/09/greater-grace-a-story-of-god-redemption-and-steve-mcqueen/",
-      "sourceTitle": "Greater Grace: A Story of God, Redemption, and Steve McQueen",
-      "text": "I believe in me. God will be number one as long as I'm number one."
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mcqueenonline.com/humanitarian.htm",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I believe in me. God will be number one as long as I'm number one.",
+      "sourceTitle": "Greater Grace: A Story of God, Redemption, and Steve McQueen",
+      "sourceUrl": "http://southerngospelyankee.wordpress.com/2012/12/09/greater-grace-a-story-of-god-redemption-and-steve-mcqueen/"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Although, McQueen was always a philanthropist for organizations benefiting troubled youth, and some of these organizations were Catholic-based.",
       "sourceTitle": "Steve McQueen's Humanitarian Activities",
-      "text": "Although, McQueen was always a philanthropist for organizations benefiting troubled youth, and some of these organizations were Catholic-based."
+      "sourceUrl": "http://www.mcqueenonline.com/humanitarian.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://southerngospelyankee.wordpress.com/2012/12/09/greater-grace-a-story-of-god-redemption-and-steve-mcqueen/",
+      "parentId": 7,
+      "type": "text",
+      "text": "Toward the end of his life, McQueen's health was failing and the doctors ordered him to move to somewhere with good air and a low-stress environment. He moved to little Santa Paula, California and took up flying airplanes. One of his pals around the airport was a fellow named Sammy Mason, who was a born-again Christian. McQueen was very impressed by Mason's approach to life and started attending Mason's church in Santa Paula, called the Ventura Missionary Church.",
       "sourceTitle": "Greater Grace: A Story of God, Redemption, and Steve McQueen",
-      "text": "Toward the end of his life, McQueen's health was failing and the doctors ordered him to move to somewhere with good air and a low-stress environment. He moved to little Santa Paula, California and took up flying airplanes. One of his pals around the airport was a fellow named Sammy Mason, who was a born-again Christian. McQueen was very impressed by Mason's approach to life and started attending Mason's church in Santa Paula, called the Ventura Missionary Church."
+      "sourceUrl": "http://southerngospelyankee.wordpress.com/2012/12/09/greater-grace-a-story-of-god-redemption-and-steve-mcqueen/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "McQueen attended the church for several months before meeting the pastor and professing his rebirth in Christ–a necessary step to becoming a born-again Christian. The pastor recalls McQueen saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://southerngospelyankee.wordpress.com/2012/12/09/greater-grace-a-story-of-god-redemption-and-steve-mcqueen/",
-      "sourceTitle": "Greater Grace: A Story of God, Redemption, and Steve McQueen",
-      "text": "When you invited people to pray with you to receive Christ, I prayed. So yes, I'm a born-again Christian."
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://southerngospelyankee.wordpress.com/2012/12/09/greater-grace-a-story-of-god-redemption-and-steve-mcqueen/",
-      "sourceTitle": "Greater Grace: A Story of God, Redemption, and Steve McQueen",
-      "text": "McQueen died less than a year later, an open Bible on his chest."
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
     },
     {
-      "type": "break"
+      "parentId": 10,
+      "type": "text",
+      "text": "When you invited people to pray with you to receive Christ, I prayed. So yes, I'm a born-again Christian.",
+      "sourceTitle": "Greater Grace: A Story of God, Redemption, and Steve McQueen",
+      "sourceUrl": "http://southerngospelyankee.wordpress.com/2012/12/09/greater-grace-a-story-of-god-redemption-and-steve-mcqueen/"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "McQueen died less than a year later, an open Bible on his chest.",
+      "sourceTitle": "Greater Grace: A Story of God, Redemption, and Steve McQueen",
+      "sourceUrl": "http://southerngospelyankee.wordpress.com/2012/12/09/greater-grace-a-story-of-god-redemption-and-steve-mcqueen/"
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Political frenemies"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "McQueen was what you might call a rugged individualist. He was known for his risky, hedonistic lifestyle–drugs, car racing, flying and women. He put a high value on personal freedom, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000537/bio",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Stardom equals freedom. It's the only equation that matters.",
       "sourceTitle": "Steve McQueen – Biography",
-      "text": "Stardom equals freedom. It's the only equation that matters."
+      "sourceUrl": "http://www.imdb.com/name/nm0000537/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000537/bio",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "We might want to call him a libertarian. He did seem to lean right during the time in U.S. history when you were either a \"hippie\" or a \"square.\" He endorsed Republican Richard Nixon for president in 1968, even though he somehow made it onto Nixon's list of enemies.",
       "sourceTitle": "Steve McQueen – Biography",
-      "text": "We might want to call him a libertarian. He did seem to lean right during the time in U.S. history when you were either a \"hippie\" or a \"square.\" He endorsed Republican Richard Nixon for president in 1968, even though he somehow made it onto Nixon's list of enemies."
+      "sourceUrl": "http://www.imdb.com/name/nm0000537/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000537/bio",
+      "type": "text",
+      "text": "Plus–and this might negate any claims that he was a libertarian–he supported the war in Vietnam and refused to participate in the Civil Rights march on Washington.",
+      "parentId": 16,
       "sourceTitle": "Steve McQueen – Biography",
-      "text": "Plus–and this might negate any claims that he was a libertarian–he supported the war in Vietnam and refused to participate in the Civil Rights march on Washington."
+      "sourceUrl": "http://www.imdb.com/name/nm0000537/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000537/bio",
+      "parentId": 17,
+      "type": "text",
+      "text": "In today's political climate, he would certainly lean right on the contentious gun control issue. After it was made public in 1969 that McQueen was on the top of serial killer Charles Manson's \"to kill\" list, McQueen carried a concealed weapon with him wherever he went.",
       "sourceTitle": "Steve McQueen – Biography",
-      "text": "In today's political climate, he would certainly lean right on the contentious gun control issue. After it was made public in 1969 that McQueen was on the top of serial killer Charles Manson's \"to kill\" list, McQueen carried a concealed weapon with him wherever he went."
+      "sourceUrl": "http://www.imdb.com/name/nm0000537/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blogs.villagevoice.com/dailymusto/2012/01/steve_mcqueen.php",
+      "parentId": 18,
+      "type": "text",
+      "text": "But maybe that was just a part of his bad-ass image. He was accused by fellow actors of being a poseur and a fake.",
       "sourceTitle": "\"Steve McQueen Was A Fake\" Says Movie Costar",
-      "text": "But maybe that was just a part of his bad-ass image. He was accused by fellow actors of being a poseur and a fake."
+      "sourceUrl": "http://blogs.villagevoice.com/dailymusto/2012/01/steve_mcqueen.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
+      "parentId": 19,
+      "type": "text",
       "text": "What do you guys think?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

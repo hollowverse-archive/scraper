@@ -33,97 +33,174 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Bethany Hamilton was born and raised on the island of Kauai, Hawaii."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://religion.blogs.cnn.com/2011/04/12/soul-surfer-opens-after-fights-over-depicting-faith/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Hamilton is a devout Christian. Currently, we know she attends the North Shore Christian Church in Hawaii",
       "sourceTitle": "'Soul Surfer' opens after fights over depicting faith",
-      "text": "Hamilton is a devout Christian. Currently, we know she attends the North Shore Christian Church in Hawaii"
+      "sourceUrl": "http://religion.blogs.cnn.com/2011/04/12/soul-surfer-opens-after-fights-over-depicting-faith/"
     },
     {
-      "type": "sentence",
-      "text": "but nowhere can I find enough about that church to determine which denomination of Christianity it would most closely identify with."
+      "type": "text",
+      "text": "but nowhere can I find enough about that church to determine which denomination of Christianity it would most closely identify with.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.goodreads.com/author/quotes/298611.Bethany_Hamilton",
+      "parentId": 3,
+      "type": "text",
+      "text": "Nevertheless, Hamilton's faith speaks for itself. She says things like \"[the Hawaiian sunset is] God painting his storyboard on the sky\"",
       "sourceTitle": "Bethany Hamilton Quotes (Author of Soul Surfer)",
-      "text": "Nevertheless, Hamilton's faith speaks for itself. She says things like \"[the Hawaiian sunset is] God painting his storyboard on the sky\""
+      "sourceUrl": "http://www.goodreads.com/author/quotes/298611.Bethany_Hamilton"
     },
     {
-      "type": "sentence",
-      "text": "and very regularly tweets inspirational God-inspired or Bible-derived messages on her . Hamilton even views the incident in which a tiger shark took her left arm as \"God's will.\" She said:"
+      "type": "text",
+      "text": "and very regularly tweets inspirational God-inspired or Bible-derived messages on her",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "link",
+      "text": "Twitter feed",
+      "sourceUrl": "https://twitter.com/bethanyhamilton"
+    },
+    {
+      "type": "text",
+      "text": ". Hamilton even views the incident in which a tiger shark took her left arm as \"God's will.\" She said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.opposingviews.com/i/bethany-hamilton-s-brutal-shark-attack-was-god-s-will#",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "It was God's will for it to happen. So much good has come out of what seems like a terrible thing, and it's been an amazing journey. I'm still doing what I want to do. More than what I ever dreamed of. And I know that God's in control, that this has been a part of His plan.",
       "sourceTitle": "Bethany Hamilton's Brutal Shark Attack was 'God's Will.'",
-      "text": "It was God's will for it to happen. So much good has come out of what seems like a terrible thing, and it's been an amazing journey. I'm still doing what I want to do. More than what I ever dreamed of. And I know that God's in control, that this has been a part of His plan."
+      "sourceUrl": "http://www.opposingviews.com/i/bethany-hamilton-s-brutal-shark-attack-was-god-s-will#"
     },
     {
-      "type": "sentence",
-      "text": "In 2011, Hamilton made a  for the Christian organization, I Am Second, espousing this very view, either unaware or apathetic to the fact that it is a bit controversial."
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "text",
+      "text": "In 2011, Hamilton made a"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://religion.blogs.cnn.com/2011/04/12/soul-surfer-opens-after-fights-over-depicting-faith/",
+      "parentId": 6,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.youtube.com/watch?v=37l1WfdFNQE"
+    },
+    {
+      "type": "text",
+      "text": "for the Christian organization, I Am Second, espousing this very view, either unaware or apathetic to the fact that it is a bit controversial.",
+      "parentId": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "This particular aspect of Hamilton's story was a point of contention for filmmakers at Sony Pictures working on the silver screen adaptation of Hamilton's life,"
+    },
+    {
+      "parentId": 7,
+      "type": "emphasis",
+      "text": "Soul Surfer"
+    },
+    {
+      "type": "text",
+      "text": ". Many felt a discussion of fatalism in this context might be a bit too heavy and loud arguments were commonplace on the set. In the end, religious references were included in the film.",
+      "parentId": 7,
       "sourceTitle": "'Soul Surfer' opens after fights over depicting faith",
-      "text": "This particular aspect of Hamilton's story was a point of contention for filmmakers at Sony Pictures working on the silver screen adaptation of Hamilton's life, . Many felt a discussion of fatalism in this context might be a bit too heavy and loud arguments were commonplace on the set. In the end, religious references were included in the film."
+      "sourceUrl": "http://religion.blogs.cnn.com/2011/04/12/soul-surfer-opens-after-fights-over-depicting-faith/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "Regardless, Hamilton seems to be genuinely satisfied with life despite her handicap, and her faith is likely instrumental in the fact."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Politics of food"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Hamilton seems rather non-political. As far as I can tell, she's made no fincancial contributions, claimed no endorsements, or appeared in any PSA's. She didn't even have anything to say about Obama or Romney during the 2012 election. And being a celebrity without mentioning Obama during election season is enough to cause speculation of right-ward leanings."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "Beyond that, the only thing vaguely political on Hamilton's digital record is a criticism of Obama. Here's the rub, it shows disappointment in an issue usually carried under the banner of liberalism (though early Tea Party supporters also organized under this issue)–that being genetically modified organisms (GMOs) in food. She tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/bethanyhamilton/status/134834814145671170",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "4 years ago Barack Obama today promised to \"label GMOs\" (genetically modified organisms) in r food. Rt",
       "sourceTitle": "bethanyhamilton: 4 years ago Barack Obama today…",
-      "text": "4 years ago Barack Obama today promised to \"label GMOs\" (genetically modified organisms) in r food. Rt"
+      "sourceUrl": "https://twitter.com/bethanyhamilton/status/134834814145671170"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "So what do you think, Hollowverse readers? Liberal?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

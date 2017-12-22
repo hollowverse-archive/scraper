@@ -34,144 +34,234 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "James Madison was born and raised on Montpelier, a plantation in Orange County, Virginia. He died there in 1836 at the age of 85."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pm/James_Madison.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Madison was an Episcopalian,",
       "sourceTitle": "The religion of James Madison Jr., 4th U.S. President.",
-      "text": "Madison was an Episcopalian,"
+      "sourceUrl": "http://www.adherents.com/people/pm/James_Madison.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.loc.gov/loc/madison/hutson-paper.html",
+      "type": "text",
+      "text": "but it was under Presbyterian educators that he studied theology as a post-graduate, and briefly considered entering the ministry before giving it up for a life of politics.",
+      "parentId": 2,
       "sourceTitle": "James Madison and the Social Utility of Religion: Risks vs. Rewards.",
-      "text": "but it was under Presbyterian educators that he studied theology as a post-graduate, and briefly considered entering the ministry before giving it up for a life of politics."
+      "sourceUrl": "http://www.loc.gov/loc/madison/hutson-paper.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.loc.gov/loc/madison/hutson-paper.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Scholars are divided as to whether Madison was a devoted Christian or a deist with a strong belief in God.",
       "sourceTitle": "James Madison and the Social Utility of Religion: Risks vs. Rewards.",
-      "text": "Scholars are divided as to whether Madison was a devoted Christian or a deist with a strong belief in God."
+      "sourceUrl": "http://www.loc.gov/loc/madison/hutson-paper.html"
     },
     {
-      "type": "sentence",
-      "text": "At times he sounds quite devout, as when he wrote to a friend, encouraging him to make sure he was in God's good grace:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "At times he sounds quite devout, as when he wrote to a friend, encouraging him to make sure he was in God's good grace:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.wallbuilders.com/libissuesarticles.asp?id=105",
-      "sourceTitle": "James Madison and Religion in Public.",
-      "text": "[A] watchful eye must be kept on ourselves lest, while we are building ideal monuments of renown and bliss here, we neglect to have our names enrolled in the Annals of Heaven."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "[A] watchful eye must be kept on ourselves lest, while we are building ideal monuments of renown and bliss here, we neglect to have our names enrolled in the Annals of Heaven.",
+      "sourceTitle": "James Madison and Religion in Public.",
+      "sourceUrl": "http://www.wallbuilders.com/libissuesarticles.asp?id=105"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "And at other times he is mostly silent on his personal beliefs, focusing instead on his distrust of religion in the hands of government. In describing his belief that every person should be free to exercise the religion of his choosing, Madison wrote,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://atheism.about.com/library/quotes/bl_q_JMadison.htm",
-      "sourceTitle": "Quotes on Religion – James Madison.",
-      "text": "The religion, then, of every man must be left to the conviction and conscience of every man: and that it is the right of every man to exercise it as these may dictate."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "The religion, then, of every man must be left to the conviction and conscience of every man: and that it is the right of every man to exercise it as these may dictate.",
+      "sourceTitle": "Quotes on Religion – James Madison.",
+      "sourceUrl": "http://atheism.about.com/library/quotes/bl_q_JMadison.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "It seems likely that Madison shared a deist worldview with several other of the Founding Fathers, but regardless of whether he considered himself a Christian or not, he clearly thought that belief in God was essential to humanity. He wrote,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 10
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.history.org/foundation/journal/spring09/deism.cfm",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Belief in a God All Powerful wise and good is so essential to the moral order of the World and to the happiness of man, that arguments which enforce it cannot be drawn from too many sources.",
       "sourceTitle": "Deism.",
-      "text": "Belief in a God All Powerful wise and good is so essential to the moral order of the World and to the happiness of man, that arguments which enforce it cannot be drawn from too many sources."
+      "sourceUrl": "http://www.history.org/foundation/journal/spring09/deism.cfm"
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "type": "heading",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Father of the Constitution"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://millercenter.org/president/madison/essays/biography/1",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "James Madison's role in the creation of the United States government was so integral that he earned the nickname \"Father of the Constitution.\" It was his \"Virginia Plan\" upon which the constitution was based.",
       "sourceTitle": "American President: James Madison: A Life in Brief.",
-      "text": "James Madison's role in the creation of the United States government was so integral that he earned the nickname \"Father of the Constitution.\" It was his \"Virginia Plan\" upon which the constitution was based."
+      "sourceUrl": "http://millercenter.org/president/madison/essays/biography/1"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.history.army.mil/books/RevWar/ss/madison.htm",
+      "type": "text",
+      "text": "Following the constitution's creation, his co-authorship of the",
+      "parentId": 14
+    },
+    {
+      "parentId": 14,
+      "type": "emphasis",
+      "text": "Federalist Papers"
+    },
+    {
+      "type": "text",
+      "text": ", a series of essays on republicanism, helped convince states to ratify the document. That series of essay is still used today by courts to understand the intents of the Founders.",
+      "parentId": 14,
       "sourceTitle": "James Madison.",
-      "text": "Following the constitution's creation, his co-authorship of the , a series of essays on republicanism, helped convince states to ratify the document. That series of essay is still used today by courts to understand the intents of the Founders."
+      "sourceUrl": "http://www.history.army.mil/books/RevWar/ss/madison.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://millercenter.org/president/madison/essays/biography/1",
+      "parentId": 15,
+      "type": "text",
+      "text": "As a member of the first Congress, Madison helped to create and introduced the Bill of Rights, restricting the power of the federal government and safeguarding individual liberties. That document became a cornerstone of American culture, as revered as the original Constitution itself.",
       "sourceTitle": "America President: James Madison: A Life in Brief.",
-      "text": "As a member of the first Congress, Madison helped to create and introduced the Bill of Rights, restricting the power of the federal government and safeguarding individual liberties. That document became a cornerstone of American culture, as revered as the original Constitution itself."
+      "sourceUrl": "http://millercenter.org/president/madison/essays/biography/1"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.history.army.mil/books/RevWar/ss/madison.htm",
+      "parentId": 16,
+      "type": "text",
+      "text": "He was also involved in the creation of the first political parties in the United States. Along with Thomas Jefferson, he founded the Democratic-Republican party, which opposed the Federalist party and emphasized states' rights.",
       "sourceTitle": "James Madison.",
-      "text": "He was also involved in the creation of the first political parties in the United States. Along with Thomas Jefferson, he founded the Democratic-Republican party, which opposed the Federalist party and emphasized states' rights."
+      "sourceUrl": "http://www.history.army.mil/books/RevWar/ss/madison.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtonpost.com/local/james-madison-states-rights/2012/09/30/12a8a696-0b3c-11e2-a310-2363842b7057_video.html?reload=true",
+      "type": "text",
+      "text": "In spite of that, Madison had a deep suspicion of states' rights and believed the federal government, by its sheer size, was less likely to pass unjust laws.",
+      "parentId": 16,
       "sourceTitle": "James Madison: States rights.",
-      "text": "In spite of that, Madison had a deep suspicion of states' rights and believed the federal government, by its sheer size, was less likely to pass unjust laws."
+      "sourceUrl": "http://www.washingtonpost.com/local/james-madison-states-rights/2012/09/30/12a8a696-0b3c-11e2-a310-2363842b7057_video.html?reload=true"
     },
     {
-      "type": "sentence",
-      "text": "Today, maybe he would support the Democrats and their belief in large pieces of social legislation like the Affordable Care Act, or Obamacare. Or maybe his focus on individual rights would put him in the Libertarian camp."
+      "type": "text",
+      "text": "Today, maybe he would support the Democrats and their belief in large pieces of social legislation like the Affordable Care Act, or Obamacare. Or maybe his focus on individual rights would put him in the Libertarian camp.",
+      "parentId": 16
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.history.army.mil/books/RevWar/ss/madison.htm",
+      "parentId": 17,
+      "type": "text",
+      "text": "But I digress. Madison served two terms as the nation's fourth president, during which he presided over the War of 1812, which was largely perceived as a victory for the young country, and for the president.",
       "sourceTitle": "James Madison.",
-      "text": "But I digress. Madison served two terms as the nation's fourth president, during which he presided over the War of 1812, which was largely perceived as a victory for the young country, and for the president."
+      "sourceUrl": "http://www.history.army.mil/books/RevWar/ss/madison.htm"
     },
     {
-      "type": "sentence",
-      "text": "But as it goes today, Madison is not remembered for his time in the White House, but as one of the most important of the Founding Fathers, and as a true champion of individual rights."
+      "type": "text",
+      "text": "But as it goes today, Madison is not remembered for his time in the White House, but as one of the most important of the Founding Fathers, and as a true champion of individual rights.",
+      "parentId": 17
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "This article does not begin to do justice to the his political views on individual liberty, his distrust of religion in government, or his wariness of war. If you're interested, I recommend looking into it further. Meanwhile, I'll leave you with one of the most repeated and quintessential Madison quotes:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 19
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/james_madison_3.html",
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "What is government itself but the greatest of all reflections on human nature? If men were angels, no government would be necessary. If angels were to govern men, neither external nor internal controls on government would be necessary.",
       "sourceTitle": "James Madison Quotes Page 3.",
-      "text": "What is government itself but the greatest of all reflections on human nature? If men were angels, no government would be necessary. If angels were to govern men, neither external nor internal controls on government would be necessary."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/james_madison_3.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 19
     }
   ],
   "wikipediaData": {

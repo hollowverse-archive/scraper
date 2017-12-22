@@ -35,96 +35,148 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.contactmusic.com/news-article/snoop-unveils-church.going-past",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
+      "text": "Snoop Dogg grew up in Long Beach, California. He began his musical career early, playing piano at a local Baptist church.",
       "sourceTitle": "Snoop Dogg – Snoop Unveils Church-Going Past",
-      "text": "Snoop Dogg grew up in Long Beach, California. He began his musical career early, playing piano at a local Baptist church."
+      "sourceUrl": "http://www.contactmusic.com/news-article/snoop-unveils-church.going-past"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://alexkoritz.wordpress.com/2008/04/02/rapper-snoop-dogg-converts-to-mormonism-hilarious/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Very little about Snoop Dogg is religious and nothing much came to light until 2008 when Snoop Dogg confessed to converting to Mormonism.",
       "sourceTitle": "Rapper Snoop Dogg converts to Mormonism – Hilarious",
-      "text": "Very little about Snoop Dogg is religious and nothing much came to light until 2008 when Snoop Dogg confessed to converting to Mormonism."
+      "sourceUrl": "http://alexkoritz.wordpress.com/2008/04/02/rapper-snoop-dogg-converts-to-mormonism-hilarious/"
     },
     {
-      "type": "sentence",
-      "text": "Recounting his experience with the Mormon missionaries, Snoop said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Recounting his experience with the Mormon missionaries, Snoop said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://alexkoritz.wordpress.com/2008/04/02/rapper-snoop-dogg-converts-to-mormonism-hilarious/",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I was hooked from the start. We talked about the purpose of life, played Mousetrap, and ate brownies. The kids thought it was off the hook, for real.",
       "sourceTitle": "Rapper Snoop Dogg converts to Mormonism – Hilarious",
-      "text": "I was hooked from the start. We talked about the purpose of life, played Mousetrap, and ate brownies. The kids thought it was off the hook, for real."
+      "sourceUrl": "http://alexkoritz.wordpress.com/2008/04/02/rapper-snoop-dogg-converts-to-mormonism-hilarious/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nme.com/news/snoop-dogg/43135",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Mormonism tends to frown upon things like \"sippin' on gin and juice\" and \"smoking chronic\" and rumors flew that Snoop's conversion was actually a ploy to gain the favor of a Utah judge who had charged him with a probation violation. It seems likely because less than a year later, Snoop converted to Islam after watching a Louis Farrakhan film.",
       "sourceTitle": "Snoop Dogg joins Nation Of Islam",
-      "text": "Mormonism tends to frown upon things like \"sippin' on gin and juice\" and \"smoking chronic\" and rumors flew that Snoop's conversion was actually a ploy to gain the favor of a Utah judge who had charged him with a probation violation. It seems likely because less than a year later, Snoop converted to Islam after watching a Louis Farrakhan film."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.nme.com/news/snoop-dogg/43135"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "The thoughtful pimp"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://act4victory.org/snoop-dogg-talks-politics/",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Politically, Snoop Dogg is complex, nuanced. During the Democratic presidential primaries in 2008, he said he equally supported both Hillary Clinton and Barack Obama, saying that they both seemed to have the people's best interest at heart.",
       "sourceTitle": "Snoop Dogg talks politics",
-      "text": "Politically, Snoop Dogg is complex, nuanced. During the Democratic presidential primaries in 2008, he said he equally supported both Hillary Clinton and Barack Obama, saying that they both seemed to have the people's best interest at heart."
+      "sourceUrl": "http://act4victory.org/snoop-dogg-talks-politics/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "When Obama won the primary and was running for president, Snoop supported him as a boost of confidence for the black community, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.usnews.com/opinion/articles/2008/09/30/seriously-snoop-dogg",
-      "sourceTitle": "Seriously? Snoop Dogg",
-      "text": "People that I know that have never cared about politics are registering to vote this time: gang members, ex-cons, you name it. I hate to see a lot of that hope go down the drain, and if [Obama] loses, it will."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "People that I know that have never cared about politics are registering to vote this time: gang members, ex-cons, you name it. I hate to see a lot of that hope go down the drain, and if [Obama] loses, it will.",
+      "sourceTitle": "Seriously? Snoop Dogg",
+      "sourceUrl": "http://www.usnews.com/opinion/articles/2008/09/30/seriously-snoop-dogg"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "But after Obama's victory, Snoop Dogg was possibly the first, if not the only, high-profile black man to question the new president and even said the Bill Clinton was truly the first black president:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/media/2008/apr/03/realitytv.television",
-      "sourceTitle": "At home with the Doggs",
-      "text": "He was closest we gonna get to the first black president. He related to black needs and black values, black understanding and racism."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "He was closest we gonna get to the first black president. He related to black needs and black values, black understanding and racism.",
+      "sourceTitle": "At home with the Doggs",
+      "sourceUrl": "http://www.guardian.co.uk/media/2008/apr/03/realitytv.television"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "It seems this rapper whose music seems more about sex, pimps & ho's, and smoking reefer is possibly quite misunderstood. There's a very good chance he's much more than most of us have given him credit for."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/blogs/politics/2012/01/snoop-dogg-for-ron-paul/",
+      "parentId": 15,
+      "type": "text",
+      "text": "Of course, in the 2012 election, he supports Ron Paul–but only because he's the only candidate who will legalize marijuana.",
       "sourceTitle": "Snoop Dogg for Ron Paul?",
-      "text": "Of course, in the 2012 election, he supports Ron Paul–but only because he's the only candidate who will legalize marijuana."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://abcnews.go.com/blogs/politics/2012/01/snoop-dogg-for-ron-paul/"
     }
   ],
   "wikipediaData": {

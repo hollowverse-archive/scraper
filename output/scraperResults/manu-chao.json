@@ -35,146 +35,273 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Manu Chao, born José-Manuel Thomas Arthur Chao, was born in Paris, France and grew up just outside Paris in Boulogne and Sèvres."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/music/2007/jul/15/worldmusic",
+      "parentId": 2,
+      "type": "text",
+      "text": "I didn't manage to find any overt references to Chao's religion, but there are a few cryptic ideas here and there. In one article, the writer vaguely mentions that before Chao and his band go on stage, \"there are hugs and prayers.\"",
       "sourceTitle": "Manu Chao: world beater.",
-      "text": "I didn't manage to find any overt references to Chao's religion, but there are a few cryptic ideas here and there. In one article, the writer vaguely mentions that before Chao and his band go on stage, \"there are hugs and prayers.\""
+      "sourceUrl": "http://www.guardian.co.uk/music/2007/jul/15/worldmusic"
     },
     {
-      "type": "sentence",
-      "text": "And later in the article Chao mentions that he met the devil twice, in Tokyo and Madrid:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And later in the article Chao mentions that he met the devil twice, in Tokyo and Madrid:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/music/2007/jul/15/worldmusic",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "He was like a man and I spoke to him–but I know he was the devil.",
       "sourceTitle": "Manu Chao: world beater.",
-      "text": "He was like a man and I spoke to him–but I know he was the devil."
+      "sourceUrl": "http://www.guardian.co.uk/music/2007/jul/15/worldmusic"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/music/2007/jul/15/worldmusic",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "It's tough to know exactly how to interpret that, but I'm guessing he doesn't speak of the devil within the parameters of any specific religion, because he also talks about meeting shamans and meditating.",
       "sourceTitle": "Manu Chao: world beater.",
-      "text": "It's tough to know exactly how to interpret that, but I'm guessing he doesn't speak of the devil within the parameters of any specific religion, because he also talks about meeting shamans and meditating."
+      "sourceUrl": "http://www.guardian.co.uk/music/2007/jul/15/worldmusic"
     },
     {
-      "type": "sentence",
-      "text": "With all his travelling and the great respect he holds for other cultures, I'm going to guess his spirituality takes on a meta-religious form."
+      "type": "text",
+      "text": "With all his travelling and the great respect he holds for other cultures, I'm going to guess his spirituality takes on a meta-religious form.",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "But luckily, religion isn't the only issue we tackle here at the Hollowverse, and Chao is far less vague about the other one."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Global Activism and the Least Worst Way"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/music/2007/jul/15/worldmusic",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Politics is in Chao's blood: his grandfather was sentenced to death by Francisco Franco, forcing his parents to emigrate to France.",
       "sourceTitle": "Manu Chao: world beater.",
-      "text": "Politics is in Chao's blood: his grandfather was sentenced to death by Francisco Franco, forcing his parents to emigrate to France."
+      "sourceUrl": "http://www.guardian.co.uk/music/2007/jul/15/worldmusic"
     },
     {
-      "type": "sentence",
-      "text": "He described his parents as activists, and said politics has been a part of his life since he was a kid. With that background in his head and in his veins, Chao began his music career as a left-wing activist."
+      "type": "text",
+      "text": "He described his parents as activists, and said politics has been a part of his life since he was a kid. With that background in his head and in his veins, Chao began his music career as a left-wing activist.",
+      "parentId": 8
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://lyricstranslate.com/en/-clandestine.html",
+      "parentId": 9,
+      "type": "text",
+      "text": "Many of his songs speak to the world's disenfranchised, poor, and under-represented. He sings of illegal immigrants in \""
+    },
+    {
+      "parentId": 9,
+      "type": "link",
+      "text": "Clandestino",
+      "sourceUrl": "http://www.youtube.com/watch?v=rSEUH4KRfN8"
+    },
+    {
+      "type": "text",
+      "text": ",\"",
+      "parentId": 9,
       "sourceTitle": "Translation of \"Clandestino\" by Manu Chao from Spanish to English.",
-      "text": "Many of his songs speak to the world's disenfranchised, poor, and under-represented. He sings of illegal immigrants in \",\""
+      "sourceUrl": "http://lyricstranslate.com/en/-clandestine.html"
     },
     {
-      "type": "sentence",
-      "text": "the corruption and oppression inherent in politics in \",\" and the horrific extent of violence across the globe in \".\" But Chao's interest in global politics goes far beyond his lyrics."
+      "type": "text",
+      "text": "the corruption and oppression inherent in politics in \"",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "parentId": 9,
+      "type": "link",
+      "text": "Politik Kills",
+      "sourceUrl": "http://www.youtube.com/watch?v=KV0-biHAtNY"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/music/2007/jul/15/worldmusic",
+      "type": "text",
+      "text": ",\" and the horrific extent of violence across the globe in \"",
+      "parentId": 9
+    },
+    {
+      "parentId": 9,
+      "type": "link",
+      "text": "Rainin In Paradize",
+      "sourceUrl": "http://www.youtube.com/watch?v=jSRaSfq8Oiw"
+    },
+    {
+      "type": "text",
+      "text": ".\" But Chao's interest in global politics goes far beyond his lyrics.",
+      "parentId": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "He is truly a citizen of the world–a traveler. And he's not flying around in first class, spending the night in hotels; he's walking around meeting the everyday citizens in all their impoverished, hungry, oppressed, and violent glory. When one reporter mentioned that he enjoyed São Paulo, Brazil, Chao responded that in order to understand the city better, he spent all night walking the streets and ended up talking to child prostitutes.",
       "sourceTitle": "Manu Chao: world beater.",
-      "text": "He is truly a citizen of the world–a traveler. And he's not flying around in first class, spending the night in hotels; he's walking around meeting the everyday citizens in all their impoverished, hungry, oppressed, and violent glory. When one reporter mentioned that he enjoyed São Paulo, Brazil, Chao responded that in order to understand the city better, he spent all night walking the streets and ended up talking to child prostitutes."
+      "sourceUrl": "http://www.guardian.co.uk/music/2007/jul/15/worldmusic"
     },
     {
-      "type": "sentence",
-      "text": "He says everywhere he goes is like a home to him."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He says everywhere he goes is like a home to him.",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.redpepper.org.uk/manu-chao-the-neighbourhood-singer/",
-      "sourceTitle": "Manu Chao, the neighbourhood singer.",
-      "text": "I have a lot of neighborhoods in my life. So I go from one to another, and I organize, I work and try to dynamize things."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I have a lot of neighborhoods in my life. So I go from one to another, and I organize, I work and try to dynamize things.",
+      "sourceTitle": "Manu Chao, the neighbourhood singer.",
+      "sourceUrl": "http://www.redpepper.org.uk/manu-chao-the-neighbourhood-singer/"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Chao describes himself as pro-Democracy, but has little faith in government to solve problems."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.redpepper.org.uk/manu-chao-the-neighbourhood-singer/",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "The big problem is money. The economic power is more powerful than the political. So we vote, but the politicians–they're all puppets. It is not a real democracy. . . . So more and more people are not going to believe any more in democracy; and that's very dangerous. I feel like a democrat–I think it's the least worst way we've found to live all together. But the professional politicians have totally distorted the word and what it really means.",
       "sourceTitle": "Manu Chao, the neighbourhood singer.",
-      "text": "The big problem is money. The economic power is more powerful than the political. So we vote, but the politicians–they're all puppets. It is not a real democracy. . . . So more and more people are not going to believe any more in democracy; and that's very dangerous. I feel like a democrat–I think it's the least worst way we've found to live all together. But the professional politicians have totally distorted the word and what it really means."
+      "sourceUrl": "http://www.redpepper.org.uk/manu-chao-the-neighbourhood-singer/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/music/2007/jul/15/worldmusic",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "More specifically, here's just a tiny sample of the causes about which he is most vocal: the Zapatistas, a revolutionary group of indigenous people in Chiapas, Mexico;",
       "sourceTitle": "Manu Chao: world beater.",
-      "text": "More specifically, here's just a tiny sample of the causes about which he is most vocal: the Zapatistas, a revolutionary group of indigenous people in Chiapas, Mexico;"
+      "sourceUrl": "http://www.guardian.co.uk/music/2007/jul/15/worldmusic"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/michael-giltz/manu-chao-in-arizona-prot_b_1132208.html",
+      "type": "text",
+      "text": "immigration reform and immigrants' rights;",
+      "parentId": 16,
       "sourceTitle": "Michael Giltz: Manu Chao in Arizona Protest.",
-      "text": "immigration reform and immigrants' rights;"
+      "sourceUrl": "http://www.huffingtonpost.com/michael-giltz/manu-chao-in-arizona-prot_b_1132208.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/music/2007/jul/15/worldmusic",
+      "type": "text",
+      "text": "the anti-globalization movement;",
+      "parentId": 16,
       "sourceTitle": "Manu Chao: world beater.",
-      "text": "the anti-globalization movement;"
+      "sourceUrl": "http://www.guardian.co.uk/music/2007/jul/15/worldmusic"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=nxxQiXZbXAA",
+      "type": "text",
+      "text": "and he was particularly critical of the George W. Bush administration calling the former president \"one of the",
+      "parentId": 16
+    },
+    {
+      "parentId": 16,
+      "type": "emphasis",
+      "text": "mayor"
+    },
+    {
+      "type": "text",
+      "text": "[greatest] terrorists of the planet.\"",
+      "parentId": 16,
       "sourceTitle": "Manu Chao, Coachella 2007.",
-      "text": "and he was particularly critical of the George W. Bush administration calling the former president \"one of the  [greatest] terrorists of the planet.\""
+      "sourceUrl": "http://www.youtube.com/watch?v=nxxQiXZbXAA"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "text": "There are too many quotes and deeds for me to fit all the good ones into this article, but if you're interested in finding out more about Manu Chao,  from  is a great place to start."
+      "parentId": 17,
+      "type": "text",
+      "text": "There are too many quotes and deeds for me to fit all the good ones into this article, but if you're interested in finding out more about Manu Chao,"
     },
     {
-      "type": "break"
+      "parentId": 17,
+      "type": "link",
+      "text": "this article",
+      "sourceUrl": "http://www.guardian.co.uk/music/2007/jul/15/worldmusic"
+    },
+    {
+      "type": "text",
+      "text": "from",
+      "parentId": 17
+    },
+    {
+      "parentId": 17,
+      "type": "emphasis",
+      "text": "The Guardian"
+    },
+    {
+      "type": "text",
+      "text": "is a great place to start.",
+      "parentId": 17
     }
   ],
   "wikipediaData": {

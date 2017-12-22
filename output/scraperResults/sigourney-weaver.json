@@ -31,129 +31,190 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sigourney Weaver, whose first name at birth was Susan, was born and raised in New York City."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "Weaver says she's not all that into organized religion, despite considering a conversion to Judaism for a while. After volunteering on a kibbutz in Israel after high school, she said the conservative culture turned her off. (( Just Jared.))"
+      "parentId": 2,
+      "type": "text",
+      "text": "Weaver says she's not all that into organized religion, despite considering a conversion to Judaism for a while. After volunteering on a kibbutz in Israel after high school, she said the conservative culture turned her off. (("
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "link",
+      "text": "Sigourney Weaver is \"Incensed by Sarah Palin.\"",
+      "sourceUrl": "http://www.justjared.com/2008/10/10/sigourney-weaver-sarah-palin/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.contactmusic.com/news/weavers-scottish-ancestry-mix-up_1075133",
+      "type": "text",
+      "text": "Just Jared.))",
+      "parentId": 2
+    },
+    {
+      "type": "paragraph",
+      "id": 3
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "With that said, her Scottish",
       "sourceTitle": "Weaver's Scottish Ancestry Mix-up.",
-      "text": "With that said, her Scottish"
+      "sourceUrl": "http://www.contactmusic.com/news/weavers-scottish-ancestry-mix-up_1075133"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/home/moslive/article-1322176/Sigourney-Weaver-I-love-half-English-England-means-great-courage-great-standards-great-wit.html",
+      "type": "text",
+      "text": "and English",
+      "parentId": 3,
       "sourceTitle": "Sigourney Weaver: 'I love being half English. England means great courage, great standards and great wit.'",
-      "text": "and English"
+      "sourceUrl": "http://www.dailymail.co.uk/home/moslive/article-1322176/Sigourney-Weaver-I-love-half-English-England-means-great-courage-great-standards-great-wit.html"
     },
     {
-      "type": "sentence",
-      "text": "ancestry implies some sort of Protestant background somewhere down the line."
+      "type": "text",
+      "text": "ancestry implies some sort of Protestant background somewhere down the line.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "But, when it all comes down to it, Weaver remains in the non-religious pile. Politics on the hand, is an entirely different story."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 5
     },
     {
-      "type": "heading",
+      "parentId": 5,
+      "type": "text",
       "text": "Leave It to the Women"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Sigourney_Weaver.php",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Sigourney Weaver is an active and passionate Democrat. She has been donating to Democratic candidates and organizations since 1991,",
       "sourceTitle": "Sigourney Weaver's Federal Campaign Contribution Report.",
-      "text": "Sigourney Weaver is an active and passionate Democrat. She has been donating to Democratic candidates and organizations since 1991,"
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Sigourney_Weaver.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://current.com/shows/full-court-press/videos/sigourney-weaver-on-supporting-president-obama-for-re-election/",
+      "type": "text",
+      "text": "and she supported Barack Obama wholeheartedly in his first and second presidential elections.",
+      "parentId": 6,
       "sourceTitle": "Sigourney Weaver on supporting President Obama for re-election.",
-      "text": "and she supported Barack Obama wholeheartedly in his first and second presidential elections."
+      "sourceUrl": "http://current.com/shows/full-court-press/videos/sigourney-weaver-on-supporting-president-obama-for-re-election/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "During the Obamney election cycle in 2012, she said she has always thrown her support behind the Democrats because they are the party of the people. She said,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://newsbusters.org/blogs/kyle-drennen/2012/07/16/sigourney-weaver-nbcs-gregory-dems-about-people-gop-just-serving-big-b",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "The Democrats are always going to be about what the people need. And the Republicans are much more serving big business, and I don't think we can afford to serve big business for another four years with Mr. Romney.",
       "sourceTitle": "Sigourney Weaver: Dems About 'The People'; GOP Just 'Serving Big Business.'",
-      "text": "The Democrats are always going to be about what the people need. And the Republicans are much more serving big business, and I don't think we can afford to serve big business for another four years with Mr. Romney."
+      "sourceUrl": "http://newsbusters.org/blogs/kyle-drennen/2012/07/16/sigourney-weaver-nbcs-gregory-dems-about-people-gop-just-serving-big-b"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://cnsnews.com/news/article/actress-sigourney-weaver-criticizes-president-obama",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "But that doesn't mean that Obama is beyond her criticism. In her role as an environmentalist, she spoke out against the Obama administration's off-shore drilling plan only months before the Deepwater Horizon oil spill in the Gulf of Mexico.",
       "sourceTitle": "Actress Sigourney Weaver Criticizes President Obama.",
-      "text": "But that doesn't mean that Obama is beyond her criticism. In her role as an environmentalist, she spoke out against the Obama administration's off-shore drilling plan only months before the Deepwater Horizon oil spill in the Gulf of Mexico."
+      "sourceUrl": "http://cnsnews.com/news/article/actress-sigourney-weaver-criticizes-president-obama"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thedailygreen.com/environmental-news/latest/rachel-carson-awards-2011",
+      "type": "text",
+      "text": "Her other environmental work includes protesting a dam-building project on the Brazilian Amazon",
+      "parentId": 10,
       "sourceTitle": "2011 Rachel Carson Award Winners.",
-      "text": "Her other environmental work includes protesting a dam-building project on the Brazilian Amazon"
+      "sourceUrl": "http://www.thedailygreen.com/environmental-news/latest/rachel-carson-awards-2011"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.commondreams.org/headlines06/1004-05.htm",
+      "type": "text",
+      "text": "and advocating for the world's oceans in front of the United Nations General Assembly,",
+      "parentId": 10,
       "sourceTitle": "UN to Consider Deep Sea Trawling Ban.",
-      "text": "and advocating for the world's oceans in front of the United Nations General Assembly,"
+      "sourceUrl": "http://www.commondreams.org/headlines06/1004-05.htm"
     },
     {
-      "type": "sentence",
-      "text": "among other things."
+      "type": "text",
+      "text": "among other things.",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://current.com/shows/full-court-press/videos/sigourney-weaver-on-supporting-president-obama-for-re-election/",
+      "parentId": 11,
+      "type": "text",
+      "text": "Despite being involved and active in her country's politics, Weaver said she wouldn't run for political office herself,",
       "sourceTitle": "Sigourney Weaver on supporting President Obama for re-election.",
-      "text": "Despite being involved and active in her country's politics, Weaver said she wouldn't run for political office herself,"
+      "sourceUrl": "http://current.com/shows/full-court-press/videos/sigourney-weaver-on-supporting-president-obama-for-re-election/"
     },
     {
-      "type": "sentence",
-      "text": "but she does believe more women on the political field would improve the current situation. She said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but she does believe more women on the political field would improve the current situation. She said,",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/07/24/sigourney-weaver-talks-women-in-politics-political-animals_n_1698930.html",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Women speak right out. From the heart, not a prompter. We're not in this for ego or power. We can work together. Ask questions nobody asks. Roll up our sleeves, don't intimidate, get things done in a different way. . . . Business as usual isn't working. A female's needed to stir things up, get our country moving again. This stalemate in Washington can be broken by a woman.",
       "sourceTitle": "Sigourney Weaver Talks Women In Politics And 'Political Animals.'",
-      "text": "Women speak right out. From the heart, not a prompter. We're not in this for ego or power. We can work together. Ask questions nobody asks. Roll up our sleeves, don't intimidate, get things done in a different way. . . . Business as usual isn't working. A female's needed to stir things up, get our country moving again. This stalemate in Washington can be broken by a woman."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/07/24/sigourney-weaver-talks-women-in-politics-political-animals_n_1698930.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://current.com/shows/full-court-press/videos/sigourney-weaver-on-supporting-president-obama-for-re-election/",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Maybe so. Well, if Hillary Clinton is up for the task in 2016, we know she'll have Weaver's support.",
       "sourceTitle": "Sigourney Weaver on supporting President Obama for re-election.",
-      "text": "Maybe so. Well, if Hillary Clinton is up for the task in 2016, we know she'll have Weaver's support."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://current.com/shows/full-court-press/videos/sigourney-weaver-on-supporting-president-obama-for-re-election/"
     }
   ],
   "wikipediaData": {

@@ -34,85 +34,146 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Soulja Boy was born in Chicago, Illinois and grew up in Atlanta, Georgia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://rapgenius.com/Soulja-boy-nu-religion-freestyle-lyrics",
+      "parentId": 2,
+      "type": "text",
+      "text": "He hasn't said a word about his religious views or affiliations. He did freestyle rap a song called \"Nu Religion,\" but it's nothing more than a long description of his experiences (made up experiences, presumably) shooting people.",
       "sourceTitle": "Soulja Boy – Nu Religion freestyle",
-      "text": "He hasn't said a word about his religious views or affiliations. He did freestyle rap a song called \"Nu Religion,\" but it's nothing more than a long description of his experiences (made up experiences, presumably) shooting people."
+      "sourceUrl": "http://rapgenius.com/Soulja-boy-nu-religion-freestyle-lyrics"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Atlanta#Demographics",
+      "parentId": 3,
+      "type": "text",
+      "text": "Having grown up in the South, we can assume he was surrounded by Christianity. And the city of Atlanta has more Protestants than anything else.",
       "sourceTitle": "Atlanta",
-      "text": "Having grown up in the South, we can assume he was surrounded by Christianity. And the city of Atlanta has more Protestants than anything else."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Atlanta#Demographics"
     },
     {
-      "type": "sentence",
-      "text": "So, protestant Christian, then?"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "So, protestant Christian, then?",
+      "parentId": 3
     },
     {
       "type": "heading",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "Anti-military Soulja"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Soulja is an Obama supporter and he turned 18 in 2008 just before the elections. But his reasoning wasn't only race-related. Citing Obama's promise to end the Iraq War, he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.mtv.com/news/articles/1592118/soulja-boy-hell-be-voting-obama.jhtml",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I'm pretty much going for Obama. [He's] got my vote. I'm starting to sweat it. The war is crazy right now. My auntie's over there, so we'd love to see them come back real soon.",
       "sourceTitle": "Soulja Boy Tell'em Says He'll Be Casting His First Vote For Obama, Talks Bow Wow Mixtape",
-      "text": "I'm pretty much going for Obama. [He's] got my vote. I'm starting to sweat it. The war is crazy right now. My auntie's over there, so we'd love to see them come back real soon."
+      "sourceUrl": "http://www.mtv.com/news/articles/1592118/soulja-boy-hell-be-voting-obama.jhtml"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=Gw7BgPaJU3E",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "We can assume he continued his support of the president into 2012 because in 2011, he released a song called \"I Am Obama.\" The track is full of praise of the president.",
       "sourceTitle": "Soulja Boy – I am Obama! *New 2011.*",
-      "text": "We can assume he continued his support of the president into 2012 because in 2011, he released a song called \"I Am Obama.\" The track is full of praise of the president."
+      "sourceUrl": "http://www.youtube.com/watch?v=Gw7BgPaJU3E"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "But continuing his anti-war concerns, Soulja Boy angered some in the establishment with the lyrics:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Fuck the FBI and the army troops … fighting for what? Be your own man … I'll be flying through the clouds with green like I'm Peter Pan.",
+      "sourceTitle": "Soulja Boy Apologizes After Memebers of Armed Forces Slam His Anti-Military Song",
+      "sourceUrl": "http://www.foxnews.com/entertainment/2011/09/06/soulja-boy-apologizes-after-members-armed-forces-slam-his-anti-military-song/#ixzz1XOWi2ZO3"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "After a swift backlash, Soulja released an eloquent aplology, the entirety of which can be found"
+    },
+    {
+      "parentId": 12,
+      "type": "link",
+      "text": "here",
+      "sourceUrl": "http://www.foxnews.com/entertainment/2011/09/06/soulja-boy-apologizes-after-members-armed-forces-slam-his-anti-military-song/#ixzz1XOWi2ZO3"
+    },
+    {
+      "type": "text",
+      "text": ". It's worth reading. The best part might be:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.foxnews.com/entertainment/2011/09/06/soulja-boy-apologizes-after-members-armed-forces-slam-his-anti-military-song/#ixzz1XOWi2ZO3",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "As a young man who grew up in the post-9/11 era, I have watched our country fight two wars that seem like they are never going to end. I have seen thousands and thousands of our brave men and women get killed in battle and often times, I think for what? A lot of people in this country are struggling to make ends meet and I think a lot about what if we had never gone to war.",
       "sourceTitle": "Soulja Boy Apologizes After Memebers of Armed Forces Slam His Anti-Military Song",
-      "text": "Fuck the FBI and the army troops … fighting for what? Be your own man … I'll be flying through the clouds with green like I'm Peter Pan."
-    },
-    {
-      "type": "sentence",
-      "text": "After a swift backlash, Soulja released an eloquent aplology, the entirety of which can be found . It's worth reading. The best part might be:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.foxnews.com/entertainment/2011/09/06/soulja-boy-apologizes-after-members-armed-forces-slam-his-anti-military-song/#ixzz1XOWi2ZO3",
-      "sourceTitle": "Soulja Boy Apologizes After Memebers of Armed Forces Slam His Anti-Military Song",
-      "text": "As a young man who grew up in the post-9/11 era, I have watched our country fight two wars that seem like they are never going to end. I have seen thousands and thousands of our brave men and women get killed in battle and often times, I think for what? A lot of people in this country are struggling to make ends meet and I think a lot about what if we had never gone to war."
+      "sourceUrl": "http://www.foxnews.com/entertainment/2011/09/06/soulja-boy-apologizes-after-members-armed-forces-slam-his-anti-military-song/#ixzz1XOWi2ZO3"
     }
   ],
   "wikipediaData": {

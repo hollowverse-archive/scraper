@@ -33,104 +33,160 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Miley Cyrus was baptized Southern Baptist and raised Christian in Nashville, Tennessee."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "She's a Disney-launched teenage walking franchise but she's done everything she can to lose her \"good-girl\" image from controversially revealing photos when she was just fifteen to a lap-dance for a movie producer when she was sixteen."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Age eighteen found her explaining away leaked pictures of bong-tokes, and the cake for her nineteenth birthday was Bob Marley themed."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "All of this aside, Miley still sees herself as a good Christian girl, even being baptized into a new Baptist church as recently as 2005. She has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.parade.com/celebrity/2010/03/miley-cyrus.html",
-      "sourceTitle": "Miley Cyrus: 'I Know Who I Am Now.'",
-      "text": "I am very spiritual in my own way. Let me make it clear, though—I am a Christian. Jesus is who saved me. He's what keeps me full and whole."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I am very spiritual in my own way. Let me make it clear, though—I am a Christian. Jesus is who saved me. He's what keeps me full and whole.",
+      "sourceTitle": "Miley Cyrus: 'I Know Who I Am Now.'",
+      "sourceUrl": "http://www.parade.com/celebrity/2010/03/miley-cyrus.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "However, in the same interview, she praised Buddhism, calling it \"lovely.\""
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "It's got to be a tough line to walk–famous Christian party girl. She doesn't wear a purity ring like many of her Disney counterparts, but it seems like only a matter of time before the sex tape surfaces."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Religiously red, politically blue"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtonpost.com/blogs/celebritology/post/miley-cyrus-disses-urban-outfitters-gets-political-on-twitter/2011/05/27/AGymCrCH_blog.html",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Country music, Christianity, and conservatism go hand in hand, but not for this starlet. Besides changing her middle name to Ray to honor her deceased grandfather, Kentucky Democratic politician Ronald Ray Cyrus, Miley has called out Urban Outfitters for its support of hyper-conservative Rick Santorum,",
       "sourceTitle": "Miley Cyrus disses Urban Outfitters, gets political on Twitter",
-      "text": "Country music, Christianity, and conservatism go hand in hand, but not for this starlet. Besides changing her middle name to Ray to honor her deceased grandfather, Kentucky Democratic politician Ronald Ray Cyrus, Miley has called out Urban Outfitters for its support of hyper-conservative Rick Santorum,"
+      "sourceUrl": "http://www.washingtonpost.com/blogs/celebritology/post/miley-cyrus-disses-urban-outfitters-gets-political-on-twitter/2011/05/27/AGymCrCH_blog.html"
     },
     {
-      "type": "sentence",
-      "text": "and has also been tattooed with an equal sign for gay marriage equality. She defended her position saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and has also been tattooed with an equal sign for gay marriage equality. She defended her position saying:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.mirror.co.uk/3am/celebrity-news/miley-cyrus-explains-politics-behind-677549",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I believe every American should be allowed the same rights and civil liberties…How is [banning gay marriage] different than having someone sit in the back of the bus because of their skin color.",
       "sourceTitle": "Miley Cyrus, a tattoo and gay marriage – not a story we saw coming",
-      "text": "I believe every American should be allowed the same rights and civil liberties…How is [banning gay marriage] different than having someone sit in the back of the bus because of their skin color."
+      "sourceUrl": "http://www.mirror.co.uk/3am/celebrity-news/miley-cyrus-explains-politics-behind-677549"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://latimesblogs.latimes.com/gossip/2011/11/miley-cyrus-ows-occupy-wall-street-liberty-walk-video.html",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Beyond gay marriage, Miley has been outspoken about environmental issues and the Occupy movement, even writing a global warming song called \"Wake Up America\" and filming scenes of various Occupy Wall Street camps around the nation for the music video of her song, \"Liberty Walk.\"",
       "sourceTitle": "Miley Cyrus supports Occupy Wall Street with new video",
-      "text": "Beyond gay marriage, Miley has been outspoken about environmental issues and the Occupy movement, even writing a global warming song called \"Wake Up America\" and filming scenes of various Occupy Wall Street camps around the nation for the music video of her song, \"Liberty Walk.\""
+      "sourceUrl": "http://latimesblogs.latimes.com/gossip/2011/11/miley-cyrus-ows-occupy-wall-street-liberty-walk-video.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "For someone who's not even old enough to have voted in a national election, Cyrus has shown serious courage speaking out on issues that might alienate her country/Christian/conservative fans–who make up a pretty large percentage."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "Still, it's hard to take someone too seriously who says:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 16
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.tmz.com/2011/11/27/miley-cyrus-stoner-weed-video#.T1bq4IFuDAk",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "You know you're a stoner when friends make you a Bob Marley cake. You know you smoke way too much fuckin' weed!",
       "sourceTitle": "Miley Cyrus – Calls Herself a 'Stoner' and a 'Pothead.'",
-      "text": "You know you're a stoner when friends make you a Bob Marley cake. You know you smoke way too much fuckin' weed!"
+      "sourceUrl": "http://www.tmz.com/2011/11/27/miley-cyrus-stoner-weed-video#.T1bq4IFuDAk"
     }
   ],
   "wikipediaData": {

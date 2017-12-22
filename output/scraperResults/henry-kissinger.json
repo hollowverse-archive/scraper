@@ -30,108 +30,189 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Henry Kissinger was born in Southern Germany in 1923 to Jewish parents who, wisely, fled Germany for New York City in 1938 to escape Nazi persecution."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Kissinger is one of the most respected diplomats in American history, but to some, his policies were detrimental and to many Jews, he is a Judas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "He ruled American foreign policy for much of the Cold War with Russia and the Vietnam War as well. As a Jew, it didn't seem that he was very spiritual. His mentality was more oriented towards real-world issues. He was defensive of the state of Israel, though, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/h/henry_a_kissinger_2.html",
-      "sourceTitle": "Henry A. Kissinger",
-      "text": "The security of Israel is a moral imperative for all free peoples."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "The security of Israel is a moral imperative for all free peoples.",
+      "sourceTitle": "Henry A. Kissinger",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/h/henry_a_kissinger_2.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "But that may be juxtaposed by his callous remarks about Russian Jews from a recently declassified White House tape, where he said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://onfaith.washingtonpost.com/onfaith/guestvoices/2010/12/henry_kissingers_betrayal_a_stark_contrast_with_other_american_jews_in_public_life.html",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "The emigration of Jews from the Soviet Union is not an objective of American foreign policy. And if they put Jews into gas chambers in the Soviet Union, it is not an American concern. Maybe a humanitarian concern.",
       "sourceTitle": "Henry Kissinger's betrayal: A stark contrast with other American Jews in public life",
-      "text": "The emigration of Jews from the Soviet Union is not an objective of American foreign policy. And if they put Jews into gas chambers in the Soviet Union, it is not an American concern. Maybe a humanitarian concern."
+      "sourceUrl": "http://onfaith.washingtonpost.com/onfaith/guestvoices/2010/12/henry_kissingers_betrayal_a_stark_contrast_with_other_american_jews_in_public_life.html"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "The politics of Kissinger"
     },
     {
-      "type": "sentence",
-      "text": "Kissinger is a Republican. Much of his work was under President Nixon. His foreign policy was based on the concept of . This means that politics shouldn't have anything to do with morals or ideology."
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "break"
+      "parentId": 10,
+      "type": "text",
+      "text": "Kissinger is a Republican. Much of his work was under President Nixon. His foreign policy was based on the concept of"
     },
     {
-      "type": "sentence",
-      "text": "was probably a good policy for Kissinger, considering he was head of foreign policy when Russia and the U.S. were on the brink of annihilating each other. Emotional outbursts about how Democracy would defeat Communism might have made things worse. Imagine George W. Bush presiding over the Cold War. Scary."
+      "parentId": 10,
+      "type": "emphasis",
+      "text": "realpolitik"
     },
     {
-      "type": "break"
+      "type": "text",
+      "text": ". This means that politics shouldn't have anything to do with morals or ideology.",
+      "parentId": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "Realpolitik"
+    },
+    {
+      "type": "text",
+      "text": "was probably a good policy for Kissinger, considering he was head of foreign policy when Russia and the U.S. were on the brink of annihilating each other. Emotional outbursts about how Democracy would defeat Communism might have made things worse. Imagine George W. Bush presiding over the Cold War. Scary.",
+      "parentId": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Kissinger once said very simply:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/h/henry_a_kissinger_2.html",
-      "sourceTitle": "Henry A. Kissinger",
-      "text": "Diplomacy: the art of restraining power."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Diplomacy: the art of restraining power.",
+      "sourceTitle": "Henry A. Kissinger",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/h/henry_a_kissinger_2.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Kissinger wasn't a politician. He was appointed. In fact, he sort of despised politicians. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/h/henry_a_kissinger_2.html",
-      "sourceTitle": "Henry A. Kissinger",
-      "text": "Ninety percent of the politicians give the other ten percent a bad reputation."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Ninety percent of the politicians give the other ten percent a bad reputation.",
+      "sourceTitle": "Henry A. Kissinger",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/h/henry_a_kissinger_2.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "Kissinger is still active in U.S. foreign policy–to some extent. He runs his own consulting firm and advised the Bush administration on the Iraq War. He had roles to play in many small U.S. interventions in countries like Chile, Argentina, East Timor, and Bangladesh."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/south_asia/4640773.stm",
+      "parentId": 19,
+      "type": "text",
+      "text": "He is a controversial figure, even calling the late Gandhi's wife a \"bitch\" and the Indian people \"bastards.\"",
       "sourceTitle": "Kissinger regrets India comments",
-      "text": "He is a controversial figure, even calling the late Gandhi's wife a \"bitch\" and the Indian people \"bastards.\""
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/south_asia/4640773.stm"
     },
     {
-      "type": "sentence",
-      "text": "Some say he was an arrogant, misguided prick. Others say he saved the world. History will decide."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Some say he was an arrogant, misguided prick. Others say he saved the world. History will decide.",
+      "parentId": 19
     }
   ],
   "wikipediaData": {

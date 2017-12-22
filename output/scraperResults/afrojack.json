@@ -31,68 +31,92 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Afrojack, whose real name is Nick van de Wall, was born and raised in Spijkenisse, Netherlands."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_the_Netherlands",
+      "parentId": 2,
+      "type": "text",
+      "text": "Considering I couldn't find one iota of information on Afrojack's religion or lack thereof, I'm going to assume he is entirely non-religious. It wouldn't be a surprise considering he's from one of the most secular countries in Europe, with only 39% of the population claiming to be religiously affiliated.",
       "sourceTitle": "Religion in the Netherlands.",
-      "text": "Considering I couldn't find one iota of information on Afrojack's religion or lack thereof, I'm going to assume he is entirely non-religious. It wouldn't be a surprise considering he's from one of the most secular countries in Europe, with only 39% of the population claiming to be religiously affiliated."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_the_Netherlands"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.zimbio.com/pictures/ZtAaaLlX9JL/Paris+Hilton+Throws+Christmas+Party/Dg4-gEGM_V4/DJ+Afrojack",
+      "parentId": 3,
+      "type": "text",
+      "text": "If he is even remotely religious, he's probably vaguely Christian. He seemed to have no problem wearing a Santa hat at Paris Hilton's Christmas party anyway.",
       "sourceTitle": "Paris Hilton Throws a Christmas Party.",
-      "text": "If he is even remotely religious, he's probably vaguely Christian. He seemed to have no problem wearing a Santa hat at Paris Hilton's Christmas party anyway."
+      "sourceUrl": "http://www.zimbio.com/pictures/ZtAaaLlX9JL/Paris+Hilton+Throws+Christmas+Party/Dg4-gEGM_V4/DJ+Afrojack"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Afrojack might be labelled liberal in the U.S. For one, he definitely supports gay marriage. His mother married her female partner in 2012, and the DJ said this about the event,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://divinevarod.com/2012/05/03/adorable-afrojack-s-mother-weds-her-female-partner-pictures-and-video/",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I'm very happy and I've never seen her so happy.",
       "sourceTitle": "Adorable: Afrojack's mother weds her female partner!!!",
-      "text": "I'm very happy and I've never seen her so happy."
+      "sourceUrl": "http://divinevarod.com/2012/05/03/adorable-afrojack-s-mother-weds-her-female-partner-pictures-and-video/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Same-sex_marriage_in_the_Netherlands",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "But gay marriage in his home country isn't quite the political issue it is here in the U.S. The Netherlands was the first country to legalize gay marriage in 2001.",
       "sourceTitle": "Same-sex marriage in the Netherlands.",
-      "text": "But gay marriage in his home country isn't quite the political issue it is here in the U.S. The Netherlands was the first country to legalize gay marriage in 2001."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Same-sex_marriage_in_the_Netherlands"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Politics_of_the_Netherlands#Policy_issues",
+      "type": "text",
+      "text": "And considering Dutch policies on social issues from abortion to prostitution are some of the most liberal in the world,",
+      "parentId": 7,
       "sourceTitle": "Politics of the Netherlands.",
-      "text": "And considering Dutch policies on social issues from abortion to prostitution are some of the most liberal in the world,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Politics_of_the_Netherlands#Policy_issues"
     },
     {
-      "type": "sentence",
-      "text": "I think we can assume Afrojack is left of the center on most issues."
+      "type": "text",
+      "text": "I think we can assume Afrojack is left of the center on most issues.",
+      "parentId": 7
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "If you know anything else about Afrojack, please let us know in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -34,114 +34,181 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Karl Lagerfeld was born and raised in Hamburg, Germany."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chacha.com/question/is-karl-lagerfeld-jewish",
+      "parentId": 2,
+      "type": "text",
+      "text": "Some websites of questionable credibility claim Lagerfeld is of Jewish origins.",
       "sourceTitle": "Is Karl Lagerfeld Jewish",
-      "text": "Some websites of questionable credibility claim Lagerfeld is of Jewish origins."
+      "sourceUrl": "http://www.chacha.com/question/is-karl-lagerfeld-jewish"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://nymag.com/fashion/06/spring/15746/index2.html",
+      "type": "text",
+      "text": "However, I have followed up on their claims and can find nothing to corroborate them. But it is not merely parsimony that causes me to dispute them, but also the fact that Lagerfeld and his family lived in Hamburg throughout World War II and made it through unscathed. In fact, Karl has mentioned he barely realized that there was a war on.",
+      "parentId": 2,
       "sourceTitle": "Karl Lagerfeld, Boy Prince of Fashion",
-      "text": "However, I have followed up on their claims and can find nothing to corroborate them. But it is not merely parsimony that causes me to dispute them, but also the fact that Lagerfeld and his family lived in Hamburg throughout World War II and made it through unscathed. In fact, Karl has mentioned he barely realized that there was a war on."
+      "sourceUrl": "http://nymag.com/fashion/06/spring/15746/index2.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "Still, this leaves the question hanging: in what religion was Lagerfeld raised? We can't say, though this  explains that Germans in Hamburg tend to be either non-religious, Protestant, or Catholic–in that order."
+      "parentId": 3,
+      "type": "text",
+      "text": "Still, this leaves the question hanging: in what religion was Lagerfeld raised? We can't say, though this"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "link",
+      "text": "map",
+      "sourceUrl": "http://upload.wikimedia.org/wikipedia/commons/9/9a/Religion_map_germany_2008_k.png"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.vanityfair.com/culture/features/2005/09/proust_lagerfeld200509",
+      "type": "text",
+      "text": "explains that Germans in Hamburg tend to be either non-religious, Protestant, or Catholic–in that order.",
+      "parentId": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Either way, Lagerfeld is not religious today, and seems to hold religious devotion in contempt to some degree. He once said that the most overrated virtue is \"manipulative religious hypocrisy.\"",
       "sourceTitle": "Proust Questionnaire: Karl Lagerfeld",
-      "text": "Either way, Lagerfeld is not religious today, and seems to hold religious devotion in contempt to some degree. He once said that the most overrated virtue is \"manipulative religious hypocrisy.\""
+      "sourceUrl": "http://www.vanityfair.com/culture/features/2005/09/proust_lagerfeld200509"
     },
     {
-      "type": "sentence",
-      "text": "Though he has mentioned an affinity to the ancient pagan religions of Europe, because they don't include a lot of the nasty negatives modern religions do:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Though he has mentioned an affinity to the ancient pagan religions of Europe, because they don't include a lot of the nasty negatives modern religions do:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://karllagerfeldquotes.tumblr.com/post/2057948660/im-a-polytheist-all-present-day-religions-are",
-      "sourceTitle": "I'm a polytheist: all present-day religions are…",
-      "text": "I'm a polytheist: all present-day religions are recent, but I prefer the Greek and Roman mythology, which does without hell, without sin (an obstacle to happiness), and without forgiveness."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I'm a polytheist: all present-day religions are recent, but I prefer the Greek and Roman mythology, which does without hell, without sin (an obstacle to happiness), and without forgiveness.",
+      "sourceTitle": "I'm a polytheist: all present-day religions are…",
+      "sourceUrl": "http://karllagerfeldquotes.tumblr.com/post/2057948660/im-a-polytheist-all-present-day-religions-are"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "I'm sure some religious scholars might dispute the accuracy of that statement, but so be it: a polytheist then."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "No need for politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Lagerfeld doesn't want to get political–not that he hasn't had the opportunity. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.vice.com/read/karl-lagerfeld-369-v17n3",
-      "sourceTitle": "Karl Lagerfeld",
-      "text": "I'm in fashion. Politics is not my job. I don't vote in France even though foreigners here can. I will never vote in my life."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I'm in fashion. Politics is not my job. I don't vote in France even though foreigners here can. I will never vote in my life.",
+      "sourceTitle": "Karl Lagerfeld",
+      "sourceUrl": "http://www.vice.com/read/karl-lagerfeld-369-v17n3"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "This could be because Lagerfeld has no national identity. He had a diverse education and background–part German, part French, perhaps British. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/k/karl_lagerfeld_4.html?vm=l",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "No, I'm not a French designer either. I'm from nowhere. I'm a European, old European is all I am.",
       "sourceTitle": "Karl Lagerfeld Quotes",
-      "text": "No, I'm not a French designer either. I'm from nowhere. I'm a European, old European is all I am."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/k/karl_lagerfeld_4.html?vm=l"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.vice.com/read/karl-lagerfeld-369-v17n3",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Or, it could be, in his own words that \"I had an overprotected life. What can I fight about?\"",
       "sourceTitle": "Karl Lagerfeld",
-      "text": "Or, it could be, in his own words that \"I had an overprotected life. What can I fight about?\""
+      "sourceUrl": "http://www.vice.com/read/karl-lagerfeld-369-v17n3"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/046/000023974/",
+      "type": "text",
+      "text": "Despite being of questionable sexual orientation,",
+      "parentId": 15,
       "sourceTitle": "Karl Lagerfeld",
-      "text": "Despite being of questionable sexual orientation,"
+      "sourceUrl": "http://www.nndb.com/people/046/000023974/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.vice.com/read/karl-lagerfeld-369-v17n3",
+      "type": "text",
+      "text": "Lagerfeld has refused advances by gay rights political advocacy groups.",
+      "parentId": 15,
       "sourceTitle": "Karl Lagerfeld",
-      "text": "Lagerfeld has refused advances by gay rights political advocacy groups."
+      "sourceUrl": "http://www.vice.com/read/karl-lagerfeld-369-v17n3"
     },
     {
-      "type": "sentence",
-      "text": "He seems to be willfully and consciously non-political. So that's where we'll put him, but let's be honest: a bi-sexual European fashion designer? If he wasn't a liberal, then why the cliche?"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He seems to be willfully and consciously non-political. So that's where we'll put him, but let's be honest: a bi-sexual European fashion designer? If he wasn't a liberal, then why the cliche?",
+      "parentId": 15
     }
   ],
   "wikipediaData": {

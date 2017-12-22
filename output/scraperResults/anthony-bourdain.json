@@ -36,119 +36,232 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
-      "text": "nthony Bourdain was born in New York City and grew up in Leonia, New Jersey."
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "break"
+      "parentId": 1,
+      "type": "text",
+      "text": "A"
     },
     {
-      "type": "sentence",
-      "text": "One quote of Bourdain's suggests he has a Catholic heritage. During the filming of an episode of his show, , in Naples, Italy, he said:"
+      "type": "text",
+      "text": "nthony Bourdain was born in New York City and grew up in Leonia, New Jersey.",
+      "parentId": 1
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "One quote of Bourdain's suggests he has a Catholic heritage. During the filming of an episode of his show,"
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "No Reservations"
+    },
+    {
+      "type": "text",
+      "text": ", in Naples, Italy, he said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://eater.com/archives/2011/07/26/no-reservations-naples-italy.php",
-      "sourceTitle": "The Naples Episode of No Reservations: Just the One-Liners",
-      "text": "I'm not exactly a good Catholic. I do have the paperwork to suggest that I might be."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I'm not exactly a good Catholic. I do have the paperwork to suggest that I might be.",
+      "sourceTitle": "The Naples Episode of No Reservations: Just the One-Liners",
+      "sourceUrl": "http://eater.com/archives/2011/07/26/no-reservations-naples-italy.php"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "As the quote suggests, he's not an adherent of Catholicism–or any religion for that matter. He summed up his feeling toward religion thusly, referring to famous militant atheist, Christopher Hitchens:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.notquitenigella.com/2011/05/23/anthony-bourdain-interview-2/",
-      "sourceTitle": "Anthony Bourdain Interview",
-      "text": "Tried [religion] and respect it. I respect people that practice as they preach… but hypocritical religious types make me angry… I'm closer to Hitchens' view on this. Many of the worlds ills can be tracked back to [religion]. That said I've worked with and have been treated very well by many lovely people who believe in one god or another and I respect that."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Tried [religion] and respect it. I respect people that practice as they preach… but hypocritical religious types make me angry… I'm closer to Hitchens' view on this. Many of the worlds ills can be tracked back to [religion]. That said I've worked with and have been treated very well by many lovely people who believe in one god or another and I respect that.",
+      "sourceTitle": "Anthony Bourdain Interview",
+      "sourceUrl": "http://www.notquitenigella.com/2011/05/23/anthony-bourdain-interview-2/"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "If Bourdain does have a religion, or ethic, or framework of what is and what is not a good life, it would be something like Epircureanism, or even Hedonism. He believes life is to be enjoyed to the fullest and that fear of health risks or pain or the unknown will only prevent us from experiencing all the wonderful and beautiful things that life has to offer."
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/author/quotes/1124.Anthony_Bourdain",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Your body is not a temple, it's an amusement park. Enjoy the ride.",
       "sourceTitle": "Anthony Bourdain Quotes",
-      "text": "Your body is not a temple, it's an amusement park. Enjoy the ride."
+      "sourceUrl": "http://www.goodreads.com/author/quotes/1124.Anthony_Bourdain"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "A profane thinking man's man"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "First off, Bourdain doesn't think you should care about his, or anyone other celebrity's, political views:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://blog.travelchannel.com/anthony-bourdain/read/politics-and-the-dinner-table/",
-      "sourceTitle": "Politics and the Dinner Table",
-      "text": "My political views are my own — and I try — really try, to keep them to myself. The last person I want to hear talk about politics or the nation's conscience or obligation to the world is some Hollywood fucktard."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "My political views are my own — and I try — really try, to keep them to myself. The last person I want to hear talk about politics or the nation's conscience or obligation to the world is some Hollywood fucktard.",
+      "sourceTitle": "Politics and the Dinner Table",
+      "sourceUrl": "http://blog.travelchannel.com/anthony-bourdain/read/politics-and-the-dinner-table/"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "But despite his best efforts, Bourdain can't help popping off about politics and politicians. He clearly favors the left side of the aisle–Democrats and liberals–but he's not blinded by ideology or celebrity. On Obama, for example, he said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "A disappointment to me personally for someone I admired. I was very happy when he was elected President. I certainly voted for him and I was very happy when he was elected. I wish he'd get angry.",
+      "sourceTitle": "5 political barbs by Anthony Bourdain",
+      "sourceUrl": "http://www.riseoftheright.com/2012/05/5-political-barbs-by-anthony-bourdain/"
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "But at times, he certainly sounds like a libertarian, even if he regularly rails against the Tea Party.",
+      "sourceTitle": "5 political barbs by Anthony Bourdain",
+      "sourceUrl": "http://www.riseoftheright.com/2012/05/5-political-barbs-by-anthony-bourdain/"
+    },
+    {
+      "type": "text",
+      "text": "He is against regulations of unhealthy foods, rather Bourdain would like to see more education about the ills of McDonalds for example, and leave life choices to the individual:",
+      "parentId": 19
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.riseoftheright.com/2012/05/5-political-barbs-by-anthony-bourdain/",
+      "id": 20
+    },
+    {
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "There seems to be the assumption that the government owes you absolute safety, absolute security, absolute purity.… I don't feel that I need a 20-page informational pamphlet telling me the cholesterol and contents of every special at every restaurant.",
       "sourceTitle": "5 political barbs by Anthony Bourdain",
-      "text": "A disappointment to me personally for someone I admired. I was very happy when he was elected President. I certainly voted for him and I was very happy when he was elected. I wish he'd get angry."
+      "sourceUrl": "http://www.politico.com/news/stories/0512/76826.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.riseoftheright.com/2012/05/5-political-barbs-by-anthony-bourdain/",
-      "sourceTitle": "5 political barbs by Anthony Bourdain",
-      "text": "But at times, he certainly sounds like a libertarian, even if he regularly rails against the Tea Party."
+      "type": "paragraph",
+      "id": 22
     },
     {
-      "type": "sentence",
-      "text": "He is against regulations of unhealthy foods, rather Bourdain would like to see more education about the ills of McDonalds for example, and leave life choices to the individual:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.politico.com/news/stories/0512/76826.html",
-      "sourceTitle": "5 political barbs by Anthony Bourdain",
-      "text": "There seems to be the assumption that the government owes you absolute safety, absolute security, absolute purity.… I don't feel that I need a 20-page informational pamphlet telling me the cholesterol and contents of every special at every restaurant."
-    },
-    {
-      "type": "sentence",
+      "parentId": 22,
+      "type": "text",
       "text": "And Bourdain holds a special, contemptuous place in his heart for vegetarians and PETA, so you know he can, at times, find the extreme liberal agenda ridiculous:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/author/quotes/1124.Anthony_Bourdain",
+      "id": 23
+    },
+    {
+      "type": "paragraph",
+      "id": 24,
+      "parentId": 23
+    },
+    {
+      "parentId": 24,
+      "type": "text",
+      "text": "PETA doesn't want stressed animals to be cruelly crowded into sheds, ankle-deep in their own crap, because they don't want any animals to die-ever-and basically think chickens should, in time, gain the right to vote. I don't want animals stressed or crowded or treated cruelly or inhumanely because that makes them probably less delicious.",
       "sourceTitle": "Anthony Bourdain Quotes",
-      "text": "PETA doesn't want stressed animals to be cruelly crowded into sheds, ankle-deep in their own crap, because they don't want any animals to die-ever-and basically think chickens should, in time, gain the right to vote. I don't want animals stressed or crowded or treated cruelly or inhumanely because that makes them probably less delicious."
+      "sourceUrl": "http://www.goodreads.com/author/quotes/1124.Anthony_Bourdain"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 25
+    },
+    {
+      "parentId": 25,
+      "type": "text",
       "text": "Bourdain holds a nuanced view of the world, informed by extensive travel and his own interest in culinary delights. He's not easily categorized, but ultimately, he seems a perfect fit for the reasonable libertarians: the government doesn't need to infiltrate every facet of our lives and people should be allowed to live in such a way that makes them happy. That's my take. Let's hear your thoughts in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

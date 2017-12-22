@@ -38,115 +38,184 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Alexander Graham Bell was born and mostly raised in Edinburgh, Scotland. He briefly attended school in London during his childhood. He died of diabetes in Nova Scotia, Canada in 1922."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "There is little information about Bell's religious upbringing, but it is safe to assume that he was raised–at least in name–in the Church of Scotland, an Anglican/Episcopalian/Presbyterian faith that exercises the most influence over Scottish religious tradition to this day."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Alexander_Graham_Bell",
+      "parentId": 3,
+      "type": "text",
+      "text": "Perhaps because it was not taken seriously in his home, or because he came to his own conclusions, Bell considered himself an agnostic for the most part. His wife, Mabel, said that he never denied nor affirmed the existence of God.",
       "sourceTitle": "Alexander Graham Bell",
-      "text": "Perhaps because it was not taken seriously in his home, or because he came to his own conclusions, Bell considered himself an agnostic for the most part. His wife, Mabel, said that he never denied nor affirmed the existence of God."
+      "sourceUrl": "http://www.celebatheists.com/wiki/Alexander_Graham_Bell"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Alexander_Graham_Bell",
+      "type": "text",
+      "text": "Though the Bells would occasionally attend church, either Episcopalian or Presbyterian and they sent their children to Presbyterian church regularly,",
+      "parentId": 3,
       "sourceTitle": "Alexander Graham Bell",
-      "text": "Though the Bells would occasionally attend church, either Episcopalian or Presbyterian and they sent their children to Presbyterian church regularly,"
+      "sourceUrl": "http://www.celebatheists.com/wiki/Alexander_Graham_Bell"
     },
     {
-      "type": "sentence",
-      "text": "it wasn't a major part of their life."
+      "type": "text",
+      "text": "it wasn't a major part of their life.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "However, according to Mabel, Alexander came across a pamphlet for the Unitarian/Universalist faith and quite liked what it had to say. He told his wife:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.nndb.com/people/851/000026773/",
-      "sourceTitle": "Alexander Graham Bell",
-      "text": "I have always considered myself as an agnostic, but I have now discovered that I am a Unitarian Agnostic."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I have always considered myself as an agnostic, but I have now discovered that I am a Unitarian Agnostic.",
+      "sourceTitle": "Alexander Graham Bell",
+      "sourceUrl": "http://www.nndb.com/people/851/000026773/"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Apparently, Bell was attracted to the non-dogmatic nature and acceptance of different ideas present in the Unitarian faith–indicating he was probably just turned off by the heavy-handedness of organized religion."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://brainz.org/50-most-influential-christians-all-time/",
+      "parentId": 8,
+      "type": "text",
+      "text": "Still, Bell is considered by most to have been a Unitarian.",
       "sourceTitle": "The 50 Most Influential Christians of All Time",
-      "text": "Still, Bell is considered by most to have been a Unitarian."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://brainz.org/50-most-influential-christians-all-time/"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Bell's"
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "Realpolitik"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Politically, Bell was somewhat Machiavellian. He believed that politics and society was about power, dominance and the greater good for the majority, even if it meant discounting the minority. For example, he remarked at the turn of the century as human flight was being developed:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/alexander_graham_bell.html",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "The nation that secures control of the air will ultimately control the world.",
       "sourceTitle": "Alexander Graham Bell Quotes",
-      "text": "The nation that secures control of the air will ultimately control the world."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/alexander_graham_bell.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.start-american-sign-language.com/alexander-graham-bell.html",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Perhaps his most controversial contribution came as a result of the congenital disorder his mother had, causing her to ultimately go deaf. The experience inspired Bell to develop a device where speech could be transmitted through wire–ultimately resulting in the telephone. But it also inspired Bell to pen the paper,"
+    },
+    {
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "Memoir upon the Formation of a Deaf Variety of the Human Rac"
+    },
+    {
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "e,"
+    },
+    {
+      "type": "text",
+      "text": "in which Bell outlined his plan to eradicate deafness from the human race by making it illegal for deaf people to marry other deaf people.",
+      "parentId": 13,
       "sourceTitle": "Alexander Graham Bell – Friend or Foe?",
-      "text": "Perhaps his most controversial contribution came as a result of the congenital disorder his mother had, causing her to ultimately go deaf. The experience inspired Bell to develop a device where speech could be transmitted through wire–ultimately resulting in the telephone. But it also inspired Bell to pen the paper, in which Bell outlined his plan to eradicate deafness from the human race by making it illegal for deaf people to marry other deaf people."
+      "sourceUrl": "http://www.start-american-sign-language.com/alexander-graham-bell.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "The state regulating the breeding practices of its people is what we call totalitarianism and it is the same line of thinking that informed Hitler and the Nazi Party's \"master race\" eugenics programs."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://voices.yahoo.com/alexander-graham-bell-assassination-president-15134.html?cat=37",
+      "parentId": 15,
+      "type": "text",
+      "text": "Luckily, this isn't the only tragic event that inspired Bell to invent something amazing. When President James A. Garfield lay dying for months after being shot by an assassin in 1881, Bell speculated that there must be a way for doctors to locate where the bullets were in his body so as to remove them and save the president's life. Though it didn't pan out in time, and Garfield died of his wounds, it was the spark that caused Bell to invent the metal detector.",
       "sourceTitle": "Alexander Graham Bell and the Assassination of President James A. Garfield",
-      "text": "Luckily, this isn't the only tragic event that inspired Bell to invent something amazing. When President James A. Garfield lay dying for months after being shot by an assassin in 1881, Bell speculated that there must be a way for doctors to locate where the bullets were in his body so as to remove them and save the president's life. Though it didn't pan out in time, and Garfield died of his wounds, it was the spark that caused Bell to invent the metal detector."
+      "sourceUrl": "http://voices.yahoo.com/alexander-graham-bell-assassination-president-15134.html?cat=37"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Perhaps a realist, perhaps a bit deranged, maybe both? Bell's legacy is somewhat controversial to this day, though we cannot deny the amazing contributions he made to technology. What's your take?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

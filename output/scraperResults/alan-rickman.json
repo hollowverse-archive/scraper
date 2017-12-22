@@ -33,114 +33,181 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Alan Rickman was born and raised in London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.alan-rickman.com/articles/angel.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Rickman had an upbringing of mixed religious heritage. His mother was a Methodist of Welsh descent and his father was an Irish Catholic.",
       "sourceTitle": "Interview: Angel with Horns – The Guardian",
-      "text": "Rickman had an upbringing of mixed religious heritage. His mother was a Methodist of Welsh descent and his father was an Irish Catholic."
+      "sourceUrl": "http://www.alan-rickman.com/articles/angel.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000614/bio",
+      "type": "text",
+      "text": "Rickman's father died when he was eight years-old,",
+      "parentId": 2,
       "sourceTitle": "Alan Rickman – Biography",
-      "text": "Rickman's father died when he was eight years-old,"
+      "sourceUrl": "http://www.imdb.com/name/nm0000614/bio"
     },
     {
-      "type": "sentence",
-      "text": "so it's reasonable to assume that Methodism was more influential in his life than Catholicism."
+      "type": "text",
+      "text": "so it's reasonable to assume that Methodism was more influential in his life than Catholicism.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.goerie.com/apps/pbcs.dll/article?AID=/20081215/ENTERTAINMENT0702/312159963/-1/ENTERTAINMENT07",
+      "parentId": 3,
+      "type": "text",
+      "text": "However, Rickman–who doesn't really like to talk about his personal life",
       "sourceTitle": "Rickman never mixes acting with personal life",
-      "text": "However, Rickman–who doesn't really like to talk about his personal life"
+      "sourceUrl": "http://www.goerie.com/apps/pbcs.dll/article?AID=/20081215/ENTERTAINMENT0702/312159963/-1/ENTERTAINMENT07"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.chicagotribune.com/1999-11-07/news/9911070455_1_jason-mewes-and-smith-dogma-catholic-league",
+      "type": "text",
+      "text": "–hasn't gotten into his own, adult spiritual beliefs. Plus, he played God's messenger in the Catholic-inspired comedy,",
+      "parentId": 3
+    },
+    {
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Dogma"
+    },
+    {
+      "type": "text",
+      "text": ", and didn't seem to bat an eye at the controversy that swirled around it.",
+      "parentId": 3,
       "sourceTitle": "A Practicing Catholic On The Religious Storm Of 'Dogma.'",
-      "text": "–hasn't gotten into his own, adult spiritual beliefs. Plus, he played God's messenger in the Catholic-inspired comedy, , and didn't seem to bat an eye at the controversy that swirled around it."
+      "sourceUrl": "http://articles.chicagotribune.com/1999-11-07/news/9911070455_1_jason-mewes-and-smith-dogma-catholic-league"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=B-ivjlSuO90",
+      "parentId": 4,
+      "type": "text",
+      "text": "As far as I can tell, Rickman has only commented on his \"religion\" by likening his involvement with live theatre to his own, personal spiritual calling.",
       "sourceTitle": "Alan Rickman: Theatre is my religion…",
-      "text": "As far as I can tell, Rickman has only commented on his \"religion\" by likening his involvement with live theatre to his own, personal spiritual calling."
+      "sourceUrl": "http://www.youtube.com/watch?v=B-ivjlSuO90"
     },
     {
-      "type": "sentence",
-      "text": "I don't have an interpretation for this–perhaps he's an atheist or perhaps it was just a metaphor for him to describe how much he loves theatre."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "I don't have an interpretation for this–perhaps he's an atheist or perhaps it was just a metaphor for him to describe how much he loves theatre.",
+      "parentId": 4
     },
     {
       "type": "heading",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Labour by association"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000614/bio",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Rickman is widely cited as a Labour supporter.",
       "sourceTitle": "Alan Rickman – Biography",
-      "text": "Rickman is widely cited as a Labour supporter."
+      "sourceUrl": "http://www.imdb.com/name/nm0000614/bio"
     },
     {
-      "type": "sentence",
-      "text": "But passion for politics is something Rickman says has cooled in his life as he's grown older, seemingly because he's tired of rhetoric and politicians talking the talk:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But passion for politics is something Rickman says has cooled in his life as he's grown older, seemingly because he's tired of rhetoric and politicians talking the talk:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.alan-rickman.com/articles/angel.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I find myself becoming less and less enamoured of public statement – I'd rather see it in action.",
       "sourceTitle": "Interview: Angel with Horns – The Guardian",
-      "text": "I find myself becoming less and less enamoured of public statement – I'd rather see it in action."
+      "sourceUrl": "http://www.alan-rickman.com/articles/angel.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rbkc.gov.uk/committees/Members/tabid/62/ctl/ViewCMIS_Person/mid/384/id/212/Default.aspx",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "But his girlfriend of nearly 40 years, Rima Horton, is an economist and Labour politician.",
       "sourceTitle": "Rima Horton",
-      "text": "But his girlfriend of nearly 40 years, Rima Horton, is an economist and Labour politician."
+      "sourceUrl": "http://www.rbkc.gov.uk/committees/Members/tabid/62/ctl/ViewCMIS_Person/mid/384/id/212/Default.aspx"
     },
     {
-      "type": "sentence",
-      "text": "I imagine it's a very politically-aware relationship."
+      "type": "text",
+      "text": "I imagine it's a very politically-aware relationship.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "Rickman has been known to get annoyed when politics gets in the way of his \"religion.\" When a play he was directing about an activist protesting Israel's involvement in the Gaza Strip was cancelled for political sensitivity issues, Rickman didn't mince words:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/world/2006/feb/28/usa.israel",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "This is censorship born out of fear, and the New York Theatre Workshop, the Royal Court, New York audiences – all of us are the losers.",
       "sourceTitle": "Rickman slams 'censorship' of play about US Gaza activist",
-      "text": "This is censorship born out of fear, and the New York Theatre Workshop, the Royal Court, New York audiences – all of us are the losers."
+      "sourceUrl": "http://www.guardian.co.uk/world/2006/feb/28/usa.israel"
     },
     {
-      "type": "sentence",
-      "text": "So, between that and , Rickman isn't afraid to get into controversy, and he exercises his rights. Good on him."
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "text",
+      "text": "So, between that and"
+    },
+    {
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "Dogma"
+    },
+    {
+      "type": "text",
+      "text": ", Rickman isn't afraid to get into controversy, and he exercises his rights. Good on him.",
+      "parentId": 13
     }
   ],
   "wikipediaData": {

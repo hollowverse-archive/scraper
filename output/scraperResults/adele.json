@@ -30,55 +30,81 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Adele, whose real name is Adele Laurie Blue Adkins, was born in London, England and grew up in various places throughout southern England before completing her formative years back in London."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wiki.answers.com/Q/What_is_adele%27s_religion",
+      "parentId": 2,
+      "type": "text",
+      "text": "Adele is relatively new to fame and as such, hasn't been subjected to the requisite scrutiny over a celebrity's religious views. Even the numerous question and answer sites seem to be unwilling to speculate about Adele's religion.",
       "sourceTitle": "What is adele's religion",
-      "text": "Adele is relatively new to fame and as such, hasn't been subjected to the requisite scrutiny over a celebrity's religious views. Even the numerous question and answer sites seem to be unwilling to speculate about Adele's religion."
+      "sourceUrl": "http://wiki.answers.com/Q/What_is_adele%27s_religion"
     },
     {
-      "type": "sentence",
-      "text": "But her time will surely come."
+      "type": "text",
+      "text": "But her time will surely come.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "However, it is reasonable to assume that Adele, being a white Englishwoman, probably has Anglican/Episcopalian roots and, if forced to, would probably identify as Christian."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 4
     },
     {
-      "type": "heading",
+      "parentId": 4,
+      "type": "text",
       "text": "Conservative–for personal reasons"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Adele is a bit more interesting politically. In fact, she might be considered somewhat conservative. She was pretty fired-up over her tax bill and the British government's use of her money, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.policymic.com/articles/4154/would-grammy-winner-adele-be-a-ron-paul-supporter",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I'm mortified to have to pay 50 percent! [While] I use the NHS (National Health Service), I can't use public transport any more. Trains are always late, most state schools are shit, and I've gotta give you, like, four million quid – are you having a laugh? When I got my tax bill in from [the album] 19, I was ready to go and buy a gun and randomly open fire.",
       "sourceTitle": "Would Grammy Winner Adele Be a Ron Paul Supporter.",
-      "text": "I'm mortified to have to pay 50 percent! [While] I use the NHS (National Health Service), I can't use public transport any more. Trains are always late, most state schools are shit, and I've gotta give you, like, four million quid – are you having a laugh? When I got my tax bill in from [the album] 19, I was ready to go and buy a gun and randomly open fire."
+      "sourceUrl": "http://www.policymic.com/articles/4154/would-grammy-winner-adele-be-a-ron-paul-supporter"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "There you have it, a British celebrity standing up against the European welfare state. It's rare, and her publicist probably wasn't too happy, but the girl speaks her mind."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

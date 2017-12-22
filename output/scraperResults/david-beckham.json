@@ -35,103 +35,147 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "David Beckham was born in London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0065743/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Beckham's maternal grandfather was Jewish, making him one-quarter Jewish.",
       "sourceTitle": "David Beckham (I) – Biography",
-      "text": "Beckham's maternal grandfather was Jewish, making him one-quarter Jewish."
+      "sourceUrl": "http://www.imdb.com/name/nm0065743/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/football/2007/jul/14/newsstory.losangelesgalaxy",
+      "type": "text",
+      "text": "However, Beckham says that he's half Jewish",
+      "parentId": 2,
       "sourceTitle": "Beckham launches into the Galaxy – Football",
-      "text": "However, Beckham says that he's half Jewish"
+      "sourceUrl": "http://www.guardian.co.uk/football/2007/jul/14/newsstory.losangelesgalaxy"
     },
     {
-      "type": "sentence",
-      "text": "He indicates that he relates quite a bit to Judaism, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He indicates that he relates quite a bit to Judaism, saying:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.somethingjewish.co.uk/articles/421_david_beckham.htm",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I've probably had more contact with Judaism than with any other religion. I used to wear the traditional Jewish skullcaps when I was younger, and I also went along to some Jewish weddings with my grandfather.",
       "sourceTitle": "David Beckham",
-      "text": "I've probably had more contact with Judaism than with any other religion. I used to wear the traditional Jewish skullcaps when I was younger, and I also went along to some Jewish weddings with my grandfather."
+      "sourceUrl": "http://www.somethingjewish.co.uk/articles/421_david_beckham.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://books.google.com/books?id=92wDxf13hoEC&pg=PA11&lpg=PA11&dq=Both+Feet+on+the+Ground+church+beckham&hl=en#v=onepage&q&f=false",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "There is another side to this, though. First of all, Beckham cites regularly going to church with his family as a child, but only because he wanted to play soccer for a church-related team.",
       "sourceTitle": "Beckham: Both Feet on the Ground, David Beckham, Tom Watt",
-      "text": "There is another side to this, though. First of all, Beckham cites regularly going to church with his family as a child, but only because he wanted to play soccer for a church-related team."
+      "sourceUrl": "http://books.google.com/books?id=92wDxf13hoEC&pg=PA11&lpg=PA11&dq=Both+Feet+on+the+Ground+church+beckham&hl=en#v=onepage&q&f=false"
     },
     {
-      "type": "sentence",
-      "text": "Beckham doesn't mention what denomination the church was that he attended as a child, but considering it was in line with such English traditions as soccer, it was probably your standard Anglican/Episcopalian denomination."
+      "type": "text",
+      "text": "Beckham doesn't mention what denomination the church was that he attended as a child, but considering it was in line with such English traditions as soccer, it was probably your standard Anglican/Episcopalian denomination.",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1242247/Cross-Becks-David-gets-Jesus-tattoo.html",
+      "parentId": 6,
+      "type": "text",
+      "text": "Furthermore, Beckham is nearly covered with Christian-themed tattoos, such as a rendering of Jesus sitting on a cross on his side, an angel on his back, and a cross with wings on his neck.",
       "sourceTitle": "Cross and Becks: David gets a Jesus tattoo",
-      "text": "Furthermore, Beckham is nearly covered with Christian-themed tattoos, such as a rendering of Jesus sitting on a cross on his side, an angel on his back, and a cross with wings on his neck."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1242247/Cross-Becks-David-gets-Jesus-tattoo.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "All in all, the issue of David Beckham and religion is somewhat confused with the only clear designation one could draw being that Beckham identifies with the Judeo/Christian tradition."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Fantasy politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Beckham doesn't seem to be too political. Really, who needs it when your worth hundreds of millions of dollars? But he is keen on cracking jokes about it. When asked to comment on the French presidential elections, Beckham launched into an elaborate joke about his aspirations to be king of the fictional land of Narnia. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://newsthump.com/2012/01/11/i-want-to-become-king-of-narnia-reveals-david-beckham/",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "[A friend] took me to one side and said that I would make myself look stupid if I tried to claim the throne of Narnia. He suggested that Middle-earth would be more realistic, but my mind is made up.",
       "sourceTitle": "I want to become king of Narnia, reveals David Beckham",
-      "text": "[A friend] took me to one side and said that I would make myself look stupid if I tried to claim the throne of Narnia. He suggested that Middle-earth would be more realistic, but my mind is made up."
+      "sourceUrl": "http://newsthump.com/2012/01/11/i-want-to-become-king-of-narnia-reveals-david-beckham/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.politico.com/blogs/click/0611/David_Beckham_is_an_Obama_fan_.html",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "In all seriousness, Beckham, though British, seems to more identify with the Democrat/liberal side of his adopted country of the United States. He has said that Obama is \"amazing\"",
       "sourceTitle": "David Beckham is an Obama fan",
-      "text": "In all seriousness, Beckham, though British, seems to more identify with the Democrat/liberal side of his adopted country of the United States. He has said that Obama is \"amazing\""
+      "sourceUrl": "http://www.politico.com/blogs/click/0611/David_Beckham_is_an_Obama_fan_.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.holymoly.com/celebrity-news/david-beckham-proud-be-straight-gay-man7000",
+      "type": "text",
+      "text": "and though he's never spoken about gay rights, (even though he is happy to be considered a \"gay icon\")",
+      "parentId": 12,
       "sourceTitle": "David Beckham proud to be a straight gay man",
-      "text": "and though he's never spoken about gay rights, (even though he is happy to be considered a \"gay icon\")"
+      "sourceUrl": "http://www.holymoly.com/celebrity-news/david-beckham-proud-be-straight-gay-man7000"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebuzz.com/photos/celebrity-godparents/elton-john-david-beckham/",
+      "type": "text",
+      "text": "Beckham did choose Elton John to be his son's godfather (a Catholic tradition, only more confusing the David Beckham religious issue).",
+      "parentId": 12,
       "sourceTitle": "Photos – Celebrity Godparents: David Beckham & Elton John – 6 -",
-      "text": "Beckham did choose Elton John to be his son's godfather (a Catholic tradition, only more confusing the David Beckham religious issue)."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.celebuzz.com/photos/celebrity-godparents/elton-john-david-beckham/"
     }
   ],
   "wikipediaData": {

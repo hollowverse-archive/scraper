@@ -32,104 +32,149 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Michael Kors, whose given name is Karl Anderson, Jr., was born in Long Island, New York and was raised in Merrick, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewishvirtuallibrary.org/jsource/biography/Fashion.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Kors' mother is Jewish, which technically makes him Jewish. He had a bar mitzvah too,",
       "sourceTitle": "Jewish Fashion Icons.",
-      "text": "Kors' mother is Jewish, which technically makes him Jewish. He had a bar mitzvah too,"
+      "sourceUrl": "http://www.jewishvirtuallibrary.org/jsource/biography/Fashion.html"
     },
     {
-      "type": "sentence",
-      "text": "so he had to have been reading up on the Torah at least a little bit when he was a kid."
+      "type": "text",
+      "text": "so he had to have been reading up on the Torah at least a little bit when he was a kid.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.elle.com/news/fashion-style/michael-kors-talks-bar-mitzvahs-premonitions-ipos-43761",
+      "parentId": 3,
+      "type": "text",
+      "text": "He doesn't really talk about his childhood religion much now, though. Although he did say that ringing the bell at the New York Stock Exchange on the day his company went public was \"better than my Bar Mitzvah.\"",
       "sourceTitle": "Michael Kors Talks Bar Mitzvahs, Premonitions, and IPOs.",
-      "text": "He doesn't really talk about his childhood religion much now, though. Although he did say that ringing the bell at the New York Stock Exchange on the day his company went public was \"better than my Bar Mitzvah.\""
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.elle.com/news/fashion-style/michael-kors-talks-bar-mitzvahs-premonitions-ipos-43761"
     },
     {
       "type": "heading",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "Democratic fashion"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newsmeat.com/celebrity_political_donations/Michael_Kors.php",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Considering Kors has donated a whopping $36,712 to Democratic candidates and committees since 2004,",
       "sourceTitle": "Michael Kors' Federal Campaign Contribution Report.",
-      "text": "Considering Kors has donated a whopping $36,712 to Democratic candidates and committees since 2004,"
+      "sourceUrl": "http://newsmeat.com/celebrity_political_donations/Michael_Kors.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.nydailynews.com/2009-02-27/entertainment/17916928_1_first-lady-michelle-obama-official-portrait-white-house",
+      "type": "text",
+      "text": "I think it's safe to say he's a Democrat. And he was donating long before Michelle Obama started wearing his clothes.",
+      "parentId": 5,
       "sourceTitle": "Michelle Obama wears Michael Kors dress in first official portrait as First Lady.",
-      "text": "I think it's safe to say he's a Democrat. And he was donating long before Michelle Obama started wearing his clothes."
+      "sourceUrl": "http://articles.nydailynews.com/2009-02-27/entertainment/17916928_1_first-lady-michelle-obama-official-portrait-white-house"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.forbes.com/sites/leahbourne/2012/04/13/is-fashion-ready-to-go-green/",
+      "parentId": 6,
+      "type": "text",
+      "text": "Despite the fact that environmentalism in fashion is a hot topic,",
       "sourceTitle": "Is Fashion Ready To Go Green?",
-      "text": "Despite the fact that environmentalism in fashion is a hot topic,"
+      "sourceUrl": "http://www.forbes.com/sites/leahbourne/2012/04/13/is-fashion-ready-to-go-green/"
     },
     {
-      "type": "sentence",
-      "text": "and fits in with his political party's ideals, Kors hasn't jumped on the bandwagon just yet. Going green isn't easy for his industry, but if everybody else starts doing it, maybe he'll find it easier."
+      "type": "text",
+      "text": "and fits in with his political party's ideals, Kors hasn't jumped on the bandwagon just yet. Going green isn't easy for his industry, but if everybody else starts doing it, maybe he'll find it easier.",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ohnotheydidnt.livejournal.com/62038437.html",
+      "parentId": 7,
+      "type": "text",
+      "text": "He's obviously a fan of gay marriage since he married his own longtime partner Lance LePere in New York in 2011.",
       "sourceTitle": "Michael Kors & Lance LePere Tie the Knot!",
-      "text": "He's obviously a fan of gay marriage since he married his own longtime partner Lance LePere in New York in 2011."
+      "sourceUrl": "http://ohnotheydidnt.livejournal.com/62038437.html"
     },
     {
-      "type": "sentence",
-      "text": "About the marriage, Kors said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "About the marriage, Kors said,",
+      "parentId": 7
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.cbsnews.com/8301-31749_162-20093691-10391698.html",
-      "sourceTitle": "Designer Michael Kors marries longtime partner.",
-      "text": "Lance and I are very excited to finally be able to have the opportunity to marry in our home state after many years together."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Lance and I are very excited to finally be able to have the opportunity to marry in our home state after many years together.",
+      "sourceTitle": "Designer Michael Kors marries longtime partner.",
+      "sourceUrl": "http://www.cbsnews.com/8301-31749_162-20093691-10391698.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "He's probably excited, too, that the party he has supported for so long put it in their platform to support his and other same-sex marriages."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "The designer has also used his celebrity to support gay youth. He recorded a video for the \"It Gets Better\" campaign which aims to help young people in the LBGT community get through their teen years. He talked about how hard it was for him growing up."
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 12
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2010/10/19/michael-kors-on-being-gay_n_768054.html",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "When I was growing up, I heard every name called to me. . . . And you know what, you feel different. . . . You are different. Different will turn out to be a great thing for you. . . . If I was like everybody else, I couldn't do what I do.",
       "sourceTitle": "Michael Kors On Being Gay: I Was Called Every Name Growing Up.",
-      "text": "When I was growing up, I heard every name called to me. . . . And you know what, you feel different. . . . You are different. Different will turn out to be a great thing for you. . . . If I was like everybody else, I couldn't do what I do."
+      "sourceUrl": "http://www.huffingtonpost.com/2010/10/19/michael-kors-on-being-gay_n_768054.html"
     }
   ],
   "wikipediaData": {

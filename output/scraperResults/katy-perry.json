@@ -33,86 +33,156 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Katy Perry grew up in Santa Barbara with two pastors for parents. She even sang in the church choir."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "It was a strict religious household and, like many children from religious families, she has pretty much turned her back on it."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "For her the choice to get out of religion was a result of hearing some great rock n' roll. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.jesus-is-savior.com/Evils%20in%20America/Rock-n-Roll/katy_perry.htm",
-      "sourceTitle": "Katy Perry: from Gospel Singer to Apostate",
-      "text": "The heavens opened my eyes when I stumbled upon a Queen record and I was forever saved."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "The heavens opened my eyes when I stumbled upon a Queen record and I was forever saved.",
+      "sourceTitle": "Katy Perry: from Gospel Singer to Apostate",
+      "sourceUrl": "http://www.jesus-is-savior.com/Evils%20in%20America/Rock-n-Roll/katy_perry.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "And let's face it, she really went all-out in her rebellion of hard-core Christianity with lyrics like this:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.metrolyrics.com/i-kissed-a-girl-elderly-remix-lyrics-katy-perry.html",
-      "sourceTitle": "Katy Perry – I Kissed a Girl (Elderly Remix) Lyrics",
-      "text": "I kissed a girl and I like it."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I kissed a girl and I like it.",
+      "sourceTitle": "Katy Perry – I Kissed a Girl (Elderly Remix) Lyrics",
+      "sourceUrl": "http://www.metrolyrics.com/i-kissed-a-girl-elderly-remix-lyrics-katy-perry.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Still, there's some signs that she's not totally non-religious, and definitely not an atheist. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.mtv.com/news/articles/1645124/katy-perry-mixing-sex-religion-makes-bad-things-happen.jhtml",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I am sensitive to Russell [Brand, Perry's then-husband] taking the Lord's name in vain and to Lady Gaga putting a rosary in her mouth. I think when you put sex and spirituality in the same bottle and shake it up, bad things happen.",
       "sourceTitle": "Katy Perry Says Mixing Sex and Religion Makes 'Bad Things Happen'",
-      "text": "I am sensitive to Russell [Brand, Perry's then-husband] taking the Lord's name in vain and to Lady Gaga putting a rosary in her mouth. I think when you put sex and spirituality in the same bottle and shake it up, bad things happen."
+      "sourceUrl": "http://www.mtv.com/news/articles/1645124/katy-perry-mixing-sex-religion-makes-bad-things-happen.jhtml"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
+      "text": "\"Fucking absolutely crazy\""
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Perry hasn't been shy about talking politics. She's socially liberal and has come out for gay rights, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.dosomething.org/page/katy-perry-talks-about-gay-rights-interview-with-cgg",
-      "sourceTitle": "Katy Perry talks about gay rights in interview with CGG",
-      "text": "I am a gay activist and I say that proudly. I voted no on Prop 8 [California's Nov. 4, 2008, amendment declaring that marriage is defined as a union solely between a man and a woman], of course."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I am a gay activist and I say that proudly. I voted no on Prop 8 [California's Nov. 4, 2008, amendment declaring that marriage is defined as a union solely between a man and a woman], of course.",
+      "sourceTitle": "Katy Perry talks about gay rights in interview with CGG",
+      "sourceUrl": "http://www.dosomething.org/page/katy-perry-talks-about-gay-rights-interview-with-cgg"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "She's even come out against the state of American society and her part in it, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 17
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://dailycaller.com/2011/06/22/katy-perry-talks-politics-fame-in-rolling-stone/",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I think we are largely in desperate need of revolutionary change in the way our mindset is. Our priority is fame, and people's wellness is way low. I say this knowing full well that I'm a part of the problem. I'm playing the game, though I am trying to reroute. Anyway, not to get all politically divulging and introspective, but the fact that America doesn't have free health care drives me fucking absolutely crazy, and is so wrong.",
       "sourceTitle": "Katy Perry – Universal Health Care",
-      "text": "I think we are largely in desperate need of revolutionary change in the way our mindset is. Our priority is fame, and people's wellness is way low. I say this knowing full well that I'm a part of the problem. I'm playing the game, though I am trying to reroute. Anyway, not to get all politically divulging and introspective, but the fact that America doesn't have free health care drives me fucking absolutely crazy, and is so wrong."
+      "sourceUrl": "http://dailycaller.com/2011/06/22/katy-perry-talks-politics-fame-in-rolling-stone/"
     }
   ],
   "wikipediaData": {
@@ -145,7 +215,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "CC-PD-Mark|Extracted images|Females with handheld microphones (right)|Hillary Clinton supporters|Images from Voice of America|Katy Perry performance at the 2016 Democratic National Convention|PD VOA|Voice of America coverage of the United States presidential election, 2016",
+            "value": "CC-PD-Mark|Extracted images|Females with handheld microphones (right)|Hillary Clinton supporters|Images from Voice of America|Katy Perry performance at the 2016 Democratic National Convention|PD VOA|Voice of America coverage of the 2016 DNC",
             "source": "commons-categories",
             "hidden": ""
           },

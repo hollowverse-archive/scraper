@@ -29,73 +29,110 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Candice Swanepoel was born and raised in Mooi River, South Africa."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "Swanepoel doesn't mention religion in interviews or on her . She doesn't wear a cross, go to church, or pray either, as far as I can tell."
+      "parentId": 2,
+      "type": "text",
+      "text": "Swanepoel doesn't mention religion in interviews or on her"
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "link",
+      "text": "Twitter feed",
+      "sourceUrl": "https://twitter.com/angelcandice"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_South_Africa",
+      "type": "text",
+      "text": ". She doesn't wear a cross, go to church, or pray either, as far as I can tell.",
+      "parentId": 2
+    },
+    {
+      "type": "paragraph",
+      "id": 3
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "Considering that the vast majority of South Africans are Christian,",
       "sourceTitle": "Religion in South Africa.",
-      "text": "Considering that the vast majority of South Africans are Christian,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_South_Africa"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/angelcandice/status/284388235256410114",
+      "type": "text",
+      "text": "she was probably either raised vaguely Christian or exposed to that religion while she was growing up. And the fact that she sent out a Merry Christmas tweet would back that up–even if it was two days late.",
+      "parentId": 3,
       "sourceTitle": "angelcandice: Hope everyone had a very merry …",
-      "text": "she was probably either raised vaguely Christian or exposed to that religion while she was growing up. And the fact that she sent out a Merry Christmas tweet would back that up–even if it was two days late."
+      "sourceUrl": "https://twitter.com/angelcandice/status/284388235256410114"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "But that's all we've got. So despite any murky ties to Christianity, I'm going to call this model non-religious until further notice."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "And she's just as silent on politics as she is on religion. She doesn't say a thing."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2011/03/31/candice-swanepoel-skinny-victorias-secret_n_843138.html#slide=more18888",
+      "parentId": 6,
+      "type": "text",
+      "text": "As often happens to models, she's been criticized for being too thin,",
       "sourceTitle": "Candice Swanepoel 'Scary Skinny' At Victoria's Secret Swim Event.",
-      "text": "As often happens to models, she's been criticized for being too thin,"
+      "sourceUrl": "http://www.huffingtonpost.com/2011/03/31/candice-swanepoel-skinny-victorias-secret_n_843138.html#slide=more18888"
     },
     {
-      "type": "sentence",
-      "text": "which can have implications for the politics of body image and how women are represented in the media. Her response was to say:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "which can have implications for the politics of body image and how women are represented in the media. Her response was to say:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.people.com/people/article/0,,20478391,00.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I am healthy and happy. I'm heartened to know how much everyone cares about me, but in this case, everything is normal and good.",
       "sourceTitle": "Candice Swanepoel: Victoria's Secret Model Says She's Healthy.",
-      "text": "I am healthy and happy. I'm heartened to know how much everyone cares about me, but in this case, everything is normal and good."
+      "sourceUrl": "http://www.people.com/people/article/0,,20478391,00.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "That's hardly engaging in the debate about body image and appropriate role models. So we'll call her non-political too. If you have any information I missed, let us know in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

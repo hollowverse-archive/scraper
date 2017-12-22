@@ -34,106 +34,170 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kristin Cavallari was born in Denver, Colorado and was raised there, in Illinois and in Laguna Beach, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm1738059/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Cavallari is of Italian descent and during her freshman year of high school, she attended a Catholic school.",
       "sourceTitle": "Kristin Cavallari – Biography",
-      "text": "Cavallari is of Italian descent and during her freshman year of high school, she attended a Catholic school."
+      "sourceUrl": "http://www.imdb.com/name/nm1738059/bio"
     },
     {
-      "type": "sentence",
-      "text": "That's about all we've got to go on regarding her religious views. She doesn't appear to be a very spiritual person."
+      "type": "text",
+      "text": "That's about all we've got to go on regarding her religious views. She doesn't appear to be a very spiritual person.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Of course, we could pull out the old big-Catholic-family cliche. When asked if she and football player husband, Jay Cutler, were considering a second child, she said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.usmagazine.com/celebrity-news/news/kristin-cavallari-on-wedding-to-jay-cutler-everything-is-planned-and-ready-to-go--2013232",
-      "sourceTitle": "Kristin Cavallari on Wedding to Jay Cutler: \"Everything is Planned and Ready to Go.\"",
-      "text": "Yeah. It's a lot of fun. Yeah, we want a bunch of kids."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Yeah. It's a lot of fun. Yeah, we want a bunch of kids.",
+      "sourceTitle": "Kristin Cavallari on Wedding to Jay Cutler: \"Everything is Planned and Ready to Go.\"",
+      "sourceUrl": "http://www.usmagazine.com/celebrity-news/news/kristin-cavallari-on-wedding-to-jay-cutler-everything-is-planned-and-ready-to-go--2013232"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "So, unless any of you dispute, we're going with Catholic lite."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "About what you'd expect"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://celebrity-gossip.net/celebrities/hollywood/kristin-cavallari-likes-obama-loves-salons-204800",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Cavallari has admitted that she's not all that into politics,",
       "sourceTitle": "Kristin Cavallari Likes Obama, Loves Salons",
-      "text": "Cavallari has admitted that she's not all that into politics,"
+      "sourceUrl": "http://celebrity-gossip.net/celebrities/hollywood/kristin-cavallari-likes-obama-loves-salons-204800"
     },
     {
-      "type": "sentence",
-      "text": "but that's not entirely true. She supported Obama during his initial bid for president in 2008, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but that's not entirely true. She supported Obama during his initial bid for president in 2008, saying:",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://celebrity-gossip.net/celebrities/hollywood/kristin-cavallari-likes-obama-loves-salons-204800",
-      "sourceTitle": "Kristin Cavallari Likes Obama, Loves Salons",
-      "text": "Obama seems like a really cool genuine guy, which I think is hard to find nowadays in a president."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Obama seems like a really cool genuine guy, which I think is hard to find nowadays in a president.",
+      "sourceTitle": "Kristin Cavallari Likes Obama, Loves Salons",
+      "sourceUrl": "http://celebrity-gossip.net/celebrities/hollywood/kristin-cavallari-likes-obama-loves-salons-204800"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Plus, she's been a public activist for various causes. She did an ad for PETA decrying the use of fur in clothing. She said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 12
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=dytb-tTwPBo",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "You wouldn't want someone killing you for your skin. It's the same thing.",
       "sourceTitle": "Laguna Beach's Kristin Cavallari Says 'No' To Fur",
-      "text": "You wouldn't want someone killing you for your skin. It's the same thing."
+      "sourceUrl": "http://www.youtube.com/watch?v=dytb-tTwPBo"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.noh8campaign.com/article/kristin-cavallari-mams-taylor-jennifer-gimenez",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "And Cavallari is on board with the old liberal standby of gay marriage. She posed for the NOH8 campaign, a group in opposition to California's Prop 8, a law that banned gay marriage in the state.",
       "sourceTitle": "Kristin Cavallari, Mams Taylor, & Jennifer Giminez",
-      "text": "And Cavallari is on board with the old liberal standby of gay marriage. She posed for the NOH8 campaign, a group in opposition to California's Prop 8, a law that banned gay marriage in the state."
+      "sourceUrl": "http://www.noh8campaign.com/article/kristin-cavallari-mams-taylor-jennifer-gimenez"
     },
     {
-      "type": "sentence",
-      "text": "Her one and only semi-political tweet on her feed (that I found) was a retweet in support of gay marriage:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Her one and only semi-political tweet on her feed (that I found) was a retweet in support of gay marriage:",
+      "parentId": 14
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/KristinCav",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Yes! #bingit RT @HarjitSarang: @KristinCav Hi will you support your gay followers by RT'ng a 'yes' in support of #equalmarriage please? ;)x",
       "sourceTitle": "Kristin Cavallari (KristinCav) on Twitter",
-      "text": "Yes! #bingit RT @HarjitSarang: @KristinCav Hi will you support your gay followers by RT'ng a 'yes' in support of #equalmarriage please? ;)x"
+      "sourceUrl": "https://twitter.com/KristinCav"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Add that all up, and Cavallari goes in the pile with the rest of the liberal Democrats."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

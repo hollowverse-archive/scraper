@@ -31,76 +31,122 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kristen Wiig was born in Canandaigua, New York. She grew up there, in Lancaster, Pennsylvania, and Rochester, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.independent.ie/entertainment/film-cinema/always-the-bridesmaid-2677666.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Wiig doesn't appear to be terribly religious. Her Irish, Norwegian, Scottish, and English ancestry",
       "sourceTitle": "Always the bridesmaid.",
-      "text": "Wiig doesn't appear to be terribly religious. Her Irish, Norwegian, Scottish, and English ancestry"
+      "sourceUrl": "http://www.independent.ie/entertainment/film-cinema/always-the-bridesmaid-2677666.html"
     },
     {
-      "type": "sentence",
-      "text": "suggests mostly Protestant with a little bit of Catholic thrown into the mix, but she doesn't give any indication that she's a practicing Christian."
+      "type": "text",
+      "text": "suggests mostly Protestant with a little bit of Catholic thrown into the mix, but she doesn't give any indication that she's a practicing Christian.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.squidoo.com/AtheistCharacters",
+      "parentId": 3,
+      "type": "text",
+      "text": "In the movie"
+    },
+    {
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Paul"
+    },
+    {
+      "type": "text",
+      "text": ", Wiig plays a fundamentalist Christian who goes through a transformation, and loses her faith in religion after hanging out with some atheists.",
+      "parentId": 3,
       "sourceTitle": "Atheist Characters.",
-      "text": "In the movie , Wiig plays a fundamentalist Christian who goes through a transformation, and loses her faith in religion after hanging out with some atheists."
+      "sourceUrl": "http://www.squidoo.com/AtheistCharacters"
     },
     {
-      "type": "sentence",
-      "text": "Wiig gave no indication about her own religious leanings or lack thereof in interviews about the movie, but she did make it clear that she doesn't think the film is disrespectful to Christians. When asked how she felt about playing a fundamentalist Christian, she definitely didn't seem like she was one herself:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Wiig gave no indication about her own religious leanings or lack thereof in interviews about the movie, but she did make it clear that she doesn't think the film is disrespectful to Christians. When asked how she felt about playing a fundamentalist Christian, she definitely didn't seem like she was one herself:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.examiner.com/article/jason-bateman-and-kristen-wiig-find-the-funny-side-of-fanaticism-paul",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I wasn't bothered by it, because I didn't feel we were making fun of it. . . . I think they took that and they made it a very funny character trait, more than making fun of anyone or making a statement about anything, I think.",
       "sourceTitle": "Jason Bateman and Kristen Wiig find the funny side of fanaticism in 'Paul.'",
-      "text": "I wasn't bothered by it, because I didn't feel we were making fun of it. . . . I think they took that and they made it a very funny character trait, more than making fun of anyone or making a statement about anything, I think."
+      "sourceUrl": "http://www.examiner.com/article/jason-bateman-and-kristen-wiig-find-the-funny-side-of-fanaticism-paul"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2011/05/01/magazine/mag-01wiig-t.html?pagewanted=all&_r=0",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "So I'm guessing that she's non-religious, but has nothing against religion. Because after all, there was that time she traveled around India for three months and spent some time meditating at a monastery,",
       "sourceTitle": "Can Kristen Wiig Turn On the Charm?",
-      "text": "So I'm guessing that she's non-religious, but has nothing against religion. Because after all, there was that time she traveled around India for three months and spent some time meditating at a monastery,"
+      "sourceUrl": "http://www.nytimes.com/2011/05/01/magazine/mag-01wiig-t.html?pagewanted=all&_r=0"
     },
     {
-      "type": "sentence",
-      "text": "but still there's no indication that she converted to Hinduism or Buddhism. So non-religious it is."
+      "type": "text",
+      "text": "but still there's no indication that she converted to Hinduism or Buddhism. So non-religious it is.",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thejanedough.com/michele-bachmann-snl/",
+      "parentId": 7,
+      "type": "text",
+      "text": "Wiig appears to be entirely non-political as well. As a prominent member on the sketch TV show"
+    },
+    {
+      "parentId": 7,
+      "type": "emphasis",
+      "text": "Saturday Night Live"
+    },
+    {
+      "type": "text",
+      "text": ", she is inevitably drawn into the political world through comedy. She played former Republican presidential primary candidate Michele Bachmann,",
+      "parentId": 7,
       "sourceTitle": "SNL's Michele Bachmann Talks About Texting With God.",
-      "text": "Wiig appears to be entirely non-political as well. As a prominent member on the sketch TV show , she is inevitably drawn into the political world through comedy. She played former Republican presidential primary candidate Michele Bachmann,"
+      "sourceUrl": "http://www.thejanedough.com/michele-bachmann-snl/"
     },
     {
-      "type": "sentence",
-      "text": "although I couldn't find any interviews of her giving her own opinion on the congresswoman."
+      "type": "text",
+      "text": "although I couldn't find any interviews of her giving her own opinion on the congresswoman.",
+      "parentId": 7
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "Likewise, she hasn't said anything about her opinion of Obama, gay marriage, education, gun control. . . You get the point. She manages to stay completely out of the debate. Maybe she just doesn't vote or care to get involved. Maybe she is passionately opinionated but just chooses to keep it private. It's really anyone's guess. If you have any clues for us, please let us know in the comments!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

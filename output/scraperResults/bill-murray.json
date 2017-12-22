@@ -38,119 +38,181 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.oddballdaily.com/2011/07/08/9-things-you-probably-didnt-know-about-bill-murray/",
+      "parentId": 1,
+      "type": "text",
+      "text": "Bill Murray was born and raised in Wilmette, Illinois."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Murray comes from a large Irish Catholic family of nine children.",
       "sourceTitle": "9 Things You Probably Didn't Know About Bill Murray",
-      "text": "Murray comes from a large Irish Catholic family of nine children."
+      "sourceUrl": "http://www.oddballdaily.com/2011/07/08/9-things-you-probably-didnt-know-about-bill-murray/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000195/bio",
+      "type": "text",
+      "text": "And he attended a Jesuit school as a youngster.",
+      "parentId": 2,
       "sourceTitle": "Bill Murray (I) – Biography",
-      "text": "And he attended a Jesuit school as a youngster."
+      "sourceUrl": "http://www.imdb.com/name/nm0000195/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "But at this point, there's no evidence that he is a practicing Catholic, or religious at all for that matter. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://steelmanthehumanist.wordpress.com/2012/12/02/bill-murray-philosopher-humanist/",
-      "sourceTitle": "Bill Murray Philosopher/Humanist?",
-      "text": "Religion is the worst enemy of mankind. No single war in the history of humanity has killed as many people as religion has."
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rawstory.com/rs/2012/07/14/bill-murrays-minor-league-baseball-team-to-celebrate-atheism-night/",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Religion is the worst enemy of mankind. No single war in the history of humanity has killed as many people as religion has.",
+      "sourceTitle": "Bill Murray Philosopher/Humanist?",
+      "sourceUrl": "http://steelmanthehumanist.wordpress.com/2012/12/02/bill-murray-philosopher-humanist/"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Plus, Murray is the co-owner of several minor league baseball teams, one of which (The St. Paul Saints) had an atheist night in which they changed their names to the \"St. Paul Aints.\"",
       "sourceTitle": "Bill Murray's minor league baseball team to celebrate atheism night",
-      "text": "Plus, Murray is the co-owner of several minor league baseball teams, one of which (The St. Paul Saints) had an atheist night in which they changed their names to the \"St. Paul Aints.\""
+      "sourceUrl": "http://www.rawstory.com/rs/2012/07/14/bill-murrays-minor-league-baseball-team-to-celebrate-atheism-night/"
     },
     {
-      "type": "sentence",
-      "text": "It's unclear if Murray had anything to do with it, but one could assume they wouldn't have had an \"atheism night\" if they felt their owner might be upset."
+      "type": "text",
+      "text": "It's unclear if Murray had anything to do with it, but one could assume they wouldn't have had an \"atheism night\" if they felt their owner might be upset.",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://steelmanthehumanist.wordpress.com/2012/12/02/bill-murray-philosopher-humanist/",
+      "parentId": 7,
+      "type": "text",
+      "text": "Other than that, Murray seems largely non-religious, though he has said his philosophy of life is to be relaxed, and that it helps with life, work, and relationships.",
       "sourceTitle": "Bill Murray Philosopher/Humanist?",
-      "text": "Other than that, Murray seems largely non-religious, though he has said his philosophy of life is to be relaxed, and that it helps with life, work, and relationships."
+      "sourceUrl": "http://steelmanthehumanist.wordpress.com/2012/12/02/bill-murray-philosopher-humanist/"
     },
     {
-      "type": "sentence",
-      "text": "Probably some wise words there."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Probably some wise words there.",
+      "parentId": 7
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Blue isn't quite good enough, how about Green"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Bill_Murray.php",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Murray is fairly quiet about his political views as well, though we do know some of the candidates he's supported. As far as financial contributions, Murray has only ever donated to Democrats.",
       "sourceTitle": "Bill Murray's Federal Campaign Contribution Report",
-      "text": "Murray is fairly quiet about his political views as well, though we do know some of the candidates he's supported. As far as financial contributions, Murray has only ever donated to Democrats."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Bill_Murray.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2000/10/15/us/the-2000-campaign-the-green-party-in-nader-supporters-math-gore-equals-bush.html",
+      "type": "text",
+      "text": "But he did explicitly endorse Ralph Nader and the Green Party in 2000.",
+      "parentId": 9,
       "sourceTitle": "The 2000 Campaign: The Green Party; In Nader Supporters' Math, Gore Equals Bush",
-      "text": "But he did explicitly endorse Ralph Nader and the Green Party in 2000."
+      "sourceUrl": "http://www.nytimes.com/2000/10/15/us/the-2000-campaign-the-green-party-in-nader-supporters-math-gore-equals-bush.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.eonline.com/news/277044/hoop-hookup-president-obama-and-bill-murray",
+      "parentId": 10,
+      "type": "text",
+      "text": "And though Murray met Obama purely by chance at a basketball game,",
       "sourceTitle": "Hoop Hookup: President Obama and Bill Murray",
-      "text": "And though Murray met Obama purely by chance at a basketball game,"
+      "sourceUrl": "http://www.eonline.com/news/277044/hoop-hookup-president-obama-and-bill-murray"
     },
     {
-      "type": "sentence",
-      "text": "he never endorsed him. In fact, when asked about the Obama/Romney race in 2012, Murray said there really wasn't much difference between them:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "he never endorsed him. In fact, when asked about the Obama/Romney race in 2012, Murray said there really wasn't much difference between them:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.entertainmentwise.com/news/91367/Bill-Murray-Barack-Obama-And-Mitt-Romney-Are-No-Different-From-Each-Other",
-      "sourceTitle": "Bill Murray: Barack Obama and Mitt Romney Are 'Not So Different' From Each Other",
-      "text": "You know they both talk, they're not so different really, you know if you shake them out, they're not so different as people in what they say they believe it's just whether or not they can get it done, and that requires finding that stuff, that real stuff, finding that presence of mind and spirit."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "You know they both talk, they're not so different really, you know if you shake them out, they're not so different as people in what they say they believe it's just whether or not they can get it done, and that requires finding that stuff, that real stuff, finding that presence of mind and spirit.",
+      "sourceTitle": "Bill Murray: Barack Obama and Mitt Romney Are 'Not So Different' From Each Other",
+      "sourceUrl": "http://www.entertainmentwise.com/news/91367/Bill-Murray-Barack-Obama-And-Mitt-Romney-Are-No-Different-From-Each-Other"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Despite obvious liberal leanings (Ralph Nader and the Green Party), Murray has said some things that sound conservative–or maybe libertarian. When asked what American society needs to be better, he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://douglasernstblog.com/2012/02/12/bill-murray-our-moonrise-kingdom-needs-more-personal-responsibility/",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I think we ought to be personally responsible. I think if you can take care of yourself and then maybe take care of someone else then that's sort of how you're supposed to live… I think we've sort of gotten used to someone looking out for us, and I don't think any other person is necessarily going to be counted on to look out for us.",
       "sourceTitle": "Bill Murray: Our Moonrise Kingdom Needs More Personal Responsibility",
-      "text": "I think we ought to be personally responsible. I think if you can take care of yourself and then maybe take care of someone else then that's sort of how you're supposed to live… I think we've sort of gotten used to someone looking out for us, and I don't think any other person is necessarily going to be counted on to look out for us."
+      "sourceUrl": "http://douglasernstblog.com/2012/02/12/bill-murray-our-moonrise-kingdom-needs-more-personal-responsibility/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Bill's getting up there in age. Perhaps there's truth that old saying: \"If you're young and not liberal, you have no heart. If you're old and not conservative, you have no brain.\""
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

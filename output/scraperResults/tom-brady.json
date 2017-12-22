@@ -31,126 +31,176 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Tom Brady was born and raised in San Mateo, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.people.com/people/article/0,,20561652,00.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Brady was brought up in a devout Irish-Catholic family.",
       "sourceTitle": "Tom Brady Patriots vs. Tim Tebow Broncos Playoff Game",
-      "text": "Brady was brought up in a devout Irish-Catholic family."
+      "sourceUrl": "http://www.people.com/people/article/0,,20561652,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.catholicvoteaction.org/americanpapist/index.php?p=3010",
+      "type": "text",
+      "text": "Brady has stayed true to his faith even into football stardom. He got married in a Catholic ceremony (to supermodel Gisele Bundchen)",
+      "parentId": 2,
       "sourceTitle": "QB Tom Brady marries supermodel girlfriend in Catholic \"ceremony.\"",
-      "text": "Brady has stayed true to his faith even into football stardom. He got married in a Catholic ceremony (to supermodel Gisele Bundchen)"
+      "sourceUrl": "http://www.catholicvoteaction.org/americanpapist/index.php?p=3010"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usmagazine.com/celebrity-moms/news/gisele-tom-brady-christen-baby-benjamin--2010236",
+      "type": "text",
+      "text": "and their son was christened a Catholic.",
+      "parentId": 2,
       "sourceTitle": "Gisele, Tom Brade Christen Baby Benjamin",
-      "text": "and their son was christened a Catholic."
+      "sourceUrl": "http://www.usmagazine.com/celebrity-moms/news/gisele-tom-brady-christen-baby-benjamin--2010236"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "But apparently, Brady isn't devout enough for his father, who used his son's fame to gain some celebrity himself in the Catholic community. Tom Brady, Sr. spoke at a Catholic gathering called the Worcester Diocesan Men's Conference in Massachusetts. During his speech, Brady, Sr. professed his devotion to Catholicism while backhandedly chastising his son for not being all the Catholic he can be."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Brady has another child (with supermodel Bridget Moynihan), who was born after Brady and Moynihan broke up. This is a big no-no for Catholics. Brady, Sr. said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.catholic.org/hf/faith/story.php?id=26642",
-      "sourceTitle": "Tom Brady's dad calls upon his Catholic faith",
-      "text": "When it comes to grandchildren being born outside of wedlock, we're three for three. There's disappointment there because that's not really kind of the way it's done."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "When it comes to grandchildren being born outside of wedlock, we're three for three. There's disappointment there because that's not really kind of the way it's done.",
+      "sourceTitle": "Tom Brady's dad calls upon his Catholic faith",
+      "sourceUrl": "http://www.catholic.org/hf/faith/story.php?id=26642"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Shame and guilt: that's the real Catholicism."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "It might be safe to say that Brady is not a devout Catholic. He's more concerned with winning Super Bowls and having children with extremely beautiful women. In other words, he's no Tim Tebow."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Not political, a Patriot"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thesmokinggun.com/documents/crime/super-bowl-qb-tom-bradys-no-patriot",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Tom Brady's political affiliation has actually been the subject of significant controversy. In 2004, Massachusetts was in the national spotlight with Brady leading the New England Patriots to the Super Bowl while Massachusetts Senator John Kerry was attempting to unseat George W. Bush as president. Naturally, Massachusetts was rooting for Kerry for president, but Tom Brady was attending George W. Bush's State of the Union address.",
       "sourceTitle": "Super Bowl QB Tom Brady's No Patriot.",
-      "text": "Tom Brady's political affiliation has actually been the subject of significant controversy. In 2004, Massachusetts was in the national spotlight with Brady leading the New England Patriots to the Super Bowl while Massachusetts Senator John Kerry was attempting to unseat George W. Bush as president. Naturally, Massachusetts was rooting for Kerry for president, but Tom Brady was attending George W. Bush's State of the Union address."
+      "sourceUrl": "http://www.thesmokinggun.com/documents/crime/super-bowl-qb-tom-bradys-no-patriot"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.freerepublic.com/focus/news/1069838/posts",
+      "parentId": 11,
+      "type": "text",
+      "text": "As a result, Brady came under quite a bit of political scrutiny, with some news organizations going so far as to try to trace his voting record across numerous addresses and states.",
       "sourceTitle": "Tom Brady, U.S. Senator?",
-      "text": "As a result, Brady came under quite a bit of political scrutiny, with some news organizations going so far as to try to trace his voting record across numerous addresses and states."
+      "sourceUrl": "http://www.freerepublic.com/focus/news/1069838/posts"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://espn.go.com/page2/s/thompson/040128.html",
+      "type": "text",
+      "text": "They didn't find much. Some argued that Brady was merely an unwilling pawn in the grand chess game of election year politics.",
+      "parentId": 11,
       "sourceTitle": "Mr. Brady goes to Washington.",
-      "text": "They didn't find much. Some argued that Brady was merely an unwilling pawn in the grand chess game of election year politics."
+      "sourceUrl": "http://espn.go.com/page2/s/thompson/040128.html"
     },
     {
-      "type": "sentence",
-      "text": "And when Brady appeared on \"60 Minutes\" and was directly asked: Republican or Democrat? He remained a mystery, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And when Brady appeared on \"60 Minutes\" and was directly asked: Republican or Democrat? He remained a mystery, saying:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.cbsnews.com/video/watch/?id=1015827n",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "You know, I'm actually Independent, actually an Independent and I have been for some time. But there's no doubt this world needs a lot of help.",
       "sourceTitle": "Tom Brady On Politics – 60 Minutes",
-      "text": "You know, I'm actually Independent, actually an Independent and I have been for some time. But there's no doubt this world needs a lot of help."
+      "sourceUrl": "http://www.cbsnews.com/video/watch/?id=1015827n"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.freerepublic.com/focus/news/1069838/posts",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "But analysts have largely come to the conclusion that if Brady had to choose, he'd be a Republican. Not only because he attended Bush's State of the Union, but also because he said that the person he most enjoyed meeting was former Republican president Gerald Ford.",
       "sourceTitle": "Tom Brady, U.S. Senator?",
-      "text": "But analysts have largely come to the conclusion that if Brady had to choose, he'd be a Republican. Not only because he attended Bush's State of the Union, but also because he said that the person he most enjoyed meeting was former Republican president Gerald Ford."
+      "sourceUrl": "http://www.freerepublic.com/focus/news/1069838/posts"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.freerepublic.com/focus/news/1069838/posts",
+      "parentId": 15,
+      "type": "text",
+      "text": "Beyond that, Brady has expressed a desire to run for a Senate seat, probably in California, saying politics is his \"craziest ambition.\"",
       "sourceTitle": "Tom Brady, U.S. Senator?",
-      "text": "Beyond that, Brady has expressed a desire to run for a Senate seat, probably in California, saying politics is his \"craziest ambition.\""
+      "sourceUrl": "http://www.freerepublic.com/focus/news/1069838/posts"
     },
     {
-      "type": "sentence",
-      "text": "Why not? Schwarzenegger did it and Brady certainly has the charisma and the money–and a really hot wife."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Why not? Schwarzenegger did it and Brady certainly has the charisma and the money–and a really hot wife.",
+      "parentId": 15
     }
   ],
   "wikipediaData": {

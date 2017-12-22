@@ -33,96 +33,148 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Cee Lo Green is a bit mysterious. His music is soulful, American pop and he presents himself as quite the inaccessible artist. In interviews, he says things like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=YpVfe9uPGoo",
-      "sourceTitle": "The Voice' Star Cee-Lo Green — WSJ Exclusive Interview",
-      "text": "Essentially, integrity is my business. It's my brand, you know? It's what I represent, it's my natural resource. Know what I'm saying? It's abundant. Know what I'm saying? In my heart. Know what I'm saying? In my actions, as long as my intentions are good, as long as they're golden, know what I'm saying, I always have 100 percent of my power. Know what I'm saying?"
+      "id": 2
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 3,
+      "parentId": 2
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "Essentially, integrity is my business. It's my brand, you know? It's what I represent, it's my natural resource. Know what I'm saying? It's abundant. Know what I'm saying? In my heart. Know what I'm saying? In my actions, as long as my intentions are good, as long as they're golden, know what I'm saying, I always have 100 percent of my power. Know what I'm saying?",
+      "sourceTitle": "The Voice' Star Cee-Lo Green — WSJ Exclusive Interview",
+      "sourceUrl": "http://www.youtube.com/watch?v=YpVfe9uPGoo"
+    },
+    {
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "No, I don't."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 5
     },
     {
-      "type": "heading",
+      "parentId": 5,
+      "type": "text",
       "text": "It all started with God"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.musicstop.org/cee-lo-green",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Cee Lo was raised by two Christian ministers. He began singing in church in Atlanta, Georgia before starting his career by joining the rap group Goodie Mob.",
       "sourceTitle": "Cee Lo Green",
-      "text": "Cee Lo was raised by two Christian ministers. He began singing in church in Atlanta, Georgia before starting his career by joining the rap group Goodie Mob."
+      "sourceUrl": "http://www.musicstop.org/cee-lo-green"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "As his career has taken off, it seems like music has become his religion. He has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.sing365.com/music/lyric.nsf/Cee-Lo-Biography/17F2D05FD3F0526848256E2F00050307",
-      "sourceTitle": "Cee Lo Biography",
-      "text": "Soul is the connection between us all, all music is derivative of soul, so.. I do soul music. This isn't throw back soul. It's my soul. I am compelled by the same spirit as our elders, I am raw black soul and I just can't help myself."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Soul is the connection between us all, all music is derivative of soul, so.. I do soul music. This isn't throw back soul. It's my soul. I am compelled by the same spirit as our elders, I am raw black soul and I just can't help myself.",
+      "sourceTitle": "Cee Lo Biography",
+      "sourceUrl": "http://www.sing365.com/music/lyric.nsf/Cee-Lo-Biography/17F2D05FD3F0526848256E2F00050307"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "What?"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "Pissing off Beatles fans"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Pantheism",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "We might think Cee Lo less of a Christian and more of a Pantheist",
       "sourceTitle": "Pantheism",
-      "text": "We might think Cee Lo less of a Christian and more of a Pantheist"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Pantheism"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rollingstone.com/music/news/cee-lo-green-outrages-john-lennon-fans-by-changing-lyrics-to-imagine-20120102",
+      "type": "text",
+      "text": "because of a controversy during his performance of John Lennon's Imagine during the 2012 New Year's celebration in New York's Times Square. Instead of singing Lennon's original lyric \"and no religion too,\" Cee Lo sang \"all religion is true.\"",
+      "parentId": 12,
       "sourceTitle": "Cee Lo Green Outrages John Lennon Fans By Changing Lyrics to 'Imagine'",
-      "text": "because of a controversy during his performance of John Lennon's Imagine during the 2012 New Year's celebration in New York's Times Square. Instead of singing Lennon's original lyric \"and no religion too,\" Cee Lo sang \"all religion is true.\""
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.rollingstone.com/music/news/cee-lo-green-outrages-john-lennon-fans-by-changing-lyrics-to-imagine-20120102"
     },
     {
       "type": "heading",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Got no beef"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Cee Lo seems to be pretty grounded when it comes to being tolerant of all of the different belief systems and lifestyles, saying:"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.eurweb.com/2011/06/cee-lo-green-in-hot-water-for-perceived-homophobic-tweet/",
+      "parentId": 15,
+      "type": "text",
+      "text": "I don't have an opinion on people with different religious, sexual or political preferences. I'm one of the most liberal artists that I think you will ever meet, and I pride myself on that.",
       "sourceTitle": "Cee Lo Green in Hot Water for Perceived Homophobic Tweet",
-      "text": "I don't have an opinion on people with different religious, sexual or political preferences. I'm one of the most liberal artists that I think you will ever meet, and I pride myself on that."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.eurweb.com/2011/06/cee-lo-green-in-hot-water-for-perceived-homophobic-tweet/"
     }
   ],
   "wikipediaData": {
@@ -173,12 +225,12 @@
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.flickr.com/photos/julioenriquez/2621277869/\">http://www.flickr.com/photos/julioenriquez/2621277869/</a>",
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/julioenriquez/2621277869/\">https://www.flickr.com/photos/julioenriquez/2621277869/</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/people/julioenriquez/\">Julio Enriquez</a>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/julioenriquez/\">Julio Enriquez</a>",
             "source": "commons-desc-page"
           },
           "LicenseShortName": {

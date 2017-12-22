@@ -35,135 +35,235 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Bruce Dickinson was born in Worksop, Nottinghamshire, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Considering much of the subject matter Dickinson's band–Iron Maiden–addresses, one would imagine that religion would be a hot topic for him. But it's not. Bruce is notorious for not wanting to talk about religion despite the controversy and speculation surrounding his music."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "It's also important to note that Iron Maiden's principal songwriter is the band's bassist, Steve Harris, so much of the religious (or anti-religious if you want to see it that way) themes come from him."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ezinearticles.com/?Iron-Maiden-Biography-and-Top-10-Songs&id=1053999",
+      "parentId": 4,
+      "type": "text",
+      "text": "Iron Maiden's music has been heavily criticized by religious groups, particularly Christian groups, and labeled as Satanic. Much of this is due to their 1982 album,"
+    },
+    {
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "Number of the Beast"
+    },
+    {
+      "type": "text",
+      "text": ". When the album was released, Christian groups in the U.S. held ritual record burnings to destroy album copies",
+      "parentId": 4,
       "sourceTitle": "Iron Maiden Biography and Top 10 Songs",
-      "text": "Iron Maiden's music has been heavily criticized by religious groups, particularly Christian groups, and labeled as Satanic. Much of this is due to their 1982 album, . When the album was released, Christian groups in the U.S. held ritual record burnings to destroy album copies"
+      "sourceUrl": "http://ezinearticles.com/?Iron-Maiden-Biography-and-Top-10-Songs&id=1053999"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wn.com/Iron_Maiden_Satanic_Illuminati_Exposed",
+      "type": "text",
+      "text": "and the Catholic church even managed to ban the band from performing in Chile for a short time.",
+      "parentId": 4,
       "sourceTitle": "Iron Maiden Satanic Illuminati Exposed",
-      "text": "and the Catholic church even managed to ban the band from performing in Chile for a short time."
+      "sourceUrl": "http://wn.com/Iron_Maiden_Satanic_Illuminati_Exposed"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "Still, others argue, including respected religious scholars, that Iron Maiden's religious imagery is actually more academic and could even be construed as positively Christian. Felipe Belalcazar writes:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 6
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://voices.yahoo.com/religious-imagery-music-iron-maiden-4259317.html?cat=33",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "[Iron Maiden] lyrics deliver a positive Christian message by putting biblical teachings using religious symbolism into context using stories that the audience can relate to.",
       "sourceTitle": "Religious Imagery in the Music of Iron Maiden",
-      "text": "[Iron Maiden] lyrics deliver a positive Christian message by putting biblical teachings using religious symbolism into context using stories that the audience can relate to."
+      "sourceUrl": "http://voices.yahoo.com/religious-imagery-music-iron-maiden-4259317.html?cat=33"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://moreintelligentlife.com/node/2115",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Dickinson, himself a highly-educated, intelligent man who has been designated a polyglot by Intelligent Life Magazine,",
       "sourceTitle": "Polymaths: 20 Living Examples.",
-      "text": "Dickinson, himself a highly-educated, intelligent man who has been designated a polyglot by Intelligent Life Magazine,"
+      "sourceUrl": "http://moreintelligentlife.com/node/2115"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://dmme.net/interviews/dickinson.html",
+      "type": "text",
+      "text": "certainly knows the facts when it comes to religious mythology",
+      "parentId": 8,
       "sourceTitle": "Interview with Bruce Dickinson",
-      "text": "certainly knows the facts when it comes to religious mythology"
+      "sourceUrl": "http://dmme.net/interviews/dickinson.html"
     },
     {
-      "type": "sentence",
-      "text": "and admits to the power of religious discourse, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and admits to the power of religious discourse, saying:",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=E44exaTf6mU",
-      "sourceTitle": "Bruce Dickinson on \"Faith and Music\" 1999 2/3",
-      "text": "The language surrounding religion, I actually, I find fascinating. I think there's a real power in words."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "The language surrounding religion, I actually, I find fascinating. I think there's a real power in words.",
+      "sourceTitle": "Bruce Dickinson on \"Faith and Music\" 1999 2/3",
+      "sourceUrl": "http://www.youtube.com/watch?v=E44exaTf6mU"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "And Dickinson, though totally quiet about his own religious views, does express some openness to spirituality. Dickinson spoke once about the poet William Blake and his mention of Jerusalem. Dickinson said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 12
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=E44exaTf6mU",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "[Blake was talking] quite literally about the landscape of England, because he thought England itself had some inherent holiness in-built in the Earth. That's something I understand.",
       "sourceTitle": "Bruce Dickinson on \"Faith and Music\" 1999 2/3",
-      "text": "[Blake was talking] quite literally about the landscape of England, because he thought England itself had some inherent holiness in-built in the Earth. That's something I understand."
+      "sourceUrl": "http://www.youtube.com/watch?v=E44exaTf6mU"
     },
     {
       "type": "heading",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Balls To Picasso–The Political Bruce Dickinson"
     },
     {
-      "type": "sentence",
-      "text": "Dickinson is about as quiet about politics as he is about religion. Once again, we must turn to his music and make interpretations. Perhaps Dickinson's most musical/political work is his solo album, . It was released in 1994, at the end of the first and only term of American president George H.W. Bush, who spearheaded the first War in Iraq."
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "break"
+      "parentId": 15,
+      "type": "text",
+      "text": "Dickinson is about as quiet about politics as he is about religion. Once again, we must turn to his music and make interpretations. Perhaps Dickinson's most musical/political work is his solo album,"
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "emphasis",
+      "text": "Balls to Picasso"
+    },
+    {
+      "type": "text",
+      "text": ". It was released in 1994, at the end of the first and only term of American president George H.W. Bush, who spearheaded the first War in Iraq.",
+      "parentId": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Dickinson criticized America's then-president in his song \"1000 Points of Light,\" a term often used by G.H.W. Bush. Dickinson sings:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://lyrics.astraweb.com/display/694/bruce_dickinson..balls_to_picasso..1000_points_of_light.html",
-      "sourceTitle": "Lyrics: Bruce Dickinson – 1000 Points of Light",
-      "text": "Thousand points of light/Are the muzzle flashes in the night/And the freedoms you profess to hold/Won't bring the dead back from the cold. Political speeches, they're lying in the mud/Nothing else matters but money and blood/Tyranny of freedom is do what you like."
+      "id": 17
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Thousand points of light/Are the muzzle flashes in the night/And the freedoms you profess to hold/Won't bring the dead back from the cold. Political speeches, they're lying in the mud/Nothing else matters but money and blood/Tyranny of freedom is do what you like.",
+      "sourceTitle": "Lyrics: Bruce Dickinson – 1000 Points of Light",
+      "sourceUrl": "http://lyrics.astraweb.com/display/694/bruce_dickinson..balls_to_picasso..1000_points_of_light.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "On the same album, Bruce sings, in his song \"Sacred Cowboys\":"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.metrolyrics.com/sacred-cowboys-lyrics-bruce-dickinson.html",
+      "id": 20
+    },
+    {
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "Prostitutes and politicians/Lying in their bed together.",
       "sourceTitle": "Bruce Dickinson – Sacred Cowboys Lyrics",
-      "text": "Prostitutes and politicians/Lying in their bed together."
+      "sourceUrl": "http://www.metrolyrics.com/sacred-cowboys-lyrics-bruce-dickinson.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 22
+    },
+    {
+      "parentId": 22,
+      "type": "text",
       "text": "It would seem that Dickinson is critical of politicians in general, and who isn't? However, his most poignant criticisms are directed at the warmongering Bushs."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

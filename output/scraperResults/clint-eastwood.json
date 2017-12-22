@@ -36,120 +36,178 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Clint Eastwood was born in San Francisco and, as a child, moved up and down the U.S. west coast before finally settling in Piedmont, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pe/Clint_Eastwood.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Eastwood was raised semi-religious, going to church every week (always some denomination of Protestant) until he was about 12 years old when he asked his father why he didn't go to church with the rest of the family. His father said it was his only day off, so Clint stopped going as well.",
       "sourceTitle": "The Religion of Clint Eastwood, actor and director",
-      "text": "Eastwood was raised semi-religious, going to church every week (always some denomination of Protestant) until he was about 12 years old when he asked his father why he didn't go to church with the rest of the family. His father said it was his only day off, so Clint stopped going as well."
+      "sourceUrl": "http://www.adherents.com/people/pe/Clint_Eastwood.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "After a 60+ year career as a famous actor, Clint has been interviewed hundreds, if not thousands, of times. His religious beliefs have been a regular topic of those interviews and Eastwood is always ambiguous. He seems to have some sort of spirituality and respects the devoutly religious, but he's not very religious himself, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.jesus-is-savior.com/Evils%20in%20America/Hellivision/clint_eastwood.htm",
-      "sourceTitle": "Clint Eastwood Embraces New Age, Rejects Christ",
-      "text": "I was always respectful of people who were deeply religious because I always felt that if they gave themselves to it, then it had to be important to them. But if you can go through life without it, that's OK, too. It's whatever suits you."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I was always respectful of people who were deeply religious because I always felt that if they gave themselves to it, then it had to be important to them. But if you can go through life without it, that's OK, too. It's whatever suits you.",
+      "sourceTitle": "Clint Eastwood Embraces New Age, Rejects Christ",
+      "sourceUrl": "http://www.jesus-is-savior.com/Evils%20in%20America/Hellivision/clint_eastwood.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "The question still remains, what suits Eastwood?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "He's shown elements of deism, speaking of being spiritually moved by nature, he has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.showbizspy.com/article/228386/clint-eastwood-on-the-fence-about-god-director-clint-eastwood-discusses-his-religious-beliefs.html",
-      "sourceTitle": "Clint Eastwood on The Fence About God!",
-      "text": "So although my religious training was not really specific, I do feel spiritual things. If I stand on the side of the Grand Canyon and look down, it moves me in some way."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "So although my religious training was not really specific, I do feel spiritual things. If I stand on the side of the Grand Canyon and look down, it moves me in some way.",
+      "sourceTitle": "Clint Eastwood on The Fence About God!",
+      "sourceUrl": "http://www.showbizspy.com/article/228386/clint-eastwood-on-the-fence-about-god-director-clint-eastwood-discusses-his-religious-beliefs.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "He's spoken about an attraction to Buddhism as well, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.vibrantnation.com/other-topics/spirituality/clint-eastwood-on-religion/",
-      "sourceTitle": "Clint Eastwood on Religion",
-      "text": "[Buddhists] don't seem to be as mean-spirited, and their idea of God is sort of a heavyset guy who's got a smile on his face, and I thought, hey, that's nice."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "[Buddhists] don't seem to be as mean-spirited, and their idea of God is sort of a heavyset guy who's got a smile on his face, and I thought, hey, that's nice.",
+      "sourceTitle": "Clint Eastwood on Religion",
+      "sourceUrl": "http://www.vibrantnation.com/other-topics/spirituality/clint-eastwood-on-religion/"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Fat Buddha is sort of adorable."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 14
     },
     {
-      "type": "heading",
+      "parentId": 14,
+      "type": "text",
       "text": "Political career"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.clinteastwood.net/welcome/alt/",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Eastwood is quite political and has even held a couple of public offices including mayor of the California city, Carmel-by-the-Sea,",
       "sourceTitle": "Eastwood mayor of Carmel",
-      "text": "Eastwood is quite political and has even held a couple of public offices including mayor of the California city, Carmel-by-the-Sea,"
+      "sourceUrl": "http://www.clinteastwood.net/welcome/alt/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://switchboard.nrdc.org/blogs/jreynolds/californias_state_parks_under.html",
+      "type": "text",
+      "text": "vice chairman of the California State Parks and Recreation Commission,",
+      "parentId": 15,
       "sourceTitle": "California State Parks under Attack",
-      "text": "vice chairman of the California State Parks and Recreation Commission,"
+      "sourceUrl": "http://switchboard.nrdc.org/blogs/jreynolds/californias_state_parks_under.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/entertainment/3631261.stm",
+      "type": "text",
+      "text": "and a member of the California Film Commission.",
+      "parentId": 15,
       "sourceTitle": "Schwarzenegger to boost Hollywood",
-      "text": "and a member of the California Film Commission."
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/entertainment/3631261.stm"
     },
     {
-      "type": "sentence",
-      "text": "In all of these posts, he served as a Republican."
+      "type": "text",
+      "text": "In all of these posts, he served as a Republican.",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.democraticunderground.com/?com=view_post&forum=1014&pid=45802",
+      "parentId": 16,
+      "type": "text",
+      "text": "However, Eastwood holds some markedly liberal–and even libertarian–ideas. Contrary to most Republicans, Eastwood is pro-choice, pro-gay marriage, pro-environmental protection and anti-war.",
       "sourceTitle": "Clint Eastwood is pro-choice, pro-gay marriage, was against the Iraq war, and is very pro-environment",
-      "text": "However, Eastwood holds some markedly liberal–and even libertarian–ideas. Contrary to most Republicans, Eastwood is pro-choice, pro-gay marriage, pro-environmental protection and anti-war."
+      "sourceUrl": "http://www.democraticunderground.com/?com=view_post&forum=1014&pid=45802"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.politico.com/blogs/click/2012/02/was-eastwoods-super-bowl-ad-proobama-113583.html",
+      "parentId": 17,
+      "type": "text",
+      "text": "What does that leave for the Republican in him? Pro-business. His commercial, \"It's half-time in America\" was a huge controversy where it seemed as if Eastwood endorsed Obama's bail-outs of the U.S. auto industry.",
       "sourceTitle": "Was Eastwood's Super Bowl ad pro-Obama?",
-      "text": "What does that leave for the Republican in him? Pro-business. His commercial, \"It's half-time in America\" was a huge controversy where it seemed as if Eastwood endorsed Obama's bail-outs of the U.S. auto industry."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.politico.com/blogs/click/2012/02/was-eastwoods-super-bowl-ad-proobama-113583.html"
     }
   ],
   "wikipediaData": {

@@ -30,211 +30,366 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Pope Benedict XVI, whose given name is Joseph Aloisius Ratzinger, was born and raised in Marktl Am Inn, Bavaria, Germany."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "The Pope is… wait, let me confirm… yes, the Pope is a Catholic. Or should I say, the Pope is Catholic."
+      "parentId": 2,
+      "type": "text",
+      "text": "The Pope is… wait, let me confirm… yes, the Pope is a Catholic. Or should I say, the Pope is"
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "the"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": "Catholic.",
+      "parentId": 2
+    },
+    {
+      "type": "paragraph",
+      "id": 3
+    },
+    {
+      "parentId": 3,
+      "type": "text",
       "text": "The Pope is a unique celebrity. There is no need to, as we usually do, separate his religion from his politics–they are one and the same."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.disciplesnow.com/articles/8663/index.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "The questions is: does he strictly adhere to the pre-established theological, ethical/moral and socio-political frameworks of the Catholic Church? The answer is largely yes. And the general idea is that not even the Pope has the ability to change or modify church doctrine as it comes only from God himself.",
       "sourceTitle": "Has Pope Benedict made any changes to the Church's doctrine since the beginning of the Papacy",
-      "text": "The questions is: does he strictly adhere to the pre-established theological, ethical/moral and socio-political frameworks of the Catholic Church? The answer is largely yes. And the general idea is that not even the Pope has the ability to change or modify church doctrine as it comes only from God himself."
+      "sourceUrl": "http://www.disciplesnow.com/articles/8663/index.html"
     },
     {
-      "type": "sentence",
-      "text": "Let's just say he takes Catholicism very seriously."
+      "type": "text",
+      "text": "Let's just say he takes Catholicism very seriously.",
+      "parentId": 4
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.zenit.org/article-13705?l=english",
+      "parentId": 5,
+      "type": "text",
+      "text": "The Pope has called the Catholic Church the \"Religion of the Logos,\" meaning it is the religion of \"logic\" or \"reason\" or \"intelligence.\"",
       "sourceTitle": "Cardinal Ratzinger on Europe's Crisis of Culture (Part 4)",
-      "text": "The Pope has called the Catholic Church the \"Religion of the Logos,\" meaning it is the religion of \"logic\" or \"reason\" or \"intelligence.\""
+      "sourceUrl": "http://www.zenit.org/article-13705?l=english"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://books.google.com/books/about/In_the_Beginning.html?id=t5mmPGjgeBYC",
+      "type": "text",
+      "text": "He assumes the primacy of Catholic",
+      "parentId": 5
+    },
+    {
+      "parentId": 5,
+      "type": "link",
+      "text": "theology",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Theology_of_Pope_Benedict_XVI"
+    },
+    {
+      "type": "text",
+      "text": "and bases any \"logical\" conclusions off of that. However, it's interesting to note that the Pope has emphasized the validity of the Church today as it is an ever-evolving entity, through which God regularly updates his Word. He discourages adherents from viewing the Bible, and only the Bible, as the wellspring of all truth. It is not a science textbook, he says.",
+      "parentId": 5,
       "sourceTitle": "In the Beginning…",
-      "text": "He assumes the primacy of Catholic  and bases any \"logical\" conclusions off of that. However, it's interesting to note that the Pope has emphasized the validity of the Church today as it is an ever-evolving entity, through which God regularly updates his Word. He discourages adherents from viewing the Bible, and only the Bible, as the wellspring of all truth. It is not a science textbook, he says."
+      "sourceUrl": "http://books.google.com/books/about/In_the_Beginning.html?id=t5mmPGjgeBYC"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "Rather, science and religion can be reconciled, according to the Pope. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.romereports.com/palio/benedict-xvi-faith-and-science-are-not-in-conflict-english-8311.html#.UQRbeugZ-Bg",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Far from being in conflict, faith and science go hand in hand in the service of man's moral advancement and his wise stewardship of creation.",
       "sourceTitle": "Benedict XVI: Faith and science are not in conflict",
-      "text": "Far from being in conflict, faith and science go hand in hand in the service of man's moral advancement and his wise stewardship of creation."
+      "sourceUrl": "http://www.romereports.com/palio/benedict-xvi-faith-and-science-are-not-in-conflict-english-8311.html#.UQRbeugZ-Bg"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.catholicnewsagency.com/news/pope-benedict-creates-new-science-and-faith-foundation/",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "And to solidify his position, Pope Benedict created a new department of the Vatican called The Science and Faith Foundation to build a \"philosophical bridge\" between science and Catholic theology.",
       "sourceTitle": "Pope Benedict creates new science and faith foundation",
-      "text": "And to solidify his position, Pope Benedict created a new department of the Vatican called The Science and Faith Foundation to build a \"philosophical bridge\" between science and Catholic theology."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.catholicnewsagency.com/news/pope-benedict-creates-new-science-and-faith-foundation/"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Controversy"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "In terms of socio-religious controversy during Benedict's Papacy, two issues stick out (so far): the nearly worldwide epidemic of sex scandals involving Catholic priests and the use of birth control, particularly condoms in AIDS-ridden Africa."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.osv.com/BooksNav/OSVAuthors/GErlandsonMBunson/tabid/8017/Default.aspx",
+      "parentId": 12,
+      "type": "text",
+      "text": "Regarding the sex scandal, entire books have been written on the topic.",
       "sourceTitle": "Pope Benedict XVI and the Sexual Abuse Crisis",
-      "text": "Regarding the sex scandal, entire books have been written on the topic."
+      "sourceUrl": "http://www.osv.com/BooksNav/OSVAuthors/GErlandsonMBunson/tabid/8017/Default.aspx"
     },
     {
-      "type": "sentence",
-      "text": "The short version is this:"
+      "type": "text",
+      "text": "The short version is this:",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "The Pope acknowledges the crimes and those who commit them, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.cbc.ca/news/world/story/2012/06/17/pope-declares-child-abuse-mystery.html",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Instead of showing them the path towards Christ, toward God, instead of bearing witness to his goodness, [these priests] abused people and undermined the credibility of the church's message.",
       "sourceTitle": "Sexual abuse by clergy a 'mystery,' Pope says",
-      "text": "Instead of showing them the path towards Christ, toward God, instead of bearing witness to his goodness, [these priests] abused people and undermined the credibility of the church's message."
+      "sourceUrl": "http://www.cbc.ca/news/world/story/2012/06/17/pope-declares-child-abuse-mystery.html"
     },
     {
-      "type": "sentence",
-      "text": "Yet he will not address what some say are the  of the problem–a clergy obligated to live out its entire life abstaining from sex. But changing this may be beyond Benedict's pay grade and would likely equate to a revolution in the church."
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "break"
+      "parentId": 16,
+      "type": "text",
+      "text": "Yet he will not address what some say are the"
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "link",
+      "text": "f",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Debate_on_the_causes_of_clerical_child_abuse"
+    },
+    {
+      "parentId": 16,
+      "type": "link",
+      "text": "undamental causes",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Debate_on_the_causes_of_clerical_child_abuse"
+    },
+    {
+      "type": "text",
+      "text": "of the problem–a clergy obligated to live out its entire life abstaining from sex. But changing this may be beyond Benedict's pay grade and would likely equate to a revolution in the church.",
+      "parentId": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "In terms of birth control in Africa, there is much debate on what the Pope did or did not say and, more to the point, what it means. Media outlets and the general public were led to believe that the Pope essentially reversed the church's stance on condom use. But Catholic scholars feel that this needs to be qualified. What the Pope said was:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://catholicism.about.com/b/2010/11/23/pope-benedict-and-condoms-what-he-did-and-did-not-say.htm",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Abstinence-Be Faithful-Condom, where the condom is understood only as a last resort, when the other two points fail to work.",
       "sourceTitle": "Pope Benedict and Condoms: What He Did and Did Not Say",
-      "text": "Abstinence-Be Faithful-Condom, where the condom is understood only as a last resort, when the other two points fail to work."
+      "sourceUrl": "http://catholicism.about.com/b/2010/11/23/pope-benedict-and-condoms-what-he-did-and-did-not-say.htm"
     },
     {
-      "type": "sentence",
-      "text": "Catholics are quick to point out that the Pope did not endorse condom use, but rather he said, : \"If you can't abstain or be faithful to your spouse, you're already a sinner, so you might as well use a condom. But it's still not good.\""
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "break"
+      "parentId": 20,
+      "type": "text",
+      "text": "Catholics are quick to point out that the Pope did not endorse condom use, but rather he said,"
+    },
+    {
+      "parentId": 20,
+      "type": "emphasis",
+      "text": "in my interpretation"
+    },
+    {
+      "type": "text",
+      "text": ": \"If you can't abstain or be faithful to your spouse, you're already a sinner, so you might as well use a condom. But it's still not good.\"",
+      "parentId": 20
     },
     {
       "type": "heading",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "Engagement with the non-Catholic world"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.catholicnewsagency.com/news/vatican_to_release_benedict_xvis_letter_on_the_use_of_the_tridentine_mass_tomorrow/",
+      "type": "paragraph",
+      "id": 22
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "Benedict has commented widely on the human race outside of Catholicism. When it comes to Catholicism's relationship to the world's other major belief systems, it's mostly been gaffs and toe-stepping. For example, the Pope revived a controversial prayer called the Tridentine Mass that, among other things, asks God to \"lift the veil\" from the eyes of the Jewish people. Naturally, most Jews think their worldview is just fine and doesn't need any veil-lifting.",
       "sourceTitle": "Vatican to release Benedict XVI's letter on the use of the Tridentine Mass tomorrow",
-      "text": "Benedict has commented widely on the human race outside of Catholicism. When it comes to Catholicism's relationship to the world's other major belief systems, it's mostly been gaffs and toe-stepping. For example, the Pope revived a controversial prayer called the Tridentine Mass that, among other things, asks God to \"lift the veil\" from the eyes of the Jewish people. Naturally, most Jews think their worldview is just fine and doesn't need any veil-lifting."
+      "sourceUrl": "http://www.catholicnewsagency.com/news/vatican_to_release_benedict_xvis_letter_on_the_use_of_the_tridentine_mass_tomorrow/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 23
     },
     {
-      "type": "sentence",
+      "parentId": 23,
+      "type": "text",
       "text": "And regarding Muslims, the Pope said in a speech:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/europe/5353208.stm",
-      "sourceTitle": "Pope sorry for offending Muslims",
-      "text": "Show me just what Muhammad brought that was new and there you will find things only evil and inhuman, such as his command to spread by the sword the faith he preached."
+      "id": 24
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 25,
+      "parentId": 24
+    },
+    {
+      "parentId": 25,
+      "type": "text",
+      "text": "Show me just what Muhammad brought that was new and there you will find things only evil and inhuman, such as his command to spread by the sword the faith he preached.",
+      "sourceTitle": "Pope sorry for offending Muslims",
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/europe/5353208.stm"
+    },
+    {
+      "type": "paragraph",
+      "id": 26
+    },
+    {
+      "parentId": 26,
+      "type": "text",
       "text": "That didn't go over well."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 27
     },
     {
-      "type": "sentence",
+      "parentId": 27,
+      "type": "text",
       "text": "In issues where Catholic doctrine and the politics of nations conflict, Benedict will comment. For example, responding to the news that France was considering legalizing gay marriage, the Pope said, referring to gay people as \"undeveloped\":"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.gaystarnews.com/article/pope-says-gay-people-are-not-fully-developed-humans280912",
+      "id": 28
+    },
+    {
+      "type": "paragraph",
+      "id": 29,
+      "parentId": 28
+    },
+    {
+      "parentId": 29,
+      "type": "text",
+      "text": "The family is threatened in many places by a defection of human nature.",
       "sourceTitle": "Pope says gay people are not fully developed humans",
-      "text": "The family is threatened in many places by a defection of human nature."
+      "sourceUrl": "http://www.gaystarnews.com/article/pope-says-gay-people-are-not-fully-developed-humans280912"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.cnet.com/8301-1023_3-57565764-93/pope-blesses-twitter-facebook-to-spread-church-teachings/",
+      "type": "paragraph",
+      "id": 30
+    },
+    {
+      "parentId": 30,
+      "type": "text",
+      "text": "Interestingly, the Pope has attempted to push the Catholic Church deeper into the 21st Century, encouraging church leaders to hop on social media and start engaging with their public.",
       "sourceTitle": "Pope blesses Twitter, Facebook to spread church teachings",
-      "text": "Interestingly, the Pope has attempted to push the Catholic Church deeper into the 21st Century, encouraging church leaders to hop on social media and start engaging with their public."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://news.cnet.com/8301-1023_3-57565764-93/pope-blesses-twitter-facebook-to-spread-church-teachings/"
     },
     {
       "type": "heading",
+      "id": 31
+    },
+    {
+      "parentId": 31,
+      "type": "text",
       "text": "In Conclusion…"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/world/2013/feb/11/pope-resigns-live-reaction",
+      "type": "paragraph",
+      "id": 32
+    },
+    {
+      "parentId": 32,
+      "type": "text",
+      "text": "The positions of the Catholic Church and its current Pope are enormously complex, rich in history and detail, and in some cases, very controversial. I am no expert in these matters. All of this is further complicated by the fact that, as this article is being published, Pope Benedict has announced his plan to resign the papacy.",
       "sourceTitle": "Pope Benedict XVI announces resignation – as it happened.",
-      "text": "The positions of the Catholic Church and its current Pope are enormously complex, rich in history and detail, and in some cases, very controversial. I am no expert in these matters. All of this is further complicated by the fact that, as this article is being published, Pope Benedict has announced his plan to resign the papacy."
+      "sourceUrl": "http://www.guardian.co.uk/world/2013/feb/11/pope-resigns-live-reaction"
     },
     {
-      "type": "sentence",
-      "text": "Be encouraged to open a dialogue in the comments, keep us updated, be nice, and help contribute to the validity of this article. If I am completely wrong–and it is verifiable–feel free to help me out. We appreciate you guys."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Be encouraged to open a dialogue in the comments, keep us updated, be nice, and help contribute to the validity of this article. If I am completely wrong–and it is verifiable–feel free to help me out. We appreciate you guys.",
+      "parentId": 32
     }
   ],
   "wikipediaData": {
@@ -294,7 +449,7 @@
             "source": "commons-desc-page"
           },
           "Permission": {
-            "value": "<table cellspacing=\"8\" cellpadding=\"0\" style=\"width:100%; clear:both; margin:0.5em auto; background-color:#f9f9f9; border:2px solid #e0e0e0; direction: ltr;\" lang=\"en\" class=\"layouttemplate licensetpl\"><tr>\n<td><img alt=\"GNU\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/64px-Heckert_GNU_white.svg.png\" title=\"GNU\" width=\"64\" height=\"63\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/96px-Heckert_GNU_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/128px-Heckert_GNU_white.svg.png 2x\" data-file-width=\"535\" data-file-height=\"523\"></td>\n<td>\n<span lang=\"en\" class=\"description en\"><i>This photograph, according to a <a rel=\"nofollow\" class=\"external text\" href=\"http://web.archive.org/web/20090417040359/http://www.prezydent.pl/x.node?id=1011893\">legal notice</a> that was published <b>until August 2011</b> on the official website of the <a href=\"https://en.wikipedia.org/wiki/President_of_the_Republic_of_Poland\" class=\"extiw\" title=\"en:President of the Republic of Poland\">President of the Republic of Poland</a> (an <a href=\"//commons.wikimedia.org/wiki/Template:PolishPresidentCopyright\" title=\"Template:PolishPresidentCopyright\">unofficial English translation</a> is also available), is released under the terms of the <b><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License\" title=\"Commons:GNU Free Documentation License\">GNU Free Documentation License</a></b>, because it originally comes from the <b>Archive of the Chancellery of the President of the Republic of Poland – <a rel=\"nofollow\" class=\"external text\" href=\"http://www.prezydent.pl\">www.prezydent.pl</a></b>.</i></span> <span class=\"licensetpl_long\" style=\"display: none\">GNU Free Documentation License 1.2</span><span class=\"licensetpl_short\" style=\"display: none\">GFDL 1.2</span><span class=\"licensetpl_link\" style=\"display: none\">https://gnu.org/licenses/old-licenses/fdl-1.2.html</span><span class=\"licensetpl_attr_req licensetpl_link_req\" style=\"display: none\">true</span>\n</td>\n<td>\n<div class=\"floatright\"><img alt=\"Proporzec Prezydenta Rzeczypospolitej Polskiej.svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Proporzec_Prezydenta_Rzeczypospolitej_Polskiej.svg/80px-Proporzec_Prezydenta_Rzeczypospolitej_Polskiej.svg.png\" width=\"80\" height=\"66\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Proporzec_Prezydenta_Rzeczypospolitej_Polskiej.svg/120px-Proporzec_Prezydenta_Rzeczypospolitej_Polskiej.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Proporzec_Prezydenta_Rzeczypospolitej_Polskiej.svg/160px-Proporzec_Prezydenta_Rzeczypospolitej_Polskiej.svg.png 2x\" data-file-width=\"3000\" data-file-height=\"2481\"></div>\n</td>\n</tr></table>\n<table cellspacing=\"8\" cellpadding=\"0\" style=\"width:100%; clear:both; margin:0.5em auto; background-color:#f9f9f9; border:2px solid #e0e0e0; direction: ltr;\" lang=\"en\" class=\"layouttemplate licensetpl\"><tr>\n<td><img alt=\"GNU head\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/64px-Heckert_GNU_white.svg.png\" title=\"GNU head\" width=\"64\" height=\"63\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/96px-Heckert_GNU_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/128px-Heckert_GNU_white.svg.png 2x\" data-file-width=\"535\" data-file-height=\"523\"></td>\n<td>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 only as published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.</td>\n<td>\n<span style=\"font-size:20px; font-weight:bold\">1.2 only</span><span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/licenses/old-licenses/fdl-1.2.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL 1.2</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License 1.2</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span>\n</td>\n</tr></table>",
+            "value": "<table cellspacing=\"8\" cellpadding=\"0\" style=\"width:100%; clear:both; margin:0.5em auto; background-color:#f9f9f9; border:2px solid #e0e0e0; direction: ltr;\" lang=\"en\" class=\"layouttemplate licensetpl\"><tr>\n<td><img alt=\"GNU\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/64px-Heckert_GNU_white.svg.png\" title=\"GNU\" width=\"64\" height=\"63\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/96px-Heckert_GNU_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/128px-Heckert_GNU_white.svg.png 2x\" data-file-width=\"535\" data-file-height=\"523\"></td>\n<td>\n<span lang=\"en\" class=\"description en\"><i>This photograph, according to a <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20090417040359/http://www.prezydent.pl/x.node?id=1011893\">legal notice</a> that was published <b>until August 2011</b> on the official website of the <a href=\"https://en.wikipedia.org/wiki/President_of_the_Republic_of_Poland\" class=\"extiw\" title=\"en:President of the Republic of Poland\">President of the Republic of Poland</a> (an <a href=\"//commons.wikimedia.org/wiki/Template:PolishPresidentCopyright\" title=\"Template:PolishPresidentCopyright\">unofficial English translation</a> is also available), is released under the terms of the <b><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License\" title=\"Commons:GNU Free Documentation License\">GNU Free Documentation License</a></b>, because it originally comes from the <b>Archive of the Chancellery of the President of the Republic of Poland – <a rel=\"nofollow\" class=\"external text\" href=\"http://www.prezydent.pl\">www.prezydent.pl</a></b>.</i></span> <span class=\"licensetpl_long\" style=\"display: none\">GNU Free Documentation License 1.2</span><span class=\"licensetpl_short\" style=\"display: none\">GFDL 1.2</span><span class=\"licensetpl_link\" style=\"display: none\">https://gnu.org/licenses/old-licenses/fdl-1.2.html</span><span class=\"licensetpl_attr_req licensetpl_link_req\" style=\"display: none\">true</span>\n</td>\n<td>\n<div class=\"floatright\"><img alt=\"Proporzec Prezydenta Rzeczypospolitej Polskiej.svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Proporzec_Prezydenta_Rzeczypospolitej_Polskiej.svg/80px-Proporzec_Prezydenta_Rzeczypospolitej_Polskiej.svg.png\" width=\"80\" height=\"66\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Proporzec_Prezydenta_Rzeczypospolitej_Polskiej.svg/120px-Proporzec_Prezydenta_Rzeczypospolitej_Polskiej.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Proporzec_Prezydenta_Rzeczypospolitej_Polskiej.svg/160px-Proporzec_Prezydenta_Rzeczypospolitej_Polskiej.svg.png 2x\" data-file-width=\"3000\" data-file-height=\"2481\"></div>\n</td>\n</tr></table>\n<table cellspacing=\"8\" cellpadding=\"0\" style=\"width:100%; clear:both; margin:0.5em auto; background-color:#f9f9f9; border:2px solid #e0e0e0; direction: ltr;\" lang=\"en\" class=\"layouttemplate licensetpl\"><tr>\n<td><img alt=\"GNU head\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/64px-Heckert_GNU_white.svg.png\" title=\"GNU head\" width=\"64\" height=\"63\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/96px-Heckert_GNU_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/128px-Heckert_GNU_white.svg.png 2x\" data-file-width=\"535\" data-file-height=\"523\"></td>\n<td>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 only as published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.</td>\n<td>\n<span style=\"font-size:20px; font-weight:bold\">1.2 only</span><span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/licenses/old-licenses/fdl-1.2.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL 1.2</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License 1.2</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span>\n</td>\n</tr></table>",
             "source": "commons-desc-page",
             "hidden": ""
           },

@@ -32,121 +32,242 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Robin Roberts was born in Pass Christian, Mississippi. Her family moved around frequently in her youth due to her father's military career, but they eventually settled back in Pass Christian."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cbn.com/700club/guests/interviews/robin_roberts_061907.aspx",
+      "parentId": 2,
+      "type": "text",
+      "text": "Roberts credits her parents with instilling in her the deep faith in God that allowed her to become successful in her career. She said that despite her and her siblings' education and life success, the thing that makes her mother the most proud is when someone tells her they saw one of her kids in church.",
       "sourceTitle": "Robin Roberts: A Simple Child of God.",
-      "text": "Roberts credits her parents with instilling in her the deep faith in God that allowed her to become successful in her career. She said that despite her and her siblings' education and life success, the thing that makes her mother the most proud is when someone tells her they saw one of her kids in church."
+      "sourceUrl": "http://www.cbn.com/700club/guests/interviews/robin_roberts_061907.aspx"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "She said she starts her day by saying the \"prayer of protection:\""
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.cbn.com/700club/guests/interviews/robin_roberts_061907.aspx",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "The light of God surrounds me. The love of God enfolds me. The power of God protects me. The presence of God watches over me. Wherever I am, God is.",
       "sourceTitle": "Robin Roberts: A Simple Child of God.",
-      "text": "The light of God surrounds me. The love of God enfolds me. The power of God protects me. The presence of God watches over me. Wherever I am, God is."
+      "sourceUrl": "http://www.cbn.com/700club/guests/interviews/robin_roberts_061907.aspx"
     },
     {
-      "type": "sentence",
-      "text": "That strong faith in God, and her belief that He never gives you more than you can handle, has carried her through a long battle with cancer. After making an announcement on her show  that she had been diagnosed with a rare form of the disease, she said,"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "text",
+      "text": "That strong faith in God, and her belief that He never gives you more than you can handle, has carried her through a long battle with cancer. After making an announcement on her show"
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "Good Morning America"
+    },
+    {
+      "type": "text",
+      "text": "that she had been diagnosed with a rare form of the disease, she said,",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.ourweekly.com/arts-and-entertainment/abc%E2%80%99s-robin-roberts-walking-faith",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I'm going to beat this. My doctors say it and my faith says it to me.",
       "sourceTitle": "ABC's Robin Roberts walking by faith.",
-      "text": "I'm going to beat this. My doctors say it and my faith says it to me."
+      "sourceUrl": "http://www.ourweekly.com/arts-and-entertainment/abc%E2%80%99s-robin-roberts-walking-faith"
     },
     {
-      "type": "sentence",
-      "text": "She wrote the book, , about her connection to God and said that at the end of the day, it's the most important thing:"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "break"
+      "parentId": 9,
+      "type": "text",
+      "text": "She wrote the book,"
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "From the Heart"
+    },
+    {
+      "type": "text",
+      "text": ", about her connection to God and said that at the end of the day, it's the most important thing:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.cbn.com/700club/guests/interviews/robin_roberts_061907.aspx",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "If you strip everything away. . . if you strip away my college degree and my awards, and who I am and all that, it comes down to being a simple child of God. That's who I am.",
       "sourceTitle": "Robin Roberts: A Simple Child of God.",
-      "text": "If you strip everything away. . . if you strip away my college degree and my awards, and who I am and all that, it comes down to being a simple child of God. That's who I am."
+      "sourceUrl": "http://www.cbn.com/700club/guests/interviews/robin_roberts_061907.aspx"
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "type": "heading",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "The Politics of Number One"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cawp.rutgers.edu/press_room/news/documents/PressRelease_11-07-12-gendergap.pdf",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Roberts spends most of her time getting other people to talk about their lives, not the other way around. And as a news anchor, she doesn't get much opportunity to get into detail about her own political beliefs. But it seems pretty clear that she's stands on the liberal side of things. Not only is she a black woman, which statistically makes her liberal,",
       "sourceTitle": "Women's Votes Decisive in 2012 Presidential Race.",
-      "text": "Roberts spends most of her time getting other people to talk about their lives, not the other way around. And as a news anchor, she doesn't get much opportunity to get into detail about her own political beliefs. But it seems pretty clear that she's stands on the liberal side of things. Not only is she a black woman, which statistically makes her liberal,"
+      "sourceUrl": "http://www.cawp.rutgers.edu/press_room/news/documents/PressRelease_11-07-12-gendergap.pdf"
     },
     {
-      "type": "sentence",
-      "text": "but she also has a very close relationship with the Obamas."
+      "type": "text",
+      "text": "but she also has a very close relationship with the Obamas.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/05/09/obama-gay-marriage-interview-robin-roberts-abc-news_n_1503311.html",
+      "parentId": 15,
+      "type": "text",
+      "text": "Even beyond giving Roberts his first interview after becoming president,",
       "sourceTitle": "Obama Endorses Gay Marriage: Robin Roberts Scores Landmark Interview for ABC News.",
-      "text": "Even beyond giving Roberts his first interview after becoming president,"
+      "sourceUrl": "http://www.huffingtonpost.com/2012/05/09/obama-gay-marriage-interview-robin-roberts-abc-news_n_1503311.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/05/10/robin-roberts-obama-gay-marriage-chills_n_1505736.html",
+      "type": "text",
+      "text": "Barack Obama decided to make his landmark announcement in support of gay marriage during an",
+      "parentId": 15
+    },
+    {
+      "parentId": 15,
+      "type": "link",
+      "text": "interview",
+      "sourceUrl": "http://www.huffingtonpost.com/2012/05/09/obama-gay-marriage-interview-robin-roberts-abc-news_n_1503311.html"
+    },
+    {
+      "type": "text",
+      "text": "with Roberts. She said that to be part of that moment gave her chills.",
+      "parentId": 15,
       "sourceTitle": "Robin Roberts On Her Obama Marriage Interview: 'I'm Getting Chills Again.'",
-      "text": "Barack Obama decided to make his landmark announcement in support of gay marriage during an  with Roberts. She said that to be part of that moment gave her chills."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/05/10/robin-roberts-obama-gay-marriage-chills_n_1505736.html"
     },
     {
-      "type": "sentence",
-      "text": "And then after she returned to  after receiving a bone marrow transplant, the Obamas recorded a personal video welcoming her back. Barack called her an inspiration and Michelle said,"
+      "type": "text",
+      "text": "And then after she returned to",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "parentId": 15,
+      "type": "emphasis",
+      "text": "Good Morning America"
+    },
+    {
+      "type": "text",
+      "text": "after receiving a bone marrow transplant, the Obamas recorded a personal video welcoming her back. Barack called her an inspiration and Michelle said,",
+      "parentId": 15
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.usatoday.com/story/theoval/2013/02/20/obama-michelle-robin-roberts-good-morning-america/1932247/",
-      "sourceTitle": "Obamas welcome back ABC's Robin Roberts.",
-      "text": "Robin, we just want you to know that the whole Obama family, we've been thinking about you, praying for you and rooting for you every step of the way."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Robin, we just want you to know that the whole Obama family, we've been thinking about you, praying for you and rooting for you every step of the way.",
+      "sourceTitle": "Obamas welcome back ABC's Robin Roberts.",
+      "sourceUrl": "http://www.usatoday.com/story/theoval/2013/02/20/obama-michelle-robin-roberts-good-morning-america/1932247/"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "I mean, after all that, you'd think she's at least vote for them. Even if she hasn't explicitly endorsed Obama or the Democrats, she is intimately involved with the political arena in the U.S. She has interviewed numerous political figures and prefers to focus on the heavier topics rather than celebrity news. About her show's shift toward less serious topics, she said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://newsbusters.org/blogs/scott-whitlock/2012/02/20/liberal-stephanopoulos-taking-day-abc-shuts-robin-roberts-out-politi",
+      "id": 19
+    },
+    {
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "I'll be honest, it's been an adjustment for me, the lighter fare. . . . I want to be number one. I don't want to sell my soul to the devil to be number one.",
       "sourceTitle": "With Liberal Stephanopoulos Taking the Day Off, ABC Shuts Robin Roberts Out of Politics.",
-      "text": "I'll be honest, it's been an adjustment for me, the lighter fare. . . . I want to be number one. I don't want to sell my soul to the devil to be number one."
+      "sourceUrl": "http://newsbusters.org/blogs/scott-whitlock/2012/02/20/liberal-stephanopoulos-taking-day-abc-shuts-robin-roberts-out-politi"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "Well, fair enough. If you know anything else about Roberts' political views, please let us know in the comments. Until then, she'll remain liberal in our books."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
