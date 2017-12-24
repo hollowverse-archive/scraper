@@ -45,8 +45,12 @@
     "**/*.js{x,}": [
       "eslint"
     ],
+    "**/*.md": [
+      "prettier --write",
+      "git add"
+    ],
     "**/*.{j,t}s{x,}": [
-      "prettier --write --single-quote --trailing-comma all",
+      "prettier --write",
       "git add"
     ]
   },
@@ -69,7 +73,7 @@
   },
   "devDependencies": {
     "@hollowverse/common": "hollowverse/common",
-    "@hollowverse/validate-filenames": "^1.3.3",
+    "@hollowverse/validate-filenames": "^1.3.4",
     "@types/bluebird": "^3.5.18",
     "@types/cheerio": "^0.22.5",
     "@types/commander": "^2.11.0",
@@ -93,7 +97,7 @@
     "nodemon": "^1.12.1",
     "npm-run-all": "^4.1.1",
     "pre-commit": "^1.2.2",
-    "prettier": "^1.7.4",
+    "prettier": "^1.9.2",
     "ts-jest": "^21.1.4",
     "ts-node": "^3.3.0",
     "tslint": "^5.8.0",

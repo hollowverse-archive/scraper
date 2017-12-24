@@ -1,6 +1,12 @@
 // tslint:disable:no-non-null-assertion
 
-import { scrapeHtml, isResultWithContent, Result, hasParent, isBlockPiece } from './scrape';
+import {
+  scrapeHtml,
+  isResultWithContent,
+  Result,
+  hasParent,
+  isBlockPiece,
+} from './scrape';
 import * as path from 'path';
 import * as bluebird from 'bluebird';
 
@@ -45,14 +51,28 @@ describe('works for all post types', async () => {
         }
       });
 
+      it('each piece is either a parent or a child', () => {
+        for (const { result } of files) {
+          if (isResultWithContent(result)) {
+            for (const piece of result.content) {
+              if (isBlockPiece(piece)) {
+                expect(piece).toHaveProperty('id');
+              } else {
+                expect(piece).toHaveProperty('parentId');
+              }
+            }
+          }
+        }
+      });
+
       it('posts that are not stubs must have some content', () => {
         for (const { result } of files) {
           if (isResultWithContent(result)) {
             expect(result.content.length).toBeGreaterThan(0);
-            const piece = find(result.content, (p) => {
+            const piece = find(result.content, p => {
               return !isBlockPiece(p) && p.text.length > 0;
             });
-            
+
             expect(piece).toBeDefined();
           }
         }
@@ -76,7 +96,9 @@ describe('works for all post types', async () => {
       it('each nested block has a unique ID', () => {
         for (const { result } of files) {
           if (isResultWithContent(result)) {
-            const children = result.content.filter(isBlockPiece).filter(hasParent);
+            const children = result.content
+              .filter(isBlockPiece)
+              .filter(hasParent);
             expect(uniqBy(children, 'id')).toMatchObject(children);
           }
         }
