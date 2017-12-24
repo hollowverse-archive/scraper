@@ -32,89 +32,159 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Brooklyn Decker was born in Kettering, Ohio. She grew up there, in Middleton, Ohio, and in Matthews, North Carolina."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chacha.com/question/is-brooklyn-decker-jewish",
+      "parentId": 2,
+      "type": "text",
+      "text": "Decker appears to be entirely non-religious. Some people claim she's Jewish,",
       "sourceTitle": "Is Brooklyn Decker Jewish?",
-      "text": "Decker appears to be entirely non-religious. Some people claim she's Jewish,"
+      "sourceUrl": "http://www.chacha.com/question/is-brooklyn-decker-jewish"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wiki.answers.com/Q/Is_Brooklyn_decker_Jewish",
+      "type": "text",
+      "text": "and others say she's not.",
+      "parentId": 2,
       "sourceTitle": "Is Brooklyn decker Jewish?",
-      "text": "and others say she's not."
+      "sourceUrl": "http://wiki.answers.com/Q/Is_Brooklyn_decker_Jewish"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "She criticized those who use the bible to oppose gay rights and gay marriage on Twitter when she wrote:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/BrooklynDecker/status/200091294880641024",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Having belief in God and supporting equal human rights don't have to be mutually exclusive.",
       "sourceTitle": "BrooklynDecker: Having belief in God and …",
-      "text": "Having belief in God and supporting equal human rights don't have to be mutually exclusive."
+      "sourceUrl": "https://twitter.com/BrooklynDecker/status/200091294880641024"
     },
     {
-      "type": "sentence",
-      "text": "Although that makes her neither anti-Christian nor a Christian herself, it does pit her against  Christians. Which bring us to…"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "text",
+      "text": "Although that makes her neither anti-Christian nor a Christian herself, it does pit her against"
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "conservative"
+    },
+    {
+      "type": "text",
+      "text": "Christians. Which bring us to…",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Brooklyn's Liberal Side"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "She was particularly outspoken when her home state of North Carolina passed a constitutional ban on same-sex marriage, calling it \"one giant step backward.\" And, despite not officially endorsing the Democrats or the President, she was \"very proud and excited\" about Obama's declaration of support for the issue saying,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://marquee.blogs.cnn.com/2012/05/11/obamas-same-sex-remarks-are-talk-of-battleship-premiere/",
-      "sourceTitle": "Obama's same-sex remarks are talk of 'Battleship' premiere.",
-      "text": "I think it was a huge accomplishment for Americans, and I think it's about time."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I think it was a huge accomplishment for Americans, and I think it's about time.",
+      "sourceTitle": "Obama's same-sex remarks are talk of 'Battleship' premiere.",
+      "sourceUrl": "http://marquee.blogs.cnn.com/2012/05/11/obamas-same-sex-remarks-are-talk-of-battleship-premiere/"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "She also showed her dedication to environmentalism by teaming up with the Sierra Club for a week-long trip to the Arctic National Wildlife Refuge in Alaska–the location of the politically controversial arctic oil-drilling debate. She said this about her trip:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/08/30/brooklyn-decker-model-hea_n_1841126.html",
-      "sourceTitle": "Brooklyn Decker Heads To The Arctic National Wildlife Refuge With Sierra Club.",
-      "text": "Going on a Sierra Club Outing to the Arctic was an enlightening experience and gave me a chance to reconnect with nature. Anyone who spends time enjoying our planet knows exactly why it's important to protect places like the Arctic."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Going on a Sierra Club Outing to the Arctic was an enlightening experience and gave me a chance to reconnect with nature. Anyone who spends time enjoying our planet knows exactly why it's important to protect places like the Arctic.",
+      "sourceTitle": "Brooklyn Decker Heads To The Arctic National Wildlife Refuge With Sierra Club.",
+      "sourceUrl": "http://www.huffingtonpost.com/2012/08/30/brooklyn-decker-model-hea_n_1841126.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Decker is clearly liberal. And even though she hasn't let us in on her opinions about U.S. military operations in the middle east, she definitely supports the troops. For the eleventh anniversary of the 9/11 terrorist attacks, Decker visited active military troops on a USO tour. She reached out to the organization because she had been thinking about doing a tour for quite some time. In anticipation of the trip she said,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 15
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.uso.org/brooklyn-decker-christine-teigen-first-uso-tour-2012/",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "I know this experience will be unforgettable, and I can't wait to let our troops know how much their sacrifice is appreciated.",
       "sourceTitle": "Celebrities Brooklyn Decker, Christine Teigen Spend 9/11 With Troops in the Middle East.",
-      "text": "I know this experience will be unforgettable, and I can't wait to let our troops know how much their sacrifice is appreciated."
+      "sourceUrl": "http://www.uso.org/brooklyn-decker-christine-teigen-first-uso-tour-2012/"
     }
   ],
   "wikipediaData": {
@@ -165,7 +235,7 @@
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.flickr.com/photos/porterhovey/3638140239/\">http://www.flickr.com/photos/porterhovey/3638140239/</a>",
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/porterhovey/3638140239/\">https://www.flickr.com/photos/porterhovey/3638140239/</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },

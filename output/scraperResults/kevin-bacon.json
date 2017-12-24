@@ -33,165 +33,272 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kevin Bacon was born and raised in Philadelphia, Pennsylvania."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Interfaith_Celebrities_Kyra_Sedgwick_Baseballs_Braun-y_Interfaith_Rookie_and_a_Jewish_Maori_Director.shtml",
+      "parentId": 2,
+      "type": "text",
+      "text": "Bacon was raised a Catholic,",
       "sourceTitle": "Interfaith Celebrities: Kyra Sedgwick, Baseball's Braun-y Interfaith Rookie and a Jewish Maori Director",
-      "text": "Bacon was raised a Catholic,"
+      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Interfaith_Celebrities_Kyra_Sedgwick_Baseballs_Braun-y_Interfaith_Rookie_and_a_Jewish_Maori_Director.shtml"
     },
     {
-      "type": "sentence",
-      "text": "but as we will now demonstrate, he's not really Catholic anymore."
+      "type": "text",
+      "text": "but as we will now demonstrate, he's not really Catholic anymore.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "Bacon doesn't believe in God. He flat out said during an interview with the :"
+      "parentId": 3,
+      "type": "text",
+      "text": "Bacon doesn't believe in God. He flat out said during an interview with the"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Times of London"
+    },
+    {
+      "type": "text",
+      "text": ":",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "https://ffrf.org/news/day/dayitems/item/14858-kevin-bacon",
-      "sourceTitle": "Kevin Bacon",
-      "text": "I don't believe in God."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I don't believe in God.",
+      "sourceTitle": "Kevin Bacon",
+      "sourceUrl": "https://ffrf.org/news/day/dayitems/item/14858-kevin-bacon"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Furthermore, Bacon has dedicated much time and energy to promoting the cause of the separation of church and state. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://ffrf.org/news/day/dayitems/item/14858-kevin-bacon",
-      "sourceTitle": "Kevin Bacon",
-      "text": "I think there is a puritanical wind that is blowing. I have never seen such a lack of separation between church and state in America."
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2008/03/25/AR2008032503852.html",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I think there is a puritanical wind that is blowing. I have never seen such a lack of separation between church and state in America.",
+      "sourceTitle": "Kevin Bacon",
+      "sourceUrl": "https://ffrf.org/news/day/dayitems/item/14858-kevin-bacon"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "The vehicle for many of Bacon's attempts to promote this cause is his band, The Bacon Brothers, which will play events in support of the division of church and state, such as a 2008 festival in Washington D.C. put on by Interfaith Alliance and Americans United for Separation of Church and State.",
       "sourceTitle": "The Reliable Source",
-      "text": "The vehicle for many of Bacon's attempts to promote this cause is his band, The Bacon Brothers, which will play events in support of the division of church and state, such as a 2008 festival in Washington D.C. put on by Interfaith Alliance and Americans United for Separation of Church and State."
+      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2008/03/25/AR2008032503852.html"
     },
     {
-      "type": "sentence",
-      "text": "Plus, they write lyrics like:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Plus, they write lyrics like:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "https://ffrf.org/news/day/dayitems/item/14858-kevin-bacon",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Please don't hurt the children, please lay down the rod/Please don't send your bombs in and say you're doing the work of God.",
       "sourceTitle": "Kevin Bacon",
-      "text": "Please don't hurt the children, please lay down the rod/Please don't send your bombs in and say you're doing the work of God."
+      "sourceUrl": "https://ffrf.org/news/day/dayitems/item/14858-kevin-bacon"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Interfaith_Celebrities_Kyra_Sedgwick_Baseballs_Braun-y_Interfaith_Rookie_and_a_Jewish_Maori_Director.shtml",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Bacon married a Jewish woman, actress Kyra Sedgwick. However, their wedding was conducted at a civil ceremony and Sedgwick herself has admitted to being rather far removed from any sort of formal faith.",
       "sourceTitle": "Interfaith Celebrities: Kyra Sedgwick, Baseball's Braun-y Interfaith Rookie and a Jewish Maori Director",
-      "text": "Bacon married a Jewish woman, actress Kyra Sedgwick. However, their wedding was conducted at a civil ceremony and Sedgwick herself has admitted to being rather far removed from any sort of formal faith."
+      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Interfaith_Celebrities_Kyra_Sedgwick_Baseballs_Braun-y_Interfaith_Rookie_and_a_Jewish_Maori_Director.shtml"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.foxnews.com/story/0,2933,343589,00.html#",
+      "parentId": 13,
+      "type": "text",
+      "text": "But is he anti-religion? He says no,",
       "sourceTitle": "The Bacon Brothers Go 'On The Record.'",
-      "text": "But is he anti-religion? He says no,"
+      "sourceUrl": "http://www.foxnews.com/story/0,2933,343589,00.html#"
     },
     {
-      "type": "sentence",
-      "text": "but his activism indicates that he'd like to see multiple degrees of separation between government and religion. (drum fill) Ugh… Is this thing on?"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but his activism indicates that he'd like to see multiple degrees of separation between government and religion. (drum fill) Ugh… Is this thing on?",
+      "parentId": 13
     },
     {
       "type": "heading",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Heavy hitter for the left"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Bacon is a liberal Democrat. Allow me to support my argument."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thecaucus.blogs.nytimes.com/2007/12/14/kevin-bacon-hits-iowa/",
+      "parentId": 16,
+      "type": "text",
+      "text": "In 2007, Kevin Bacon hit the campaign trail for Democratic presidential nominee John Edwards",
       "sourceTitle": "Kevin Bacon Has Landed",
-      "text": "In 2007, Kevin Bacon hit the campaign trail for Democratic presidential nominee John Edwards"
+      "sourceUrl": "http://thecaucus.blogs.nytimes.com/2007/12/14/kevin-bacon-hits-iowa/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/Kevin_Bacon.php",
+      "type": "text",
+      "text": "and contributed thousands of dollars to his campaign.",
+      "parentId": 16,
       "sourceTitle": "Kevin Bacon's Federal Campaign Contribution Report",
-      "text": "and contributed thousands of dollars to his campaign."
+      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/Kevin_Bacon.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/Kevin_Bacon.php",
+      "type": "text",
+      "text": "But history happened and Obama got the nomination. Bacon then threw a couple grand his way.",
+      "parentId": 16,
       "sourceTitle": "Kevin Bacon's Federal Campaign Contribution Report",
-      "text": "But history happened and Obama got the nomination. Bacon then threw a couple grand his way."
+      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/Kevin_Bacon.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "He didn't quit when times got tough, either. In 2012, when Obama was struggling to maintain the presidency, Bacon went to bat for him with an official endorsement, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://dailycaller.com/2012/04/19/actor-kevin-bacon-obama-has-made-a-difference/",
-      "sourceTitle": "Actor Kevin Bacon: Obama has 'made a difference.'",
-      "text": "I think he has already made a difference and I support him."
+      "id": 18
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "I think he has already made a difference and I support him.",
+      "sourceTitle": "Actor Kevin Bacon: Obama has 'made a difference.'",
+      "sourceUrl": "http://dailycaller.com/2012/04/19/actor-kevin-bacon-obama-has-made-a-difference/"
+    },
+    {
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "But where Bacon really shines is in regards to liberal social issues. He's pro-gay marriage and he and wife, Sedgwick, made a public service announcement in favor of the institution in 2010. Sedgwick did most of the talking, but Bacon added:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.ontopmag.com/article.aspx?id=6836&MediaType=1&Category=22",
+      "id": 21
+    },
+    {
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "We all deserve the right to marry the person that we love.",
       "sourceTitle": "Kevin Bacon, Kyra Sedgwick Take a Stand For Gay Marriage",
-      "text": "We all deserve the right to marry the person that we love."
+      "sourceUrl": "http://www.ontopmag.com/article.aspx?id=6836&MediaType=1&Category=22"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.drawtheline.org/learn-more/",
+      "type": "paragraph",
+      "id": 23
+    },
+    {
+      "parentId": 23,
+      "type": "text",
+      "text": "Two years later, as Republicans and conservatives were trying to rally the base around women's reproductive issues, Bacon and company did another"
+    },
+    {
+      "parentId": 23,
+      "type": "link",
+      "text": "PSA",
+      "sourceUrl": "http://www.drawtheline.org/watch-stuff/"
+    },
+    {
+      "type": "text",
+      "text": "blasting conservative lawmakers on behalf of an organization called the Center for Reproductive Rights, the mission of which is the \"advancement and protection of reproductive rights as fundamental human rights in constitutional and international law.\"",
+      "parentId": 23,
       "sourceTitle": "Learn More – Bill of Reproductive Rights",
-      "text": "Two years later, as Republicans and conservatives were trying to rally the base around women's reproductive issues, Bacon and company did another  blasting conservative lawmakers on behalf of an organization called the Center for Reproductive Rights, the mission of which is the \"advancement and protection of reproductive rights as fundamental human rights in constitutional and international law.\""
+      "sourceUrl": "http://www.drawtheline.org/learn-more/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 24
     },
     {
-      "type": "sentence",
+      "parentId": 24,
+      "type": "text",
       "text": "In the end, Bacon is quite unashamed of his views on anything. But hey, if your place in history is secure, why not just let it all hang out?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

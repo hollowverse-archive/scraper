@@ -34,132 +34,215 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Richard Branson was born in London, England and grew up in Shamley Green, Surrey just outside London."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=xe--92E3_fA",
+      "parentId": 2,
+      "type": "text",
+      "text": "Branson is an atheist who says he would be delighted if someone could convince him that God exists.",
       "sourceTitle": "Asked about belief in God, Richard Branson says he believes in evolution.",
-      "text": "Branson is an atheist who says he would be delighted if someone could convince him that God exists."
+      "sourceUrl": "http://www.youtube.com/watch?v=xe--92E3_fA"
     },
     {
-      "type": "sentence",
-      "text": "I'm sure some of you would love to take up the challenge, but it might be a hard sell."
+      "type": "text",
+      "text": "I'm sure some of you would love to take up the challenge, but it might be a hard sell.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "He says he thinks \"religion has done a lot of harm over the years,\" and that evolution and science are at direct odds with religion. Presumably referring to concepts like  and creationism, which are conservative Christian responses to evolution, Branson said,"
+      "parentId": 3,
+      "type": "text",
+      "text": "He says he thinks \"religion has done a lot of harm over the years,\" and that evolution and science are at direct odds with religion. Presumably referring to concepts like"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "link",
+      "text": "intelligent design",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Intelligent_design"
+    },
+    {
+      "type": "text",
+      "text": "and creationism, which are conservative Christian responses to evolution, Branson said,",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=xe--92E3_fA",
-      "sourceTitle": "Asked about belief in God, Richard Branson says he believes in evolution.",
-      "text": "Anyone who questions evolution I find completely and utterly bizarre. Evolution is magnificent, that's all I can say."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Anyone who questions evolution I find completely and utterly bizarre. Evolution is magnificent, that's all I can say.",
+      "sourceTitle": "Asked about belief in God, Richard Branson says he believes in evolution.",
+      "sourceUrl": "http://www.youtube.com/watch?v=xe--92E3_fA"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "For Branson, it seems like his religion is the connections between people that happen here on Earth every day. Religion is just beside the point:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=xe--92E3_fA",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I see myself as a humanitarian who loves people. Maybe one day somebody will be able to convince me that there is a God, and there is a particular God. But to me, I love people, and that's to me the most important thing.",
       "sourceTitle": "Asked about belief in God, Richard Branson says he believes in evolution.",
-      "text": "I see myself as a humanitarian who loves people. Maybe one day somebody will be able to convince me that there is a God, and there is a particular God. But to me, I love people, and that's to me the most important thing."
+      "sourceUrl": "http://www.youtube.com/watch?v=xe--92E3_fA"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Making Capitalism Work"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Richard Branson, as an ultra-successful entrepreneur, says there's not much of a difference between the U.K.'s two major political parties:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/uk_news/politics/vote_2005/frontpage/4450641.stm",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Arguably, it doesn't matter. . . . The difference between having a Labour government for business to having a Tory government has been fairly negligible.",
       "sourceTitle": "Labour and Tories same – Branson.",
-      "text": "Arguably, it doesn't matter. . . . The difference between having a Labour government for business to having a Tory government has been fairly negligible."
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/uk_news/politics/vote_2005/frontpage/4450641.stm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/politics/2010/feb/16/branson-back-tory-deficit-cuts",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "And depending on the day and the issue, Branson has expressed his supporter for both Labour and the Conservatives.",
       "sourceTitle": "Richard Branson backs Tory plans to cut spending sooner rather than later.",
-      "text": "And depending on the day and the issue, Branson has expressed his supporter for both Labour and the Conservatives."
+      "sourceUrl": "http://www.guardian.co.uk/politics/2010/feb/16/branson-back-tory-deficit-cuts"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://transcripts.cnn.com/TRANSCRIPTS/1109/14/pmt.01.html",
+      "type": "text",
+      "text": "He's expressed support of the welfare state including the National Health Service",
+      "parentId": 14,
       "sourceTitle": "Transcripts.",
-      "text": "He's expressed support of the welfare state including the National Health Service"
+      "sourceUrl": "http://transcripts.cnn.com/TRANSCRIPTS/1109/14/pmt.01.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/uk_news/politics/vote_2005/frontpage/4450641.stm",
+      "type": "text",
+      "text": "and regulations on big businesses to provide better maternity and paternity leave.",
+      "parentId": 14,
       "sourceTitle": "Labour and Tories same – Branson.",
-      "text": "and regulations on big businesses to provide better maternity and paternity leave."
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/uk_news/politics/vote_2005/frontpage/4450641.stm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/politics/2010/feb/16/branson-back-tory-deficit-cuts",
+      "type": "text",
+      "text": "But he has also supported Tory-backed spending cuts as a way to promote confidence in potential international and local business investors.",
+      "parentId": 14,
       "sourceTitle": "Richard Branson backs Tory plans to cut spending sooner rather than later.",
-      "text": "But he has also supported Tory-backed spending cuts as a way to promote confidence in potential international and local business investors."
+      "sourceUrl": "http://www.guardian.co.uk/politics/2010/feb/16/branson-back-tory-deficit-cuts"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://transcripts.cnn.com/TRANSCRIPTS/1109/14/pmt.01.html",
+      "type": "text",
+      "text": "Across the pond, he also expressed support of Barack Obama's stimulus package and the Affordable Care Act, or Obamacare.",
+      "parentId": 14,
       "sourceTitle": "Transcripts.",
-      "text": "Across the pond, he also expressed support of Barack Obama's stimulus package and the Affordable Care Act, or Obamacare."
+      "sourceUrl": "http://transcripts.cnn.com/TRANSCRIPTS/1109/14/pmt.01.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "His political philosophy seems to revolve around how government can best help people, whether that be encouraging business investment or providing free, quality health care. He thinks that, although capitalism seems to be the only economic system that works, it's greatly flawed in that large concentrations of wealth end up in the hands of only a few. That puts the responsibility on those few to make the system work:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=5wcqdKowpsI",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "If you're one of those lucky people who're in that position where you get that extreme wealth, you've just got to make sure that wealth goes back to society in some form or another–whether it's creating more jobs or tackling the problems of the world. That money must not languish in a bank account and be unproductive.",
       "sourceTitle": "Richard Branson on Philanthropy.",
-      "text": "If you're one of those lucky people who're in that position where you get that extreme wealth, you've just got to make sure that wealth goes back to society in some form or another–whether it's creating more jobs or tackling the problems of the world. That money must not languish in a bank account and be unproductive."
+      "sourceUrl": "http://www.youtube.com/watch?v=5wcqdKowpsI"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Timeline_of_Richard_Branson",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "And considering Branson's record of business investment",
       "sourceTitle": "Timeline of Richard Branson's business ventures.",
-      "text": "And considering Branson's record of business investment"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Timeline_of_Richard_Branson"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.power-of-giving.com/richard-branson.html",
+      "type": "text",
+      "text": "and philanthropy,",
+      "parentId": 18,
       "sourceTitle": "Richard Branson – Billionaire Philanthropist.",
-      "text": "and philanthropy,"
+      "sourceUrl": "http://www.power-of-giving.com/richard-branson.html"
     },
     {
-      "type": "sentence",
-      "text": "I'd say he puts his money where his mouth is."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "I'd say he puts his money where his mouth is.",
+      "parentId": 18
     }
   ],
   "wikipediaData": {

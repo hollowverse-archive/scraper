@@ -36,146 +36,219 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Tyra Banks was born and raised in Inglewood, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.people.com/people/tyra_banks/biography/0,,,00.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Banks graduated from an all-girls Catholic high school",
       "sourceTitle": "Tyra Banks Biography",
-      "text": "Banks graduated from an all-girls Catholic high school"
+      "sourceUrl": "http://www.people.com/people/tyra_banks/biography/0,,,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.buddytv.com/articles/americas-next-top-model/tyra-banks-gives-back-6441.aspx",
+      "type": "text",
+      "text": "and she seems to still think highly of it to this day. Banks provides scholarships for African American girls to attend her old school.",
+      "parentId": 2,
       "sourceTitle": "Tyra Banks Gives Back",
-      "text": "and she seems to still think highly of it to this day. Banks provides scholarships for African American girls to attend her old school."
+      "sourceUrl": "http://www.buddytv.com/articles/americas-next-top-model/tyra-banks-gives-back-6441.aspx"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "But Banks isn't the type to get all spiritual in public. And it causes one to wonder if she's non-religious or just private about it."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=X1Ck4m9EXeo",
+      "parentId": 4,
+      "type": "text",
+      "text": "If you watch her show,"
+    },
+    {
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "Tyra"
+    },
+    {
+      "type": "text",
+      "text": ", you get the feeling she's a bit of a religious egalitarian. Banks provides a soap box to all sorts of religious people, from gay-hating Baptists",
+      "parentId": 4,
       "sourceTitle": "Crazy Baptist Lady On Tyra Banks Show",
-      "text": "If you watch her show, , you get the feeling she's a bit of a religious egalitarian. Banks provides a soap box to all sorts of religious people, from gay-hating Baptists"
+      "sourceUrl": "http://www.youtube.com/watch?v=X1Ck4m9EXeo"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=XshO7aFyL0M",
+      "type": "text",
+      "text": "to persecuted American Muslims.",
+      "parentId": 4,
       "sourceTitle": "Tyra Banks – Our Race",
-      "text": "to persecuted American Muslims."
+      "sourceUrl": "http://www.youtube.com/watch?v=XshO7aFyL0M"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=X1Ck4m9EXeo",
+      "type": "text",
+      "text": "She wasn't very understanding toward the gay-hating Baptists, though, commenting that their faces lit up and they became softer and more human when they were talking about their interests outside of religion.",
+      "parentId": 4,
       "sourceTitle": "Crazy Baptist Lady On Tyra Banks Show",
-      "text": "She wasn't very understanding toward the gay-hating Baptists, though, commenting that their faces lit up and they became softer and more human when they were talking about their interests outside of religion."
+      "sourceUrl": "http://www.youtube.com/watch?v=X1Ck4m9EXeo"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://bossip.com/509090/break-ups-tyra-banks-parts-ways-with-her-tall-handsome-banker-boyfriend30346/",
+      "parentId": 5,
+      "type": "text",
+      "text": "It's simply impossible to get a line on Banks' real religious beliefs. For example, after a particularly messy breakup, Banks went on a \"spiritual\" journey to Indonesia",
       "sourceTitle": "Tyra Banks Goes On A Spiritual Retreat To Bali After Breaking Up With Her Boyfriend Of Three Years",
-      "text": "It's simply impossible to get a line on Banks' real religious beliefs. For example, after a particularly messy breakup, Banks went on a \"spiritual\" journey to Indonesia"
+      "sourceUrl": "http://bossip.com/509090/break-ups-tyra-banks-parts-ways-with-her-tall-handsome-banker-boyfriend30346/"
     },
     {
-      "type": "sentence",
-      "text": "–which is a Muslim country, so… Muslim? Seems doubtful somehow. I think Occam's Razor would say: lapsed Catholic."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "–which is a Muslim country, so… Muslim? Seems doubtful somehow. I think Occam's Razor would say: lapsed Catholic.",
+      "parentId": 5
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "America's Next Top… Dog"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Tyra_Banks.php",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Banks is a Democrat, first and foremost. Her $6,500 in political contributions all went to Democrats.",
       "sourceTitle": "Tyra Banks's Federal Campaign Contribution Report",
-      "text": "Banks is a Democrat, first and foremost. Her $6,500 in political contributions all went to Democrats."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Tyra_Banks.php"
     },
     {
-      "type": "sentence",
-      "text": "She's a giant Obama fan. When he got the Democratic nomination in 2008, she said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She's a giant Obama fan. When he got the Democratic nomination in 2008, she said:",
+      "parentId": 7
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0004723/bio",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I just started bawling. I started calling all these people, and everybody was talking to me like I was crazy. They're like, 'Well, he hasn't won yet,' but I'm like, 'Yes, he has because he's gotten this far.'",
       "sourceTitle": "Tyra Banks – Biography",
-      "text": "I just started bawling. I started calling all these people, and everybody was talking to me like I was crazy. They're like, 'Well, he hasn't won yet,' but I'm like, 'Yes, he has because he's gotten this far.'"
+      "sourceUrl": "http://www.imdb.com/name/nm0004723/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=w3uj5ztNMeA",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "She even used her show as a platform to interview the would-be president and outwardly promote his campaign.",
       "sourceTitle": "Tyra Banks: 18 years old should go vote hope Barack Obama 08",
-      "text": "She even used her show as a platform to interview the would-be president and outwardly promote his campaign."
+      "sourceUrl": "http://www.youtube.com/watch?v=w3uj5ztNMeA"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=roviP_SaAwA",
+      "parentId": 11,
+      "type": "text",
+      "text": "Banks is a staunch supporter of the gay community, having people come on her show to rant against Prop 8",
       "sourceTitle": "Proposition 8 and Civil Rights. Tyra Banks Show with Sam Harris",
-      "text": "Banks is a staunch supporter of the gay community, having people come on her show to rant against Prop 8"
+      "sourceUrl": "http://www.youtube.com/watch?v=roviP_SaAwA"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2008/02/29/tyra-banks-talks-homosexu_n_89286.html",
+      "type": "text",
+      "text": "and saying \"I love the gays and the gays love me.\"",
+      "parentId": 11,
       "sourceTitle": "Tyra Banks Talks Homosexuality With Mike Huckabee",
-      "text": "and saying \"I love the gays and the gays love me.\""
+      "sourceUrl": "http://www.huffingtonpost.com/2008/02/29/tyra-banks-talks-homosexu_n_89286.html"
     },
     {
-      "type": "sentence",
-      "text": "Plus, she was pretty happy about Barack Obama's endorsement of gay marriage, tweeting:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Plus, she was pretty happy about Barack Obama's endorsement of gay marriage, tweeting:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.ontopmag.com/article.aspx?id=11777",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "A fierce day for my gays and prez Barack Obama – way 2 stand up 4 luv for ALL!",
       "sourceTitle": "Lady Gaga, Alec Baldwin, Tyra Banks, Josh Groban Cheer Obama's Gay Marriage Support",
-      "text": "A fierce day for my gays and prez Barack Obama – way 2 stand up 4 luv for ALL!"
+      "sourceUrl": "http://www.ontopmag.com/article.aspx?id=11777"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/GMA/video/tyra-banks-asks-models-thin-16358525",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "In at least one way, Banks is a political oxymoron. As an entertainer who's made literally millions off of society's narrow conception of female beauty from her modeling career and through her show,"
+    },
+    {
+      "parentId": 14,
+      "type": "emphasis",
+      "text": "America's Next Top Model"
+    },
+    {
+      "type": "text",
+      "text": ", she's often come out to speak against that exact conception, condemning models who are too skinny",
+      "parentId": 14,
       "sourceTitle": "Tyra Banks Asks Models: 'What is Too Thin?",
-      "text": "In at least one way, Banks is a political oxymoron. As an entertainer who's made literally millions off of society's narrow conception of female beauty from her modeling career and through her show, , she's often come out to speak against that exact conception, condemning models who are too skinny"
+      "sourceUrl": "http://abcnews.go.com/GMA/video/tyra-banks-asks-models-thin-16358525"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.fullliving.com/tyrabanks.html",
+      "type": "text",
+      "text": "and telling women to just be happy with their bodies.",
+      "parentId": 14,
       "sourceTitle": "Tyra Banks and Her \"So What!\" Campaign",
-      "text": "and telling women to just be happy with their bodies."
+      "sourceUrl": "http://www.fullliving.com/tyrabanks.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "Of course, this could be the result of her own high-pressure, damaging experience in the modeling industry. What do you all think?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

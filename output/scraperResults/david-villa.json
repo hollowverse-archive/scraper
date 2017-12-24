@@ -29,83 +29,115 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
+      "parentId": 1,
+      "type": "text",
+      "text": "David Villa was born and raised in Tuilla, Spain."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
       "text": "He hasn't spoken about his personal religious views, but given that he's a Spaniard, it's highly likely that he, or at least his family, has something to do with the Catholic tradition."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "There's a chance Villa is a bit intolerant of at least one religion. Villa was party to an international controversy when, during a game, Villa and opponent Mesut Ozil got into a brawl. Ozil said of the incident:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.allvoices.com/contributed-news/10028659-did-david-villa-insulted-mesut-ozils-islam-religion-at-super-cup-brawl",
-      "sourceTitle": "Did David Villa insulted Mesut Ozil's Islam religion at Super Cup brawl?",
-      "text": "I did this because I was defending my religion because David Villa insulted Islam."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I did this because I was defending my religion because David Villa insulted Islam.",
+      "sourceTitle": "Did David Villa insulted Mesut Ozil's Islam religion at Super Cup brawl?",
+      "sourceUrl": "http://www.allvoices.com/contributed-news/10028659-did-david-villa-insulted-mesut-ozils-islam-religion-at-super-cup-brawl"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Unfortunately, that seems to be the extent of Villa's public commentary on religion."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Son of a miner's politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.davidvilla7.es/en/biography/",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Villa's politics are relatively minimal as well. He has sided with \"labor\" in the seemingly endless austerity strikes plaguing Spain. Villa's father was a miner",
       "sourceTitle": "David Villa Official Website: Biography.",
-      "text": "Villa's politics are relatively minimal as well. He has sided with \"labor\" in the seemingly endless austerity strikes plaguing Spain. Villa's father was a miner"
+      "sourceUrl": "http://www.davidvilla7.es/en/biography/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.totalbarca.com/2012/news/villa-supports-spanish-miners/",
+      "type": "text",
+      "text": "and when coal miners marched in Madrid–fearing for their jobs–Villa expressed his support.",
+      "parentId": 8,
       "sourceTitle": "Villa supports Spanish miners",
-      "text": "and when coal miners marched in Madrid–fearing for their jobs–Villa expressed his support."
+      "sourceUrl": "http://www.totalbarca.com/2012/news/villa-supports-spanish-miners/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Other than that, no official political stances from the Villa camp that I can find. Let us know if anything changes."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/David_Villa",
     "title": "David Villa",
     "image": {
-      "name": "David_Villa_NYCFC_vs._Houston_Dynamo-_5-30-2015_(18102079848).jpg",
+      "name": "Spain-Tahiti,_Confederations_Cup_2013_(02)_(Villa_crop).jpg",
       "info": {
-        "canonicaltitle": "File:David Villa NYCFC vs. Houston Dynamo- 5-30-2015 (18102079848).jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/David_Villa_NYCFC_vs._Houston_Dynamo-_5-30-2015_%2818102079848%29.jpg/313px-David_Villa_NYCFC_vs._Houston_Dynamo-_5-30-2015_%2818102079848%29.jpg",
-        "thumbwidth": 313,
+        "canonicaltitle": "File:Spain-Tahiti, Confederations Cup 2013 (02) (Villa crop).jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Spain-Tahiti%2C_Confederations_Cup_2013_%2802%29_%28Villa_crop%29.jpg/244px-Spain-Tahiti%2C_Confederations_Cup_2013_%2802%29_%28Villa_crop%29.jpg",
+        "thumbwidth": 244,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/David_Villa_NYCFC_vs._Houston_Dynamo-_5-30-2015_%2818102079848%29.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:David_Villa_NYCFC_vs._Houston_Dynamo-_5-30-2015_(18102079848).jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40815288",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Spain-Tahiti%2C_Confederations_Cup_2013_%2802%29_%28Villa_crop%29.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Spain-Tahiti,_Confederations_Cup_2013_(02)_(Villa_crop).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64797711",
         "extmetadata": {
           "DateTime": {
-            "value": "2015-06-08 04:41:45",
+            "value": "2017-12-13 21:30:41",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "David Villa NYCFC vs. Houston Dynamo- 5-30-2015 (18102079848)",
+            "value": "Spain-Tahiti, Confederations Cup 2013 (02) (Villa crop)",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -115,7 +147,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "2015 New York City FC season|David Villa|Flickr images reviewed by FlickreviewR|May 2015 in New York City|Media with locations|Pages with maps|Photographs by Arturo Pardavila III",
+            "value": "David Villa|Extracted images|Photographs by Agencia Brasil|Spain - Tahiti, 20 Jun 2013",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -124,43 +156,30 @@
             "source": "commons-categories",
             "hidden": ""
           },
-          "GPSLatitude": {
-            "value": "40.829602",
-            "source": "commons-desc-page"
-          },
-          "GPSLongitude": {
-            "value": "-73.927078",
-            "source": "commons-desc-page"
-          },
-          "GPSMapDatum": {
-            "value": "WGS-84",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
           "ImageDescription": {
-            "value": "David Villa heads to the locker room at the half.. David Villa heads to the locker room at the half.",
+            "value": "Espanha e Taiti se enfrentam na Copa das Confederações 2013",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "2015-05-30 19:58",
+            "value": "2014-02-23 11:50:46",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/apardavila/18102079848/\">NYCFC vs. Houston Dynamo: 5/30/2015</a>",
+            "value": "Agência Brasil: <a rel=\"nofollow\" class=\"external text\" href=\"http://memoria.ebc.com.br/agenciabrasil/galeria/2013-06-20/espanha-e-taiti-se-enfrentam-na-copa-das-confederacoes\">Espanha e Taiti se enfrentam na Copa das Confederações</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/63704136@N00\">Arturo Pardavila III</a> from Hoboken, NJ, USA",
+            "value": "Tânia Rêgo/ABr",
             "source": "commons-desc-page"
           },
           "LicenseShortName": {
-            "value": "CC BY 2.0",
+            "value": "CC BY 3.0 br",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "UsageTerms": {
-            "value": "Creative Commons Attribution 2.0",
+            "value": "Creative Commons Attribution 3.0 br",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -170,7 +189,7 @@
             "hidden": ""
           },
           "LicenseUrl": {
-            "value": "http://creativecommons.org/licenses/by/2.0",
+            "value": "http://creativecommons.org/licenses/by/3.0/br/deed.en",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -185,7 +204,7 @@
             "hidden": ""
           },
           "License": {
-            "value": "cc-by-2.0",
+            "value": "cc-by-3.0-br",
             "source": "commons-templates",
             "hidden": ""
           }

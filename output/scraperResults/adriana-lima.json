@@ -31,118 +31,166 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0992596/bio",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
+      "text": "Adriana Lima was born and raised in Salvador, Brazil. She moved to New York City at 16 to pursue her modeling career.",
       "sourceTitle": "Adriana Lima – Biography.",
-      "text": "Adriana Lima was born and raised in Salvador, Brazil. She moved to New York City at 16 to pursue her modeling career."
+      "sourceUrl": "http://www.imdb.com/name/nm0992596/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://waitingtillmarriage.org/adriana-lima-waited-until-age-27/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Lima is a strict Catholic who goes to Mass every week and, unless doing a photo shoot or show, wears a scapular (a Catholic necklace of sorts) around her neck at all times.",
       "sourceTitle": "Adriana Lime – Virgin Until Age 27",
-      "text": "Lima is a strict Catholic who goes to Mass every week and, unless doing a photo shoot or show, wears a scapular (a Catholic necklace of sorts) around her neck at all times."
+      "sourceUrl": "http://waitingtillmarriage.org/adriana-lima-waited-until-age-27/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://transcripts.cnn.com/TRANSCRIPTS/0506/17/sbt.01.html",
+      "type": "text",
+      "text": "I can't tell if she was actually a nun at one point or only aspired to be,",
+      "parentId": 2,
       "sourceTitle": "Transcripts",
-      "text": "I can't tell if she was actually a nun at one point or only aspired to be,"
+      "sourceUrl": "http://transcripts.cnn.com/TRANSCRIPTS/0506/17/sbt.01.html"
     },
     {
-      "type": "sentence",
-      "text": "but being a nun had something to do with her upbringing."
+      "type": "text",
+      "text": "but being a nun had something to do with her upbringing.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://waitingtillmarriage.org/adriana-lima-waited-until-age-27/",
+      "parentId": 3,
+      "type": "text",
+      "text": "She is so devoted to her faith, Adriana supposedly abstained from sex until she was married at the age of 27.",
       "sourceTitle": "Adriana Lime – Virgin Until Age 27",
-      "text": "She is so devoted to her faith, Adriana supposedly abstained from sex until she was married at the age of 27."
+      "sourceUrl": "http://waitingtillmarriage.org/adriana-lima-waited-until-age-27/"
     },
     {
-      "type": "sentence",
-      "text": "She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.gq.com/women/photos/200603/adriana-lima-virgin-underwear-model",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Sex is for after marriage… [Men] have to respect that this is my choice. If there's no respect, that means they don't want me.",
       "sourceTitle": "Adriana Lime: Our Favorite… Virgin?",
-      "text": "Sex is for after marriage… [Men] have to respect that this is my choice. If there's no respect, that means they don't want me."
+      "sourceUrl": "http://www.gq.com/women/photos/200603/adriana-lima-virgin-underwear-model"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0992596/bio",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "That's rough news for hopeful, hormone-driven men the world over considering Lima has been rated the world's most desirable woman over and over and over by various hotness-rating entities.",
       "sourceTitle": "Adriana Lima – Biography.",
-      "text": "That's rough news for hopeful, hormone-driven men the world over considering Lima has been rated the world's most desirable woman over and over and over by various hotness-rating entities."
+      "sourceUrl": "http://www.imdb.com/name/nm0992596/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0992596/bio",
+      "parentId": 7,
+      "type": "text",
+      "text": "Not that it matters. Lima was married in 2009.",
       "sourceTitle": "Adriana Lima – Biography.",
-      "text": "Not that it matters. Lima was married in 2009."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.imdb.com/name/nm0992596/bio"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Politics of a hyper-religious international supermodel"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.gq.com/women/photos/200603/adriana-lima-virgin-underwear-model",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Politically, Lima hasn't given us much to go on. She did say she believes"
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "all"
+    },
+    {
+      "type": "text",
+      "text": "of the teachings of the Catholic Church. She said, very clearly, that she thinks abortion is a crime for example.",
+      "parentId": 9,
       "sourceTitle": "Adriana Lime: Our Favorite… Virgin?",
-      "text": "Politically, Lima hasn't given us much to go on. She did say she believes of the teachings of the Catholic Church. She said, very clearly, that she thinks abortion is a crime for example."
+      "sourceUrl": "http://www.gq.com/women/photos/200603/adriana-lima-virgin-underwear-model"
     },
     {
-      "type": "sentence",
-      "text": "But that would also include: no birth control, no divorce and no gay marriage (among other things). If she was American, you could imagine her being a staunch supporter of the likes of Rick Santorum. She'd probably be quite the hot little conservative."
+      "type": "text",
+      "text": "But that would also include: no birth control, no divorce and no gay marriage (among other things). If she was American, you could imagine her being a staunch supporter of the likes of Rick Santorum. She'd probably be quite the hot little conservative.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0992596/bio",
+      "parentId": 10,
+      "type": "text",
+      "text": "Lima is an international woman. Born and raised in Brazil, career in the U.S. and now married to a Serbian. Lima applied for Serbian citizenship,",
       "sourceTitle": "Adriana Lima – Biography.",
-      "text": "Lima is an international woman. Born and raised in Brazil, career in the U.S. and now married to a Serbian. Lima applied for Serbian citizenship,"
+      "sourceUrl": "http://www.imdb.com/name/nm0992596/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rantrave.com/Rave/Adriana-Lima-Fell-In-Love-With-Serbia.aspx",
+      "type": "text",
+      "text": "saying she loved the Balkan nation.",
+      "parentId": 10,
       "sourceTitle": "Rave – Adriana Lime Fell In Love With Serbia",
-      "text": "saying she loved the Balkan nation."
+      "sourceUrl": "http://www.rantrave.com/Rave/Adriana-Lima-Fell-In-Love-With-Serbia.aspx"
     },
     {
-      "type": "sentence",
-      "text": "From what I've seen, people whose lives are so multinational go one of two ways: take a meta-political, geopolitical approach to the world, or they don't care too much. I'd imagine Lima would fall into the latter category."
+      "type": "text",
+      "text": "From what I've seen, people whose lives are so multinational go one of two ways: take a meta-political, geopolitical approach to the world, or they don't care too much. I'd imagine Lima would fall into the latter category.",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0992596/bio",
+      "parentId": 11,
+      "type": "text",
+      "text": "She does do quite a bit of charity work for orphans and the less fortunate in her home country of Brazil.",
       "sourceTitle": "Adriana Lima – Biography.",
-      "text": "She does do quite a bit of charity work for orphans and the less fortunate in her home country of Brazil."
+      "sourceUrl": "http://www.imdb.com/name/nm0992596/bio"
     },
     {
-      "type": "sentence",
-      "text": "But that's not politics, that's just uncontroversial charity."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But that's not politics, that's just uncontroversial charity.",
+      "parentId": 11
     }
   ],
   "wikipediaData": {

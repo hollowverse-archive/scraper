@@ -31,66 +31,81 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Armin van Buuren was born in Leiden, Netherlands and raised in Koudekerk aan den Rijn, Netherlands."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_the_Netherlands",
+      "parentId": 2,
+      "type": "text",
+      "text": "Van Buuren does not appear to be a religious person. Over half of the Netherlands does not associate with a religion,",
       "sourceTitle": "Religion in the Netherlands.",
-      "text": "Van Buuren does not appear to be a religious person. Over half of the Netherlands does not associate with a religion,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_the_Netherlands"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/arminvanbuuren/status/283243441318682625",
+      "type": "text",
+      "text": "so that would certainly make sense. That being said, he probably has a vaguely Christian background considering he celebrates Christmas",
+      "parentId": 2,
       "sourceTitle": "arminvanbuuren: Christmas shopping!!",
-      "text": "so that would certainly make sense. That being said, he probably has a vaguely Christian background considering he celebrates Christmas"
+      "sourceUrl": "https://twitter.com/arminvanbuuren/status/283243441318682625"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/arminvanbuuren/status/279890991912214529",
+      "type": "text",
+      "text": "and sent out prayers to Newtown, Connecticut after the tragic Sandy Hook Elementary School shooting in 2012.",
+      "parentId": 2,
       "sourceTitle": "arminvanbuuren: Really shocked and sad reading …",
-      "text": "and sent out prayers to Newtown, Connecticut after the tragic Sandy Hook Elementary School shooting in 2012."
+      "sourceUrl": "https://twitter.com/arminvanbuuren/status/279890991912214529"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/arminvanbuuren",
+      "parentId": 3,
+      "type": "text",
+      "text": "If this can be any indication, he appears to be a John Lennon fan–he's wearing a Lennon shirt on the picture on his Twitter account–",
       "sourceTitle": "Armin van Buuren (arminvanbuuren) on Twitter.",
-      "text": "If this can be any indication, he appears to be a John Lennon fan–he's wearing a Lennon shirt on the picture on his Twitter account–"
+      "sourceUrl": "https://twitter.com/arminvanbuuren"
     },
     {
-      "type": "sentence",
-      "text": "and named one of his albums and the title track \"Imagine,\" which could potentially be a reference to the British pop star's atheist ballad. But it might be a stretch to say that makes him an atheist."
+      "type": "text",
+      "text": "and named one of his albums and the title track \"Imagine,\" which could potentially be a reference to the British pop star's atheist ballad. But it might be a stretch to say that makes him an atheist.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Van Buuren doesn't have anything to say about politics either. I would assume that he's fairly liberal by American standards, considering the Netherlands is socially liberal, but that's about all I've got. He didn't seem to have anything to say about politics in his own country, nor any of the countries he frequently visits on tour."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "Maybe his affection for John Lennon belies a passion for world peace. Maybe he believes in the power of trance music to be an avenue for understanding in areas of conflict like his trance peer Paul van Dyk. But for now, it's all speculation."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "If you can help us out with his religious or political views, please let us know in the comments!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

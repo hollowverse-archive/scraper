@@ -31,106 +31,152 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Christina Hendricks was born in Knoxville, Tennessee and grew up in Portland, Oregon, Twin Falls, Idaho, and Fairfax, Virginia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Either Hendricks doesn't have anything to say about religion or nobody's asked her. Even question/answer sites, the usual sources of totally unreliable personal information about celebrities, don't have anything to say."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.squidoo.com/geoffrey-arend",
+      "parentId": 3,
+      "type": "text",
+      "text": "She married actor Geoffrey Arend in 2009 who some people seem to think is Jewish, although nobody knows for sure.",
       "sourceTitle": "Geoffrey Arend.",
-      "text": "She married actor Geoffrey Arend in 2009 who some people seem to think is Jewish, although nobody knows for sure."
+      "sourceUrl": "http://www.squidoo.com/geoffrey-arend"
     },
     {
-      "type": "sentence",
-      "text": "Another dead end in the religion department."
+      "type": "text",
+      "text": "Another dead end in the religion department.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "So I'm going to have to go with non-religious on this one until further notice."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 5
     },
     {
-      "type": "heading",
+      "parentId": 5,
+      "type": "text",
       "text": "Confident, Curvy, and Liberal"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Although Hendricks doesn't appear to have endorsed any Democratic candidates, I'm going to assume she's liberal–at least socially."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.advocate.com/arts-entertainment/television/2009/10/12/ahead-curves",
+      "parentId": 7,
+      "type": "text",
+      "text": "She's an advocate for same-sex marriage, and doesn't seem to think that being gay should even be an issue. Referring to a same-sex on-screen kiss, Hendricks was asked if it was the first time she kissed a woman. She said, \"Oh, come now. It's 2009!\"",
       "sourceTitle": "Ahead of the Curves.",
-      "text": "She's an advocate for same-sex marriage, and doesn't seem to think that being gay should even be an issue. Referring to a same-sex on-screen kiss, Hendricks was asked if it was the first time she kissed a woman. She said, \"Oh, come now. It's 2009!\""
+      "sourceUrl": "http://www.advocate.com/arts-entertainment/television/2009/10/12/ahead-curves"
     },
     {
-      "type": "sentence",
-      "text": "And she said this about Proposition 8, a California ballot measure that passed making gay marriage illegal:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And she said this about Proposition 8, a California ballot measure that passed making gay marriage illegal:",
+      "parentId": 7
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.advocate.com/arts-entertainment/television/2009/10/12/ahead-curves",
-      "sourceTitle": "Ahead of the Curves.",
-      "text": "I have a million friends affected by the passing of Prop. 8. The sad thing is that people were so used to how unfair it is that it wasn't that shocking."
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://fashion.telegraph.co.uk/news-features/TMG7909143/Mad-Men-star-Christina-Hendricks-is-great-role-model-says-Equalities-Minister.html",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I have a million friends affected by the passing of Prop. 8. The sad thing is that people were so used to how unfair it is that it wasn't that shocking.",
+      "sourceTitle": "Ahead of the Curves.",
+      "sourceUrl": "http://www.advocate.com/arts-entertainment/television/2009/10/12/ahead-curves"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "And since the most popular topic of conversation surrounding the actress is her voluptuous figure, let's jump on the bandwagon. She's been labelled as a role model for everyday women who don't fit into the size zero Hollywood stereotype.",
       "sourceTitle": "Mad Men star Christina Hendricks is great role model, says Equalities Minister.",
-      "text": "And since the most popular topic of conversation surrounding the actress is her voluptuous figure, let's jump on the bandwagon. She's been labelled as a role model for everyday women who don't fit into the size zero Hollywood stereotype."
+      "sourceUrl": "http://fashion.telegraph.co.uk/news-features/TMG7909143/Mad-Men-star-Christina-Hendricks-is-great-role-model-says-Equalities-Minister.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cnn.com/2010/HEALTH/07/06/christina.hendricks.confident/index.html",
+      "type": "text",
+      "text": "And she embraces her figure saying that it makes her feel womanly and beautiful,",
+      "parentId": 10,
       "sourceTitle": "Christina Hendricks: Curvy, confident, gorgeous.",
-      "text": "And she embraces her figure saying that it makes her feel womanly and beautiful,"
+      "sourceUrl": "http://www.cnn.com/2010/HEALTH/07/06/christina.hendricks.confident/index.html"
     },
     {
-      "type": "sentence",
-      "text": "and encourages other women to be confident about their own bodies:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and encourages other women to be confident about their own bodies:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.smh.com.au/lifestyle/fashion/hollywoods-voluptuous-beauty-was-offended-go-full-figure-20121013-27jp5.html",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "It's important to embrace who you are and celebrate who you are and we are all completely different and I think that's gorgeous.",
       "sourceTitle": "Hollywood's voluptuous beauty was offended? Go (ful) figure…",
-      "text": "It's important to embrace who you are and celebrate who you are and we are all completely different and I think that's gorgeous."
+      "sourceUrl": "http://www.smh.com.au/lifestyle/fashion/hollywoods-voluptuous-beauty-was-offended-go-full-figure-20121013-27jp5.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mirror.co.uk/3am/i-work-my-butt-off-but-all-they-want-to-talk-about-is-my-body-736479",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "So even though the actress would prefer people to talk a little less about her body, and a little more about her acting,",
       "sourceTitle": "I work my butt off but all they want to talk about is my body.",
-      "text": "So even though the actress would prefer people to talk a little less about her body, and a little more about her acting,"
+      "sourceUrl": "http://www.mirror.co.uk/3am/i-work-my-butt-off-but-all-they-want-to-talk-about-is-my-body-736479"
     },
     {
-      "type": "sentence",
-      "text": "she is still a positive physical role model for women in a profession with few of them."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "she is still a positive physical role model for women in a profession with few of them.",
+      "parentId": 13
     }
   ],
   "wikipediaData": {

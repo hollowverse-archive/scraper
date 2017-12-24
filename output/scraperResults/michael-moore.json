@@ -36,141 +36,201 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Michael Moore was born in Flint, Michigan and raised in Davison, a suburb of that town."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usnews.com/news/blogs/god-and-country/2009/09/24/michael-moore-almost-became-a-catholic-priest",
+      "parentId": 2,
+      "type": "text",
+      "text": "Moore was raised Irish Catholic, went to Catholic schools growing up, and even entered the seminary with the intention of becoming a priest.",
       "sourceTitle": "Michael Moore Almost Became a Catholic Priest.",
-      "text": "Moore was raised Irish Catholic, went to Catholic schools growing up, and even entered the seminary with the intention of becoming a priest."
+      "sourceUrl": "http://www.usnews.com/news/blogs/god-and-country/2009/09/24/michael-moore-almost-became-a-catholic-priest"
     },
     {
-      "type": "sentence",
-      "text": "Obviously that didn't pan out, but he says his religious upbringing helped lead him to his path of political activism. About how Catholic morals influenced his life and work he said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Obviously that didn't pan out, but he says his religious upbringing helped lead him to his path of political activism. About how Catholic morals influenced his life and work he said,",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.oprah.com/oprahradio/Filmmaker-Michael-Moores-Spirituality",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I do believe that we are to love our enemies and do good to those who persecute you. I believe that there is power and strength in that.",
       "sourceTitle": "Filmmaker Michael Moore's Spirituality.",
-      "text": "I do believe that we are to love our enemies and do good to those who persecute you. I believe that there is power and strength in that."
+      "sourceUrl": "http://www.oprah.com/oprahradio/Filmmaker-Michael-Moores-Spirituality"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.michaelmoore.com/words/mike-friends-blog/about-president-obamas-statement-gay-marriage",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "He doesn't follow every tenet of the Catholic church however. He is politically very liberal (no surprise to anyone reading this article I'm sure) and those kind of politics don't always mesh with strict Catholicism. He believes gay marriage should be legal,",
       "sourceTitle": "About President Obama's Statement in Support of Gay Marriage.",
-      "text": "He doesn't follow every tenet of the Catholic church however. He is politically very liberal (no surprise to anyone reading this article I'm sure) and those kind of politics don't always mesh with strict Catholicism. He believes gay marriage should be legal,"
+      "sourceUrl": "http://www.michaelmoore.com/words/mike-friends-blog/about-president-obamas-statement-gay-marriage"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.freerepublic.com/focus/f-religion/2845256/posts",
+      "type": "text",
+      "text": "supports requiring Catholic insurers to provide birth control,",
+      "parentId": 5,
       "sourceTitle": "Michael Moore Goes On Anti-Catholic Twitter Rant, Distorts Contraception Debate.",
-      "text": "supports requiring Catholic insurers to provide birth control,"
+      "sourceUrl": "http://www.freerepublic.com/focus/f-religion/2845256/posts"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newsbusters.org/blogs/tim-graham/2011/09/05/lifelong-catholic-michael-moore-bashes-pro-lifers-really-really-weirdute",
+      "type": "text",
+      "text": "and thinks pro-life supporters are \"really, really weird.\"",
+      "parentId": 5,
       "sourceTitle": "'Lifelong Catholic' Michael Moore Bashes Pro-Lifers as 'Really, Really Weird…Uterus Police.'",
-      "text": "and thinks pro-life supporters are \"really, really weird.\""
+      "sourceUrl": "http://newsbusters.org/blogs/tim-graham/2011/09/05/lifelong-catholic-michael-moore-bashes-pro-lifers-really-really-weirdute"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/michael-moore/an-open-letter-to-god-fro_b_122800.html",
+      "parentId": 6,
+      "type": "text",
+      "text": "So even though Catholicism has greatly influenced his life and his worldview, he doesn't think religion and politics are a great mix. In an article in the Huffington Post, Moore wrote a \"Letter to God\" that criticized politicians who invoke God's name in support of their causes.",
       "sourceTitle": "Michael Moore: An Open Letter to God.",
-      "text": "So even though Catholicism has greatly influenced his life and his worldview, he doesn't think religion and politics are a great mix. In an article in the Huffington Post, Moore wrote a \"Letter to God\" that criticized politicians who invoke God's name in support of their causes."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.huffingtonpost.com/michael-moore/an-open-letter-to-god-fro_b_122800.html"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Democracy is not a spectator sport"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.systemsthinker.com/blog/2007/08/michael-moore-social-change-in-america/",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Moore is a darling of the liberal left and the target of scorn from the conservative right. Supporters have compared him to Martin Luther King, Jr.",
       "sourceTitle": "What Michael Moore Really Teaches Us About Political and Social Change In America.",
-      "text": "Moore is a darling of the liberal left and the target of scorn from the conservative right. Supporters have compared him to Martin Luther King, Jr."
+      "sourceUrl": "http://www.systemsthinker.com/blog/2007/08/michael-moore-social-change-in-america/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://usatoday30.usatoday.com/life/movies/news/2004-06-20-moore_x.htm",
+      "type": "text",
+      "text": "and critics to Nazi propagandist Josef Goebbels.",
+      "parentId": 8,
       "sourceTitle": "The truth about Michael Moore.",
-      "text": "and critics to Nazi propagandist Josef Goebbels."
+      "sourceUrl": "http://usatoday30.usatoday.com/life/movies/news/2004-06-20-moore_x.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "His revolutionary style of documentary film making made no attempt to be balanced and instead sought to lure its audiences into passionate outrage on behalf of the liberal cause. He's aware that his films don't do much to persuade those who disagree with him, but that doesn't bother him. He said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://usatoday30.usatoday.com/life/movies/news/2004-06-20-moore_x.htm",
-      "sourceTitle": "The truth about Michael Moore.",
-      "text": "I may be preaching to the choir. But the choir needs a good song."
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/Michael_Moore.php",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I may be preaching to the choir. But the choir needs a good song.",
+      "sourceTitle": "The truth about Michael Moore.",
+      "sourceUrl": "http://usatoday30.usatoday.com/life/movies/news/2004-06-20-moore_x.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "He's tackled subjects like gun control, the Iraq War, and America's health care system–subjects that are rallying cries of the left. But that doesn't mean he's a Democrat. He's given plenty of support to Democrats through the years,",
       "sourceTitle": "Michael Moore's Federal Campaign Contribution Report.",
-      "text": "He's tackled subjects like gun control, the Iraq War, and America's health care system–subjects that are rallying cries of the left. But that doesn't mean he's a Democrat. He's given plenty of support to Democrats through the years,"
+      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/Michael_Moore.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://usatoday30.usatoday.com/life/movies/news/2004-06-20-moore_x.htm",
+      "type": "text",
+      "text": "but he–at least in 2004–was a registered independent in Michigan and has worked for Green Party candidate Ralph Nader.",
+      "parentId": 12,
       "sourceTitle": "The truth about Michael Moore.",
-      "text": "but he–at least in 2004–was a registered independent in Michigan and has worked for Green Party candidate Ralph Nader."
+      "sourceUrl": "http://usatoday30.usatoday.com/life/movies/news/2004-06-20-moore_x.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=m9Vc44rQ09k",
+      "parentId": 13,
+      "type": "text",
+      "text": "Moore voted for Obama in 2008, but has since been very critical of the president for not being more bullish with uncompromising Republicans,",
       "sourceTitle": "Michael Moore Talks Politics, Part 1 – The View.",
-      "text": "Moore voted for Obama in 2008, but has since been very critical of the president for not being more bullish with uncompromising Republicans,"
+      "sourceUrl": "http://www.youtube.com/watch?v=m9Vc44rQ09k"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mediaite.com/online/michael-moore-goes-the-full-wingnut-on-president-obama-over-occupy-crackdown/",
+      "type": "text",
+      "text": "not supporting the Occupy Wall Street Movement,",
+      "parentId": 13,
       "sourceTitle": "Michael Moore Goes The Full Wingnut On President Obama Over Occupy 'Crackdown.'",
-      "text": "not supporting the Occupy Wall Street Movement,"
+      "sourceUrl": "http://www.mediaite.com/online/michael-moore-goes-the-full-wingnut-on-president-obama-over-occupy-crackdown/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.stevelackner.com/2011/09/michael-moore-criticizes-obama-praises.html",
+      "type": "text",
+      "text": "and for drifting too far to the center of the political landscape.",
+      "parentId": 13,
       "sourceTitle": "Michael Moore Criticizes Obama, Praises Huntsman.",
-      "text": "and for drifting too far to the center of the political landscape."
+      "sourceUrl": "http://www.stevelackner.com/2011/09/michael-moore-criticizes-obama-praises.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "Moore is potentially one of the most controversial American political activists in the 21st century, and this short article cannot do him nor his critics justice. But whether you agree with him or not, you may be able to agree with him on the philosophy guiding his work:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 15
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://en.wikiquote.org/wiki/Michael_Moore",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Democracy is not a spectator sport, it's a participatory event. If we don't participate in it, it ceases to be a democracy.",
       "sourceTitle": "Michael Moore.",
-      "text": "Democracy is not a spectator sport, it's a participatory event. If we don't participate in it, it ceases to be a democracy."
+      "sourceUrl": "http://en.wikiquote.org/wiki/Michael_Moore"
     }
   ],
   "wikipediaData": {

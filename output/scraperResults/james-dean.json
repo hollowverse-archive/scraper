@@ -31,118 +31,196 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "James Dean was born in Marion, Indiana. He lived in Santa Monica, California briefly until his mother died, at which point his father sent him to live with relatives in Fairmount, Indiana. Dean died in a car accident just outside of Bakersfield, California in 1955."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pd/James_Dean.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "While in Fairmont, Dean was raised in a Quaker household. Most accounts of his official religion are that he was a Quaker.",
       "sourceTitle": "The religion of James Dean, actor.",
-      "text": "While in Fairmont, Dean was raised in a Quaker household. Most accounts of his official religion are that he was a Quaker."
+      "sourceUrl": "http://www.adherents.com/people/pd/James_Dean.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pd/James_Dean.html",
+      "type": "text",
+      "text": "And his funeral was held at a Quaker church house in Fairmont.",
+      "parentId": 2,
       "sourceTitle": "The religion of James Dean, actor.",
-      "text": "And his funeral was held at a Quaker church house in Fairmont."
+      "sourceUrl": "http://www.adherents.com/people/pd/James_Dean.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "But there is a strong push by some Christians to paint Dean as an atheist, or maybe an occultist, and quoting him as saying things like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.tumblr.com/tagged/james-dean?before=1323577310",
-      "sourceTitle": "James Dean",
-      "text": "No matter what they say, there isn't any heaven. There's no hell either."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "No matter what they say, there isn't any heaven. There's no hell either.",
+      "sourceTitle": "James Dean",
+      "sourceUrl": "http://www.tumblr.com/tagged/james-dean?before=1323577310"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "And:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.hollywoodunmasked.com/jamesdean.html",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I believe in freedom, not God.",
       "sourceTitle": "James Dean",
-      "text": "I believe in freedom, not God."
+      "sourceUrl": "http://www.hollywoodunmasked.com/jamesdean.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.amazon.com/Surviving-James-Dean-William-Bast/dp/156980298X",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "But these quotes are unattributed–and rare even in the near-infinite internet universe. Plus, books have been written debunking such rumors,",
       "sourceTitle": "Surviving James Dean: William Bast",
-      "text": "But these quotes are unattributed–and rare even in the near-infinite internet universe. Plus, books have been written debunking such rumors,"
+      "sourceUrl": "http://www.amazon.com/Surviving-James-Dean-William-Bast/dp/156980298X"
     },
     {
-      "type": "sentence",
-      "text": "so I'm skeptical of their validity. However, one quote attributed to Dean's does hint at the possibility that Dean was unsure about the existence of an afterlife. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "so I'm skeptical of their validity. However, one quote attributed to Dean's does hint at the possibility that Dean was unsure about the existence of an afterlife. He said:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/james_dean.html",
-      "sourceTitle": "James Dean Quotes",
-      "text": "If a man can bridge the gap between life and death, if he can live on after he's dead, then maybe he was a great man."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "If a man can bridge the gap between life and death, if he can live on after he's dead, then maybe he was a great man.",
+      "sourceTitle": "James Dean Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/james_dean.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "To me, this shows that Dean believed in a sort of \"pagan immortality.\" But as far as the Satanist, occultist, atheist rumors, I remain unconvinced."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 13
     },
     {
-      "type": "heading",
+      "parentId": 13,
+      "type": "text",
       "text": "Not much time for politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Dead by 25, Dean never got too involved in the political discussion of his time. But the political discussion certainly got involved with him."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000015/bio",
+      "parentId": 15,
+      "type": "text",
+      "text": "Dean is considered the great American rebel. In fact, Ronald Reagan (with whom he appeared"
+    },
+    {
+      "parentId": 15,
+      "type": "link",
+      "text": "onscreen",
+      "sourceUrl": "http://www.cbsnews.com/2100-207_162-6417586.html"
+    },
+    {
+      "type": "text",
+      "text": ") called him \"America's Rebel.\"",
+      "parentId": 15,
       "sourceTitle": "James Dean (I) – Biography",
-      "text": "Dean is considered the great American rebel. In fact, Ronald Reagan (with whom he appeared ) called him \"America's Rebel.\""
+      "sourceUrl": "http://www.imdb.com/name/nm0000015/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Dean came to be an icon for the \"beatniks\" of his day and the hippies of the next generation, those significant minorities in American society who wanted to reject the values of their parents, lost faith in the \"American Dream,\" and started questioning the supposed benevolent values of America and her place in the world. Perhaps Dean summed it up best when he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000015/bio",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "My purpose in life does not include a hankering to charm society.",
       "sourceTitle": "James Dean (I) – Biography",
-      "text": "My purpose in life does not include a hankering to charm society."
+      "sourceUrl": "http://www.imdb.com/name/nm0000015/bio"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "He gave purpose to those who felt they didn't fit into society, and even today Dean is an icon for social outcasts and dissidents."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

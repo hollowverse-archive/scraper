@@ -33,152 +33,247 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Annie Lennox was born and raised in Aberdeen, Scotland, United Kingdom."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "It is unclear what, if any, religion Lennox' family adhered to when she was young. If there was one, it certainly didn't follow her to adulthood. Lennox considers herself an agnostic. When she released a Christmas album, she said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://blogs.wsj.com/speakeasy/2010/12/18/annie-lennox-on-how-to-write-a-christmas-carol/",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Although I might be best described as agnostic, I've always found a particular beauty in Christmas church services.",
       "sourceTitle": "Annie Lennox on the Secret History of Christmas Songs",
-      "text": "Although I might be best described as agnostic, I've always found a particular beauty in Christmas church services."
+      "sourceUrl": "http://blogs.wsj.com/speakeasy/2010/12/18/annie-lennox-on-how-to-write-a-christmas-carol/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/annie_lennox.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "And she's not totally down on churches. She's commented that they have a powerful ability to help those in need and be the cement that holds communities together.",
       "sourceTitle": "Annie Lennox Quotes",
-      "text": "And she's not totally down on churches. She's commented that they have a powerful ability to help those in need and be the cement that holds communities together."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/annie_lennox.html"
     },
     {
-      "type": "sentence",
-      "text": "However, Lennox is concerned that religion can be a divisive force, leading to violence and brutality:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "However, Lennox is concerned that religion can be a divisive force, leading to violence and brutality:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.dailyrecord.co.uk/entertainment/celebrity/singer-annie-lennox-reveals-childhood-1073616",
-      "sourceTitle": "Singer Annie Lennox reveals childhood choir mistress behind her success",
-      "text": "So many wars and strife are borne out of opposing religious views. If people don't have kindness, respect, tolerance and compassion at the core of their beliefs, then their religion is pointless."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "So many wars and strife are borne out of opposing religious views. If people don't have kindness, respect, tolerance and compassion at the core of their beliefs, then their religion is pointless.",
+      "sourceTitle": "Singer Annie Lennox reveals childhood choir mistress behind her success",
+      "sourceUrl": "http://www.dailyrecord.co.uk/entertainment/celebrity/singer-annie-lennox-reveals-childhood-1073616"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Agnosticism leaves much up to speculation. Perhaps she's just down on the rules and regulations of spirituality in religion, because it appears that Lennox isn't completely nonspiritual. Her's is an amorphous, formless sense of a higher plane. She said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/annie_lennox.html",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "The inner world is very potent for me – I don't ascribe to any God or Jesus or Buddha – I just have a sense of it and revere it along with the natural world and human consciousness.",
       "sourceTitle": "Annie Lennox Quotes",
-      "text": "The inner world is very potent for me – I don't ascribe to any God or Jesus or Buddha – I just have a sense of it and revere it along with the natural world and human consciousness."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/annie_lennox.html"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "AIDS, Androgyny and Anti-War"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/annie-lennox/demanding-aids-justice_b_374058.html",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "It's hard to pin Lennox down to any ideology. There are a few issues with which she is particularly concerned. Perhaps the most poignant to her is AIDS and Africa. She blogs about AIDS activism,",
       "sourceTitle": "Annie Lennox: Demanding AIDS Justice",
-      "text": "It's hard to pin Lennox down to any ideology. There are a few issues with which she is particularly concerned. Perhaps the most poignant to her is AIDS and Africa. She blogs about AIDS activism,"
+      "sourceUrl": "http://www.huffingtonpost.com/annie-lennox/demanding-aids-justice_b_374058.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.annielennox.com/news.php?newsItem=1228",
+      "type": "text",
+      "text": "she speaks at rallies,",
+      "parentId": 13,
       "sourceTitle": "Annie Speaks At HIV and AIDS Rally In Zocalo",
-      "text": "she speaks at rallies,"
+      "sourceUrl": "http://www.annielennox.com/news.php?newsItem=1228"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ted.com/talks/annie_lennox_why_i_am_an_hiv_aids_activist.html",
+      "type": "text",
+      "text": "and she raises money for research and awareness.",
+      "parentId": 13,
       "sourceTitle": "Annie Lennox: Why I'm an HIV/AIDS Activist",
-      "text": "and she raises money for research and awareness."
+      "sourceUrl": "http://www.ted.com/talks/annie_lennox_why_i_am_an_hiv_aids_activist.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "In 2009, after a speech by the Pope in which he said, rather than use condoms, Africans should practice abstinence, Lennox was furious. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.contactmusic.com/news/lennox-slams-pope-over-aids-issues_1102487",
-      "sourceTitle": "Lennox Slams Pope Over Aids Issue",
-      "text": "If there was ever an example of irresponsibility, it's the Pope going to Angola, where people are dying because of unprotected sex, and telling them they should abstain. What planet is this person on?"
+      "id": 15
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "If there was ever an example of irresponsibility, it's the Pope going to Angola, where people are dying because of unprotected sex, and telling them they should abstain. What planet is this person on?",
+      "sourceTitle": "Lennox Slams Pope Over Aids Issue",
+      "sourceUrl": "http://www.contactmusic.com/news/lennox-slams-pope-over-aids-issues_1102487"
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Lennox is also a bit of a feminist. It's not only her androgynous look in the media, it's her views on female/male relationships. She has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/annie-lennox-you-ask-the-questions-6116762.html",
-      "sourceTitle": "Annie Lennox: You Ask the Questions",
-      "text": "Life is easier for men. It's biased in their favour and everything seems to come to them more easily. Women have to bear the brunt in every respect. We are left with responsibilities, whereas men can do what they want, get what they want and leave it when they want."
+      "id": 18
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Life is easier for men. It's biased in their favour and everything seems to come to them more easily. Women have to bear the brunt in every respect. We are left with responsibilities, whereas men can do what they want, get what they want and leave it when they want.",
+      "sourceTitle": "Annie Lennox: You Ask the Questions",
+      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/annie-lennox-you-ask-the-questions-6116762.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "She's got quite the reputation as a feminist these days."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/annie-lennox-you-ask-the-questions-6116762.html",
+      "parentId": 21,
+      "type": "text",
+      "text": "She was also a vocal protestor of the War in Iraq and Tony Blair's Labour Party.",
       "sourceTitle": "Annie Lennox: You Ask the Questions",
-      "text": "She was also a vocal protestor of the War in Iraq and Tony Blair's Labour Party."
+      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/annie-lennox-you-ask-the-questions-6116762.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/annie-lennox-you-ask-the-questions-6116762.html",
+      "type": "text",
+      "text": "And though she has expressed an affinity to Labour–likely stemming from her working-class roots",
+      "parentId": 21,
       "sourceTitle": "Annie Lennox: You Ask the Questions",
-      "text": "And though she has expressed an affinity to Labour–likely stemming from her working-class roots"
+      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/annie-lennox-you-ask-the-questions-6116762.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/annie_lennox.html",
+      "type": "text",
+      "text": "–she also sounds slightly right of center when it comes to the role of organized labor and the welfare state. When she was young and poor, she worried that union strikes would disrupt her ability to make money,",
+      "parentId": 21,
       "sourceTitle": "Annie Lennox Quotes",
-      "text": "–she also sounds slightly right of center when it comes to the role of organized labor and the welfare state. When she was young and poor, she worried that union strikes would disrupt her ability to make money,"
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/annie_lennox.html"
     },
     {
-      "type": "sentence",
-      "text": "and on the topic of assistance for the poor, she said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and on the topic of assistance for the poor, she said:",
+      "parentId": 21
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/annie_lennox.html",
+      "id": 22
+    },
+    {
+      "type": "paragraph",
+      "id": 23,
+      "parentId": 22
+    },
+    {
+      "parentId": 23,
+      "type": "text",
+      "text": "Charity is a fine thing if it's meeting a gap where needs must be met and there are no other resources. But in the long term we need to support people into helping themselves.",
       "sourceTitle": "Annie Lennox Quotes",
-      "text": "Charity is a fine thing if it's meeting a gap where needs must be met and there are no other resources. But in the long term we need to support people into helping themselves."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/annie_lennox.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 24
+    },
+    {
+      "parentId": 24,
+      "type": "text",
       "text": "Lennox seems to deeply care about the state of society–and not just her own. She seems to look around, ignoring pre-formed worldviews, and makes her own calls on how things should or shouldn't be."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -33,158 +33,244 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Stacey Dash was born in The Bronx, New York and grew up in Paramus, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Dash appears to be a Pentecostal Christian, and a devout one at that. One would be hard-pressed to find an explicit statement of faith from Dash, but her twitter feed and statements during interviews are overflowing with God-speak. For example, in response to the death of Navy Seal, Nicolas Checque, who died during a heroic rescue attempt in Afghanistan, Dash tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/REALStaceyDash",
-      "sourceTitle": "Stacey Dash (REALStaceyDash) on Twitter",
-      "text": "Nicolas Checque of Navy Seal team 6 you were a true warrior of God. May the Angels and Saints carry you home. Rest in Peace."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Nicolas Checque of Navy Seal team 6 you were a true warrior of God. May the Angels and Saints carry you home. Rest in Peace.",
+      "sourceTitle": "Stacey Dash (REALStaceyDash) on Twitter",
+      "sourceUrl": "https://twitter.com/REALStaceyDash"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "And after Obama was re-elected in 2012, Dash wrote on her blog:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.christianpost.com/news/stacey-dash-praying-for-barack-obama-after-mitt-romneys-loss-84647/",
-      "sourceTitle": "Stacey Dash Praying for Barack Obama After Mitt Romney Loss",
-      "text": "God Bless President Obama and Vice President Biden and all members of the government elected or reelected. We are truly blessed to have the privilege to have our votes counted and be represented in our government."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "God Bless President Obama and Vice President Biden and all members of the government elected or reelected. We are truly blessed to have the privilege to have our votes counted and be represented in our government.",
+      "sourceTitle": "Stacey Dash Praying for Barack Obama After Mitt Romney Loss",
+      "sourceUrl": "http://www.christianpost.com/news/stacey-dash-praying-for-barack-obama-after-mitt-romneys-loss-84647/"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "(You may think that was standard celebrity Obama-praise, but no–we'll get to that later.)"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "As to why it seems apparent that Dash is a Christian of the Pentecostal variety, she tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/REALStaceyDash",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Great service @ladreamcenter, @johnbevere I'm praying we can all become friends of God @matthewbarnett #fearofGod",
       "sourceTitle": "Stacey Dash (REALStaceyDash) on Twitter",
-      "text": "Great service @ladreamcenter, @johnbevere I'm praying we can all become friends of God @matthewbarnett #fearofGod"
+      "sourceUrl": "https://twitter.com/REALStaceyDash"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.angelustemple.org/new-here/history/",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Attached to the tweet was this"
+    },
+    {
+      "parentId": 12,
+      "type": "link",
+      "text": "photo",
+      "sourceUrl": "https://twitter.com/REALStaceyDash/status/275385355987980289/photo/1"
+    },
+    {
+      "type": "text",
+      "text": "of a sign for the Angelus Temple. A little web sleuthing reveals it to be a Los Angeles Pentecostal Church.",
+      "parentId": 12,
       "sourceTitle": "Foursquare History",
-      "text": "Attached to the tweet was this  of a sign for the Angelus Temple. A little web sleuthing reveals it to be a Los Angeles Pentecostal Church."
+      "sourceUrl": "http://www.angelustemple.org/new-here/history/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "That's right. Here at the Hollowverse, we're doing the legwork so you don't have to."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 14
     },
     {
-      "type": "heading",
+      "parentId": 14,
+      "type": "text",
       "text": "A pinch of economic strife, and a Dash of racial treason"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Politically, Dash becomes rather interesting. To say she caused a stir with her 2012 endorsement of Republican presidential candidate Mitt Romney would be an understatement."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://marquee.blogs.cnn.com/2012/10/09/stacey-dash-defends-pro-romney-stance/",
+      "parentId": 16,
+      "type": "text",
+      "text": "Dash was heavily criticized, called a bitch,",
       "sourceTitle": "Stacey Dash defends pro-Romney Stance",
-      "text": "Dash was heavily criticized, called a bitch,"
+      "sourceUrl": "http://marquee.blogs.cnn.com/2012/10/09/stacey-dash-defends-pro-romney-stance/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/news/article-2215435/Clueless-star-Stacey-Dash-hits-critics-tweeting-support-Romney-tells-Paul-Ryan-called-brave-speaking-out.html",
+      "type": "text",
+      "text": "called a traitor to the black race,",
+      "parentId": 16,
       "sourceTitle": "'I chose Romney not by color of his skin but by the content of his character': Clueless star Stacey Dash hits back at her race-hate Twitter critics",
-      "text": "called a traitor to the black race,"
+      "sourceUrl": "http://www.dailymail.co.uk/news/article-2215435/Clueless-star-Stacey-Dash-hits-critics-tweeting-support-Romney-tells-Paul-Ryan-called-brave-speaking-out.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blogs.laweekly.com/informer/2012/10/stacey_dash_romney_endorsement_twitter_backlash_photos.php",
+      "type": "text",
+      "text": "and even told that she should kill herself.",
+      "parentId": 16,
       "sourceTitle": "Stacey Dash's Romney Endorsement Spawns Twitter Backlash, GOP Support",
-      "text": "and even told that she should kill herself."
+      "sourceUrl": "http://blogs.laweekly.com/informer/2012/10/stacey_dash_romney_endorsement_twitter_backlash_photos.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/news/article-2215435/Clueless-star-Stacey-Dash-hits-critics-tweeting-support-Romney-tells-Paul-Ryan-called-brave-speaking-out.html",
+      "type": "text",
+      "text": "She also received 30,000 new Twitter followers",
+      "parentId": 16,
       "sourceTitle": "'I chose Romney not by color of his skin but by the content of his character': Clueless star Stacey Dash hits back at her race-hate Twitter critics",
-      "text": "She also received 30,000 new Twitter followers"
+      "sourceUrl": "http://www.dailymail.co.uk/news/article-2215435/Clueless-star-Stacey-Dash-hits-critics-tweeting-support-Romney-tells-Paul-Ryan-called-brave-speaking-out.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thegrio.com/2012/10/12/whoopi-goldberg-defends-stacey-dashs-right-to-endorse-romney/",
+      "type": "text",
+      "text": "and other black celebrities, like Whoopi Goldberg, came to her side to defend her right to an opinion and strike back at those who would question the ideals of a democracy.",
+      "parentId": 16,
       "sourceTitle": "Whoopi Goldberg defends Stacey Dash's right to endorse Romney",
-      "text": "and other black celebrities, like Whoopi Goldberg, came to her side to defend her right to an opinion and strike back at those who would question the ideals of a democracy."
+      "sourceUrl": "http://thegrio.com/2012/10/12/whoopi-goldberg-defends-stacey-dashs-right-to-endorse-romney/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/news/article-2215435/Clueless-star-Stacey-Dash-hits-critics-tweeting-support-Romney-tells-Paul-Ryan-called-brave-speaking-out.html",
+      "type": "text",
+      "text": "Plus, vice-presidential candidate Paul Ryan personally called Dash to commend her for her bravery.",
+      "parentId": 16,
       "sourceTitle": "'I chose Romney not by color of his skin but by the content of his character': Clueless star Stacey Dash hits back at her race-hate Twitter critics",
-      "text": "Plus, vice-presidential candidate Paul Ryan personally called Dash to commend her for her bravery."
+      "sourceUrl": "http://www.dailymail.co.uk/news/article-2215435/Clueless-star-Stacey-Dash-hits-critics-tweeting-support-Romney-tells-Paul-Ryan-called-brave-speaking-out.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://marquee.blogs.cnn.com/2012/10/09/stacey-dash-defends-pro-romney-stance/",
+      "parentId": 17,
+      "type": "text",
+      "text": "Despite it all, she defended her position, appearing on Piers Morgan to state her case",
       "sourceTitle": "Stacey Dash defends pro-Romney Stance",
-      "text": "Despite it all, she defended her position, appearing on Piers Morgan to state her case"
+      "sourceUrl": "http://marquee.blogs.cnn.com/2012/10/09/stacey-dash-defends-pro-romney-stance/"
     },
     {
-      "type": "sentence",
-      "text": "She wrote on her blog:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She wrote on her blog:",
+      "parentId": 17
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.christianpost.com/news/stacey-dash-praying-for-barack-obama-after-mitt-romneys-loss-84647/",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "I voted for Romney because our economy is in a tailspin. I drive by block after block of homes that have been foreclosed upon. I see growing numbers of people living in their cars. I know what the unemployment record is in our country and I know what the cost of gasoline is as well. I'm all about exploring a problem and figuring out what the solution is.",
       "sourceTitle": "Stacey Dash Praying for Barack Obama After Mitt Romney Loss",
-      "text": "I voted for Romney because our economy is in a tailspin. I drive by block after block of homes that have been foreclosed upon. I see growing numbers of people living in their cars. I know what the unemployment record is in our country and I know what the cost of gasoline is as well. I'm all about exploring a problem and figuring out what the solution is."
+      "sourceUrl": "http://www.christianpost.com/news/stacey-dash-praying-for-barack-obama-after-mitt-romneys-loss-84647/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/REALStaceyDash",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "And even up to election day, her Twitter feed contained pro-Romney messages and calls to action.",
       "sourceTitle": "Stacey Dash (REALStaceyDash) on Twitter",
-      "text": "And even up to election day, her Twitter feed contained pro-Romney messages and calls to action."
+      "sourceUrl": "https://twitter.com/REALStaceyDash"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "sentence",
+      "parentId": 21,
+      "type": "text",
       "text": "She is a stalwart Republican. You've got to admire her moxie."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -32,123 +32,183 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Joseph Gordon-Levitt was born and raised in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pastemagazine.com/articles/2010/10/joseph-gordon-levitt-hollywoods-boy-wonder-grows-u.html?p=2",
+      "parentId": 2,
+      "type": "text",
+      "text": "Gordon-Levitt is a non-practicing Jew,",
       "sourceTitle": "Joseph Gordon-Levitt: Hollywood's Boy Wonder Grows Up.",
-      "text": "Gordon-Levitt is a non-practicing Jew,"
+      "sourceUrl": "http://www.pastemagazine.com/articles/2010/10/joseph-gordon-levitt-hollywoods-boy-wonder-grows-u.html?p=2"
     },
     {
-      "type": "sentence",
-      "text": "and there's no evidence that he considers himself spiritual nor that he considers himself an atheist. He just doesn't talk about it."
+      "type": "text",
+      "text": "and there's no evidence that he considers himself spiritual nor that he considers himself an atheist. He just doesn't talk about it.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.wildaboutmovies.com/interviews/JosephGordon-LevittInterview.php",
+      "parentId": 3,
+      "type": "text",
+      "text": "Despite not being a religious family, his parents helped found the Progressive Jewish Alliance, a California organization which works for social justice.",
       "sourceTitle": "Joseph Gordon-Levitt Interview.",
-      "text": "Despite not being a religious family, his parents helped found the Progressive Jewish Alliance, a California organization which works for social justice."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.wildaboutmovies.com/interviews/JosephGordon-LevittInterview.php"
     },
     {
       "type": "heading",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "Liberal Child"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.playboy.com/playground/view/20q-joseph-gordon-levitt",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Gordon-Levitt comes from a politically liberal family, from his grandfather Michael Gordon, a Hollywood director who was blacklisted during the McCarthy era, to his mother who ran for office on California's Peace and Freedom Party ticket.",
       "sourceTitle": "20Q: JOSEPH GORDON-LEVITT.",
-      "text": "Gordon-Levitt comes from a politically liberal family, from his grandfather Michael Gordon, a Hollywood director who was blacklisted during the McCarthy era, to his mother who ran for office on California's Peace and Freedom Party ticket."
+      "sourceUrl": "http://www.playboy.com/playground/view/20q-joseph-gordon-levitt"
     },
     {
-      "type": "sentence",
-      "text": "And he isn't Hollywood herd mentality liberal–he's more anti-establishment intellectual liberal."
+      "type": "text",
+      "text": "And he isn't Hollywood herd mentality liberal–he's more anti-establishment intellectual liberal.",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newsmeat.com/celebrity_political_donations/Joseph_Gordon-Levitt.php",
+      "parentId": 6,
+      "type": "text",
+      "text": "While in college, Gordon-Levitt donated $1,400 to the Green party. But since then he's donated to Democrats, including Barack Obama during the primary and general election in 2008.",
       "sourceTitle": "Joseph Gordon-Levitt's Federal Campaign Contribution Report.",
-      "text": "While in college, Gordon-Levitt donated $1,400 to the Green party. But since then he's donated to Democrats, including Barack Obama during the primary and general election in 2008."
+      "sourceUrl": "http://newsmeat.com/celebrity_political_donations/Joseph_Gordon-Levitt.php"
     },
     {
-      "type": "sentence",
-      "text": "Still, I don't know if we can call him a Democrat. He seems a little left of center-left."
+      "type": "text",
+      "text": "Still, I don't know if we can call him a Democrat. He seems a little left of center-left.",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "He was engaged in the Occupy Wall Street movement enough to film a documentary in Zuccotti Park–the birthplace of the movement. When asked if mainstream media did a good job covering the movement, Gordon-Levitt said this,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.playboy.com/playground/view/20q-joseph-gordon-levitt",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "You could show a trillion examples of how Goldman Sachs, McDonald's, Walmart and Monsanto are clearly fucking over everybody, but CNN, Fox and MSNBC are owned by Fortune 500 companies, so they never show any of it.",
       "sourceTitle": "20Q: JOSEPH GORDON-LEVITT.",
-      "text": "You could show a trillion examples of how Goldman Sachs, McDonald's, Walmart and Monsanto are clearly fucking over everybody, but CNN, Fox and MSNBC are owned by Fortune 500 companies, so they never show any of it."
+      "sourceUrl": "http://www.playboy.com/playground/view/20q-joseph-gordon-levitt"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.gq.com/entertainment/celebrities/201208/joseph-gordon-levitt-interview-gq-august-2012?currentPage=2",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "He obviously pays attention to the news and has a lot of opinions on everything from easing copyright restrictions on intellectual property",
       "sourceTitle": "Boy Wonder.",
-      "text": "He obviously pays attention to the news and has a lot of opinions on everything from easing copyright restrictions on intellectual property"
+      "sourceUrl": "http://www.gq.com/entertainment/celebrities/201208/joseph-gordon-levitt-interview-gq-august-2012?currentPage=2"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/hitRECordJoe/status/240489899122376704",
+      "type": "text",
+      "text": "to tightening restrictions on hydraulic fracturing.",
+      "parentId": 10,
       "sourceTitle": "hitRECordJoe: My dear friend @SeanOnoLennon…",
-      "text": "to tightening restrictions on hydraulic fracturing."
+      "sourceUrl": "https://twitter.com/hitRECordJoe/status/240489899122376704"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thecelebritycafe.com/feature/joseph-gordon-levitt-songifys-gop-candidates-01-24-2012",
+      "type": "text",
+      "text": "Gordon-Levitt participated in a",
+      "parentId": 10
+    },
+    {
+      "parentId": 10,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.uproxx.com/music/2012/01/joseph-gordon-levitt-gets-political-in-get-money-turn-gay/"
+    },
+    {
+      "type": "text",
+      "text": "spoofing the Republican primary election in 2012,",
+      "parentId": 10,
       "sourceTitle": "Joseph Gordon-Levitt \"songifys\" the GOP candidates.",
-      "text": "Gordon-Levitt participated in a  spoofing the Republican primary election in 2012,"
+      "sourceUrl": "http://thecelebritycafe.com/feature/joseph-gordon-levitt-songifys-gop-candidates-01-24-2012"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/hitRECordJoe/statuses/20006692328",
+      "type": "text",
+      "text": "and he criticized Congress for stonewalling Obama.",
+      "parentId": 10,
       "sourceTitle": "hitRECordJoe: RT @lessig: Avg judicial …",
-      "text": "and he criticized Congress for stonewalling Obama."
+      "sourceUrl": "https://twitter.com/hitRECordJoe/statuses/20006692328"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "For Gordon-Levitt, seeking out information and paying attention are the most important aspects to being political:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.playboy.com/playground/view/20q-joseph-gordon-levitt",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "To me that is political activism, choosing to stay informed and not just watching CNN or some bullshit entertainment show. Every time I sit down and watch television news, I think, This is show business. That's what I do. I say, go on the internet and find news from all over the world through the BBC, the Pacifica stations, newspapers, people's blogs and tweets.",
       "sourceTitle": "20Q: JOSEPH GORDON-LEVITT.",
-      "text": "To me that is political activism, choosing to stay informed and not just watching CNN or some bullshit entertainment show. Every time I sit down and watch television news, I think, This is show business. That's what I do. I say, go on the internet and find news from all over the world through the BBC, the Pacifica stations, newspapers, people's blogs and tweets."
+      "sourceUrl": "http://www.playboy.com/playground/view/20q-joseph-gordon-levitt"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "So, go out and look for yourself. Do you think Gordon-Levitt is right?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

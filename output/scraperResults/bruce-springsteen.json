@@ -33,147 +33,239 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Bruce Springsteen was born in Long Branch, New Jersey. To this day, much of Springsteen's music and personal life revolves around New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0819803/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Springsteen was raised Catholic.",
       "sourceTitle": "Bruce Springsteen – Biography",
-      "text": "Springsteen was raised Catholic."
+      "sourceUrl": "http://www.imdb.com/name/nm0819803/bio"
     },
     {
-      "type": "sentence",
-      "text": "At this point in Bruce's life, he has long since given up on Catholicism, but he can admit it's influence on his life and music. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "At this point in Bruce's life, he has long since given up on Catholicism, but he can admit it's influence on his life and music. He said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://youunity.com/computers/14-music/287-first-listen-bruce-springsteen-wrecking-ball-theatre-marigny-paris-reviews-music.html",
-      "sourceTitle": "First Listen: Bruce Springsteen, Wrecking Ball, Theatre Marigny, Paris – Reviews – Music",
-      "text": "[Much of my music is a result of] being completely brainwashed by Catholicism in my formative years. It's given me a very active spiritual life – and made it very difficult for me sexually!"
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "[Much of my music is a result of] being completely brainwashed by Catholicism in my formative years. It's given me a very active spiritual life – and made it very difficult for me sexually!",
+      "sourceTitle": "First Listen: Bruce Springsteen, Wrecking Ball, Theatre Marigny, Paris – Reviews – Music",
+      "sourceUrl": "http://youunity.com/computers/14-music/287-first-listen-bruce-springsteen-wrecking-ball-theatre-marigny-paris-reviews-music.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "It's hard to know quite what he means by the sex part. He couldn't use condoms? He couldn't cheat on his wife? He did say, however, that despite not being active religiously, that:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/culture/music/rockandpopmusic/9087360/Bruce-Springsteen-I-enjoy-artists-who-take-on-the-world.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Once a Catholic, always a Catholic.",
       "sourceTitle": "Bruce Springsteen: I enjoy artists who take on the world",
-      "text": "Once a Catholic, always a Catholic."
+      "sourceUrl": "http://www.telegraph.co.uk/culture/music/rockandpopmusic/9087360/Bruce-Springsteen-I-enjoy-artists-who-take-on-the-world.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.wbez.org/blog/jim-derogatis/2012-02-28/album-review-bruce-springsteen-%E2%80%98wrecking-ball%E2%80%99-columbia-96817",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "This was in response to a song off of his"
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "Wrecking Ball"
+    },
+    {
+      "type": "text",
+      "text": "album with a very Irish-Catholic sort of sound to it. Still, Springsteen maintains his agnosticism, despite accusations that he's growing more spiritual with age.",
+      "parentId": 8,
       "sourceTitle": "Album review: Bruce Springsteen, 'Wrecking Ball' (Columbia)",
-      "text": "This was in response to a song off of his  album with a very Irish-Catholic sort of sound to it. Still, Springsteen maintains his agnosticism, despite accusations that he's growing more spiritual with age."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.wbez.org/blog/jim-derogatis/2012-02-28/album-review-bruce-springsteen-%E2%80%98wrecking-ball%E2%80%99-columbia-96817"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "The Boss' Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Springsteen and politics often go together without a second thought. His music is politically charged and uniquely American. He cites how his father was \"emasculated\" by unemployment for his becoming aware of the hardships that face working-class Americans. He said of his musical goals:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/culture/music/rockandpopmusic/9087360/Bruce-Springsteen-I-enjoy-artists-who-take-on-the-world.html",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "My work has always been about judging the distance between American reality and the American Dream.",
       "sourceTitle": "Bruce Springsteen: I enjoy artists who take on the world",
-      "text": "My work has always been about judging the distance between American reality and the American Dream."
+      "sourceUrl": "http://www.telegraph.co.uk/culture/music/rockandpopmusic/9087360/Bruce-Springsteen-I-enjoy-artists-who-take-on-the-world.html"
     },
     {
-      "type": "sentence",
-      "text": "Often, Bruce's desire to identify with middle and lower-class America causes critics to paint him a hypocrite, considering he is obviously quite wealthy. But Bruce seems sincere and enthusiastic about his ideals, determined to inject his voice into the American political ."
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "text",
+      "text": "Often, Bruce's desire to identify with middle and lower-class America causes critics to paint him a hypocrite, considering he is obviously quite wealthy. But Bruce seems sincere and enthusiastic about his ideals, determined to inject his voice into the American political"
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "zeitgeist"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "In fact, Springsteen has been an inspiration for new generation of political musicians from Rage Against the Machine to The Roots. Initially, Springsteen didn't know how to approach politics as an artist, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thenation.com/article/167356/bruce-springsteens-political-voice",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "[In the early years, I was] trying to figure out now where do aesthetic issues that you write about intersect with some sort of concrete action, some direct involvement, in the communities that your audience comes from.",
       "sourceTitle": "Bruce Springsteen's Political Voice",
-      "text": "[In the early years, I was] trying to figure out now where do aesthetic issues that you write about intersect with some sort of concrete action, some direct involvement, in the communities that your audience comes from."
+      "sourceUrl": "http://www.thenation.com/article/167356/bruce-springsteens-political-voice"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.npr.org/templates/story/story.php?storyId=15546014",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "But it didn't take long before The Boss was a major political voice, from campaigning against nuclear power",
       "sourceTitle": "Rock Stars Lobby Congress Against Nuclear Power.",
-      "text": "But it didn't take long before The Boss was a major political voice, from campaigning against nuclear power"
+      "sourceUrl": "http://www.npr.org/templates/story/story.php?storyId=15546014"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usatoday.com/life/music/news/story/2012-01-22/amnesty-international-timeline-music/52746050/1",
+      "type": "text",
+      "text": "to doing a worldwide tour for Amnesty International",
+      "parentId": 17,
       "sourceTitle": "Timeline: Amnesty International and music",
-      "text": "to doing a worldwide tour for Amnesty International"
+      "sourceUrl": "http://www.usatoday.com/life/music/news/story/2012-01-22/amnesty-international-timeline-music/52746050/1"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://books.google.com/books?id=lwSLaEe0IfMC&pg=PA286&lpg=PA286&dq=Bruce+Springsteen+Born+in+the+U.S.A.+Chrysler&source=bl&ots=1iEit501-E&sig=AuhJ9LFICr8TmYHOvvzsJcTJm9I&hl=en&sa=X&ei=78-yT5DUIYOciAKt34WsBA&ved=0CGUQ6AEwCA#v=onepage&q&f=false",
+      "type": "text",
+      "text": "to turning down millions from corporations wanting to use his songs in their advertisements.",
+      "parentId": 17,
       "sourceTitle": "Bruce Springsteen – Wikimedia Foundation",
-      "text": "to turning down millions from corporations wanting to use his songs in their advertisements."
+      "sourceUrl": "http://books.google.com/books?id=lwSLaEe0IfMC&pg=PA286&lpg=PA286&dq=Bruce+Springsteen+Born+in+the+U.S.A.+Chrysler&source=bl&ots=1iEit501-E&sig=AuhJ9LFICr8TmYHOvvzsJcTJm9I&hl=en&sa=X&ei=78-yT5DUIYOciAKt34WsBA&ved=0CGUQ6AEwCA#v=onepage&q&f=false"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.drumpaper.com/products-page/bruce-springsteen/bruce-springsteen-no-surrender/",
+      "parentId": 18,
+      "type": "text",
+      "text": "Bruce has also attached his name to various Democrat and liberal organizations and events. In 2004, he endorsed Democratic presidential candidate John Kerry and lent the Kerry campaign his song, \"No Surrender.\"",
       "sourceTitle": "Bruce Springsteen – No Surrender",
-      "text": "Bruce has also attached his name to various Democrat and liberal organizations and events. In 2004, he endorsed Democratic presidential candidate John Kerry and lent the Kerry campaign his song, \"No Surrender.\""
+      "sourceUrl": "http://www.drumpaper.com/products-page/bruce-springsteen/bruce-springsteen-no-surrender/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usatoday.com/news/politics/election2008/2008-04-16-springsteen_N.htm?csp=34",
+      "type": "text",
+      "text": "He supported Obama in 2008 as well, even opening the president's inaugural celebration concert.",
+      "parentId": 18,
       "sourceTitle": "Springsteen endorses Obama for president",
-      "text": "He supported Obama in 2008 as well, even opening the president's inaugural celebration concert."
+      "sourceUrl": "http://www.usatoday.com/news/politics/election2008/2008-04-16-springsteen_N.htm?csp=34"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.discoverthenetworks.org/individualProfile.asp?indid=1661",
+      "parentId": 19,
+      "type": "text",
+      "text": "In social issues, Springsteen has been a longtime supporter of labor unions",
       "sourceTitle": "Bruce Springsteen",
-      "text": "In social issues, Springsteen has been a longtime supporter of labor unions"
+      "sourceUrl": "http://www.discoverthenetworks.org/individualProfile.asp?indid=1661"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cbsnews.com/8301-503544_162-5954150-503544.html",
+      "type": "text",
+      "text": "and is an outspoken supporter of gay rights and gay marriage.",
+      "parentId": 19,
       "sourceTitle": "ruce Springsteen Rocks Gay Marriage Vote",
-      "text": "and is an outspoken supporter of gay rights and gay marriage."
+      "sourceUrl": "http://www.cbsnews.com/8301-503544_162-5954150-503544.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "If he's anything, it's a liberal Democrat."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

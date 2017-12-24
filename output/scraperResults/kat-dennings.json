@@ -32,75 +32,139 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewishjournal.com/film/article/nick_and_norah_star_kat_dennings_is_infinitely_jewish_in_her_own_way_200810",
+      "parentId": 1,
+      "type": "text",
+      "text": "Kat Dennings, whose real name is Katherine Litwack, was born and raised just outside of Philadelphia, Pennsylvania."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Dennings is Jewish. Both of her parents are Jewish, in fact Kat has said she doesn't know of any relatives who aren't Jewish and as a result, refers to herself as \"a billion percent Jewish.\"",
       "sourceTitle": "'Nick and Norah' star Kat Dennings in infinitely Jewish in her own way.",
-      "text": "Dennings is Jewish. Both of her parents are Jewish, in fact Kat has said she doesn't know of any relatives who aren't Jewish and as a result, refers to herself as \"a billion percent Jewish.\""
+      "sourceUrl": "http://www.jewishjournal.com/film/article/nick_and_norah_star_kat_dennings_is_infinitely_jewish_in_her_own_way_200810"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "But Dennings doesn't necessarily get into being a Jew–other than to play one in films like  In fact, religion is a non-issue for Dennings. She said:"
+      "parentId": 3,
+      "type": "text",
+      "text": "But Dennings doesn't necessarily get into being a Jew–other than to play one in films like"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Nick and Norah's Infinite Playlist."
+    },
+    {
+      "type": "text",
+      "text": "In fact, religion is a non-issue for Dennings. She said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.jewishjournal.com/film/article/nick_and_norah_star_kat_dennings_is_infinitely_jewish_in_her_own_way_200810",
-      "sourceTitle": "'Nick and Norah' star Kat Dennings in infinitely Jewish in her own way.",
-      "text": "[Judaism] is an important part of my history, but, as a whole, religion is not a part of my life. It's a background thing, but I'm proud to be Jewish."
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewishjournal.com/film/article/nick_and_norah_star_kat_dennings_is_infinitely_jewish_in_her_own_way_200810",
-      "sourceTitle": "'Nick and Norah' star Kat Dennings in infinitely Jewish in her own way.",
-      "text": "It doesn't look like she celebrates any of the Jewish holidays and, while she would attend her Jewish friends' Bar and Bat Mitzvah's, she never had one herself."
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://katdennings.typepad.com/kat_dennings/page/9/",
+      "parentId": 5,
+      "type": "text",
+      "text": "[Judaism] is an important part of my history, but, as a whole, religion is not a part of my life. It's a background thing, but I'm proud to be Jewish.",
+      "sourceTitle": "'Nick and Norah' star Kat Dennings in infinitely Jewish in her own way.",
+      "sourceUrl": "http://www.jewishjournal.com/film/article/nick_and_norah_star_kat_dennings_is_infinitely_jewish_in_her_own_way_200810"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "It doesn't look like she celebrates any of the Jewish holidays and, while she would attend her Jewish friends' Bar and Bat Mitzvah's, she never had one herself.",
+      "sourceTitle": "'Nick and Norah' star Kat Dennings in infinitely Jewish in her own way.",
+      "sourceUrl": "http://www.jewishjournal.com/film/article/nick_and_norah_star_kat_dennings_is_infinitely_jewish_in_her_own_way_200810"
+    },
+    {
+      "type": "text",
+      "text": "And the important Jewish holiday known as \"Purim\" in 2007 found Kat video blogging a post called \"Happy Purim\" where she and a friend joked around with no actual mention of the holiday.",
+      "parentId": 6,
       "sourceTitle": "Kat Dennings",
-      "text": "And the important Jewish holiday known as \"Purim\" in 2007 found Kat video blogging a post called \"Happy Purim\" where she and a friend joked around with no actual mention of the holiday."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://katdennings.typepad.com/kat_dennings/page/9/"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Politics, a tiny sliver of life"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Dennings appears to be mere millimeters away from being totally non-political. Google has not revealed to me any statements from her about gay marriage, environmentalism, partisanship, financial political contributions or anything else very useful."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "text": "However, her  has revealed a very small but significant political indication. Wedged between incoherent ramblings about her glasses or scary confrontations with spiders, Kat has a blog post entitled \"President Obama,\" dated one day after his 2009 inauguration, and containing one simple sentence:"
+      "parentId": 9,
+      "type": "text",
+      "text": "However, her"
     },
     {
-      "type": "break"
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "blog"
+    },
+    {
+      "type": "text",
+      "text": "has revealed a very small but significant political indication. Wedged between incoherent ramblings about her glasses or scary confrontations with spiders, Kat has a blog post entitled \"President Obama,\" dated one day after his 2009 inauguration, and containing one simple sentence:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.katdennings.com/",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "It's a beautiful day in America.",
       "sourceTitle": "Kat Dennings",
-      "text": "It's a beautiful day in America."
+      "sourceUrl": "http://www.katdennings.com/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "So, at least in 2009, she was an Obama supporter. But literally, that's it."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

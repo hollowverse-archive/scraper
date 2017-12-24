@@ -33,104 +33,163 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Slash was born Saul Hudson in Hampstead, London to a white English father and a black American mother. When he was five-years-old he moved to Los Angeles with his mother, and currently retains dual citizenship."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usmagazine.com/entertainment/news/25-things-you-dont-know-about-me-slash-201112",
+      "parentId": 2,
+      "type": "text",
+      "text": "Despite popular belief, Slash is not Jewish.",
       "sourceTitle": "25 Things You Don't Know About Me: Slash.",
-      "text": "Despite popular belief, Slash is not Jewish."
+      "sourceUrl": "http://www.usmagazine.com/entertainment/news/25-things-you-dont-know-about-me-slash-201112"
     },
     {
-      "type": "sentence",
-      "text": "But aside from debunking that rumor, he hasn't said much about his religious beliefs, which is probably an indication that he doesn't have any."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But aside from debunking that rumor, he hasn't said much about his religious beliefs, which is probably an indication that he doesn't have any.",
+      "parentId": 2
     },
     {
       "type": "heading",
+      "id": 3
+    },
+    {
+      "parentId": 3,
+      "type": "text",
       "text": "Angst or Atheism?"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "Slash might not talk about religion, but he did write about it. He and Axel Rose slammed organized religion in the song \"Garden of Eden\":"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.azlyrics.com/lyrics/gunsnroses/gardenofeden.html",
-      "sourceTitle": "Guns N' Roses Lyrics",
-      "text": "Most organized religions make/A mockery of humanity/Our governments are dangerous/And out of control/The garden of Eden is just another graveyard/Said if they had someone to buy it/Said I'm sure they'd sell my soul."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Most organized religions make/A mockery of humanity/Our governments are dangerous/And out of control/The garden of Eden is just another graveyard/Said if they had someone to buy it/Said I'm sure they'd sell my soul.",
+      "sourceTitle": "Guns N' Roses Lyrics",
+      "sourceUrl": "http://www.azlyrics.com/lyrics/gunsnroses/gardenofeden.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "That song could have been a product of a young man's disillusion with the machine of mainstream culture, or it could have been a genuine rejection of religion–and politics for that matter. Whatever the case, he has never been an outspoken atheist or agnostic."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newsmeat.com/fec/bystate_detail.php?st=CA&last=Hudson&first=Saul",
+      "parentId": 8,
+      "type": "text",
+      "text": "Slash's politics are undoubtedly liberal: he donated to Obama's presidential election in 2008.",
       "sourceTitle": "Saul Hudson's Federal Campaign Contribution Report.",
-      "text": "Slash's politics are undoubtedly liberal: he donated to Obama's presidential election in 2008."
+      "sourceUrl": "http://newsmeat.com/fec/bystate_detail.php?st=CA&last=Hudson&first=Saul"
     },
     {
-      "type": "sentence",
-      "text": "But most of his political activism revolves around his love of animals."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But most of his political activism revolves around his love of animals.",
+      "parentId": 8
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Animal Activism"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lazoo.org/about/glaza/",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "He is currently on the board at the Los Angeles Zoo",
       "sourceTitle": "Greater Los Angeles Zoo Association.",
-      "text": "He is currently on the board at the Los Angeles Zoo"
+      "sourceUrl": "http://www.lazoo.org/about/glaza/"
     },
     {
-      "type": "sentence",
-      "text": "and came out in staunch support of a controversial new elephant exhibit. After playing a concert at a private event to support the exhibit, Slash said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and came out in staunch support of a controversial new elephant exhibit. After playing a concert at a private event to support the exhibit, Slash said,",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.scpr.org/news/2010/12/16/21981/rocker-and-la-zoo-board-member-slash-defends-new-e/",
-      "sourceTitle": "Rocker and LA Zoo board member Slash defends new elephant habitat.",
-      "text": "I just jumped right in support of Billy [the elephant] and the zoo and the whole development that was happening."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I just jumped right in support of Billy [the elephant] and the zoo and the whole development that was happening.",
+      "sourceTitle": "Rocker and LA Zoo board member Slash defends new elephant habitat.",
+      "sourceUrl": "http://www.scpr.org/news/2010/12/16/21981/rocker-and-la-zoo-board-member-slash-defends-new-e/"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "He also helped launch the Bob Irwin Wildlife and Conservation Foundation in Brisbane, Austrilia. Bob Irwin, father of the late Steve Irwin of Crocodile Hunter fame, said about Slash:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.theaustralian.com.au/news/breaking-news/slash-to-launch-bob-irwin-foundation/story-fn3dxiwe-1226455422709",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "The best thing about this guy is he's right into conservation and I love him.",
       "sourceTitle": "Irwin leaves rocker Slash starstruck.",
-      "text": "The best thing about this guy is he's right into conservation and I love him."
+      "sourceUrl": "http://www.theaustralian.com.au/news/breaking-news/slash-to-launch-bob-irwin-foundation/story-fn3dxiwe-1226455422709"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "His support of animals is obvious, but when you look at the twinkle in the sunglasses of one of the world's greatest guitar soloist with a 13-foot python wrapped around his neck, you get the feeling that he doesn't care about the politics so much. He just wants to hold the animals."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

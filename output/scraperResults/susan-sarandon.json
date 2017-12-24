@@ -35,145 +35,227 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Susan Sarandon, born Susan Abigail Tomalin, was born in Queens, New York and raised in Edison, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.time.com/time/magazine/article/0,9171,1708837,00.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Sarandon was raised a Catholic.",
       "sourceTitle": "10 Questions for Susan Sarandon",
-      "text": "Sarandon was raised a Catholic."
+      "sourceUrl": "http://www.time.com/time/magazine/article/0,9171,1708837,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000215/bio",
+      "type": "text",
+      "text": "Her mother was raised by nuns after being abandoned at the age of two,",
+      "parentId": 2,
       "sourceTitle": "Susan Sarandon – Biography",
-      "text": "Her mother was raised by nuns after being abandoned at the age of two,"
+      "sourceUrl": "http://www.imdb.com/name/nm0000215/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/film/2006/mar/18/features.weekend",
+      "type": "text",
+      "text": "and Sarandon attended and graduated from a Catholic university in Washington D.C.",
+      "parentId": 2,
       "sourceTitle": "Suzie Mackenzie meets Susan Sarandon",
-      "text": "and Sarandon attended and graduated from a Catholic university in Washington D.C."
+      "sourceUrl": "http://www.guardian.co.uk/film/2006/mar/18/features.weekend"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "But Sarandon would probably no longer consider herself a Catholic–in heritage perhaps–but not in name. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.beliefnet.com/Entertainment/Movies/Enchanted/Susan-Sarandons-Spiritual-Activism.aspx?p=2",
-      "sourceTitle": "Susan Sarandon's Spiritual Activism",
-      "text": "I've always been very resistant to organized religion. Because, somehow, when religion becomes institutionalized, all the guys that started it that were so brilliant… their words get used to exclude other people. I've always felt that institutionalized religion never really made the transition from the words of Christ, or the words of Buddha, or the words of Confucius."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I've always been very resistant to organized religion. Because, somehow, when religion becomes institutionalized, all the guys that started it that were so brilliant… their words get used to exclude other people. I've always felt that institutionalized religion never really made the transition from the words of Christ, or the words of Buddha, or the words of Confucius.",
+      "sourceTitle": "Susan Sarandon's Spiritual Activism",
+      "sourceUrl": "http://www.beliefnet.com/Entertainment/Movies/Enchanted/Susan-Sarandons-Spiritual-Activism.aspx?p=2"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "But she does have a sort of vague spiritual belief system, involving the divinity of each individual:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.beliefnet.com/Entertainment/Movies/Enchanted/Susan-Sarandons-Spiritual-Activism.aspx?p=2",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I believe in the power of a higher divine of some sort. But I think that is probably what informs all my decisions is the idea of the divine in each person.",
       "sourceTitle": "Susan Sarandon's Spiritual Activism.",
-      "text": "I believe in the power of a higher divine of some sort. But I think that is probably what informs all my decisions is the idea of the divine in each person."
+      "sourceUrl": "http://www.beliefnet.com/Entertainment/Movies/Enchanted/Susan-Sarandons-Spiritual-Activism.aspx?p=2"
     },
     {
-      "type": "sentence",
-      "text": "It's difficult to classify this particular belief. It has been said before, of course. Mormons, for example, believe in a sort of  divinity within every person. The \"oneness\" in Eastern religions (Buddhism, Hinduism) could be interpreted as such perhaps. What do you guys think?"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "break"
+      "parentId": 9,
+      "type": "text",
+      "text": "It's difficult to classify this particular belief. It has been said before, of course. Mormons, for example, believe in a sort of"
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "potential"
+    },
+    {
+      "type": "text",
+      "text": "divinity within every person. The \"oneness\" in Eastern religions (Buddhism, Hinduism) could be interpreted as such perhaps. What do you guys think?",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Susan Sarandon in politics? No! Never!"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Perhaps no celebrity embodies standing on the soapbox of fame to push their message as much as Sarandon. It seems she's constantly railing on about some political issue or another. And it goes back pretty far."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/Susan_Sarandon.php",
+      "parentId": 12,
+      "type": "text",
+      "text": "As early as 1990, she was donating money to political causes. Though her donation totals aren't the biggest I've seen, (slightly more than $70,000) the list of beneficiaries might be the longest. She has never donated to a single Republican, though almost half of her donations have gone to special interest groups or politically-independent organizations. Some of the more recognizable candidates that have received money from Sarandon include former California governor Jerry Brown's failed bid for president, Hillary Clinton (both Senate and presidential campaigns), screaming Howard Dean, now-disgraced John Edwards, Ralph Nader and, of course, Obama.",
       "sourceTitle": "Susan Sarandon's Federal Campaign Contribution Report",
-      "text": "As early as 1990, she was donating money to political causes. Though her donation totals aren't the biggest I've seen, (slightly more than $70,000) the list of beneficiaries might be the longest. She has never donated to a single Republican, though almost half of her donations have gone to special interest groups or politically-independent organizations. Some of the more recognizable candidates that have received money from Sarandon include former California governor Jerry Brown's failed bid for president, Hillary Clinton (both Senate and presidential campaigns), screaming Howard Dean, now-disgraced John Edwards, Ralph Nader and, of course, Obama."
+      "sourceUrl": "http://68.234.14.2/celebrity_political_donations/Susan_Sarandon.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.people.com/people/article/0,,615638,00.html",
+      "parentId": 13,
+      "type": "text",
+      "text": "But money and celebrity endorsements aren't quite enough for Sarandon. She's a true activist, so committed that she was arrested in New York City during a protest against police brutality in 1999.",
       "sourceTitle": "Susan Sarandon Arrested",
-      "text": "But money and celebrity endorsements aren't quite enough for Sarandon. She's a true activist, so committed that she was arrested in New York City during a protest against police brutality in 1999."
+      "sourceUrl": "http://www.people.com/people/article/0,,615638,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/culture/film/film-news/9524844/Susan-Sarandon-I-had-death-threats-for-being-un-American.html",
+      "type": "text",
+      "text": "And her vocal questioning of the lead-up to the Iraq War garnered death threats and accusations of being \"un-American.\"",
+      "parentId": 13,
       "sourceTitle": "Susan Sarandon: I had death threats for being 'un-American.'",
-      "text": "And her vocal questioning of the lead-up to the Iraq War garnered death threats and accusations of being \"un-American.\""
+      "sourceUrl": "http://www.telegraph.co.uk/culture/film/film-news/9524844/Susan-Sarandon-I-had-death-threats-for-being-un-American.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=HKHW9NORhFU",
+      "parentId": 14,
+      "type": "text",
+      "text": "Her passion and nuanced view has caused her to question even the fundamentals of the American political system. She says, since she knows \"how it works,\" she'd rather lend her time and energy to grassroots organizations that have more power to affect immediate change.",
       "sourceTitle": "Susan Sarandon Discusses Political Activism On \"Larry King Now\" – Ora TV",
-      "text": "Her passion and nuanced view has caused her to question even the fundamentals of the American political system. She says, since she knows \"how it works,\" she'd rather lend her time and energy to grassroots organizations that have more power to affect immediate change."
+      "sourceUrl": "http://www.youtube.com/watch?v=HKHW9NORhFU"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000215/bio",
+      "type": "text",
+      "text": "Furthermore, she sometimes endorses third-party candidates like Ralph Nader",
+      "parentId": 14,
       "sourceTitle": "Susan Sarandon – Biography",
-      "text": "Furthermore, she sometimes endorses third-party candidates like Ralph Nader"
+      "sourceUrl": "http://www.imdb.com/name/nm0000215/bio"
     },
     {
-      "type": "sentence",
-      "text": "and despite her far-left leanings, she's been a critic of Obama, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and despite her far-left leanings, she's been a critic of Obama, saying:",
+      "parentId": 14
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=HKHW9NORhFU",
-      "sourceTitle": "Susan Sarandon Discusses Political Activism On \"Larry King Now\" – Ora TV",
-      "text": "Sure, [I'm disappointed with Obama]… I think there are different people that could have been hired."
+      "id": 15
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Sure, [I'm disappointed with Obama]… I think there are different people that could have been hired.",
+      "sourceTitle": "Susan Sarandon Discusses Political Activism On \"Larry King Now\" – Ora TV",
+      "sourceUrl": "http://www.youtube.com/watch?v=HKHW9NORhFU"
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Perhaps her pet issue is money in politics, which she sees as the biggest roadblock to positive reforms. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://hollywoodlife.com/2012/09/14/susan-sarandon-political-views-liberal-activism-politics-2012/",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "It's just gotten worse, and worse and worse, so obviously, how do you get those people to regulate themselves?",
       "sourceTitle": "Susan Sarandon is Fed Up With Politics As Usual",
-      "text": "It's just gotten worse, and worse and worse, so obviously, how do you get those people to regulate themselves?"
+      "sourceUrl": "http://hollywoodlife.com/2012/09/14/susan-sarandon-political-views-liberal-activism-politics-2012/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "Good question."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

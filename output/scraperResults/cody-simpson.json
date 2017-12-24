@@ -31,65 +31,88 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Cody Simpson was born in Gold Coast, Queensland, Australia. He moved to Los Angeles with his family when he was thirteen to pursue his music career."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://profile.id.com.au/Default.aspx?id=400&pg=106&gid=130&type=enum",
+      "parentId": 2,
+      "type": "text",
+      "text": "Simpson is definitely a Christian, but what denomination remains a mystery. There is a healthy Catholic population in his home state in Australia,",
       "sourceTitle": "Religion – Queensland – Australia Community Profile.",
-      "text": "Simpson is definitely a Christian, but what denomination remains a mystery. There is a healthy Catholic population in his home state in Australia,"
+      "sourceUrl": "http://profile.id.com.au/Default.aspx?id=400&pg=106&gid=130&type=enum"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blogs.mcall.com/lehighvalleymusic/2012/02/a-day-in-the-life-of-tween-idol-cody-simpson.html",
+      "type": "text",
+      "text": "but there's no indication that he is Catholic. Regardless of the specifics, he sure seems to pray a lot. He prays before shows,",
+      "parentId": 2,
       "sourceTitle": "Spending a day with 'tween idol Cody Simpson.",
-      "text": "but there's no indication that he is Catholic. Regardless of the specifics, he sure seems to pray a lot. He prays before shows,"
+      "sourceUrl": "http://blogs.mcall.com/lehighvalleymusic/2012/02/a-day-in-the-life-of-tween-idol-cody-simpson.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://popdirt.com/pop-artists-tweet-well-wishes-to-japan-following-earthquake/81425/",
+      "type": "text",
+      "text": "he prayed for Japan after the earthquake and tsunami in 2011,",
+      "parentId": 2,
       "sourceTitle": "Pop Artists Tweet Well Wishes To Japan Following Earthquake.",
-      "text": "he prayed for Japan after the earthquake and tsunami in 2011,"
+      "sourceUrl": "http://popdirt.com/pop-artists-tweet-well-wishes-to-japan-following-earthquake/81425/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://coolspotters.com/musicians/cody-simpson/and/clothing/aviator-nation-pray-for-snow-crew-sweatshirt/media/2418824?utm_campaign=Twitter&utm_source=cody-simpson_aviator-nation-&utm_medium=coo.ly#medium-2418824",
+      "type": "text",
+      "text": "and even wears shirts imploring others to \"Pray for Snow.\"",
+      "parentId": 2,
       "sourceTitle": "Cody Simpson and Aviator Nation Pray For Snow Crew Sweatshirt.",
-      "text": "and even wears shirts imploring others to \"Pray for Snow.\""
+      "sourceUrl": "http://coolspotters.com/musicians/cody-simpson/and/clothing/aviator-nation-pray-for-snow-crew-sweatshirt/media/2418824?utm_campaign=Twitter&utm_source=cody-simpson_aviator-nation-&utm_medium=coo.ly#medium-2418824"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "So, it's fairly obvious that Simpson is devout, but to what remains a mystery. One would assume it's to a Christian God he prays, but until he gets a little older and starts answering some hard questions about spirituality and life, it'll remain a mystery."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "The fifteen-year-old also doesn't have a lot to say about politics, but he gets a little giddy talking about meeting President Obama."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.popscreen.com/v/6yvCE/Cody-Simpson-Talks-About-Meeting-President-Obamas-Daughters",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "We got to meet the President and so that was pretty much the highlight of the tour right now… It was like the first time I had been truly like starstruck by meeting someone…\nI met his daughters and all that kind of stuff. They wanted\nlike t-shirts of me. And I'm like, wow.",
       "sourceTitle": "Cody Simpson Talks About Meeting President Obama's Daughters.",
-      "text": "We got to meet the President and so that was pretty much the highlight of the tour right now… It was like the first time I had been truly like starstruck by meeting someone…\nI met his daughters and all that kind of stuff. They wanted\nlike t-shirts of me. And I'm like, wow."
+      "sourceUrl": "http://www.popscreen.com/v/6yvCE/Cody-Simpson-Talks-About-Meeting-President-Obamas-Daughters"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "As a barely-pubescent teen, it's probably fair to say that Cody Simpson hasn't quite defined himself politically yet. He's obviously an Obama fan, but that definitely doesn't necessarily mean that he has a lot of opinions on his policies, or anyone's policies for that matter. He's just floating along on the teen stardom cloud for now."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

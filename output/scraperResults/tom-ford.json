@@ -33,102 +33,170 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Tom Ford was born in Austin, Texas and grew up there, outside Houston, Texas and mostly in Santa Fe, New Mexico."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.tomford.nl/",
+      "parentId": 2,
+      "type": "text",
+      "text": "No word on the religious upbringing of Ford to be found. On a fan page dedicated to Ford, his mother (who had six husbands) is described as a \"colorful Southern lady.\"",
       "sourceTitle": "Tom Ford Fan Page",
-      "text": "No word on the religious upbringing of Ford to be found. On a fan page dedicated to Ford, his mother (who had six husbands) is described as a \"colorful Southern lady.\""
+      "sourceUrl": "http://www.tomford.nl/"
     },
     {
-      "type": "sentence",
-      "text": "So, maybe Baptist? Or Pentecostal? Nothing whatsoever? Regardless, Ford probably had something of a Christian heritage somewhere along the line."
+      "type": "text",
+      "text": "So, maybe Baptist? Or Pentecostal? Nothing whatsoever? Regardless, Ford probably had something of a Christian heritage somewhere along the line.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Nowadays, he's \"spiritual,\" not religious. He comes off like a pantheist at times, but doesn't want to connect his admiration of nature to religion. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://the-talks.com/interviews/tom-ford/",
-      "sourceTitle": "Tom Ford.",
-      "text": "Nature is the closest thing to God and I don't mean God by any sort of religion but by the connection to the universe, which I think we have lost."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Nature is the closest thing to God and I don't mean God by any sort of religion but by the connection to the universe, which I think we have lost.",
+      "sourceTitle": "Tom Ford.",
+      "sourceUrl": "http://the-talks.com/interviews/tom-ford/"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "If he is spiritual in any way, it's likely related to Buddhism or Hinduism or maybe Taoism. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://the-talks.com/interviews/tom-ford/",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I am a spiritual person in an eastern religion kind of way. I learned that happiness for all of us is a switch that you flick in your brain. It doesn't have anything to do with getting a new house, a new car, a new girlfriend, or a new pair of shoes.",
       "sourceTitle": "Tom Ford.",
-      "text": "I am a spiritual person in an eastern religion kind of way. I learned that happiness for all of us is a switch that you flick in your brain. It doesn't have anything to do with getting a new house, a new car, a new girlfriend, or a new pair of shoes."
+      "sourceUrl": "http://the-talks.com/interviews/tom-ford/"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Sexytime Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "As a gay man, it's no surprise that Ford has weighed in on gay marriage–in favor of course. And as a rather international figure, his advocacy of gay marriage goes beyond U.S. borders. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://blogs.reuters.com/fanfare/2009/09/11/tom-ford-brands-gay-marriage-ban-disgusting/",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "It is, I have to say, quite disgusting that in America and in other countries you cannot have a civil union or something equivalent to marriage.",
       "sourceTitle": "Tom Ford brands gay marriage ban 'disgusting.'",
-      "text": "It is, I have to say, quite disgusting that in America and in other countries you cannot have a civil union or something equivalent to marriage."
+      "sourceUrl": "http://blogs.reuters.com/fanfare/2009/09/11/tom-ford-brands-gay-marriage-ban-disgusting/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.duanemoody.com/2009/11/tom-ford-on-gay-marriage/",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Notice he said \"civil union.\" Ford isn't keen on pushing marriage,"
+    },
+    {
+      "parentId": 14,
+      "type": "emphasis",
+      "text": "per se"
+    },
+    {
+      "type": "text",
+      "text": ". Marriage, he thinks, is the domain of religion.",
+      "parentId": 14,
       "sourceTitle": "Tom Ford on gay marriage",
-      "text": "Notice he said \"civil union.\" Ford isn't keen on pushing marriage, . Marriage, he thinks, is the domain of religion."
+      "sourceUrl": "http://www.duanemoody.com/2009/11/tom-ford-on-gay-marriage/"
     },
     {
-      "type": "sentence",
-      "text": "Ford just wants to make sure that, for tax reasons, power of attorney reasons, estate reasons, probably immigration reasons and the host of other legal facets of \"marriage\" is accounted for under the law."
+      "type": "text",
+      "text": "Ford just wants to make sure that, for tax reasons, power of attorney reasons, estate reasons, probably immigration reasons and the host of other legal facets of \"marriage\" is accounted for under the law.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Tom_Ford.php",
+      "parentId": 15,
+      "type": "text",
+      "text": "Unsurprisingly, Ford is a Democrat–an Obama-supporting Democrat. He's given around $25,000 to Democrat candidates and Democrat support organizations.",
       "sourceTitle": "Tom Ford's Federal Campaign Contribution Report",
-      "text": "Unsurprisingly, Ford is a Democrat–an Obama-supporting Democrat. He's given around $25,000 to Democrat candidates and Democrat support organizations."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Tom_Ford.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://fashionista.com/2012/09/tom-ford-and-gwyneth-paltrow-host-posh-obama-fundraiser-with-anna-wintour-in-london/",
+      "type": "text",
+      "text": "Then, in 2012, during Obama' reelection bid, Ford and pal Gwyneth Paltrow hosted a swanky fundraiser dinner party for the president, charging a whopping $15,000 per plate.",
+      "parentId": 15,
       "sourceTitle": "Tom Ford and Gwyneth Paltrow Host Posh Obama Fundraiser with Anna Wintour in London",
-      "text": "Then, in 2012, during Obama' reelection bid, Ford and pal Gwyneth Paltrow hosted a swanky fundraiser dinner party for the president, charging a whopping $15,000 per plate."
+      "sourceUrl": "http://fashionista.com/2012/09/tom-ford-and-gwyneth-paltrow-host-posh-obama-fundraiser-with-anna-wintour-in-london/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Now we can say, with confidence, that Obama won–with style."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

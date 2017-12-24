@@ -35,123 +35,181 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.examiner.com/article/will-kourtney-kardashian-follow-sister-khloe-and-homeschool-her-children",
+      "parentId": 1,
+      "type": "text",
+      "text": "Kourtney Mary Kardashian was born in Mill Valley, California and grew up in Los Angeles, California."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Kourtney graduated from the Roman Catholic, all-girls Marymount High School where she took religion and theology courses with titles like: \"Who is Jesus?,\" \"Morality,\" and \"Christian Life and Love.\"",
       "sourceTitle": "Will Kourtney Kardashian follow sister Khloe and homeschool her children?",
-      "text": "Kourtney graduated from the Roman Catholic, all-girls Marymount High School where she took religion and theology courses with titles like: \"Who is Jesus?,\" \"Morality,\" and \"Christian Life and Love.\""
+      "sourceUrl": "http://www.examiner.com/article/will-kourtney-kardashian-follow-sister-khloe-and-homeschool-her-children"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://americanpapist.com/2009/08/shock-kourtney-kardashian-decides-to.html",
+      "type": "text",
+      "text": "But she continued on to attend a Methodist university.",
+      "parentId": 2,
       "sourceTitle": "Shock: Kourtney Kardashian decides to Keep her Kid",
-      "text": "But she continued on to attend a Methodist university."
+      "sourceUrl": "http://americanpapist.com/2009/08/shock-kourtney-kardashian-decides-to.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.upi.com/News_Photos/gallery/Celebrity-Religions/4764/5",
+      "parentId": 3,
+      "type": "text",
+      "text": "The Kardashian's father is an Armenian-American and his daughters were exposed to that culture's dominant religion–Armenian Orthodox Christianity. Apparently, they give 10% of their money to the church to this day.",
       "sourceTitle": "Celebrity Religions",
-      "text": "The Kardashian's father is an Armenian-American and his daughters were exposed to that culture's dominant religion–Armenian Orthodox Christianity. Apparently, they give 10% of their money to the church to this day."
+      "sourceUrl": "http://www.upi.com/News_Photos/gallery/Celebrity-Religions/4764/5"
     },
     {
-      "type": "sentence",
-      "text": "That is, except Kourtney."
+      "type": "text",
+      "text": "That is, except Kourtney.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "When she and Kim were asked if they donate money, Kim said that she gives 10% to a charity and also gives money to her church because that's what she was taught. When Kourtney was asked if she donates 10% as well, she said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://religion.blogs.cnn.com/2011/01/25/kim-kardashian-gives-10-of-her-money-to-church-and-charity/",
-      "sourceTitle": "Kim Kardashian gives 10% of her money to church and charity",
-      "text": "I'm going to now, I was taught that too but I forgot about it."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I'm going to now, I was taught that too but I forgot about it.",
+      "sourceTitle": "Kim Kardashian gives 10% of her money to church and charity",
+      "sourceUrl": "http://religion.blogs.cnn.com/2011/01/25/kim-kardashian-gives-10-of-her-money-to-church-and-charity/"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "That was probably awkward, but don't go thinking Kourtney is totally non-religious. In a much-publicized surprise pregnancy, Kourtney was considering an abortion (as strange as it may be that the press picked up on this). She decided against the procedure, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://americanpapist.com/2009/08/shock-kourtney-kardashian-decides-to.html",
-      "sourceTitle": "Shock: Kourtney Kardashian decides to Keep her Kid",
-      "text": "I can't do that. And I felt in my body, this is meant to be. God does things for a reason, and I just felt like it was the right thing that was happening in my life."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I can't do that. And I felt in my body, this is meant to be. God does things for a reason, and I just felt like it was the right thing that was happening in my life.",
+      "sourceTitle": "Shock: Kourtney Kardashian decides to Keep her Kid",
+      "sourceUrl": "http://americanpapist.com/2009/08/shock-kourtney-kardashian-decides-to.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "So whatever Kourtney's religion might be–Catholic, Armenian Orthodox, or Methodist–it was a powerful enough force in her life to sway her in a major life decision."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Kardashian hasn't gotten very deep into any political territory, but if we can trust her sister, Kim, then she's a Democrat. Kim once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=rS2Fry0u4L0",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "My household is really split-up. The parents are Republicans and the children are Democrats, so it's like a political warfare in our household when we talk about politics.",
       "sourceTitle": "Kim Kardashian says there's 'political warfare' in her house, parents are Republicans",
-      "text": "My household is really split-up. The parents are Republicans and the children are Democrats, so it's like a political warfare in our household when we talk about politics."
+      "sourceUrl": "http://www.youtube.com/watch?v=rS2Fry0u4L0"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dosomething.org/blog/celebsgonegood/the-kardashians-are-h8ers",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "She goes on to mention Kourtney by name, so I'd say that's a pretty reliable source. Plus, it's no stretch to assume Kourtney is Democrat considering she and her sisters joined up with the NOH8 campaign to overturn California's anti-gay marriage law Prop 8,",
       "sourceTitle": "The Kardashians are H8ers",
-      "text": "She goes on to mention Kourtney by name, so I'd say that's a pretty reliable source. Plus, it's no stretch to assume Kourtney is Democrat considering she and her sisters joined up with the NOH8 campaign to overturn California's anti-gay marriage law Prop 8,"
+      "sourceUrl": "http://www.dosomething.org/blog/celebsgonegood/the-kardashians-are-h8ers"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2008/11/05/california-gay-marriage-b_n_141429.html",
+      "type": "text",
+      "text": "a conservative Republican-sponsored bill. Regardless of the Kardashians' considerable political clout, however, the bill was passed into law.",
+      "parentId": 15,
       "sourceTitle": "California Gay Marriage Banned As Proposition 8 Passes",
-      "text": "a conservative Republican-sponsored bill. Regardless of the Kardashians' considerable political clout, however, the bill was passed into law."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.huffingtonpost.com/2008/11/05/california-gay-marriage-b_n_141429.html"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Kourtney_Kardashian",
     "title": "Kourtney Kardashian",
     "image": {
-      "name": "Kourtney_Kardashian_2_2009.jpg",
+      "name": "KourtneyK2017.jpg",
       "info": {
-        "canonicaltitle": "File:Kourtney Kardashian 2 2009.jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kourtney_Kardashian_2_2009.jpg/200px-Kourtney_Kardashian_2_2009.jpg",
-        "thumbwidth": 200,
+        "canonicaltitle": "File:KourtneyK2017.jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/KourtneyK2017.jpg/300px-KourtneyK2017.jpg",
+        "thumbwidth": 300,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Kourtney_Kardashian_2_2009.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kourtney_Kardashian_2_2009.jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6776698",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/KourtneyK2017.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:KourtneyK2017.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64955698",
         "extmetadata": {
           "DateTime": {
-            "value": "2009-05-14 15:42:38",
+            "value": "2017-12-21 02:11:03",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "Kourtney Kardashian 2 2009",
+            "value": "KourtneyK2017",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -161,7 +219,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "GFDL|Kourtney Kardashian|License migration redundant|Photographs by Glenn Francis|Self-published work|Taken with Nikon D200",
+            "value": "All media needing categories as of 2017|Deletion requests December 2017|Media needing categories as of 21 December 2017",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -171,34 +229,29 @@
             "hidden": ""
           },
           "ImageDescription": {
-            "value": "Kourtney Kardashian attending Maxim's 10th Annual Hot 100 Celebration, Santa Monica, CA on May 13, 2009 - Photo by Glenn Francis of www.PacificProDigtial.com",
+            "value": "Kourtney K",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "2009-05-13",
+            "value": "2017-08-01",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "value": "The Kardashian family",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Toglenn\" title=\"User:Toglenn\">Toglenn</a>",
+            "value": "The kardashians",
             "source": "commons-desc-page"
           },
-          "Permission": {
-            "value": "<div style=\"clear:both; border: 1px solid #999; margin: 1em; padding: 1em; background-color: #eeefff;\">\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"background:transparent;\"><tr>\n<td valign=\"top\" width=\"80%\">\n<p>This photograph was taken by <b><a href=\"//commons.wikimedia.org/wiki/User:Toglenn\" title=\"User:Toglenn\">Glenn Francis</a></b> (<b>User:Toglenn</b>) and released under the license(s) stated below. You are free to use it as long as you credit me and follow the terms of the license.</p>\n<dl>\n<dd>Attribution :  © Glenn Francis, www.PacificProDigital.com</dd>\n</dl>\n<p><small>(Email: <a rel=\"nofollow\" class=\"external text\" href=\"mailto:glennfrancis@pacificprodigital.com\">glennfrancis<span style=\"margin:0px 1px; position:relative; top:-2px;\"><img alt=\"@\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/At_char.svg/11px-At_char.svg.png\" title=\"@\" width=\"11\" height=\"11\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/At_char.svg/17px-At_char.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/At_char.svg/22px-At_char.svg.png 2x\" data-file-width=\"10\" data-file-height=\"10\"></span>pacificprodigital.com</a>)</small></p>\n</td>\n<td valign=\"top\" width=\"20%\">\n<div class=\"floatright\">\n<div class=\"noresize\"><a href=\"http://www.facebook.com/profile.php?id=502908168\" class=\"plainlinks\" rel=\"nofollow\" title=\"http://www.facebook.com/profile.php?id=502908168\"><img alt=\"Glenn Francis 2011.jpg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Glenn_Francis_2011.jpg/70px-Glenn_Francis_2011.jpg\" width=\"70\" height=\"105\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Glenn_Francis_2011.jpg/105px-Glenn_Francis_2011.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Glenn_Francis_2011.jpg/140px-Glenn_Francis_2011.jpg 2x\" data-file-width=\"480\" data-file-height=\"720\"></a></div>\n</div>\n</td>\n</tr></table>\n</div>",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
           "LicenseShortName": {
-            "value": "CC BY-SA 3.0",
+            "value": "CC BY-SA 4.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "UsageTerms": {
-            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "value": "Creative Commons Attribution-Share Alike 4.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -208,12 +261,17 @@
             "hidden": ""
           },
           "LicenseUrl": {
-            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Copyrighted": {
             "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "DeletionReason": {
+            "value": "[[Commons:Deletion requests/Files uploaded by Family and Friends]]: Found elsewhere on the web; definitely not own work",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -223,7 +281,7 @@
             "hidden": ""
           },
           "License": {
-            "value": "cc-by-sa-3.0",
+            "value": "cc-by-sa-4.0",
             "source": "commons-templates",
             "hidden": ""
           }

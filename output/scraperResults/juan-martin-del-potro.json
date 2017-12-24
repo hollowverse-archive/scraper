@@ -33,75 +33,115 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Juan Martín del Potro was born and raised in Tandil, Argentina."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Del Potro is a devout Catholic, as you probably know if you've seen him play a match. The tennis star crosses himself and sends a kiss up to the heavens after his games, although that particular signal isn't directed exactly at God. He said about his signature gesture,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.tennisnow.com/News/10-Things-You-May-Not-Know-About-Juan-Martin-Del-P.aspx",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I had a sister who died many years ago, and I believe that she protects me from the sky.",
       "sourceTitle": "10 Things You May Not Know About Juan Martin Del Potro.",
-      "text": "I had a sister who died many years ago, and I believe that she protects me from the sky."
+      "sourceUrl": "http://www.tennisnow.com/News/10-Things-You-May-Not-Know-About-Juan-Martin-Del-P.aspx"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.latimes.com/2011/jul/24/sports/la-sp-0725-juan-martin-del-potro-20110725",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Not that he isn't giving plenty of thanks to the Big Man too. He wears a gold cross around his neck and he's quick to tell the world of his faith.",
       "sourceTitle": "Juan Martin del Potro brings big tennis game back to L.A.",
-      "text": "Not that he isn't giving plenty of thanks to the Big Man too. He wears a gold cross around his neck and he's quick to tell the world of his faith."
+      "sourceUrl": "http://articles.latimes.com/2011/jul/24/sports/la-sp-0725-juan-martin-del-potro-20110725"
     },
     {
-      "type": "sentence",
-      "text": "But he seemed especially proud of his Catholic heritage after Pope Francis' election was announced–the first Latin American pope hails from del Porto's own home country. He said about the announcement,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But he seemed especially proud of his Catholic heritage after Pope Francis' election was announced–the first Latin American pope hails from del Porto's own home country. He said about the announcement,",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.iol.co.za/sport/tennis/del-potro-proud-of-argentine-pope-1.1486330#.UUIKPxyG2wc",
-      "sourceTitle": "Del Potro proud of Argentine pope.",
-      "text": "We are all so proud of him. . . . I wish all the best to him. I think he's going to do his work perfect. I wish the best for him–and I'm very Catholic, so I like this new decision."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "We are all so proud of him. . . . I wish all the best to him. I think he's going to do his work perfect. I wish the best for him–and I'm very Catholic, so I like this new decision.",
+      "sourceTitle": "Del Potro proud of Argentine pope.",
+      "sourceUrl": "http://www.iol.co.za/sport/tennis/del-potro-proud-of-argentine-pope-1.1486330#.UUIKPxyG2wc"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "A proud day for many Latin American Catholics, and especially for Argentina."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Juan Martín sans Político"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Unless you could call support of the pope a political position, del Porto doesn't have anything to say about politics. He seems to be utterly out of the debate and even his charitable work is sparse enough that I couldn't even pick out what local or global issues he cares about."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "I'm not saying he doesn't care at all, he just doesn't make it public. Considering his strong support of both Catholicism and the Catholic hierarchy, I could guess that he's socially conservative: opposed to abortion rights, gay rights, and possibly even contraception. But then again, his girlfriend hasn't gotten pregnant yet (I couldn't quite figure out if they're still dating), so maybe he does believe in birth control after all. (Oh, settle down, it was only a joke.)"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "If he starts getting loud about politics, please let us know in the comments and we'll sing your praises. Thanks, readers!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

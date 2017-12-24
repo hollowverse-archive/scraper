@@ -35,145 +35,255 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sinéad O'Connor was born in Glenageary, just outside of Dublin, Ireland. She grew up there and in Waterford, Ireland."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "O'Connor has a complex and tempestuous relationship with the Catholic Church. It's unlikely that even O'Connor herself really knows how she feels about it. She said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/sinead-oconnor/vatican-must-stand-down-g_b_838483.html",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "From a small child, almost all my internal life revolved around Catholicism. It was my secret love and my passionate obsession, as I am unashamed to say it still is.",
       "sourceTitle": "Sinéad O'Connor: We Need A New Catholic Church",
-      "text": "From a small child, almost all my internal life revolved around Catholicism. It was my secret love and my passionate obsession, as I am unashamed to say it still is."
+      "sourceUrl": "http://www.huffingtonpost.com/sinead-oconnor/vatican-must-stand-down-g_b_838483.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.notbored.org/sinead.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "If she loves and is passionate about the Catholic Church, it certainly is her secret! O'Connor has come out guns blazing against the Pope and the Vatican and the church itself so many times, nobody can keep track anymore. There is, of course, her infamous tearing up of a picture of the Pope on"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Saturday Night Live"
+    },
+    {
+      "type": "text",
+      "text": "in protest of the church's sex scandals.",
+      "parentId": 5,
       "sourceTitle": "Sinead O'Connor Rips It Up",
-      "text": "If she loves and is passionate about the Catholic Church, it certainly is her secret! O'Connor has come out guns blazing against the Pope and the Vatican and the church itself so many times, nobody can keep track anymore. There is, of course, her infamous tearing up of a picture of the Pope on  in protest of the church's sex scandals."
+      "sourceUrl": "http://www.notbored.org/sinead.html"
     },
     {
-      "type": "sentence",
-      "text": "But that's not all. She fairly regularly says things like:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But that's not all. She fairly regularly says things like:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://catholicism.about.com/b/2010/10/22/the-spirituality-of-sinead-oconnor.htm",
-      "sourceTitle": "The \"Spirituality\" of Sinead O'Connor",
-      "text": "I call them the Vatican't. It's a nest of devils that's run by people with no respect for God or children or the rest of us."
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://catholicism.about.com/b/2010/10/22/the-spirituality-of-sinead-oconnor.htm",
-      "sourceTitle": "The \"Spirituality\" of Sinead O'Connor",
-      "text": "So, what's going on? I think O'Connor is a deeply spiritual person, with a strong cultural, emotional and psychological bond to the Catholic Church. And as a result, she's put the entire institution on a pedestal and when they don't live up to her expectations, she's particularly upset. She said had she not been a famous musician, she would have been a Catholic priest."
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/328709.stm",
+      "parentId": 7,
+      "type": "text",
+      "text": "I call them the Vatican't. It's a nest of devils that's run by people with no respect for God or children or the rest of us.",
+      "sourceTitle": "The \"Spirituality\" of Sinead O'Connor",
+      "sourceUrl": "http://catholicism.about.com/b/2010/10/22/the-spirituality-of-sinead-oconnor.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "So, what's going on? I think O'Connor is a deeply spiritual person, with a strong cultural, emotional and psychological bond to the Catholic Church. And as a result, she's put the entire institution on a pedestal and when they don't live up to her expectations, she's particularly upset. She said had she not been a famous musician, she would have been a Catholic priest.",
+      "sourceTitle": "The \"Spirituality\" of Sinead O'Connor",
+      "sourceUrl": "http://catholicism.about.com/b/2010/10/22/the-spirituality-of-sinead-oconnor.htm"
+    },
+    {
+      "type": "text",
+      "text": "Well, that wouldn't work because she's a woman. So O'Connor was ordained in a Catholic offshoot church called the Latin Tridentine church, dubbing herself Mother Bernadette Mary.",
+      "parentId": 8,
       "sourceTitle": "O'Connor becomes a 'priest.'",
-      "text": "Well, that wouldn't work because she's a woman. So O'Connor was ordained in a Catholic offshoot church called the Latin Tridentine church, dubbing herself Mother Bernadette Mary."
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/328709.stm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "It's a giant misconception to think that O'Connor is anti-religion or even anti-Catholic. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.christianitytoday.com/ct/2007/julyweb-only/128-12.0.html",
-      "sourceTitle": "Sinéad O'Connor's Theology and 'Theology.'",
-      "text": "I love religion. But I think religion has weaknesses—the chief one being that it doesn't understand that it is not God a lot of the time. … There was a God before religion."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I love religion. But I think religion has weaknesses—the chief one being that it doesn't understand that it is not God a lot of the time. … There was a God before religion.",
+      "sourceTitle": "Sinéad O'Connor's Theology and 'Theology.'",
+      "sourceUrl": "http://www.christianitytoday.com/ct/2007/julyweb-only/128-12.0.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "She describes her anger at the Catholic Church as a metaphor to someone you love who is on a bad path:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.christianitytoday.com/ct/2007/julyweb-only/128-12.0.html",
-      "sourceTitle": "Sinéad O'Connor's Theology and 'Theology.'",
-      "text": "Sometimes we want to challenge the people we love, and sometimes we want to rattle the bars because we see them going down the drain unless they face particular issues."
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianitytoday.com/ct/2007/julyweb-only/128-12.0.html",
-      "sourceTitle": "Sinéad O'Connor's Theology and 'Theology.'",
-      "text": "And her music is bursting with religious themes and terminology. Her 2007 album, , is almost entirely inspired by the Bible."
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
     },
     {
-      "type": "break"
+      "parentId": 14,
+      "type": "text",
+      "text": "Sometimes we want to challenge the people we love, and sometimes we want to rattle the bars because we see them going down the drain unless they face particular issues.",
+      "sourceTitle": "Sinéad O'Connor's Theology and 'Theology.'",
+      "sourceUrl": "http://www.christianitytoday.com/ct/2007/julyweb-only/128-12.0.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "And her music is bursting with religious themes and terminology. Her 2007 album,"
+    },
+    {
+      "parentId": 15,
+      "type": "emphasis",
+      "text": "Theology"
+    },
+    {
+      "type": "text",
+      "text": ", is almost entirely inspired by the Bible.",
+      "parentId": 15,
+      "sourceTitle": "Sinéad O'Connor's Theology and 'Theology.'",
+      "sourceUrl": "http://www.christianitytoday.com/ct/2007/julyweb-only/128-12.0.html"
     },
     {
       "type": "heading",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "O'Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Politically, O'Connor's politics can be summed up in one word: pacifism. When asked to comment on the U.S. War on Terror, for example, she said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.salon.com/2002/10/12/sinead_3/",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "I understand entirely why people would want to fight back. But I don't think it actually achieves anything. It doesn't bring back your lost people.",
       "sourceTitle": "Sin",
-      "text": "I understand entirely why people would want to fight back. But I don't think it actually achieves anything. It doesn't bring back your lost people."
+      "sourceUrl": "http://www.salon.com/2002/10/12/sinead_3/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=lWbgJA0W-9I",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "Most of her political activity revolves around trying to clean up the mess war leaves behind, such as benefit concerts for Kurdish refugees, the result of the Gulf War",
       "sourceTitle": "Sinead O'Connor interview on being political and outspoken",
-      "text": "Most of her political activity revolves around trying to clean up the mess war leaves behind, such as benefit concerts for Kurdish refugees, the result of the Gulf War"
+      "sourceUrl": "http://www.youtube.com/watch?v=lWbgJA0W-9I"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/sinead-oconnor",
+      "type": "text",
+      "text": "or appearing with anti-war activist Roger Waters to commemorate the fall of the Berlin Wall.",
+      "parentId": 20,
       "sourceTitle": "Sinead O'Connor Charity Work, Events and Causes",
-      "text": "or appearing with anti-war activist Roger Waters to commemorate the fall of the Berlin Wall."
+      "sourceUrl": "http://www.looktothestars.org/celebrity/sinead-oconnor"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "sentence",
+      "parentId": 21,
+      "type": "text",
       "text": "Mostly, though, O'Connor says the heavy protest, angry activist stuff is behind her:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=lWbgJA0W-9I",
+      "id": 22
+    },
+    {
+      "type": "paragraph",
+      "id": 23,
+      "parentId": 22
+    },
+    {
+      "parentId": 23,
+      "type": "text",
+      "text": "I kind of like a peaceful life nowadays. I'd rather not get in trouble.",
       "sourceTitle": "Sinead O'Connor interview on being political and outspoken",
-      "text": "I kind of like a peaceful life nowadays. I'd rather not get in trouble."
+      "sourceUrl": "http://www.youtube.com/watch?v=lWbgJA0W-9I"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 24
+    },
+    {
+      "parentId": 24,
+      "type": "text",
       "text": "We'll see."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

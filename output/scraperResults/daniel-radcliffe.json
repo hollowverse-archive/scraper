@@ -34,126 +34,194 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Daniel Radcliffe was born in West London."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://web.archive.org/web/20080125121324/http://www.thejc.com/home.aspx?AId=47922&ATypeId=1&search=true2&srchstr=PATRICIA+JACOBSON&srchtxt=1&srchhead=1&srchauthor=1&srchsandp=1&scsrch=0",
+      "parentId": 2,
+      "type": "text",
+      "text": "Radcliffe's mother is Jewish and his father is a Protestant,",
       "sourceTitle": "A nice Jewish wizard",
-      "text": "Radcliffe's mother is Jewish and his father is a Protestant,"
+      "sourceUrl": "http://web.archive.org/web/20080125121324/http://www.thejc.com/home.aspx?AId=47922&ATypeId=1&search=true2&srchstr=PATRICIA+JACOBSON&srchtxt=1&srchhead=1&srchauthor=1&srchsandp=1&scsrch=0"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.parade.com/celebrity/celebrity-parade/2012/01/life-after-harry.html",
+      "type": "text",
+      "text": "but apparently, there was little to no religion in Radcliffe's home.",
+      "parentId": 2,
       "sourceTitle": "Daniel Radcliffe's Life After Harry",
-      "text": "but apparently, there was little to no religion in Radcliffe's home."
+      "sourceUrl": "http://www.parade.com/celebrity/celebrity-parade/2012/01/life-after-harry.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "When it comes to identifying with his religious upbringing, Radcliffe chooses Judaism, but like the famous Seinfeld episode, he's just in it for the jokes. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/film/2009/jul/04/daniel-radcliffe-harry-potter-jk-rowling",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I'm very proud of being Jewish. It means I have a good work ethic, and you get Jewish humor and you're allowed to tell Jewish jokes. For instance: did you hear how copper wire was invented? Two Jews fighting over a penny. And so on.",
       "sourceTitle": "Craig McLean Meets Harry Potter Star Daniel Radcliffe",
-      "text": "I'm very proud of being Jewish. It means I have a good work ethic, and you get Jewish humor and you're allowed to tell Jewish jokes. For instance: did you hear how copper wire was invented? Two Jews fighting over a penny. And so on."
+      "sourceUrl": "http://www.guardian.co.uk/film/2009/jul/04/daniel-radcliffe-harry-potter-jk-rowling"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tvnz.co.nz/entertainment-news/daniel-radcliffe-militant-atheist-4717220",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "In reality, Radcliffe is an atheist, and though he says he's a \"militant atheist\"",
       "sourceTitle": "Daniel Radcliffe: Militant Atheist",
-      "text": "In reality, Radcliffe is an atheist, and though he says he's a \"militant atheist\""
+      "sourceUrl": "http://tvnz.co.nz/entertainment-news/daniel-radcliffe-militant-atheist-4717220"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/culture/harry-potter/5734000/Daniel-Radcliffe-a-cool-nerd.html",
+      "type": "text",
+      "text": "when it comes to involving religion in politics, normally he's pretty mellow about it, even if he likes watching Christopher Hitchens and Richard Dawkins on the telly.",
+      "parentId": 6,
       "sourceTitle": "Daniel Radcliffe: a cool nerd",
-      "text": "when it comes to involving religion in politics, normally he's pretty mellow about it, even if he likes watching Christopher Hitchens and Richard Dawkins on the telly."
+      "sourceUrl": "http://www.telegraph.co.uk/culture/harry-potter/5734000/Daniel-Radcliffe-a-cool-nerd.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "There are times when Radcliffe seems naive, like he's buying into what the powers-that-be are selling. You'll see some of that in the politics section below. But when it comes to atheism, religion, ethics, and morals, Radcliffe seems to have thought this stuff through. He said of his generation and the challenges they face:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/film/2009/jul/04/daniel-radcliffe-harry-potter-jk-rowling",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I have a lot of faith in my generation. I have to. We have to develop our own moral system.",
       "sourceTitle": "Craig McLean Meets Harry Potter Star Daniel Radcliffe",
-      "text": "I have a lot of faith in my generation. I have to. We have to develop our own moral system."
+      "sourceUrl": "http://www.guardian.co.uk/film/2009/jul/04/daniel-radcliffe-harry-potter-jk-rowling"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "There is a world of politics beyond Hogwart's"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Politically, Radcliffe is clearly liberal. Which British party he supports might change from time to time, but he's a left-winger through and through."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Radcliffe has spoken out for gay rights, and even advocated for a curriculum in public schools that instructs students on the nuances of both gay and straight relationships. He's rallied against Republicans–and especially the religious ones in the states, and he's taken a page from the worldwide Occupy movement regarding economic equality, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/film/2012/feb/06/daniel-radcliffe-ends-lib-dem-support",
-      "sourceTitle": "Daniel Radcliffe ends support for Liberal Democrats",
-      "text": "I think, if you make a lot more money than most people – like I do – you should pay more tax and subsidize people who work just as hard as you, but don't earn as much."
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blog.moviefone.com/2010/03/24/daniel-radcliffe-pledges-support-for-the-liberal-democrats/",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I think, if you make a lot more money than most people – like I do – you should pay more tax and subsidize people who work just as hard as you, but don't earn as much.",
+      "sourceTitle": "Daniel Radcliffe ends support for Liberal Democrats",
+      "sourceUrl": "http://www.guardian.co.uk/film/2012/feb/06/daniel-radcliffe-ends-lib-dem-support"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "In his home country of Great Britain, Radcliffe was originally a supporter of the Liberal Democrat Party,",
       "sourceTitle": "Daniel Radcliffe Pledges Support for the Liberal Democrats",
-      "text": "In his home country of Great Britain, Radcliffe was originally a supporter of the Liberal Democrat Party,"
+      "sourceUrl": "http://blog.moviefone.com/2010/03/24/daniel-radcliffe-pledges-support-for-the-liberal-democrats/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/film/2012/feb/06/daniel-radcliffe-ends-lib-dem-support",
+      "type": "text",
+      "text": "But when he was disappointed with their head honcho–Nick Clegg–he sided with the Labour Party.",
+      "parentId": 15,
       "sourceTitle": "Daniel Radcliffe ends support for Liberal Democrats",
-      "text": "But when he was disappointed with their head honcho–Nick Clegg–he sided with the Labour Party."
+      "sourceUrl": "http://www.guardian.co.uk/film/2012/feb/06/daniel-radcliffe-ends-lib-dem-support"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "He's not shy about talking about U.S. politics either and went all gushy over President Obama, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thedailybeast.com/articles/2009/01/26/dirty-harry.html",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I am so proud and happy for [America]. [Obama] is everything the rest of the world liked about America and now likes again. He is both Martin Luther King and JFK. He is a pioneer. He is a symbol of progress which is what we dig about this country.",
       "sourceTitle": "Dirty Harry",
-      "text": "I am so proud and happy for [America]. [Obama] is everything the rest of the world liked about America and now likes again. He is both Martin Luther King and JFK. He is a pioneer. He is a symbol of progress which is what we dig about this country."
+      "sourceUrl": "http://www.thedailybeast.com/articles/2009/01/26/dirty-harry.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "Yes, that was right after the 2008 elections."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

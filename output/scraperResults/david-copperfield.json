@@ -32,83 +32,124 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "David Copperfield was born and raised in Metuchen, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "He was grew up in an immigrant Jewish family, and despite his own penchant for conjuring miracles, he still believes in God's ability to do the same. Even he understands the apparent contradiction:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.filmfestivals.com/en/blog/elisabeth/what_is_god_peter_rodger_asks_the_world",
-      "sourceTitle": "What Is God? Peter Rodger Asks the World.",
-      "text": "It's amazing I still believe in an ultimate creator–with the knowledge I have about being able to do biblical things–things that someone like I have the power to do."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "It's amazing I still believe in an ultimate creator–with the knowledge I have about being able to do biblical things–things that someone like I have the power to do.",
+      "sourceTitle": "What Is God? Peter Rodger Asks the World.",
+      "sourceUrl": "http://www.filmfestivals.com/en/blog/elisabeth/what_is_god_peter_rodger_asks_the_world"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Instead he likened his ability to do magic to Jewish history and spirit."
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 6
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://letmypeoplegrow.org/2011/11/jews-news-anton-yelchin-david-copperfield-billy-crystal/",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "We're taught in the Jewish tradition the same story over and over, whether it's the Holocaust or the Maccabees, we have to rise above persecution and do our best. Just as the magic is about making people dream, we learned to take things that aren't supposed to be and turn them into something beautiful.",
       "sourceTitle": "Jews in the News.",
-      "text": "We're taught in the Jewish tradition the same story over and over, whether it's the Holocaust or the Maccabees, we have to rise above persecution and do our best. Just as the magic is about making people dream, we learned to take things that aren't supposed to be and turn them into something beautiful."
+      "sourceUrl": "http://letmypeoplegrow.org/2011/11/jews-news-anton-yelchin-david-copperfield-billy-crystal/"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Immaculate Illusion?"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theregister.co.uk/2005/10/20/copperfield_impregnation/",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Just because he believes in God doesn't mean he won't try to show Him up. During Copperfield's tour, \"An Intimate Evening of Grand Illusion,\" he claimed to impregnate a woman on stage without ever touching her.",
       "sourceTitle": "David Copperfield to attempt stage impregnation.",
-      "text": "Just because he believes in God doesn't mean he won't try to show Him up. During Copperfield's tour, \"An Intimate Evening of Grand Illusion,\" he claimed to impregnate a woman on stage without ever touching her."
+      "sourceUrl": "http://www.theregister.co.uk/2005/10/20/copperfield_impregnation/"
     },
     {
-      "type": "sentence",
-      "text": "Or maybe he was just trying to let the Christians know he didn't give a whole lot of credence to that whole immaculate conception thing. According to a fan, the ultrasound that was performed after the impregnation showed a baby holding a playing card."
+      "type": "text",
+      "text": "Or maybe he was just trying to let the Christians know he didn't give a whole lot of credence to that whole immaculate conception thing. According to a fan, the ultrasound that was performed after the impregnation showed a baby holding a playing card.",
+      "parentId": 9
     },
     {
-      "type": "sentence",
-      "text": "Top that, God!"
+      "type": "text",
+      "text": "Top that, God!",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "Copperfield has been mum about his political affiliations, if he has any. But chances would have it that Copperfield, son of an Israeli-born mother, grew up in a home of Democrats."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewishvirtuallibrary.org/jsource/US-Israel/jewvote.html",
+      "parentId": 11,
+      "type": "text",
+      "text": "During the 60s and 70s, when he was growing up in New Jersey, the American Jewish vote for president went to Democrats by at least 65%, but as high as 90% in the case of Johnson vs. Goldwater in 1964. He's probably still in that camp considering that in every presidential election for the last twenty years, American Jews have voted for the Democratic candidate just shy of 80% of the time.",
       "sourceTitle": "Jewish Voting Record: U.S. Presidential Elections.",
-      "text": "During the 60s and 70s, when he was growing up in New Jersey, the American Jewish vote for president went to Democrats by at least 65%, but as high as 90% in the case of Johnson vs. Goldwater in 1964. He's probably still in that camp considering that in every presidential election for the last twenty years, American Jews have voted for the Democratic candidate just shy of 80% of the time."
+      "sourceUrl": "http://www.jewishvirtuallibrary.org/jsource/US-Israel/jewvote.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.gallup.com/poll/153092/americans-continue-tilt-pro-israel.aspx",
+      "parentId": 12,
+      "type": "text",
+      "text": "Also, considering his family heritage, he almost certainly joins the 61% of Americans who view Israelis more favorably than Palestinians in the conflict in his mother's country of birth.",
       "sourceTitle": "Americans Continue to Tilt Pro-Israeli.",
-      "text": "Also, considering his family heritage, he almost certainly joins the 61% of Americans who view Israelis more favorably than Palestinians in the conflict in his mother's country of birth."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.gallup.com/poll/153092/americans-continue-tilt-pro-israel.aspx"
     }
   ],
   "wikipediaData": {

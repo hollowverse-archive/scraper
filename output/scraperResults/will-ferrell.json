@@ -34,106 +34,210 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Will Ferrell was born and raised in Irvine, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.myspace.com/will_ferrell",
+      "parentId": 2,
+      "type": "text",
+      "text": "There is no indication of Ferrell's religious upbringing, if there was one, and the only hard evidence of his current sentiments toward religion are on his MySpace page, where he calls himself an atheist.",
       "sourceTitle": "Will Ferrell on MySpace",
-      "text": "There is no indication of Ferrell's religious upbringing, if there was one, and the only hard evidence of his current sentiments toward religion are on his MySpace page, where he calls himself an atheist."
+      "sourceUrl": "http://www.myspace.com/will_ferrell"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=p9vTbvwoh34&feature=related",
+      "parentId": 3,
+      "type": "text",
+      "text": "It comes as no surprise though. Much of Ferrell's comedy revolves around skewering religion and religious people. Whether it makes fun of the rapture-happy, apocalypse"
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "-"
+    },
+    {
+      "type": "text",
+      "text": "prophesying fundamentalist Christians of America",
+      "parentId": 3,
       "sourceTitle": "Will Ferrell May 21 2011 Apocalypse",
-      "text": "It comes as no surprise though. Much of Ferrell's comedy revolves around skewering religion and religious people. Whether it makes fun of the rapture-happy, apocalypseprophesying fundamentalist Christians of America"
+      "sourceUrl": "http://www.youtube.com/watch?v=p9vTbvwoh34&feature=related"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://movieline.com/2011/06/29/will-ferrell-and-adam-mckay-sign-onto-semi-religious-screen-project-swear-to-god/",
+      "type": "text",
+      "text": "or satirizing those who claim to have seen God,",
+      "parentId": 3,
       "sourceTitle": "Will Ferrell Attached to Semi-Religious Comedy Swear To God",
-      "text": "or satirizing those who claim to have seen God,"
+      "sourceUrl": "http://movieline.com/2011/06/29/will-ferrell-and-adam-mckay-sign-onto-semi-religious-screen-project-swear-to-god/"
     },
     {
-      "type": "sentence",
-      "text": "Ferrell is pretty good at making fun."
+      "type": "text",
+      "text": "Ferrell is pretty good at making fun.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "break"
+      "parentId": 4,
+      "type": "text",
+      "text": "Perhaps his best role in this capacity was in the film"
+    },
+    {
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "Talladega"
+    },
+    {
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "Nights,"
+    },
+    {
+      "type": "text",
+      "text": "where he plays a NASCAR racer who prefers to pray to baby Jesus instead of dead-on-the cross Jesus. Of course, the film and his portrayal ruffled some religious feathers, with one critic saying:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://christwire.org/2011/07/has-comedian-will-ferrell-forsaken-americas-christians/",
-      "sourceTitle": "Has Comedian Will Ferrell Forsaken America's Christians",
-      "text": "[Talladega Nights] is a racist, bigoted work that ridicules southern, white Christian males. In one scene, the filmmakers sneeringly deride Southern Christians who say prayers to Jesus before dinner. The southern Christians come off as ignorant buffoons, and the figure of Jesus is a symbol ripe for condescending mockery."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "[Talladega Nights] is a racist, bigoted work that ridicules southern, white Christian males. In one scene, the filmmakers sneeringly deride Southern Christians who say prayers to Jesus before dinner. The southern Christians come off as ignorant buffoons, and the figure of Jesus is a symbol ripe for condescending mockery.",
+      "sourceTitle": "Has Comedian Will Ferrell Forsaken America's Christians",
+      "sourceUrl": "http://christwire.org/2011/07/has-comedian-will-ferrell-forsaken-americas-christians/"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Ouch."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Politics of snubbery"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Will_Ferrell.php",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "First of all, Ferrell is a Democrat. He made one political contribution in 2003 to Democratic presidential candidate Howard Dean.",
       "sourceTitle": "Will Ferrell's Federal Campaign Contribution Report",
-      "text": "First of all, Ferrell is a Democrat. He made one political contribution in 2003 to Democratic presidential candidate Howard Dean."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Will_Ferrell.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "text": "But more to the point, he loves trashing Republicans. His rendition of George W. Bush was a major hit, presumably for painting the president as a clueless, bumbling buffoon. But it wasn't just comedy for Ferrell. He snubbed invitations to the White House during the Bush years, saying:"
+      "parentId": 10,
+      "type": "text",
+      "text": "But more to the point, he loves trashing Republicans. His"
     },
     {
-      "type": "break"
+      "parentId": 10,
+      "type": "emphasis",
+      "text": "Saturday Night Live"
+    },
+    {
+      "type": "text",
+      "text": "rendition of George W. Bush was a major hit, presumably for painting the president as a clueless, bumbling buffoon. But it wasn't just comedy for Ferrell. He snubbed invitations to the White House during the Bush years, saying:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.avclub.com/articles/will-ferrell,14204/",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I had a couple of opportunities to go and meet [President Bush], and I declined, partly out of comedic purposes, because when I was on the show at the time, it didn't make sense to really meet the people that you play, for fear of them influencing you. And then the other side of it is, from a political standpoint, I don't want to meet that guy.",
       "sourceTitle": "Will Ferrell – Film Interview",
-      "text": "I had a couple of opportunities to go and meet [President Bush], and I declined, partly out of comedic purposes, because when I was on the show at the time, it didn't make sense to really meet the people that you play, for fear of them influencing you. And then the other side of it is, from a political standpoint, I don't want to meet that guy."
+      "sourceUrl": "http://www.avclub.com/articles/will-ferrell,14204/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://leanforward.msnbc.com/_news/2012/07/27/12989782-republican-primaries-helped-fuel-the-campaign-starring-will-ferrell-zach-galifianakis-says-director?lite",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Plus, Ferrell reported that the 2008 Republican primary debates inspired his character in the film,"
+    },
+    {
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "The Campaign,"
+    },
+    {
+      "type": "text",
+      "text": "to speak total nonsense",
+      "parentId": 13,
       "sourceTitle": "Republican primaries helped fuel 'The Campaign' starring Will Ferrell, Zach Galifianakis, says director",
-      "text": "Plus, Ferrell reported that the 2008 Republican primary debates inspired his character in the film,  to speak total nonsense"
+      "sourceUrl": "http://leanforward.msnbc.com/_news/2012/07/27/12989782-republican-primaries-helped-fuel-the-campaign-starring-will-ferrell-zach-galifianakis-says-director?lite"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.motherjones.com/mixed-media/2012/08/film-review-the-campaign-will-ferrell-zach-galifianakis-koch-brothers",
+      "type": "text",
+      "text": "and in the same film, Ferrell pitches in to make fun of the Tea Party's notorious Koch brothers.",
+      "parentId": 13,
       "sourceTitle": "his Will Ferrell Movie Pisses Off the Koch Brothers",
-      "text": "and in the same film, Ferrell pitches in to make fun of the Tea Party's notorious Koch brothers."
+      "sourceUrl": "http://www.motherjones.com/mixed-media/2012/08/film-review-the-campaign-will-ferrell-zach-galifianakis-koch-brothers"
     },
     {
-      "type": "sentence",
-      "text": "He said after making the film:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said after making the film:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://leanforward.msnbc.com/_news/2012/07/27/12989782-republican-primaries-helped-fuel-the-campaign-starring-will-ferrell-zach-galifianakis-says-director?lite",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Comedy is a great vehicle to get into [the truth behind politics].",
       "sourceTitle": "Republican primaries helped fuel 'The Campaign' starring Will Ferrell, Zach Galifianakis, says director",
-      "text": "Comedy is a great vehicle to get into [the truth behind politics]."
+      "sourceUrl": "http://leanforward.msnbc.com/_news/2012/07/27/12989782-republican-primaries-helped-fuel-the-campaign-starring-will-ferrell-zach-galifianakis-says-director?lite"
     }
   ],
   "wikipediaData": {

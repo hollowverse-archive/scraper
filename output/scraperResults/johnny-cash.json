@@ -35,95 +35,156 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Johnny Cash was born in Kingsland, Arkansas and raised in Dyess, Arkansas. He died in Nashville, Tennessee in 2003."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pc/Johnny_Cash.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Cash was a Baptist Christian.",
       "sourceTitle": "The religion of Johnny Cash, country music star",
-      "text": "Cash was a Baptist Christian."
+      "sourceUrl": "http://www.adherents.com/people/pc/Johnny_Cash.html"
     },
     {
-      "type": "sentence",
-      "text": "And when he professed his faith, it was at once poetic, sarcastic, and condemning. For example, Cash once said during an interview:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And when he professed his faith, it was at once poetic, sarcastic, and condemning. For example, Cash once said during an interview:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.thepoachedegg.net/the-poached-egg/2012/02/johnny-cash-as-a-believer-that-jesus-of-nazareth.html",
-      "sourceTitle": "Johnny Cash: As a believer that Jesus of Nazareth",
-      "text": "I, as a believer that Jesus of Nazareth, a Jew, the Christ of the Greeks, was the Anointed One of God (born of the seed of David, upon faith as Abraham had faith, and it was accounted to him for righteousness), am grafted onto the true vine, and am one of the heirs of God's covenant with Israel…I'm a Christian—Don't put me in another box."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I, as a believer that Jesus of Nazareth, a Jew, the Christ of the Greeks, was the Anointed One of God (born of the seed of David, upon faith as Abraham had faith, and it was accounted to him for righteousness), am grafted onto the true vine, and am one of the heirs of God's covenant with Israel…I'm a Christian—Don't put me in another box.",
+      "sourceTitle": "Johnny Cash: As a believer that Jesus of Nazareth",
+      "sourceUrl": "http://www.thepoachedegg.net/the-poached-egg/2012/02/johnny-cash-as-a-believer-that-jesus-of-nazareth.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Cash was always a conflicted soul. He struggled with drugs, alcohol, and women. But he seemed to keep his faith in his pocket. Cash knew he wasn't the perfect Christian, but he did his best. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.relevantmagazine.com/culture/music/features/20625-johnny-cashs-complicated-christianity",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "There's nothing hypocritical about it. There is a spiritual side to me that goes real deep, but I confess right up front that I'm the biggest sinner of them all.",
       "sourceTitle": "Johnny Cash's Complicated Faith",
-      "text": "There's nothing hypocritical about it. There is a spiritual side to me that goes real deep, but I confess right up front that I'm the biggest sinner of them all."
+      "sourceUrl": "http://www.relevantmagazine.com/culture/music/features/20625-johnny-cashs-complicated-christianity"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://borepatch.blogspot.com/2009/04/johnny-and-june-carter-cash-ring-of.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "At the very end of his life, just after his long-time wife June Carter Cash had died, Cash often said he would be seeing her soon in heaven.",
       "sourceTitle": "Johnny and June Carter Cash – Ring of Fire",
-      "text": "At the very end of his life, just after his long-time wife June Carter Cash had died, Cash often said he would be seeing her soon in heaven."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://borepatch.blogspot.com/2009/04/johnny-and-june-carter-cash-ring-of.html"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Black politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Cash was quite political, particularly with his music. Often known as the \"Man in Black,\" perhaps it is his song about why he always wore black that best describes his political positions. He sings:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 11
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=y0VvmiU9xZM",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I wear the black for the poor and beaten down/living in the hopeless, hungry side of town/I wear it for the prisoner who has long paid for his crime/but is there because he's a victim of the time.",
       "sourceTitle": "Johnny Cash-(man in black).",
-      "text": "I wear the black for the poor and beaten down/living in the hopeless, hungry side of town/I wear it for the prisoner who has long paid for his crime/but is there because he's a victim of the time."
+      "sourceUrl": "http://www.youtube.com/watch?v=y0VvmiU9xZM"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thenation.com/blog/johnny-cash-was-not-republican#",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Through his music, Cash fought against the injustice brought upon Native Americans, he spoke out against Vietnam, and he condemned racism and prejudice.",
       "sourceTitle": "Johnny Cash was NOT a Republican",
-      "text": "Through his music, Cash fought against the injustice brought upon Native Americans, he spoke out against Vietnam, and he condemned racism and prejudice."
+      "sourceUrl": "http://www.thenation.com/blog/johnny-cash-was-not-republican#"
     },
     {
-      "type": "sentence",
-      "text": "His ideals were the ideals of freedom and justice and an equal opportunity for all. Both sides of the political fence–while he was alive and after his death–tried to claim Cash as their own, but Johnny knew better. He stood for higher ideals than could be categorized as \"Republican\" or \"Democrat.\" His daughter, Rosanne, once said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "His ideals were the ideals of freedom and justice and an equal opportunity for all. Both sides of the political fence–while he was alive and after his death–tried to claim Cash as their own, but Johnny knew better. He stood for higher ideals than could be categorized as \"Republican\" or \"Democrat.\" His daughter, Rosanne, once said:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.rawstory.com/rs/2010/09/24/johnny-cash-distressed-iraq-invasion-death/",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "[My dad] didn't care where you stood politically… [he] could love all stripes, and that's why all stripes claim him.",
       "sourceTitle": "Johnny Cash disturbed about Iraq invasion before his death",
-      "text": "[My dad] didn't care where you stood politically… [he] could love all stripes, and that's why all stripes claim him."
+      "sourceUrl": "http://www.rawstory.com/rs/2010/09/24/johnny-cash-distressed-iraq-invasion-death/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "I like to think that Johnny was above politics and more about people and peace and happiness and cooperation."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

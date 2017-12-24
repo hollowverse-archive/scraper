@@ -28,57 +28,83 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kristen Stewart was born and raised in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Politically and religiously, Stewart is either incredibly boring or fascinatingly mysterious. I'm going to give her the benefit of the doubt and say mysterious. If there's one thing she's open about, it's that she doesn't want to be open about anything. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.gq-magazine.co.uk/girls/articles/2011-10/03/gq-girls-kristen-stewart-british-gq-cover-pictures-twilight-breaking-dawn/page/5",
-      "sourceTitle": "Kristen Stewart British GQ interview & photos",
-      "text": "I like to keep whatever is mine remaining that way… I guarantee whenever I get married or have a baby, everyone is going to want to know my kid's name and I'm not going to say it for ages… I'm glad I'm not one of those actresses who is just so ready to open up for everyone."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I like to keep whatever is mine remaining that way… I guarantee whenever I get married or have a baby, everyone is going to want to know my kid's name and I'm not going to say it for ages… I'm glad I'm not one of those actresses who is just so ready to open up for everyone.",
+      "sourceTitle": "Kristen Stewart British GQ interview & photos",
+      "sourceUrl": "http://www.gq-magazine.co.uk/girls/articles/2011-10/03/gq-girls-kristen-stewart-british-gq-cover-pictures-twilight-breaking-dawn/page/5"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "This leaves much about Stewart completely up to speculation. If I were to make some seriously uninformed conjectures, they would be that Kristen is not religious (she's from LA, perhaps the most non-religious place in all of America) and maybe even agnostic or atheist."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 6
     },
     {
-      "type": "heading",
+      "parentId": 6,
+      "type": "text",
       "text": "Politics of the underworld"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://lion-lamb.livejournal.com/3529195.html",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Stewart isn't going to give anyone her political positions either. She has, however, said she feels it's important to know about politics and not be intimidated by it.",
       "sourceTitle": "New translated interview with Kristen Stewart",
-      "text": "Stewart isn't going to give anyone her political positions either. She has, however, said she feels it's important to know about politics and not be intimidated by it."
+      "sourceUrl": "http://lion-lamb.livejournal.com/3529195.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://qariiway.buzznet.com/user/photos/kristen-stewart-smoking-marijuana/?id=47524101",
+      "parentId": 8,
+      "type": "text",
+      "text": "There is one thing that might, and I repeat might, put Stewart in the liberal category. She smokes the reefer.",
       "sourceTitle": "Kristen Stewart smoking marijuana photo Karina Simmons' photo",
-      "text": "There is one thing that might, and I repeat might, put Stewart in the liberal category. She smokes the reefer."
+      "sourceUrl": "http://qariiway.buzznet.com/user/photos/kristen-stewart-smoking-marijuana/?id=47524101"
     },
     {
-      "type": "sentence",
-      "text": "Generally, if you smoke pot, you'd probably advocate for legalizing it, which is a traditionally liberal (or libertarian) position."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Generally, if you smoke pot, you'd probably advocate for legalizing it, which is a traditionally liberal (or libertarian) position.",
+      "parentId": 8
     }
   ],
   "wikipediaData": {

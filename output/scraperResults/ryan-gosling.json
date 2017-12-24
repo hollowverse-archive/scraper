@@ -34,92 +34,143 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ryan Gosling was born in London, Ontario, Canada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Gosling grew up in a devout Mormon household. According to him, their religion affected nearly every facet of his family's life. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/culture/2007/feb/18/awardsandprizes.oscars",
-      "sourceTitle": "'I live on Skid Row. You can filter out reality there.'",
-      "text": "We were brought up pretty religious. My mother admits it: She says: 'you were raised by a religious zealot.' She's different now, but at the time, it was a part of everything – what they ate, how they thought."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "We were brought up pretty religious. My mother admits it: She says: 'you were raised by a religious zealot.' She's different now, but at the time, it was a part of everything – what they ate, how they thought.",
+      "sourceTitle": "'I live on Skid Row. You can filter out reality there.'",
+      "sourceUrl": "http://www.guardian.co.uk/culture/2007/feb/18/awardsandprizes.oscars"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Gosling admits that his upbringing, despite retaining the social lessons he's learned, hasn't stuck with him. He recounts the fact that his mother offered him a concession about his faith, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.beliefnet.com/Entertainment/Movies/2007/10/In-Love-With-A-Real-Doll.aspx",
-      "sourceTitle": "Interview with Ryan Gosling and Craig Gillespie of 'Lars and the Real Girl' film",
-      "text": "I wasn't really Mormon, my parents were. My mom was really cool. She said: 'This is an option, but this isn't the only option. This is an idea, but this isn't the only idea. You have to find your own truth. I never really could identify with [Mormonism]."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I wasn't really Mormon, my parents were. My mom was really cool. She said: 'This is an option, but this isn't the only option. This is an idea, but this isn't the only idea. You have to find your own truth. I never really could identify with [Mormonism].",
+      "sourceTitle": "Interview with Ryan Gosling and Craig Gillespie of 'Lars and the Real Girl' film",
+      "sourceUrl": "http://www.beliefnet.com/Entertainment/Movies/2007/10/In-Love-With-A-Real-Doll.aspx"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "It's impossible to say what Gosling's current religious views are, one might speculate agnostic as that is the route most often taken by former Mormons, but one thing is for certain: he isn't Mormon now."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nypost.com/p/pagesix/ryan_gosling_dui_arrest_revealed_dJIJLKdJLFe5hAAxHAeolO",
+      "parentId": 9,
+      "type": "text",
+      "text": "The Mormon church takes a very strict stance against things like drinking alcohol and Gosling was arrested in 2005 for a drunk driving incident.",
       "sourceTitle": "Ryan Gosling's 2005 DUI arrest revealed",
-      "text": "The Mormon church takes a very strict stance against things like drinking alcohol and Gosling was arrested in 2005 for a drunk driving incident."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.nypost.com/p/pagesix/ryan_gosling_dui_arrest_revealed_dJIJLKdJLFe5hAAxHAeolO"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "There's politics in Canada?"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nbcconnecticut.com/blogs/popcornbiz/Ides-of-Marchs--Ryan-Gosling-Got-Political-Education---and-a-Soaking---From-George-Clooney-131330989.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Gosling is Canadian and has admitted to not following U.S. politics.",
       "sourceTitle": "Ryan Gosling Got Political Education – and a Soaking – From George Clooney",
-      "text": "Gosling is Canadian and has admitted to not following U.S. politics."
+      "sourceUrl": "http://www.nbcconnecticut.com/blogs/popcornbiz/Ides-of-Marchs--Ryan-Gosling-Got-Political-Education---and-a-Soaking---From-George-Clooney-131330989.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.ca/2011/11/13/to-poli-wonk-ryan-gosling-blog-meme-hey-girl_n_1091289.html",
+      "type": "text",
+      "text": "However, his \"meme,\" as it is called, has been known to weigh-in on local Canadian political issues.",
+      "parentId": 11,
       "sourceTitle": "TO Poli Wonk Ryan Gosling Blog Tackles Toronto Politics With 'Hey Girl' Meme",
-      "text": "However, his \"meme,\" as it is called, has been known to weigh-in on local Canadian political issues."
+      "sourceUrl": "http://www.huffingtonpost.ca/2011/11/13/to-poli-wonk-ryan-gosling-blog-meme-hey-girl_n_1091289.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://seattletimes.nwsource.com/html/movies/2018134525_mr04regeneration.html?prmid=head_main",
-      "sourceTitle": "#ReGeneration: Film on citizen powerlessness lacks power",
+      "parentId": 12,
+      "type": "text",
       "text": "The one possible indicator of Gosling's political stance is a documentary he produced and narrated called"
     },
     {
-      "type": "sentence",
-      "text": "The film looks at a generation of young Americans who are so distracted by media and electronics that they have become largely apathetic to the problems of the real world. It makes a connection between this phenomenon and the Occupy Wall Street movement and, in doing so, endorses and legitimizes that movement while blaming bankers, corporations, and special interests for the economic and social woes facing the modern world."
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "ReGeneration."
     },
     {
-      "type": "break"
+      "type": "text",
+      "text": "The film looks at a generation of young Americans who are so distracted by media and electronics that they have become largely apathetic to the problems of the real world. It makes a connection between this phenomenon and the Occupy Wall Street movement and, in doing so, endorses and legitimizes that movement while blaming bankers, corporations, and special interests for the economic and social woes facing the modern world.",
+      "parentId": 12
     },
     {
-      "type": "sentence",
-      "text": "isn't just endorsed by by Gosling by virtue of his role in making it a reality, it shows Gosling marching alongside other OWS protestors. Nothing could be more indicative of liberalism than affiliating oneself with OWS, even if members of the Occupy movement might disagree."
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "ReGeneration"
+    },
+    {
+      "type": "text",
+      "text": "isn't just endorsed by by Gosling by virtue of his role in making it a reality, it shows Gosling marching alongside other OWS protestors. Nothing could be more indicative of liberalism than affiliating oneself with OWS, even if members of the Occupy movement might disagree.",
+      "parentId": 13
     }
   ],
   "wikipediaData": {

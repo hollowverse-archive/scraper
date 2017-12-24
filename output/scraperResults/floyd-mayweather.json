@@ -34,107 +34,192 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Floyd Mayweather was born and raised in Grand Rapids, Michigan."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianpost.com/news/floyd-mayweather-thanks-god-before-big-fight-vs-victor-ortiz-55840/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Mayweather is a Christian, and he makes it a point to thank God before and after fights.",
       "sourceTitle": "Floyd Mayweather Thanks God Before Big Fight vs. Victor Ortiz.",
-      "text": "Mayweather is a Christian, and he makes it a point to thank God before and after fights."
+      "sourceUrl": "http://www.christianpost.com/news/floyd-mayweather-thanks-god-before-big-fight-vs-victor-ortiz-55840/"
     },
     {
-      "type": "sentence",
-      "text": "He feels that God gave him talent as a boxer, and he owes the Big Man credit for picking him to succeed over his opponents:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He feels that God gave him talent as a boxer, and he owes the Big Man credit for picking him to succeed over his opponents:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.blackchristiannews.com/news/2012/05/floyd-mayweather-tells-michael-eric-dyson-that-he-is-god-gifted.html",
-      "sourceTitle": "Floyd Mayweather Tells Michael Eric Dyson that he is 'God-Gifted.'",
-      "text": "The difference between me and any other fighter is they're talented, I'm God-gifted. There's a difference. God gives certain individuals gifts and boxing is one of my gifts."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "The difference between me and any other fighter is they're talented, I'm God-gifted. There's a difference. God gives certain individuals gifts and boxing is one of my gifts.",
+      "sourceTitle": "Floyd Mayweather Tells Michael Eric Dyson that he is 'God-Gifted.'",
+      "sourceUrl": "http://www.blackchristiannews.com/news/2012/05/floyd-mayweather-tells-michael-eric-dyson-that-he-is-god-gifted.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "That doesn't mean he goes to church though. He says he'll go every once in a while, but there's always a bunch of fans who want to take pictures with him, and that apparently turns him off of the whole thing. He prefers to worship on his own:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 6
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.interviewmagazine.com/culture/floyd-mayweather/print",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Yeah, my spirituality is more private. . . . I've got my own personal relationship with God. I know that there's a God because I was able to survive everything that I've been through–all of the tough times–and I'm still at the top of my game.",
       "sourceTitle": "Floyd Mayweather Jr.",
-      "text": "Yeah, my spirituality is more private. . . . I've got my own personal relationship with God. I know that there's a God because I was able to survive everything that I've been through–all of the tough times–and I'm still at the top of my game."
+      "sourceUrl": "http://www.interviewmagazine.com/culture/floyd-mayweather/print"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "It's all about Obama"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=CQOGL-aAvSo",
-      "sourceTitle": "Mayweather talks about Obama, war in Iraq.",
-      "text": "America's first black president is the center of Mayweather's political universe. He says that every other time an election came around, he was busy doing something else. But in 2008 when Obama was running for his first term in office, he not only voted, but felt it was his duty to get everyone else he knew to vote."
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "break"
+      "parentId": 10,
+      "type": "text",
+      "text": "America's first black president is the center of Mayweather's political universe. He says that every other time an election came around, he was busy doing something else. But in 2008 when Obama was running for his first term in office, he not only voted, but felt it was his duty to get everyone else he knew to vote.",
+      "sourceTitle": "Mayweather talks about Obama, war in Iraq.",
+      "sourceUrl": "http://www.youtube.com/watch?v=CQOGL-aAvSo"
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=CQOGL-aAvSo",
-      "sourceTitle": "Mayweather speaks out on race, Pacquiao, Obama, Ali, Floyd Sr.",
-      "text": "Barack Obama is truly a great guy. A great guy. The coolest president that I ever met. He's got swag."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Barack Obama is truly a great guy. A great guy. The coolest president that I ever met. He's got swag.",
+      "sourceTitle": "Mayweather speaks out on race, Pacquiao, Obama, Ali, Floyd Sr.",
+      "sourceUrl": "http://www.youtube.com/watch?v=CQOGL-aAvSo"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "He even stood behind the President when he came out in support of gay marriage–which wasn't a very popular move in the black community. On Twitter, he wrote,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 14
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://offthebench.nbcsports.com/2012/05/16/floyd-mayweather-i-stand-behind-president-obama-support-gay-marriage/",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I stand behind President Obama & support gay marriage. I'm an American citizen & I believe people should live their life the way they want.",
       "sourceTitle": "Floyd Mayweather: 'I stand behind President Obama & support gay marriage.'",
-      "text": "I stand behind President Obama & support gay marriage. I'm an American citizen & I believe people should live their life the way they want."
+      "sourceUrl": "http://offthebench.nbcsports.com/2012/05/16/floyd-mayweather-i-stand-behind-president-obama-support-gay-marriage/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.vladtv.com/blog/38328/floyd-mayweather-meets-george-w-bush-and-jerry-jones/",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "But that doesn't mean he's got anything bad to say about Obama's Republican predecessor with whom he met in 2011.",
       "sourceTitle": "Floyd Mayweather Meets George W. Bush and Jerry Jones.",
-      "text": "But that doesn't mean he's got anything bad to say about Obama's Republican predecessor with whom he met in 2011."
+      "sourceUrl": "http://www.vladtv.com/blog/38328/floyd-mayweather-meets-george-w-bush-and-jerry-jones/"
     },
     {
-      "type": "sentence",
-      "text": "The boxer said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "The boxer said,",
+      "parentId": 16
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=CQOGL-aAvSo",
-      "sourceTitle": "Mayweather talks about Obama, war in Iraq.",
-      "text": "I'm not gonna say nothing bad about George Bush. George Bush ain't never said nothing bad about me so why should I say something bad about him?"
+      "id": 17
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I'm not gonna say nothing bad about George Bush. George Bush ain't never said nothing bad about me so why should I say something bad about him?",
+      "sourceTitle": "Mayweather talks about Obama, war in Iraq.",
+      "sourceUrl": "http://www.youtube.com/watch?v=CQOGL-aAvSo"
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "And he almost sounded like a pacifist when he talked about the Iraq War, except that he thinks it's a noble thing to fight for the country:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 20
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=CQOGL-aAvSo",
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "I believe the best way to solve problems is by sitting down and talking. I mean, a bunch of innocent people are getting killed and out there fighting and they don't know what they're fighting for. But. . . I'm glad they're fighting for this country. . . and I want everybody to come home safe.",
       "sourceTitle": "Mayweather talks about Obama, war in Iraq.",
-      "text": "I believe the best way to solve problems is by sitting down and talking. I mean, a bunch of innocent people are getting killed and out there fighting and they don't know what they're fighting for. But. . . I'm glad they're fighting for this country. . . and I want everybody to come home safe."
+      "sourceUrl": "http://www.youtube.com/watch?v=CQOGL-aAvSo"
     }
   ],
   "wikipediaData": {

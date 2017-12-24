@@ -33,117 +33,176 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Agatha Christie was born and raised in Torquay, Devon, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www25.brinkster.com/agathachristie/agatha_christies_biography.asp",
+      "parentId": 2,
+      "type": "text",
+      "text": "Christie was a member of the Church of England. She was baptized as an infant,",
       "sourceTitle": "Agatha Christie's Biography.",
-      "text": "Christie was a member of the Church of England. She was baptized as an infant,"
+      "sourceUrl": "http://www25.brinkster.com/agathachristie/agatha_christies_biography.asp"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.firstthings.com/onthesquare/2009/08/the-christian-world-of-agatha-christie",
+      "type": "text",
+      "text": "but stopped taking communion in the church after her divorce with her first husband.",
+      "parentId": 2,
       "sourceTitle": "The Christian World of Agatha Christie.",
-      "text": "but stopped taking communion in the church after her divorce with her first husband."
+      "sourceUrl": "http://www.firstthings.com/onthesquare/2009/08/the-christian-world-of-agatha-christie"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.firstthings.com/onthesquare/2009/08/the-christian-world-of-agatha-christie",
+      "parentId": 3,
+      "type": "text",
+      "text": "The mystery writer's books don't discuss religion very frequently or deeply, but some choose to interpret her crime novels as metaphors for original sin (everyone's guilty of something), the triumph of Good over Evil, and the Biblical concept of morality.",
       "sourceTitle": "The Christian World of Agatha Christie.",
-      "text": "The mystery writer's books don't discuss religion very frequently or deeply, but some choose to interpret her crime novels as metaphors for original sin (everyone's guilty of something), the triumph of Good over Evil, and the Biblical concept of morality."
+      "sourceUrl": "http://www.firstthings.com/onthesquare/2009/08/the-christian-world-of-agatha-christie"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.gwthomas.org/murderinmeso.htm",
+      "type": "text",
+      "text": "Her stories also dabble in the occult, with her use of psychics as characters for instance, but many essayists dismiss her interest in that form of spirituality as an intellectual curiosity and not to be taken seriously.",
+      "parentId": 3,
       "sourceTitle": "Murder in Mesopotamia: Agatha Christie & Archaeology.",
-      "text": "Her stories also dabble in the occult, with her use of psychics as characters for instance, but many essayists dismiss her interest in that form of spirituality as an intellectual curiosity and not to be taken seriously."
+      "sourceUrl": "http://www.gwthomas.org/murderinmeso.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Christie did not talk much about her faith in public, but from the few quotes we do have, it seems she found comfort in religion. In her autobiography she recounts something told to her by a teacher: To love, as Jesus loved, is to be Christian. Likewise, to despair, as Jesus did, is to be Christian. If you do neither, then you do not know what it means to live the Christian life. About that story, Christie wrote,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.firstthings.com/onthesquare/2009/08/the-christian-world-of-agatha-christie",
-      "sourceTitle": "The Christian World of Agatha Christie.",
-      "text": "Years later [those words] were to come back to me and give me hope at a time when despair had me in its grip."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Years later [those words] were to come back to me and give me hope at a time when despair had me in its grip.",
+      "sourceTitle": "The Christian World of Agatha Christie.",
+      "sourceUrl": "http://www.firstthings.com/onthesquare/2009/08/the-christian-world-of-agatha-christie"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "And so, at the end of the day, it looks like Agatha Christie went to bed as a Christian."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Conservative of the Old Order"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://inside.org.au/reading-agatha-christie/",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Depending on who you ask, Christie either had no \"coherent political position,\"",
       "sourceTitle": "Reading Agatha Christie.",
-      "text": "Depending on who you ask, Christie either had no \"coherent political position,\""
+      "sourceUrl": "http://inside.org.au/reading-agatha-christie/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://mikegrost.com/chris1.htm#Themes",
+      "type": "text",
+      "text": "was \"actually fairly liberal,\"",
+      "parentId": 9,
       "sourceTitle": "Agatha Christie – by Michael E. Grost.",
-      "text": "was \"actually fairly liberal,\""
+      "sourceUrl": "http://mikegrost.com/chris1.htm#Themes"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://johannhari.com/2003/10/04/agatha-christie-radical-conservative-thinker/",
+      "type": "text",
+      "text": "or her novels are thinly veiled propaganda for Burkean conservatism.",
+      "parentId": 9,
       "sourceTitle": "Agatha Christie – radical conservative thinker.",
-      "text": "or her novels are thinly veiled propaganda for Burkean conservatism."
+      "sourceUrl": "http://johannhari.com/2003/10/04/agatha-christie-radical-conservative-thinker/"
     },
     {
-      "type": "sentence",
-      "text": "I'm partial to that last view, but feel free to argue with me in the comments."
+      "type": "text",
+      "text": "I'm partial to that last view, but feel free to argue with me in the comments.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "text": "Johann Hari argues in  that Christie believed morality should be enforced on an individual level, not mandated by the state. She preferred the old order and was suspicious of change on a grand level as that related to a Nazi takeover of Europe or feminism. In the 1960s, when asked her views on women in the workplace, she said,"
+      "parentId": 10,
+      "type": "text",
+      "text": "Johann Hari argues in"
     },
     {
-      "type": "break"
+      "parentId": 10,
+      "type": "link",
+      "text": "this essay",
+      "sourceUrl": "http://johannhari.com/2003/10/04/agatha-christie-radical-conservative-thinker/"
+    },
+    {
+      "type": "text",
+      "text": "that Christie believed morality should be enforced on an individual level, not mandated by the state. She preferred the old order and was suspicious of change on a grand level as that related to a Nazi takeover of Europe or feminism. In the 1960s, when asked her views on women in the workplace, she said,",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://johannhari.com/2003/10/04/agatha-christie-radical-conservative-thinker/",
-      "sourceTitle": "Agatha Christie – radical conservative thinker.",
-      "text": "[It is] the foolishness of women in relinquishing their position of privilege obtained after many centuries of civilization. Primitive women toil incessantly. We seem determined to return to that state voluntarily."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "[It is] the foolishness of women in relinquishing their position of privilege obtained after many centuries of civilization. Primitive women toil incessantly. We seem determined to return to that state voluntarily.",
+      "sourceTitle": "Agatha Christie – radical conservative thinker.",
+      "sourceUrl": "http://johannhari.com/2003/10/04/agatha-christie-radical-conservative-thinker/"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "As that quote betrays, her old order was based on class divisions of which she was the benefactor. It also informed the racism and antisemitism that make some of her passages unpalatable today."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "Her worldview was from another time and place, one that no longer gets invited to the main stage of the political arena. So even though her books have long outlasted Christie herself, her world order is long gone."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

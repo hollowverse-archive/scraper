@@ -30,36 +30,44 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Niall Horan was born in Mullingar, County Westmeath, Ireland."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://niallhorandaily.net/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Like most Irish, Horan is Catholic and attended Coláiste Mhuire, an all-boys Catholic school growing up.",
       "sourceTitle": "Your Daily Source for everything Niall Horan",
-      "text": "Like most Irish, Horan is Catholic and attended Coláiste Mhuire, an all-boys Catholic school growing up."
+      "sourceUrl": "http://niallhorandaily.net/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Horan hasn't spoken about his faith so it's impossible to tell the level of his devotion to the Catholic church."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hollywoodlife.com/2012/05/07/niall-horan-one-direction-heels-video/",
+      "parentId": 4,
+      "type": "text",
+      "text": "Politically, there is absolutely no clues as to whether Horan would lean more liberal or conservative except for a video of him wearing high-heeled shoes–perhaps a sign that he is somewhat liberal, at least when it comes to cross-dressing?",
       "sourceTitle": "Niall Horan High Heels: One Direction Bandmate Prances In Pumps",
-      "text": "Politically, there is absolutely no clues as to whether Horan would lean more liberal or conservative except for a video of him wearing high-heeled shoes–perhaps a sign that he is somewhat liberal, at least when it comes to cross-dressing?"
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.hollywoodlife.com/2012/05/07/niall-horan-one-direction-heels-video/"
     }
   ],
   "wikipediaData": {

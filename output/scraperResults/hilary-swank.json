@@ -33,94 +33,165 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Hilary Swank was born in Bellingham, Washington. She grew up there and in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Swank considers herself a spiritual, but has never been an adherent of any particular organized religion. While talking about a movie in which she played a former theologian who lost her faith, she said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.wildaboutmovies.com/interviews/Hilary-Swank-InterviewReapingMovie.php",
-      "sourceTitle": "Hilary-Swank-Interview, Reaping Movie.",
-      "text": "Well, I believe in a higher power. I was not baptized, or into organized religion, and all of that, but it's definitely interesting."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Well, I believe in a higher power. I was not baptized, or into organized religion, and all of that, but it's definitely interesting.",
+      "sourceTitle": "Hilary-Swank-Interview, Reaping Movie.",
+      "sourceUrl": "http://www.wildaboutmovies.com/interviews/Hilary-Swank-InterviewReapingMovie.php"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Swank mentioned that she respects both the scientific and religious communities' explanations for the world's mysteries, but she stopped short of saying that she believes in miracles. She said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.wildaboutmovies.com/interviews/Hilary-Swank-InterviewReapingMovie.php",
-      "sourceTitle": "Hilary-Swank-Interview, Reaping Movie.",
-      "text": "I've seen in my own life, just a lot of things that have happened that have been, I wouldn't say miraculous, but I would just say a blessing. And I think maybe I have a lot of luck. I had to work really hard, but there's a lot of luck. But I haven't, myself, witnessed a miracle."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I've seen in my own life, just a lot of things that have happened that have been, I wouldn't say miraculous, but I would just say a blessing. And I think maybe I have a lot of luck. I had to work really hard, but there's a lot of luck. But I haven't, myself, witnessed a miracle.",
+      "sourceTitle": "Hilary-Swank-Interview, Reaping Movie.",
+      "sourceUrl": "http://www.wildaboutmovies.com/interviews/Hilary-Swank-InterviewReapingMovie.php"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "It almost sounds like she's a little bit agnostic towards some aspects of religion, but I can't put words in her mouth. So we'll just put her in the spiritual, not religious category for now."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Shame on Swank"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Swank prefers not to let her political persuasions be known. When asked who she was voting for in the 2008 election, she said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.time.com/time/arts/article/0,8599,1604012,00.html",
-      "sourceTitle": "More Questions for Hilary Swank.",
-      "text": "I don't usually talk about my politics as a general rule."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I don't usually talk about my politics as a general rule.",
+      "sourceTitle": "More Questions for Hilary Swank.",
+      "sourceUrl": "http://www.time.com/time/arts/article/0,8599,1604012,00.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Despite her general rule, she did express her support for gay marriage. After Vice President Joe Biden put his political weight behind the issue, she said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.tvguide.com/News/VIDEO-Debra-Messing-1047334.aspx",
-      "sourceTitle": "Debra Messing, Glenn Close, Hilary Swank React to Marriage Equality News.",
-      "text": "I feel like it's phenomenal. I think it's a big positive step forward and one we should have been way past."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I feel like it's phenomenal. I think it's a big positive step forward and one we should have been way past.",
+      "sourceTitle": "Debra Messing, Glenn Close, Hilary Swank React to Marriage Equality News.",
+      "sourceUrl": "http://www.tvguide.com/News/VIDEO-Debra-Messing-1047334.aspx"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "So she's probably liberal, but my guess is that she's not all that political, because if she was, she might not have gotten herself into a mess with Ramzan Kadyrov, the Chechen head of state who has been accused of human rights violations. Swank was paid to attend the leader's birthday party in 2011 with a few other celebrities, apparently unaware of the controversy surrounding him. After the Human Rights Foundation raised questions about her appearance, she publicly apologized saying,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://popwatch.ew.com/2011/12/03/hilary-swank-chechnya-apology-tonight-show/",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Shame on me. The bottom line is I should know where I'm going and I should do better research.",
       "sourceTitle": "Hilary Swank apologizes for Chechnya appearance on 'The Tonight Show.'",
-      "text": "Shame on me. The bottom line is I should know where I'm going and I should do better research."
+      "sourceUrl": "http://popwatch.ew.com/2011/12/03/hilary-swank-chechnya-apology-tonight-show/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "Her lack of knowledge about Chechnya's political situation isn't unusual for an American, but the fact that she traveled to the other side of the world for a birthday party for a man she didn't bother to Google might indicate that she's not too tapped into global politics."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

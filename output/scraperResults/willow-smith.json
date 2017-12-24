@@ -31,83 +31,115 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Willow Smith was born in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2008/09/16/will-smith-i-am-not-a-sci_n_126826.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Willow's religion, well, it could be about anything. Her parents, who have been rumored to be Scientologists but denied it,",
       "sourceTitle": "Will Smith: \"I Am Not\" A Scientologist",
-      "text": "Willow's religion, well, it could be about anything. Her parents, who have been rumored to be Scientologists but denied it,"
+      "sourceUrl": "http://www.huffingtonpost.com/2008/09/16/will-smith-i-am-not-a-sci_n_126826.html"
     },
     {
-      "type": "sentence",
-      "text": "are so religiously open-minded that their brains might fall out. Check out the Hollowverse profile of Will Smith."
+      "type": "text",
+      "text": "are so religiously open-minded that their brains might fall out. Check out the Hollowverse profile of Will Smith.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://sandrarose.com/2012/05/will-smith-says-his-kids-wont-break-under-the-weight-of-independence/",
+      "parentId": 3,
+      "type": "text",
+      "text": "We do know that Willow's parents are surely not going to push any belief system on her. They are notorious for the freedom they allow her.",
       "sourceTitle": "Will Smith Says his kids won't 'break' under the weight of independence",
-      "text": "We do know that Willow's parents are surely not going to push any belief system on her. They are notorious for the freedom they allow her."
+      "sourceUrl": "http://sandrarose.com/2012/05/will-smith-says-his-kids-wont-break-under-the-weight-of-independence/"
     },
     {
-      "type": "sentence",
-      "text": "Her mother, Jada Pinkett Smith, said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Her mother, Jada Pinkett Smith, said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/nico-lang/willow-smith-buzzcut_b_2206775.html",
-      "sourceTitle": "Nico Lang: Willow Smith and Female Body Image: Why Girls Have the Right To Own Themselves",
-      "text": "I made a promise to endow my little girl with the power to always know that her body, spirit and her mind are her domain."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I made a promise to endow my little girl with the power to always know that her body, spirit and her mind are her domain.",
+      "sourceTitle": "Nico Lang: Willow Smith and Female Body Image: Why Girls Have the Right To Own Themselves",
+      "sourceUrl": "http://www.huffingtonpost.com/nico-lang/willow-smith-buzzcut_b_2206775.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Much has yet to be seen with this young star. Keep us updated in the comments."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Politics? Really?"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Smith will not be able to vote until the mid-term elections in 2018. Furthermore, I submit that the political views of tweens are not only irrelevant, but likely quite stupid, or at least, painfully uninformed."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=DoYmY4luQoE",
+      "parentId": 9,
+      "type": "text",
+      "text": "That being said, we know that her father is a Democrat and an Obama supporter.",
       "sourceTitle": "Will Smith on Obama",
-      "text": "That being said, we know that her father is a Democrat and an Obama supporter."
+      "sourceUrl": "http://www.youtube.com/watch?v=DoYmY4luQoE"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.aceshowbiz.com/news/view/00040043.html",
+      "type": "text",
+      "text": "And Willow has performed at the White House under the Obama administration.",
+      "parentId": 9,
       "sourceTitle": "Video: Willow Smith's Performance at White House Easter Egg Roll.",
-      "text": "And Willow has performed at the White House under the Obama administration."
+      "sourceUrl": "http://www.aceshowbiz.com/news/view/00040043.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "So, I guess we've got ourselves a little Democrat."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

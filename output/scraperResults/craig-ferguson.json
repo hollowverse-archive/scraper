@@ -37,95 +37,179 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Craig Ferguson was born and raised in Cumbernauld, Scotland."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Ferguson grew up as a Scottish Presbyterian, but his memories of religion growing up aren't very rosy. He said that the bitter conflict between Protestants and Catholics in northern Ireland, which spread into western Scotland, was what defined his initial views of religion:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I had a strange relationship with it because, when I was growing up in Scotland, religion was a divisive jumping off point for violence. . . . There was a lot of arguments about that, so I always equated religion and the church with being something that somehow connected to danger and violence. . . . I had very mixed feelings about it growing up.",
+      "sourceTitle": "Craig Ferguson, Host of The Late Late Show.",
+      "sourceUrl": "http://gothamist.com/2007/04/09/craig_ferguson.php"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "As an adult, although he said he's flirted with atheism, he sounds more agnostic. He said about writing his book,"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "American on Purpose: The Improbable Adventures of an Unlikely Patriot"
+    },
+    {
+      "type": "text",
+      "text": ",",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://gothamist.com/2007/04/09/craig_ferguson.php",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "As I started writing the book, I think I was probably if not an Atheist then very close to it, but, through the writing of the book, I think that cracked it open a little bit and I became less convinced of any kind of belief.",
       "sourceTitle": "Craig Ferguson, Host of The Late Late Show.",
-      "text": "I had a strange relationship with it because, when I was growing up in Scotland, religion was a divisive jumping off point for violence. . . . There was a lot of arguments about that, so I always equated religion and the church with being something that somehow connected to danger and violence. . . . I had very mixed feelings about it growing up."
+      "sourceUrl": "http://gothamist.com/2007/04/09/craig_ferguson.php"
     },
     {
-      "type": "sentence",
-      "text": "As an adult, although he said he's flirted with atheism, he sounds more agnostic. He said about writing his book, ,"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://gothamist.com/2007/04/09/craig_ferguson.php",
-      "sourceTitle": "Craig Ferguson, Host of The Late Late Show.",
-      "text": "As I started writing the book, I think I was probably if not an Atheist then very close to it, but, through the writing of the book, I think that cracked it open a little bit and I became less convinced of any kind of belief."
-    },
-    {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=dWAyLvSbLcE",
+      "parentId": 8,
+      "type": "text",
+      "text": "He sees the positive role religion can play in people's lives, like its ability to \"combat fear of the unknown.\"",
       "sourceTitle": "Bill Maher – Craig Ferguson, Religion.",
-      "text": "He sees the positive role religion can play in people's lives, like its ability to \"combat fear of the unknown.\""
+      "sourceUrl": "http://www.youtube.com/watch?v=dWAyLvSbLcE"
     },
     {
-      "type": "sentence",
-      "text": "He knocked religion more for man's interpretation of the word of God, than for the idea of God Himself. He said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He knocked religion more for man's interpretation of the word of God, than for the idea of God Himself. He said,",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/author/quotes/77426.Craig_Ferguson?format=html&page=3",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "The Bible has been through at least half a dozen translations by the time you read it. Plus, when the word of God is infected by the hand of man, that is, written down, it is tainted.",
       "sourceTitle": "Craig Ferguson (Author of American on Purpose) (page 3 of 3).",
-      "text": "The Bible has been through at least half a dozen translations by the time you read it. Plus, when the word of God is infected by the hand of man, that is, written down, it is tainted."
+      "sourceUrl": "http://www.goodreads.com/author/quotes/77426.Craig_Ferguson?format=html&page=3"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Descent and Patriotism"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Ferguson doesn't seem very interested in sharing his partisan opinions regarding American politics. Why he became an American citizen is something he's more apt to discuss. He said that the beauty of his adopted country is that disagreeing over politics is patriotic:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/author/quotes/77426.Craig_Ferguson?format=html&page=3",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "We must never mistake disagreement between Americans on political or moral issues to be an indication of their level of patriotism. If you don't like what I say or don't agree with where I stand on certain issues, then good. I'm glad we're in America, and don't have to oppress each other over it. We're not just a nation, we're not an ethnicity. We are a dream of justice that people have had for a thousand years.",
       "sourceTitle": "Craig Ferguson Quotes (Author of American on Purpose) (page 3 of 3).",
-      "text": "We must never mistake disagreement between Americans on political or moral issues to be an indication of their level of patriotism. If you don't like what I say or don't agree with where I stand on certain issues, then good. I'm glad we're in America, and don't have to oppress each other over it. We're not just a nation, we're not an ethnicity. We are a dream of justice that people have had for a thousand years."
+      "sourceUrl": "http://www.goodreads.com/author/quotes/77426.Craig_Ferguson?format=html&page=3"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://politicalhumor.about.com/od/barackobama/a/obamajokes.htm",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "But he also said that he has \"a deep and profound mistrust of all politicians,\" so it's not like everything's all peachy in politics for Ferguson. He'll make fun of Republicans and Democrats alike, but the jokes are mostly fairly tame.",
       "sourceTitle": "Barack Obama Jokes – Late-Night Jokes about President Obama.",
-      "text": "But he also said that he has \"a deep and profound mistrust of all politicians,\" so it's not like everything's all peachy in politics for Ferguson. He'll make fun of Republicans and Democrats alike, but the jokes are mostly fairly tame."
+      "sourceUrl": "http://politicalhumor.about.com/od/barackobama/a/obamajokes.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "About U.K. politics, I found nothing from Ferguson except a few statements indicating he doesn't have a lot of love for it. I suppose he became an expat for a reason. He said about the religious/political conflict he witnessed in his youth,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 18
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/author/quotes/77426.Craig_Ferguson?format=html&page=2",
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "That's why I believe in a Constitution which separates church from state. I've seen what happens when they get in cahoots.",
       "sourceTitle": "Craig Ferguson Quotes (Author of American on Purpose) (page 2 of 3).",
-      "text": "That's why I believe in a Constitution which separates church from state. I've seen what happens when they get in cahoots."
+      "sourceUrl": "http://www.goodreads.com/author/quotes/77426.Craig_Ferguson?format=html&page=2"
     }
   ],
   "wikipediaData": {

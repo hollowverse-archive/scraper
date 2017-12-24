@@ -7,7 +7,6 @@ import {
   readDir,
   glob,
   writeFile,
-  hasKey,
   removeFile,
   readFile,
   readJsonFile,
@@ -147,12 +146,7 @@ async function main({
     async onTaskCompleted(result, { postName, filePath }) {
       const outputFile = path.join(output, `${postName}.json`);
       if (!dry) {
-        if (
-          (remove &&
-            (hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData') &&
-              isEmpty(result.wikipediaData))) ||
-          !hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData')
-        ) {
+        if (wikipedia && remove && isEmpty(result.wikipediaData)) {
           await removeFile(outputFile).catch(() => null);
         } else {
           await writeFile(outputFile, JSON.stringify(result, undefined, 2));
@@ -169,7 +163,7 @@ async function main({
   );
 
   const missingData = results.filter(result => {
-    if (hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData')) {
+    if (result.wikipediaData !== undefined) {
       return isEmpty(result.wikipediaData);
     }
 
@@ -193,7 +187,7 @@ async function main({
   }
 
   const missingImages = results.filter(result => {
-    if (hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData')) {
+    if (result.wikipediaData !== undefined) {
       return (
         !isEmpty(result.wikipediaData) &&
         result.wikipediaData.isDisambiguation === false &&
@@ -216,7 +210,7 @@ async function main({
   }
 
   const areDisambiguationPages = results.filter(result => {
-    if (hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData')) {
+    if (result.wikipediaData !== undefined) {
       return (
         !isEmpty(result.wikipediaData) &&
         result.wikipediaData.isDisambiguation === true
@@ -233,7 +227,7 @@ async function main({
     );
 
     areDisambiguationPages.forEach(result => {
-      if (hasKey<WikipediaData, 'wikipediaData'>(result, 'wikipediaData')) {
+      if (result.wikipediaData !== undefined) {
         console.log(`  * ${result.name} (${result.wikipediaData.url})`);
       }
     });

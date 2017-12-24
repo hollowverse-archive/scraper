@@ -34,146 +34,243 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Lindsay Lohan was born in New York City and grew up in Merrick and Cold Spring Harbor, both towns on Long Island, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0517820/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Lohan's heritage is both Irish and Italian,",
       "sourceTitle": "Lindsay Lohan – Biography",
-      "text": "Lohan's heritage is both Irish and Italian,"
+      "sourceUrl": "http://www.imdb.com/name/nm0517820/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1158246/Lindsay-Lohan-visits-synagogue-attempts-convert-Judaism-girlfriend-Samantha-Ronson.html",
+      "type": "text",
+      "text": "so it's no surprise that she was raised a Catholic. Her roots in that religion go back quite far, (likely hundreds of years–if not more) and her great-grandfather, John L. Sullivan, was a founder of The Long Island Pro Life Party.",
+      "parentId": 2,
       "sourceTitle": "Lindsay Lohan visits synagogue after she attempts to convert to Judaism for girlfriend Samantha Ronson",
-      "text": "so it's no surprise that she was raised a Catholic. Her roots in that religion go back quite far, (likely hundreds of years–if not more) and her great-grandfather, John L. Sullivan, was a founder of The Long Island Pro Life Party."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1158246/Lindsay-Lohan-visits-synagogue-attempts-convert-Judaism-girlfriend-Samantha-Ronson.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1158246/Lindsay-Lohan-visits-synagogue-attempts-convert-Judaism-girlfriend-Samantha-Ronson.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Lohan has experimented with various religions in her media-soaked, tumultuous career. She looked into Kabbalah and Scientology, though her closest call was a near-conversion to Judaism for the sake of her former girlfriend Samantha Ronson.",
       "sourceTitle": "Lindsay Lohan visits synagogue after she attempts to convert to Judaism for girlfriend Samantha Ronson",
-      "text": "Lohan has experimented with various religions in her media-soaked, tumultuous career. She looked into Kabbalah and Scientology, though her closest call was a near-conversion to Judaism for the sake of her former girlfriend Samantha Ronson."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1158246/Lindsay-Lohan-visits-synagogue-attempts-convert-Judaism-girlfriend-Samantha-Ronson.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1158246/Lindsay-Lohan-visits-synagogue-attempts-convert-Judaism-girlfriend-Samantha-Ronson.html",
+      "type": "text",
+      "text": "During the relationship, she updated her Facebook status at one point with a simple: \"I'm converting\" and when asked by paparazzi at a synagogue if she would be changing religions, she replied: \"I'm trying.\"",
+      "parentId": 3,
       "sourceTitle": "Lindsay Lohan visits synagogue after she attempts to convert to Judaism for girlfriend Samantha Ronson",
-      "text": "During the relationship, she updated her Facebook status at one point with a simple: \"I'm converting\" and when asked by paparazzi at a synagogue if she would be changing religions, she replied: \"I'm trying.\""
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1158246/Lindsay-Lohan-visits-synagogue-attempts-convert-Judaism-girlfriend-Samantha-Ronson.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.tmz.com/2011/05/06/lindsay-lohan-church-of-scientology-not-a-scientologist/",
+      "parentId": 4,
+      "type": "text",
+      "text": "The relationship with Ronson didn't last, however, and most recently, she's declared that she she will be remaining a Catholic.",
       "sourceTitle": "Lindsay Lohan – I'm No Scientologist!",
-      "text": "The relationship with Ronson didn't last, however, and most recently, she's declared that she she will be remaining a Catholic."
+      "sourceUrl": "http://www.tmz.com/2011/05/06/lindsay-lohan-church-of-scientology-not-a-scientologist/"
     },
     {
-      "type": "sentence",
-      "text": "Though, given her shenanigans, it wouldn't be too difficult to question her level of devotion to the moral precepts of that faith–or any formal faith for that matter."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Though, given her shenanigans, it wouldn't be too difficult to question her level of devotion to the moral precepts of that faith–or any formal faith for that matter.",
+      "parentId": 4
     },
     {
       "type": "heading",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Flip-flopping Lohan"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Lohan is a bit back and forth when it comes to politics. Early in her career, she said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0517820/bio",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I don't like to talk about politics. If you say you're a Democrat, that'll turn off Republicans, and that's half of your fan base.",
       "sourceTitle": "Lindsay Lohan – Biography",
-      "text": "I don't like to talk about politics. If you say you're a Democrat, that'll turn off Republicans, and that's half of your fan base."
+      "sourceUrl": "http://www.imdb.com/name/nm0517820/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=7xqDKKcdra8",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "But that didn't last long. In 2008, she endorsed Obama, though it seems as though it was more about not liking Republican vice-Presidential candidate Sarah Palin. Lohan said, (misquoting Palin, incidentally",
       "sourceTitle": "Sarah Palin – Pitbull wearing Lipstick",
-      "text": "But that didn't last long. In 2008, she endorsed Obama, though it seems as though it was more about not liking Republican vice-Presidential candidate Sarah Palin. Lohan said, (misquoting Palin, incidentally"
+      "sourceUrl": "http://www.youtube.com/watch?v=7xqDKKcdra8"
     },
     {
-      "type": "sentence",
-      "text": "):"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "):",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.showbizspy.com/article/163257/lindsay-lohan-lashes-out-at-sarah-palin.html",
-      "sourceTitle": "Lindsay Lohan Lashes Out At Sarah Palin",
-      "text": "I really cannot bite my tongue anymore when it comes to Sarah Palin… I would have liked to have remained impartial, however I am afraid that the 'lipstick on a pig' comments will overshadow the issues and the fact that I believe Barack Obama is the best choice, in this election, for president."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I really cannot bite my tongue anymore when it comes to Sarah Palin… I would have liked to have remained impartial, however I am afraid that the 'lipstick on a pig' comments will overshadow the issues and the fact that I believe Barack Obama is the best choice, in this election, for president.",
+      "sourceTitle": "Lindsay Lohan Lashes Out At Sarah Palin",
+      "sourceUrl": "http://www.showbizspy.com/article/163257/lindsay-lohan-lashes-out-at-sarah-palin.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Well, Lohan changed her tune in 2012 when she endorsed Mitt Romney. Indicating she'd given some real thought to the issue, Lohan said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.foxnews.com/entertainment/2012/10/23/lindsay-lohan-tweets-support-for-president-weeks-after-backing-romney/",
-      "sourceTitle": "Lindsay Lohan tweets support for President Obama weeks after backing Mitt Romney",
-      "text": "I think unemployment is very important for now, so as of now I think [my vote] is Mitt Romney."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I think unemployment is very important for now, so as of now I think [my vote] is Mitt Romney.",
+      "sourceTitle": "Lindsay Lohan tweets support for President Obama weeks after backing Mitt Romney",
+      "sourceUrl": "http://www.foxnews.com/entertainment/2012/10/23/lindsay-lohan-tweets-support-for-president-weeks-after-backing-romney/"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "A couple of weeks later, however, Lohan tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.foxnews.com/entertainment/2012/10/23/lindsay-lohan-tweets-support-for-president-weeks-after-backing-romney/",
-      "sourceTitle": "Lindsay Lohan tweets support for President Obama weeks after backing Mitt Romney",
-      "text": "RT @BarackObama: RT if you're #ProudOfObama as our commander in chief."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "RT @BarackObama: RT if you're #ProudOfObama as our commander in chief.",
+      "sourceTitle": "Lindsay Lohan tweets support for President Obama weeks after backing Mitt Romney",
+      "sourceUrl": "http://www.foxnews.com/entertainment/2012/10/23/lindsay-lohan-tweets-support-for-president-weeks-after-backing-romney/"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "The pro-Obama tweet quickly disappeared off of Lohan's twitter feed and it was assumed that she was back to being a Romney supporter."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
+      "parentId": 19,
+      "type": "text",
       "text": "When you add it all up, though, Lohan seems a bit more on the side of liberals and Democrats–particularly as a result of her stance on homosexuality and that she took issue with the Republican view. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.showbizspy.com/article/163257/lindsay-lohan-lashes-out-at-sarah-palin.html",
+      "id": 20
+    },
+    {
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "Is it a sin to be gay? Should it be a sin to be straight? Or to use birth control? Or to have sex before marriage? Or even to have a child out of wedlock? Is our country so divided that the Republicans' best hope is a narrow minded, media obsessed homophobe?",
       "sourceTitle": "Lindsay Lohan Lashes Out At Sarah Palin",
-      "text": "Is it a sin to be gay? Should it be a sin to be straight? Or to use birth control? Or to have sex before marriage? Or even to have a child out of wedlock? Is our country so divided that the Republicans' best hope is a narrow minded, media obsessed homophobe?"
+      "sourceUrl": "http://www.showbizspy.com/article/163257/lindsay-lohan-lashes-out-at-sarah-palin.html"
     },
     {
-      "type": "sentence",
-      "text": "Interestingly, for Catholics, those things  sins."
+      "type": "paragraph",
+      "id": 22
     },
     {
-      "type": "break"
+      "parentId": 22,
+      "type": "text",
+      "text": "Interestingly, for Catholics, those things"
     },
     {
-      "type": "break"
+      "parentId": 22,
+      "type": "emphasis",
+      "text": "are"
+    },
+    {
+      "type": "text",
+      "text": "sins.",
+      "parentId": 22
+    },
+    {
+      "type": "paragraph",
+      "id": 23
+    },
+    {
+      "parentId": 23,
+      "type": "emphasis",
+      "text": "This article was written with assistance from Esra Zengin."
     }
   ],
   "wikipediaData": {

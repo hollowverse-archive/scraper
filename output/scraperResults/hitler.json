@@ -32,152 +32,211 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Hitler was born in 1889 in a small village called Ranshofen in what is now Austria."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://catholicexchange.com/was-hitler-catholic/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Both of Hitler's parents were Catholics. It is reported that his father was a bit of a skeptic but that his mother was quite devout. Hitler himself rarely attended Catholic mass after about the age of 9.",
       "sourceTitle": "Was Hitler Catholic",
-      "text": "Both of Hitler's parents were Catholics. It is reported that his father was a bit of a skeptic but that his mother was quite devout. Hitler himself rarely attended Catholic mass after about the age of 9."
+      "sourceUrl": "http://catholicexchange.com/was-hitler-catholic/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Religion for Hitler was a means to a political end and he used religious rhetoric often and liberally in his speeches and propaganda campaigns. And, really, Hitler could be the poster child of why not to combine church and state, not to mention a perfect example of how religious beliefs can be so easily twisted and misinterpreted. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.jewishvirtuallibrary.org/jsource/Holocaust/kampf.html",
-      "sourceTitle": "Mein Kampf",
-      "text": "Hence today I believe that I am acting in accordance with the will of the Almighty Creator: by defending myself against the Jew, I am fighting for the work of the Lord."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Hence today I believe that I am acting in accordance with the will of the Almighty Creator: by defending myself against the Jew, I am fighting for the work of the Lord.",
+      "sourceTitle": "Mein Kampf",
+      "sourceUrl": "http://www.jewishvirtuallibrary.org/jsource/Holocaust/kampf.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "I suppose the first question would be: How do you say you're defending yourself from anyone when you've got all the guns?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "The fact that Jesus Christ was given over to the Roman authorities to be killed, by Jews, was often a rallying point and justification for Hitler's state-sponsored eradication campaign."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "Hitler's true religious views are a matter of historical intrigue. It is widely reported by those who knew him that he actually had disdain for Christianity and one of his top aids, Albert Speer, once quoted Hitler as saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.newyorker.com/online/blogs/georgepacker/2009/10/islamized-germans.html",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "You see, it's been our misfortune to have the wrong religion. Why didn't we have the religion of the Japanese, who regard sacrifice for the Fatherland as the highest good? The Mohammedan religion too would have been much more compatible to us than Christianity. Why did it have to be Christianity with its meekness and flabbiness?",
       "sourceTitle": "Interesting Times: \"Islamized German.\"",
-      "text": "You see, it's been our misfortune to have the wrong religion. Why didn't we have the religion of the Japanese, who regard sacrifice for the Fatherland as the highest good? The Mohammedan religion too would have been much more compatible to us than Christianity. Why did it have to be Christianity with its meekness and flabbiness?"
+      "sourceUrl": "http://www.newyorker.com/online/blogs/georgepacker/2009/10/islamized-germans.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewishvirtuallibrary.org/jsource/Holocaust/hitlerjew.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "On an interesting side note, there is much speculation that Hitler's grandmother, who was employed by a Jewish family as their housekeeper, had an affair with one of her employers and became pregnant with Hitler's father. It is a disputed claim, with little evidence, but it means that there is a possibility that Hitler was 1/4 Jewish.",
       "sourceTitle": "Was Hitler Jewish?",
-      "text": "On an interesting side note, there is much speculation that Hitler's grandmother, who was employed by a Jewish family as their housekeeper, had an affair with one of her employers and became pregnant with Hitler's father. It is a disputed claim, with little evidence, but it means that there is a possibility that Hitler was 1/4 Jewish."
+      "sourceUrl": "http://www.jewishvirtuallibrary.org/jsource/Holocaust/hitlerjew.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/history/world-war-two/7961211/Hitler-had-Jewish-and-African-roots-DNA-tests-show.html",
+      "type": "text",
+      "text": "Even more interesting are the results of recent DNA tests on Hitler's relatives saliva samples indicating that Hitler did, in fact, have remote Jewish and African ancestry.",
+      "parentId": 11,
       "sourceTitle": "Hitler 'had Jewish and African roots', DNA tests show.",
-      "text": "Even more interesting are the results of recent DNA tests on Hitler's relatives saliva samples indicating that Hitler did, in fact, have remote Jewish and African ancestry."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.telegraph.co.uk/history/world-war-two/7961211/Hitler-had-Jewish-and-African-roots-DNA-tests-show.html"
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "The truest of politicians"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Hitler embodies politics. His quest was power. He wanted power, he wanted Europe, he wanted the world, and he wanted his perfect race of \"Aryans\" to rule it."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "Politically, Hitler was actually quite impressive. Germany was hit hard economically, not only by the Great Depression that swept the world in the 1930's but by massive debts owed to France, Britain, and the United States as part of a reparations treaty that was the result of Germany's loss of World War I."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "The German people were desperate, poor, hungry, and in search of a strong leader–they got one."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.johndclare.net/Rempel_Nazi25.htm",
+      "parentId": 16,
+      "type": "text",
+      "text": "After World War I, Hitler was appointed as somewhat of a spy for the German army, gathering intelligence on the German Workers' Party (DAP). However, the leader of the DAP, Anton Drexler (a Marxist and anti-Semite), inspired and was inspired by Hitler's public speaking abilities and invited him to join the party, which Hitler did in 1919.",
       "sourceTitle": "Origins of the Nazi Party",
-      "text": "After World War I, Hitler was appointed as somewhat of a spy for the German army, gathering intelligence on the German Workers' Party (DAP). However, the leader of the DAP, Anton Drexler (a Marxist and anti-Semite), inspired and was inspired by Hitler's public speaking abilities and invited him to join the party, which Hitler did in 1919."
+      "sourceUrl": "http://www.johndclare.net/Rempel_Nazi25.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.historyplace.com/worldwar2/riseofhitler/elect.htm",
+      "parentId": 17,
+      "type": "text",
+      "text": "Over the course of many years, Hitler became first, the leader of the DAP, then the leader of a combined party of the National Socialists and the DAP, the Nazi Party. Hitler's public speeches attracted many followers and the Nazi Party gained over 18% of the vote in Germany's 1930 elections.",
       "sourceTitle": "Rise of Hitler: Germans Elect Nazis",
-      "text": "Over the course of many years, Hitler became first, the leader of the DAP, then the leader of a combined party of the National Socialists and the DAP, the Nazi Party. Hitler's public speeches attracted many followers and the Nazi Party gained over 18% of the vote in Germany's 1930 elections."
+      "sourceUrl": "http://www.historyplace.com/worldwar2/riseofhitler/elect.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.fff.org/freedom/fd0403a.asp",
+      "parentId": 18,
+      "type": "text",
+      "text": "The influence of the Nazi Party and Hitler's charisma got him an appointment as German Chancellor in 1933.",
       "sourceTitle": "How Hitler Became a Dictator",
-      "text": "The influence of the Nazi Party and Hitler's charisma got him an appointment as German Chancellor in 1933."
+      "sourceUrl": "http://www.fff.org/freedom/fd0403a.asp"
     },
     {
-      "type": "sentence",
-      "text": "This was essentially the beginning of Hitler's rule over Germany."
+      "type": "text",
+      "text": "This was essentially the beginning of Hitler's rule over Germany.",
+      "parentId": 18
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
+      "parentId": 19,
+      "type": "text",
       "text": "His policies, though many and ranging from totally bizarre to extremely dangerous, could be easily summed up in two major points: kill Jews and take over the world. Hitler's politics were dominated by these two obsessions. He convinced the German people that they were literally superior to all other humans and used that sense of nationalism to wage World War II, which he eventually lost to a coalition of Russia, Britain, and The United States."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "To sum up his politics in terms of his actions, they were fascist and totalitarian. Of course, his rhetoric suggested a milieu of ideals and ideologies, but in the end, he was just a fascist."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "sentence",
+      "parentId": 21,
+      "type": "text",
       "text": "Upon realizing that he had lost the war, Hitler committed suicide by shooting himself with a pistol in a bunker in Berlin. And so ended one of history's most horrific, sad, and fascinating stories."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

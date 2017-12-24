@@ -35,119 +35,191 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
-      "text": "ohn Malkovich was born in Christopher, Illinois and grew up in Benton, Illinois."
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "break"
+      "parentId": 1,
+      "type": "text",
+      "text": "J"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000518/bio",
+      "type": "text",
+      "text": "ohn Malkovich was born in Christopher, Illinois and grew up in Benton, Illinois.",
+      "parentId": 1
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Malkovich is of Croatian descent,",
       "sourceTitle": "ohn Malkovich – Biography",
-      "text": "Malkovich is of Croatian descent,"
+      "sourceUrl": "http://www.imdb.com/name/nm0000518/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Croatia#Demographics",
+      "type": "text",
+      "text": "a country with an overwhelming Catholic majority.",
+      "parentId": 2,
       "sourceTitle": "Croatia",
-      "text": "a country with an overwhelming Catholic majority."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Croatia#Demographics"
     },
     {
-      "type": "sentence",
-      "text": "So, it stands to reason that somewhere in Malkovich's heritage is the Catholic faith."
+      "type": "text",
+      "text": "So, it stands to reason that somewhere in Malkovich's heritage is the Catholic faith.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "However, Malkovich is an atheist. When asked if one needed religious belief to play spiritual characters, (which Malkovich does on occasion) he responded:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thestar.com/entertainment/movies/2008/09/11/a_kinder_gentler_malkovich.html",
-      "sourceTitle": "A kinder, gentler Malkovich",
-      "text": "No, I'd say not. I'm an atheist. I wouldn't say I'm without spiritual belief particularly, or rather, specifically. Maybe I'm agnostic, but I'm not quite sure there's some great creator somehow controlling everything and giving us free will. I don't know; it doesn't seem to make a lot of sense to me."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "No, I'd say not. I'm an atheist. I wouldn't say I'm without spiritual belief particularly, or rather, specifically. Maybe I'm agnostic, but I'm not quite sure there's some great creator somehow controlling everything and giving us free will. I don't know; it doesn't seem to make a lot of sense to me.",
+      "sourceTitle": "A kinder, gentler Malkovich",
+      "sourceUrl": "http://www.thestar.com/entertainment/movies/2008/09/11/a_kinder_gentler_malkovich.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "That's not to say that Malkovich doesn't understand and sympathize with the human drive toward religious or spiritual belief. It just doesn't make sense to him:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thestar.com/entertainment/movies/2008/09/11/a_kinder_gentler_malkovich.html",
-      "sourceTitle": "A kinder, gentler Malkovich",
-      "text": "I think everyone would like to believe there's something immutable or infallible about the human spirit. Everyone would like to believe that, but I'm not sure there's any reason to."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I think everyone would like to believe there's something immutable or infallible about the human spirit. Everyone would like to believe that, but I'm not sure there's any reason to.",
+      "sourceTitle": "A kinder, gentler Malkovich",
+      "sourceUrl": "http://www.thestar.com/entertainment/movies/2008/09/11/a_kinder_gentler_malkovich.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "There you have it. No reason to believe for Malkovich–so he doesn't."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Disputably non-political"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Malkovich insists that he's not at all political:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://dailycaller.com/2011/06/17/john-malkovich-i-havent-voted-since-mcgovern-lost/",
-      "sourceTitle": "John Malkovich: 'I haven't voted since McGovern lost",
-      "text": "I'm not a political person actually, and I don't have an ideology. And I don't think other people really think about [my political views]."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I'm not a political person actually, and I don't have an ideology. And I don't think other people really think about [my political views].",
+      "sourceTitle": "John Malkovich: 'I haven't voted since McGovern lost",
+      "sourceUrl": "http://dailycaller.com/2011/06/17/john-malkovich-i-havent-voted-since-mcgovern-lost/"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "He says he last voted for George McGovern in 1972, a Democratic candidate who lost against Richard Nixon:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://dailycaller.com/2011/06/17/john-malkovich-i-havent-voted-since-mcgovern-lost/",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "I haven't voted since McGovern lost and don't intend to. I see no reason to.",
       "sourceTitle": "John Malkovich: 'I haven't voted since McGovern lost",
-      "text": "I haven't voted since McGovern lost and don't intend to. I see no reason to."
+      "sourceUrl": "http://dailycaller.com/2011/06/17/john-malkovich-i-havent-voted-since-mcgovern-lost/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://dailycaller.com/2011/06/17/john-malkovich-i-havent-voted-since-mcgovern-lost/",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Perhaps that means he lost faith in the political process. However, friends and co-workers such as William Hootkins, disagree, calling Malkovich incredibly \"right-wing.\"",
       "sourceTitle": "John Malkovich: 'I haven't voted since McGovern lost",
-      "text": "Perhaps that means he lost faith in the political process. However, friends and co-workers such as William Hootkins, disagree, calling Malkovich incredibly \"right-wing.\""
+      "sourceUrl": "http://dailycaller.com/2011/06/17/john-malkovich-i-havent-voted-since-mcgovern-lost/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://dailycaller.com/2011/06/17/john-malkovich-i-havent-voted-since-mcgovern-lost/",
+      "type": "text",
+      "text": "And, when Malkovich was asked who he'd like to fight to the death, he mentioned, among others, British Labour politician George Galloway.",
+      "parentId": 17,
       "sourceTitle": "John Malkovich: 'I haven't voted since McGovern lost",
-      "text": "And, when Malkovich was asked who he'd like to fight to the death, he mentioned, among others, British Labour politician George Galloway."
+      "sourceUrl": "http://dailycaller.com/2011/06/17/john-malkovich-i-havent-voted-since-mcgovern-lost/"
     },
     {
-      "type": "sentence",
-      "text": "So maybe right-wing isn't too off base."
+      "type": "text",
+      "text": "So maybe right-wing isn't too off base.",
+      "parentId": 17
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "Other than that, Malkovich really does seem non-political. Feel free to weigh in, readers, if you know anything."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

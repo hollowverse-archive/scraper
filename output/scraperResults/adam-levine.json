@@ -34,124 +34,212 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Adam Levine was born and raised in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thejustpushplay.com/2012/04/09/passover-treat-15-pop-stars-you-didnt-know-were-jewish/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Both of Levine's parents are Jewish. While Levine still identifies with his Jewish heritage,",
       "sourceTitle": "Passover Treat: 15 Pop Stars You Didn't Know Were Jewish",
-      "text": "Both of Levine's parents are Jewish. While Levine still identifies with his Jewish heritage,"
+      "sourceUrl": "http://thejustpushplay.com/2012/04/09/passover-treat-15-pop-stars-you-didnt-know-were-jewish/"
     },
     {
-      "type": "sentence",
-      "text": "it isn't, and never was a big part of his life. He says his parents never forced it on him and allowed him to figure his spirituality out for himself. Levine even opted-out of having a Bar Mitzvah–the traditional Jewish right of passage where 13 year old boys are lavished with cash and gifts. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "it isn't, and never was a big part of his life. He says his parents never forced it on him and allowed him to figure his spirituality out for himself. Levine even opted-out of having a Bar Mitzvah–the traditional Jewish right of passage where 13 year old boys are lavished with cash and gifts. He said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.thejc.com/arts/music/45058/interview-adam-levine",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I felt as though a lot of kids [I knew] were trying to cash in [on their Bar Mitzvah]. They were trying to make a bunch of money, and that's fine. I just don't think it's the most respectful way to deal with God and beliefs and years and years and years of cultural heritage.",
       "sourceTitle": "Interview: Adam Levine",
-      "text": "I felt as though a lot of kids [I knew] were trying to cash in [on their Bar Mitzvah]. They were trying to make a bunch of money, and that's fine. I just don't think it's the most respectful way to deal with God and beliefs and years and years and years of cultural heritage."
+      "sourceUrl": "http://www.thejc.com/arts/music/45058/interview-adam-levine"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.gather.com/viewArticle.action?articleId=281474977109922",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Despite his admittedly mellow Jewish upbringing and the fact that he's publicly stated his break with the faith, orthodox Jews still give him a hard time about his tattoos–something technically forbidden in the Jewish faith.",
       "sourceTitle": "Of Maroon 5 and \"Tattoo Jews.\"",
-      "text": "Despite his admittedly mellow Jewish upbringing and the fact that he's publicly stated his break with the faith, orthodox Jews still give him a hard time about his tattoos–something technically forbidden in the Jewish faith."
+      "sourceUrl": "http://www.gather.com/viewArticle.action?articleId=281474977109922"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "Now, Levine says he practices a \"generalized, spiritual way of life.\" He is a big fan of yoga, even though the spirituality of it initially turned him off. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm1747013/bio",
-      "sourceTitle": "Adam Levine (V) – Biography.",
-      "text": "I was skeptical, to say the least. I was wary of the cliches associated with yoga: spirituality used as a marketing tool or Eastern philosophy sold at Starbucks to disenchanted lawyers and accountants looking for meaning. What I soon realized is that yoga welcomes everyone-that's extremely appealing."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I was skeptical, to say the least. I was wary of the cliches associated with yoga: spirituality used as a marketing tool or Eastern philosophy sold at Starbucks to disenchanted lawyers and accountants looking for meaning. What I soon realized is that yoga welcomes everyone-that's extremely appealing.",
+      "sourceTitle": "Adam Levine (V) – Biography.",
+      "sourceUrl": "http://www.imdb.com/name/nm1747013/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "All in all, he's not atheist, he's just not that religious."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Wouldn't you want to call it \"Navy blue 5″ or something?"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm1747013/bio",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Levine is a registered Democrat",
       "sourceTitle": "Adam Levine (V) – Biography.",
-      "text": "Levine is a registered Democrat"
+      "sourceUrl": "http://www.imdb.com/name/nm1747013/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewishvirtuallibrary.org/jsource/biography/adam_levine.html",
+      "type": "text",
+      "text": "And he's got the Obama-supporting stats to prove it. In 2008, Levine publicly endorsed Barack Obama on the",
+      "parentId": 11
+    },
+    {
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "Jimmy Kimmel Show"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 11,
       "sourceTitle": "Adam Levine",
-      "text": "And he's got the Obama-supporting stats to prove it. In 2008, Levine publicly endorsed Barack Obama on the ."
+      "sourceUrl": "http://www.jewishvirtuallibrary.org/jsource/biography/adam_levine.html"
     },
     {
-      "type": "sentence",
-      "text": "Then, in 2012, Levine took his Obama supporting to a new level of profanity, tweeting:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Then, in 2012, Levine took his Obama supporting to a new level of profanity, tweeting:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.mediaite.com/online/adam-levine-vote-for-obama-or-ill-lose-my-sht/",
-      "sourceTitle": "Adam Levine Vote For Obama Or 'I'll Lose My Shi*t",
-      "text": "Dear America, if you don't re-elect Barack Obama, I'm gonna lose my shit."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Dear America, if you don't re-elect Barack Obama, I'm gonna lose my shit.",
+      "sourceTitle": "Adam Levine Vote For Obama Or 'I'll Lose My Shi*t",
+      "sourceUrl": "http://www.mediaite.com/online/adam-levine-vote-for-obama-or-ill-lose-my-sht/"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "I might vote for Romney just to see what Adam Levine losing his shit looks like."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/01/25/adam-levine-maroon-boycott-restaurant-gay-marriage_n_1232252.html",
+      "parentId": 15,
+      "type": "text",
+      "text": "But Levine's no moderate Democrat–he's dark blue, like navy blue. He's huge on gay rights. Levine's brother is openly gay and he's lent his star power to advancing the gay rights cause from appearing on the cover of"
+    },
+    {
+      "parentId": 15,
+      "type": "emphasis",
+      "text": "Out"
+    },
+    {
+      "type": "text",
+      "text": "magazine, promoting a gay teen support organization, and refusing to hold Maroon 5's after-the-Grammy's party at a restaurant that supported California's Proposition 8 against gay marriage.",
+      "parentId": 15,
       "sourceTitle": "Adam Levine And Maroon 5 Boycotting Mexican Restaurant For Anti-Gay Marriage Stance.",
-      "text": "But Levine's no moderate Democrat–he's dark blue, like navy blue. He's huge on gay rights. Levine's brother is openly gay and he's lent his star power to advancing the gay rights cause from appearing on the cover of  magazine, promoting a gay teen support organization, and refusing to hold Maroon 5's after-the-Grammy's party at a restaurant that supported California's Proposition 8 against gay marriage."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/01/25/adam-levine-maroon-boycott-restaurant-gay-marriage_n_1232252.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Plus, he sent Fox News (a conservative staple) a friendly message after he heard a Maroon 5 song on the channel. It was:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/01/25/adam-levine-maroon-boycott-restaurant-gay-marriage_n_1232252.html",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Dear Fox News, don't play our music on your evil fucking channel ever again. Thank you.",
       "sourceTitle": "Adam Levine And Maroon 5 Boycotting Mexican Restaurant For Anti-Gay Marriage Stance.",
-      "text": "Dear Fox News, don't play our music on your evil fucking channel ever again. Thank you."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/01/25/adam-levine-maroon-boycott-restaurant-gay-marriage_n_1232252.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "He's a bit of a militant liberal."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

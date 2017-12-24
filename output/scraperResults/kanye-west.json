@@ -34,95 +34,162 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
-      "sourceUrl": "http://top40.about.com/od/artistsls/p/kanyewest.htm",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
+      "text": "Kanye was born in Atlanta, Georgia but grew up in Chicago after his parents divorced at the age of 3. His mother was a college professor and his father a photojournalist, activist, and Christian counselor so Kanye had a largely middle-class upbringing.",
       "sourceTitle": "Kanye West",
-      "text": "Kanye was born in Atlanta, Georgia but grew up in Chicago after his parents divorced at the age of 3. His mother was a college professor and his father a photojournalist, activist, and Christian counselor so Kanye had a largely middle-class upbringing."
+      "sourceUrl": "http://top40.about.com/od/artistsls/p/kanyewest.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Kanye is one of rap's most outspoken, controversial, and (to some) most hated artists. He's had numerous public outbursts and has then made numerous public apologies."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "He's rejected his Christian upbringing and especially the feeling that he had no choice when it came to religion. He has said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.phatmass.com/phorum/topic/93979-kanye-west-on-religion-and-jesus-christ/",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "You're not given a decision of what religion you want. Your parents just give it to you…I feel like religion is more about separation and judgment than bringing people together and understanding.",
       "sourceTitle": "Kanye West On Religion And Jesus Christ",
-      "text": "You're not given a decision of what religion you want. Your parents just give it to you…I feel like religion is more about separation and judgment than bringing people together and understanding."
+      "sourceUrl": "http://www.phatmass.com/phorum/topic/93979-kanye-west-on-religion-and-jesus-christ/"
     },
     {
-      "type": "sentence",
-      "text": "Kanye's sentiments toward religion have caused some controversy from posing as Jesus on the cover of  to telling journalists in New Zealand that:"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "text",
+      "text": "Kanye's sentiments toward religion have caused some controversy from posing as Jesus on the cover of"
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "Rolling Stone"
+    },
+    {
+      "type": "text",
+      "text": "to telling journalists in New Zealand that:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.hiphopdx.com/index/news/id.8186/title.kanye-west-speaks-candidly-about-mother-religion-rap",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "No! I don't wanna fuckin' be Christ-like. I want to be me-like.",
       "sourceTitle": "Kanye West Speaks Candidly About Mother, Religion, Rap",
-      "text": "No! I don't wanna fuckin' be Christ-like. I want to be me-like."
+      "sourceUrl": "http://www.hiphopdx.com/index/news/id.8186/title.kanye-west-speaks-candidly-about-mother-religion-rap"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Insert foot in mouth–again"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.foxnews.com/politics/2009/09/15/obama-calls-kanye-west-jackass/",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Politics is just another area where Kanye's big mouth has gotten him into some trouble. At one point, President Obama even took time away from his busy schedule to call Kanye a \"jackass.\"",
       "sourceTitle": "Obama Calls Kanye West A 'Jackass.'",
-      "text": "Politics is just another area where Kanye's big mouth has gotten him into some trouble. At one point, President Obama even took time away from his busy schedule to call Kanye a \"jackass.\""
+      "sourceUrl": "http://www.foxnews.com/politics/2009/09/15/obama-calls-kanye-west-jackass/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "After Hurricane Katrina decimated the Gulf Coast in 2005, Kanye West played a nationally televised benefit concert in which he gave America his opinion of George Bush's widely criticized handling of the disaster, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.simplysearch4it.com/article/32259.html",
-      "sourceTitle": "Kanye West witty wrap, outspoken political views made him a commercial success",
-      "text": "George Bush doesn't care about black people."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "George Bush doesn't care about black people.",
+      "sourceTitle": "Kanye West witty wrap, outspoken political views made him a commercial success",
+      "sourceUrl": "http://www.simplysearch4it.com/article/32259.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Even though Kanye later publicly apologized to President Bush–and Bush accepted–the comment created a national debate on the relationship between black America and the largely white power structure."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://technorati.com/politics/article/kanye-west-russell-simmons-walk-through/",
+      "parentId": 16,
+      "type": "text",
+      "text": "More recently, as America erupted in protest inspired by the protesters at Occupy Wall Street, Kanye visited the camp at Zucotti Park, lending his star power and support to the left-leaning movement.",
       "sourceTitle": "Kanye West Russel Simmons Walk Through the Occupy Wall Street Scene",
-      "text": "More recently, as America erupted in protest inspired by the protesters at Occupy Wall Street, Kanye visited the camp at Zucotti Park, lending his star power and support to the left-leaning movement."
+      "sourceUrl": "http://technorati.com/politics/article/kanye-west-russell-simmons-walk-through/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "The irony, of course, is that the OWS protestors were rallying against the greed and corruption of America's wealthiest 1% and Kanye fits comfortably in that category."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -35,118 +35,184 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Stacy Keibler was born and raised in Baltimore, Maryland."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://lubbockonline.com/stories/010700/ent_UX7444-5.001.shtml",
+      "parentId": 2,
+      "type": "text",
+      "text": "Keibler was presumably raised a Catholic, as she went to high school at an all-girls Catholic school in Baltimore.",
       "sourceTitle": "'Skye' no limit for Nitro Girl, aspiring actress",
-      "text": "Keibler was presumably raised a Catholic, as she went to high school at an all-girls Catholic school in Baltimore."
+      "sourceUrl": "http://lubbockonline.com/stories/010700/ent_UX7444-5.001.shtml"
     },
     {
-      "type": "sentence",
-      "text": "And she celebrated Christmas as a child. She recounted the terrible trauma she experienced when she found out Santa Claus was not real:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And she celebrated Christmas as a child. She recounted the terrible trauma she experienced when she found out Santa Claus was not real:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0445001/bio",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I truly believed. Then a kid ruined it for me one day and told me there was no Santa, and I came home crying. The sad part was that the girl who told me was younger than I was.",
       "sourceTitle": "Stacy Keibler – Biography",
-      "text": "I truly believed. Then a kid ruined it for me one day and told me there was no Santa, and I came home crying. The sad part was that the girl who told me was younger than I was."
+      "sourceUrl": "http://www.imdb.com/name/nm0445001/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.myspace.com/stacykeibler_wwediva",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "But we're left wondering where Keibler stands on religion nowadays. Not only are there no quotes, photos of her coming out of a church, or paparazzi catching her readjusting her cross necklace to be found, her official MySpace page has her listed as \"Christian-other.\"",
       "sourceTitle": "Stacy Keibler on MySpace",
-      "text": "But we're left wondering where Keibler stands on religion nowadays. Not only are there no quotes, photos of her coming out of a church, or paparazzi catching her readjusting her cross necklace to be found, her official MySpace page has her listed as \"Christian-other.\""
+      "sourceUrl": "http://www.myspace.com/stacykeibler_wwediva"
     },
     {
-      "type": "sentence",
-      "text": "What's this \"other\" all about? Let us know in the comments if you've got the scoop."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "What's this \"other\" all about? Let us know in the comments if you've got the scoop.",
+      "parentId": 5
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Big-time boyfriend politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebuzz.com/2012-05-11/first-photos-george-clooney-stacy-keibler-at-president-barack-obamas-ovf-fundraiser/",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Keibler's politics are mostly by association. She has been–for a couple of years at the time this article was written–in a relationship with George Clooney. If you didn't know, Clonney is the poster boy for liberal Hollywood. Just follow the link if you don't believe me! Keibler was spotted attending a $40,000-per-plate Obama fundraiser with her beau,",
       "sourceTitle": "First Photos: George Clooney & Stacy Keibler at Barack Obama's OVF Fundraiser",
-      "text": "Keibler's politics are mostly by association. She has been–for a couple of years at the time this article was written–in a relationship with George Clooney. If you didn't know, Clonney is the poster boy for liberal Hollywood. Just follow the link if you don't believe me! Keibler was spotted attending a $40,000-per-plate Obama fundraiser with her beau,"
+      "sourceUrl": "http://www.celebuzz.com/2012-05-11/first-photos-george-clooney-stacy-keibler-at-president-barack-obamas-ovf-fundraiser/"
     },
     {
-      "type": "sentence",
-      "text": "so we can say that at least she probably didn't violently oppose a second-term Obama."
+      "type": "text",
+      "text": "so we can say that at least she probably didn't violently oppose a second-term Obama.",
+      "parentId": 7
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "As weak and tenuous as this might seem, we can be sure that Keibler takes her right to vote seriously. The only mention of politics during the 2012 election season on her Twitter feed is:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/StacyKeibler",
-      "sourceTitle": "Stacy Keibler (Stacy Keibler) on Twitter",
-      "text": "I #voted. Have you?"
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I #voted. Have you?",
+      "sourceTitle": "Stacy Keibler (Stacy Keibler) on Twitter",
+      "sourceUrl": "https://twitter.com/StacyKeibler"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "And she feels that voting gives women a well-deserved voice in the goings-on of their country:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 12
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://quotes.lucywho.com/stacy-keibler-quotes-t3861.html",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I think there were a lot of women out there watching and voting, and there were a lot of men out there watching, but not voting.",
       "sourceTitle": "Stacy Keibler Quotes",
-      "text": "I think there were a lot of women out there watching and voting, and there were a lot of men out there watching, but not voting."
+      "sourceUrl": "http://quotes.lucywho.com/stacy-keibler-quotes-t3861.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.express.co.uk/posts/view/351870/Stacy-Keibler-to-launch-health-food-range/",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "There is one issue Keibler feels strongly about–and that's healthy food. She's started her own health food line",
       "sourceTitle": "Stacy Keibler to launch health food range",
-      "text": "There is one issue Keibler feels strongly about–and that's healthy food. She's started her own health food line"
+      "sourceUrl": "http://www.express.co.uk/posts/view/351870/Stacy-Keibler-to-launch-health-food-range/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thestacykeibler.com/cookinh/the-5-grossest-things-youre-eating/",
+      "type": "text",
+      "text": "and she often blogs about healthy organic and vegan food.",
+      "parentId": 14,
       "sourceTitle": "The 5 Grossest Things You're Eating",
-      "text": "and she often blogs about healthy organic and vegan food."
+      "sourceUrl": "http://www.thestacykeibler.com/cookinh/the-5-grossest-things-youre-eating/"
     },
     {
-      "type": "sentence",
-      "text": "Positioning herself on the side of health-culture liberals, Keibler has called for more labeling from food companies. She didn't get into specifics, but one could reasonably assume she means mandated GMO (genetically modified organism) labeling. She tweeted:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Positioning herself on the side of health-culture liberals, Keibler has called for more labeling from food companies. She didn't get into specifics, but one could reasonably assume she means mandated GMO (genetically modified organism) labeling. She tweeted:",
+      "parentId": 14
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/StacyKeibler",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Let's make sure processed-food companies provide basic info on their labels! Watch, RT & plz Vote",
       "sourceTitle": "Stacy Keibler (Stacy Keibler) on Twitter",
-      "text": "Let's make sure processed-food companies provide basic info on their labels! Watch, RT & plz Vote"
+      "sourceUrl": "https://twitter.com/StacyKeibler"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "She's a bit vague, but far from non-political. Perhaps if this star keeps rising, we'll hear more from her."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -33,130 +33,204 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Yoko Ono was born in Tokyo, Japan. She grew up mostly in Tokyo, with brief stints in New York City and San Francisco, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rayconnolly.co.uk/pages/journalism_01/journalism_01_item.asp?journalism_01ID=50",
+      "parentId": 2,
+      "type": "text",
+      "text": "Ono's mother was Buddhist, her father a Christian, and her childhood education contained elements of both religions. She said she was taught that \"God was always watching,\" and was told to confess all bad deeds and thoughts to her mother.",
       "sourceTitle": "Yoko Ono Interview.",
-      "text": "Ono's mother was Buddhist, her father a Christian, and her childhood education contained elements of both religions. She said she was taught that \"God was always watching,\" and was told to confess all bad deeds and thoughts to her mother."
+      "sourceUrl": "http://www.rayconnolly.co.uk/pages/journalism_01/journalism_01_item.asp?journalism_01ID=50"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.stanford.edu/news/2009/january21/ono-012109.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Although she said she was \"very interested in Buddhism\" during high school,",
       "sourceTitle": "Yoko Ono reflects on her life, work and public perception.",
-      "text": "Although she said she was \"very interested in Buddhism\" during high school,"
+      "sourceUrl": "http://news.stanford.edu/news/2009/january21/ono-012109.html"
     },
     {
-      "type": "sentence",
-      "text": "her spirituality as an adult has taken more of an eclectic turn. She seems to blend astrology, eastern philosophies, and mysticism into a meta-religious approach. I wasn't able to find a coherent summary of Ono's beliefs, but she clearly considers herself spiritual."
+      "type": "text",
+      "text": "her spirituality as an adult has taken more of an eclectic turn. She seems to blend astrology, eastern philosophies, and mysticism into a meta-religious approach. I wasn't able to find a coherent summary of Ono's beliefs, but she clearly considers herself spiritual.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://dawn.com/2011/12/27/yoko-ono-travelling-to-india-for-inspiration/",
+      "parentId": 4,
+      "type": "text",
+      "text": "She was at least partially influenced by her trip to India with the Beatles in the late-'60s to practice transcendental meditation with Maharishi Mahesh Yogi,",
       "sourceTitle": "Yoko Ono travelling to India for 'inspiration.'",
-      "text": "She was at least partially influenced by her trip to India with the Beatles in the late-'60s to practice transcendental meditation with Maharishi Mahesh Yogi,"
+      "sourceUrl": "http://dawn.com/2011/12/27/yoko-ono-travelling-to-india-for-inspiration/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://imaginepeace.com/archives/10845",
+      "type": "text",
+      "text": "although her husband, John Lennon, later called the mystic a fraud. But Ono still believes in the power of meditation. She joined the late Adam Yauch of the Beastie Boys in a group meditation envisioning a world without cancer.",
+      "parentId": 4,
       "sourceTitle": "Join Adam Yauch to meditate and celebrate the world without cancer.",
-      "text": "although her husband, John Lennon, later called the mystic a fraud. But Ono still believes in the power of meditation. She joined the late Adam Yauch of the Beastie Boys in a group meditation envisioning a world without cancer."
+      "sourceUrl": "http://imaginepeace.com/archives/10845"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://mysticmedusa.com/2009/05/an-aquarius-in-the-age-of-aquarius/",
+      "type": "text",
+      "text": "And continuing with the eastern traditions, she mentioned in one interview her belief in karma.",
+      "parentId": 4,
       "sourceTitle": "An Aquarius In The Age Of Aquarius.",
-      "text": "And continuing with the eastern traditions, she mentioned in one interview her belief in karma."
+      "sourceUrl": "http://mysticmedusa.com/2009/05/an-aquarius-in-the-age-of-aquarius/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "She revealed her belief in astrology in another interview when asked what it was like to be an \"Aquarius in the age of Aquarius.\" She said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://mysticmedusa.com/2009/05/an-aquarius-in-the-age-of-aquarius/",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I sense that we have more responsibility than others to better the human race, spiritually.",
       "sourceTitle": "An Aquarius In The Age Of Aquarius.",
-      "text": "I sense that we have more responsibility than others to better the human race, spiritually."
+      "sourceUrl": "http://mysticmedusa.com/2009/05/an-aquarius-in-the-age-of-aquarius/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.esquire.com/features/what-ive-learned/meaning-of-life-2011/yoko-ono-quotes-0111",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "All this aside, she seems to respect the atheist leanings of her former husband. She sees herself as a guardian of Lennon's music and lyrics, and refuses requests from the religious to change the lyrics to his song \"Imagine\" to remove the line \"No religion, too.\"",
       "sourceTitle": "Yoko Ono Interview 2011.",
-      "text": "All this aside, she seems to respect the atheist leanings of her former husband. She sees herself as a guardian of Lennon's music and lyrics, and refuses requests from the religious to change the lyrics to his song \"Imagine\" to remove the line \"No religion, too.\""
+      "sourceUrl": "http://www.esquire.com/features/what-ive-learned/meaning-of-life-2011/yoko-ono-quotes-0111"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "All this appears to amount to a personal spirituality that doesn't exclude much, and probably includes more than that for which I have evidence."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Give Yoko a Chance"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://imaginepeacetower.com/yoko-onos-wish-trees",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Yoko's political activism centers around the plight she and John Lennon started in 1969 for peace and equality. Their"
+    },
+    {
+      "parentId": 11,
+      "type": "link",
+      "text": "bed-ins",
+      "sourceUrl": "http://www.time.com/time/photogallery/0,29307,1887244,00.html"
+    },
+    {
+      "type": "text",
+      "text": "in 1969 to promote peace are only the first example of Ono using performance art to advance the cause of non-violence. In 1996 she created a Wish Tree upon which visitors were asked to attach their personal wishes for peace on small pieces of paper.",
+      "parentId": 11,
       "sourceTitle": "Yoko Ono's Wish Tree.",
-      "text": "Yoko's political activism centers around the plight she and John Lennon started in 1969 for peace and equality. Their  in 1969 to promote peace are only the first example of Ono using performance art to advance the cause of non-violence. In 1996 she created a Wish Tree upon which visitors were asked to attach their personal wishes for peace on small pieces of paper."
+      "sourceUrl": "http://imaginepeacetower.com/yoko-onos-wish-trees"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://bigthink.com/Picture-This/how-yoko-ono-is-still-giving-peace-a-chance",
+      "type": "text",
+      "text": "And in 2012, in support of the Occupy Wall Street Movement, she announced she would collaborate with the group, Occupy With Art, in order to further the cause of world peace.",
+      "parentId": 11,
       "sourceTitle": "How Yoko Ono Is Still Giving Peace a Chance.",
-      "text": "And in 2012, in support of the Occupy Wall Street Movement, she announced she would collaborate with the group, Occupy With Art, in order to further the cause of world peace."
+      "sourceUrl": "http://bigthink.com/Picture-This/how-yoko-ono-is-still-giving-peace-a-chance"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thecurvature.com/2008/11/10/yoko-ono-on-barack-obama/",
+      "parentId": 12,
+      "type": "text",
+      "text": "Although she doesn't specifically appear to associate with Democrats, she's definitely on the liberal side of things. She endorsed President Obama shortly after his 2008 election, saying she cried for joy on election night.",
       "sourceTitle": "Yoko Ono on Barack Obama.",
-      "text": "Although she doesn't specifically appear to associate with Democrats, she's definitely on the liberal side of things. She endorsed President Obama shortly after his 2008 election, saying she cried for joy on election night."
+      "sourceUrl": "http://thecurvature.com/2008/11/10/yoko-ono-on-barack-obama/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.advocate.com/arts-entertainment/music/2012/11/06/watch-yoko-ono-talks-new-album-and-her-support-marriage-equality",
+      "type": "text",
+      "text": "In support of one of the biggest social liberal rallying cries, Ono changed the lyrics and title to her song, \"Every Man Has a Woman Who Loves Him,\" into \"Everyman/Everywoman\" to show her support for marriage equality and gay rights.",
+      "parentId": 12,
       "sourceTitle": "Yoko Ono Talks New Album and Her Support for Marriage Equality.",
-      "text": "In support of one of the biggest social liberal rallying cries, Ono changed the lyrics and title to her song, \"Every Man Has a Woman Who Loves Him,\" into \"Everyman/Everywoman\" to show her support for marriage equality and gay rights."
+      "sourceUrl": "http://www.advocate.com/arts-entertainment/music/2012/11/06/watch-yoko-ono-talks-new-album-and-her-support-marriage-equality"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rollingstone.com/politics/news/yoko-ono-sean-lennon-put-anti-fracking-message-on-new-york-billboard-20121108",
+      "type": "text",
+      "text": "And in support of environmentalism, Ono and her son Sean helped fund an anti-fracking (or",
+      "parentId": 12
+    },
+    {
+      "parentId": 12,
+      "type": "link",
+      "text": "hydraulic fracturing",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Hydraulic_fracturing"
+    },
+    {
+      "type": "text",
+      "text": ") billboard in New York.",
+      "parentId": 12,
       "sourceTitle": "Yoko Ono, Sean Lennon Put Anti-Fracking Message on New York Billboard.",
-      "text": "And in support of environmentalism, Ono and her son Sean helped fund an anti-fracking (or ) billboard in New York."
+      "sourceUrl": "http://www.rollingstone.com/politics/news/yoko-ono-sean-lennon-put-anti-fracking-message-on-new-york-billboard-20121108"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "text": "Ono is helping to advance the modern causes that John Lennon surely would have supported if he had been alive today. And although she is a woman of few words–and more, um, –she definitely gets her point across."
+      "parentId": 13,
+      "type": "text",
+      "text": "Ono is helping to advance the modern causes that John Lennon surely would have supported if he had been alive today. And although she is a woman of few words–and more, um,"
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "link",
+      "text": "vocalizations?",
+      "sourceUrl": "http://whiskeysplace.wordpress.com/2012/12/10/yoko-ono-explains-obamas-policy/"
+    },
+    {
+      "type": "text",
+      "text": "–she definitely gets her point across.",
+      "parentId": 13
     }
   ],
   "wikipediaData": {

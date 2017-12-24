@@ -31,117 +31,178 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Hugh Jackman was born and raised in Sydney, Australia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "He was raised by his father–his mother moved to England after the couple divorced. But when his sole caregiver became a born-again Christian after an encounter with American evangelist Billy Graham, Jackman wasn't so easily convinced. His father took him to see Graham every time he would come to Australia, but something didn't sit right with the actor."
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.dailymail.co.uk/femail/article-1102379/ANALYSE-THIS-Hugh-Jackman-actor.html",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I couldn't get past the fact that 95 per cent of people on the planet are going to hell because they are non-Christian. So I went soul-searching, which has given a lot more meaning to my life.",
       "sourceTitle": "ANALYSE THIS: Hugh Jackman, actor.",
-      "text": "I couldn't get past the fact that 95 per cent of people on the planet are going to hell because they are non-Christian. So I went soul-searching, which has given a lot more meaning to my life."
+      "sourceUrl": "http://www.dailymail.co.uk/femail/article-1102379/ANALYSE-THIS-Hugh-Jackman-actor.html"
     },
     {
       "type": "heading",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Philosophy of Oneness"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.parade.com/celebrity/2009/04/hugh-jackman.html",
-      "sourceTitle": "Hugh Jackman's Essential Truth.",
-      "text": "His soul searching eventually landed him at the School of Practical Philosophy in his early twenties, after which he began meditating twice a day."
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "text",
+      "text": "His soul searching eventually landed him at the School of Practical Philosophy in his early twenties, after which he began meditating twice a day.",
+      "sourceTitle": "Hugh Jackman's Essential Truth.",
+      "sourceUrl": "http://www.parade.com/celebrity/2009/04/hugh-jackman.html"
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.parade.com/celebrity/2009/04/hugh-jackman.html",
-      "sourceTitle": "Hugh Jackman's Essential Truth.",
-      "text": "It's about oneness. Its basic philosophy is that if the Buddha and Krishna and Jesus were all at a dinner table together, they wouldn't be arguing. There is an essential truth. And we are limitless."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "It's about oneness. Its basic philosophy is that if the Buddha and Krishna and Jesus were all at a dinner table together, they wouldn't be arguing. There is an essential truth. And we are limitless.",
+      "sourceTitle": "Hugh Jackman's Essential Truth.",
+      "sourceUrl": "http://www.parade.com/celebrity/2009/04/hugh-jackman.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "On the other hand, Buddha, Krishna, and Jesus probably have a lot to disagree about. Maybe they wouldn't be throwing punches, but a heated discussion could ensue. What do you think?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/School_of_Practical_Philosophy",
+      "parentId": 10,
+      "type": "text",
+      "text": "The School of Practical Philosophy brings in elements of Eastern and Western religions with a reading list that includes, among other things, the Bhagavad Gita, the Bible, and Shakespeare.",
       "sourceTitle": "School of Practical Philosophy.",
-      "text": "The School of Practical Philosophy brings in elements of Eastern and Western religions with a reading list that includes, among other things, the Bhagavad Gita, the Bible, and Shakespeare."
+      "sourceUrl": "http://en.wikipedia.org/wiki/School_of_Practical_Philosophy"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://observer.com/2011/05/poster-children-of-new-yorks-happiness-academy-the-school-of-practical-philosophy/2/",
+      "parentId": 11,
+      "type": "text",
+      "text": "Seems harmless enough, but the school has a pretty dark past. (The British school on which its philosophy and teachings were copied had a reputation as a cult in England.)",
       "sourceTitle": "Post Children of New York's Happiness Academy.",
-      "text": "Seems harmless enough, but the school has a pretty dark past. (The British school on which its philosophy and teachings were copied had a reputation as a cult in England.)"
+      "sourceUrl": "http://observer.com/2011/05/poster-children-of-new-yorks-happiness-academy-the-school-of-practical-philosophy/2/"
     },
     {
-      "type": "sentence",
-      "text": "Although in fairness to Jackman and other members, this organization is a separate offshoot of the original."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Although in fairness to Jackman and other members, this organization is a separate offshoot of the original.",
+      "parentId": 11
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Political and Social Activist"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "As one would expect of a person who practices a religion that believes in all religions, Jackman is socially very liberal. In 2012 he joined two other Australian celebrities in signing a declaration about marriage equality:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.pinknews.co.uk/2012/01/18/hugh-jackman-backs-marriage-equality/",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Marriage should be about love and respect, not discrimination. Australia is at its best when we value equality over prejudice and fear… [Marriage equality] will also benefit marriage by allowing it to embrace more loving committed couples who uphold its values. It's time for Australia to join the other nations that have benefitted from this important reform.",
       "sourceTitle": "Hugh Jackman backs marriage equality.",
-      "text": "Marriage should be about love and respect, not discrimination. Australia is at its best when we value equality over prejudice and fear… [Marriage equality] will also benefit marriage by allowing it to embrace more loving committed couples who uphold its values. It's time for Australia to join the other nations that have benefitted from this important reform."
+      "sourceUrl": "http://www.pinknews.co.uk/2012/01/18/hugh-jackman-backs-marriage-equality/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theaustralian.com.au/national-affairs/hugh-jackman-lauds-pms-talent-with-the-blade/story-fn59niix-1226433856902",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Jackman appears to be a supporter of Australian Prime Minister Julia Gillard and the Labor Party. Or at least his lefty social tendencies would land him strongly in that camp. He appeared at a press conference with Gillard in Sydney talking up the economic benefits his movie would have for Australia, which seemed like a decent show of support.",
       "sourceTitle": "Hugh Jackman lauds PM's talent with the blade.",
-      "text": "Jackman appears to be a supporter of Australian Prime Minister Julia Gillard and the Labor Party. Or at least his lefty social tendencies would land him strongly in that camp. He appeared at a press conference with Gillard in Sydney talking up the economic benefits his movie would have for Australia, which seemed like a decent show of support."
+      "sourceUrl": "http://www.theaustralian.com.au/national-affairs/hugh-jackman-lauds-pms-talent-with-the-blade/story-fn59niix-1226433856902"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2011/12/07/hugh-jackman-raises-nearl_n_1134917.html",
+      "parentId": 17,
+      "type": "text",
+      "text": "He has also been involved with a number of charity and fundraising efforts from auctioning off his undershirts to raise money for people suffering from AIDS",
       "sourceTitle": "Hugh Jackman Raises Nearly $1 Million For Broadway Cares/Equity Fights AIDS.",
-      "text": "He has also been involved with a number of charity and fundraising efforts from auctioning off his undershirts to raise money for people suffering from AIDS"
+      "sourceUrl": "http://www.huffingtonpost.com/2011/12/07/hugh-jackman-raises-nearl_n_1134917.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.worldvision.org/content.nsf/about/20110831-Hugh-Jackman-East-Africa",
+      "type": "text",
+      "text": "to acting as a spokesman for World Vision International, a Christian humanitarian organization.",
+      "parentId": 17,
       "sourceTitle": "Hugh Jackman and Deborra Lee-Furness urge American to support World Vision's relief efforts in East Africa.",
-      "text": "to acting as a spokesman for World Vision International, a Christian humanitarian organization."
+      "sourceUrl": "http://www.worldvision.org/content.nsf/about/20110831-Hugh-Jackman-East-Africa"
     },
     {
-      "type": "sentence",
-      "text": "He also spoke at the UN Climate Summit in 2009 about how climate change is affecting the world's poorest citizens."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He also spoke at the UN Climate Summit in 2009 about how climate change is affecting the world's poorest citizens.",
+      "parentId": 17
     }
   ],
   "wikipediaData": {

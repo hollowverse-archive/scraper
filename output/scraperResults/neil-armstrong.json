@@ -31,126 +31,167 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Neil Armstrong was born in Wapakoneta, Ohio. His family moved much throughout Ohio as a result of his father's job, though they ultimately settled back in Wapakoneta when Armstrong was 14-years-old. He died in 2012 in Cincinnati, Ohio from complications associated with heart surgery."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Armstrong grew up in a devout religious family, though I can't find which denomination they adhered to. Regardless, Armstrong reported that they did not force their beliefs on him, rather:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/news/obituaries/science-obituaries/9499820/Neil-Armstrong.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "They allowed me to pursue my own interests. They didn't try to dictate to me what I should do or where I should go.",
       "sourceTitle": "Neil Armstrong",
-      "text": "They allowed me to pursue my own interests. They didn't try to dictate to me what I should do or where I should go."
+      "sourceUrl": "http://www.telegraph.co.uk/news/obituaries/science-obituaries/9499820/Neil-Armstrong.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://christiandiarist.com/2012/08/26/neil-armstrong-a-great-american-a-devout-christian/",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Armstrong's actual religious views are immersed in rumor and conspiracy–much like his famous moon landing. Christians claim Armstrong was a wildly devout Christian,",
       "sourceTitle": "Neil Armstrong: A Great American, A Devout Christian",
-      "text": "Armstrong's actual religious views are immersed in rumor and conspiracy–much like his famous moon landing. Christians claim Armstrong was a wildly devout Christian,"
+      "sourceUrl": "http://christiandiarist.com/2012/08/26/neil-armstrong-a-great-american-a-devout-christian/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blog.aarp.org/2012/08/25/neil-armstrong-first-man-moon-apollo-11/",
+      "type": "text",
+      "text": "atheists have claimed him as one of their own",
+      "parentId": 5,
       "sourceTitle": "Neil Armstrong: 5 Fun Facts About the First Man to Walk On The Moon",
-      "text": "atheists have claimed him as one of their own"
+      "sourceUrl": "http://blog.aarp.org/2012/08/25/neil-armstrong-first-man-moon-apollo-11/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.patheos.com/blogs/deaconsbench/2012/08/neil-armstrong-muslim/",
+      "type": "text",
+      "text": "and some Muslims claim that, while on the moon, Armstrong heard the Ezan (the Muslim call to prayer) and converted to Islam.",
+      "parentId": 5,
       "sourceTitle": "Neil Armstrong, Muslim?",
-      "text": "and some Muslims claim that, while on the moon, Armstrong heard the Ezan (the Muslim call to prayer) and converted to Islam."
+      "sourceUrl": "http://www.patheos.com/blogs/deaconsbench/2012/08/neil-armstrong-muslim/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "Well, let's have a look at the evidence."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blog.aarp.org/2012/08/25/neil-armstrong-first-man-moon-apollo-11/",
+      "parentId": 7,
+      "type": "text",
+      "text": "When Armstrong applied for a position at NASA, he marked his religious views on the paperwork as \"no religious preference.\"",
       "sourceTitle": "Neil Armstrong: 5 Fun Facts About the First Man to Walk On The Moon",
-      "text": "When Armstrong applied for a position at NASA, he marked his religious views on the paperwork as \"no religious preference.\""
+      "sourceUrl": "http://blog.aarp.org/2012/08/25/neil-armstrong-first-man-moon-apollo-11/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/commentisfree/belief/2012/sep/13/buzz-aldrin-communion-moon",
+      "type": "text",
+      "text": "During the first moon landing, Buzz Aldrin, Armstrong's space-travel companion and a devout Presbyterian, held a communion ceremony (a Christian ritual) and reported that Armstrong didn't participate but rather watched quietly and respectfully.",
+      "parentId": 7,
       "sourceTitle": "How Buzz Aldrin's communion on the moon was hushed up",
-      "text": "During the first moon landing, Buzz Aldrin, Armstrong's space-travel companion and a devout Presbyterian, held a communion ceremony (a Christian ritual) and reported that Armstrong didn't participate but rather watched quietly and respectfully."
+      "sourceUrl": "http://www.guardian.co.uk/commentisfree/belief/2012/sep/13/buzz-aldrin-communion-moon"
     },
     {
-      "type": "sentence",
-      "text": "And here's the smoking gun, folks:"
+      "type": "text",
+      "text": "And here's the smoking gun, folks:",
+      "parentId": 7
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://eyeonfaith.blogspot.com/2012/08/neil-armstrong-religion-secondary-to.html",
+      "parentId": 8,
+      "type": "text",
+      "text": "Aldrin was a lifelong Boy Scout. He loved the Boy Scouts. In the late-1950s, Armstrong decided he wanted to lead a Boy Scout troop, so he went to sign up at a Methodist Church. The paperwork asked the applicant what their religious beliefs were, Armstrong wrote in \"Deist.\"",
       "sourceTitle": "Neil Armstrong: Religion secondary to faith",
-      "text": "Aldrin was a lifelong Boy Scout. He loved the Boy Scouts. In the late-1950s, Armstrong decided he wanted to lead a Boy Scout troop, so he went to sign up at a Methodist Church. The paperwork asked the applicant what their religious beliefs were, Armstrong wrote in \"Deist.\""
+      "sourceUrl": "http://eyeonfaith.blogspot.com/2012/08/neil-armstrong-religion-secondary-to.html"
     },
     {
-      "type": "sentence",
-      "text": "So there you have it Christians, Atheists and Muslims: none of the above."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "So there you have it Christians, Atheists and Muslims: none of the above.",
+      "parentId": 8
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Politics? No Thanks"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Armstrong is considered an American hero. His moonwalk had political motives, of course. It was a show of American scientific, engineering, computing and financial superiority during the Cold War–a message to the Soviets, if you will. Furthermore, it was a part of a trend during the '60s of U.S. government expansion and a nationalistic morale-booster for the American people."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.csmonitor.com/Commentary/the-monitors-view/2012/0827/Neil-Armstrong-A-giant-leap-for-modesty",
+      "parentId": 11,
+      "type": "text",
+      "text": "Despite the fame and notoriety Armstrong enjoyed after his space mission, he was widely considered a humble, quiet man who didn't see the point in capitalizing on his achievements.",
       "sourceTitle": "Neil Armstrong: A giant leap for modesty",
-      "text": "Despite the fame and notoriety Armstrong enjoyed after his space mission, he was widely considered a humble, quiet man who didn't see the point in capitalizing on his achievements."
+      "sourceUrl": "http://www.csmonitor.com/Commentary/the-monitors-view/2012/0827/Neil-Armstrong-A-giant-leap-for-modesty"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://batterys.multiply.com/journal?&show_interstitial=1&u=%2Fjournal",
+      "type": "text",
+      "text": "Armstrong was approached by political organizations of all stripes, but he refused their advances and never went in to politics, though many of his contemporaries did.",
+      "parentId": 11,
       "sourceTitle": "Bob's Blog",
-      "text": "Armstrong was approached by political organizations of all stripes, but he refused their advances and never went in to politics, though many of his contemporaries did."
+      "sourceUrl": "http://batterys.multiply.com/journal?&show_interstitial=1&u=%2Fjournal"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://palmettopublicrecord.org/2012/08/27/what-less-government-will-buy-you-neil-armstrongs-eyebrow-raising-appearance-at-the-gop-convention/",
+      "parentId": 12,
+      "type": "text",
+      "text": "If anyone could drag his political views out of him, Armstrong seemed to favor a small government approach, something possibly akin to libertarianism. He was unhappy that America seemed to consider itself the \"world's police\" and spoke of the importance of state's rights.",
       "sourceTitle": "What less government will buy you: Neil Armstrong's eyebrow-raising appearance at the GOP convention",
-      "text": "If anyone could drag his political views out of him, Armstrong seemed to favor a small government approach, something possibly akin to libertarianism. He was unhappy that America seemed to consider itself the \"world's police\" and spoke of the importance of state's rights."
+      "sourceUrl": "http://palmettopublicrecord.org/2012/08/27/what-less-government-will-buy-you-neil-armstrongs-eyebrow-raising-appearance-at-the-gop-convention/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Let's hear your views in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

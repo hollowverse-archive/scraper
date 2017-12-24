@@ -33,127 +33,188 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sophia Loren, born Sofia Villani Scicolone, was born in Rome, Italy and grew up in Puzzuoli and Naples, Italy."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.google.com/newspapers?nid=1917&dat=19710104&id=QnohAAAAIBAJ&sjid=_okFAAAAIBAJ&pg=782,908290",
+      "parentId": 2,
+      "type": "text",
+      "text": "Loren is a Catholic, though how devoted she is to her faith depends on when you're asking. In 1971, she described herself as a \"casual Catholic.\"",
       "sourceTitle": "Schenectady Gazette",
-      "text": "Loren is a Catholic, though how devoted she is to her faith depends on when you're asking. In 1971, she described herself as a \"casual Catholic.\""
+      "sourceUrl": "http://news.google.com/newspapers?nid=1917&dat=19710104&id=QnohAAAAIBAJ&sjid=_okFAAAAIBAJ&pg=782,908290"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.contactmusic.com/news/loren-calls-for-late-popes-beatification_1099331",
+      "type": "text",
+      "text": "Fast forward to 2009 and Loren was calling for the beatification of the late Pope John Paul II and sounding very devout.",
+      "parentId": 2,
       "sourceTitle": "Loren Calls For Late Pope's Beautification",
-      "text": "Fast forward to 2009 and Loren was calling for the beatification of the late Pope John Paul II and sounding very devout."
+      "sourceUrl": "http://www.contactmusic.com/news/loren-calls-for-late-popes-beatification_1099331"
     },
     {
-      "type": "sentence",
-      "text": "Beatification is one step before sainthood in the Catholic Church, and requires a five year waiting period between a potential candidate's death and consideration for the designation. However, only four years after Pope John Paul II's death in 2005, Loren was hoping the church could expedite the process. Why? She just really liked him:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Beatification is one step before sainthood in the Catholic Church, and requires a five year waiting period between a potential candidate's death and consideration for the designation. However, only four years after Pope John Paul II's death in 2005, Loren was hoping the church could expedite the process. Why? She just really liked him:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.contactmusic.com/news/loren-calls-for-late-popes-beatification_1099331",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I jealously keep the memory of John Paul II in my heart. It is a daily memory. I went to the tomb of John Paul II in the Vatican to pay homage to him and pray, in order to show my great admiration and devotion. I also turned to him to get his benediction for my entire family at a particular moment.",
       "sourceTitle": "Loren Calls For Late Pope's Beautification",
-      "text": "I jealously keep the memory of John Paul II in my heart. It is a daily memory. I went to the tomb of John Paul II in the Vatican to pay homage to him and pray, in order to show my great admiration and devotion. I also turned to him to get his benediction for my entire family at a particular moment."
+      "sourceUrl": "http://www.contactmusic.com/news/loren-calls-for-late-popes-beatification_1099331"
     },
     {
-      "type": "sentence",
-      "text": "Here are some  of Loren meeting with the late Pope."
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "text",
+      "text": "Here are some"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pl/Sophia_Loren.html",
+      "parentId": 5,
+      "type": "link",
+      "text": "photos",
+      "sourceUrl": "http://carlosechevarria.blogspot.com/2010/05/pope-meets-sophia-loren-russian.html"
+    },
+    {
+      "type": "text",
+      "text": "of Loren meeting with the late Pope.",
+      "parentId": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Let's go back to the 60s and 70s, though. Things were a bit more contentious between Loren and the Catholic Church. Then, the church had quite a bit more influence on Italian society and law than it does today, and divorce was illegal. Just before Loren's acting career took off, she met producer Carlo Ponti and the two fell in love. However, Ponti was married and could not get divorced. Ultimately, Loren, Ponti and his soon-to-be ex wife were forced to become French citizens so that the divorce could happen.",
       "sourceTitle": "The religion of Sophia Loren, actress",
-      "text": "Let's go back to the 60s and 70s, though. Things were a bit more contentious between Loren and the Catholic Church. Then, the church had quite a bit more influence on Italian society and law than it does today, and divorce was illegal. Just before Loren's acting career took off, she met producer Carlo Ponti and the two fell in love. However, Ponti was married and could not get divorced. Ultimately, Loren, Ponti and his soon-to-be ex wife were forced to become French citizens so that the divorce could happen."
+      "sourceUrl": "http://www.adherents.com/people/pl/Sophia_Loren.html"
     },
     {
-      "type": "sentence",
-      "text": "Loren and Ponti remained married until Ponti's death in 2007."
+      "type": "text",
+      "text": "Loren and Ponti remained married until Ponti's death in 2007.",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "In the 70s, Loren was calling for the Catholic Church to allow priests to marry and have children. She made the point that priests were unqualified to give advice on such matters if they have no frame of reference:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://news.google.com/newspapers?nid=1917&dat=19710104&id=QnohAAAAIBAJ&sjid=_okFAAAAIBAJ&pg=782,908290",
-      "sourceTitle": "Schenectady Gazette",
-      "text": "Personally, I always like to think of a priest as a human being. And he should have the problems that every human being has. He should have a family. He should really suffer, as we all do–practically, not only theoretically. In that way, he can understand other people's problems much, much better."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Personally, I always like to think of a priest as a human being. And he should have the problems that every human being has. He should have a family. He should really suffer, as we all do–practically, not only theoretically. In that way, he can understand other people's problems much, much better.",
+      "sourceTitle": "Schenectady Gazette",
+      "sourceUrl": "http://news.google.com/newspapers?nid=1917&dat=19710104&id=QnohAAAAIBAJ&sjid=_okFAAAAIBAJ&pg=782,908290"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "As she got older, it appears Loren became more interested in her religion. However, the fact that she cared enough to comment on the workings of the church as early as the 70s is telling. It seems it was always important to her."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "Hot politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.parexcellencemagazine.com/society-and-politics/sophia-loren-a-woman-born-wise.html",
-      "sourceTitle": "Sophia Loren – A Woman Born Wise",
-      "text": "Loren's long career in the spotlight has yielded very little political controversy. Of course, she was by no fault of her own, on the wrong side of World War II and spent much of her childhood running away from allied bombers."
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000047/bio",
+      "parentId": 12,
+      "type": "text",
+      "text": "Loren's long career in the spotlight has yielded very little political controversy. Of course, she was by no fault of her own, on the wrong side of World War II and spent much of her childhood running away from allied bombers.",
+      "sourceTitle": "Sophia Loren – A Woman Born Wise",
+      "sourceUrl": "http://www.parexcellencemagazine.com/society-and-politics/sophia-loren-a-woman-born-wise.html"
+    },
+    {
+      "type": "text",
+      "text": "And her sister was married to the son of Italian dictator Benito Mussolini.",
+      "parentId": 12,
       "sourceTitle": "Sophia Loren – Biography",
-      "text": "And her sister was married to the son of Italian dictator Benito Mussolini."
+      "sourceUrl": "http://www.imdb.com/name/nm0000047/bio"
     },
     {
-      "type": "sentence",
-      "text": "But we'd never call this bombshell a fascist."
+      "type": "text",
+      "text": "But we'd never call this bombshell a fascist.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blog.timesunion.com/capitol/archives/7687/sophia-loren-albany-lobbyist/",
+      "parentId": 13,
+      "type": "text",
+      "text": "She was, briefly, a lobbyist in the U.S. where she tried to convince New York Senate Majority Leader Joseph Bruno in 2008 to push what was nicknamed the \"Dead Celebrities Bill\" through the New York Congress. The bill would require that any commercial use of a deceased celebrity's likeness, name, signature, etc. would have to be approved by their estate.",
       "sourceTitle": "Sophia Loren, Albany Lobbyist",
-      "text": "She was, briefly, a lobbyist in the U.S. where she tried to convince New York Senate Majority Leader Joseph Bruno in 2008 to push what was nicknamed the \"Dead Celebrities Bill\" through the New York Congress. The bill would require that any commercial use of a deceased celebrity's likeness, name, signature, etc. would have to be approved by their estate."
+      "sourceUrl": "http://blog.timesunion.com/capitol/archives/7687/sophia-loren-albany-lobbyist/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.npr.org/templates/story/story.php?storyId=15198298",
+      "type": "text",
+      "text": "It didn't pass New York, but it did in California.",
+      "parentId": 13,
       "sourceTitle": "Law Decides Who Owns a Dead Star's Image",
-      "text": "It didn't pass New York, but it did in California."
+      "sourceUrl": "http://www.npr.org/templates/story/story.php?storyId=15198298"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.parexcellencemagazine.com/society-and-politics/sophia-loren-a-woman-born-wise.html",
+      "parentId": 14,
+      "type": "text",
+      "text": "Other than that, it's mostly innocent philanthropy and charitable causes like being a UN Goodwill Ambassador, or winning the NATO/ShoWest lifetime achievement award for her work with the National Alliance for the Prevention of Child Abuse and Maltreatment.",
       "sourceTitle": "Sophia Loren – A Woman Born Wise",
-      "text": "Other than that, it's mostly innocent philanthropy and charitable causes like being a UN Goodwill Ambassador, or winning the NATO/ShoWest lifetime achievement award for her work with the National Alliance for the Prevention of Child Abuse and Maltreatment."
+      "sourceUrl": "http://www.parexcellencemagazine.com/society-and-politics/sophia-loren-a-woman-born-wise.html"
     },
     {
-      "type": "sentence",
-      "text": "Not controversial, but certainly nothing to sneeze at."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Not controversial, but certainly nothing to sneeze at.",
+      "parentId": 14
     }
   ],
   "wikipediaData": {

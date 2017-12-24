@@ -32,104 +32,168 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ellen Page was born and raised in Halifax, Nova Scotia, Canada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.talktalk.co.uk/entertainment/film/biography/artist/ellen-page/biography/175?page=3",
+      "parentId": 2,
+      "type": "text",
+      "text": "I've encountered plenty of celebrities who go to Christian schools, but not this actress; she made the decision herself to attend a Buddhist school as a youth, where the curriculum included meditation and yoga.",
       "sourceTitle": "Ellen Page – Biography.",
-      "text": "I've encountered plenty of celebrities who go to Christian schools, but not this actress; she made the decision herself to attend a Buddhist school as a youth, where the curriculum included meditation and yoga."
+      "sourceUrl": "http://www.talktalk.co.uk/entertainment/film/biography/artist/ellen-page/biography/175?page=3"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "That early introduction to non-attachment has stayed with her. In a very un-Hollywood comment she said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.backstage.com/interview/super-trouper/",
-      "sourceTitle": "'Super' Trouper.",
-      "text": "Whenever I'm in a place of too much attachment and my old patterns pop up, I try to snap myself out of it. Like, 'Really, Ellen?' There are bigger things to worry about—like the whole earth dying. They're just movies."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Whenever I'm in a place of too much attachment and my old patterns pop up, I try to snap myself out of it. Like, 'Really, Ellen?' There are bigger things to worry about—like the whole earth dying. They're just movies.",
+      "sourceTitle": "'Super' Trouper.",
+      "sourceUrl": "http://www.backstage.com/interview/super-trouper/"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "So even if she's not a completely dedicated Buddhist these days, it seems to influence her worldview."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Just about as liberal as it gets. . ."
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mnn.com/lifestyle/arts-culture/blogs/ellen-page-joins-los-angeles-clean-energy-rally",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "You can add Page to the list of liberal Hollywood stars–even though this young woman seems to be far removed from the glitz and glamour of the Hollywood scene. She is dedicated to environmental causes,",
       "sourceTitle": "Ellen Page joins Los Angeles clean energy rally.",
-      "text": "You can add Page to the list of liberal Hollywood stars–even though this young woman seems to be far removed from the glitz and glamour of the Hollywood scene. She is dedicated to environmental causes,"
+      "sourceUrl": "http://www.mnn.com/lifestyle/arts-culture/blogs/ellen-page-joins-los-angeles-clean-energy-rally"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://theothermccain.com/2011/09/19/outing-ellen-page-the-politicization-of-sex-and-the-sexualization-of-politics/",
+      "type": "text",
+      "text": "is pro-choice,",
+      "parentId": 8,
       "sourceTitle": "'Outing' Ellen Page: The Politicization of Sex and the Sexualization of Politics.",
-      "text": "is pro-choice,"
+      "sourceUrl": "http://theothermccain.com/2011/09/19/outing-ellen-page-the-politicization-of-sex-and-the-sexualization-of-politics/"
     },
     {
-      "type": "sentence",
-      "text": "and describes herself as a feminist:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and describes herself as a feminist:",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://theothermccain.com/2011/09/19/outing-ellen-page-the-politicization-of-sex-and-the-sexualization-of-politics/",
-      "sourceTitle": "'Outing' Ellen Page: The Politicization of Sex and the Sexualization of Politics.",
-      "text": "I call myself a feminist when people ask me if I am, and of course I am 'cause it's about equality, so I hope everyone is. You know you're working in a patriarchal society when the word feminist has a weird connotation."
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/EllenPage/status/200337206144024577",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I call myself a feminist when people ask me if I am, and of course I am 'cause it's about equality, so I hope everyone is. You know you're working in a patriarchal society when the word feminist has a weird connotation.",
+      "sourceTitle": "'Outing' Ellen Page: The Politicization of Sex and the Sexualization of Politics.",
+      "sourceUrl": "http://theothermccain.com/2011/09/19/outing-ellen-page-the-politicization-of-sex-and-the-sexualization-of-politics/"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "She showed her solidarity with the LGBT community when she tweeted her support of Obama after he announced his support for gay marriage,",
       "sourceTitle": "EllenPage: Yes! Go Obama! #MarriageEquality #LGBT.",
-      "text": "She showed her solidarity with the LGBT community when she tweeted her support of Obama after he announced his support for gay marriage,"
+      "sourceUrl": "https://twitter.com/EllenPage/status/200337206144024577"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ontopmag.com/article.aspx?id=5742&MediaType=1&Category=4",
+      "type": "text",
+      "text": "and she took a role in a film that depicts the true story of a lesbian couple facing discrimination from the government.",
+      "parentId": 11,
       "sourceTitle": "Ellen Page To Play Lesbian In Gay Rights Movie.",
-      "text": "and she took a role in a film that depicts the true story of a lesbian couple facing discrimination from the government."
+      "sourceUrl": "http://www.ontopmag.com/article.aspx?id=5742&MediaType=1&Category=4"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "text": "And then to clinch the liberal deal, in reference to her movie , she was asked if there was anyone in whose mind she'd like to plant a seed of change. She picked two of the highest profile conservative figures in contemporary U.S. politics:"
+      "parentId": 12,
+      "type": "text",
+      "text": "And then to clinch the liberal deal, in reference to her movie"
     },
     {
-      "type": "break"
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "Inception"
+    },
+    {
+      "type": "text",
+      "text": ", she was asked if there was anyone in whose mind she'd like to plant a seed of change. She picked two of the highest profile conservative figures in contemporary U.S. politics:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.politikditto.com/2010/07/canadian-actress-ellen-page-uses.html",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Dick Cheney, Sarah Palin–maybe a seed of compassion or holistic intelligence, or maybe some expansion of mind, maybe get rid of some of that fear that seems to be creating a lot of ignorance and thus passing on that fear to a lot of people and causing a lot of problems.",
       "sourceTitle": "Canadian Actress Ellen Page Uses Typical Liberal Buzzwords To Smear Sarah Palin.",
-      "text": "Dick Cheney, Sarah Palin–maybe a seed of compassion or holistic intelligence, or maybe some expansion of mind, maybe get rid of some of that fear that seems to be creating a lot of ignorance and thus passing on that fear to a lot of people and causing a lot of problems."
+      "sourceUrl": "http://www.politikditto.com/2010/07/canadian-actress-ellen-page-uses.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "That's a pretty harsh, but also telling. If she could plant a seed in anyone's mind and she picks political figures, then politics has got to be pretty important to her. Too bad for her she's Canadian and can't vote in the U.S., but maybe her influence as a celebrity is even more effective than a vote?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

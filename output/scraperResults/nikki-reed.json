@@ -37,102 +37,168 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Nikki Reed was born in Los Angeles, California and raised in nearby Culver City, California with a brief stint in Ruma, Illinois."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.khaleejtimes.ae/DisplayArticleNew.asp?section=citytimes&xfile=data/citytimes/2006/july/citytimes_july119.xml",
+      "parentId": 2,
+      "type": "text",
+      "text": "Reed's father is Jewish and her mother is Christian, and although she lived primarily with her mother growing up,",
       "sourceTitle": "Mini Mayhem.",
-      "text": "Reed's father is Jewish and her mother is Christian, and although she lived primarily with her mother growing up,"
+      "sourceUrl": "http://www.khaleejtimes.ae/DisplayArticleNew.asp?section=citytimes&xfile=data/citytimes/2006/july/citytimes_july119.xml"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm1223023/bio",
+      "type": "text",
+      "text": "she apparently identifies as both a Jew",
+      "parentId": 2,
       "sourceTitle": "Nikki Reed (I) – Biography.",
-      "text": "she apparently identifies as both a Jew"
+      "sourceUrl": "http://www.imdb.com/name/nm1223023/bio"
     },
     {
-      "type": "sentence",
-      "text": "and non-religious. In one interview she said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and non-religious. In one interview she said,",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.independent.co.uk/arts-entertainment/films/features/nikki-reed-what-nikki-did-next-6170311.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "My dad's Jewish and my mom is Christian so I grew up with no religion. Just whatever religion I wanted.",
       "sourceTitle": "Nikki Reed: What Nikki did next.",
-      "text": "My dad's Jewish and my mom is Christian so I grew up with no religion. Just whatever religion I wanted."
+      "sourceUrl": "http://www.independent.co.uk/arts-entertainment/films/features/nikki-reed-what-nikki-did-next-6170311.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.independent.co.uk/arts-entertainment/films/features/nikki-reed-what-nikki-did-next-6170311.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "She appears to be interested in religion, even if she doesn't consider herself religious: she was reading the book,"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Conversations with God"
+    },
+    {
+      "type": "text",
+      "text": "by Neale Donald Walsch, an unaffiliated spiritual treatise.",
+      "parentId": 5,
       "sourceTitle": "Nikki Reed: What Nikki did next.",
-      "text": "She appears to be interested in religion, even if she doesn't consider herself religious: she was reading the book,  by Neale Donald Walsch, an unaffiliated spiritual treatise."
+      "sourceUrl": "http://www.independent.co.uk/arts-entertainment/films/features/nikki-reed-what-nikki-did-next-6170311.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/NikkiReed_I_Am/status/275028773588574211",
+      "parentId": 6,
+      "type": "text",
+      "text": "And aside from the fact that she feels the need to tweet the hashtag \"#flightprayers\" before the attendants make her turn off her phone on an airplane,",
       "sourceTitle": "NikkiReed_I_Am: Taking Off! #flightprayers.",
-      "text": "And aside from the fact that she feels the need to tweet the hashtag \"#flightprayers\" before the attendants make her turn off her phone on an airplane,"
+      "sourceUrl": "https://twitter.com/NikkiReed_I_Am/status/275028773588574211"
     },
     {
-      "type": "sentence",
-      "text": "that's all we've got."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "that's all we've got.",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "The Politics Saga"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tweetwood.com/NikkiReed_I_Am/tweet/265848523277344769",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Reed is a big fan of Obama. And there lies the extent of her political activism. She showed her support for the president in the lead-up to his 2012 reelection by retweeting"
+    },
+    {
+      "parentId": 8,
+      "type": "link",
+      "text": "this essay",
+      "sourceUrl": "http://www.twitlonger.com/show/jtmapc"
+    },
+    {
+      "type": "text",
+      "text": "from fellow actor Ian Somerhalder called \"10 HUGE Differences Between Romney and Obama (and Democrats and Republicans).\"",
+      "parentId": 8,
       "sourceTitle": "Nikki Reed tweets.",
-      "text": "Reed is a big fan of Obama. And there lies the extent of her political activism. She showed her support for the president in the lead-up to his 2012 reelection by retweeting  from fellow actor Ian Somerhalder called \"10 HUGE Differences Between Romney and Obama (and Democrats and Republicans).\""
+      "sourceUrl": "http://tweetwood.com/NikkiReed_I_Am/tweet/265848523277344769"
     },
     {
-      "type": "sentence",
-      "text": "Just in case you don't click on the link, I'll tell you that it's not very sympathetic to Romney and the Republicans."
+      "type": "text",
+      "text": "Just in case you don't click on the link, I'll tell you that it's not very sympathetic to Romney and the Republicans.",
+      "parentId": 8
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "And then on election night she tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.etonline.com/news/126606_Celebs_React_to_Re_Election_of_President_Barack_Obama/index.html",
-      "sourceTitle": "Celebs React to Re-Election of President Obama.",
-      "text": "America!!! We did it!!! #OBAMA!!!!!!!!"
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "America!!! We did it!!! #OBAMA!!!!!!!!",
+      "sourceTitle": "Celebs React to Re-Election of President Obama.",
+      "sourceUrl": "http://www.etonline.com/news/126606_Celebs_React_to_Re_Election_of_President_Barack_Obama/index.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "I couldn't find any other articles where Reed waxed eloquent, or in-eloquent, about any of the other hot partisan topics of the day from gay marriage to gun control. But her enthusiastic support for Obama would make me guess that she's probably on board with those issues, just like the rest of liberal Hollywood."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "If you know anything else about Nikki Reed's religion or politics, we'd love to hear from you in the comments. Thanks, readers."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

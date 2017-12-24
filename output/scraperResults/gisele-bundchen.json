@@ -32,99 +32,146 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Gisele Bündchen was born in Três de Maio and raised in Horizontina, both towns in Rio Grande do Sul, Brazil."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.brazilcultureandtravel.com/brazil-religion.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Considering 70% of Brazilians are Catholic,",
       "sourceTitle": "Brazil Religion – What Are The Top 5 Religions?",
-      "text": "Considering 70% of Brazilians are Catholic,"
+      "sourceUrl": "http://www.brazilcultureandtravel.com/brazil-religion.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.eonline.com/news/101983/it-s-true-tom-brady-gisele-b-ndchen-secretly-wed",
+      "type": "text",
+      "text": "it should come as no surprise that Bündchen joins them. She married her husband, football player Tom Brady, in a Catholic ceremony,",
+      "parentId": 2,
       "sourceTitle": "Its True Tom Brady Gisele Bu Ndchen Secretly Wed.",
-      "text": "it should come as no surprise that Bündchen joins them. She married her husband, football player Tom Brady, in a Catholic ceremony,"
+      "sourceUrl": "http://www.eonline.com/news/101983/it-s-true-tom-brady-gisele-b-ndchen-secretly-wed"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://parenting.families.com/blog/isele-bundchen-loving-stepmother-or-insensitive-troublemaker#",
+      "type": "text",
+      "text": "and she said she married him because he was a \"good Catholic.\"",
+      "parentId": 2,
       "sourceTitle": "Gisele Bundchen–Loving Stepmother or Insensitive Troublemaker.",
-      "text": "and she said she married him because he was a \"good Catholic.\""
+      "sourceUrl": "http://parenting.families.com/blog/isele-bundchen-loving-stepmother-or-insensitive-troublemaker#"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nypost.com/p/news/national/gisele_pray_for_my_tom_sqEjWh7kObfk2SjRXQSjLL",
+      "type": "text",
+      "text": "She not only prays for her husband's victories on the field, but at least once sent out an email asking her friends and family to do the same.",
+      "parentId": 2,
       "sourceTitle": "Gisele Bundchen e-mails friends and family to pray for husband, Patriots QB Tom Brady, in the Super Bowl.",
-      "text": "She not only prays for her husband's victories on the field, but at least once sent out an email asking her friends and family to do the same."
+      "sourceUrl": "http://www.nypost.com/p/news/national/gisele_pray_for_my_tom_sqEjWh7kObfk2SjRXQSjLL"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "She's clearly devout, but that doesn't mean she's going to do everything the Pope tells her to do. She criticized the Catholic church for being outdated in its opposition to pre-marital sex, birth control, and abortion. After stating that these days, \"no one is a virgin when they get married,\" she said,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.foxnews.com/story/0,2933,278614,00.html",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "How is it possible to not want people to use condoms and also not have abortions? It's impossible, I'm sorry.",
       "sourceTitle": "Gisele Bundchen Blasts Roman Catholic Church's Opposition to Condom Use, Abortion.",
-      "text": "How is it possible to not want people to use condoms and also not have abortions? It's impossible, I'm sorry."
+      "sourceUrl": "http://www.foxnews.com/story/0,2933,278614,00.html"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "The Greenest"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theenvironmentalblog.org/2011/12/super-model-gisele-bundchen-greenest-celebrity-award/",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Bündchen isn't terribly involved in the political debate, but she has associated herself with one cause that sounds liberal in some circles. She was named the Greenest Celebrity at the 2011 International Green awards for her environmental activism including, among other things, preventing deforestation and protecting waterways in the Amazon.",
       "sourceTitle": "Super Model Gisele Bundchen Wins Greenest Celebrity Award.",
-      "text": "Bündchen isn't terribly involved in the political debate, but she has associated herself with one cause that sounds liberal in some circles. She was named the Greenest Celebrity at the 2011 International Green awards for her environmental activism including, among other things, preventing deforestation and protecting waterways in the Amazon."
+      "sourceUrl": "http://www.theenvironmentalblog.org/2011/12/super-model-gisele-bundchen-greenest-celebrity-award/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blog.giselebundchen.com.br/en/",
+      "type": "text",
+      "text": "She also started a \"Green Blog\" on her website to try to bring awareness to a broad range of environmental issues from protecting animal habitats to reducing resource consumption.",
+      "parentId": 8,
       "sourceTitle": "Gisele's Blog.",
-      "text": "She also started a \"Green Blog\" on her website to try to bring awareness to a broad range of environmental issues from protecting animal habitats to reducing resource consumption."
+      "sourceUrl": "http://blog.giselebundchen.com.br/en/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "But if the world of environmental activists praises the supermodel, she doesn't necessarily get the same treatment from women across the world. A statement she made about breastfeeding, which she soon retracted, prompted an outcry from mothers. She said in an interview,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/news/celebritynews/7922407/Supermodel-Gisele-Bundchen-breastfeeding-should-be-made-law.html",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Some people here (in the US) think they don't have to breastfeed, and I think 'Are you going to give chemical food to your child when they are so little?' I think there should be a worldwide law, in my opinion, that mothers should breastfeed their babies for six months.",
       "sourceTitle": "Supermodel Gisele Bundchen: breastfeeding should be made law.",
-      "text": "Some people here (in the US) think they don't have to breastfeed, and I think 'Are you going to give chemical food to your child when they are so little?' I think there should be a worldwide law, in my opinion, that mothers should breastfeed their babies for six months."
+      "sourceUrl": "http://www.telegraph.co.uk/news/celebritynews/7922407/Supermodel-Gisele-Bundchen-breastfeeding-should-be-made-law.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.time.com/time/world/article/0,8599,2096771,00.html",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "She also angered some Brazilian women by appearing in an advertisement for lingerie that suggested women should break bad news to their husbands dressed in sexy underwear and high heels. Some officials in Brazilian president Dilma Rousseff's cabinet (the first woman Brazilian president incidentally) called for the ad to be banned because of its sexist content.",
       "sourceTitle": "Gisele's Sexist TV Ad? Brazilian Government Targets Spot.",
-      "text": "She also angered some Brazilian women by appearing in an advertisement for lingerie that suggested women should break bad news to their husbands dressed in sexy underwear and high heels. Some officials in Brazilian president Dilma Rousseff's cabinet (the first woman Brazilian president incidentally) called for the ad to be banned because of its sexist content."
+      "sourceUrl": "http://www.time.com/time/world/article/0,8599,2096771,00.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "I'm not going to jump to the conclusion that Bündchen isn't interested in women's rights, but her body has been her livelihood, so it's understandable that she would consider it a way to gain her favor with a partner. Because of her environmental work and her opposition to the Catholic church's position on women's reproductive rights, I'm going to call her liberal until further notice."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

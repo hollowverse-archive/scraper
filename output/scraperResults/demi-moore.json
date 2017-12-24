@@ -33,91 +33,142 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000193/bio",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
+      "text": "Demi Moore was born in Roswell, New Mexico, the focus of many alien conspiracy theories. She didn't live there long, though, and has reported moving something like 40 times during her childhood.",
       "sourceTitle": "Biography for Demi Moore",
-      "text": "Demi Moore was born in Roswell, New Mexico, the focus of many alien conspiracy theories. She didn't live there long, though, and has reported moving something like 40 times during her childhood."
+      "sourceUrl": "http://www.imdb.com/name/nm0000193/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.aceshowbiz.com/celebrity/demi_moore/biography.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Demi's parents were alcoholics and were not very religious.",
       "sourceTitle": "Demi Moore Biography.",
-      "text": "Demi's parents were alcoholics and were not very religious."
+      "sourceUrl": "http://www.aceshowbiz.com/celebrity/demi_moore/biography.html"
     },
     {
-      "type": "sentence",
-      "text": "Possibly as a result, Moore has tried out many religions, now seeming to settle on Kabbalah, the Jewish sect made famous by various celebrities including Madonna and Britney Spears. Moore's daughter Scout once said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Possibly as a result, Moore has tried out many religions, now seeming to settle on Kabbalah, the Jewish sect made famous by various celebrities including Madonna and Britney Spears. Moore's daughter Scout once said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.people.com/people/article/0,,20182233,00.html",
-      "sourceTitle": "Demi Moore Poses with Daughters for Family Portrait",
-      "text": "She has always moved from religion to religion according to the stages in her life. Kabbalah is the one she has stuck with the most. I respect that she and [husband] Ashton are doing it."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "She has always moved from religion to religion according to the stages in her life. Kabbalah is the one she has stuck with the most. I respect that she and [husband] Ashton are doing it.",
+      "sourceTitle": "Demi Moore Poses with Daughters for Family Portrait",
+      "sourceUrl": "http://www.people.com/people/article/0,,20182233,00.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Demi herself has addressed the issue that she is not Jewish by heritage but feels a strong connection to the religion, even stronger than some genetic Jews. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://web.archive.org/web/20060216205012/http://www.thejewishweek.com/top/editletcontent.php3?artid=3430",
-      "sourceTitle": "Bar Mitzvah Nation",
-      "text": "I didn't grow up Jewish, but I would say that I've been more exposed to the deeper meanings of particular rituals than any of my friends that did."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I didn't grow up Jewish, but I would say that I've been more exposed to the deeper meanings of particular rituals than any of my friends that did.",
+      "sourceTitle": "Bar Mitzvah Nation",
+      "sourceUrl": "http://web.archive.org/web/20060216205012/http://www.thejewishweek.com/top/editletcontent.php3?artid=3430"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "There must be something about Kabbalah that, like Scientology, attracts celebrities like a moth to a flame. Someone comment, please, and tell me why."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Standard Hollywood liberal"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.upi.com/News_Photos/Entertainment/Liberal-Celebrities/6010/8/",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Moore is a liberal Democrat. She supported Obama's campaign in 2008 and is supporting his 2012 bid as well.",
       "sourceTitle": "Liberal Celebrities",
-      "text": "Moore is a liberal Democrat. She supported Obama's campaign in 2008 and is supporting his 2012 bid as well."
+      "sourceUrl": "http://www.upi.com/News_Photos/Entertainment/Liberal-Celebrities/6010/8/"
     },
     {
-      "type": "sentence",
-      "text": "She even went as far to say of Obama:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She even went as far to say of Obama:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.foundingbloggers.com/wordpress/2009/09/1000-points-of-creepiness-demi-moore-claims-i-pledge-to-be-a-servant-to-my-president/",
-      "sourceTitle": "1000 Points Of Creepiness: Demi Moore Claims I Pledge To Be A Servant To My President!.",
-      "text": "I pledge to be a servant of my president."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I pledge to be a servant of my president.",
+      "sourceTitle": "1000 Points Of Creepiness: Demi Moore Claims I Pledge To Be A Servant To My President!.",
+      "sourceUrl": "http://www.foundingbloggers.com/wordpress/2009/09/1000-points-of-creepiness-demi-moore-claims-i-pledge-to-be-a-servant-to-my-president/"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "That's a little creepy. And what if Obama does something crazy likes signs a law making it illegal to protest, or one that allows the military to detain U.S. citizens infinitely without charges, or assassinates U.S. citizens. Oh, wait.."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://demiandashton.org/",
+      "parentId": 14,
+      "type": "text",
+      "text": "Moore is committed to doing some good for society. She and Ashton Kutcher set up a foundation called DNA, the mission of which is to raise awareness and prevent child sex trafficking. A worthy cause indeed!",
       "sourceTitle": "Demiandashton",
-      "text": "Moore is committed to doing some good for society. She and Ashton Kutcher set up a foundation called DNA, the mission of which is to raise awareness and prevent child sex trafficking. A worthy cause indeed!"
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://demiandashton.org/"
     }
   ],
   "wikipediaData": {

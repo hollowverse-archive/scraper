@@ -36,123 +36,188 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Doris Day, born Doris Kappelhoff, was born and raised in Cincinnati, Ohio."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000013/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Day was born into a Catholic family,",
       "sourceTitle": "Doris Day (I) – Biography.",
-      "text": "Day was born into a Catholic family,"
+      "sourceUrl": "http://www.imdb.com/name/nm0000013/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://books.google.com/books?id=VhFbM2XhVs8C&pg=PA80&lpg=PA80&dq=doris+day+christian+scientist&source=bl&ots=MzzCDdB1lW&sig=mytF1pOiDHX6JyWaRPv8mXHOCAk&hl=en&sa=X&ei=DKi0UZPjB8XCigLvlIDoDQ&sqi=2&ved=0CIIBEOgBMAc#v=onepage&q=doris%20day%20christian%20scientist&f=false",
+      "type": "text",
+      "text": "but never felt a deep connection with religion until she was introduced to Christian Science by her second husband. She said her new faith \"brought spirituality into my life, spirituality that would sustain me through some very dark times.\"",
+      "parentId": 2,
       "sourceTitle": "Considering Doris Day – Tom Santopietro.",
-      "text": "but never felt a deep connection with religion until she was introduced to Christian Science by her second husband. She said her new faith \"brought spirituality into my life, spirituality that would sustain me through some very dark times.\""
+      "sourceUrl": "http://books.google.com/books?id=VhFbM2XhVs8C&pg=PA80&lpg=PA80&dq=doris+day+christian+scientist&source=bl&ots=MzzCDdB1lW&sig=mytF1pOiDHX6JyWaRPv8mXHOCAk&hl=en&sa=X&ei=DKi0UZPjB8XCigLvlIDoDQ&sqi=2&ved=0CIIBEOgBMAc#v=onepage&q=doris%20day%20christian%20scientist&f=false"
     },
     {
-      "type": "sentence",
-      "text": "She said about her conversion to Christian Science, whose adherents do not seek medical treatment for the most part because of a belief that disease can be healed with prayer,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She said about her conversion to Christian Science, whose adherents do not seek medical treatment for the most part because of a belief that disease can be healed with prayer,",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://books.google.com/books?id=VhFbM2XhVs8C&pg=PA80&lpg=PA80&dq=doris+day+christian+scientist&source=bl&ots=MzzCDdB1lW&sig=mytF1pOiDHX6JyWaRPv8mXHOCAk&hl=en&sa=X&ei=DKi0UZPjB8XCigLvlIDoDQ&sqi=2&ved=0CIIBEOgBMAc#v=onepage&q=doris%20day%20christian%20scientist&f=false",
-      "sourceTitle": "Considering Doris Day – Tom Santopietro.",
-      "text": "I'd been thinking that I should be happier than I am. . . . One ought to be able to control one's thinking instead of having depressions. . . . I didn't want that kind of life, but I didn't know how to change it."
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1026643/How-Doris-Days-husband-cost-sanity--66million-fortune.html",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I'd been thinking that I should be happier than I am. . . . One ought to be able to control one's thinking instead of having depressions. . . . I didn't want that kind of life, but I didn't know how to change it.",
+      "sourceTitle": "Considering Doris Day – Tom Santopietro.",
+      "sourceUrl": "http://books.google.com/books?id=VhFbM2XhVs8C&pg=PA80&lpg=PA80&dq=doris+day+christian+scientist&source=bl&ots=MzzCDdB1lW&sig=mytF1pOiDHX6JyWaRPv8mXHOCAk&hl=en&sa=X&ei=DKi0UZPjB8XCigLvlIDoDQ&sqi=2&ved=0CIIBEOgBMAc#v=onepage&q=doris%20day%20christian%20scientist&f=false"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Day did periodically seek medical treatment, including occasional treatment for depression and a hysterectomy due to a large intestinal tumor,",
       "sourceTitle": "How Doris Day's third husband cost her sanity – and her £66million fortune.",
-      "text": "Day did periodically seek medical treatment, including occasional treatment for depression and a hysterectomy due to a large intestinal tumor,"
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1026643/How-Doris-Days-husband-cost-sanity--66million-fortune.html"
     },
     {
-      "type": "sentence",
-      "text": "and she moved away from the more fundamental Christian Science beliefs later in her life. But her relationship with her religion and God has always remained an important part of her life. She said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and she moved away from the more fundamental Christian Science beliefs later in her life. But her relationship with her religion and God has always remained an important part of her life. She said,",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://books.google.com/books?id=VhFbM2XhVs8C&pg=PA80&lpg=PA80&dq=doris+day+christian+scientist&source=bl&ots=MzzCDdB1lW&sig=mytF1pOiDHX6JyWaRPv8mXHOCAk&hl=en&sa=X&ei=DKi0UZPjB8XCigLvlIDoDQ&sqi=2&ved=0CIIBEOgBMAc#v=onepage&q=doris%20day%20christian%20scientist&f=false",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I don't have to seek God. I don't pray. I just realize God.",
       "sourceTitle": "Considering Doris Day. Tom Santopietro.",
-      "text": "I don't have to seek God. I don't pray. I just realize God."
+      "sourceUrl": "http://books.google.com/books?id=VhFbM2XhVs8C&pg=PA80&lpg=PA80&dq=doris+day+christian+scientist&source=bl&ots=MzzCDdB1lW&sig=mytF1pOiDHX6JyWaRPv8mXHOCAk&hl=en&sa=X&ei=DKi0UZPjB8XCigLvlIDoDQ&sqi=2&ved=0CIIBEOgBMAc#v=onepage&q=doris%20day%20christian%20scientist&f=false"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Pulling for the GOP"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Doris Day is a supporter of the Republican party, and has had a chummy relationship with at least two former Republican presidents. She acted in two movies with Ronald Reagan, and was so taken by the man that she wished they had worked together more. She said in an interview on Fox News following Reagan's death in 2004,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.foxnews.com/story/0,2933,122138,00.html",
-      "sourceTitle": "Doris Day and Mickey Rooney Remember Ronald Reagan.",
-      "text": "I can only tell you that he was wonderful.  He was a marvelous actor.  He was a gentleman.  We had laughs because he's terribly funny.  And we just got along great."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I can only tell you that he was wonderful.  He was a marvelous actor.  He was a gentleman.  We had laughs because he's terribly funny.  And we just got along great.",
+      "sourceTitle": "Doris Day and Mickey Rooney Remember Ronald Reagan.",
+      "sourceUrl": "http://www.foxnews.com/story/0,2933,122138,00.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "And in that same year she was awarded the Presidential Medal of Freedom by president George W. Bush. Even though Day suggested the president would receive more votes if he stopped hunting, she still said he would get her vote,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.freerepublic.com/focus/f-news/1159273/posts",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I'm pulling for him every step of the way.",
       "sourceTitle": "Doris Day has some advice for President Bush (She's GOP pro-Bush…).",
-      "text": "I'm pulling for him every step of the way."
+      "sourceUrl": "http://www.freerepublic.com/focus/f-news/1159273/posts"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dorisdayanimalfoundation.org/about.html",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "But despite her support of the GOP, her most passionate political cause is one often associated with the liberal crowd: animal rights. She founded the Doris Day Pet Foundation (now the Doris Day Animal Foundation) in 1978 to help stray pets find homes. She also founded World Spay Day, and works with the Humane Society to help spay and neuter pets.",
       "sourceTitle": "About DDAF.",
-      "text": "But despite her support of the GOP, her most passionate political cause is one often associated with the liberal crowd: animal rights. She founded the Doris Day Pet Foundation (now the Doris Day Animal Foundation) in 1978 to help stray pets find homes. She also founded World Spay Day, and works with the Humane Society to help spay and neuter pets."
+      "sourceUrl": "http://www.dorisdayanimalfoundation.org/about.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mlive.com/politics/index.ssf/2013/04/michigan_campaign_finance_see.html",
+      "type": "text",
+      "text": "And she is directly involved in the political process with the Doris Day Animal League, a lobbying organization on behalf of animal rights.",
+      "parentId": 16,
       "sourceTitle": "Michigan campaign finance: See who's funding ballot proposals to block wolf funt, political PACs.",
-      "text": "And she is directly involved in the political process with the Doris Day Animal League, a lobbying organization on behalf of animal rights."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.mlive.com/politics/index.ssf/2013/04/michigan_campaign_finance_see.html"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Doris_Day",
     "title": "Doris Day",
     "image": {
-      "name": "Day-midnightlace.jpg",
+      "name": "Doris_Day_-_1957.JPG",
       "info": {
-        "canonicaltitle": "File:Day-midnightlace.jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Day-midnightlace.jpg/247px-Day-midnightlace.jpg",
-        "thumbwidth": 247,
+        "canonicaltitle": "File:Doris Day - 1957.JPG",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Doris_Day_-_1957.JPG/214px-Doris_Day_-_1957.JPG",
+        "thumbwidth": 214,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Day-midnightlace.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Day-midnightlace.jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16091659",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Doris_Day_-_1957.JPG",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Doris_Day_-_1957.JPG",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25790050",
         "extmetadata": {
           "DateTime": {
-            "value": "2011-08-14 01:12:16",
+            "value": "2016-09-18 23:23:46",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "Day-midnightlace",
+            "value": "Doris Day - 1957",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -162,34 +227,34 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "1960 portrait photographs|20th-century black and white portrait photographs of women at bust length|Black and white portrait photographs of actresses|CC-Zero|Doris Day|Fashion in 1960|Midnight Lace|PD US no notice|Pillbox hats|Portrait photographs of women wearing hats",
+            "value": "Doris Day|Files uploaded by Yann Forget|Film stills|PD US no notice|Template Unknown (author)",
             "source": "commons-categories",
             "hidden": ""
           },
           "Assessments": {
-            "value": "valued",
+            "value": "",
             "source": "commons-categories",
             "hidden": ""
           },
           "ImageDescription": {
-            "value": "Studio publicity portrait of <a href=\"https://en.wikipedia.org/wiki/Doris_Day\" class=\"extiw\" title=\"en:Doris Day\">Doris Day</a> for the 1960 film <i><a href=\"https://en.wikipedia.org/wiki/Midnight_Lace\" class=\"extiw\" title=\"en:Midnight Lace\">Midnight Lace</a></i>.",
+            "value": "Publicity photo of Doris Day",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "Possibly taken in August or September of 1960",
+            "value": "1957-11-05",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.amazon.com/Doris-Day/e/B000APWSWI\">http://www.amazon.com/Doris-Day/e/B000APWSWI</a>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.ebay.com/itm/DORIS-DAY-Original-Vintage-Photo-PORTRAIT-1957-AMAZING-/161000144102?pt=LH_DefaultDomain_0&amp;hash=item257c5b3ce6\">eBay</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "Universal Pictures",
+            "value": "Unknown photographer",
             "source": "commons-desc-page"
           },
           "Permission": {
-            "value": "<p>Copyright details for this image are as follows:</p>\n<p>This is a publicity photo taken to promote a film actress. As stated by film production expert Eve Light Honathaner on page 211 of <i>The Complete Film Production Handbook</i>, (Focal Press, 2001):</p>\n<p>\"Publicity photos (star headshots) have traditionally not been copyrighted. Since they are disseminated to the public, they are generally considered public domain, and therefore clearance by the studio that produced them is not necessary.\"</p>\n<p>Nancy E. Wolff, on page 55 of <i>The Professional Photographer's Legal Handbook</i> (Allworth Communications, 2007), includes a similar explanation:</p>\n<p>\"There is a vast body of photographs, including but not limited to publicity stills, that have no notice as to who may have created them.\"</p>\n<p>Film industry author Gerald Mast, on page 87 of <i>Film Study and the Copyright Law</i> (1989), writes:</p>\n<p>\"According to the old copyright act, such production stills were not automatically copyrighted as part of the film and required separate copyrights as photographic stills. The new copyright act similarly excludes the production still from automatic copyright but gives the film's copyright owner a five-year period in which to copyright the stills. Most studios have never bothered to copyright these stills because they were happy to see them pass into the public domain, to be used by as many people in as many publications as possible.\"</p>\n<p>Kristin Thompson, committee chairperson of the Society for Cinema and Media Studies writes in the conclusion of a 1993 conference with cinema scholars and editors, that they \"expressed the opinion that it is not necessary for authors to request permission to reproduce frame enlargements... [and] some trade presses that publish educational and scholarly film books also take the position that permission is not necessary for reproducing frame enlargements and publicity photographs.\"</p>\n<p>Given the evidence supplied in these materials, it can be assumed that for the reasons stated above, this image is in the public domain in the United States.</p>",
+            "value": "See also <a href=\"https://en.wikipedia.org/wiki/en:Film_still#Copyright\" class=\"extiw\" title=\"w:en:Film still\">film still</a>, which explains that publicity stills were traditionally not copyrighted.",
             "source": "commons-desc-page",
             "hidden": ""
           },

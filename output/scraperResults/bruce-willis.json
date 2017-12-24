@@ -34,106 +34,159 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Bruce Willis was born in Idar-Oberstein, West Germany, the son of a German woman and an American soldier."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.gossiprocks.com/bruce-willis",
+      "parentId": 2,
+      "type": "text",
+      "text": "It is widely cited that Willis is (or was) a Lutheran and attended the Missouri Synod Lutheran Church.",
       "sourceTitle": "Bruce Willis",
-      "text": "It is widely cited that Willis is (or was) a Lutheran and attended the Missouri Synod Lutheran Church."
+      "sourceUrl": "http://www.gossiprocks.com/bruce-willis"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Bruce_Willis",
+      "type": "text",
+      "text": "If true, it appears Willis has since turned his back on the faith–and religion in general–and is now on various celebrity atheist lists.",
+      "parentId": 2,
       "sourceTitle": "Bruce Willis",
-      "text": "If true, it appears Willis has since turned his back on the faith–and religion in general–and is now on various celebrity atheist lists."
+      "sourceUrl": "http://www.celebatheists.com/wiki/Bruce_Willis"
     },
     {
-      "type": "sentence",
-      "text": "He has said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He has said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://answers.yahoo.com/question/index?qid=20091010214028AAkg8r3",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Organized religions in general, in my opinion, are dying forms. They were all very important when we didn't know why the sun moved, why weather changed, why hurricanes occurred, or volcanoes happened. Modern religion is the end trail of modern mythology. But there are people who interpret the Bible literally. Literally! I choose not to believe that's the way.",
       "sourceTitle": "What do you think of this anti-religion quote by Bruce Willis",
-      "text": "Organized religions in general, in my opinion, are dying forms. They were all very important when we didn't know why the sun moved, why weather changed, why hurricanes occurred, or volcanoes happened. Modern religion is the end trail of modern mythology. But there are people who interpret the Bible literally. Literally! I choose not to believe that's the way."
+      "sourceUrl": "http://answers.yahoo.com/question/index?qid=20091010214028AAkg8r3"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.softpedia.com/news/Bruce-Willis-Forbids-Demi-Moore-To-Raise-Their-Children-In-Kabbalah-Religion-9499.shtml",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I would assert, however, that Bruce isn't necessarily an atheist but that his condemnations are more directed at organized religion–which is also evidenced by the fact that he forbade ex-wife Demi Moore to raise their daughters in her religion of Kabbalah Judaism.",
       "sourceTitle": "Bruce Willis Forbids Demi Moore To Raise Their Children In Kabbalah Religion",
-      "text": "I would assert, however, that Bruce isn't necessarily an atheist but that his condemnations are more directed at organized religion–which is also evidenced by the fact that he forbade ex-wife Demi Moore to raise their daughters in her religion of Kabbalah Judaism."
+      "sourceUrl": "http://news.softpedia.com/news/Bruce-Willis-Forbids-Demi-Moore-To-Raise-Their-Children-In-Kabbalah-Religion-9499.shtml"
     },
     {
-      "type": "sentence",
-      "text": "Rather, Willis expresses more pantheistic views, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Rather, Willis expresses more pantheistic views, saying:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://catallaxyf.wordpress.com/2006/06/06/bruce-willis-on-politics-and-religion/",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I believe there are a lot of things in the world that happen that are inexplicable but still happen. And I accept that, and that to me is part of what I call God. But God is also this snow, and God is also the little buds that come out on the trees, little babies that get born. That's my God. But organized religion you can set on fire.",
       "sourceTitle": "Bruce Willis on politics and religion",
-      "text": "I believe there are a lot of things in the world that happen that are inexplicable but still happen. And I accept that, and that to me is part of what I call God. But God is also this snow, and God is also the little buds that come out on the trees, little babies that get born. That's my God. But organized religion you can set on fire."
+      "sourceUrl": "http://catallaxyf.wordpress.com/2006/06/06/bruce-willis-on-politics-and-religion/"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://catallaxyf.wordpress.com/2006/06/06/bruce-willis-on-politics-and-religion/",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Willis is often considered a rarity in Democrat, liberal Hollywood–a Republican. The truth is, he's got his own views, some of which would be considered conservative, some of which would be considered liberal. He is pro-free health care (at least for the elderly)",
       "sourceTitle": "Bruce Willis on politics and religion",
-      "text": "Willis is often considered a rarity in Democrat, liberal Hollywood–a Republican. The truth is, he's got his own views, some of which would be considered conservative, some of which would be considered liberal. He is pro-free health care (at least for the elderly)"
+      "sourceUrl": "http://catallaxyf.wordpress.com/2006/06/06/bruce-willis-on-politics-and-religion/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.webcitation.org/5msOk5618",
+      "type": "text",
+      "text": "but he's also pro-gun ownership rights.",
+      "parentId": 9,
       "sourceTitle": "Being Bruce Willis Means being honest",
-      "text": "but he's also pro-gun ownership rights."
+      "sourceUrl": "http://www.webcitation.org/5msOk5618"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.latimes.com/keyword/michael-dukakis",
+      "type": "text",
+      "text": "He endorsed Democrat Michael Dukakis for president in 1988",
+      "parentId": 9,
       "sourceTitle": "Articles about Michael Dukakis",
-      "text": "He endorsed Democrat Michael Dukakis for president in 1988"
+      "sourceUrl": "http://articles.latimes.com/keyword/michael-dukakis"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.democraticunderground.com/discuss/duboard.php?az=view_all&address=364x1138017",
+      "type": "text",
+      "text": "but has spoken out in favor of every Republican president since–including George W. Bush.",
+      "parentId": 9,
       "sourceTitle": "So Bruce Willis goes the George W. Bush route",
-      "text": "but has spoken out in favor of every Republican president since–including George W. Bush."
+      "sourceUrl": "http://www.democraticunderground.com/discuss/duboard.php?az=view_all&address=364x1138017"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "In his own words, Willis is tired of talking about it:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://politicalalchemist.com/index.php?topic=1295.0",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I'm a Republican only as far as I want a smaller government. I want less government intrusion. I want them to stop pissing on my money and your money, the tax dollars that we give 50 percent of, or 40 percent of, every year, and I want them to be fiscally responsible, and I want these goddamn lobbyists out of Washington. Do that and I'll say I'm a Republican… Okay. I admit it. I hate government and I hate political parties.",
       "sourceTitle": "Great Bruce Willis Quote",
-      "text": "I'm a Republican only as far as I want a smaller government. I want less government intrusion. I want them to stop pissing on my money and your money, the tax dollars that we give 50 percent of, or 40 percent of, every year, and I want them to be fiscally responsible, and I want these goddamn lobbyists out of Washington. Do that and I'll say I'm a Republican… Okay. I admit it. I hate government and I hate political parties."
+      "sourceUrl": "http://politicalalchemist.com/index.php?topic=1295.0"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Well, he's honest."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

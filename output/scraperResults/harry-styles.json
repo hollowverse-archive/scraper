@@ -29,53 +29,69 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Harry Styles was born in Evesham, Worcestershire, England and grew up in Holmes Chapel, Cheshire, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Styles doesn't appear to be very religious and the legions of tween girls that love him enjoy speculating what religion he is, most likely so they can sell their plans of marrying Styles to their religious parents."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://uk.answers.yahoo.com/question/index?qid=20120220133017AAvA5lw",
+      "parentId": 3,
+      "type": "text",
+      "text": "The general consensus seems to be that Styles is Catholic.",
       "sourceTitle": "Is harry styles a catholic?",
-      "text": "The general consensus seems to be that Styles is Catholic."
+      "sourceUrl": "http://uk.answers.yahoo.com/question/index?qid=20120220133017AAvA5lw"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.quibblo.com/quiz/gEKb_Pi/How-well-do-you-know-One-Direction-D?view_quiz=1",
+      "type": "text",
+      "text": "The only piece of supporting evidence is the fact that Mr. Styles frequently wears a cross necklace.",
+      "parentId": 3,
       "sourceTitle": "Quiz: How well do you know One Direction",
-      "text": "The only piece of supporting evidence is the fact that Mr. Styles frequently wears a cross necklace."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.quibblo.com/quiz/gEKb_Pi/How-well-do-you-know-One-Direction-D?view_quiz=1"
     },
     {
       "type": "heading",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "Politics of Style"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=SFzq3ZkdubE",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Well, the boys in One Direction don't have much time for politics. They're very busy with their touring and recording schedule, and pussy.",
       "sourceTitle": "Harry Styles whispers to Matt Cardle \"Think how much pussy you're gonna get\" on X Factor",
-      "text": "Well, the boys in One Direction don't have much time for politics. They're very busy with their touring and recording schedule, and pussy."
+      "sourceUrl": "http://www.youtube.com/watch?v=SFzq3ZkdubE"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "In all reality, Styles is probably too young and distracted to get into politics. But considering his youth and social status, he'd probably be a liberal if forced to take a position."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

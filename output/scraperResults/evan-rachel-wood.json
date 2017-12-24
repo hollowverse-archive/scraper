@@ -35,124 +35,200 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Evan Rachel Wood was born and raised in Raleigh, North Carolina."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=590",
+      "parentId": 2,
+      "type": "text",
+      "text": "Wood's mother is Jewish, but her father was not Jewish–most likely Christian or non-religious–",
       "sourceTitle": "Evan Rachel Wood.",
-      "text": "Wood's mother is Jewish, but her father was not Jewish–most likely Christian or non-religious–"
+      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=590"
     },
     {
-      "type": "sentence",
-      "text": "which makes her Jewish, sort of. In describing her mother, she said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "which makes her Jewish, sort of. In describing her mother, she said,",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.parade.com/celebrity/celebrity-parade/archive/evan-rachel-wood-dating-older-men.html",
-      "sourceTitle": "Evan Rachel Wood: Dating Older Men 'Works For Me.'",
-      "text": "She made every boyfriend in my life miserable. And she absolutely still gets up in my business. She's a Jewish mother, so I was raised by a Jewish southern mother. I definitely went through the ringer."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "She made every boyfriend in my life miserable. And she absolutely still gets up in my business. She's a Jewish mother, so I was raised by a Jewish southern mother. I definitely went through the ringer.",
+      "sourceTitle": "Evan Rachel Wood: Dating Older Men 'Works For Me.'",
+      "sourceUrl": "http://www.parade.com/celebrity/celebrity-parade/archive/evan-rachel-wood-dating-older-men.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Not exactly the most sympathetic description of one's mother I've found, but you can't judge a whole childhood from one quote. Nevertheless, she doesn't consider herself Jewish anymore. In response to a fan's question about her spirituality, she tweeted,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/evanrachelwood/status/264567124775825409",
-      "sourceTitle": "evanrachelwood: I believe in god but i am not …",
-      "text": "I believe in god but i am not religious. I am spiritual. My definition of god isnt in any religion. Its very personal."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I believe in god but i am not religious. I am spiritual. My definition of god isnt in any religion. Its very personal.",
+      "sourceTitle": "evanrachelwood: I believe in god but i am not …",
+      "sourceUrl": "https://twitter.com/evanrachelwood/status/264567124775825409"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "So there you have it: once a Jew, but not anymore. It's spirituality sans religion for Wood now."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "What kind of a world?"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Wood joins many of her other celebrity friends on the left side of the aisle. Around election time in 2012, she retweeted several Obama tweets including this one:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 11
     },
     {
-      "type": "quote",
-      "sourceUrl": "https://twitter.com/evanrachelwood",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "This happened because of you. Thank you.",
       "sourceTitle": "Evan Rachel Wood (evanrachelwood) on Twitter.",
-      "text": "This happened because of you. Thank you."
+      "sourceUrl": "https://twitter.com/evanrachelwood"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2011/10/05/evan-rachel-wood-talks-sex-politics-and-bisexuality_n_996668.html",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "And she's taken up most of the other liberal causes of the day on her Twitter feed. Gay marriage in particular is a personal cause for the openly bisexual",
       "sourceTitle": "Evan Rachel Wood Talks Sex, Politics And Bisexuality.",
-      "text": "And she's taken up most of the other liberal causes of the day on her Twitter feed. Gay marriage in particular is a personal cause for the openly bisexual"
+      "sourceUrl": "http://www.huffingtonpost.com/2011/10/05/evan-rachel-wood-talks-sex-politics-and-bisexuality_n_996668.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.gossipcop.com/celebrities-reaction-obama-gay-marriage-twitter/",
+      "type": "text",
+      "text": "actress. She celebrated Obama when he announced his support for gay marriage,",
+      "parentId": 13,
       "sourceTitle": "Celebrities React to President Obama Supporting Gay Marriage.",
-      "text": "actress. She celebrated Obama when he announced his support for gay marriage,"
+      "sourceUrl": "http://www.gossipcop.com/celebrities-reaction-obama-gay-marriage-twitter/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/evanrachelwood/status/196514414776696832",
+      "type": "text",
+      "text": "and after actively campaigning against a ban on gay marriage in her home state of North Carolina,",
+      "parentId": 13,
       "sourceTitle": "evanrachelwood: Support gay marriage in North …",
-      "text": "and after actively campaigning against a ban on gay marriage in her home state of North Carolina,"
+      "sourceUrl": "https://twitter.com/evanrachelwood/status/196514414776696832"
     },
     {
-      "type": "sentence",
-      "text": "she sounded heartbroken in a series of tweets when the referendum passed. She wrote,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "she sounded heartbroken in a series of tweets when the referendum passed. She wrote,",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://m.vh1.com/news/article.rbml?id=1684760",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Just bent over on set and cried over this outcome. I hope my children see a more peaceful and tolerant world.",
       "sourceTitle": "Clay Aiken, President Obama Disappointed By North Carolina Gay Marriage Ban.",
-      "text": "Just bent over on set and cried over this outcome. I hope my children see a more peaceful and tolerant world."
+      "sourceUrl": "http://m.vh1.com/news/article.rbml?id=1684760"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/evanrachelwood/status/279655923440574464",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "She's also tweeted her support for gun control",
       "sourceTitle": "evanrachelwood: What is it going to take? #guncontrol.",
-      "text": "She's also tweeted her support for gun control"
+      "sourceUrl": "https://twitter.com/evanrachelwood/status/279655923440574464"
     },
     {
-      "type": "sentence",
-      "text": "and women's issues. About the Obama administration's announcement in early 2012 that health insurers would be required to provide contraception free of charge, which caused uproar among Catholic employers, Wood tweeted,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and women's issues. About the Obama administration's announcement in early 2012 that health insurers would be required to provide contraception free of charge, which caused uproar among Catholic employers, Wood tweeted,",
+      "parentId": 16
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/evanrachelwood/status/280735323594584064",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Isnt forcing your religious beliefs on your employees a violation of THEIR religious freedom. Where is their freedom to choose?",
       "sourceTitle": "evanrachelwood: Isn't forcing your religious …",
-      "text": "Isnt forcing your religious beliefs on your employees a violation of THEIR religious freedom. Where is their freedom to choose?"
+      "sourceUrl": "https://twitter.com/evanrachelwood/status/280735323594584064"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "No ambiguity here. Evan Rachel Wood is clearly on the side of the liberal Democrats."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

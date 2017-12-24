@@ -32,126 +32,186 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ginnifer Goodwin, born Jennifer Goodwin, was born and raised in Memphis, Tennessee."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.juf.org/tweens/celebrity.aspx?id=30364",
+      "parentId": 2,
+      "type": "text",
+      "text": "Goodwin is Jewish. She attended Jewish summer camp growing up and was an active member of Memphis' B'nai B'rith Youth Organization at their Jewish Community Center.",
       "sourceTitle": "Ginnifer Goodwin",
-      "text": "Goodwin is Jewish. She attended Jewish summer camp growing up and was an active member of Memphis' B'nai B'rith Youth Organization at their Jewish Community Center."
+      "sourceUrl": "http://www.juf.org/tweens/celebrity.aspx?id=30364"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nextmovie.com/blog/jewish-movie-stars/",
+      "type": "text",
+      "text": "She also had a Bat Mitzvah.",
+      "parentId": 2,
       "sourceTitle": "20 Movie Stars You Didn't Know Were Jewish",
-      "text": "She also had a Bat Mitzvah."
+      "sourceUrl": "http://www.nextmovie.com/blog/jewish-movie-stars/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://sdjewishjournal.com/site/2011/ginnifer-goodwin-and-kate-hudson-talk-life-love-and-jewish-geography-in-%E2%80%98marie-claire%E2%80%99-magazine/",
+      "parentId": 3,
+      "type": "text",
+      "text": "But it's not something she really discusses in detail. During an interview with fellow Jewish starlet, Kate Hudson, she discussed familial/religious connections between herself and the interviewer.",
       "sourceTitle": "Ginnifer Goodwin and Kate Hudson Talk Life, Love and 'Jewish Geography' in Marie Claire Magazine",
-      "text": "But it's not something she really discusses in detail. During an interview with fellow Jewish starlet, Kate Hudson, she discussed familial/religious connections between herself and the interviewer."
+      "sourceUrl": "http://sdjewishjournal.com/site/2011/ginnifer-goodwin-and-kate-hudson-talk-life-love-and-jewish-geography-in-%E2%80%98marie-claire%E2%80%99-magazine/"
     },
     {
-      "type": "sentence",
-      "text": "But other than that, Goodwin seems either largely non-religious or just quiet about her faith."
+      "type": "text",
+      "text": "But other than that, Goodwin seems either largely non-religious or just quiet about her faith.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.vulture.com/2011/03/ginnifer_goodwin_on_the_end_of.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "On an interesting side-note, Goodwin did play one of a handful of wives on the show about fringe-Mormon polygamy,"
+    },
+    {
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "Big Love"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 4,
       "sourceTitle": "Ginnifer Goodwin on the End of Big Love",
-      "text": "On an interesting side-note, Goodwin did play one of a handful of wives on the show about fringe-Mormon polygamy, ."
+      "sourceUrl": "http://www.vulture.com/2011/03/ginnifer_goodwin_on_the_end_of.html"
     },
     {
-      "type": "sentence",
-      "text": "When asked about her views on polygamy, she said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "When asked about her views on polygamy, she said:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/g/ginnifer_goodwin.html?vm=l",
-      "sourceTitle": "Ginnifer Goodwin Quotes",
-      "text": "I am much more open to plural marriage than I was before, and I now support it in certain situations. I do believe it is right for some people. But our example in America today is gross abuse – I can't support it in fundamentalist compounds."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I am much more open to plural marriage than I was before, and I now support it in certain situations. I do believe it is right for some people. But our example in America today is gross abuse – I can't support it in fundamentalist compounds.",
+      "sourceTitle": "Ginnifer Goodwin Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/g/ginnifer_goodwin.html?vm=l"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Just goes to show you how a little knowledge can change one's perspective."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Good, winning politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Insights into Goodwin's politics come mostly through her Twitter feed. During the 2012 elections, it's clear that she was an Obama supporter when she retweeted the recently re-elected president's message:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/ginnygoodwin",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "This happened because of you. Thank you.",
       "sourceTitle": "Ginnifer Goodwin (ginnygoodwin) on Twitter",
-      "text": "This happened because of you. Thank you."
+      "sourceUrl": "https://twitter.com/ginnygoodwin"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/ginnygoodwin",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Later, she retweeted yet another Obama message in favor of gay marriage.",
       "sourceTitle": "Ginnifer Goodwin (ginnygoodwin) on Twitter",
-      "text": "Later, she retweeted yet another Obama message in favor of gay marriage."
+      "sourceUrl": "https://twitter.com/ginnygoodwin"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/ginnygoodwin",
+      "type": "text",
+      "text": "Still more, she retweeted an Obama message in favor of gun control.",
+      "parentId": 12,
       "sourceTitle": "Ginnifer Goodwin (ginnygoodwin) on Twitter",
-      "text": "Still more, she retweeted an Obama message in favor of gun control."
+      "sourceUrl": "https://twitter.com/ginnygoodwin"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "So that makes her an Obama-supporting, pro-gay marriage, pro-gun control liberal Democrat, I would say."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cnn.com/2010/HEALTH/12/30/ginnifer.goodwin.health/index.html",
+      "parentId": 14,
+      "type": "text",
+      "text": "Beyond that, Goodwin has had a lot to say about the female body image. Goodwin admits that she's always struggled with her weight and has adopted many specialized eating practices to control it.",
       "sourceTitle": "Ginnifer Goodwin: 'Healthy is Beautiful",
-      "text": "Beyond that, Goodwin has had a lot to say about the female body image. Goodwin admits that she's always struggled with her weight and has adopted many specialized eating practices to control it."
+      "sourceUrl": "http://www.cnn.com/2010/HEALTH/12/30/ginnifer.goodwin.health/index.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebitchy.com/157865/ginnifer_goodwin_i_have_very_real_hips_a_real_southern_womans_ass/",
+      "type": "text",
+      "text": "As a result, she has spoken out about the damage American society can have on a girl's body image.",
+      "parentId": 14,
       "sourceTitle": "Ginnifer Goodwin: \"I have very real hips & a real Southern woman's ass",
-      "text": "As a result, she has spoken out about the damage American society can have on a girl's body image."
+      "sourceUrl": "http://www.celebitchy.com/157865/ginnifer_goodwin_i_have_very_real_hips_a_real_southern_womans_ass/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "I'm not sure that's a partisan view–perhaps you readers can weigh in."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

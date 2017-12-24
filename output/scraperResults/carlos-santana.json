@@ -35,100 +35,171 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ptm.org/11PT/fall/SelectArtcl.htm",
+      "parentId": 1,
+      "type": "text",
+      "text": "Carlos Santana was born in Autlán de Navarro, Mexico and grew up in San Francisco, California."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "He was raised a Catholic, an experience he likened to \"branding a cow with guilt, shame, judgment, condemnation, and fear.\"",
       "sourceTitle": "Carlos Santana's Spiritual Journey",
-      "text": "He was raised a Catholic, an experience he likened to \"branding a cow with guilt, shame, judgment, condemnation, and fear.\""
+      "sourceUrl": "http://www.ptm.org/11PT/fall/SelectArtcl.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.srichinmoy.org/",
+      "parentId": 3,
+      "type": "text",
+      "text": "Despite the obvious spiritualism of Santana's music in the 60s, he was adrift until 1972 when he and his then-wife, Deborah, joined with the cult of Indian guru, Sri Chinmoy. He was a devout follower of Chinmoy's meta-denominational, interfaith, Eastern-oriented teachings",
       "sourceTitle": "Sri Chinmoy",
-      "text": "Despite the obvious spiritualism of Santana's music in the 60s, he was adrift until 1972 when he and his then-wife, Deborah, joined with the cult of Indian guru, Sri Chinmoy. He was a devout follower of Chinmoy's meta-denominational, interfaith, Eastern-oriented teachings"
+      "sourceUrl": "http://www.srichinmoy.org/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ptm.org/11PT/fall/SelectArtcl.htm",
+      "type": "text",
+      "text": "until 1981 when he felt the guru had become intolerant and preachy.",
+      "parentId": 3,
       "sourceTitle": "Carlos Santana's Spiritual Journey",
-      "text": "until 1981 when he felt the guru had become intolerant and preachy."
+      "sourceUrl": "http://www.ptm.org/11PT/fall/SelectArtcl.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "He didn't get jaded, though. Rather, he took a broad view of religions and spirituality, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.enlightennext.org/magazine/j28/santana.asp",
-      "sourceTitle": "Carlos Santana: The Uncompromising Spiritual Passionand Positivity of Carlos Santana",
-      "text": "I have crystallized all my religion into no religion—into spirituality. Religion is finely designed to divide and separate; spirituality brings unity and forgiveness and compassion."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I have crystallized all my religion into no religion—into spirituality. Religion is finely designed to divide and separate; spirituality brings unity and forgiveness and compassion.",
+      "sourceTitle": "Carlos Santana: The Uncompromising Spiritual Passionand Positivity of Carlos Santana",
+      "sourceUrl": "http://www.enlightennext.org/magazine/j28/santana.asp"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Now, Santana wants to share his lifetime of acquired spiritual wisdom. Shocking the music world in 2008, Santana announced that he would be retiring from music at the age of 67 (or in 2015) to preach his own brand of Christianity in Hawaii. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.starpulse.com/news/index.php/2008/10/06/carlos_santana_to_quit_music_for_religio",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I find that God gave me the gift of communication even without my guitar and with the ability to get people unstuck with certain sections of the Bible having to do with guilt, shame, judgment and fear.",
       "sourceTitle": "Carlos Santana To Quit Music For Religion",
-      "text": "I find that God gave me the gift of communication even without my guitar and with the ability to get people unstuck with certain sections of the Bible having to do with guilt, shame, judgment and fear."
+      "sourceUrl": "http://www.starpulse.com/news/index.php/2008/10/06/carlos_santana_to_quit_music_for_religio"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Black Magic politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Santana fully embraced the peacenik, free love ethic of the 60s–and even now he's an old hippie at heart. He'll say things at concerts like:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 13
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.tulsaworld.com/scene/article.aspx?subjectid=269&articleid=20110909_269_D3_CUTLIN643958",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "We are the weapons of mass compassion… Perfect love casts out fear. Put that on the front of the Pentagon… Light and love is a way we can transform this planet and have peace in our lifetime.",
       "sourceTitle": "Carlos Santana gets political at BOK show",
-      "text": "We are the weapons of mass compassion… Perfect love casts out fear. Put that on the front of the Pentagon… Light and love is a way we can transform this planet and have peace in our lifetime."
+      "sourceUrl": "http://www.tulsaworld.com/scene/article.aspx?subjectid=269&articleid=20110909_269_D3_CUTLIN643958"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nj.com/hudson/voices/index.ssf/2011/05/carlos_santana_american_citize.html",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "And as a Mexican-American immigrant who became a nationalized U.S. citizen in 1965,",
       "sourceTitle": "Carlos Santana, American citizen, sides with Hispanic lobby on jobs",
-      "text": "And as a Mexican-American immigrant who became a nationalized U.S. citizen in 1965,"
+      "sourceUrl": "http://www.nj.com/hudson/voices/index.ssf/2011/05/carlos_santana_american_citize.html"
     },
     {
-      "type": "sentence",
-      "text": "Santana has sided with pro-immigration sentiment. Referring to the rash of SB 1070 copycat laws (the Arizona law allowing local and state law enforcement to question those they suspect to be illegal immigrants) that swept the U.S., Santana said while accepting the Beacon of Change Award at a baseball game:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Santana has sided with pro-immigration sentiment. Referring to the rash of SB 1070 copycat laws (the Arizona law allowing local and state law enforcement to question those they suspect to be illegal immigrants) that swept the U.S., Santana said while accepting the Beacon of Change Award at a baseball game:",
+      "parentId": 15
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.philly2philly.com/politics_community/the_water_cooler/2011/5/16/47116/carlos_santanas_immigration_law_rant_during_phil",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "The people of Arizona, and the people of Atlanta, Georgia, you should be ashamed of yourselves. It's a cruel law, actually…This is about fear. Stop shucking and jiving. People are afraid we're going to steal your job. No, we aren't. You're not going to change sheets and clean toilets.",
       "sourceTitle": "Carlos Santana's Immigration Law Rant During Phillies-Braves Game",
-      "text": "The people of Arizona, and the people of Atlanta, Georgia, you should be ashamed of yourselves. It's a cruel law, actually…This is about fear. Stop shucking and jiving. People are afraid we're going to steal your job. No, we aren't. You're not going to change sheets and clean toilets."
+      "sourceUrl": "http://www.philly2philly.com/politics_community/the_water_cooler/2011/5/16/47116/carlos_santanas_immigration_law_rant_during_phil"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "In some circles, that'd be called a liberal viewpoint."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

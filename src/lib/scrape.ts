@@ -1,17 +1,40 @@
 import * as cheerio from 'cheerio';
 import { URL } from 'url';
 import { replaceSmartQuotes } from './helpers';
-import { last } from 'lodash';
+import { findLastIndex } from 'lodash';
 import { format, parse } from 'date-fns';
 import { isURL } from 'validator';
 
-type Piece = {
-  type: 'sentence' | 'quote' | 'heading';
+type Piece = InlinePiece | BlockPiece;
+
+type Text = {
+  parentId: number;
+  type: 'text';
   text: string;
   sourceUrl?: string;
   sourceTitle?: string;
-  sourceName?: string;
 };
+
+type Emphasis = {
+  parentId: number;
+  type: 'emphasis';
+  text: string;
+};
+
+type InlineLink = {
+  parentId: number;
+  type: 'link';
+  text: string;
+  sourceUrl: string;
+  sourceTitle: string | undefined;
+};
+
+type BlockPiece = {
+  id: number;
+  parentId: number | undefined;
+  type: 'paragraph' | 'quote' | 'heading';
+};
+type InlinePiece = InlineLink | Text | Emphasis;
 
 type StubResult = {
   name: string;
@@ -22,12 +45,16 @@ type StubResult = {
   }>;
 };
 
-type Break = {
-  type: 'break';
-};
+export function isBlockPiece(obj: Piece): obj is BlockPiece {
+  return 'id' in obj && (obj as BlockPiece).id !== undefined;
+}
 
-export function isPiece(obj: Break | Piece): obj is Piece {
-  return obj.type !== 'break';
+export function isInlinePiece(obj: Piece): obj is InlinePiece {
+  return 'parentId' in obj && (obj as InlinePiece).parentId !== undefined;
+}
+
+export function hasParent(obj: Piece): obj is InlinePiece {
+  return 'parentId' in obj && (obj as InlinePiece).parentId !== undefined;
 }
 
 type CompleteResult = {
@@ -41,7 +68,7 @@ type CompleteResult = {
   lastUpdatedOn?: string;
   religion?: string;
   politicalViews?: string;
-  content: Array<Piece | Break>;
+  content: Piece[];
 };
 
 export type Result = CompleteResult | StubResult;
@@ -54,7 +81,6 @@ const urlValidationOptions = {
   protocols: ['https', 'http'],
 };
 
-
 export function isResultWithContent(
   result: CompleteResult | StubResult,
 ): result is CompleteResult {
@@ -64,65 +90,172 @@ export function isResultWithContent(
   );
 }
 
-function scrapeText($: CheerioStatic, e: CheerioElement) {
-  let text = '';
-  let sourceUrl;
-  let sourceTitle;
-  const content = [];
-  for (const node of e.childNodes) {
-    if (node.type === 'text') {
-      text += node.nodeValue;
-    } else if (node.type === 'tag' && node.tagName === 'sup') {
-      const $sup = $(node);
-      const id = $sup.find('a').attr('href');
+function isBlockTagName(tagName: string) {
+  return [
+    'h1',
+    'h2',
+    'h3',
+    'h4',
+    'h5',
+    'h6',
+    'div',
+    'p',
+    'blockquote',
+  ].includes(tagName);
+}
 
+function hasPossibleSource(piece: Piece): piece is InlineLink | Text {
+  return (
+    (!isBlockPiece(piece) && piece.type === 'text') || piece.type === 'link'
+  );
+}
+
+function getKind(tagName: string) {
+  if (['h1', 'h2', 'h3', 'h4', 'h5', 'h6'].includes(tagName)) {
+    return 'heading';
+  } else if (tagName === 'blockquote') {
+    return 'quote';
+  }
+
+  return 'paragraph';
+}
+
+// tslint:disable-next-line:max-func-body-length
+function getPieces(
+  $: CheerioStatic,
+  e: CheerioElement,
+  getId: () => number,
+  rootId: number | undefined,
+) {
+  const content: Piece[] = [];
+  const isBlock = isBlockTagName(e.tagName);
+  
+  let parentId: number;
+
+  if (typeof rootId === 'number') {
+    parentId = rootId;
+  }
+
+  if (isBlock) {
+    const kind = getKind(e.tagName);
+    const parent: BlockPiece = {
+      type: kind,
+      id: getId(),
+      parentId: rootId,
+    };
+
+    parentId = parent.id;
+
+    content.push(parent);
+  }
+
+  e.childNodes.forEach(node => {
+    const $node = $(node);
+    const lastTextPieceIndex = findLastIndex(content, { type: 'text' });
+    const lastTextPiece =
+      lastTextPieceIndex !== -1 ? content[lastTextPieceIndex] : undefined;
+
+    if (node.type === 'tag' && node.tagName === 'sup') {
       try {
+        const refId = $node.find('a').attr('href');
         const $a = $.root()
-          .find(id)
+          .find(refId)
           .find('a:first-of-type');
-
         const href = $a.attr('href').trim();
-        if (isURL(href, urlValidationOptions)) {
-          sourceUrl = href;
-          sourceTitle = $a.text() || undefined;
+        if (
+          isURL(href, urlValidationOptions) &&
+          lastTextPiece &&
+          hasPossibleSource(lastTextPiece)
+        ) {
+          lastTextPiece.sourceUrl = href;
+          lastTextPiece.sourceTitle = $a.text() || undefined;
         }
-        content.push({ text, sourceUrl, sourceTitle });
-        sourceUrl = undefined;
-        sourceTitle = undefined;
-        text = '';
-        continue;
       } catch (e) {
         // Reference is not formatted correctly, do nothing
       }
+    } else if (node.tagName === 'a') {
+      content.push({
+        parentId,
+        type: 'link',
+        text: $(node).text(),
+        sourceUrl: $(node).attr('href'),
+        sourceTitle: undefined,
+      });
+    } else if (['em', 'b', 'i'].includes(node.tagName)) {
+      content.push({
+        parentId,
+        type: 'emphasis',
+        text: $(node).text(),
+      });
+    } else if (node.type === 'tag' && node.childNodes.length > 0) {
+      content.push(...getPieces($, node, getId, parentId));
+    } else {
+      const text = node.type === 'text' ? node.nodeValue : $(node).text();
+      if (
+        lastTextPiece &&
+        lastTextPieceIndex === content.length - 1 &&
+        isInlinePiece(lastTextPiece)
+      ) {
+        lastTextPiece.text += text;
+      } else {
+        content.push({
+          parentId,
+          type: 'text',
+          text,
+        });
+      }
+
+      return;
     }
 
-    if (node === last(e.childNodes)) {
-      content.push({ text, sourceUrl, sourceTitle });
-      sourceUrl = undefined;
-      sourceTitle = undefined;
-      text = '';
-    }
-  }
+    content.push({ type: 'text', text: '', parentId });
+  });
 
-  return (
-    content
-      // tslint:disable-next-line:no-shadowed-variable
-      .map(({ sourceTitle, sourceUrl, text }) => ({
-        sourceUrl,
-        sourceTitle:
-          sourceTitle !== undefined
-            ? replaceSmartQuotes(sourceTitle)
-            : undefined,
-        text: replaceSmartQuotes(text.trim()),
-      }))
-      .filter(v => v.text)
-  );
+  return content
+    .map(result => {
+      if (isBlockPiece(result)) {
+        return result;
+      }
+
+      let { text } = result;
+      text = replaceSmartQuotes(text.trim());
+
+      if (result.type === 'text') {
+        let { sourceTitle } = result;
+        const { sourceUrl, ...rest } = result;
+        if (sourceTitle) {
+          sourceTitle = replaceSmartQuotes(sourceTitle.trim());
+        }
+
+        return {
+          ...rest,
+          sourceUrl,
+          sourceTitle,
+          text,
+        };
+      }
+
+      return {
+        ...result,
+        text,
+      };
+    })
+    .filter(v => isBlockPiece(v) || Boolean(v.text));
 }
+
+const createGetId = () => {
+  let i = 0;
+
+  return () => {
+    i = i + 1;
+
+    return i;
+  };
+};
 
 const STUB_TEXT =
   'Share what you know about the religion and political views of ';
 
-// tslint:disable-next-line:max-func-body-length
 export async function scrapeHtml(html: string): Promise<Result> {
   const $ = cheerio.load(html);
 
@@ -202,29 +335,13 @@ export async function scrapeHtml(html: string): Promise<Result> {
 
   const content: CompleteResult['content'] = [];
 
-  $entryContent.find('> p, h2, blockquote').each((_, e) => {
-    const type =
-      e.tagName === 'p'
-        ? 'sentence'
-        : e.tagName === 'blockquote' ? 'quote' : 'heading';
+  const getId = createGetId();
 
-    if (type === 'quote') {
-      $(e)
-        .find('p')
-        .each((__, p) => {
-          scrapeText($, p).forEach(v => {
-            content.push({ type, ...v });
-          });
-        });
-    } else {
-      scrapeText($, e).forEach(v => {
-        content.push({ type, ...v });
-      });
-      if (e.tagName === 'p') {
-        content.push({ type: 'break' });
-      }
-    }
-  });
+  $entryContent
+    .find('> p, > h2, > h3, > h4, > h5, > h6, > blockquote')
+    .each((_, e) => {
+      content.push(...getPieces($, e, getId, undefined));
+    });
 
   return {
     name,

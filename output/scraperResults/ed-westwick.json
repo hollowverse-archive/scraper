@@ -32,74 +32,86 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ed Westwick was born and raised in Stevenage, Hertfordshire, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.aceshowbiz.com/celebrity/ed_westwick/profile.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Westwick doesn't appear to be religious. He went to a primary school affiliated with the Church of England,",
       "sourceTitle": "Ed Westwick Profile and Personal Info.",
-      "text": "Westwick doesn't appear to be religious. He went to a primary school affiliated with the Church of England,"
+      "sourceUrl": "http://www.aceshowbiz.com/celebrity/ed_westwick/profile.html"
     },
     {
-      "type": "sentence",
-      "text": "so chances are, he has some Anglican family history like so many other Englishmen. But considering that I couldn't find any quote or other evidence that he's ever thought about God or the church outside of his early school days, I'd say it probably didn't have too strong a hold on him."
+      "type": "text",
+      "text": "so chances are, he has some Anglican family history like so many other Englishmen. But considering that I couldn't find any quote or other evidence that he's ever thought about God or the church outside of his early school days, I'd say it probably didn't have too strong a hold on him.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "If any of you diligent Hollowverse readers have any other information to lead us in any direction, please let us know in the comments. Until then, it's an inconclusive non-religious for Westwick."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=flEE-d896dI",
+      "parentId": 4,
+      "type": "text",
+      "text": "Likewise, the actor doesn't have a word to say about politics–either in Britain or in the U.S., where he currently lives. He was invited by Obama to the White House Correspondents' Dinner in 2009, which he said was \"an absolute honor.\"",
       "sourceTitle": "Obama invited Ed Westwick for dinner!",
-      "text": "Likewise, the actor doesn't have a word to say about politics–either in Britain or in the U.S., where he currently lives. He was invited by Obama to the White House Correspondents' Dinner in 2009, which he said was \"an absolute honor.\""
+      "sourceUrl": "http://www.youtube.com/watch?v=flEE-d896dI"
     },
     {
-      "type": "sentence",
-      "text": "But he didn't say whether or not he agreed with Obama's politics."
+      "type": "text",
+      "text": "But he didn't say whether or not he agreed with Obama's politics.",
+      "parentId": 4
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "Considering his profession and the fact that he's a Brit, I would assume he's probably liberal at least by American standards. But this is all just speculation. Again, if you know any different, or have can confirm my wild guesses with some facts, please let us know in the comments!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Ed_Westwick",
     "title": "Ed Westwick",
     "image": {
-      "name": "Ed_Westwick_2010.jpg",
+      "name": "Ed_Westwick_July_2010_cropped.jpg",
       "info": {
-        "canonicaltitle": "File:Ed Westwick 2010.jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ed_Westwick_2010.jpg/225px-Ed_Westwick_2010.jpg",
-        "thumbwidth": 225,
+        "canonicaltitle": "File:Ed Westwick July 2010 cropped.jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ed_Westwick_July_2010_cropped.jpg/238px-Ed_Westwick_July_2010_cropped.jpg",
+        "thumbwidth": 238,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Ed_Westwick_2010.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ed_Westwick_2010.jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11045256",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Ed_Westwick_July_2010_cropped.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ed_Westwick_July_2010_cropped.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18053838",
         "extmetadata": {
           "DateTime": {
-            "value": "2010-07-30 11:56:55",
+            "value": "2012-01-15 14:16:21",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "Ed Westwick 2010",
+            "value": "Ed Westwick July 2010 cropped",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -109,7 +121,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Ed Westwick|Files from Greg Hernandez Flickr stream|Flickr images reviewed by FlickreviewR",
+            "value": "Ed Westwick|Extracted images|Files from Greg Hernandez Flickr stream",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -127,7 +139,7 @@
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/greginhollywood/4840889075/\">Flickr</a>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/greginhollywood/4840830367/in/photostream/\">Flickr</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },

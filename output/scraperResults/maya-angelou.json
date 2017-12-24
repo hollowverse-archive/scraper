@@ -39,140 +39,247 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.scribd.com/doc/92763/Maya-Angelous-Influences",
+      "parentId": 1,
+      "type": "text",
+      "text": "Maya Angelou, who was born Marguerite Ann Johnson, was born in St. Louis, Missouri and grew up there, in Stamps, Arkansas and in Oakland, California."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "When in Stamps, Angelou was raised by her grandmother who was apparently a strong Christian woman.",
       "sourceTitle": "Maya Angelous's Influences",
-      "text": "When in Stamps, Angelou was raised by her grandmother who was apparently a strong Christian woman."
+      "sourceUrl": "http://www.scribd.com/doc/92763/Maya-Angelous-Influences"
     },
     {
-      "type": "sentence",
-      "text": "But Angelou found that she wasn't satisfied just accepting the religion of her family and explored a wide variety of faiths–before coming full-circle back to Christianity. She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But Angelou found that she wasn't satisfied just accepting the religion of her family and explored a wide variety of faiths–before coming full-circle back to Christianity. She said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://articles.latimes.com/1992-05-17/news/tv-76_1_maya-angelou",
-      "sourceTitle": "Maya Angelou: Of Religion and Rainbows",
-      "text": "Yes. I have always tried to find myself a church. I have studied everything. I spent some time with Zen Buddhism and Judaism and I spent some time with Islam. I am a religious person. It is my spirit, but I found that I really want to be a Christian. That is what my spirit seems to be built on."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Yes. I have always tried to find myself a church. I have studied everything. I spent some time with Zen Buddhism and Judaism and I spent some time with Islam. I am a religious person. It is my spirit, but I found that I really want to be a Christian. That is what my spirit seems to be built on.",
+      "sourceTitle": "Maya Angelou: Of Religion and Rainbows",
+      "sourceUrl": "http://articles.latimes.com/1992-05-17/news/tv-76_1_maya-angelou"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "What kind of Christian did she ultimately become? Well, nobody puts Maya in a corner! She's a bit Methodist and a bit Baptist. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://articles.latimes.com/1992-05-17/news/tv-76_1_maya-angelou",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "When I am on the coast it is my church. It is a Methodist church. And I belong here [in North Carolina] to a Baptist Church. I simply refuse to be controlled.",
       "sourceTitle": "Maya Angelou: Of Religion and Rainbows",
-      "text": "When I am on the coast it is my church. It is a Methodist church. And I belong here [in North Carolina] to a Baptist Church. I simply refuse to be controlled."
+      "sourceUrl": "http://articles.latimes.com/1992-05-17/news/tv-76_1_maya-angelou"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.scribd.com/doc/92763/Maya-Angelous-Influences",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Religion and spirituality does permeate Angelou's writing. Take her poem, \""
+    },
+    {
+      "parentId": 8,
+      "type": "link",
+      "text": "Christian",
+      "sourceUrl": "http://fsopstudents.org/home/professional-pharmacy-organizations/cpfi/christian-poem"
+    },
+    {
+      "type": "text",
+      "text": ",\" for example. But what you might not know is that religion is actually",
+      "parentId": 8
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "a part"
+    },
+    {
+      "type": "text",
+      "text": "of Angelou's writing. The poet has a somewhat unconventional ritual. When she writes, Angelou will get up at 5am and get a hotel room where all pictures and other distractions have been removed. She prays before beginning to write",
+      "parentId": 8,
       "sourceTitle": "Maya Angelous's Influences",
-      "text": "Religion and spirituality does permeate Angelou's writing. Take her poem, \",\" for example. But what you might not know is that religion is actually of Angelou's writing. The poet has a somewhat unconventional ritual. When she writes, Angelou will get up at 5am and get a hotel room where all pictures and other distractions have been removed. She prays before beginning to write"
+      "sourceUrl": "http://www.scribd.com/doc/92763/Maya-Angelous-Influences"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.shortlist.com/entertainment/seven-strange-writing-rituals",
+      "type": "text",
+      "text": "and brings with her legal pads, a bottle of sherry, playing cards, a Bible and Roget's Thesaurus.",
+      "parentId": 8,
       "sourceTitle": "Strange Writing Rituals of Famous Authors",
-      "text": "and brings with her legal pads, a bottle of sherry, playing cards, a Bible and Roget's Thesaurus."
+      "sourceUrl": "http://www.shortlist.com/entertainment/seven-strange-writing-rituals"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Sounds like a good time."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Rhetoric of a Caged Bird"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Angelou has a rich history of political involvement before and after she became the famous author she is today."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://mlk-kpp01.stanford.edu/index.php/encyclopedia/encyclopedia/enc_angelou_maya_1928/",
+      "parentId": 12,
+      "type": "text",
+      "text": "Angelou's first foray into politics began after she heard Dr. Martin Luther King, Jr. speak at a church in Harlem, New York. She was so inspired that she produced a play called"
+    },
+    {
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "Cabaret for Freedom"
+    },
+    {
+      "type": "text",
+      "text": ", with all proceeds going to Dr. King's Southern Christian Leadership Conference (SCLC). King was so impressed with her organizing skills and passion that he enrolled her to be the SCLC's northern coordinator.",
+      "parentId": 12,
       "sourceTitle": "Angelou, Maya (1928-)",
-      "text": "Angelou's first foray into politics began after she heard Dr. Martin Luther King, Jr. speak at a church in Harlem, New York. She was so inspired that she produced a play called , with all proceeds going to Dr. King's Southern Christian Leadership Conference (SCLC). King was so impressed with her organizing skills and passion that he enrolled her to be the SCLC's northern coordinator."
+      "sourceUrl": "http://mlk-kpp01.stanford.edu/index.php/encyclopedia/encyclopedia/enc_angelou_maya_1928/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.antiessays.com/free-essays/312605.html",
+      "parentId": 13,
+      "type": "text",
+      "text": "She had been bitten by the activism bug and held or participated in various pro-Castro and anti-Apartheid events and causes.",
       "sourceTitle": "Free Essay on Maya Angelou",
-      "text": "She had been bitten by the activism bug and held or participated in various pro-Castro and anti-Apartheid events and causes."
+      "sourceUrl": "http://www.antiessays.com/free-essays/312605.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://usatoday30.usatoday.com/life/books/news/2008-03-26-maya-angelou_N.htm",
+      "parentId": 14,
+      "type": "text",
+      "text": "Fast forward to the modern era and you'll find Angelou a staunch supporter of the Democratic Party. In the race for president in 2008, Angelou broke with most other African American icons and endorsed Hillary Clinton over Barack Obama, even doing radio ads and internet videos for the candidate.",
       "sourceTitle": "Maya Angelou celebrates her 80 years of pain and joy",
-      "text": "Fast forward to the modern era and you'll find Angelou a staunch supporter of the Democratic Party. In the race for president in 2008, Angelou broke with most other African American icons and endorsed Hillary Clinton over Barack Obama, even doing radio ads and internet videos for the candidate."
+      "sourceUrl": "http://usatoday30.usatoday.com/life/books/news/2008-03-26-maya-angelou_N.htm"
     },
     {
-      "type": "sentence",
-      "text": "But Angelou had good reason. She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But Angelou had good reason. She said:",
+      "parentId": 14
     },
     {
       "type": "quote",
-      "sourceUrl": "http://usatoday30.usatoday.com/life/books/news/2008-03-26-maya-angelou_N.htm",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "I grew up in Arkansas. I know what it was like. Mean and hopeless. I know how hard the Clintons worked to change all that.",
       "sourceTitle": "Maya Angelou celebrates her 80 years of pain and joy",
-      "text": "I grew up in Arkansas. I know what it was like. Mean and hopeless. I know how hard the Clintons worked to change all that."
+      "sourceUrl": "http://usatoday30.usatoday.com/life/books/news/2008-03-26-maya-angelou_N.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://usatoday30.usatoday.com/life/books/news/2008-03-26-maya-angelou_N.htm",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Angelou even wrote a special inauguration poem for Bill Clinton when he took office in 1992.",
       "sourceTitle": "Maya Angelou celebrates her 80 years of pain and joy",
-      "text": "Angelou even wrote a special inauguration poem for Bill Clinton when he took office in 1992."
+      "sourceUrl": "http://usatoday30.usatoday.com/life/books/news/2008-03-26-maya-angelou_N.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "But all that aside, when Obama got the nomination, she threw her support behind him and when asked to comment on the job Obama did when reelection time came around, she said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://thepeoplescube.com/current-truth/maya-angelou-barack-obama-has-done-a-remarkable-job-t8448.html",
+      "id": 19
+    },
+    {
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "I think he has done a remarkable job, knowing how much he has been opposed. Every suggestion he makes, the Republicans en masse fight against him or don't vote at all.",
       "sourceTitle": "Maya Angelou: 'Barack Obama has done a remarkable job",
-      "text": "I think he has done a remarkable job, knowing how much he has been opposed. Every suggestion he makes, the Republicans en masse fight against him or don't vote at all."
+      "sourceUrl": "http://thepeoplescube.com/current-truth/maya-angelou-barack-obama-has-done-a-remarkable-job-t8448.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://usatoday30.usatoday.com/life/books/news/2008-03-26-maya-angelou_N.htm",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "Angelou went on to speculate that Congressional roadblocks might have something to do with the fact that Obama is black. Of course, no member of Congress would ever admit it, but it's hard to discount the words of someone with over 30 doctorate degrees.",
       "sourceTitle": "Maya Angelou celebrates her 80 years of pain and joy",
-      "text": "Angelou went on to speculate that Congressional roadblocks might have something to do with the fact that Obama is black. Of course, no member of Congress would ever admit it, but it's hard to discount the words of someone with over 30 doctorate degrees."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://usatoday30.usatoday.com/life/books/news/2008-03-26-maya-angelou_N.htm"
     }
   ],
   "wikipediaData": {

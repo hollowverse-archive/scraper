@@ -32,75 +32,136 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Novak Djokovic was born in Belgrade in what was then Yugoslavia and is now Serbia. He grew up there and, as a teenager, moved to Oberschleißheim, Germany to further his tennis career."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://whoandwhom.com/novak-djokovic/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Djokovic is a devout member of the Serbian Orthodox Church.",
       "sourceTitle": "Novak Djokovic, biography of a tennis player",
-      "text": "Djokovic is a devout member of the Serbian Orthodox Church."
+      "sourceUrl": "http://whoandwhom.com/novak-djokovic/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://furiouspurpose.me/if-you-think-tebow-is-an-idiot-what-to-make-of-djokovic/",
+      "type": "text",
+      "text": "His devotion is often apparent on the tennis court, where Djokovic can be seen joining his hands in prayer, looking upward to thank God when his opponent makes a mistake, and wearing a cross around his neck.",
+      "parentId": 2,
       "sourceTitle": "If you think Tebow is an idiot, what to make of Djokovic?",
-      "text": "His devotion is often apparent on the tennis court, where Djokovic can be seen joining his hands in prayer, looking upward to thank God when his opponent makes a mistake, and wearing a cross around his neck."
+      "sourceUrl": "http://furiouspurpose.me/if-you-think-tebow-is-an-idiot-what-to-make-of-djokovic/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.spc.rs/eng/novak_djokovic_awarded_highest_distinction_serbian_church",
+      "parentId": 3,
+      "type": "text",
+      "text": "In April of 2011, Djokovic was awarded the highest honor given by the Serbian Orthodox Church, called St. Sava of the First Degree, for his \"active love towards Mother Church, particularly [showing] fervent and persistent helping [to] the Serbian people and the sanctuaries of [the] Holy Church.\"",
       "sourceTitle": "Novak Djokovic awarded with the highest distinction of the Serbian Church",
-      "text": "In April of 2011, Djokovic was awarded the highest honor given by the Serbian Orthodox Church, called St. Sava of the First Degree, for his \"active love towards Mother Church, particularly [showing] fervent and persistent helping [to] the Serbian people and the sanctuaries of [the] Holy Church.\""
+      "sourceUrl": "http://www.spc.rs/eng/novak_djokovic_awarded_highest_distinction_serbian_church"
     },
     {
-      "type": "sentence",
-      "text": "Djokovic said of the award:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Djokovic said of the award:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://blogs.bettor.com/Tennis-News-Novak-Djokovic-honoured-by-the-Serbian-Orthodox-Church-a65483",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "This award is certainly the most important I've ever got. As an athlete and a religious person, it is hard for me to find appropriate words to describe my feelings of gratitude for the confidence I gain from the Holy Synod. I can only say that it can be earned only with hard work and self-belief, belief in your loved ones and in God.",
       "sourceTitle": "Tennis News: Novak Djokovic honoured by the Serbian Orthodox Church",
-      "text": "This award is certainly the most important I've ever got. As an athlete and a religious person, it is hard for me to find appropriate words to describe my feelings of gratitude for the confidence I gain from the Holy Synod. I can only say that it can be earned only with hard work and self-belief, belief in your loved ones and in God."
+      "sourceUrl": "http://blogs.bettor.com/Tennis-News-Novak-Djokovic-honoured-by-the-Serbian-Orthodox-Church-a65483"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Serbian politics"
     },
     {
-      "type": "sentence",
-      "text": "Djokovic is a proud Serbian who has come to be a spokesman for his country on the international stage. Serbia has been struggling to get its tarnished image up to snuff so as to convince EU authorities to allow it into the nation-bloc–and even the president has said Djokovic's successes have helped them along. Serbian president, Milka Forcan, said:"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "text",
+      "text": "Djokovic is a proud Serbian who has come to be a"
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "de facto"
+    },
+    {
+      "type": "text",
+      "text": "spokesman for his country on the international stage. Serbia has been struggling to get its tarnished image up to snuff so as to convince EU authorities to allow it into the nation-bloc–and even the president has said Djokovic's successes have helped them along. Serbian president, Milka Forcan, said:",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://ipezone.blogspot.com/2011/07/novak-djokovic-smoothes-serbias-eu.html",
-      "sourceTitle": "Novak Djokovic Serves Serbia's EU Accession",
-      "text": "Novak with his results has already influenced a better image of Serbia, and his position as world Number One and winning the Wimbledon championship is going to underline that."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Novak with his results has already influenced a better image of Serbia, and his position as world Number One and winning the Wimbledon championship is going to underline that.",
+      "sourceTitle": "Novak Djokovic Serves Serbia's EU Accession",
+      "sourceUrl": "http://ipezone.blogspot.com/2011/07/novak-djokovic-smoothes-serbias-eu.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Djokovic himself has a soft spot for Serbian political history and often praises his people and their strength with comments like:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 12
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/n/novak_djokovic.html",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "The history of our country is cruel. We have to face those issues or, should I say, we had to. Not anymore I hope, because we are going in the right direction, and we are ready to forgive, ready to move on.",
       "sourceTitle": "Novak Djokovic Quotes",
-      "text": "The history of our country is cruel. We have to face those issues or, should I say, we had to. Not anymore I hope, because we are going in the right direction, and we are ready to forgive, ready to move on."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/n/novak_djokovic.html"
     }
   ],
   "wikipediaData": {

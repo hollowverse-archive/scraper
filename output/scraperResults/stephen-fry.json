@@ -41,118 +41,185 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Stephen Fry was born in London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/uk/2005/jun/05/religion.hayfestival2005",
+      "parentId": 2,
+      "type": "text",
+      "text": "Through his mother, Fry would be considered Jewish.",
       "sourceTitle": "I saw hate in a graveyard – Stephen Fry",
-      "text": "Through his mother, Fry would be considered Jewish."
+      "sourceUrl": "http://www.guardian.co.uk/uk/2005/jun/05/religion.hayfestival2005"
     },
     {
-      "type": "sentence",
-      "text": "But Fry is an atheist. He even considers mere atheism as insufficient to describe his views. Fry prefers to describe himself as a humanist, glorifying the beauty and potential of the human kind. He says:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But Fry is an atheist. He even considers mere atheism as insufficient to describe his views. Fry prefers to describe himself as a humanist, glorifying the beauty and potential of the human kind. He says:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=q715ty5hLt4",
-      "sourceTitle": "Stephen Fry's beautiful comments on a world without God",
-      "text": "We are captains of our soul and masters of our destiny. And we contain any divine fire that there is, divine fire that is fine and great."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "We are captains of our soul and masters of our destiny. And we contain any divine fire that there is, divine fire that is fine and great.",
+      "sourceTitle": "Stephen Fry's beautiful comments on a world without God",
+      "sourceUrl": "http://www.youtube.com/watch?v=q715ty5hLt4"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Fry is friends and often participated in public debates, speeches, and forums with the late, great atheist Christopher Hitchens. Like Hitchens, Fry is no stranger to heavy criticism of modern religious institutions. His condemnations have included Islam, Christianity, and Judaism. He once said of the Catholic Church:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=qqB3F6N527U&feature=related",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I genuinely believe that the Catholic Church is not, to put it at its mildest, a force for good in the world…Do you know who would be the last person to ever be accepted as a prince of the church? The Galilean carpenter, that Jew [read: Jesus]. They would kick him out before he tried to cross the threshold. He would be so ill at ease in the church.",
       "sourceTitle": "Stephen Fry dismantles the Roman Catholic Church, from the Intelligence Squared debate",
-      "text": "I genuinely believe that the Catholic Church is not, to put it at its mildest, a force for good in the world…Do you know who would be the last person to ever be accepted as a prince of the church? The Galilean carpenter, that Jew [read: Jesus]. They would kick him out before he tried to cross the threshold. He would be so ill at ease in the church."
+      "sourceUrl": "http://www.youtube.com/watch?v=qqB3F6N527U&feature=related"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=oR5hWbfZsYs&feature=related",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Strangely, Fry is sympathetic towards the polytheistic religions, particularly the religion of the ancient Greeks. Fry says they paint a much more realistic picture of the natural world and human nature, being that their gods are \"capricious, unkind, malicious mostly, temperamental, envious, and mostly deeply unpleasant.\"",
       "sourceTitle": "God is Everywhere",
-      "text": "Strangely, Fry is sympathetic towards the polytheistic religions, particularly the religion of the ancient Greeks. Fry says they paint a much more realistic picture of the natural world and human nature, being that their gods are \"capricious, unkind, malicious mostly, temperamental, envious, and mostly deeply unpleasant.\""
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.youtube.com/watch?v=oR5hWbfZsYs&feature=related"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Fry is a talented guy. He's eloquent, a good writer, intelligent, inquisitive, and a good actor. He has used all of these things to promote his worldview, both religiously and politically."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=UPJahn24w24",
+      "parentId": 11,
+      "type": "text",
+      "text": "One example would be an ad campaign he did with Hugh Laurie on behalf of the British Labour Party that portrayed Tory fat-cats as self-serving tax dodgers. That ad claimed that the Labour Party would close tax loopholes that allowed Britain's wealthiest citizens to get away with billions of pounds of discounts while hammering small business owners and regular citizens.",
       "sourceTitle": "Stephen Fry and Hugh Laurie Labour Party Political Broadcast 25th November 1993",
-      "text": "One example would be an ad campaign he did with Hugh Laurie on behalf of the British Labour Party that portrayed Tory fat-cats as self-serving tax dodgers. That ad claimed that the Labour Party would close tax loopholes that allowed Britain's wealthiest citizens to get away with billions of pounds of discounts while hammering small business owners and regular citizens."
+      "sourceUrl": "http://www.youtube.com/watch?v=UPJahn24w24"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.funbaz.com/stephenfry/personal-life.html",
+      "parentId": 12,
+      "type": "text",
+      "text": "Later, however, Fry was critical of the Labour Party under Tony Blair for its involvement in the Iraq War and its \"Third Way,\" a doctrine of compromise between disparate liberal and conservative factions. As a result, Fry declined to vote in the 2005 British general elections.",
       "sourceTitle": "Personal Life: Stephan Fry",
-      "text": "Later, however, Fry was critical of the Labour Party under Tony Blair for its involvement in the Iraq War and its \"Third Way,\" a doctrine of compromise between disparate liberal and conservative factions. As a result, Fry declined to vote in the 2005 British general elections."
+      "sourceUrl": "http://www.funbaz.com/stephenfry/personal-life.html"
     },
     {
-      "type": "sentence",
-      "text": "Fry was essentially unhappy that Labour was trying to become centrist for the sake of a more functional government."
+      "type": "text",
+      "text": "Fry was essentially unhappy that Labour was trying to become centrist for the sake of a more functional government.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Fry is gay, and his outspoken nature on gay rights would probably qualify him as a liberal. Take for example his response to a proposed law in Russia that would fine anyone charged with the \"spreading information that can damage the health and moral development of underage children, and make them believe that both traditional and gay relationships are normal.\" Fry said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://rt.com/art-and-culture/news/fry-wilde-gay-parade-873/",
-      "sourceTitle": "Fry goes wild over gay rights in Russia",
-      "text": "Hell's teeth. Something must be done to stop these fantastical monsters. Will talking about Tchaikovsky be banned?"
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Hell's teeth. Something must be done to stop these fantastical monsters. Will talking about Tchaikovsky be banned?",
+      "sourceTitle": "Fry goes wild over gay rights in Russia",
+      "sourceUrl": "http://rt.com/art-and-culture/news/fry-wilde-gay-parade-873/"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "But Fry is still difficult to categorize, as are most thoughtful, intelligent people. He says this problem would bar him from a career in politics:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.stephenfry.com/2009/10/19/poles-politeness-and-politics-in-the-age-of-twitter/2/",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Firstly, I don't want to be [a politician]. I would rather suck turds for a living. Secondly I can't make my mind up on Big Issues.",
       "sourceTitle": "Poles, Politeness and Political Correctness in the age of Twitter",
-      "text": "Firstly, I don't want to be [a politician]. I would rather suck turds for a living. Secondly I can't make my mind up on Big Issues."
+      "sourceUrl": "http://www.stephenfry.com/2009/10/19/poles-politeness-and-politics-in-the-age-of-twitter/2/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "Oh, and did I mention his eloquence?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

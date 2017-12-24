@@ -32,79 +32,110 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Mario Gómez was born in Riedlingen, Germany and raised in nearby Unlingen, Germany."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Gómez doesn't appear to be concerned with religion or spirituality. It's just not on his radar. Or at least that's the impression one gets after finding zero information about it in the vast pool of knowledge and disinformation that is the internet."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg#Religion",
+      "parentId": 3,
+      "type": "text",
+      "text": "But, let us speculate anyway. The area where Gómez grew up is predominantly Christian, and pretty evenly split between Catholics and the Evangelical Church in Germany. But the percentage of non-religious folks come in at a substantial 22%.",
       "sourceTitle": "Baden-Württemberg.",
-      "text": "But, let us speculate anyway. The area where Gómez grew up is predominantly Christian, and pretty evenly split between Catholics and the Evangelical Church in Germany. But the percentage of non-religious folks come in at a substantial 22%."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg#Religion"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/sport/euro2012/article-2160323/Euro-2012-Mario-Gomez-German-fans-dont-love-me.html",
+      "type": "text",
+      "text": "But then, Gómez has a Spanish grandfather and feels a love for Spain that he doesn't necessarily feel for Germany,",
+      "parentId": 3,
       "sourceTitle": "Euro 2012: Mario Gomez: German fans don't love me.",
-      "text": "But then, Gómez has a Spanish grandfather and feels a love for Spain that he doesn't necessarily feel for Germany,"
+      "sourceUrl": "http://www.dailymail.co.uk/sport/euro2012/article-2160323/Euro-2012-Mario-Gomez-German-fans-dont-love-me.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Spain",
+      "type": "text",
+      "text": "and there are a ton of Catholics in that country.",
+      "parentId": 3,
       "sourceTitle": "Religion in Spain.",
-      "text": "and there are a ton of Catholics in that country."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Religion_in_Spain"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "So, if I had to guess, I'd say he comes from a family of Catholics, more or less lapsed, even if Gómez himself doesn't consider himself religious in the least."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 5
     },
     {
-      "type": "heading",
+      "parentId": 5,
+      "type": "text",
       "text": "Standing up for the gay footballer"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "As far as politics go, we've got only slightly more information to go on. The one issue Gómez seems to want to talk about is homophobia in football. Departing from the common sentiment among most of his professional peers, Gómez declared that he thinks gay footballers should come out of the closet. He said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/football/2010/nov/11/germany-bayern-mario-gomez-gay-footballers",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "They would play as if they had been liberated. Being gay should no longer be a taboo topic.",
       "sourceTitle": "Germany and Bayern star Mario Gomez urges gay footballers to go public.",
-      "text": "They would play as if they had been liberated. Being gay should no longer be a taboo topic."
+      "sourceUrl": "http://www.guardian.co.uk/football/2010/nov/11/germany-bayern-mario-gomez-gay-footballers"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/football/2010/nov/11/germany-bayern-mario-gomez-gay-footballers",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Noting that several high-ranking German politicians are openly gay, he said he thinks it's about time his sport followed suit.",
       "sourceTitle": "Germany and Bayern star Mario Gomez urges gay footballers to go public.",
-      "text": "Noting that several high-ranking German politicians are openly gay, he said he thinks it's about time his sport followed suit."
+      "sourceUrl": "http://www.guardian.co.uk/football/2010/nov/11/germany-bayern-mario-gomez-gay-footballers"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "That makes him sound like a social liberal for sure, but it's all we've got. I hoped he would have something to say about the European debt crisis owing to his ties to two big players on either side of the issue, but alas. There's nothing. If you have any more information for us about Gómez' politics or religion, let us know in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

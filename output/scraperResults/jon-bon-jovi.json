@@ -34,92 +34,143 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jon Bon Jovi, whose given name is John Francis Bongiovi, Jr., was born in Perth Amboy, New Jersey and grew up in Metuchen, New Jersey and Parlin, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Bon Jovi was raised Catholic and went to Catholic school, even though he admits to skipping class to play music and see bands. And while he doesn't seem to want to elaborate, he's got some issues with the Church, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.parade.com/celebrity/articles/070626-bon-jovi.html",
-      "sourceTitle": "Bon Jovi",
-      "text": "I went to Catholic school in and out. I'm what you call a recovering Catholic. I have many major issues with the church."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I went to Catholic school in and out. I'm what you call a recovering Catholic. I have many major issues with the church.",
+      "sourceTitle": "Bon Jovi",
+      "sourceUrl": "http://www.parade.com/celebrity/articles/070626-bon-jovi.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "It really makes you wonder. Could it be social issues like cases of child molestation or the church's stance on contraceptives? Or perhaps it's more theological in nature. But Jon doesn't seem to be an atheist, he's just got his own brand of personal spirituality. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.time.com/time/magazine/article/0,9171,1647476,00.html",
-      "sourceTitle": "10 Questions for Jon Bon Jovi",
-      "text": "I think I find more strength in faith than I do in organized religion. [The hit song] \"Living on a Prayer\" is most certainly nondenominational."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I think I find more strength in faith than I do in organized religion. [The hit song] \"Living on a Prayer\" is most certainly nondenominational.",
+      "sourceTitle": "10 Questions for Jon Bon Jovi",
+      "sourceUrl": "http://www.time.com/time/magazine/article/0,9171,1647476,00.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "It's all very vague and ambiguous. It is likely that Bon Jovi simply isn't that religious–but that's nothing special for Catholics."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Rockin' for the Democrats"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000954/bio",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Bon Jovi is a sustained supporter of the Democratic Party. He campaigned for Al Gore in 2000, for John Kerry in 2004,",
       "sourceTitle": "Jon Bon Jovi – Biography",
-      "text": "Bon Jovi is a sustained supporter of the Democratic Party. He campaigned for Al Gore in 2000, for John Kerry in 2004,"
+      "sourceUrl": "http://www.imdb.com/name/nm0000954/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Jon_Bon_Jovi.php",
+      "type": "text",
+      "text": "and both Hillary Clinton and Barack Obama in 2008. He's given over $35,000 to the Democratic Party since 1994",
+      "parentId": 10,
       "sourceTitle": "Jon Bon Jovi's Federal Campaign Contribution Report",
-      "text": "and both Hillary Clinton and Barack Obama in 2008. He's given over $35,000 to the Democratic Party since 1994"
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Jon_Bon_Jovi.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.boycottliberalism.com/biographies/Bon-Jovi.htm",
+      "type": "text",
+      "text": "and in 2008, for the Democrats, Bon Jovi hosted a private dinner at his mansion where he charged $30,800 a plate to be donated to the Obama campaign and the Democratic National Convention.",
+      "parentId": 10,
       "sourceTitle": "Bon Jovi Biography and Quotes",
-      "text": "and in 2008, for the Democrats, Bon Jovi hosted a private dinner at his mansion where he charged $30,800 a plate to be donated to the Obama campaign and the Democratic National Convention."
+      "sourceUrl": "http://www.boycottliberalism.com/biographies/Bon-Jovi.htm"
     },
     {
-      "type": "sentence",
-      "text": "That better have been some good food."
+      "type": "text",
+      "text": "That better have been some good food.",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.whitehouse.gov/the-press-office/2010/12/14/president-obama-announces-members-white-house-council-community-solution",
+      "parentId": 11,
+      "type": "text",
+      "text": "Jon is really into politics and Obama appointed him to the White House Council for Community Solutions,",
       "sourceTitle": "President Obama Announces Members of the White House Council for Community Solutions",
-      "text": "Jon is really into politics and Obama appointed him to the White House Council for Community Solutions,"
+      "sourceUrl": "http://www.whitehouse.gov/the-press-office/2010/12/14/president-obama-announces-members-white-house-council-community-solution"
     },
     {
-      "type": "sentence",
-      "text": "a presidential organization designed for the president to solicit advice from members of certain communities about how to improve quality of life. He said of his interest in politics:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "a presidential organization designed for the president to solicit advice from members of certain communities about how to improve quality of life. He said of his interest in politics:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://m.imdb.com/name/nm0000954/quotes",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "What drew me to politics in the first place was the fact that I wanted to have a place to take a stand and use my voice to express what I believed in. But… I've never quite known what motivates politicians. Do they really believe in the cause that strongly or is it just the pursuit of power? I once flew on a plane with Bill Clinton and a reporter asked whose job was better, mine or the President's? I said that mine was, because I get to keep the plane and the house.",
       "sourceTitle": "Jon Bon Jovi – Quotes",
-      "text": "What drew me to politics in the first place was the fact that I wanted to have a place to take a stand and use my voice to express what I believed in. But… I've never quite known what motivates politicians. Do they really believe in the cause that strongly or is it just the pursuit of power? I once flew on a plane with Bill Clinton and a reporter asked whose job was better, mine or the President's? I said that mine was, because I get to keep the plane and the house."
+      "sourceUrl": "http://m.imdb.com/name/nm0000954/quotes"
     }
   ],
   "wikipediaData": {

@@ -35,119 +35,197 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Robert \"Bobby\" Brown was born and raised in Boston, Massachusetts."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biography.com/people/bobby-brown-17175746",
+      "parentId": 2,
+      "type": "text",
+      "text": "Despite a poor upbringing rife with petty crime and violence, Brown grew up going to church, and began singing in a church choir.",
       "sourceTitle": "Bobby Brown Biography",
-      "text": "Despite a poor upbringing rife with petty crime and violence, Brown grew up going to church, and began singing in a church choir."
+      "sourceUrl": "http://www.biography.com/people/bobby-brown-17175746"
     },
     {
-      "type": "sentence",
-      "text": "Unfortunately, we don't know what church that was."
+      "type": "text",
+      "text": "Unfortunately, we don't know what church that was.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "However, Brown is a Christian, and seemingly semi-devout. For example, nearly 25 years after his 80s boy band, New Direction, broke up, Brown revealed what he thought to be the reason for the split while announcing a reunion:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.christianpost.com/news/bobby-brown-lack-of-prayer-caused-new-edition-split-58670/",
-      "sourceTitle": "Bobby Brown: Lack of Prayer Caused New Edition Split",
-      "text": "We're putting [New Edition] back together. I think the thing that was missing with us was prayer – us being able to pray together and understand our differences."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "We're putting [New Edition] back together. I think the thing that was missing with us was prayer – us being able to pray together and understand our differences.",
+      "sourceTitle": "Bobby Brown: Lack of Prayer Caused New Edition Split",
+      "sourceUrl": "http://www.christianpost.com/news/bobby-brown-lack-of-prayer-caused-new-edition-split-58670/"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "And commenting on the death of his ex-wife, Whitney Houston, Brown tearfully said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/05/02/bobby-brown-breaks-his-silence-whitney-houston-death_n_1470596.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "God probably just wanted her up in Heaven, in the choir.",
       "sourceTitle": "Bobby Brown Breaks His Silence On Whitney Houston's Death: 'I Didn't Know She Was Struggling.'",
-      "text": "God probably just wanted her up in Heaven, in the choir."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/05/02/bobby-brown-breaks-his-silence-whitney-houston-death_n_1470596.html"
     },
     {
-      "type": "sentence",
-      "text": "And if you peruse his , you'll notice the occasional God-oriented tweet, either from Brown himself or the result of a retweet. It all amounts to a vague, maybe opportunistic faith. And again, we can't tell which denomination, if any, Brown adheres to (however, ex-wife Houston was a lifelong Baptist). We'll just have to put him in the generic Christian category."
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "break"
+      "parentId": 9,
+      "type": "text",
+      "text": "And if you peruse his"
+    },
+    {
+      "parentId": 9,
+      "type": "link",
+      "text": "Twitter feed",
+      "sourceUrl": "https://twitter.com/KingBobbyBrown"
+    },
+    {
+      "type": "text",
+      "text": ", you'll notice the occasional God-oriented tweet, either from Brown himself or the result of a retweet. It all amounts to a vague, maybe opportunistic faith. And again, we can't tell which denomination, if any, Brown adheres to (however, ex-wife Houston was a lifelong Baptist). We'll just have to put him in the generic Christian category.",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "My political prerogative"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tv.ibtimes.com/bobby-brown-arrested-his-criminal-past-3551",
-      "sourceTitle": "Bobby Brown Arrested: His Criminal Past",
-      "text": "Politically, Brown is no friend to the state. He has a long criminal history, ranging from multiple drunk driving arrests,"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rockonthenet.com/artists-b/bobbybrown_main.htm",
+      "parentId": 11,
+      "type": "text",
+      "text": "Politically, Brown is no friend to the state. He has a long criminal history, ranging from multiple drunk driving arrests,",
+      "sourceTitle": "Bobby Brown Arrested: His Criminal Past",
+      "sourceUrl": "http://tv.ibtimes.com/bobby-brown-arrested-his-criminal-past-3551"
+    },
+    {
+      "type": "text",
+      "text": "a couple of assault and battery charges,",
+      "parentId": 11,
       "sourceTitle": "Bobby Brown",
-      "text": "a couple of assault and battery charges,"
+      "sourceUrl": "http://www.rockonthenet.com/artists-b/bobbybrown_main.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tv.ibtimes.com/bobby-brown-arrested-his-criminal-past-3551",
+      "type": "text",
+      "text": "and a few drug convictions.",
+      "parentId": 11,
       "sourceTitle": "Bobby Brown Arrested: His Criminal Past",
-      "text": "and a few drug convictions."
+      "sourceUrl": "http://tv.ibtimes.com/bobby-brown-arrested-his-criminal-past-3551"
     },
     {
-      "type": "sentence",
-      "text": "Brown seems to almost always be at odds with the law."
+      "type": "text",
+      "text": "Brown seems to almost always be at odds with the law.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Plus, he's even caught the attention of al-Qaeda and the infamous Osama bin Laden, who expressed an attraction to his ex-wife. Bin Laden said Bobby Brown might be one of his targets in America, to which Brown replied:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.gigwise.com/news/34884/list.gigwise.com",
-      "sourceTitle": "Bobby Brown Fears Osama bin Laden",
-      "text": "I figure if Bin Laden wants me, and everybody is looking for him, it won't happen. But if he wants to try and find me for something so stupid, then he can if he wants. I have to leave it in the hands of a higher power."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I figure if Bin Laden wants me, and everybody is looking for him, it won't happen. But if he wants to try and find me for something so stupid, then he can if he wants. I have to leave it in the hands of a higher power.",
+      "sourceTitle": "Bobby Brown Fears Osama bin Laden",
+      "sourceUrl": "http://www.gigwise.com/news/34884/list.gigwise.com"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "However, in more conventional partisan politics, there's not much from Brown–except that he appears to be an Obama supporter, something gleaned from this tweet on Inauguration Day 2013:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/KingBobbyBrown",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "This is a day to be remembered, proud to be an American! Obama!!!!",
       "sourceTitle": "Bobby Brown (KingBobbyBrown) on Twitter",
-      "text": "This is a day to be remembered, proud to be an American! Obama!!!!"
+      "sourceUrl": "https://twitter.com/KingBobbyBrown"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "But that's about it, Brown fans. Keep us updated in the comments!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

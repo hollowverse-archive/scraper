@@ -31,112 +31,176 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.monetalia.com/biography.aspx",
+      "parentId": 1,
+      "type": "text",
+      "text": "Claude Monet was born in Paris, France and grew up there and in Le Havre, Normandy, France. He died in 1926 in Giverny, France of lung cancer."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Monet was born a Catholic in Catholic France and baptized in the Notre-Dame-de-Lorette Catholic church.",
       "sourceTitle": "Biography of Oscar-Claude Monet, The Life and Work of Claude Monet",
-      "text": "Monet was born a Catholic in Catholic France and baptized in the Notre-Dame-de-Lorette Catholic church."
+      "sourceUrl": "http://www.monetalia.com/biography.aspx"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://realneo.us/blog/evelyn-kiefer/religion-poplars-and-paul-tuckers-insights-on-monet",
+      "parentId": 3,
+      "type": "text",
+      "text": "Whether or not Monet was religious is disputed, with most evidence"
+    },
+    {
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "implying"
+    },
+    {
+      "type": "text",
+      "text": "he wasn't that religious. His second wife was a devout Catholic and his best friend in his later years was a priest at a local parish.",
+      "parentId": 3,
       "sourceTitle": "Religion, Poplars, and Paul Tucker's Insights On Monet",
-      "text": "Whether or not Monet was religious is disputed, with most evidence  he wasn't that religious. His second wife was a devout Catholic and his best friend in his later years was a priest at a local parish."
+      "sourceUrl": "http://realneo.us/blog/evelyn-kiefer/religion-poplars-and-paul-tuckers-insights-on-monet"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://realneo.us/blog/evelyn-kiefer/religion-poplars-and-paul-tuckers-insights-on-monet",
+      "type": "text",
+      "text": "Some art scholars argue that Monet became a more religious as he got older and even included crucifix imagery in his paintings.",
+      "parentId": 3,
       "sourceTitle": "Religion, Poplars, and Paul Tucker's Insights On Monet",
-      "text": "Some art scholars argue that Monet became a more religious as he got older and even included crucifix imagery in his paintings."
+      "sourceUrl": "http://realneo.us/blog/evelyn-kiefer/religion-poplars-and-paul-tuckers-insights-on-monet"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theartwolf.com/monet_cathedral.htm",
+      "parentId": 4,
+      "type": "text",
+      "text": "While that could be the subject of a fiery debate, one could point to the obvious with his 31-painting series of the same Catholic cathedral in Rouen, France.",
       "sourceTitle": "The Rouen Cathedral series by Monet",
-      "text": "While that could be the subject of a fiery debate, one could point to the obvious with his 31-painting series of the same Catholic cathedral in Rouen, France."
+      "sourceUrl": "http://www.theartwolf.com/monet_cathedral.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theartwolf.com/monet_cathedral.htm",
+      "type": "text",
+      "text": "The series was well-received at the time, but not necessarily because of its religious content as much as its use of light and perspective.",
+      "parentId": 4,
       "sourceTitle": "The Rouen Cathedral series by Monet",
-      "text": "The series was well-received at the time, but not necessarily because of its religious content as much as its use of light and perspective."
+      "sourceUrl": "http://www.theartwolf.com/monet_cathedral.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "Monet is famous for his work with landscapes, indicating a fixation with nature, and the following quote indicates an almost pantheistic agnostic view of \"nature.\""
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/c/claude_monet.html",
-      "sourceTitle": "Claude Monet Quotes",
-      "text": "I am following Nature without being able to grasp her."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I am following Nature without being able to grasp her.",
+      "sourceTitle": "Claude Monet Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/c/claude_monet.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "A fuzzy picture indeed."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Art and politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.abstract-art.com/abstraction/l5_wordings_fldr/l3_la_monet-moderism.html",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Monet's career as an artist began in Le Havre, doing political caricatures of, presumably, French politicians and the like.",
       "sourceTitle": "Monet and Modernism",
-      "text": "Monet's career as an artist began in Le Havre, doing political caricatures of, presumably, French politicians and the like."
+      "sourceUrl": "http://www.abstract-art.com/abstraction/l5_wordings_fldr/l3_la_monet-moderism.html"
     },
     {
-      "type": "sentence",
-      "text": "But this was probably just to pay the bills, because as soon as he got the chance, it was Impressionism all the way. But we know at least Monet was aware of what the politicians of his time looked like."
+      "type": "text",
+      "text": "But this was probably just to pay the bills, because as soon as he got the chance, it was Impressionism all the way. But we know at least Monet was aware of what the politicians of his time looked like.",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.abstract-art.com/abstraction/l5_wordings_fldr/l3_la_monet-moderism.html",
+      "parentId": 11,
+      "type": "text",
+      "text": "He did have a penchant for breaking with the social order. In the late 1800s and early 1900s, a scandal rocked France over the unjust persecution of a Jewish French officer. It was known as the"
+    },
+    {
+      "parentId": 11,
+      "type": "link",
+      "text": "Dreyfus Affair",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Dreyfus_affair"
+    },
+    {
+      "type": "text",
+      "text": ". Much of France was either happy or complacent to let this young Jew rot in prison over false accusations and fabricated documents–but not Monet. The painter came to the aid of Dreyfus supporters, publicly condemning antisemitism and, as it were, making an implicit statement about equal rights.",
+      "parentId": 11,
       "sourceTitle": "Monet and Modernism",
-      "text": "He did have a penchant for breaking with the social order. In the late 1800s and early 1900s, a scandal rocked France over the unjust persecution of a Jewish French officer. It was known as the . Much of France was either happy or complacent to let this young Jew rot in prison over false accusations and fabricated documents–but not Monet. The painter came to the aid of Dreyfus supporters, publicly condemning antisemitism and, as it were, making an implicit statement about equal rights."
+      "sourceUrl": "http://www.abstract-art.com/abstraction/l5_wordings_fldr/l3_la_monet-moderism.html"
     },
     {
-      "type": "sentence",
-      "text": "Perhaps we could call him a social liberal for his time."
+      "type": "text",
+      "text": "Perhaps we could call him a social liberal for his time.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.claudemonetgallery.org/biography.html",
+      "parentId": 12,
+      "type": "text",
+      "text": "In the 1870s, Monet left France for England in an attempt to avoid the chaos of the Franco-Prussian War. He then went to the Netherlands and produced a series of paintings. For some reason, the Dutch police suspected him of revolutionary activities.",
       "sourceTitle": "Claude Oscar Monet Biography",
-      "text": "In the 1870s, Monet left France for England in an attempt to avoid the chaos of the Franco-Prussian War. He then went to the Netherlands and produced a series of paintings. For some reason, the Dutch police suspected him of revolutionary activities."
+      "sourceUrl": "http://www.claudemonetgallery.org/biography.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "It seems unlikely, however, as Monet strikes me as someone more concerned with art than politics or religion. He only wanted to paint and pursue his passions. Any further insights would be appreciated in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

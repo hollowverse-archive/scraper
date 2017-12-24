@@ -33,101 +33,172 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nydailynews.com/latino/teen-star-selena-gomez-disney-article-1.287531",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
+      "text": "Selena Gomez was born and raised in Texas, a real southern belle. Her father is Mexican and her mother is of Italian heritage–both traditionally Catholic nationalities, though she seems to identify more with her Hispanic roots.",
       "sourceTitle": "Teen star Selena Gomez looks beyond Disney.",
-      "text": "Selena Gomez was born and raised in Texas, a real southern belle. Her father is Mexican and her mother is of Italian heritage–both traditionally Catholic nationalities, though she seems to identify more with her Hispanic roots."
+      "sourceUrl": "http://www.nydailynews.com/latino/teen-star-selena-gomez-disney-article-1.287531"
     },
     {
-      "type": "sentence",
-      "text": "I think being Hispanic in America is a bit more bankable. She has said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "I think being Hispanic in America is a bit more bankable. She has said:",
+      "parentId": 1
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.nydailynews.com/latino/teen-star-selena-gomez-disney-article-1.287531",
-      "sourceTitle": "Teen star Selena Gomez looks beyond Disney.",
-      "text": "I am Mexican, so it's an awesome thing that my show is the first Latin show [Disney] have ever had."
+      "id": 2
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 3,
+      "parentId": 2
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "I am Mexican, so it's an awesome thing that my show is the first Latin show [Disney] have ever had.",
+      "sourceTitle": "Teen star Selena Gomez looks beyond Disney.",
+      "sourceUrl": "http://www.nydailynews.com/latino/teen-star-selena-gomez-disney-article-1.287531"
+    },
+    {
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "She has spoken briefly about her religious upbringing, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.scholastic.com/browse/article.jsp?id=3750390",
-      "sourceTitle": "Star Spotlight: Selena Gomez",
-      "text": "My family does have Quincenaras, and we go to the communion church. We do everything that's Catholic, but we don't really have anything traditional except go to the park and have barbeques on Sundays after church."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "My family does have Quincenaras, and we go to the communion church. We do everything that's Catholic, but we don't really have anything traditional except go to the park and have barbeques on Sundays after church.",
+      "sourceTitle": "Star Spotlight: Selena Gomez",
+      "sourceUrl": "http://www.scholastic.com/browse/article.jsp?id=3750390"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "There is one more thing. Gomez has worn and spoken about a promise ring. Wearing this type of ring means that she has promised not to have sex until she's married. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.purityringsonline.com/celebrities-and-purity-rings",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I said, 'Dad, I want a promise ring.' He went to the church and got it blessed. He actually used me as an example for other kids. I'm going to keep my promise to myself, to my family and to God.",
       "sourceTitle": "Celebrities & Purity Rings",
-      "text": "I said, 'Dad, I want a promise ring.' He went to the church and got it blessed. He actually used me as an example for other kids. I'm going to keep my promise to myself, to my family and to God."
+      "sourceUrl": "http://www.purityringsonline.com/celebrities-and-purity-rings"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebitchy.com/135629/selena_gomezs_parents_freaked_out_when_she_removed_her_purity_ring/",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "But the rumor mill has reported that she took the ring off when things between her and Justin Bieber got serious.",
       "sourceTitle": "Selena Gomez's parents freaked out when she removed her purity ring",
-      "text": "But the rumor mill has reported that she took the ring off when things between her and Justin Bieber got serious."
+      "sourceUrl": "http://www.celebitchy.com/135629/selena_gomezs_parents_freaked_out_when_she_removed_her_purity_ring/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "Ha! You can't fight biology, sister!"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "Forget virginity, here's something to really be proud of"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Gomez hasn't said much about politics but definitely seems to care about social issues, I mean, really care. She got very emotional about the environment, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 14
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.scholastic.com/browse/article.jsp?id=3750390",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I'm learning about global warming and stuff like that. I've actually cried about this stuff because it's awful that it's happening. But I encourage everyone to help with that. My mom and I want to help and we donate and anything else we can do. I think it's really important to do whatever we can.",
       "sourceTitle": "Star Spotlight: Selena Gomez",
-      "text": "I'm learning about global warming and stuff like that. I've actually cried about this stuff because it's awful that it's happening. But I encourage everyone to help with that. My mom and I want to help and we donate and anything else we can do. I think it's really important to do whatever we can."
+      "sourceUrl": "http://www.scholastic.com/browse/article.jsp?id=3750390"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.stamfordplus.com/stm/information/nws1/publish/News_1/UNICEF-Ambassador-Selena-Gomez-named-spokesperson-for-Trick-or-Treat-for-UNICEF-campaign6260.shtml",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "She donated her star power to UNICEF (United Nations Children's Fund) for various events and causes and has officially been named a UNICEF ambassador.",
       "sourceTitle": "UNICEF Ambassador Selena Gomez named spokesperson for Trick-or-Treat for UNICEF campaign",
-      "text": "She donated her star power to UNICEF (United Nations Children's Fund) for various events and causes and has officially been named a UNICEF ambassador."
+      "sourceUrl": "http://www.stamfordplus.com/stm/information/nws1/publish/News_1/UNICEF-Ambassador-Selena-Gomez-named-spokesperson-for-Trick-or-Treat-for-UNICEF-campaign6260.shtml"
     },
     {
-      "type": "sentence",
-      "text": "She takes her ambassador/spokesperson role seriously, starring in UNICEF commercials and hosting events, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She takes her ambassador/spokesperson role seriously, starring in UNICEF commercials and hosting events, saying:",
+      "parentId": 16
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.stamfordplus.com/stm/information/nws1/publish/News_1/UNICEF-Ambassador-Selena-Gomez-named-spokesperson-for-Trick-or-Treat-for-UNICEF-campaign6260.shtml",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I would like to encourage everyone to make a difference and support UNICEF's mission to reduce the number of daily preventable deaths of children, from 24,000 to zero.",
       "sourceTitle": "UNICEF Ambassador Selena Gomez named spokesperson for Trick-or-Treat for UNICEF campaign",
-      "text": "I would like to encourage everyone to make a difference and support UNICEF's mission to reduce the number of daily preventable deaths of children, from 24,000 to zero."
+      "sourceUrl": "http://www.stamfordplus.com/stm/information/nws1/publish/News_1/UNICEF-Ambassador-Selena-Gomez-named-spokesperson-for-Trick-or-Treat-for-UNICEF-campaign6260.shtml"
     }
   ],
   "wikipediaData": {

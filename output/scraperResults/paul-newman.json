@@ -40,157 +40,223 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Paul Newman was born and raised in Shaker Heights, Ohio, just outside of Cleveland. He died in Westport, Connecticut in 2008 of lung cancer."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000056/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Newman's father was of Jewish descent and though his mother practiced the Christian Science religion,",
       "sourceTitle": "Paul Newman (I) – Biography",
-      "text": "Newman's father was of Jewish descent and though his mother practiced the Christian Science religion,"
+      "sourceUrl": "http://www.imdb.com/name/nm0000056/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ffrf.org/news/day/dayitems/item/14165-paul-newman",
+      "type": "text",
+      "text": "she was born and raised a Catholic.",
+      "parentId": 2,
       "sourceTitle": "Paul Newman",
-      "text": "she was born and raised a Catholic."
+      "sourceUrl": "http://ffrf.org/news/day/dayitems/item/14165-paul-newman"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/804/000022738/",
+      "parentId": 3,
+      "type": "text",
+      "text": "When asked which religion he more closely identified with, Newman responded that he felt more Jewish \"because it's more of a challenge.\"",
       "sourceTitle": "Paul Newman",
-      "text": "When asked which religion he more closely identified with, Newman responded that he felt more Jewish \"because it's more of a challenge.\""
+      "sourceUrl": "http://www.nndb.com/people/804/000022738/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.uucmp.org/beliefs/b-unitarian-universalist-heritage-history",
+      "type": "text",
+      "text": "However, the quasi, soft-Christian sect of Unitarian Universalists have Newman pegged as one of their own in quite a few of their websites",
+      "parentId": 3,
       "sourceTitle": "Unitarian Universalist Heritage/History",
-      "text": "However, the quasi, soft-Christian sect of Unitarian Universalists have Newman pegged as one of their own in quite a few of their websites"
+      "sourceUrl": "http://www.uucmp.org/beliefs/b-unitarian-universalist-heritage-history"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.patheos.com/blogs/getreligion/2008/09/paul-newmans-exodus-to-what-exactly/",
+      "type": "text",
+      "text": "and there are claims that he attended a Unitarian Universalist church in the town he chose to live out the end of his life–Westport, Connecticut.",
+      "parentId": 3,
       "sourceTitle": "Newman's Exodus to … what, exactly?",
-      "text": "and there are claims that he attended a Unitarian Universalist church in the town he chose to live out the end of his life–Westport, Connecticut."
+      "sourceUrl": "http://www.patheos.com/blogs/getreligion/2008/09/paul-newmans-exodus-to-what-exactly/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.patheos.com/blogs/getreligion/2008/09/paul-newmans-exodus-to-what-exactly/",
+      "parentId": 4,
+      "type": "text",
+      "text": "Interestingly, a Unitarian Universalist reverend in Connecticut commented on this"
+    },
+    {
+      "parentId": 4,
+      "type": "link",
+      "text": "article",
+      "sourceUrl": "http://www.patheos.com/blogs/getreligion/2008/09/paul-newmans-exodus-to-what-exactly/"
+    },
+    {
+      "type": "text",
+      "text": "on the topic of Newman's connection to this religion, saying that Newman's children attended kids programs and activities at the church–which non-members are free to do–but that it wasn't necessarily his religion of choice.",
+      "parentId": 4,
       "sourceTitle": "Newman's Exodus to … what, exactly?",
-      "text": "Interestingly, a Unitarian Universalist reverend in Connecticut commented on this  on the topic of Newman's connection to this religion, saying that Newman's children attended kids programs and activities at the church–which non-members are free to do–but that it wasn't necessarily his religion of choice."
+      "sourceUrl": "http://www.patheos.com/blogs/getreligion/2008/09/paul-newmans-exodus-to-what-exactly/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ffrf.org/news/day/dayitems/item/14165-paul-newman",
+      "parentId": 5,
+      "type": "text",
+      "text": "In the end, it looks like Newman just wasn't all that religious. He told Barbara Walters in an interview that he didn't believe in an afterlife.",
       "sourceTitle": "Paul Newman",
-      "text": "In the end, it looks like Newman just wasn't all that religious. He told Barbara Walters in an interview that he didn't believe in an afterlife."
+      "sourceUrl": "http://ffrf.org/news/day/dayitems/item/14165-paul-newman"
     },
     {
-      "type": "sentence",
-      "text": "That being the case, atheist seems the most likely designation for Newman."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "That being the case, atheist seems the most likely designation for Newman.",
+      "parentId": 5
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "An old-school liberal"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/804/000022738/",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Newman was a lifelong Democrat",
       "sourceTitle": "Paul Newman",
-      "text": "Newman was a lifelong Democrat"
+      "sourceUrl": "http://www.nndb.com/people/804/000022738/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080930/PEOPLE/809309997",
+      "type": "text",
+      "text": "and was very active politically. In the late 60s, Newman was in staunch opposition to the Vietnam War and campaigned for Lyndon B. Johnson's opponent, Democrat Eugene McCarthy.",
+      "parentId": 7,
       "sourceTitle": "Campaigning with Paul Newman",
-      "text": "and was very active politically. In the late 60s, Newman was in staunch opposition to the Vietnam War and campaigned for Lyndon B. Johnson's opponent, Democrat Eugene McCarthy."
+      "sourceUrl": "http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20080930/PEOPLE/809309997"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000056/bio",
+      "parentId": 8,
+      "type": "text",
+      "text": "His continued protests against the Vietnam War earned him number 19 on Richard Nixon's list of enemies,",
       "sourceTitle": "Paul Newman (I) – Biography",
-      "text": "His continued protests against the Vietnam War earned him number 19 on Richard Nixon's list of enemies,"
+      "sourceUrl": "http://www.imdb.com/name/nm0000056/bio"
     },
     {
-      "type": "sentence",
-      "text": "to which he said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "to which he said:",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000056/bio",
-      "sourceTitle": "Paul Newman (I) – Biography",
-      "text": "Being on [President Richard Nixon's] enemies list was the highest single honor I've ever received. Who knows who's listening to me now and what government list I'm on?"
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Being on [President Richard Nixon's] enemies list was the highest single honor I've ever received. Who knows who's listening to me now and what government list I'm on?",
+      "sourceTitle": "Paul Newman (I) – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0000056/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Newman embraced even modern liberal causes–before they were cool. He claims to have been a champion of gay rights since he was a kid:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000056/bio",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I'm a supporter of gay rights. And not a closet supporter, either. From the time I was a kid, I have never been able to understand attacks upon the gay community.",
       "sourceTitle": "Paul Newman (I) – Biography",
-      "text": "I'm a supporter of gay rights. And not a closet supporter, either. From the time I was a kid, I have never been able to understand attacks upon the gay community."
+      "sourceUrl": "http://www.imdb.com/name/nm0000056/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://usatoday30.usatoday.com/life/people/2007-05-23-paul-newman_N.htm",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "And he's suggested that nuclear power could be a part of the solution against global warming.",
       "sourceTitle": "Cool Hand Nuke: Paul Newman endorses power plant",
-      "text": "And he's suggested that nuclear power could be a part of the solution against global warming."
+      "sourceUrl": "http://usatoday30.usatoday.com/life/people/2007-05-23-paul-newman_N.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newmansownfoundation.org/about-us/",
+      "parentId": 15,
+      "type": "text",
+      "text": "But what Newman is probably the most famous for, to this day, is his massive efforts for charity. In 1982, Newman started a salad dressing company called Newman's Own and decided to give away all profits after taxes. At the time of writing, Newman's Own (with its dramatically expanded product line) has donated over $370 million to charitable causes",
       "sourceTitle": "More Than $350 Million Donated Around the World",
-      "text": "But what Newman is probably the most famous for, to this day, is his massive efforts for charity. In 1982, Newman started a salad dressing company called Newman's Own and decided to give away all profits after taxes. At the time of writing, Newman's Own (with its dramatically expanded product line) has donated over $370 million to charitable causes"
+      "sourceUrl": "http://newmansownfoundation.org/about-us/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.freerepublic.com/focus/f-news/2092573/posts",
+      "type": "text",
+      "text": "ranging far and wide including an award for people whose work helps uphold the First Amendment",
+      "parentId": 15,
       "sourceTitle": "PEN/Newman's Own First Amendment Award",
-      "text": "ranging far and wide including an award for people whose work helps uphold the First Amendment"
+      "sourceUrl": "http://www.freerepublic.com/focus/f-news/2092573/posts"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.corporatephilanthropy.org/about-cecp/board-of-directors/paul-newman.html",
+      "type": "text",
+      "text": "and helping to fund and organize a committee to encourage other corporations to up their levels of philanthropy.",
+      "parentId": 15,
       "sourceTitle": "Paul Newman",
-      "text": "and helping to fund and organize a committee to encourage other corporations to up their levels of philanthropy."
+      "sourceUrl": "http://www.corporatephilanthropy.org/about-cecp/board-of-directors/paul-newman.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "One would be hard-pressed to find an actor that has done more for society. Paul Newman is the gift that keeps on giving."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

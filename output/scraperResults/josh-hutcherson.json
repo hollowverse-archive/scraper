@@ -29,65 +29,99 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Josh Hutcherson was born in Union, Kentucky."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chacha.com/question/is-josh-hutcherson-a-christian",
+      "parentId": 2,
+      "type": "text",
+      "text": "His religious views are very much up for debate. Some websites (without citations) are convinced he is a Christian",
       "sourceTitle": "Is Josh hutcherson a christian?",
-      "text": "His religious views are very much up for debate. Some websites (without citations) are convinced he is a Christian"
+      "sourceUrl": "http://www.chacha.com/question/is-josh-hutcherson-a-christian"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://godlygirlz.blogspot.com/2012/04/why-i-will-never-marry-josh-hutcherson.html",
+      "type": "text",
+      "text": "while teenage girl bloggers write 1,000-word reports on why they are so sad because they can't marry Josh because he is",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "not"
+    },
+    {
+      "type": "text",
+      "text": "a Christian.",
+      "parentId": 2,
       "sourceTitle": "Why I Will Never Marry Josh Hutcherson",
-      "text": "while teenage girl bloggers write 1,000-word reports on why they are so sad because they can't marry Josh because he is  a Christian."
+      "sourceUrl": "http://godlygirlz.blogspot.com/2012/04/why-i-will-never-marry-josh-hutcherson.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.tribute.ca/people/josh-hutcherson/13773/",
+      "parentId": 3,
+      "type": "text",
+      "text": "The only piece of Josh Hutcherson's official history having anything to do with religion is the fact that his first acting job was for a Bible study video for a Christian church in Toledo, Ohio.",
       "sourceTitle": "Josh Hutcherson biography and filmography.",
-      "text": "The only piece of Josh Hutcherson's official history having anything to do with religion is the fact that his first acting job was for a Bible study video for a Christian church in Toledo, Ohio."
+      "sourceUrl": "http://www.tribute.ca/people/josh-hutcherson/13773/"
     },
     {
-      "type": "sentence",
-      "text": "Plus, the film , which he starred in, has slight Christian undertones."
+      "type": "text",
+      "text": "Plus, the film",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Bridge to Terabithia"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": ", which he starred in, has slight Christian undertones.",
+      "parentId": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "My personal view–he probably has Christian roots in his family but doesn't care so much."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm1242688/bio",
+      "parentId": 5,
+      "type": "text",
+      "text": "Politically, Hutcherson is a bit more interesting. Both of his parents work for the Environmental Protection Agency (EPA)",
       "sourceTitle": "Josh Hutcherson – Biography.",
-      "text": "Politically, Hutcherson is a bit more interesting. Both of his parents work for the Environmental Protection Agency (EPA)"
+      "sourceUrl": "http://www.imdb.com/name/nm1242688/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://latimesblogs.latimes.com/gossip/2012/04/josh-hutcherson-hunger-games-exclusive-glaad-media-award.html",
+      "type": "text",
+      "text": "and Hutcherson has won awards for raising awareness of the trails facing the LGBT community.",
+      "parentId": 5,
       "sourceTitle": "'Hunger Games' star Josh Hutcherson to recieve GLAAD honor.",
-      "text": "and Hutcherson has won awards for raising awareness of the trails facing the LGBT community."
+      "sourceUrl": "http://latimesblogs.latimes.com/gossip/2012/04/josh-hutcherson-hunger-games-exclusive-glaad-media-award.html"
     },
     {
-      "type": "sentence",
-      "text": "These two items would put Hutcherson snugly into the liberal/Democrat category and might be why some (religious conservatives) are convinced he's not a Christian."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "These two items would put Hutcherson snugly into the liberal/Democrat category and might be why some (religious conservatives) are convinced he's not a Christian.",
+      "parentId": 5
     }
   ],
   "wikipediaData": {

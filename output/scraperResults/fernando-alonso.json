@@ -32,88 +32,138 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Fernando Alonso, full name Fernando Alonso Díaz, was born and raised in Oviedo, Asturias, Spain."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.whosdatedwho.com/sections/celebrities/religion/roman-catholic_f",
+      "parentId": 2,
+      "type": "text",
+      "text": "Alonso is listed on various websites as a Catholic.",
       "sourceTitle": "Celebrity Religion – Roman Catholic (Celebrities): F",
-      "text": "Alonso is listed on various websites as a Catholic."
+      "sourceUrl": "http://www.whosdatedwho.com/sections/celebrities/religion/roman-catholic_f"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biografiasyvidas.com/reportaje/fernando_alonso/",
+      "type": "text",
+      "text": "I'd feel safe to say that he was raised a Catholic considering Spain is a predominantly Catholic nation and he attended a school growing up called the Holy Guardian Angel Primary School.",
+      "parentId": 2,
       "sourceTitle": "Fernando Alonso Biografia",
-      "text": "I'd feel safe to say that he was raised a Catholic considering Spain is a predominantly Catholic nation and he attended a school growing up called the Holy Guardian Angel Primary School."
+      "sourceUrl": "http://www.biografiasyvidas.com/reportaje/fernando_alonso/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.alonso-planet.com/archive/index.php/thread-314.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "But he's certainly not a Catholic anymore. Once during an interview, Alonso was asked directly if he believes in God. He simply said, \"no.\"",
       "sourceTitle": "Ferrari makes me turn into a child",
-      "text": "But he's certainly not a Catholic anymore. Once during an interview, Alonso was asked directly if he believes in God. He simply said, \"no.\""
+      "sourceUrl": "http://www.alonso-planet.com/archive/index.php/thread-314.html"
     },
     {
-      "type": "sentence",
-      "text": "In another interview, he elaborated:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "In another interview, he elaborated:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Fernando_Alonso",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I don't have any relationship with God and I've never wanted it. I don't believe in fate or in any superior entity: if a plane crashes and people die, it's not because Heaven said so.",
       "sourceTitle": "Fernando Alonso",
-      "text": "I don't have any relationship with God and I've never wanted it. I don't believe in fate or in any superior entity: if a plane crashes and people die, it's not because Heaven said so."
+      "sourceUrl": "http://www.celebatheists.com/wiki/Fernando_Alonso"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.alonso-planet.com/archive/index.php/thread-314.html",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "He is a bit superstitious when it comes to numbers though. Because he won his first kart world championship at the age of 14, Alonso believes that a mathematical equation involving the number on his helmet, his hotel room number and the number of cars on the starting grid must equal 14.",
       "sourceTitle": "Ferrari makes me turn into a child",
-      "text": "He is a bit superstitious when it comes to numbers though. Because he won his first kart world championship at the age of 14, Alonso believes that a mathematical equation involving the number on his helmet, his hotel room number and the number of cars on the starting grid must equal 14."
+      "sourceUrl": "http://www.alonso-planet.com/archive/index.php/thread-314.html"
     },
     {
-      "type": "sentence",
-      "text": "Perhaps we could call him a numerologist. But in conventional terms, he's definitely an atheist."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Perhaps we could call him a numerologist. But in conventional terms, he's definitely an atheist.",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Rooting for the underdog"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Alonso has repeatedly confirmed that he's not interested in politics, once saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://adamcooperf1.com/2013/01/17/fernando-alonso-i-dont-think-i-am-good-at-politics/",
-      "sourceTitle": "Fernando Alonso: \"I don't think I am good at politics…\"",
-      "text": "I don't think I am good at politics, I just drive the car."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I don't think I am good at politics, I just drive the car.",
+      "sourceTitle": "Fernando Alonso: \"I don't think I am good at politics…\"",
+      "sourceUrl": "http://adamcooperf1.com/2013/01/17/fernando-alonso-i-dont-think-i-am-good-at-politics/"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "But his home country, along with much of southern Europe including Portugal, Italy and Greece have spent the last several years gripped with fiscal uncertainty, faced with economic collapse and shouldered with the guilt that they might be responsible for the downfall of the Eurozone. Perhaps Alonso's most political statement was to lift the spirits and pride of those countries. He said after winning a race:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 12
     },
     {
-      "type": "quote",
-      "sourceUrl": "https://plus.google.com/101443032616581166067/posts/NmanAgQ8FS7",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I don't really know politics but it is true that the situation is not great in Spain but a Spanish driver in an Italian car, designed by a Greek man is good to win here.",
       "sourceTitle": "F1 Fernando Alonso: \"I don't really know politics but…\"",
-      "text": "I don't really know politics but it is true that the situation is not great in Spain but a Spanish driver in an Italian car, designed by a Greek man is good to win here."
+      "sourceUrl": "https://plus.google.com/101443032616581166067/posts/NmanAgQ8FS7"
     }
   ],
   "wikipediaData": {

@@ -32,95 +32,139 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jennifer Connelly was born in Round Top, New York and grew up between Brooklyn, New York and Woodstock, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.courant.com/2005-07-03/entertainment/0507030261_1_dark-water-oscar-victory-first-film",
+      "parentId": 2,
+      "type": "text",
+      "text": "Connelly was raised around two distinct religions. Her father provided the Catholic influence and her mother brought a big slice of Judaism to the table. Connelly has laughingly said she grew up with a \"double dose of guilt.\"",
       "sourceTitle": "Jennifer Connelly Feeling More At Home In Her Career",
-      "text": "Connelly was raised around two distinct religions. Her father provided the Catholic influence and her mother brought a big slice of Judaism to the table. Connelly has laughingly said she grew up with a \"double dose of guilt.\""
+      "sourceUrl": "http://articles.courant.com/2005-07-03/entertainment/0507030261_1_dark-water-oscar-victory-first-film"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Connelly speaks of going through a phase in young adulthood where she was searching for meaning in religion–but nothing seemed to satisfy her. In the end, it was her children and her love for them that provided a spiritual launchpad. She says:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/lifeandstyle/2008/dec/09/celebrity",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "At school and in my early 20s I read every religious text I could get my hands on… I wanted to feel like something made sense to me, that there was something sacred I could feel aligned with. Then I had Kai [her child] and thought this is something that is really concrete and it's sort of a practice in itself – trying to raise him well. It comes with its own set of moral imperatives and it keeps me thinking about the right things.",
       "sourceTitle": "Jennifer Connelly talks to Patrick Barkham about religion, child stardom and acting opposite husband Paul Bettany",
-      "text": "At school and in my early 20s I read every religious text I could get my hands on… I wanted to feel like something made sense to me, that there was something sacred I could feel aligned with. Then I had Kai [her child] and thought this is something that is really concrete and it's sort of a practice in itself – trying to raise him well. It comes with its own set of moral imperatives and it keeps me thinking about the right things."
+      "sourceUrl": "http://www.guardian.co.uk/lifeandstyle/2008/dec/09/celebrity"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cbc.ca/arts/tiff/blog2009/2009/09/snubbed_by_connelly.html",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "And Connelly is consistent. In the many interviews she has had where religion came up, she either tersely avoided the question",
       "sourceTitle": "Don't ask Jennifer Connelly about religion",
-      "text": "And Connelly is consistent. In the many interviews she has had where religion came up, she either tersely avoided the question"
+      "sourceUrl": "http://www.cbc.ca/arts/tiff/blog2009/2009/09/snubbed_by_connelly.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=IhzzAbL6SJ8",
+      "type": "text",
+      "text": "or confirmed that her spirituality lies ambiguously within her family bonds.",
+      "parentId": 6,
       "sourceTitle": "Jennifer Connelly talks about God & Religion",
-      "text": "or confirmed that her spirituality lies ambiguously within her family bonds."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.youtube.com/watch?v=IhzzAbL6SJ8"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Requiem for politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "While the occasional reporter has pried Connelly's religious views from her–however vague they might be–they've had a tougher time with the issue of politics."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.sciencentral.com/video/2008/12/12/environmental-themes-in-the-day-the-earth-stood-still/",
+      "parentId": 9,
+      "type": "text",
+      "text": "When asked to comment on whether or not she's a friend to the earth, she said environmental consciousness is \"crucial, it's essential.\"",
       "sourceTitle": "Environmental Themes in \"The Day The Earth Stood Still.\"",
-      "text": "When asked to comment on whether or not she's a friend to the earth, she said environmental consciousness is \"crucial, it's essential.\""
+      "sourceUrl": "http://www.sciencentral.com/video/2008/12/12/environmental-themes-in-the-day-the-earth-stood-still/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "Well, that's something."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "And, like so many others, she was pretty excited about Obama in 2008. She admitted to voting for him to a British interviewer, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/lifeandstyle/2008/dec/09/celebrity",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I'm really excited about [the election results]. It was really uplifting – the turnout, the passion, the extent to which people back in the States seemed to care and become engaged.",
       "sourceTitle": "Jennifer Connelly talks to Patrick Barkham about religion, child stardom and acting opposite husband Paul Bettany",
-      "text": "I'm really excited about [the election results]. It was really uplifting – the turnout, the passion, the extent to which people back in the States seemed to care and become engaged."
+      "sourceUrl": "http://www.guardian.co.uk/lifeandstyle/2008/dec/09/celebrity"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "But that's about the extent of it."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

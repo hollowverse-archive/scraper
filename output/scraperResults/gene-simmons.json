@@ -35,128 +35,206 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Gene Simmons, whose birth name was Chaim Weitz, was born in Haifa, Israel and grew up there and in New York City."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.haaretz.com/jewish-world/kiss-lead-singer-gene-simmons-slams-israel-boycotters-1.351197",
+      "parentId": 2,
+      "type": "text",
+      "text": "Simmons is Jewish and was raised by his mother, a Holocaust survivor.",
       "sourceTitle": "Kiss lead singer Gene Simmons slams Israel boycotters.",
-      "text": "Simmons is Jewish and was raised by his mother, a Holocaust survivor."
+      "sourceUrl": "http://www.haaretz.com/jewish-world/kiss-lead-singer-gene-simmons-slams-israel-boycotters-1.351197"
     },
     {
-      "type": "sentence",
-      "text": "He clearly identifies culturally with Jews and Israel, which I'll get into later, but I couldn't find any information about him being particularly religious."
+      "type": "text",
+      "text": "He clearly identifies culturally with Jews and Israel, which I'll get into later, but I couldn't find any information about him being particularly religious.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "In fact, he seems pretty suspicious of organized religion. He said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.blabbermouth.net/news.aspx?mode=Article&newsitemID=7146",
-      "sourceTitle": "GENE SIMMONS Speaks Out On Marriage, Religion And KISS.",
-      "text": "Like, human beings are allowed to talk for God? Whoever came up with that one? The less educated you are, the more of a hold on you religion has."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Like, human beings are allowed to talk for God? Whoever came up with that one? The less educated you are, the more of a hold on you religion has.",
+      "sourceTitle": "GENE SIMMONS Speaks Out On Marriage, Religion And KISS.",
+      "sourceUrl": "http://www.blabbermouth.net/news.aspx?mode=Article&newsitemID=7146"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Maybe it's his suspicion of religion or maybe it's something else, but he hasn't always had kind words for Muslims–and it seems to stem from his Jewish roots more than anything else. In an interview in Australia, he started talking about extremists and suicide bombers, but betrayed an intolerance for non-extremist Muslims when he said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.smh.com.au/articles/2004/05/14/1084289868279.html",
-      "sourceTitle": "Outrage as KISS player mouths off on Muslims.",
-      "text": "This is a vile culture and if you think for a second that it's going to just live in the sands of God's armpit you've got another thing coming. . . . They want to come and live right where you live and they think that you're evil."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "This is a vile culture and if you think for a second that it's going to just live in the sands of God's armpit you've got another thing coming. . . . They want to come and live right where you live and they think that you're evil.",
+      "sourceTitle": "Outrage as KISS player mouths off on Muslims.",
+      "sourceUrl": "http://www.smh.com.au/articles/2004/05/14/1084289868279.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Not exactly a model of tolerance. But then again, Simmons isn't known for being the most delicate speaker."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Pro-Israeli Independent"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.haaretz.com/jewish-world/kiss-lead-singer-gene-simmons-slams-israel-boycotters-1.351197",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Simmons is a devout supporter of Israel, the country of his birth. He called performers who boycott Israel due to its policies toward the Palestinians \"fools\" and he publicly declared a wounded Israeli soldier a \"hero.\"",
       "sourceTitle": "Kiss lead singer Gene Simmons slams Israel boycotters.",
-      "text": "Simmons is a devout supporter of Israel, the country of his birth. He called performers who boycott Israel due to its policies toward the Palestinians \"fools\" and he publicly declared a wounded Israeli soldier a \"hero.\""
+      "sourceUrl": "http://www.haaretz.com/jewish-world/kiss-lead-singer-gene-simmons-slams-israel-boycotters-1.351197"
     },
     {
-      "type": "sentence",
-      "text": "About American support of Israel he said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "About American support of Israel he said,",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.weeklystandard.com/blogs/pro-israel-rocker-kiss-s-gene-simmons-stands-israel-and-arab-democracy-movements_555419.html",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "As an American, there's no choice but to be supportive of Israel. This is the Holy Land, and it's no secret that everybody in America perceives Israel as its only real friend in the Middle East – who else are you going to rely on?",
       "sourceTitle": "Kiss's Gene Simmons Stands Up for Israel and Arab Democracy Movements.",
-      "text": "As an American, there's no choice but to be supportive of Israel. This is the Holy Land, and it's no secret that everybody in America perceives Israel as its only real friend in the Middle East – who else are you going to rely on?"
+      "sourceUrl": "http://www.weeklystandard.com/blogs/pro-israel-rocker-kiss-s-gene-simmons-stands-israel-and-arab-democracy-movements_555419.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.israelnationalnews.com/News/News.aspx/144384#.UKfOrofAdf0",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "And he doesn't trust the Democrats or Obama to maintain that kind of support. He criticized the president's call for Israel to return to its 1967 borders.",
       "sourceTitle": "Video: Rock Star Blasts Obama.",
-      "text": "And he doesn't trust the Democrats or Obama to maintain that kind of support. He criticized the president's call for Israel to return to its 1967 borders."
+      "sourceUrl": "http://www.israelnationalnews.com/News/News.aspx/144384#.UKfOrofAdf0"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mediaite.com/tv/kiss-gene-simmons-wants-his-vote-for-obama-back-i-fell-victim-to-the-charm/",
+      "parentId": 15,
+      "type": "text",
+      "text": "And although he voted for Obama in 2008, he said he was \"ashamed\" of his mistake",
       "sourceTitle": "Gene Simmons President Obama.",
-      "text": "And although he voted for Obama in 2008, he said he was \"ashamed\" of his mistake"
+      "sourceUrl": "http://www.mediaite.com/tv/kiss-gene-simmons-wants-his-vote-for-obama-back-i-fell-victim-to-the-charm/"
     },
     {
-      "type": "sentence",
-      "text": "and put his support behind Republican Mitt Romney in 2012. About how Romney, a businessman, was more qualified than Obama, who started in politics as a community organizer, he said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and put his support behind Republican Mitt Romney in 2012. About how Romney, a businessman, was more qualified than Obama, who started in politics as a community organizer, he said,",
+      "parentId": 15
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.mediaite.com/tv/kiss-frontman-gene-simmons-voices-support-for-mitt-romney-regrets-voting-for-obama-in-08/",
-      "sourceTitle": "Kiss Frontman Gene Simmons Voices Support For Mitt Romney, Regrets Voting For Obama In '08.",
-      "text": "America should be in business and it should be run by a businessman. That's my philosophy."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "America should be in business and it should be run by a businessman. That's my philosophy.",
+      "sourceTitle": "Kiss Frontman Gene Simmons Voices Support For Mitt Romney, Regrets Voting For Obama In '08.",
+      "sourceUrl": "http://www.mediaite.com/tv/kiss-frontman-gene-simmons-voices-support-for-mitt-romney-regrets-voting-for-obama-in-08/"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "And Romney wasn't the first Republican Simmons voted for. He was a fan of George W. Bush as well. After saying he agreed with Democrat John Kerry, Bush's opponent in the 2004 presidential election, about environmental issues, women's rights, and the separation of church and state, he said he thought Bush was a better fit in the post-9/11 world:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://launch.dir.groups.yahoo.com/group/magicmetalshack/message/7141?var=1",
+      "id": 19
+    },
+    {
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "Bush is mongrel. He is a cowboy. He can't even pronounce the word 'nuclear'. But this is the worst enemy terrorists have. And that is precisely the guy you want in charge.",
       "sourceTitle": "GENE SIMMONS On Why GEORGE W. BUSH Is The Right President For America.",
-      "text": "Bush is mongrel. He is a cowboy. He can't even pronounce the word 'nuclear'. But this is the worst enemy terrorists have. And that is precisely the guy you want in charge."
+      "sourceUrl": "http://launch.dir.groups.yahoo.com/group/magicmetalshack/message/7141?var=1"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "So it doesn't seem like Simmons is necessarily a Republican or a Democrat. He seems like a true Independent."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

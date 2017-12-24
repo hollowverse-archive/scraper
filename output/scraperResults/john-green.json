@@ -35,107 +35,161 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "John Green was born in Indianapolis, Indiana and grew up in Orlando, Florida and Birmingham, Alabama."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=hXlI8Wn8J3Q",
+      "parentId": 2,
+      "type": "text",
+      "text": "Green is a Christian. He worked as a chaplain at a children's hospital, and he was enrolled in, but never attend, the University of Chicago's Divinity School.",
       "sourceTitle": "On Religion.",
-      "text": "Green is a Christian. He worked as a chaplain at a children's hospital, and he was enrolled in, but never attend, the University of Chicago's Divinity School."
+      "sourceUrl": "http://www.youtube.com/watch?v=hXlI8Wn8J3Q"
     },
     {
-      "type": "sentence",
-      "text": "But he says that he is sometimes uncomfortable with identifying himself as a religious person because fundamentalist Christians have hijacked the word and given it a bad name. He wrote,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But he says that he is sometimes uncomfortable with identifying himself as a religious person because fundamentalist Christians have hijacked the word and given it a bad name. He wrote,",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://johngreenbooks.com/faith-and-science/",
-      "sourceTitle": "Faith and Science.",
-      "text": "What science has taught us does not invalidate religious faith. . . . The anti-intellecutalism that has become the hallmark of religious conservatism in contemporary Christianity (and many other religions) will only set us back–not only economically and politically but also spiritually."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "What science has taught us does not invalidate religious faith. . . . The anti-intellecutalism that has become the hallmark of religious conservatism in contemporary Christianity (and many other religions) will only set us back–not only economically and politically but also spiritually.",
+      "sourceTitle": "Faith and Science.",
+      "sourceUrl": "http://johngreenbooks.com/faith-and-science/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "To Green, the question of whether or not God exists does not interest him. He says that all of us are looking for meaning in life, whether through a religious lens or not. And so, the things that unite us as humans are far more interesting and powerful than religious divisions. He said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=hXlI8Wn8J3Q",
-      "sourceTitle": "On Religion.",
-      "text": "That call to meaning is the foundation of religious worldviews, but it's also the foundation of successful secular worldviews. . . . Debating the mere existence of God is a way of avoiding the deeper and more devastating question of how we are going to bring meaning to human life."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "That call to meaning is the foundation of religious worldviews, but it's also the foundation of successful secular worldviews. . . . Debating the mere existence of God is a way of avoiding the deeper and more devastating question of how we are going to bring meaning to human life.",
+      "sourceTitle": "On Religion.",
+      "sourceUrl": "http://www.youtube.com/watch?v=hXlI8Wn8J3Q"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "In a world where religious differences daily cost human lives, friendships, family bonds, and common human decency, Green's sentiment is one from which all of us could certainly benefit."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Politics, for the love of our neighbors"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://fishingboatproceeds.tumblr.com/post/34119555014/an-open-letter-to-undecided-american-voters",
-      "sourceTitle": "An Open Letter to Undecided American Voters.",
-      "text": "Green is an independent who consistently votes for both Republicans and Democrats,"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://johngreenbooks.com/faith-and-science/",
+      "parentId": 10,
+      "type": "text",
+      "text": "Green is an independent who consistently votes for both Republicans and Democrats,",
+      "sourceTitle": "An Open Letter to Undecided American Voters.",
+      "sourceUrl": "http://fishingboatproceeds.tumblr.com/post/34119555014/an-open-letter-to-undecided-american-voters"
+    },
+    {
+      "type": "text",
+      "text": "although he is definitely an Obama fan. In a column he wrote in support of the president in 2008, he said that Obama's policies–specifically on health care–will allow the country to fulfill its obligation to \"love thy neighbor.\"",
+      "parentId": 10,
       "sourceTitle": "Faith and Science.",
-      "text": "although he is definitely an Obama fan. In a column he wrote in support of the president in 2008, he said that Obama's policies–specifically on health care–will allow the country to fulfill its obligation to \"love thy neighbor.\""
+      "sourceUrl": "http://johngreenbooks.com/faith-and-science/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://fishingboatproceeds.tumblr.com/post/34119555014/an-open-letter-to-undecided-american-voters",
+      "type": "text",
+      "text": "And then in 2012, he outlined his support for Obama's economic plan, foreign policy, and stance on social issues like gay marriage and abortion.",
+      "parentId": 10,
       "sourceTitle": "An Open Letter to Undecided American Voters.",
-      "text": "And then in 2012, he outlined his support for Obama's economic plan, foreign policy, and stance on social issues like gay marriage and abortion."
+      "sourceUrl": "http://fishingboatproceeds.tumblr.com/post/34119555014/an-open-letter-to-undecided-american-voters"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://fishingboatproceeds.tumblr.com/post/34119555014/an-open-letter-to-undecided-american-voters",
+      "parentId": 11,
+      "type": "text",
+      "text": "He says he often agrees with Republican pro-business and economic positions,",
       "sourceTitle": "An Open Letter to Undecided American Voters.",
-      "text": "He says he often agrees with Republican pro-business and economic positions,"
+      "sourceUrl": "http://fishingboatproceeds.tumblr.com/post/34119555014/an-open-letter-to-undecided-american-voters"
     },
     {
-      "type": "sentence",
-      "text": "but on social issues, he appears to be fairly liberal. In a video detailing why he disagrees with defining marriage in a religious context, he said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but on social issues, he appears to be fairly liberal. In a video detailing why he disagrees with defining marriage in a religious context, he said,",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://johngreenbooks.com/religion-and-gay-marriage/",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "The truth it, marriages are intensely personal, and they are defined not by courts or voters, but by the people who live inside of them. That's traditional marriage: people making a private, daily, life-long commitment. . . . But tragically, in most of the world we deny gay people the rights and obligations that are associated with their marriages, and that's just discrimination.",
       "sourceTitle": "Religion and Gay Marriage.",
-      "text": "The truth it, marriages are intensely personal, and they are defined not by courts or voters, but by the people who live inside of them. That's traditional marriage: people making a private, daily, life-long commitment. . . . But tragically, in most of the world we deny gay people the rights and obligations that are associated with their marriages, and that's just discrimination."
+      "sourceUrl": "http://johngreenbooks.com/religion-and-gay-marriage/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://johngreenbooks.com/idiotic-governance-how-our-political-discourse-hurts-our-economy/",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "As a moderate and an independent, he is frustrated, as many Americans are, at the state of political discourse in the country. He blames both Republicans and Democrats in Congress for refusing to negotiate about important economic policy decisions.",
       "sourceTitle": "Idiotic Governance: How Our Political Discourse Hurts Our Economy.",
-      "text": "As a moderate and an independent, he is frustrated, as many Americans are, at the state of political discourse in the country. He blames both Republicans and Democrats in Congress for refusing to negotiate about important economic policy decisions."
+      "sourceUrl": "http://johngreenbooks.com/idiotic-governance-how-our-political-discourse-hurts-our-economy/"
     },
     {
-      "type": "sentence",
-      "text": "Maybe they should take a lesson from his views on religion: that which unites us–our love of this country–is far greater than that which divides."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Maybe they should take a lesson from his views on religion: that which unites us–our love of this country–is far greater than that which divides.",
+      "parentId": 14
     }
   ],
   "wikipediaData": {

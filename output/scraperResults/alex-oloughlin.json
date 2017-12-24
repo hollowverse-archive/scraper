@@ -32,71 +32,111 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Alex O'Loughlin, whose name at birth was Alexander O'Lachlan, was born and raised in Sydney, Australia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.alexoloughlin.org/news/example1.php?Action=Full&NewsID=87",
+      "parentId": 2,
+      "type": "text",
+      "text": "O'Loughlin hasn't said much about his religious beliefs, but he did make it clear that he's got nothing formal going on. The actor works with a charity called Donate Life America which aims to educate the public about organ donation. He said he completely sympathizes with the fact that some people's religions prevent them from participating, but that he doesn't \"have any religious bonds. . . that stop me from doing that.\"",
       "sourceTitle": "Set Visit Interview: Alex O'Loughlin on Three Rivers and Whiteout.",
-      "text": "O'Loughlin hasn't said much about his religious beliefs, but he did make it clear that he's got nothing formal going on. The actor works with a charity called Donate Life America which aims to educate the public about organ donation. He said he completely sympathizes with the fact that some people's religions prevent them from participating, but that he doesn't \"have any religious bonds. . . that stop me from doing that.\""
+      "sourceUrl": "http://www.alexoloughlin.org/news/example1.php?Action=Full&NewsID=87"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "But no \"religious bonds\" to speak of, doesn't mean he's devoid of any spirituality. In one interview, he seemed to say that he couldn't imagine a world without a higher purpose:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://moonlightfan.blogspot.com/2007/12/alex-oloughlin-speaks-to-australian.html",
-      "sourceTitle": "Alex O'Loughlin speaks to Australian Newspaper Sydney Morning Herald.",
-      "text": "I think really if there's nothing out there in the dark, then once we're dead we're just dead and all religion, all spiritual belief, is redundant. So there has to be something else, or what's the point? And if we accept that there has to be something. . . then there can be anything."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I think really if there's nothing out there in the dark, then once we're dead we're just dead and all religion, all spiritual belief, is redundant. So there has to be something else, or what's the point? And if we accept that there has to be something. . . then there can be anything.",
+      "sourceTitle": "Alex O'Loughlin speaks to Australian Newspaper Sydney Morning Herald.",
+      "sourceUrl": "http://moonlightfan.blogspot.com/2007/12/alex-oloughlin-speaks-to-australian.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Anything? He sounds like a perfect candidate for the meta-religious label to me. Got anything else on O'Loughlin's religion? Let us know in the comments. And for that matter, if you can clue us in on his politics, that'd be great, cause. . ."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "It's anyone's guess at this point."
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "O'Loughlin certainly doesn't make it a point to be involved in the politics of his native country of Australia or his adopted home in the U.S. He doesn't appear to have signed on to any of the popular Hollywood causes like gay marriage, gun control, or environmentalism. He never had a public word to say about Obama or any recent elections. He's completely silent on all things partisan and political."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.breitbart.com/Big-Hollywood/2013/02/04/Hawaii-Five-O-s-Anti-Gun-Homily",
+      "parentId": 9,
+      "type": "text",
+      "text": "The closest I could get was that his T.V. show,"
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "Hawaii Five-O"
+    },
+    {
+      "type": "text",
+      "text": ", came out with a post-Newtown episode criticizing the lack of gun control regulations in the U.S.,",
+      "parentId": 9,
       "sourceTitle": "'Hawaii Five-O' Squeezes Anti-Gun Sermon into Latest Episode.",
-      "text": "The closest I could get was that his T.V. show, , came out with a post-Newtown episode criticizing the lack of gun control regulations in the U.S.,"
+      "sourceUrl": "http://www.breitbart.com/Big-Hollywood/2013/02/04/Hawaii-Five-O-s-Anti-Gun-Homily"
     },
     {
-      "type": "sentence",
-      "text": "but of course that's a reflection of the writers' and producers' opinions on the matter rather than anything to do with O'Loughlin's opinion."
+      "type": "text",
+      "text": "but of course that's a reflection of the writers' and producers' opinions on the matter rather than anything to do with O'Loughlin's opinion.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "He is, as mentioned earlier, a supporter of organ donation, but that hasn't hit any partisan resistance or debate as far as I'm aware. So, non-political it is!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

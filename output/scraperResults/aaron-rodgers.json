@@ -32,93 +32,136 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Aaron Rodgers was born in Chico, California and grew up between Ukiah, California, Beaverton, Oregon and moved back to Chico where he graduated from high school."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Rodgers grew up in a very Christian home and he is very devout to this day. He said of his upbringing:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.athletesinaction.org/news/post/2010/10/25/Aaron-Rodgers-Leader-of-the-Pack.aspx",
-      "sourceTitle": "Aaron Rodgers: Leader of the Pack",
-      "text": "I grew up knowing what a stable relationship was by my parents' example and how it centered on Christ. When our family had its ups and downs, I knew my parents relied on God for everything and He always got us through those rough spots."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I grew up knowing what a stable relationship was by my parents' example and how it centered on Christ. When our family had its ups and downs, I knew my parents relied on God for everything and He always got us through those rough spots.",
+      "sourceTitle": "Aaron Rodgers: Leader of the Pack",
+      "sourceUrl": "http://www.athletesinaction.org/news/post/2010/10/25/Aaron-Rodgers-Leader-of-the-Pack.aspx"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "If you dig deep into Aaron Rodgers' faith, it's surprising how devoted to Jesus Christ he is. And by virtue of the fact that he's a star NFL quarterback who is religious, he's often compared to mega-Christian Tim Tebow, with the clear distinction being that Rodgers is much less obvious about his faith. He commented on this once, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://offthebench.nbcsports.com/2011/11/30/aaron-rodgers-on-tim-tebow-religion-controversy-i-believe-in-letting-my-actions-speak-about-the-kind-of-character-i-have/",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I feel like my stance and my desire has always been to follow a quote from St. Francis of Assisi, who said, 'Preach the gospel at all times. If necessary, use words.' So basically, I'm not an over-the-top, or an in-your-face kind of guy with my faith. I would rather people have questions about why I act the way I act.",
       "sourceTitle": "Aaron Rodgers on Tim Tebow religion controversy: 'I believe in letting my actions speak about the kind of character I have.'",
-      "text": "I feel like my stance and my desire has always been to follow a quote from St. Francis of Assisi, who said, 'Preach the gospel at all times. If necessary, use words.' So basically, I'm not an over-the-top, or an in-your-face kind of guy with my faith. I would rather people have questions about why I act the way I act."
+      "sourceUrl": "http://offthebench.nbcsports.com/2011/11/30/aaron-rodgers-on-tim-tebow-religion-controversy-i-believe-in-letting-my-actions-speak-about-the-kind-of-character-i-have/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://revitalizeyourchurch.blogspot.com/2011/01/aaron-rogers-shares-his-faith.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "It's unclear exactly which denomination Rodgers adheres to, but based on the fact that, according to this source, he \"asked Jesus to be his savior when he was very young,\"",
       "sourceTitle": "Aaron Rodgers Shares His Faith",
-      "text": "It's unclear exactly which denomination Rodgers adheres to, but based on the fact that, according to this source, he \"asked Jesus to be his savior when he was very young,\""
+      "sourceUrl": "http://revitalizeyourchurch.blogspot.com/2011/01/aaron-rogers-shares-his-faith.html"
     },
     {
-      "type": "sentence",
-      "text": "one could easily make the assumption that Rodgers is some kind of born-again Christian."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "one could easily make the assumption that Rodgers is some kind of born-again Christian.",
+      "parentId": 8
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "A Political Hail Mary"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "One would assume that because of the level of Rodgers' devotion to Christianity, he would be rather conservative regarding social issues–and we could just go on assuming that! Rodgers hasn't really commented on any social issues."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://bleacherreport.com/articles/602401-aaron-rodgers-is-a-super-bowl-champ-but-hes-no-steve-young",
+      "parentId": 11,
+      "type": "text",
+      "text": "However, a few pieces of evidence point to the contrary. First of all, Rodgers attended and graduated from the University of California, Berkeley.",
       "sourceTitle": "Aaron Rodgers is a Super Bowl Champ, but He's No Steve Young",
-      "text": "However, a few pieces of evidence point to the contrary. First of all, Rodgers attended and graduated from the University of California, Berkeley."
+      "sourceUrl": "http://bleacherreport.com/articles/602401-aaron-rodgers-is-a-super-bowl-champ-but-hes-no-steve-young"
     },
     {
-      "type": "sentence",
-      "text": "Anybody who knows about American colleges knows that Berkeley is arguably the most liberal college in the U.S."
+      "type": "text",
+      "text": "Anybody who knows about American colleges knows that Berkeley is arguably the most liberal college in the U.S.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thenation.com/blog/158741/aaron-rodgers-we-need-your-voice-wisconsins-working-families",
+      "parentId": 12,
+      "type": "text",
+      "text": "If Rodgers is vague about his stance on social issues, he's made his stance on fiscal issues very clear. First, he's the union rep for the Green Bay Packer's Player's Union.",
       "sourceTitle": "Aaron Rodgers: We Need Your Voice for Wisconsin's Working Families",
-      "text": "If Rodgers is vague about his stance on social issues, he's made his stance on fiscal issues very clear. First, he's the union rep for the Green Bay Packer's Player's Union."
+      "sourceUrl": "http://www.thenation.com/blog/158741/aaron-rodgers-we-need-your-voice-wisconsins-working-families"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailyscoff.com/politics/ryan-braun-aaron-rodgers-sign-recall-petitions/",
+      "type": "text",
+      "text": "Beyond that, Rodgers signed a petition to recall Wisconsin Republican governor Scott Walker,",
+      "parentId": 12,
       "sourceTitle": "Ryan Braun, Aaron Rodgers Sign Recall Petitions",
-      "text": "Beyond that, Rodgers signed a petition to recall Wisconsin Republican governor Scott Walker,"
+      "sourceUrl": "http://www.dailyscoff.com/politics/ryan-braun-aaron-rodgers-sign-recall-petitions/"
     },
     {
-      "type": "sentence",
-      "text": "putting him squarely in the Democrat corner and possibly the fiscally liberal camp–though we won't go so far as to make that assumption."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "putting him squarely in the Democrat corner and possibly the fiscally liberal camp–though we won't go so far as to make that assumption.",
+      "parentId": 12
     }
   ],
   "wikipediaData": {

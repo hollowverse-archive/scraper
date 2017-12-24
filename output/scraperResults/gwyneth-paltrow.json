@@ -34,103 +34,148 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Gwyneth Paltrow was born in Los Angeles, California and grew up between Santa Monica, California and New York City."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Both of Paltrow's parents are famous figures in the entertainment industry. Her father is Bruce Paltrow, producer and her mother, the actress Blythe Danner."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blog.sfgate.com/dailydish/2006/01/03/paltrow-gets-serious-about-jewish-roots/",
+      "parentId": 3,
+      "type": "text",
+      "text": "Paltrow's father comes from a family with a long, dynastic Eastern European Jewish history",
       "sourceTitle": "Paltrow Gets Serious about Jewish Roots",
-      "text": "Paltrow's father comes from a family with a long, dynastic Eastern European Jewish history"
+      "sourceUrl": "http://blog.sfgate.com/dailydish/2006/01/03/paltrow-gets-serious-about-jewish-roots/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.myspacecelebquotes.com/celeb/blythe-danner.htm",
+      "type": "text",
+      "text": "and her mother was raised in the Pennsylvania Dutch Quaker tradition.",
+      "parentId": 3,
       "sourceTitle": "Blythe Danner Quotes",
-      "text": "and her mother was raised in the Pennsylvania Dutch Quaker tradition."
+      "sourceUrl": "http://www.myspacecelebquotes.com/celeb/blythe-danner.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Paltrow has spoken about her bi-religious upbringing positively, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://womansday.ninemsn.com.au/celebrity/celebrityheadlines/996224/gwyneth-my-life-as-a-working-mum",
-      "sourceTitle": "Gwyneth: My life as a working mum",
-      "text": "It was such a nice way to grow up. We had more holidays. And there are two different lifestyles and cultures."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "It was such a nice way to grow up. We had more holidays. And there are two different lifestyles and cultures.",
+      "sourceTitle": "Gwyneth: My life as a working mum",
+      "sourceUrl": "http://womansday.ninemsn.com.au/celebrity/celebrityheadlines/996224/gwyneth-my-life-as-a-working-mum"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "However fun it might have been, religion didn't seem to take for Paltrow in adulthood. She publicly expressed a distaste for religion–organized religion, mind you, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://womansday.ninemsn.com.au/celebrity/celebrityheadlines/996224/gwyneth-my-life-as-a-working-mum",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I don't believe in religion. I believe in spirituality. Religion is the cause of all the problems in the world. I don't believe in organised religion at all. It's what separates people. One religion just represents fragments, it causes war. More people have died because of religious conflict than any other reason.",
       "sourceTitle": "Gwyneth: My life as a working mum",
-      "text": "I don't believe in religion. I believe in spirituality. Religion is the cause of all the problems in the world. I don't believe in organised religion at all. It's what separates people. One religion just represents fragments, it causes war. More people have died because of religious conflict than any other reason."
+      "sourceUrl": "http://womansday.ninemsn.com.au/celebrity/celebrityheadlines/996224/gwyneth-my-life-as-a-working-mum"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2016674/Gwyneth-Paltrow-Ill-raise-Apple-Moses-Jewish.html#ixzz1Sc4Drhuw",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Things changed a bit for Paltrow when she was a guest on the British TV show, \"Who Do You Think You Are?,\" a program that sends celebrities on a quest to learn about their family histories. Paltrow suddenly became proud enough of her Jewish ancestry to declare that she would raise her two children Jewish.",
       "sourceTitle": "Gwyneth Paltrow: 'I'll Raise Apple and Moses Jewish.'",
-      "text": "Things changed a bit for Paltrow when she was a guest on the British TV show, \"Who Do You Think You Are?,\" a program that sends celebrities on a quest to learn about their family histories. Paltrow suddenly became proud enough of her Jewish ancestry to declare that she would raise her two children Jewish."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2016674/Gwyneth-Paltrow-Ill-raise-Apple-Moses-Jewish.html#ixzz1Sc4Drhuw"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "The multinational democrat"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newsbusters.org/node/9444",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Paltrow is a liberal Democrat. She has given money to a variety of Democrat organizations including Al Gore's 2000 presidential campaign, the Democratic Senatorial Campaign Committee in 2000 and 2002, and John Kerry's presidential campaign in 2004. She has donated to Emily's List, an organization dedicated to putting women into political power, keeping (or getting) abortion legal, and supporting access to birth control.",
       "sourceTitle": "Gwyneth Paltrow Slams Liberals",
-      "text": "Paltrow is a liberal Democrat. She has given money to a variety of Democrat organizations including Al Gore's 2000 presidential campaign, the Democratic Senatorial Campaign Committee in 2000 and 2002, and John Kerry's presidential campaign in 2004. She has donated to Emily's List, an organization dedicated to putting women into political power, keeping (or getting) abortion legal, and supporting access to birth control."
+      "sourceUrl": "http://newsbusters.org/node/9444"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/barackobama/2497142/Gwyneth-Paltrow-films-ad-for-Barack-Obama.html",
+      "parentId": 13,
+      "type": "text",
+      "text": "In 2008, Paltrow was an outspoken Obama supporter, even making a video hoping to get fellow expat Americans (she lives in England) to vote for Obama from afar.",
       "sourceTitle": "Gwyneth Paltrow films ad for Barack Obama",
-      "text": "In 2008, Paltrow was an outspoken Obama supporter, even making a video hoping to get fellow expat Americans (she lives in England) to vote for Obama from afar."
+      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/barackobama/2497142/Gwyneth-Paltrow-films-ad-for-Barack-Obama.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/news/article-2042227/Gwyneth-Paltrow-throws-political-party-drum-support-Obama-Democrats.html#ixzz1rrX0EClN",
+      "type": "text",
+      "text": "During Obama's re-election campaign in 2012, Gwyneth was back at it, throwing campaign fundraiser parties for the president in her England home where even the Obama administration's campaign manager, Jim Messina, and his national finance chairman, Matthew Barzun, showed up to speak.",
+      "parentId": 13,
       "sourceTitle": "Gwyneth Paltrow throws a political party to drum up support for Obama and the Democrats",
-      "text": "During Obama's re-election campaign in 2012, Gwyneth was back at it, throwing campaign fundraiser parties for the president in her England home where even the Obama administration's campaign manager, Jim Messina, and his national finance chairman, Matthew Barzun, showed up to speak."
+      "sourceUrl": "http://www.dailymail.co.uk/news/article-2042227/Gwyneth-Paltrow-throws-political-party-drum-support-Obama-Democrats.html#ixzz1rrX0EClN"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "Despite her staunch support, Paltrow either doesn't know why or won't say why she's such a fan of Democrats."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

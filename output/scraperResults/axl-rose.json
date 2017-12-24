@@ -34,114 +34,190 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Axl Rose, whose given name was William Bruce Rose, Jr., was born and raised in Lafayette, Indiana."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://hem.passagen.se/snoqalf/art-1992-RIP-1.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Rose was raised a Pentecostal Christian. He was quite negatively affected by his religious upbringing and has spoken poorly of it often. Apparently, young Axl was forced to attend services between three and eight times per week, taught Bible school for a time, and was both physically and sexually abused by parents who viewed nearly everything as \"evil,\" including women, music, and television.",
       "sourceTitle": "I, Axl – Party III",
-      "text": "Rose was raised a Pentecostal Christian. He was quite negatively affected by his religious upbringing and has spoken poorly of it often. Apparently, young Axl was forced to attend services between three and eight times per week, taught Bible school for a time, and was both physically and sexually abused by parents who viewed nearly everything as \"evil,\" including women, music, and television."
+      "sourceUrl": "http://hem.passagen.se/snoqalf/art-1992-RIP-1.html"
     },
     {
-      "type": "sentence",
-      "text": "He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.renewamerica.com/bb/viewtopic.php?f=5&t=10126&start=0",
-      "sourceTitle": "Axl Rose On Religion And Church",
-      "text": "My particular church was filled with self-righteous hypocrites who were child abusers and child molesters. These were people who'd been damaged in their own childhoods and in their lives. These were people who were finding God but still living with their damage and inflicting it upon their children."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "My particular church was filled with self-righteous hypocrites who were child abusers and child molesters. These were people who'd been damaged in their own childhoods and in their lives. These were people who were finding God but still living with their damage and inflicting it upon their children.",
+      "sourceTitle": "Axl Rose On Religion And Church",
+      "sourceUrl": "http://www.renewamerica.com/bb/viewtopic.php?f=5&t=10126&start=0"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Clearly, Axl is down on Christianity. So what did he replace it with? Booze? Women? Music? Perhaps, but his spirituality seems to have taken a turn into a hodge-podge of superstition and occultism."
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "text",
+      "text": "The strangest of his beliefs come from reports of those close to him."
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://sobadsogood.com/2012/02/07/30-things-you-didnt-know-about-axl-rose/",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "For example, an ex-girlfriend of Axl's revealed that he thought himself possessed by the late John Lennon (Catholicism?) and Axl believed that he and the same ex-girlfriend were together in more than one past life (Hinduism?). He once accosted rock singer Courtney Love because he thought she was trying to possess him (Catholicism again?) and often toured with a psychic and \"spiritual adviser\" named Yoda (New Age Jedi?).",
       "sourceTitle": "30 Things You Didn't Know About Axl Rose",
-      "text": "For example, an ex-girlfriend of Axl's revealed that he thought himself possessed by the late John Lennon (Catholicism?) and Axl believed that he and the same ex-girlfriend were together in more than one past life (Hinduism?). He once accosted rock singer Courtney Love because he thought she was trying to possess him (Catholicism again?) and often toured with a psychic and \"spiritual adviser\" named Yoda (New Age Jedi?)."
+      "sourceUrl": "http://sobadsogood.com/2012/02/07/30-things-you-didnt-know-about-axl-rose/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "As you can see, Rose's religious beliefs are way past classifiable, cruising by eccentric, and quickly approaching the border of desperate and downright creepy. And quite frankly, I don't have a name for it. Feel free to leave some suggestions in the comments."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Rock and roll democracy"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Rose's idiosyncrasies don't end with his religious views. They continue on to politics as well. If his political views had to be categorized, the best phrase for it would be \"the politics of disenchantment.\""
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lyrics007.com/Guns%20N%27%20Roses%20Lyrics/Civil%20War%20Lyrics.html/",
+      "parentId": 10,
+      "type": "text",
+      "text": "Axl seems wholly averse to power and power structures. Most of this comes from lyrics to his songs where, in \"Civil War\" for example, he sings about ideals, rights, and promises being swept aside in favor of war and violence.",
       "sourceTitle": "Guns N' Roses – Civil War Lyrics",
-      "text": "Axl seems wholly averse to power and power structures. Most of this comes from lyrics to his songs where, in \"Civil War\" for example, he sings about ideals, rights, and promises being swept aside in favor of war and violence."
+      "sourceUrl": "http://www.lyrics007.com/Guns%20N%27%20Roses%20Lyrics/Civil%20War%20Lyrics.html/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.elyrics.net/read/g/guns-n_-roses-lyrics/chinese-democracy-lyrics.html",
+      "type": "text",
+      "text": "And in his song \"Chinese Democracy,\" Axl waxes on about totalitarian oppression.",
+      "parentId": 10,
       "sourceTitle": "Chinese Democracy Lyrics – Guns N' Roses",
-      "text": "And in his song \"Chinese Democracy,\" Axl waxes on about totalitarian oppression."
+      "sourceUrl": "http://www.elyrics.net/read/g/guns-n_-roses-lyrics/chinese-democracy-lyrics.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://theocddiaries.com/uncategorized/i-regret-wearing-that-charles-manson-t-shirt/",
+      "parentId": 11,
+      "type": "text",
+      "text": "Plus, for a time, Axl was an admirer of Charles Manson (the explicitly racist rapist and killer), wearing t-shirts with his likeness on stage",
       "sourceTitle": "I Regret Wearing That Charles Manson T-Shirt",
-      "text": "Plus, for a time, Axl was an admirer of Charles Manson (the explicitly racist rapist and killer), wearing t-shirts with his likeness on stage"
+      "sourceUrl": "http://theocddiaries.com/uncategorized/i-regret-wearing-that-charles-manson-t-shirt/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://sobadsogood.com/2012/02/07/30-things-you-didnt-know-about-axl-rose/",
-      "sourceTitle": "30 Things You Didn't Know About Axl Rose",
-      "text": "and insisting that a Charles Manson composition be included in the Guns N' Roses Album,  ."
+      "type": "text",
+      "text": "and insisting that a Charles Manson composition be included in the Guns N' Roses Album,",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "The Spaghetti"
     },
     {
-      "type": "sentence",
-      "text": "Despite all of this, it appears that Rose has political aspirations. Before the release of his album,  Axl said:"
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "Incident"
     },
     {
-      "type": "break"
+      "type": "text",
+      "text": ".",
+      "parentId": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Despite all of this, it appears that Rose has political aspirations. Before the release of his album,"
+    },
+    {
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "Chinese Democracy,"
+    },
+    {
+      "type": "text",
+      "text": "Axl said:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://blogcritics.org/politics/article/w-axl-rose-to-run-for/",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "You might notice that the name of the upcoming release by my band is titled The Chinese Democracy. This is a hint to my future career, since Democracy is widely associated with politics.",
       "sourceTitle": "W Axl Rose To Run For President",
-      "text": "You might notice that the name of the upcoming release by my band is titled The Chinese Democracy. This is a hint to my future career, since Democracy is widely associated with politics."
+      "sourceUrl": "http://blogcritics.org/politics/article/w-axl-rose-to-run-for/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Axl for president? Welcome to the jungle."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

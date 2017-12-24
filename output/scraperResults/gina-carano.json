@@ -35,102 +35,189 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Gina Carano was born in Houston, Texas and grew up in Las Vegas, Nevada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Carano's family, if you couldn't tell from her name, is Italian somewhere back in the annals of history. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.mmanews.com/news/81579",
-      "sourceTitle": "Full Transcript of Exclusive Gina Carano Interview",
-      "text": "I'm Italian, well Italian American. My family throws an Italian festival every year and we grew up on raviolis and that stuff."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I'm Italian, well Italian American. My family throws an Italian festival every year and we grew up on raviolis and that stuff.",
+      "sourceTitle": "Full Transcript of Exclusive Gina Carano Interview",
+      "sourceUrl": "http://www.mmanews.com/news/81579"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Does that mean she's a Catholic? Or maybe in tradition at the very least?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm2442289/bio",
+      "parentId": 6,
+      "type": "text",
+      "text": "I don't think so. Something tells me she comes from a very devout, strict, maybe even fundamentalist Protestant family. First of all, she attended and graduated from Trinity Christian High School in Las Vegas.",
       "sourceTitle": "Gina Carano – Biography",
-      "text": "I don't think so. Something tells me she comes from a very devout, strict, maybe even fundamentalist Protestant family. First of all, she attended and graduated from Trinity Christian High School in Las Vegas."
+      "sourceUrl": "http://www.imdb.com/name/nm2442289/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2009/08/04/sports/04mma.html?pagewanted=all",
+      "type": "text",
+      "text": "Second, she's reported that in her family, Halloween was forbidden–likely because of its pagan connotations–and films generally considered harmless, such as",
+      "parentId": 6
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "Forrest Gump"
+    },
+    {
+      "type": "text",
+      "text": ", were considered sinful.",
+      "parentId": 6,
       "sourceTitle": "From Female 'Gladiator' to Mixed Martial Arts Headliner",
-      "text": "Second, she's reported that in her family, Halloween was forbidden–likely because of its pagan connotations–and films generally considered harmless, such as , were considered sinful."
+      "sourceUrl": "http://www.nytimes.com/2009/08/04/sports/04mma.html?pagewanted=all"
     },
     {
-      "type": "sentence",
-      "text": "When she became a professional fighter, her family expressed both moral and practical concern. But for Carano, it seems that fighting and physical fitness replaced the driving force that was religion. She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "When she became a professional fighter, her family expressed both moral and practical concern. But for Carano, it seems that fighting and physical fitness replaced the driving force that was religion. She said:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.nytimes.com/2009/08/04/sports/04mma.html?pagewanted=all",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I've only answered to God, sometimes my family, sometimes not, and fighting. No relationship, no boyfriend, girlfriend; [fighting is] the only thing that has kept me focused.",
       "sourceTitle": "From Female 'Gladiator' to Mixed Martial Arts Headliner",
-      "text": "I've only answered to God, sometimes my family, sometimes not, and fighting. No relationship, no boyfriend, girlfriend; [fighting is] the only thing that has kept me focused."
+      "sourceUrl": "http://www.nytimes.com/2009/08/04/sports/04mma.html?pagewanted=all"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.legalizejesus.com/2011/09/09/is-mma-cage-fighting-anti-christian-lets-ask-mark-driscoll/",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Given the modeling and film career that spawned from her skills in the ring, it would seem that Carano has significantly diverged from the family and faith that wouldn't even watch"
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "Forrest Gump"
+    },
+    {
+      "type": "text",
+      "text": "for religious reasons. Just check out these",
+      "parentId": 9
+    },
+    {
+      "parentId": 9,
+      "type": "link",
+      "text": "photos",
+      "sourceUrl": "https://www.google.com/search?hl=en&site=imghp&tbm=isch&source=hp&biw=1280&bih=569&q=Gina+Carano&oq=Gina+Carano&gs_l=img.12...0.0.0.2373.0.0.0.0.0.0.0.0..0.0...0.0...1ac..4.img.dNcpmCnMSBg"
+    },
+    {
+      "type": "text",
+      "text": ". Of course, those devout Christians who also happen to be obsessive MMA fans seem to think she's an \"unabashed Christian.\"",
+      "parentId": 9,
       "sourceTitle": "Is MMA / cage fighting anti-Christian??? Lets ask Mark Driscoll…",
-      "text": "Given the modeling and film career that spawned from her skills in the ring, it would seem that Carano has significantly diverged from the family and faith that wouldn't even watch  for religious reasons. Just check out these . Of course, those devout Christians who also happen to be obsessive MMA fans seem to think she's an \"unabashed Christian.\""
+      "sourceUrl": "http://www.legalizejesus.com/2011/09/09/is-mma-cage-fighting-anti-christian-lets-ask-mark-driscoll/"
     },
     {
-      "type": "sentence",
-      "text": "I will respectfully disagree."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "I will respectfully disagree.",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Fighting for vested interests"
     },
     {
-      "type": "sentence",
-      "text": "Carano is utterly un-political. No financial contributions, no endorsements, no soapboxes, PSA's or even a passing mention of Obama. Even her  seems to be nothing but retweets of her friends' messages and the occasional bit of self-promotion."
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "break"
+      "parentId": 11,
+      "type": "text",
+      "text": "Carano is utterly un-political. No financial contributions, no endorsements, no soapboxes, PSA's or even a passing mention of Obama. Even her"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cagepotato.com/say-what-gina-carano-falls-somewhere-between-hillary-clinton-and-michelle-obama-yahoo-list/",
+      "parentId": 11,
+      "type": "link",
+      "text": "twitter feed",
+      "sourceUrl": "https://twitter.com/ginacarano"
+    },
+    {
+      "type": "text",
+      "text": "seems to be nothing but retweets of her friends' messages and the occasional bit of self-promotion.",
+      "parentId": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "The closest I could find to anything political regarding Carano is that, according to Yahoo! News, Carano sits between Hillary Clinton and Michelle Obama on the list of America's most influential woman.",
       "sourceTitle": "Say What?! Gina Carano Falls Somewhere Between Hillary Clinton and Michelle Obama on Yahoo! Lis",
-      "text": "The closest I could find to anything political regarding Carano is that, according to Yahoo! News, Carano sits between Hillary Clinton and Michelle Obama on the list of America's most influential woman."
+      "sourceUrl": "http://www.cagepotato.com/say-what-gina-carano-falls-somewhere-between-hillary-clinton-and-michelle-obama-yahoo-list/"
     },
     {
-      "type": "sentence",
-      "text": "Maybe she should get into politics."
+      "type": "text",
+      "text": "Maybe she should get into politics.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://mmapayout.com/blue-book/sponsors/",
+      "parentId": 13,
+      "type": "text",
+      "text": "All I can say about Carano's involvement in politics is the old saying: 'Even if you're not interested in politics, it's interested in you.' And fighting in the MMA isn't just for glory, it's for the profits of companies like Anheuser Busch and Burger King.",
       "sourceTitle": "Sponsors",
-      "text": "All I can say about Carano's involvement in politics is the old saying: 'Even if you're not interested in politics, it's interested in you.' And fighting in the MMA isn't just for glory, it's for the profits of companies like Anheuser Busch and Burger King."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://mmapayout.com/blue-book/sponsors/"
     }
   ],
   "wikipediaData": {

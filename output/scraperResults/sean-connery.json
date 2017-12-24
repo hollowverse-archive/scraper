@@ -31,95 +31,159 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sean Connery, whose full name is Thomas Sean Connery, was born and raised in Edinburgh, Scotland."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pc/Sean_Connery.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Connery's mother was a Protestant, likely a member of the Church of Scotland and Connery's father was Catholic. Connery was raised a Catholic.",
       "sourceTitle": "The religion of Sean Connery, movie star",
-      "text": "Connery's mother was a Protestant, likely a member of the Church of Scotland and Connery's father was Catholic. Connery was raised a Catholic."
+      "sourceUrl": "http://www.adherents.com/people/pc/Sean_Connery.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "Connery has discussed in any depth. Some speculate that he's an atheist, and I did find this interesting quote that might support that view:"
+      "parentId": 3,
+      "type": "text",
+      "text": "Religion, faith, and spirituality aren't topics"
     },
     {
-      "type": "break"
+      "type": "text",
+      "text": "Connery has discussed in any depth. Some speculate that he's an atheist, and I did find this interesting quote that might support that view:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://thinkexist.com/quotes/sean_connery/",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Laughter kills fear, and without fear there can be no faith. For without fear of the devil there is no need for God.",
       "sourceTitle": "Sean Connery quotes",
-      "text": "Laughter kills fear, and without fear there can be no faith. For without fear of the devil there is no need for God."
+      "sourceUrl": "http://thinkexist.com/quotes/sean_connery/"
     },
     {
-      "type": "sentence",
-      "text": "However, the quote is from the film,  starring Sean Connery as the atheist, William of Baskerville. The film was adapted from a book by Umberto Eco, the famous atheist philosopher."
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "text",
+      "text": "However, the quote is from the film,"
     },
     {
-      "type": "sentence",
-      "text": "probably inconsequential and we have no way of knowing if Connery really is an atheist until he decided to talk about his faith or lack thereof. For all we know, he could be in Catholic mass right now."
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "The Name of the Rose,"
     },
     {
-      "type": "break"
+      "type": "text",
+      "text": "starring Sean Connery as the atheist, William of Baskerville. The film was adapted from a book by Umberto Eco, the famous atheist philosopher.",
+      "parentId": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "The quote is"
+    },
+    {
+      "type": "text",
+      "text": "probably inconsequential and we have no way of knowing if Connery really is an atheist until he decided to talk about his faith or lack thereof. For all we know, he could be in Catholic mass right now.",
+      "parentId": 7
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Politicsh"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000125/bio",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Connery's political views are where things get interesting. On a social level, he's old school, like way old school. Not once, but twice, Connery confirmed that he thought it was OK to hit a woman to \"keep her in line.\"",
       "sourceTitle": "Sean Connery – Biography",
-      "text": "Connery's political views are where things get interesting. On a social level, he's old school, like way old school. Not once, but twice, Connery confirmed that he thought it was OK to hit a woman to \"keep her in line.\""
+      "sourceUrl": "http://www.imdb.com/name/nm0000125/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "Beyond that gaff, Connery's politics will make you think. He's a staunch supporter of the Scottish National Party (SNP), a party advocating for Scottish independence from Britain. Connery gives 40,000 pounds a year to the SNP, speaks at their rallies, and endorses their candidates. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/uk/1999/apr/27/gerardseenan",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "My position on Scotland has never changed in 30-odd years. Scotland should be nothing less than equal with all the other nations of the world.",
       "sourceTitle": "Connery goes on the SNP offensive",
-      "text": "My position on Scotland has never changed in 30-odd years. Scotland should be nothing less than equal with all the other nations of the world."
+      "sourceUrl": "http://www.guardian.co.uk/uk/1999/apr/27/gerardseenan"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/uk_news/7261161.stm",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "In 2003, Connery went so far as to say that he wouldn't return to his home country of Scotland until they were an independent nation-state, adding that he was optimistic that it could happen in his lifetime.",
       "sourceTitle": "Connery: Scots independence close",
-      "text": "In 2003, Connery went so far as to say that he wouldn't return to his home country of Scotland until they were an independent nation-state, adding that he was optimistic that it could happen in his lifetime."
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/uk_news/7261161.stm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/International/story?id=83263&page=1#.UEZXuVQ1afQ",
+      "type": "text",
+      "text": "His (what some consider) revolutionary views have cost him two bids for knighthood in the UK, but his charm, charisma and fame eventually pushed it through.",
+      "parentId": 13,
       "sourceTitle": "Sean Connery Knighted in Scotland",
-      "text": "His (what some consider) revolutionary views have cost him two bids for knighthood in the UK, but his charm, charisma and fame eventually pushed it through."
+      "sourceUrl": "http://abcnews.go.com/International/story?id=83263&page=1#.UEZXuVQ1afQ"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "Now, the guy who would love nothing more than to carve a giant chunk off of the UK is referred to as Sir Thomas Sean Connery."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

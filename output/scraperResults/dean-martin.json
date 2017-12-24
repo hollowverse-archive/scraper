@@ -33,83 +33,114 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Dean Martin was born and raised in Steubenville, Ohio. He died of respiratory failure in Los Angeles in 1995."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0001509/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Martin's father was a first-generation Italian immigrant and his mother was of Italian descent. Martin didn't even speak English until he was five years old.",
       "sourceTitle": "Dean Martin (I) – Biography",
-      "text": "Martin's father was a first-generation Italian immigrant and his mother was of Italian descent. Martin didn't even speak English until he was five years old."
+      "sourceUrl": "http://www.imdb.com/name/nm0001509/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pm/Dean_Martin.html",
+      "type": "text",
+      "text": "He was raised a Catholic and continued to be Catholic throughout his life.",
+      "parentId": 2,
       "sourceTitle": "The religion of Dean Martin, movie star",
-      "text": "He was raised a Catholic and continued to be Catholic throughout his life."
+      "sourceUrl": "http://www.adherents.com/people/pm/Dean_Martin.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "By virtue of the fact that there is almost no information on Dean Martin's religious or spiritual views other than that he was Catholic, it's safe to assume that he was not very devout. His real religion was probably gambling, women, and drinking. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/d/dean_martin.html",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I feel sorry for people who don't drink. They wake up in the morning and that's the best they're going to feel all day.",
       "sourceTitle": "Dean Martin Quotes",
-      "text": "I feel sorry for people who don't drink. They wake up in the morning and that's the best they're going to feel all day."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/d/dean_martin.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chicagonow.com/being-catholic-really/2012/04/john-wayne-dean-martin-on-values-a-long-time-ago/",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Martin did perform on television once with another famous Catholic at the time, John Wayne. Wayne talked about \"old-fashioned\" values and teaching his daughter the Lord's Prayer. But Martin didn't say anything except that he was proud to know Wayne.",
       "sourceTitle": "John Wayne & Dean Martin on Values: A Long Time Ago",
-      "text": "Martin did perform on television once with another famous Catholic at the time, John Wayne. Wayne talked about \"old-fashioned\" values and teaching his daughter the Lord's Prayer. But Martin didn't say anything except that he was proud to know Wayne."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.chicagonow.com/being-catholic-really/2012/04/john-wayne-dean-martin-on-values-a-long-time-ago/"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Rat Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0001509/bio",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Dean Martin wasn't too political either. While he supported John F. Kennedy, a Democrat, in 1960, Martin identified as a Republican.",
       "sourceTitle": "Dean Martin (I) – Biography",
-      "text": "Dean Martin wasn't too political either. While he supported John F. Kennedy, a Democrat, in 1960, Martin identified as a Republican."
+      "sourceUrl": "http://www.imdb.com/name/nm0001509/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pophistorydig.com/?tag=dean-martin-rat-pack",
+      "type": "text",
+      "text": "Probably the only reason Martin backed Kennedy was because his pal and fellow member of the rat pack, Frank Sinatra, threw every ounce of star power he had behind JFK, including his relationship with Martin.",
+      "parentId": 8,
       "sourceTitle": "Dean Martin Rat Pack",
-      "text": "Probably the only reason Martin backed Kennedy was because his pal and fellow member of the rat pack, Frank Sinatra, threw every ounce of star power he had behind JFK, including his relationship with Martin."
+      "sourceUrl": "http://www.pophistorydig.com/?tag=dean-martin-rat-pack"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.contactmusic.com/news-article/martin.s-mafia-links-exposed",
+      "parentId": 9,
+      "type": "text",
+      "text": "Martin's true political connections were with what might be the true power in American politics, the organization with judges and Congressmen in their pocket–the Mafia. To what level Martin was indebted to the mob is disputed, but most sources seem to agree that the Mafia at least helped Martin get his start in show business and he would occasionally perform at their events.",
       "sourceTitle": "Dean Martin's Mafia Links Exposed",
-      "text": "Martin's true political connections were with what might be the true power in American politics, the organization with judges and Congressmen in their pocket–the Mafia. To what level Martin was indebted to the mob is disputed, but most sources seem to agree that the Mafia at least helped Martin get his start in show business and he would occasionally perform at their events."
+      "sourceUrl": "http://www.contactmusic.com/news-article/martin.s-mafia-links-exposed"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "Luckily, we didn't love Dean Martin because of his religion or politics. We loved him because he made us laugh, had a silky smooth voice, and always did his schtick with a cocktail and a smoke, back when smoking like a chimney and drinking like a fish was still cool."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

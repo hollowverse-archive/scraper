@@ -35,127 +35,202 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Javier Ángel Encinas Bardem was born in Las Palmas in the Canary Islands, Spain."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Bardem was raised Catholic, but it never had much of a hold on him. He said,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.nydailynews.com/entertainment/tv-movies/expects-javier-bardem-article-1.267268",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Little by little, I started to make some questions about it. I realized I respect people's beliefs but I started to really freak out about the manipulation of people's beliefs in order to gather fear. . . . we have different [beliefs] but in the end it's the same, no?",
       "sourceTitle": "No one expects Javier Bardem.",
-      "text": "Little by little, I started to make some questions about it. I realized I respect people's beliefs but I started to really freak out about the manipulation of people's beliefs in order to gather fear. . . . we have different [beliefs] but in the end it's the same, no?"
+      "sourceUrl": "http://www.nydailynews.com/entertainment/tv-movies/expects-javier-bardem-article-1.267268"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebitchy.com/252748/javier_bardem_is_an_atheist_i_dont_believe_in_god_i_believe_in_al_pacino/",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Now he's an atheist, claiming: \"I don't believe in God; I believe in Al Pacino.\"",
       "sourceTitle": "Javier Bardem is an atheist: \"I don't believe in God, I believe in Al Pacino.\"",
-      "text": "Now he's an atheist, claiming: \"I don't believe in God; I believe in Al Pacino.\""
+      "sourceUrl": "http://www.celebitchy.com/252748/javier_bardem_is_an_atheist_i_dont_believe_in_god_i_believe_in_al_pacino/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/javier-bardem-people-watch-me-i-feel-absurd-2182899.html",
+      "type": "text",
+      "text": "He said it was after his father's death that it \"suddenly all felt so obvious\" that religion is just a way of coping with death, to explain our own mortality.",
+      "parentId": 5,
       "sourceTitle": "Javier Bardem: 'People watch me. I feel absurd.'",
-      "text": "He said it was after his father's death that it \"suddenly all felt so obvious\" that religion is just a way of coping with death, to explain our own mortality."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/javier-bardem-people-watch-me-i-feel-absurd-2182899.html"
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.elle.com/pop-culture/celebrities/the-lover-2",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I don't understand religion when it gets to the point where the beyond commands the present, because then the present doesn't have any sense. . . . Myself, I really need to know and face mortality: I am this, I am me, I am now.",
       "sourceTitle": "Get to Know Javier Bardem.",
-      "text": "I don't understand religion when it gets to the point where the beyond commands the present, because then the present doesn't have any sense. . . . Myself, I really need to know and face mortality: I am this, I am me, I am now."
+      "sourceUrl": "http://www.elle.com/pop-culture/celebrities/the-lover-2"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "I'll say whatever the hell I think is right or wrong"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=YK9h-sDDkiQ",
-      "sourceTitle": "Javier Bardem On How Political Filmmaking Runs In The Family.",
-      "text": "Bardem comes from a leftist political background: his mother was an actress and activist"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/film/2008/feb/09/baftas2008.baftasfilm",
+      "parentId": 9,
+      "type": "text",
+      "text": "Bardem comes from a leftist political background: his mother was an actress and activist",
+      "sourceTitle": "Javier Bardem On How Political Filmmaking Runs In The Family.",
+      "sourceUrl": "http://www.youtube.com/watch?v=YK9h-sDDkiQ"
+    },
+    {
+      "type": "text",
+      "text": "and his uncle, a director, was imprisoned by long-time Spanish dictator Francisco Franco for making anti-fascist films.",
+      "parentId": 9,
       "sourceTitle": "Interview: Javier Bardem.",
-      "text": "and his uncle, a director, was imprisoned by long-time Spanish dictator Francisco Franco for making anti-fascist films."
+      "sourceUrl": "http://www.guardian.co.uk/film/2008/feb/09/baftas2008.baftasfilm"
     },
     {
-      "type": "sentence",
-      "text": "He said his involvement in politics runs in his blood:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said his involvement in politics runs in his blood:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=YK9h-sDDkiQ",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "It's not something that you do because you have to, it's something that you do because you don't know to do something else.",
       "sourceTitle": "Javier Bardem On How Political Filmmaking Runs In The Family.",
-      "text": "It's not something that you do because you have to, it's something that you do because you don't know to do something else."
+      "sourceUrl": "http://www.youtube.com/watch?v=YK9h-sDDkiQ"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.independent.co.uk/arts-entertainment/films/news/javier-bardem-finds-that-spain-is-no-country-for-stupid-remarks-925562.html",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "And hailing from a country that was one of the hardest hit by the Great Recession, he's got plenty to talk about. As a supporter of Spain's socialist party,",
       "sourceTitle": "Javier Bardem finds that Spain is no country for stupid remarks.",
-      "text": "And hailing from a country that was one of the hardest hit by the Great Recession, he's got plenty to talk about. As a supporter of Spain's socialist party,"
+      "sourceUrl": "http://www.independent.co.uk/arts-entertainment/films/news/javier-bardem-finds-that-spain-is-no-country-for-stupid-remarks-925562.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.equaltimes.org/news/bond-baddie-blasts-villains-in-spains-government-for-25-unemployment",
+      "type": "text",
+      "text": "he has railed against the conservative People's Party for making cuts to social programs in the name of debt reduction, and for bailing out banks instead of helping people pay their mortgages.",
+      "parentId": 12,
       "sourceTitle": "Actor Bardem blasts Spanish government for 25 per cent unemployment.",
-      "text": "he has railed against the conservative People's Party for making cuts to social programs in the name of debt reduction, and for bailing out banks instead of helping people pay their mortgages."
+      "sourceUrl": "http://www.equaltimes.org/news/bond-baddie-blasts-villains-in-spains-government-for-25-unemployment"
     },
     {
-      "type": "sentence",
-      "text": "About Spain's economic state, he said in 2012,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "About Spain's economic state, he said in 2012,",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.celebitchy.com/252748/javier_bardem_is_an_atheist_i_dont_believe_in_god_i_believe_in_al_pacino/",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "The government raised taxes on paper and pencils. That's fucking crazy. The middle and working classes are paying the debt that the financial markets created. A quarter of Spaniards are unemployed. One in ten families are completely out of work: It's fucking dark, it's brutal.",
       "sourceTitle": "Javier Bardem is an atheist: \"I don't believe in God, I believe in Al Pacino.\"",
-      "text": "The government raised taxes on paper and pencils. That's fucking crazy. The middle and working classes are paying the debt that the financial markets created. A quarter of Spaniards are unemployed. One in ten families are completely out of work: It's fucking dark, it's brutal."
+      "sourceUrl": "http://www.celebitchy.com/252748/javier_bardem_is_an_atheist_i_dont_believe_in_god_i_believe_in_al_pacino/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.salon.com/2012/10/18/javier_bardem_i%E2%80%99ll_say_%E2%80%9Cwhatever_the_hell_i_think_is_right%E2%80%9D/",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Outside of the partisan political debate of his own country, he's also focused on global issues. Bardem is particularly passionate about the plight of the Sahrawis in the Western Sahara, who are living both in refugee camps in Algeria and under a brutal Moroccan-controlled police state in their homeland. He produced a documentary called \"Sons of the Clouds\"",
       "sourceTitle": "Bardem: I'll say \"whatever the hell I think is right.\"",
-      "text": "Outside of the partisan political debate of his own country, he's also focused on global issues. Bardem is particularly passionate about the plight of the Sahrawis in the Western Sahara, who are living both in refugee camps in Algeria and under a brutal Moroccan-controlled police state in their homeland. He produced a documentary called \"Sons of the Clouds\""
+      "sourceUrl": "http://www.salon.com/2012/10/18/javier_bardem_i%E2%80%99ll_say_%E2%80%9Cwhatever_the_hell_i_think_is_right%E2%80%9D/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cnn.com/2012/12/13/opinion/western-sahara-bardem",
+      "type": "text",
+      "text": "and addressed the United Nations General Assembly in 2011 about the issue.",
+      "parentId": 15,
       "sourceTitle": "Javier Bardem: We must stand up for abused people of Western Sahara.",
-      "text": "and addressed the United Nations General Assembly in 2011 about the issue."
+      "sourceUrl": "http://www.cnn.com/2012/12/13/opinion/western-sahara-bardem"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Responding to a question of why he chooses to put his reputation on the line by being so politically active, Bardem said,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 17
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.salon.com/2012/10/18/javier_bardem_i%E2%80%99ll_say_%E2%80%9Cwhatever_the_hell_i_think_is_right%E2%80%9D/",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "That is in my nature. That is in the blood of my family. That is in me. . . . I am who I am, and I have the same right to say whatever the hell I think is right or wrong as you have or the guy downstairs has, as everybody has.",
       "sourceTitle": "Bardem: I'll say \"whatever the hell I think is right.\"",
-      "text": "That is in my nature. That is in the blood of my family. That is in me. . . . I am who I am, and I have the same right to say whatever the hell I think is right or wrong as you have or the guy downstairs has, as everybody has."
+      "sourceUrl": "http://www.salon.com/2012/10/18/javier_bardem_i%E2%80%99ll_say_%E2%80%9Cwhatever_the_hell_i_think_is_right%E2%80%9D/"
     }
   ],
   "wikipediaData": {

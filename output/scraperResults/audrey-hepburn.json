@@ -31,96 +31,158 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Audrey Hepburn, originally Audrey Kathleen Ruston, was born in Brussels, Belgium. She died of cancer in Switzerland in 1992."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/ph/Audrey_Hepburn.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Hepburn's mother was from Holland and her father was British. Her mother's family was Calvinist Christian, though her mother was a devout Christian Scientist. Her father was an English Protestant.",
       "sourceTitle": "The religion of Audrey Hepburn, actress",
-      "text": "Hepburn's mother was from Holland and her father was British. Her mother's family was Calvinist Christian, though her mother was a devout Christian Scientist. Her father was an English Protestant."
+      "sourceUrl": "http://www.adherents.com/people/ph/Audrey_Hepburn.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/ph/Audrey_Hepburn.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Audrey was not particularly religious herself. She did express some pantheistic views, mentioning an awe and respect for the grandeur of nature. But she never actually connected these feelings with a religious value system.",
       "sourceTitle": "The religion of Audrey Hepburn, actress",
-      "text": "Audrey was not particularly religious herself. She did express some pantheistic views, mentioning an awe and respect for the grandeur of nature. But she never actually connected these feelings with a religious value system."
+      "sourceUrl": "http://www.adherents.com/people/ph/Audrey_Hepburn.html"
     },
     {
-      "type": "sentence",
-      "text": "Of her own personal faith, Audrey said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Of her own personal faith, Audrey said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.biographyonline.net/humanitarian/hepburn-quotes.html",
-      "sourceTitle": "Audrey Hepburn Quotes",
-      "text": "[I have] enormous faith, but it's not attached to any one particular religion…. My mother was one thing, my father another. In Holland they were all Calvinists. That has no importance at all to me."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "[I have] enormous faith, but it's not attached to any one particular religion…. My mother was one thing, my father another. In Holland they were all Calvinists. That has no importance at all to me.",
+      "sourceTitle": "Audrey Hepburn Quotes",
+      "sourceUrl": "http://www.biographyonline.net/humanitarian/hepburn-quotes.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "So what exactly did Hepburn have \"enormous faith\" in? I say it was the little things. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/audrey_hepburn.html",
-      "sourceTitle": "Audrey Hepburn Quotes",
-      "text": "I believe in pink. I believe that laughing is the best calorie burner. I believe in kissing, kissing a lot. I believe in being strong when everything seems to be going wrong. I believe that happy girls are the prettiest girls. I believe that tomorrow is another day and I believe in miracles."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I believe in pink. I believe that laughing is the best calorie burner. I believe in kissing, kissing a lot. I believe in being strong when everything seems to be going wrong. I believe that happy girls are the prettiest girls. I believe that tomorrow is another day and I believe in miracles.",
+      "sourceTitle": "Audrey Hepburn Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/audrey_hepburn.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "It's all so trite, but somehow perfectly appropriate for the whimsical, carefree, and charming Audrey Hepburn."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Politics at Tiffany's"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Hepburn was a British citizen, but in many ways, she could be considered a citizen of the world, and not just because of her mixed heritage. Hepburn spent the latter years of her life devoted to UNICEF, going on dozens of field missions to places like Somalia, Vietnam, Bangladesh, Sudan, Turkey, and Ethiopia to address poverty, illness, and political turmoil. She became a spokesperson for UNICEF and addressed the UN, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.audrey1.org/biography/23/audrey-hepburns-statement-to-the-united-nations",
-      "sourceTitle": "Audrey Hepburn's Statement to The United Nations",
-      "text": "To fully understand the problems of the state of the world's children, it would be nice to be an expert on education, economics, politics, religious traditions, and cultures. I am none of these things, but I am a mother. There is unhappily a need for greater advocacy for children–children haunted by undernourishment, disease and death."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "To fully understand the problems of the state of the world's children, it would be nice to be an expert on education, economics, politics, religious traditions, and cultures. I am none of these things, but I am a mother. There is unhappily a need for greater advocacy for children–children haunted by undernourishment, disease and death.",
+      "sourceTitle": "Audrey Hepburn's Statement to The United Nations",
+      "sourceUrl": "http://www.audrey1.org/biography/23/audrey-hepburns-statement-to-the-united-nations"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Hepburn was deeply effected by what she saw as an ambassador of goodwill for the UN. It caused her to question the age-old ways of mankind. She once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.audrey1.org/biography/22/audrey-hepburns-unicef-field-missions",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "There is a science of war, but how strange that there isn't a science of peace. There are colleges of war; why can't we study peace?",
       "sourceTitle": "Audrey Hepburn's UNICEF Field Missions",
-      "text": "There is a science of war, but how strange that there isn't a science of peace. There are colleges of war; why can't we study peace?"
+      "sourceUrl": "http://www.audrey1.org/biography/22/audrey-hepburns-unicef-field-missions"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "It is a testament to her virtue that Hepburn could have easily lived out her life in luxury and fame, but she chose to travel to the most unpleasant places in the world for no other reason than to try to make people's lives better."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

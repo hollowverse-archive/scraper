@@ -37,92 +37,159 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Milla Jovovich was born in Kiev, Ukraine in the former Soviet Union. She left her home at 5-years-old and grew up mostly in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Jovovitch is a Christian, and was raised Russian Orthodox by her family. Now, though, she's open to other forms of Christianity. She wrote on Twitter:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/MillaJovovich/status/20138610430",
-      "sourceTitle": "MillaJovovich: Ppl have been asking what religion…",
-      "text": "Ppl hve been asking what religion I am. Well, I'm russian orth. by birth, but I'll go 2 any church where I feel love and spirit! God bless!"
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Ppl hve been asking what religion I am. Well, I'm russian orth. by birth, but I'll go 2 any church where I feel love and spirit! God bless!",
+      "sourceTitle": "MillaJovovich: Ppl have been asking what religion…",
+      "sourceUrl": "https://twitter.com/MillaJovovich/status/20138610430"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "She considers herself a very spiritual person, which she credits to her early life in the Ukraine:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 6
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.wwe.com/inside/superstartosuperstar/exclusives/s2scmpunkjovovich",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Well, I pray. I am definitely a spiritual person. . . . If you go to the Ukraine, and see my home city Kiev, it's actually a city of churches. It's a very beautiful, spiritual place, so I've always felt very close to God in so many ways. I've always felt a real magic in life.",
       "sourceTitle": "Resident Champions.",
-      "text": "Well, I pray. I am definitely a spiritual person. . . . If you go to the Ukraine, and see my home city Kiev, it's actually a city of churches. It's a very beautiful, spiritual place, so I've always felt very close to God in so many ways. I've always felt a real magic in life."
+      "sourceUrl": "http://www.wwe.com/inside/superstartosuperstar/exclusives/s2scmpunkjovovich"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Hollywood liberal, Soviet child"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.justjared.com/2012/04/22/milla-jovovich-trevor-donovan-glaad-media-awards/",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Jovovich seems to be liberal, although she hasn't endorsed any Democrats. She actively supports the legalization of gay rights by attending GLAAD (Gay and Lesbian Alliance Against Defamation) events",
       "sourceTitle": "Milla Jovovich & Trevor Donovan: GLAAD Media Awards!",
-      "text": "Jovovich seems to be liberal, although she hasn't endorsed any Democrats. She actively supports the legalization of gay rights by attending GLAAD (Gay and Lesbian Alliance Against Defamation) events"
+      "sourceUrl": "http://www.justjared.com/2012/04/22/milla-jovovich-trevor-donovan-glaad-media-awards/"
     },
     {
-      "type": "sentence",
-      "text": "and tweeting about her support of gay marriage:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and tweeting about her support of gay marriage:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/MillaJovovich/status/20346871623",
-      "sourceTitle": "MillaJovovich: Gay marriage is not a moral…",
-      "text": "Gay marriage is not a moral issue, its a legal issue. Its abt filing joint taxes, buying property 2gether etc…gay ppl pay taxes remember!"
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.millaj.com/pics/hightimes11941.jpg",
-      "sourceTitle": "High Times.",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Gay marriage is not a moral issue, its a legal issue. Its abt filing joint taxes, buying property 2gether etc…gay ppl pay taxes remember!",
+      "sourceTitle": "MillaJovovich: Gay marriage is not a moral…",
+      "sourceUrl": "https://twitter.com/MillaJovovich/status/20346871623"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "You can decide for yourself if you think her appearing on the cover of the marijuana advocacy magazine"
     },
     {
-      "type": "sentence",
-      "text": "makes her sound any more liberal or not."
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "High Times"
     },
     {
-      "type": "break"
+      "type": "text",
+      "text": "makes her sound any more liberal or not.",
+      "parentId": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Milla_Jovovich",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "And although she doesn't have much to say about U.S. politicians, she attended the 80th birthday party of Mikhail Gorbachev and had some kind words to say. Her parents left their former home for political reasons,",
       "sourceTitle": "Milla Jovovich.",
-      "text": "And although she doesn't have much to say about U.S. politicians, she attended the 80th birthday party of Mikhail Gorbachev and had some kind words to say. Her parents left their former home for political reasons,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Milla_Jovovich"
     },
     {
-      "type": "sentence",
-      "text": "so Jovovich had personal stake in the reforms Gorbachev initiated in her home country. At a teary speech during the event, the actress said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "so Jovovich had personal stake in the reforms Gorbachev initiated in her home country. At a teary speech during the event, the actress said,",
+      "parentId": 14
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=ErFWRRktm1o",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "When I left the. . . former Soviet Union in 1980, my family and I never expected to see our family and friends again. . .  and it's because of Mr. Gorbachev that we all were able to open our country and to come back and to have our people come to us and reunite with our family and friends.",
       "sourceTitle": "Milla Jovovich Speech @ Gorbachev 80th Birthday.",
-      "text": "When I left the. . . former Soviet Union in 1980, my family and I never expected to see our family and friends again. . .  and it's because of Mr. Gorbachev that we all were able to open our country and to come back and to have our people come to us and reunite with our family and friends."
+      "sourceUrl": "http://www.youtube.com/watch?v=ErFWRRktm1o"
     }
   ],
   "wikipediaData": {

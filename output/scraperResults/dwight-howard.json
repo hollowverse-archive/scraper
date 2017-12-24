@@ -33,79 +33,123 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Dwight Howard was born and raised in Atlanta, Georgia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Howard is a devout Evangelical Christian. Before he was drafted to the NBA in 2004, Howard was clear about the real reasons he wanted to be a star basketball player:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://sports.espn.go.com/nba/news/story?id=1769153",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "[I want to] raise the name of God within the league and throughout the world… I want to be able to speak to non-Christians so that I can get them saved or change their lives around.",
       "sourceTitle": "On a mission from God – NBA",
-      "text": "[I want to] raise the name of God within the league and throughout the world… I want to be able to speak to non-Christians so that I can get them saved or change their lives around."
+      "sourceUrl": "http://sports.espn.go.com/nba/news/story?id=1769153"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.orlandosentinel.com/2010-10-24/sports/os-magic-dwight-howard-baptized-1024120101024_1_dwight-howard-orlando-magic-center-church-members",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Now that he is a star basketball player in the NBA, the agenda hasn't changed much. While playing with the Orlando Magic, away from his hometown in Atlanta, Howard got himself re-baptized in The Orlando Summit Church.",
       "sourceTitle": "Dwight Howard baptized in ocean near New Smyrna Beach",
-      "text": "Now that he is a star basketball player in the NBA, the agenda hasn't changed much. While playing with the Orlando Magic, away from his hometown in Atlanta, Howard got himself re-baptized in The Orlando Summit Church."
+      "sourceUrl": "http://articles.orlandosentinel.com/2010-10-24/sports/os-magic-dwight-howard-baptized-1024120101024_1_dwight-howard-orlando-magic-center-church-members"
     },
     {
-      "type": "sentence",
-      "text": "And still, playing basketball in the National Basketball Association takes second-tier to evangelizing. Really, it's just a means to an end. In 2010, he said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And still, playing basketball in the National Basketball Association takes second-tier to evangelizing. Really, it's just a means to an end. In 2010, he said:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://blog.beliefnet.com/inspiringathletes/2011/12/nba-all-star-dwight-howard-talks-about-family-faith-and-destiny.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I know that the NBA is just a way for me to tell people about God—you know that He is real. My purpose in life, my goal for the NBA is to preach God's word…",
       "sourceTitle": "NBA All-Star Dwight Howard talks about family, faith and destiny",
-      "text": "I know that the NBA is just a way for me to tell people about God—you know that He is real. My purpose in life, my goal for the NBA is to preach God's word…"
+      "sourceUrl": "http://blog.beliefnet.com/inspiringathletes/2011/12/nba-all-star-dwight-howard-talks-about-family-faith-and-destiny.html"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Howie ain't so political"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Where Howard is heavy on religion, he's certainly light on the politics front. There is at least one interesting and mysterious story to tell."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://aol.sportingnews.com/nba/story/2011-11-22/dwight-howard-out-of-obamas-fundraising-game",
+      "parentId": 11,
+      "type": "text",
+      "text": "Apparently, Howard was slated to play a basketball all-star fundraiser game for the 2012 Obama campaign. Howard seemed excited about it, even shooting off a tweet in honor of the event.",
       "sourceTitle": "Dwight Howard out of Obama's fundraising game",
-      "text": "Apparently, Howard was slated to play a basketball all-star fundraiser game for the 2012 Obama campaign. Howard seemed excited about it, even shooting off a tweet in honor of the event."
+      "sourceUrl": "http://aol.sportingnews.com/nba/story/2011-11-22/dwight-howard-out-of-obamas-fundraising-game"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://aol.sportingnews.com/nba/story/2011-11-22/dwight-howard-out-of-obamas-fundraising-game",
+      "parentId": 12,
+      "type": "text",
+      "text": "Then, without warning, Howard's name was no longer on the fundraiser's promotional material and no reason for the roster change was given.",
       "sourceTitle": "Dwight Howard out of Obama's fundraising game",
-      "text": "Then, without warning, Howard's name was no longer on the fundraiser's promotional material and no reason for the roster change was given."
+      "sourceUrl": "http://aol.sportingnews.com/nba/story/2011-11-22/dwight-howard-out-of-obamas-fundraising-game"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "So many questions: Did he get hurt? Did he have a change of conscience? Did one of his Christian friends convince him that Obama was of the Devil? We may never know."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

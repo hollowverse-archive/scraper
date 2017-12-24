@@ -34,126 +34,205 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kate Gosselin, born Katie Kreider, was born in Hershey, Pennsylvania."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thegirlfromtheghetto.wordpress.com/2008/10/01/the-so-called-secrets-that-kate-gosselin-of-jon-kate-plus-8-never-want-you-to-find-out/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Gosselin's father is a pastor and (I'm not sure if he still is) ministers to the Calvary Bible Church in Sinking Spring, Pennsylvania.,",
       "sourceTitle": "The so-called \"secrets\" that Kate Gosselin of Jon & Kate Plus 8 never want you to find out",
-      "text": "Gosselin's father is a pastor and (I'm not sure if he still is) ministers to the Calvary Bible Church in Sinking Spring, Pennsylvania.,"
+      "sourceUrl": "http://thegirlfromtheghetto.wordpress.com/2008/10/01/the-so-called-secrets-that-kate-gosselin-of-jon-kate-plus-8-never-want-you-to-find-out/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cbfc.net/index.php?pID=1",
+      "type": "text",
+      "text": "a non-denominational or possibly evangelical Christian church.",
+      "parentId": 2,
       "sourceTitle": "Calvary BFC – About",
-      "text": "a non-denominational or possibly evangelical Christian church."
+      "sourceUrl": "http://www.cbfc.net/index.php?pID=1"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Kate_Gosselin",
+      "parentId": 3,
+      "type": "text",
+      "text": "Wikipedia claims that Gosselin's mother was Jewish, but offers no source",
       "sourceTitle": "Kate Gosselin",
-      "text": "Wikipedia claims that Gosselin's mother was Jewish, but offers no source"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Kate_Gosselin"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.babble.com/cs/famecrawler/2009/04/26/kate-gosselin-quot-bible-believing-christian-quot-who-hopes-to-inspire-moms/",
+      "type": "text",
+      "text": "and I can find no corroborating evidence. However, even if it's true, Kate has definitely kept to her Christian faith and has described herself as a \"Bible-believing Christian.\" And she attends a Pentecostal Assembly of God church just outside of Philadelphia.",
+      "parentId": 3,
       "sourceTitle": "Kate Gosselin: \"Bible-Believing Christian\" Who Hopes to Inspire Moms",
-      "text": "and I can find no corroborating evidence. However, even if it's true, Kate has definitely kept to her Christian faith and has described herself as a \"Bible-believing Christian.\" And she attends a Pentecostal Assembly of God church just outside of Philadelphia."
+      "sourceUrl": "http://www.babble.com/cs/famecrawler/2009/04/26/kate-gosselin-quot-bible-believing-christian-quot-who-hopes-to-inspire-moms/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "text": "Gosselin claims that the producers of her show, , have edited out any trace of her faith in post-production, but she's OK with it, saying:"
+      "parentId": 4,
+      "type": "text",
+      "text": "Gosselin claims that the producers of her show,"
     },
     {
-      "type": "break"
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "Jon & Kate Plus 8"
+    },
+    {
+      "type": "text",
+      "text": ", have edited out any trace of her faith in post-production, but she's OK with it, saying:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.babble.com/cs/famecrawler/2009/04/26/kate-gosselin-quot-bible-believing-christian-quot-who-hopes-to-inspire-moms/",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "If [the producers] opt to edit out our faith, I know by now it hasn't gone unnoticed… because we receive more e-mails from people who 'just knew we were Christians' than I can count. Additionally, we receive more requests from churches to speak than I can fulfill!",
       "sourceTitle": "Kate Gosselin: \"Bible-Believing Christian\" Who Hopes to Inspire Moms",
-      "text": "If [the producers] opt to edit out our faith, I know by now it hasn't gone unnoticed… because we receive more e-mails from people who 'just knew we were Christians' than I can count. Additionally, we receive more requests from churches to speak than I can fulfill!"
+      "sourceUrl": "http://www.babble.com/cs/famecrawler/2009/04/26/kate-gosselin-quot-bible-believing-christian-quot-who-hopes-to-inspire-moms/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blog.beliefnet.com/flunkingsainthood/2010/06/kate-gosselin-gets-religion-a-new-book-from-kate-plus-8-star-on-family-and-faith.html",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Gosselin additionally wrote about her faith in her tell-all book,"
+    },
+    {
+      "parentId": 7,
+      "type": "emphasis",
+      "text": "I Just Want You To Know"
+    },
+    {
+      "type": "text",
+      "text": ", regaling readers with stories of divine providence, such as when she was inspired to send a check to a family in need and found an anonymous gift card to a big box superstore for the same amount that very day.",
+      "parentId": 7,
       "sourceTitle": "Kate Gosselin Gets Religion: A New Book from \"Kate Plus 8″ Star on Family and Faith",
-      "text": "Gosselin additionally wrote about her faith in her tell-all book, , regaling readers with stories of divine providence, such as when she was inspired to send a check to a family in need and found an anonymous gift card to a big box superstore for the same amount that very day."
+      "sourceUrl": "http://blog.beliefnet.com/flunkingsainthood/2010/06/kate-gosselin-gets-religion-a-new-book-from-kate-plus-8-star-on-family-and-faith.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "We can surely count her among the Christian faithful."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "If you can run a household with eight kids, why not the whole country?"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Gosselin's political views are not explicit. We do know that she's anti-abortion. She tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://tweetwood.com/Kateplusmy8/tweet/192569367832174593",
-      "sourceTitle": "Kate Gosselin Tweets",
-      "text": "RT @PersonhoodFL: #Abortion has killed over 27,000,000 preborn girls. Think abortion advocates care about women?"
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "RT @PersonhoodFL: #Abortion has killed over 27,000,000 preborn girls. Think abortion advocates care about women?",
+      "sourceTitle": "Kate Gosselin Tweets",
+      "sourceUrl": "http://tweetwood.com/Kateplusmy8/tweet/192569367832174593"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "It could be an attempt to discredit liberals who claimed the Republican Party was anti-women leading up to the 2012 elections. We don't know, but it certainly puts her on the right side of the aisle on one issue."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ivillage.com/kate-gosselin-stay-out-politics/1-a-306198",
+      "parentId": 14,
+      "type": "text",
+      "text": "Gosselin went camping once with Republican vice-presidential candidate Sarah Palin, but she seemed to hate it.",
       "sourceTitle": "Kate Gosselin, Stay Out of Politics!",
-      "text": "Gosselin went camping once with Republican vice-presidential candidate Sarah Palin, but she seemed to hate it."
+      "sourceUrl": "http://www.ivillage.com/kate-gosselin-stay-out-politics/1-a-306198"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.popeater.com/2010/12/13/kate-gosselin-politics/",
+      "type": "text",
+      "text": "However, some \"anonymous friends\" reported that Gosselin expressed an interest in going into politics herself after spending a day with Palin.",
+      "parentId": 14,
       "sourceTitle": "One Rough Camping Trip Later, Kate Thinks She Has Political Ambitions",
-      "text": "However, some \"anonymous friends\" reported that Gosselin expressed an interest in going into politics herself after spending a day with Palin."
+      "sourceUrl": "http://www.popeater.com/2010/12/13/kate-gosselin-politics/"
     },
     {
-      "type": "sentence",
-      "text": "Why not, right?"
+      "type": "text",
+      "text": "Why not, right?",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "Perhaps contradictorily, Gosselin expressed an interest in assisting Michelle Obama with her initiative to fight childhood obesity, tweeting:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 16
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.examiner.com/article/kate-gosselin-wants-to-collaborate-with-michelle-obama-to-promote-fitness",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I'd love to help M Obama in her quest. It's SO my passion :) for kids, moms & families as a whole!",
       "sourceTitle": "Kate Gosselin wants to collaborate with Michelle Obama to promote fitness",
-      "text": "I'd love to help M Obama in her quest. It's SO my passion :) for kids, moms & families as a whole!"
+      "sourceUrl": "http://www.examiner.com/article/kate-gosselin-wants-to-collaborate-with-michelle-obama-to-promote-fitness"
     }
   ],
   "wikipediaData": {

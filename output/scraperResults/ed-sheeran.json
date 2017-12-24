@@ -31,83 +31,131 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ed Sheeran was born in Halifax, West Yorkshire, England and grew up there and in Framlingham, Suffolk, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wiki.answers.com/Q/Is_ed_sheeran_a_christian",
+      "parentId": 2,
+      "type": "text",
+      "text": "Sheeran doesn't talk about religion all that much. One fan claimed that he said he was a Christian in a radio interview,",
       "sourceTitle": "Is ed sheeran a chirstian.",
-      "text": "Sheeran doesn't talk about religion all that much. One fan claimed that he said he was a Christian in a radio interview,"
+      "sourceUrl": "http://wiki.answers.com/Q/Is_ed_sheeran_a_christian"
     },
     {
-      "type": "sentence",
-      "text": "but I couldn't find the recording. It seems pretty likely, though."
+      "type": "text",
+      "text": "but I couldn't find the recording. It seems pretty likely, though.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.azlyrics.com/lyrics/edsheeran/theateam.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "A few of his songs have Christian imagery",
       "sourceTitle": "ED SHEERAN LYRICS – The A Team.",
-      "text": "A few of his songs have Christian imagery"
+      "sourceUrl": "http://www.azlyrics.com/lyrics/edsheeran/theateam.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.metrolyrics.com/uni-lyrics-ed-sheeran.html",
+      "type": "text",
+      "text": "or mention God.",
+      "parentId": 3,
       "sourceTitle": "ED SHEERAN – U.N.I. LYRICS.",
-      "text": "or mention God."
+      "sourceUrl": "http://www.metrolyrics.com/uni-lyrics-ed-sheeran.html"
     },
     {
-      "type": "sentence",
-      "text": "And he posted this on his Twitter feed:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And he posted this on his Twitter feed:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/edsheeran/status/173082380976922625",
-      "sourceTitle": "edsheeran: \"God know I failed but he …",
-      "text": "\"God knows I failed but he knows that I tried\""
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "\"God knows I failed but he knows that I tried\"",
+      "sourceTitle": "edsheeran: \"God know I failed but he …",
+      "sourceUrl": "https://twitter.com/edsheeran/status/173082380976922625"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "So maybe he doesn't talk about his religion because he keeps it mostly private and not many people have cared to ask. But regardless of the nature of his faith, I think it's a safe bet to say he's probably a Christian."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "The political side of Sheeran is equally as subdued. I would assume that's because he's not particularly political. He does lean his celebrity weight onto one issue, however, that is a little controversial."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "text": "The singer-songwriter performed a gig for the charity One25 which raised £40,000 to help street sex workers. His song \"\" is about a woman in that industry whom he met while working at a homeless shelter, and what inspired him to throw his celebrity behind issue. He said about his support,"
+      "parentId": 8,
+      "type": "text",
+      "text": "The singer-songwriter performed a gig for the charity One25 which raised £40,000 to help street sex workers. His song \""
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "link",
+      "text": "The A Team",
+      "sourceUrl": "http://www.youtube.com/watch?v=UAWcs5H-qgQ"
+    },
+    {
+      "type": "text",
+      "text": "\" is about a woman in that industry whom he met while working at a homeless shelter, and what inspired him to throw his celebrity behind issue. He said about his support,",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.bbc.co.uk/news/uk-england-bristol-18163708",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "It's good to show insight that these people are real people with real emotions and they deserve the same charity work as anyone else. . . . And with certain subjects like this they're often washed over and people don't necessarily give them the attention they deserve.",
       "sourceTitle": "Ed Sheeran gig in Bristol raises £40,000 for One25.",
-      "text": "It's good to show insight that these people are real people with real emotions and they deserve the same charity work as anyone else. . . . And with certain subjects like this they're often washed over and people don't necessarily give them the attention they deserve."
+      "sourceUrl": "http://www.bbc.co.uk/news/uk-england-bristol-18163708"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "So his silence on political matters isn't because he doesn't want to be controversial. Maybe we'll hear more from him yet. Keep us updated in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

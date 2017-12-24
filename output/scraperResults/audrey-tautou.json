@@ -33,96 +33,178 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Audrey Tautou was born in Beaumont, France and grew up in Montluçon, France."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0851582/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Tatou was raised a Catholic and attended university at the Catholic institution, Institut Catholique de Paris.",
       "sourceTitle": "Audrey Tautou – Biography",
-      "text": "Tatou was raised a Catholic and attended university at the Catholic institution, Institut Catholique de Paris."
+      "sourceUrl": "http://www.imdb.com/name/nm0851582/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0851582/bio",
+      "type": "text",
+      "text": "However, her role in the controversial film,",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "The Da Vinci Code"
+    },
+    {
+      "type": "text",
+      "text": ", which caused a stir among the world's Catholics for its conspiratorial bent, forced Tatou to address her true beliefs to the world. She admitted that she's not all that Catholic anymore and called herself \"not officially\" a Catholic.",
+      "parentId": 2,
       "sourceTitle": "Audrey Tatou – Biography",
-      "text": "However, her role in the controversial film, , which caused a stir among the world's Catholics for its conspiratorial bent, forced Tatou to address her true beliefs to the world. She admitted that she's not all that Catholic anymore and called herself \"not officially\" a Catholic."
+      "sourceUrl": "http://www.imdb.com/name/nm0851582/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "She does believe in God, but remains skeptical:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0851582/bio",
-      "sourceTitle": "Audrey Tatou – Biography",
-      "text": "I believe in God, but I am not sure to trust Him so much."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I believe in God, but I am not sure to trust Him so much.",
+      "sourceTitle": "Audrey Tatou – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0851582/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "My guess is that Tautou maintains a certain meta-spirituality. She has mentioned that she sees value in all religions, though she sees spirituality and religion as distinct entities. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.lavie.fr/archives/2001/09/27/tout-tout-sur-audrey-tautou,3743303.php",
-      "sourceTitle": "Tout, Tout Sur Audrey Tautou",
-      "text": "All religions have great ideas, but believing in God is not enough to make you good."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "All religions have great ideas, but believing in God is not enough to make you good.",
+      "sourceTitle": "Tout, Tout Sur Audrey Tautou",
+      "sourceUrl": "http://www.lavie.fr/archives/2001/09/27/tout-tout-sur-audrey-tautou,3743303.php"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "It would be interesting to hear Tautou's thoughts on what does make one good. Perhaps she has expounded, but it's likely in French."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Politics of Privacy and Fame"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Tautou doesn't talk much about politics. She wants to keep her private life private. She once said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I'm a tomb when it comes to my personal life. I never give even a mote of dust of that away.",
+      "sourceTitle": "Audrey Tatou – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0851582/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "But she does occasionally rub elbows with France's political elite. She was invited to a private screening of her hit film,"
+    },
+    {
+      "parentId": 14,
+      "type": "emphasis",
+      "text": "Amelie"
+    },
+    {
+      "type": "text",
+      "text": ", by former French president, Jacques Chirac, and wasn't originally going to attend so her friend informed the president that she was in Portugal. When she did eventually show up, the President said he though she was in Portugal, to which she replied:",
+      "parentId": 14
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0851582/bio",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "You'll have to check your sources.",
       "sourceTitle": "Audrey Tatou – Biography",
-      "text": "I'm a tomb when it comes to my personal life. I never give even a mote of dust of that away."
+      "sourceUrl": "http://www.imdb.com/name/nm0851582/bio"
     },
     {
-      "type": "sentence",
-      "text": "But she does occasionally rub elbows with France's political elite. She was invited to a private screening of her hit film, , by former French president, Jacques Chirac, and wasn't originally going to attend so her friend informed the president that she was in Portugal. When she did eventually show up, the President said he though she was in Portugal, to which she replied:"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0851582/bio",
-      "sourceTitle": "Audrey Tatou – Biography",
-      "text": "You'll have to check your sources."
-    },
-    {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "Clearly, she has no problem giving the powers-that-be a little attitude. Maybe that's just a French thing. In any case, Tautou seems to be her own person, so to say that she's non-political doesn't seem right. More than likely, she's quite passionate, just not willing to garner that kind of attention."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

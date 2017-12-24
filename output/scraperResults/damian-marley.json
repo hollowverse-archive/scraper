@@ -31,113 +31,194 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Damian Marley was born and raised in Kingston, Jamaica."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Marley, first and foremost, considers himself a Rasta. But much like the Rasta faith, Marley's spiritual makeup is diverse and varied, and labels seem to be somewhat counter to his spiritual thinking. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=Vq6mLKUukV0",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I think religion is a good guiding tool… but [I don't believe in one rigid way of thinking] because God is too vast.",
       "sourceTitle": "Damian Marley talks about struggles in his career, how he makes a song & religious views",
-      "text": "I think religion is a good guiding tool… but [I don't believe in one rigid way of thinking] because God is too vast."
+      "sourceUrl": "http://www.youtube.com/watch?v=Vq6mLKUukV0"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.azlyrics.com/lyrics/damianmarley/oneloafofbread.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Still, Marley is an intensely spiritual person. He frequently speaks of the \"most high,\" sings about Jesus",
       "sourceTitle": "Damian Marley Lyrics – One Loaf of Bread",
-      "text": "Still, Marley is an intensely spiritual person. He frequently speaks of the \"most high,\" sings about Jesus"
+      "sourceUrl": "http://www.azlyrics.com/lyrics/damianmarley/oneloafofbread.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://debate.uvm.edu/dreadlibrary/Cihocki.htm",
+      "type": "text",
+      "text": "and considers himself and his cohorts \"spiritual revolutionaries.\"",
+      "parentId": 5,
       "sourceTitle": "Damian \"Jr Gong\" Marley is quickly becoming a commanding voice in the genre of Reggae",
-      "text": "and considers himself and his cohorts \"spiritual revolutionaries.\""
+      "sourceUrl": "http://debate.uvm.edu/dreadlibrary/Cihocki.htm"
     },
     {
-      "type": "sentence",
-      "text": "He explained what that means, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He explained what that means, saying:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/music/2012/jul/19/30-minutes-damian-marley",
-      "sourceTitle": "30 minutes with… Damian Marley.",
-      "text": "It might sound like I'm a dreamer, but economic models have reached their height of evolution. Technology has evolved. What hasn't evolved is mankind's spirituality; everything is from 3,000 years ago. With spirituality comes morals, a better way of thinking."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "It might sound like I'm a dreamer, but economic models have reached their height of evolution. Technology has evolved. What hasn't evolved is mankind's spirituality; everything is from 3,000 years ago. With spirituality comes morals, a better way of thinking.",
+      "sourceTitle": "30 minutes with… Damian Marley.",
+      "sourceUrl": "http://www.guardian.co.uk/music/2012/jul/19/30-minutes-damian-marley"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "It's a truly interesting theory, one worth exploring. But, as I said, he's a Rasta in the end. When asked if he was scared that his revolutionary take on spirituality, politics and society would result in assassination attempts–like it did for his father–he answered:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.cannabisculture.com/articles/2607.html",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I not be afraid of whatever they do to me, it is in the hands of the Most High. Over the years, the system always try to get rid of black leaders who speak truth and righteousness, but we always triumphant in the end. Rastas don't see death the same way other people do. We see life as spiritual thing; we see spirit inside that lives on.",
       "sourceTitle": "Damian Marley",
-      "text": "I not be afraid of whatever they do to me, it is in the hands of the Most High. Over the years, the system always try to get rid of black leaders who speak truth and righteousness, but we always triumphant in the end. Rastas don't see death the same way other people do. We see life as spiritual thing; we see spirit inside that lives on."
+      "sourceUrl": "http://www.cannabisculture.com/articles/2607.html"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Standard Reggae politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Marley follows in the footsteps of his father (and most Reggae artists) when it comes to politics. He rails against poverty, the institutions that cause and breed violence and poverty:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.cannabisculture.com/articles/2607.html",
-      "sourceTitle": "Damian Marley",
-      "text": "It be sin in the bankers, the police, the politicians, all who hold down the people."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "It be sin in the bankers, the police, the politicians, all who hold down the people.",
+      "sourceTitle": "Damian Marley",
+      "sourceUrl": "http://www.cannabisculture.com/articles/2607.html"
+    },
+    {
+      "type": "heading",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "And he rails against politicians and governments that fight their people rather than try to fix the underlying problems that lead to discontent:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://jamaica-star.com/thestar/20050926/ent/ent2.html",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Sending a whole swarm of police into our area to shoot up the place is not going to make anything better. It's going to create more enemies… The gang violence you see in Jamaica was something seeded from politics. So, first politicians need to stop the violence because it has become a way of life in Jamaica.",
       "sourceTitle": "Damian Marley on roots, Rasta and reggaeton",
-      "text": "Sending a whole swarm of police into our area to shoot up the place is not going to make anything better. It's going to create more enemies… The gang violence you see in Jamaica was something seeded from politics. So, first politicians need to stop the violence because it has become a way of life in Jamaica."
+      "sourceUrl": "http://jamaica-star.com/thestar/20050926/ent/ent2.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.justsomelyrics.com/2130289/Damian-Marley-Love-and-Unity-Lyrics",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "And so, he sings about love and unity,",
       "sourceTitle": "Damian Marley Love and Unity Lyrics",
-      "text": "And so, he sings about love and unity,"
+      "sourceUrl": "http://www.justsomelyrics.com/2130289/Damian-Marley-Love-and-Unity-Lyrics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.songarea.com/music-codes/damian_marley.html",
+      "type": "text",
+      "text": "peace and freedom,",
+      "parentId": 20,
       "sourceTitle": "Damian Marley songs",
-      "text": "peace and freedom,"
+      "sourceUrl": "http://www.songarea.com/music-codes/damian_marley.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=RfIupiZhT3k",
+      "type": "text",
+      "text": "and… weed.",
+      "parentId": 20,
       "sourceTitle": "Weed Songs: Damian Marley ft. Cyrus Hill – Ganja bus",
-      "text": "and… weed."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.youtube.com/watch?v=RfIupiZhT3k"
     }
   ],
   "wikipediaData": {

@@ -32,120 +32,199 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sophia Bush was born and raised in Pasadena, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ethnicelebs.com/sophia-bush",
+      "parentId": 2,
+      "type": "text",
+      "text": "Bush's Italian ancestry",
       "sourceTitle": "Sophia Bush.",
-      "text": "Bush's Italian ancestry"
+      "sourceUrl": "http://ethnicelebs.com/sophia-bush"
     },
     {
-      "type": "sentence",
-      "text": "makes me assume that she has a Catholic background, but only because I couldn't find anything else. She doesn't appear to talk much about the details of her faith, or go to church where the paparazzi can find her. But she does believe in God, or so she says."
+      "type": "text",
+      "text": "makes me assume that she has a Catholic background, but only because I couldn't find anything else. She doesn't appear to talk much about the details of her faith, or go to church where the paparazzi can find her. But she does believe in God, or so she says.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "In an interview in which she got pretty heated in defense of gay marriage–which we'll get to later–she criticized those who use religion as an excuse to deny human rights to gay people. She said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thehollywoodgossip.com/2012/08/sophia-bush-to-gay-marriage-opponents-eff-yourselves/",
-      "sourceTitle": "Sophia Bush to Gay Marriage Opponents: Eff Yourself!",
-      "text": "My God loves everybody, and if yours doesn't, that's your prerogative, but don't tell me how to live my life and don't tell my best friends that you're going to take away their rights."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "My God loves everybody, and if yours doesn't, that's your prerogative, but don't tell me how to live my life and don't tell my best friends that you're going to take away their rights.",
+      "sourceTitle": "Sophia Bush to Gay Marriage Opponents: Eff Yourself!",
+      "sourceUrl": "http://www.thehollywoodgossip.com/2012/08/sophia-bush-to-gay-marriage-opponents-eff-yourselves/"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "So apparently she has a God. We just don't know anything about Him (or Her). But maybe He's Catholic. If you know anything else, please let us know in the comments."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "I'm sorry, but you can go fuck yourself."
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Sophia Bell is heated up about politics. As mentioned before, she's a vocal gay marriage supporter, and she's pissed of that some people are not. She said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thehollywoodgossip.com/2012/08/sophia-bush-to-gay-marriage-opponents-eff-yourselves/",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I'm sorry, it's 2012, if you really think it's okay to deny anybody their basic human right of loving who they choose to love, you can go fuck yourself, honestly. And you can print that, because I'm done. I am so over it.",
       "sourceTitle": "Sophia Bush to Gay Marriage Opponents: Eff Yourself!",
-      "text": "I'm sorry, it's 2012, if you really think it's okay to deny anybody their basic human right of loving who they choose to love, you can go fuck yourself, honestly. And you can print that, because I'm done. I am so over it."
+      "sourceUrl": "http://www.thehollywoodgossip.com/2012/08/sophia-bush-to-gay-marriage-opponents-eff-yourselves/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.foxnews.com/entertainment/2012/01/17/sophia-bush-disappointed-in-obama-scared-gop-field/",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "And that's not the only liberal cause she supports. She actively campaigned for Barack Obama in 2008,",
       "sourceTitle": "Sophia Bush disappointed in Obama, scared of GOP field.",
-      "text": "And that's not the only liberal cause she supports. She actively campaigned for Barack Obama in 2008,"
+      "sourceUrl": "http://www.foxnews.com/entertainment/2012/01/17/sophia-bush-disappointed-in-obama-scared-gop-field/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tweetwood.com/conversation/SophiaBush/BarackObama",
+      "type": "text",
+      "text": "and continued to show her support in 2012.",
+      "parentId": 11,
       "sourceTitle": "Twitter conversation between Sophia Bush and Barack Obama.",
-      "text": "and continued to show her support in 2012."
+      "sourceUrl": "http://tweetwood.com/conversation/SophiaBush/BarackObama"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blog.zap2it.com/pop2it/2012/11/partners-star-sophia-bush-talks-womens-rights-and-healthcare-for-me-these-are-non-negotiable-issues.html",
+      "type": "text",
+      "text": "She's an advocate for women's rights–in the workplace and in health care.",
+      "parentId": 11,
       "sourceTitle": "'Partners' star Sophia Bush talks women's rights and healthcare: 'For me, these are non-negotiable issues.'",
-      "text": "She's an advocate for women's rights–in the workplace and in health care."
+      "sourceUrl": "http://blog.zap2it.com/pop2it/2012/11/partners-star-sophia-bush-talks-womens-rights-and-healthcare-for-me-these-are-non-negotiable-issues.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/SophiaBush/status/288830405908525056",
+      "type": "text",
+      "text": "She supports stricter gun control reforms.",
+      "parentId": 11,
       "sourceTitle": "SophiaBush: As she should #neverforget …",
-      "text": "She supports stricter gun control reforms."
+      "sourceUrl": "https://twitter.com/SophiaBush/status/288830405908525056"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.complex.com/girls/2012/11/sophia-bush-dressed-up-as-a-binder-full-of-women",
+      "type": "text",
+      "text": "And just to round it out, in reference to one of Republican Mitt Romney's campaign gaffs in 2012, she was a",
+      "parentId": 11
+    },
+    {
+      "parentId": 11,
+      "type": "link",
+      "text": "Binder Full of Women",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Binders_full_of_women"
+    },
+    {
+      "type": "text",
+      "text": "for Halloween that year.",
+      "parentId": 11,
       "sourceTitle": "Sophia Bush Dressed Up as a Binder Full of Women.",
-      "text": "And just to round it out, in reference to one of Republican Mitt Romney's campaign gaffs in 2012, she was a  for Halloween that year."
+      "sourceUrl": "http://www.complex.com/girls/2012/11/sophia-bush-dressed-up-as-a-binder-full-of-women"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Bush isn't afraid to tackle sticky topics either. She is a vocal supporter of the Muslim community center two blocks from Ground Zero, where the World Trade Centers stood in New York before September 11th. Criticizing those who oppose the religious center, she said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://sophiabushfan.org/sophia-bush-talks-one-tree-hill-her-passions-how-we-can-all-make-a-difference",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "We live in a country based on freedom. Freedom of speech. Freedom of the press. Freedom of religion. Men and women have died to protect those freedoms. And citizens of this country have taken to the streets of New York to fight against the rights of other citizens? I think it's shameful. It's disrespectful to the people who have given their lives so that we may live freely.",
       "sourceTitle": "Sophia Bush Talks 'One Tree Hill,' Her Passions, & How We Can All Make A Difference!",
-      "text": "We live in a country based on freedom. Freedom of speech. Freedom of the press. Freedom of religion. Men and women have died to protect those freedoms. And citizens of this country have taken to the streets of New York to fight against the rights of other citizens? I think it's shameful. It's disrespectful to the people who have given their lives so that we may live freely."
+      "sourceUrl": "http://sophiabushfan.org/sophia-bush-talks-one-tree-hill-her-passions-how-we-can-all-make-a-difference"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.foxnews.com/entertainment/2012/01/17/sophia-bush-disappointed-in-obama-scared-gop-field/",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Sophia Bush isn't afraid of a political fight, as she's made clear through her"
+    },
+    {
+      "parentId": 15,
+      "type": "link",
+      "text": "Twitter",
+      "sourceUrl": "https://twitter.com/SophiaBush"
+    },
+    {
+      "type": "text",
+      "text": "feed. She said she's considered running for office, but doesn't think she can make much of a difference in the cogs of the political machine, preferring non-profit work instead.",
+      "parentId": 15,
       "sourceTitle": "Sophia Bush disappointed in Obama, scared of GOP field.",
-      "text": "Sophia Bush isn't afraid of a political fight, as she's made clear through her  feed. She said she's considered running for office, but doesn't think she can make much of a difference in the cogs of the political machine, preferring non-profit work instead."
+      "sourceUrl": "http://www.foxnews.com/entertainment/2012/01/17/sophia-bush-disappointed-in-obama-scared-gop-field/"
     },
     {
-      "type": "sentence",
-      "text": "But regardless of how she goes about influencing change, you can be sure we'll be hearing more from Bush in the future."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But regardless of how she goes about influencing change, you can be sure we'll be hearing more from Bush in the future.",
+      "parentId": 15
     }
   ],
   "wikipediaData": {

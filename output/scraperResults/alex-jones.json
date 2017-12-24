@@ -35,99 +35,156 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Alex Jones was born in Dallas, Texas and grew up in Rockwall, Texas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=UAwNipMjUfk",
+      "parentId": 2,
+      "type": "text",
+      "text": "Religiously, or should I say spiritually, Jones is a Christian. He clearly holds the Bible in high regard and is known to cite the more prophetic, arcane and violent books of the Bible–Ezekiel, Daniel, Revelations, etc.",
       "sourceTitle": "Alex Jones Tv 1/2: Alex Takes Your Calls on Religion",
-      "text": "Religiously, or should I say spiritually, Jones is a Christian. He clearly holds the Bible in high regard and is known to cite the more prophetic, arcane and violent books of the Bible–Ezekiel, Daniel, Revelations, etc."
+      "sourceUrl": "http://www.youtube.com/watch?v=UAwNipMjUfk"
     },
     {
-      "type": "sentence",
-      "text": "And he's very devoted to his spirituality. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And he's very devoted to his spirituality. He said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=UAwNipMjUfk",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I just want to try to be a pure and virtuous person. I want to try to transcend my flesh and be the true leader that we're all meant to be… I feel the spirit of the Creator and it embraces me with chills…",
       "sourceTitle": "Alex Jones Tv 1/2: Alex Takes Your Calls on Religion",
-      "text": "I just want to try to be a pure and virtuous person. I want to try to transcend my flesh and be the true leader that we're all meant to be… I feel the spirit of the Creator and it embraces me with chills…"
+      "sourceUrl": "http://www.youtube.com/watch?v=UAwNipMjUfk"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=H4czEVDBAmM",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "But don't even get him started on the institution of Christianity, or any organized religion for that matter. Jones views organized religions as institutions of control, of blatant hypocrisy. They dupe the public, and cooperate with governments and tyrannical organizations to keep humanity a giant flock of complacent sheep.",
       "sourceTitle": "Alex Jones on organized religion and resistance",
-      "text": "But don't even get him started on the institution of Christianity, or any organized religion for that matter. Jones views organized religions as institutions of control, of blatant hypocrisy. They dupe the public, and cooperate with governments and tyrannical organizations to keep humanity a giant flock of complacent sheep."
+      "sourceUrl": "http://www.youtube.com/watch?v=H4czEVDBAmM"
     },
     {
-      "type": "sentence",
-      "text": "He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=H4czEVDBAmM",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "One of the biggest problems in the United States is organized religion. Not just Christians, but Hindus, Muslims, other people. The leaders of their denominations have been funded openly by governments and corporations to preach doctrines of submission to government, submission to tyranny.",
       "sourceTitle": "Alex Jones on organized religion and resistance",
-      "text": "One of the biggest problems in the United States is organized religion. Not just Christians, but Hindus, Muslims, other people. The leaders of their denominations have been funded openly by governments and corporations to preach doctrines of submission to government, submission to tyranny."
+      "sourceUrl": "http://www.youtube.com/watch?v=H4czEVDBAmM"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Through the looking glass"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://archive.org/details/InvisibleEmpire-ANewWorldOrderDefined-FullMovie-ByAlexJone",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Politically, Jones is in a class all his own. He is often called a conspiracy theorist, but in his mind, Jones is just telling the truth–and the truth is extreme. Much of his political philosophy centers around the idea that political and corporate elites are colluding to bring about the New World Order: an Orwellian, dystopic one-world government.",
       "sourceTitle": "Invisible Empire: A New World Order Defined – Full Movie – by Alex Jones",
-      "text": "Politically, Jones is in a class all his own. He is often called a conspiracy theorist, but in his mind, Jones is just telling the truth–and the truth is extreme. Much of his political philosophy centers around the idea that political and corporate elites are colluding to bring about the New World Order: an Orwellian, dystopic one-world government."
+      "sourceUrl": "http://archive.org/details/InvisibleEmpire-ANewWorldOrderDefined-FullMovie-ByAlexJone"
     },
     {
-      "type": "sentence",
-      "text": "One gets the sense that Jones considers himself and his fans to be on the front line of the war against worldwide totalitarianism."
+      "type": "text",
+      "text": "One gets the sense that Jones considers himself and his fans to be on the front line of the war against worldwide totalitarianism.",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=SfFSS1vLcXA&feature=related",
+      "parentId": 11,
+      "type": "text",
+      "text": "To counter this, Jones is a staunch libertarian who promotes severely limited government and the utmost personal freedom. Naturally, he's a Ron Paul supporter.",
       "sourceTitle": "Ron Paul talks with Alex Jones on InfoWars",
-      "text": "To counter this, Jones is a staunch libertarian who promotes severely limited government and the utmost personal freedom. Naturally, he's a Ron Paul supporter."
+      "sourceUrl": "http://www.youtube.com/watch?v=SfFSS1vLcXA&feature=related"
     },
     {
-      "type": "sentence",
-      "text": "Beyond that, Jones calls himself a paleo-conservative. He describes this ideology as follows:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Beyond that, Jones calls himself a paleo-conservative. He describes this ideology as follows:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.infowars.com/articles/alex/ts_dark_days_the_alex_jones_interview.htm",
-      "sourceTitle": "Dark Days: The Alex Jones Interview",
-      "text": "I call myself a paleo-conservative. By that, I mean I believe in national sovereignty, I believe in smaller government, I'm fiscally conservative… I'm just a truth seeker and a freedom lover. I'm not some classical, mainline liberal seeing fascists behind every bush. This is real life fascism. This is textbook black uniform, secret police, secret arrests, torture fascism."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I call myself a paleo-conservative. By that, I mean I believe in national sovereignty, I believe in smaller government, I'm fiscally conservative… I'm just a truth seeker and a freedom lover. I'm not some classical, mainline liberal seeing fascists behind every bush. This is real life fascism. This is textbook black uniform, secret police, secret arrests, torture fascism.",
+      "sourceTitle": "Dark Days: The Alex Jones Interview",
+      "sourceUrl": "http://www.infowars.com/articles/alex/ts_dark_days_the_alex_jones_interview.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Jones has hundreds, probably even thousands of hours of broadcast time under his belt. He's said a lot of things and I'm really only familiar enough to offer this skeleton of an idea of his overall philosophy. But if I was to offer one critique, it would be that of the hour or so of Alex Jones that I listened to today, most of it I couldn't understand. He makes countless esoteric references, he talks about things that require quite a bit of contextual knowledge, and at times, yes, he seems totally insane."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "But that's not the question here. Of course, one could make the case that Jones is crazy and I'm sure many have. The question is: What if he's right?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

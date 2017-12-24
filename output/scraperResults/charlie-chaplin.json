@@ -34,137 +34,277 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
+      "parentId": 1,
+      "type": "text",
+      "text": "Charlie Chaplin was born and raised in London, England, though he was a traveling performer from the age of five."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
       "text": "Chaplin was baptized and raised in the Church of England (Anglican Church). He didn't seem to like it though, and in his autobiography he wrote:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pc/Charlie_Chaplin.html",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "How relieved I was when the Reverend closed the Bible, for it meant that the sermons would soon end and they would start prayers and the final hymn.",
       "sourceTitle": "The religion of Charlie Chaplin, director and actor",
-      "text": "How relieved I was when the Reverend closed the Bible, for it meant that the sermons would soon end and they would start prayers and the final hymn."
+      "sourceUrl": "http://www.adherents.com/people/pc/Charlie_Chaplin.html"
     },
     {
-      "type": "sentence",
-      "text": "Chaplin is widely considered a \"freethinker,\" or what you might call a religious skeptic. Opinion is divided concerning whether he was an agnostic or an atheist, but I'm going with agnostic. His son wrote in his book, , that his father said repeatedly:"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "text",
+      "text": "Chaplin is widely considered a \"freethinker,\" or what you might call a religious skeptic. Opinion is divided concerning whether he was an agnostic or an atheist, but I'm going with agnostic. His son wrote in his book,"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "My Father, Charlie Chaplin"
+    },
+    {
+      "type": "text",
+      "text": ", that his father said repeatedly:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Charlie_Chaplin",
-      "sourceTitle": "Charlie Chaplin",
-      "text": "I'm not an atheist. I'm definitely an agnostic. Some scientists say that if the world were to stop revolving we'd all disintegrate. But the world keeps on going. Something must be holding us all in place–some Supreme Force. But what it is I couldn't tell you."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I'm not an atheist. I'm definitely an agnostic. Some scientists say that if the world were to stop revolving we'd all disintegrate. But the world keeps on going. Something must be holding us all in place–some Supreme Force. But what it is I couldn't tell you.",
+      "sourceTitle": "Charlie Chaplin",
+      "sourceUrl": "http://www.celebatheists.com/wiki/Charlie_Chaplin"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "That being the case, Chaplin was no friend to organized religion. He remarked:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.flickr.com/photos/bringinudownfromabove/4035398798/",
-      "sourceTitle": "Rational Thoughts From a Religious Skeptic – Charlie Chaplin",
-      "text": "Religion. It's given people hope in a world torn apart by religion."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Religion. It's given people hope in a world torn apart by religion.",
+      "sourceTitle": "Rational Thoughts From a Religious Skeptic – Charlie Chaplin",
+      "sourceUrl": "http://www.flickr.com/photos/bringinudownfromabove/4035398798/"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Classic comedy."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "Freethinking politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Chaplin's fame came at an interesting and contentious time in the world's ever-unfolding political drama."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.spartacus.schoolnet.co.uk/USAchaplinC.htm",
+      "parentId": 14,
+      "type": "text",
+      "text": "His political views seemed to be rather leftist. He was a supporter of Franklin D. Roosevelt and his New Deal program and many interpret his film,"
+    },
+    {
+      "parentId": 14,
+      "type": "emphasis",
+      "text": "Modern Times"
+    },
+    {
+      "type": "text",
+      "text": ", to be anti-capitalist.",
+      "parentId": 14,
       "sourceTitle": "Charlie Chaplin: Biography",
-      "text": "His political views seemed to be rather leftist. He was a supporter of Franklin D. Roosevelt and his New Deal program and many interpret his film, , to be anti-capitalist."
+      "sourceUrl": "http://www.spartacus.schoolnet.co.uk/USAchaplinC.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cartoonresearch.com/gerstein/chaplin/commie.html",
+      "type": "text",
+      "text": "This is often disputed,",
+      "parentId": 14,
       "sourceTitle": "Chaplin Essay #6",
-      "text": "This is often disputed,"
+      "sourceUrl": "http://www.cartoonresearch.com/gerstein/chaplin/commie.html"
     },
     {
-      "type": "sentence",
-      "text": "though the film does not paint a pretty picture of industrial America."
+      "type": "text",
+      "text": "though the film does not paint a pretty picture of industrial America.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.spartacus.schoolnet.co.uk/USAchaplinC.htm",
+      "parentId": 15,
+      "type": "text",
+      "text": "After World War II, the U.S. was experiencing full-blown paranoia over communism. Chaplin's support of humanitarian efforts in Russia and his already established leftist views and circle of friends made him a target of the McCarthy's House of Un-American Activities Committee.",
       "sourceTitle": "Charlie Chaplin: Biography",
-      "text": "After World War II, the U.S. was experiencing full-blown paranoia over communism. Chaplin's support of humanitarian efforts in Russia and his already established leftist views and circle of friends made him a target of the McCarthy's House of Un-American Activities Committee."
+      "sourceUrl": "http://www.spartacus.schoolnet.co.uk/USAchaplinC.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ffrf.org/news/day/dayitems/item/14340-charlie-chaplin",
+      "parentId": 16,
+      "type": "text",
+      "text": "McCarthy had collected a 2,000-page dossier on Chaplin, though he was never called to testify.",
       "sourceTitle": "Charlie Chaplin",
-      "text": "McCarthy had collected a 2,000-page dossier on Chaplin, though he was never called to testify."
+      "sourceUrl": "http://ffrf.org/news/day/dayitems/item/14340-charlie-chaplin"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.spartacus.schoolnet.co.uk/USAchaplinC.htm",
+      "type": "text",
+      "text": "However, being that Chaplin was a British citizen, upon returning to the U.S. after a film tour in England, he was denied re-entry to the U.S. and lived out the rest of his days in Switzerland.",
+      "parentId": 16,
       "sourceTitle": "Charlie Chaplin: Biography",
-      "text": "However, being that Chaplin was a British citizen, upon returning to the U.S. after a film tour in England, he was denied re-entry to the U.S. and lived out the rest of his days in Switzerland."
+      "sourceUrl": "http://www.spartacus.schoolnet.co.uk/USAchaplinC.htm"
     },
     {
-      "type": "sentence",
-      "text": "He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said:",
+      "parentId": 16
     },
     {
       "type": "quote",
-      "sourceUrl": "http://en.wikiquote.org/wiki/Charlie_Chaplin",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Friends have asked how I came to engender this American antagonism. My prodigious sin was, and still is, being a non-conformist. Although I am not a Communist I refused to fall in line by hating them.",
       "sourceTitle": "Charlie Chaplin",
-      "text": "Friends have asked how I came to engender this American antagonism. My prodigious sin was, and still is, being a non-conformist. Although I am not a Communist I refused to fall in line by hating them."
+      "sourceUrl": "http://en.wikiquote.org/wiki/Charlie_Chaplin"
     },
     {
-      "type": "sentence",
-      "text": "Many of Chaplin's films were explicitly political–unlike . His film,  satirized Adolf Hitler and fascism itself and  was a response to McCarthyism, of which he said:"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "break"
+      "parentId": 19,
+      "type": "text",
+      "text": "Many of Chaplin's films were explicitly political–unlike"
+    },
+    {
+      "parentId": 19,
+      "type": "emphasis",
+      "text": "Modern Times"
+    },
+    {
+      "type": "text",
+      "text": ". His film,",
+      "parentId": 19
+    },
+    {
+      "parentId": 19,
+      "type": "emphasis",
+      "text": "The Great Dictator"
+    },
+    {
+      "type": "text",
+      "text": "satirized Adolf Hitler and fascism itself and",
+      "parentId": 19
+    },
+    {
+      "parentId": 19,
+      "type": "emphasis",
+      "text": "The King of New"
+    },
+    {
+      "parentId": 19,
+      "type": "emphasis",
+      "text": "York"
+    },
+    {
+      "type": "text",
+      "text": "was a response to McCarthyism, of which he said:",
+      "parentId": 19
     },
     {
       "type": "quote",
-      "sourceUrl": "http://en.wikiquote.org/wiki/Charlie_Chaplin",
-      "sourceTitle": "Charlie Chaplin",
-      "text": "I was opposed to the Committee on Un-American Activities — a dishonest phrase to begin with, elastic enough to wrap around the throat and strangle the voice of any American citizen whose honest opinion is a minority of one."
+      "id": 20
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "I was opposed to the Committee on Un-American Activities — a dishonest phrase to begin with, elastic enough to wrap around the throat and strangle the voice of any American citizen whose honest opinion is a minority of one.",
+      "sourceTitle": "Charlie Chaplin",
+      "sourceUrl": "http://en.wikiquote.org/wiki/Charlie_Chaplin"
+    },
+    {
+      "type": "paragraph",
+      "id": 22
+    },
+    {
+      "parentId": 22,
+      "type": "text",
       "text": "A remarkable intellect and prolific artist, Chaplin's exile serves as a black mark on the U.S. and any country whose power structure responds to fear and paranoia by casting out or persecuting its best and brightest."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

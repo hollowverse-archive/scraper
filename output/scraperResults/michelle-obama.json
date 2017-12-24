@@ -33,112 +33,192 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2009/01/31/AR2009013101876.html?sid=ST2009013102074",
+      "parentId": 1,
+      "type": "text",
+      "text": "Michelle Obama was born and raised in Chicago, Illinois."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Obama grew up going to a Methodist church in her neighborhood.",
       "sourceTitle": "From the Second City, An Extended Interview",
-      "text": "Obama grew up going to a Methodist church in her neighborhood."
+      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2009/01/31/AR2009013101876.html?sid=ST2009013102074"
     },
     {
-      "type": "sentence",
-      "text": "It is unclear if and to what denomination Michelle adhered between her childhood and her marriage to Barack Obama but while her husband was doing community organizing in Chicago, the family paid lip service to the Trinity United Church of Christ. However, their former pastor, Jeremiah Wright, once told an inquirer:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.realclearreligion.org/articles/2012/09/20/the_presidents_pitch_to_people_of_faith.html",
-      "sourceTitle": "The President's Pitch to People of Faith",
-      "text": "Church is not their thing."
-    },
-    {
-      "type": "sentence",
-      "sourceUrl": "http://www.realclearreligion.org/articles/2012/09/20/the_presidents_pitch_to_people_of_faith.html",
-      "sourceTitle": "The President's Pitch to People of Faith",
-      "text": "He went on to add that the Obamas only attended services with photographers and if there was some political reason for it."
-    },
-    {
-      "type": "sentence",
-      "text": "If true, it throws into question Michelle and her husband's faith in general and causes one to question the conviction of their words on faith. For example, Michelle once said to a gathering of the African Methodist Episcopal Church in Tennessee, hoping to rally supporters to her husband's re-election campaign:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "It is unclear if and to what denomination Michelle adhered between her childhood and her marriage to Barack Obama but while her husband was doing community organizing in Chicago, the family paid lip service to the Trinity United Church of Christ. However, their former pastor, Jeremiah Wright, once told an inquirer:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://abcnews.go.com/blogs/politics/2012/06/michelle-obama-cites-jesus-as-model-for-citizenship/",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Church is not their thing.",
+      "sourceTitle": "The President's Pitch to People of Faith",
+      "sourceUrl": "http://www.realclearreligion.org/articles/2012/09/20/the_presidents_pitch_to_people_of_faith.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "He went on to add that the Obamas only attended services with photographers and if there was some political reason for it.",
+      "sourceTitle": "The President's Pitch to People of Faith",
+      "sourceUrl": "http://www.realclearreligion.org/articles/2012/09/20/the_presidents_pitch_to_people_of_faith.html"
+    },
+    {
+      "type": "text",
+      "text": "If true, it throws into question Michelle and her husband's faith in general and causes one to question the conviction of their words on faith. For example, Michelle once said to a gathering of the African Methodist Episcopal Church in Tennessee, hoping to rally supporters to her husband's re-election campaign:",
+      "parentId": 5
+    },
+    {
+      "type": "quote",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Jesus didn't limit his ministry to the four walls of the church. He was out there fighting injustice and speaking truth to power every single day. He was out there spreading a message of grace and redemption to the least, the last, and the lost. And our charge is to find Him everywhere, every day by how we live our lives.",
       "sourceTitle": "Michelle Obama Cites Jesus as Model for Citizenship",
-      "text": "Jesus didn't limit his ministry to the four walls of the church. He was out there fighting injustice and speaking truth to power every single day. He was out there spreading a message of grace and redemption to the least, the last, and the lost. And our charge is to find Him everywhere, every day by how we live our lives."
+      "sourceUrl": "http://abcnews.go.com/blogs/politics/2012/06/michelle-obama-cites-jesus-as-model-for-citizenship/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "She has also intimated that she feels there is a connection between being a good mother and keeping the faith, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.loop21.com/first-lady-michelle-obama-bet-interview",
-      "sourceTitle": "First Lady Michelle Obama Talks Fitness, Faith in BET Exclusive",
-      "text": "I would say, one thing that I've learned is that in order for me to be the best mother and wife that I can be, I have to be at my peak of health: mental, physical. And that investment is worth it. So we can't fool ourselves into thinking that we're going to be good servants of God, good parents, if we're not whole inside."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I would say, one thing that I've learned is that in order for me to be the best mother and wife that I can be, I have to be at my peak of health: mental, physical. And that investment is worth it. So we can't fool ourselves into thinking that we're going to be good servants of God, good parents, if we're not whole inside.",
+      "sourceTitle": "First Lady Michelle Obama Talks Fitness, Faith in BET Exclusive",
+      "sourceUrl": "http://www.loop21.com/first-lady-michelle-obama-bet-interview"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "But still, there lingers that sense that Michelle's religious platitudes are politically motivated. Perhaps more will be illuminated as the post-presidential memoirs, biographies and autobiographies flood the market."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "A political trap"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2009/02/08/us/politics/08michelle.html",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Michelle Obama's politics are likely, by default, the politics of her husband. If she did disagree with him, she wouldn't say so in public–and understandably so. But, by all accounts, she is a tireless supporter, even taking the stage to help push her husband's policies through, including his stimulus package, a pay-equity bill,",
       "sourceTitle": "\"Mom in Chief\" Touches on Police, Tongues Wag",
-      "text": "Michelle Obama's politics are likely, by default, the politics of her husband. If she did disagree with him, she wouldn't say so in public–and understandably so. But, by all accounts, she is a tireless supporter, even taking the stage to help push her husband's policies through, including his stimulus package, a pay-equity bill,"
+      "sourceUrl": "http://www.nytimes.com/2009/02/08/us/politics/08michelle.html"
     },
     {
-      "type": "sentence",
-      "text": "and as a former hospital administrator, ((. NY Times.)) she's particularly eloquent regarding Obamacare. She said, showing her social democrat leanings:"
+      "type": "text",
+      "text": "and as a former hospital administrator, ((",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "link",
+      "text": "\"Mom in Chief\" Touches on Police, Tongues Wag",
+      "sourceUrl": "http://www.nytimes.com/2009/02/08/us/politics/08michelle.html"
+    },
+    {
+      "type": "text",
+      "text": ". NY Times.)) she's particularly eloquent regarding Obamacare. She said, showing her social democrat leanings:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/michelle_obama.html",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "The truth is, in order to get things like universal health care and a revamped education system, then someone is going to have to give up a piece of their pie so that someone else can have more.",
       "sourceTitle": "Michelle Obama Quotes",
-      "text": "The truth is, in order to get things like universal health care and a revamped education system, then someone is going to have to give up a piece of their pie so that someone else can have more."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/michelle_obama.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usnews.com/news/obama/articles/2009/03/26/michelle-obama-makes-military-families-her-mission",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "However, she has picked certain issues to champion on her own, such as unwavering support for veterans and military families",
       "sourceTitle": "Michelle Obama Makes Military Families Her Mission",
-      "text": "However, she has picked certain issues to champion on her own, such as unwavering support for veterans and military families"
+      "sourceUrl": "http://www.usnews.com/news/obama/articles/2009/03/26/michelle-obama-makes-military-families-her-mission"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usnews.com/news/blogs/washington-whispers/2009/03/28/michelle-obama-goes-organic-and-brings-in-the-bees",
+      "type": "text",
+      "text": "and the organic food movement.",
+      "parentId": 16,
       "sourceTitle": "Michelle Obama Goes Organic and Brings in the Bees",
-      "text": "and the organic food movement."
+      "sourceUrl": "http://www.usnews.com/news/blogs/washington-whispers/2009/03/28/michelle-obama-goes-organic-and-brings-in-the-bees"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thedailybeast.com/newsweek/2008/11/21/what-michelle-means-to-us.html",
+      "parentId": 17,
+      "type": "text",
+      "text": "Some call her an inspiration–just for existing really. Fans have cited her stable marriage to a high-powered man as an inspiration to black women nationwide.",
       "sourceTitle": "What Michelle Obama Means To Us",
-      "text": "Some call her an inspiration–just for existing really. Fans have cited her stable marriage to a high-powered man as an inspiration to black women nationwide."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.thedailybeast.com/newsweek/2008/11/21/what-michelle-means-to-us.html"
     }
   ],
   "wikipediaData": {

@@ -38,115 +38,199 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Andy Griffith was born and raised in Mount Airy, North Carolina. He died of a heart attack in 2012 on Roanoke Island, North Carolina."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Griffith was a deeply spiritual, devoted Christian man. His faith permeated nearly every aspect of his life."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.archive.org/stream/playeraprofileof002609mbp/playeraprofileof002609mbp_djvu.txt",
+      "parentId": 3,
+      "type": "text",
+      "text": "He was raised a Baptist, where he says he learned his social skills.",
       "sourceTitle": "Full Text of \"The Player A Profile of An Art",
-      "text": "He was raised a Baptist, where he says he learned his social skills."
+      "sourceUrl": "http://www.archive.org/stream/playeraprofileof002609mbp/playeraprofileof002609mbp_djvu.txt"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianactivities.com/andy-griffith-tells-his-story",
+      "type": "text",
+      "text": "But as a teenager, Griffith came to greatly look up to a Moravian preacher, Reverend Edward Timothy Mickey, who taught Griffith how to play a wide range of musical instruments and encouraged Griffith to go to college.",
+      "parentId": 3,
       "sourceTitle": "Testimonies – Andy Griffith Tells His Story",
-      "text": "But as a teenager, Griffith came to greatly look up to a Moravian preacher, Reverend Edward Timothy Mickey, who taught Griffith how to play a wide range of musical instruments and encouraged Griffith to go to college."
+      "sourceUrl": "http://www.christianactivities.com/andy-griffith-tells-his-story"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianactivities.com/andy-griffith-tells-his-story",
+      "type": "text",
+      "text": "During college, Griffith actually studied to become a Moravian preacher himself, but quit when another preacher told him he couldn't both study music and become a preacher.",
+      "parentId": 3,
       "sourceTitle": "Testimonies – Andy Griffith Tells His Story",
-      "text": "During college, Griffith actually studied to become a Moravian preacher himself, but quit when another preacher told him he couldn't both study music and become a preacher."
+      "sourceUrl": "http://www.christianactivities.com/andy-griffith-tells-his-story"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://archives.religionnews.com/blogs/mark-silk/getgetreligion-andy-griffith",
-      "sourceTitle": "GetGetReligion: Andy Griffith",
+      "parentId": 4,
+      "type": "text",
       "text": "It wasn't long before Andy Griffith the entertainer took off and his religious (and musical) aspirations were put on hold. But Griffith never lost his faith. In fact, religion and Christianity often popped up in"
     },
     {
-      "type": "sentence",
-      "text": "and when Griffith was unable to walk for seven months due to a bout of Guillain-Barre Syndrome, he said:"
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "The Andy Griffith Show"
     },
     {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/07/03/andy-griffith-dead-christian_n_1646133.html",
-      "sourceTitle": "Andy Griffith Dead: Christian Actor Also Gospel Singer",
-      "text": "I firmly believe that in every situation, no matter how difficult, God extends grace greater than the hardship, and strength and peace of mind that can lead us to a place higher than where we were before."
-    },
-    {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/07/03/andy-griffith-dead-christian_n_1646133.html",
-      "sourceTitle": "Andy Griffith Dead: Christian Actor Also Gospel Singer",
-      "text": "After the end of , Griffith revisited his love of religious singing, releasing (among others) the platinum certified album, ."
-    },
-    {
-      "type": "sentence",
-      "text": "He said of his new music career:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and when Griffith was unable to walk for seven months due to a bout of Guillain-Barre Syndrome, he said:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.christianactivities.com/andy-griffith-tells-his-story",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I firmly believe that in every situation, no matter how difficult, God extends grace greater than the hardship, and strength and peace of mind that can lead us to a place higher than where we were before.",
+      "sourceTitle": "Andy Griffith Dead: Christian Actor Also Gospel Singer",
+      "sourceUrl": "http://www.huffingtonpost.com/2012/07/03/andy-griffith-dead-christian_n_1646133.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "After the end of"
+    },
+    {
+      "parentId": 7,
+      "type": "emphasis",
+      "text": "Matlock"
+    },
+    {
+      "type": "text",
+      "text": ", Griffith revisited his love of religious singing, releasing (among others) the platinum certified album,",
+      "parentId": 7
+    },
+    {
+      "parentId": 7,
+      "type": "emphasis",
+      "text": "I Love To Tell The Story – 25 Favorite Hymns"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 7,
+      "sourceTitle": "Andy Griffith Dead: Christian Actor Also Gospel Singer",
+      "sourceUrl": "http://www.huffingtonpost.com/2012/07/03/andy-griffith-dead-christian_n_1646133.html"
+    },
+    {
+      "type": "text",
+      "text": "He said of his new music career:",
+      "parentId": 7
+    },
+    {
+      "type": "quote",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "At the ripe age of 69, 'Mr. Jesus' let me become a singer again. So that's full circle and I hope those who listen to this record, I Love to Tell the Story, will enjoy it and be blessed by it as much as we who played and sang on it were.",
       "sourceTitle": "Testimonies – Andy Griffith Tells His Story",
-      "text": "At the ripe age of 69, 'Mr. Jesus' let me become a singer again. So that's full circle and I hope those who listen to this record, I Love to Tell the Story, will enjoy it and be blessed by it as much as we who played and sang on it were."
+      "sourceUrl": "http://www.christianactivities.com/andy-griffith-tells-his-story"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "The Fans Will Just Have to Deal With It"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://archives.religionnews.com/blogs/mark-silk/getgetreligion-andy-griffith",
-      "sourceTitle": "GetGetReligion: Andy Griffith",
-      "text": "Griffith was a stanch Democrat, much to the dismay of his Southern Republican fan base."
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Andy_Griffith.php",
+      "parentId": 12,
+      "type": "text",
+      "text": "Griffith was a stanch Democrat, much to the dismay of his Southern Republican fan base.",
+      "sourceTitle": "GetGetReligion: Andy Griffith",
+      "sourceUrl": "http://archives.religionnews.com/blogs/mark-silk/getgetreligion-andy-griffith"
+    },
+    {
+      "type": "text",
+      "text": "All of his political donations went to Democrats, most recently John Kerry's presidential bid in 2004.",
+      "parentId": 12,
       "sourceTitle": "Andy Griffith's Federal Campaign Contribution Report",
-      "text": "All of his political donations went to Democrats, most recently John Kerry's presidential bid in 2004."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Andy_Griffith.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://archives.religionnews.com/blogs/mark-silk/getgetreligion-andy-griffith",
+      "type": "text",
+      "text": "He never donated to Obama, though Griffith was a supporter of the Affordable Care Act, aka \"Obamacare\"",
+      "parentId": 12,
       "sourceTitle": "GetGetReligion: Andy Griffith",
-      "text": "He never donated to Obama, though Griffith was a supporter of the Affordable Care Act, aka \"Obamacare\""
+      "sourceUrl": "http://archives.religionnews.com/blogs/mark-silk/getgetreligion-andy-griffith"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ed.msnbc.com/_news/2012/07/03/12545893-actor-andy-griffith-championed-democratic-causes?lite",
+      "type": "text",
+      "text": "and he and former co-star, Ron Howard, made a video endorsing Obama in 2008, helping North Carolina go Democrat for the first time in 32 years.",
+      "parentId": 12,
       "sourceTitle": "Actor Andy Griffith championed Democratic Causes",
-      "text": "and he and former co-star, Ron Howard, made a video endorsing Obama in 2008, helping North Carolina go Democrat for the first time in 32 years."
+      "sourceUrl": "http://ed.msnbc.com/_news/2012/07/03/12545893-actor-andy-griffith-championed-democratic-causes?lite"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "text": "By then, however, Griffith had already had a long history of fighting an uphill, Democratic battle in his home state. He endorsed Democrat gubernatorial candidate Jim Hunt, who lost, but during the next election cycle, North Carolina Democrats asked Griffith himself to run for governor with Hunt as his right-hand man. He refused, but it's a testament to how much of a supporter Griffith was of his party. For fun, check out this  of his campaign endorsement videos."
+      "parentId": 13,
+      "type": "text",
+      "text": "By then, however, Griffith had already had a long history of fighting an uphill, Democratic battle in his home state. He endorsed Democrat gubernatorial candidate Jim Hunt, who lost, but during the next election cycle, North Carolina Democrats asked Griffith himself to run for governor with Hunt as his right-hand man. He refused, but it's a testament to how much of a supporter Griffith was of his party. For fun, check out this"
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "link",
+      "text": "collection",
+      "sourceUrl": "http://articles.latimes.com/2012/jul/03/news/la-pn-the-democratic-politics-of-the-late-andy-griffith-20120703"
+    },
+    {
+      "type": "text",
+      "text": "of his campaign endorsement videos.",
+      "parentId": 13
     }
   ],
   "wikipediaData": {

@@ -34,117 +34,183 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Orlando Bloom was born and raised in Canterbury, Kent, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.independentfilmquarterly.com/ifq/interviews/orlandobloom.htm",
+      "parentId": 2,
+      "type": "text",
+      "text": "Bloom was raised in the Church of England, like many young Brits.",
       "sourceTitle": "IFQ Magazine Interview with Orlando Bloom",
-      "text": "Bloom was raised in the Church of England, like many young Brits."
+      "sourceUrl": "http://www.independentfilmquarterly.com/ifq/interviews/orlandobloom.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.femalefirst.co.uk/celebrity/Orlando+Bloom-1695.html",
+      "type": "text",
+      "text": "But in 2004, Bloom officially converted to Buddhism at a ceremony in the Soka Gakkai International Buddhist center in London.",
+      "parentId": 2,
       "sourceTitle": "Orlando Bloom 'converts to Buddhism.'",
-      "text": "But in 2004, Bloom officially converted to Buddhism at a ceremony in the Soka Gakkai International Buddhist center in London."
+      "sourceUrl": "http://www.femalefirst.co.uk/celebrity/Orlando+Bloom-1695.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.teenhollywood.com/2006/08/31/bloom-and-bosworth-build-buddhist-retreat",
+      "type": "text",
+      "text": "He has since built his own Nichiren Buddhist retreat in Malibu, California.",
+      "parentId": 2,
       "sourceTitle": "Bloom And Bosworth Build Buddhist Retreat",
-      "text": "He has since built his own Nichiren Buddhist retreat in Malibu, California."
+      "sourceUrl": "http://www.teenhollywood.com/2006/08/31/bloom-and-bosworth-build-buddhist-retreat"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Bloom once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.independentfilmquarterly.com/ifq/interviews/orlandobloom.htm",
-      "sourceTitle": "IFQ Magazine Interview with Orlando Bloom",
-      "text": "I'm trying to be a man of integrity and live a good life… I think life is about humanity. If it isn't about humanity, I don't know what it's about. It's about respect for human life, all life. It doesn't matter who you are, or what your religious beliefs are, or what the color of your skin is, or what your sexual preferences are."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I'm trying to be a man of integrity and live a good life… I think life is about humanity. If it isn't about humanity, I don't know what it's about. It's about respect for human life, all life. It doesn't matter who you are, or what your religious beliefs are, or what the color of your skin is, or what your sexual preferences are.",
+      "sourceTitle": "IFQ Magazine Interview with Orlando Bloom",
+      "sourceUrl": "http://www.independentfilmquarterly.com/ifq/interviews/orlandobloom.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "And Buddhism is his pathway to a virtuous way of living. He says:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.independentfilmquarterly.com/ifq/interviews/orlandobloom.htm",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "The philosophies behind [Buddhism] are very current today and are a way of finding some sort of peace… Faith, I understand, gives people that unshakeable sense of self to go about their life and be a good person.",
       "sourceTitle": "IFQ Magazine Interview with Orlando Bloom",
-      "text": "The philosophies behind [Buddhism] are very current today and are a way of finding some sort of peace… Faith, I understand, gives people that unshakeable sense of self to go about their life and be a good person."
+      "sourceUrl": "http://www.independentfilmquarterly.com/ifq/interviews/orlandobloom.htm"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Bloomin' Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Orlando Bloom, though British, has thrown his opinion and star power into American politics. In 2008, Bloom officially endorsed Barack Obama and even worked at the Obama campaign's California office, making phone calls and urging people to vote for him. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://allieiswired.com/archives/2008/11/orlando-bloom-works-for-barack-obama/",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Barack Obama, for me, is head and shoulders above anyone else and it's time for change and he brings the hope that the country needs.",
       "sourceTitle": "Orlando Bloom Works for Barack Obama",
-      "text": "Barack Obama, for me, is head and shoulders above anyone else and it's time for change and he brings the hope that the country needs."
+      "sourceUrl": "http://allieiswired.com/archives/2008/11/orlando-bloom-works-for-barack-obama/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.boycottliberalism.com/The-Top-1000-Liberals-in-America.htm",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Bloom is a liberal. He made the watch list of the top 1000 liberal celebrities in America on Boycott Liberalism's website.",
       "sourceTitle": "The Top 1000 Liberals in America",
-      "text": "Bloom is a liberal. He made the watch list of the top 1000 liberal celebrities in America on Boycott Liberalism's website."
+      "sourceUrl": "http://www.boycottliberalism.com/The-Top-1000-Liberals-in-America.htm"
     },
     {
-      "type": "sentence",
-      "text": "Uh-oh."
+      "type": "text",
+      "text": "Uh-oh.",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.treehugger.com/corporate-responsibility/orlando-bloom-launches-global-cool.html",
+      "parentId": 14,
+      "type": "text",
+      "text": "He's been involved with various environmentalism causes and projects. Bloom's pet project, Global Cool, is an organization designed to reduce global greenhouse gas emissions. And he helped promote another green organization called Climate Star, whose slogan is: \"Global Warming isn't cool, but stopping it is.\"",
       "sourceTitle": "Orlando Bloom Launches Global Cool",
-      "text": "He's been involved with various environmentalism causes and projects. Bloom's pet project, Global Cool, is an organization designed to reduce global greenhouse gas emissions. And he helped promote another green organization called Climate Star, whose slogan is: \"Global Warming isn't cool, but stopping it is.\""
+      "sourceUrl": "http://www.treehugger.com/corporate-responsibility/orlando-bloom-launches-global-cool.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "Bloom also built a London house that runs on solar energy and donates money that goes toward planting trees. While passionate about it, Bloom is also humble. He says:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.ecorazzi.com/2007/04/10/orlando-bloom-gets-his-green-on-in-elle-magazine/",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I'm really not an expert on environmental matters. But I'm very passionate about the environment. And the more I learn about it, the more I realize that there are little things that everyone can do.",
       "sourceTitle": "Orlando Bloom Gets His Green On In Elle Magazine",
-      "text": "I'm really not an expert on environmental matters. But I'm very passionate about the environment. And the more I learn about it, the more I realize that there are little things that everyone can do."
+      "sourceUrl": "http://www.ecorazzi.com/2007/04/10/orlando-bloom-gets-his-green-on-in-elle-magazine/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "His dedication to and admitted ignorance on the subject of environmentalism brings to mind the comments of the late Michael Crichton, who compared the blind \"faith\" of environmentalists to that of religion. Perhaps I should have filed this under \"religion\" instead of \"politics.\""
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

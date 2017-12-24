@@ -33,108 +33,173 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Scarlett Johansson is a New York City Jewish girl, born and raised. And the fact that she's a giant movie star makes her basically a walking cliche."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Her father is Danish–not Jewish, but her mother is a Jew and Scarlett seems to identify more with her Jewish side, even though when asked if she celebrates Christmas or Hanakkuh, she said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.bangitout.com/reviews112.html",
-      "sourceTitle": "Match Point Interview with Scarlett Johansson",
-      "text": "A little of both."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "A little of both.",
+      "sourceTitle": "Match Point Interview with Scarlett Johansson",
+      "sourceUrl": "http://www.bangitout.com/reviews112.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "It appears that the other Jewish holidays get a bit more attention, however. She said about her family:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=ffKJuV_-TlU",
-      "sourceTitle": "Scarlett Johansson speaks about her Jewish ancestry",
-      "text": "We have Rosh Hashanah. We have Hanakkuh and Passover."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "We have Rosh Hashanah. We have Hanakkuh and Passover.",
+      "sourceTitle": "Scarlett Johansson speaks about her Jewish ancestry",
+      "sourceUrl": "http://www.youtube.com/watch?v=ffKJuV_-TlU"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Plus, she's pals with Woody Allen."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=ye2E1I8oInA",
+      "parentId": 9,
+      "type": "text",
+      "text": "There's a sense that religion either isn't a big deal to Johansson or she's very private about it, which tends to be her attitude towards much of her life. Her wedding to actor Ryan Reynolds was, as Johansson puts it, planned in dark alleys and took place in the remote wilderness of Canada, leaving us to speculate if it was Jewish, Christian, a combination, or just a secular ceremony.",
       "sourceTitle": "Scarlett Johansson & Ryan Reynolds Wedding Details",
-      "text": "There's a sense that religion either isn't a big deal to Johansson or she's very private about it, which tends to be her attitude towards much of her life. Her wedding to actor Ryan Reynolds was, as Johansson puts it, planned in dark alleys and took place in the remote wilderness of Canada, leaving us to speculate if it was Jewish, Christian, a combination, or just a secular ceremony."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.youtube.com/watch?v=ye2E1I8oInA"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Johansson is a registered Independent, probably because she thinks its cool to be open-minded, but she's not voting for any Republicans. She endorsed John Kerry in 2004 and when he lost to George W. Bush, she said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.contactmusic.com/news-article/johansson-americans-disappointed-by-bushs-re-election",
-      "sourceTitle": "Johansson: Americans 'Disappointed' By Bush Re-Election",
-      "text": "[I was] disappointed. I think it was a disappointment for a large percentage of the population."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "[I was] disappointed. I think it was a disappointment for a large percentage of the population.",
+      "sourceTitle": "Johansson: Americans 'Disappointed' By Bush Re-Election",
+      "sourceUrl": "http://www.contactmusic.com/news-article/johansson-americans-disappointed-by-bushs-re-election"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "She took the Democrats' side again in 2008, endorsing Barack Obama and even went on a small speaking tour on his behalf. She said that Obama is an opportunity to:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/1577733/Scarlett-Johansson-supports-Barack-Obama.html",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "…turn a page on the polarizing politics of the past… My heart belongs to Barack.",
       "sourceTitle": "Scarlett Johansson supports Barack Obama",
-      "text": "…turn a page on the polarizing politics of the past… My heart belongs to Barack."
+      "sourceUrl": "http://www.telegraph.co.uk/news/worldnews/1577733/Scarlett-Johansson-supports-Barack-Obama.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ibtimes.com/articles/295274/20120208/obama-runway-win-2012-fashion-line-features.htm",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "In 2012, Johansson stepped up for Obama once again and even hosted a fashion-themed fundraiser for the president's re-election campaign.",
       "sourceTitle": "Obama 'Runway to Win' 2012 Photos",
-      "text": "In 2012, Johansson stepped up for Obama once again and even hosted a fashion-themed fundraiser for the president's re-election campaign."
+      "sourceUrl": "http://www.ibtimes.com/articles/295274/20120208/obama-runway-win-2012-fashion-line-features.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dnainfo.com/20120313/manhattan/scarlett-johansson-host-another-fundraiser-for-scott-stringer",
+      "parentId": 18,
+      "type": "text",
+      "text": "For the 2013 New York City mayor race, Johansson endorsed Democrat Scott Stringer over incumbent Republican Michael Bloomberg, hosting numerous fundraisers for Stringer's campaign.",
       "sourceTitle": "Scarlett Johansson to Host Another Fundraiser for Scott Stringe",
-      "text": "For the 2013 New York City mayor race, Johansson endorsed Democrat Scott Stringer over incumbent Republican Michael Bloomberg, hosting numerous fundraisers for Stringer's campaign."
+      "sourceUrl": "http://www.dnainfo.com/20120313/manhattan/scarlett-johansson-host-another-fundraiser-for-scott-stringer"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
+      "parentId": 19,
+      "type": "text",
       "text": "All in all, she doesn't seem that \"independent.\""
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

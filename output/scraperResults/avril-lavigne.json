@@ -32,65 +32,92 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Avril Lavigne was born in Belleville, Ontario, Canada and grew up in Napanee, Ontario, Canada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.webcitation.org/query?url=http%3A%2F%2Fwww.digitalspy.com%2Fmusic%2Fnews%2Fa304869%2Flavigne-siblings-mocked-my-singing.html&date=2011-02-20",
+      "parentId": 2,
+      "type": "text",
+      "text": "Lavigne began singing in church, but hasn't mentioned what particular church that was.",
       "sourceTitle": "Lavigne: 'Siblings mocked my singing.'",
-      "text": "Lavigne began singing in church, but hasn't mentioned what particular church that was."
+      "sourceUrl": "http://www.webcitation.org/query?url=http%3A%2F%2Fwww.digitalspy.com%2Fmusic%2Fnews%2Fa304869%2Flavigne-siblings-mocked-my-singing.html&date=2011-02-20"
     },
     {
-      "type": "sentence",
-      "text": "It seems reasonable to assume that it was a Christian church of some kind."
+      "type": "text",
+      "text": "It seems reasonable to assume that it was a Christian church of some kind.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.blurtit.com/q7769147.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "It is widely cited that Lavigne is Catholic",
       "sourceTitle": "What is The Real Religion Of Avril Lavigne?",
-      "text": "It is widely cited that Lavigne is Catholic"
+      "sourceUrl": "http://www.blurtit.com/q7769147.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1214297/Avril-Lavigne-splits-rock-star-husband-Deryck-Whibley-years-marriage.html",
+      "type": "text",
+      "text": "and she was married in a Catholic wedding ceremony.",
+      "parentId": 3,
       "sourceTitle": "Avril Lavigne splits from rock star husband Deryck Whibley after three years of marriage",
-      "text": "and she was married in a Catholic wedding ceremony."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-1214297/Avril-Lavigne-splits-rock-star-husband-Deryck-Whibley-years-marriage.html"
     },
     {
       "type": "heading",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "Punky Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Lavigne takes pride in being different–different from the bubble gum pop princesses of her time–and she is for the most part. However, she's still a Bush-hating peacenik, who's probably liberal. If she really wanted to be different from the entertainment elite she shares the pop charts with, she'd be a conservative Republican. She once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/avril_lavigne.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I don't believe war is a way to solve problems. I think it's wrong. I don't have respect for the people that made the decisions to go on with war. I don't have that much respect for Bush. He's about war, I'm not about war – a lot of people aren't about war.",
       "sourceTitle": "Avril Lavigne Quotes",
-      "text": "I don't believe war is a way to solve problems. I think it's wrong. I don't have respect for the people that made the decisions to go on with war. I don't have that much respect for Bush. He's about war, I'm not about war – a lot of people aren't about war."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/avril_lavigne.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/16-avril-lavigne",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I'll tell you what, though, this girl puts her money and her time where her mouth is, and her list of charities and philanthropic contributions is long and varied. It ranges from Amnesty International and charities to benefit child victims of war to Make-a-Wish and Starlight Children's Foundation.",
       "sourceTitle": "Avril Lavigne",
-      "text": "I'll tell you what, though, this girl puts her money and her time where her mouth is, and her list of charities and philanthropic contributions is long and varied. It ranges from Amnesty International and charities to benefit child victims of war to Make-a-Wish and Starlight Children's Foundation."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.looktothestars.org/celebrity/16-avril-lavigne"
     }
   ],
   "wikipediaData": {

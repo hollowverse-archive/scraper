@@ -35,131 +35,200 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Lea Michele, whose real name is Lea Michele Sarfati, was born in the Bronx, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://mygloss.com/fit/celebrities/lea-michele-loves-being-healthy/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Michele comes from a bi-religious household.",
       "sourceTitle": "Lea Michele Loves Being Healthy",
-      "text": "Michele comes from a bi-religious household."
+      "sourceUrl": "http://mygloss.com/fit/celebrities/lea-michele-loves-being-healthy/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usmagazine.com/celebrity-news/news/lea-michele-im-proud-of-my-body-my-jewish-nose-2010128",
+      "type": "text",
+      "text": "Her mother is of Italian descent and, as such, was raised a Roman Catholic. Michele's father is a Sephardic Jew, whose family immigrated from Spain. Michele, whose appearance is admittedly more Jewish, was raised more Catholic than anything. Even so, Michele revels in her Jewish heritage, saying she is proud of her Jewish nose",
+      "parentId": 2,
       "sourceTitle": "Lea Michele: I'm 'Proud of My Body, My Jewish Nose.'",
-      "text": "Her mother is of Italian descent and, as such, was raised a Roman Catholic. Michele's father is a Sephardic Jew, whose family immigrated from Spain. Michele, whose appearance is admittedly more Jewish, was raised more Catholic than anything. Even so, Michele revels in her Jewish heritage, saying she is proud of her Jewish nose"
+      "sourceUrl": "http://www.usmagazine.com/celebrity-news/news/lea-michele-im-proud-of-my-body-my-jewish-nose-2010128"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jvibe.com/Pop_culture/Glee.php",
+      "type": "text",
+      "text": "and having expressed a desire to learn the finer points of Jewish cuisine.",
+      "parentId": 2,
       "sourceTitle": "Glee Club Glory.",
-      "text": "and having expressed a desire to learn the finer points of Jewish cuisine."
+      "sourceUrl": "http://www.jvibe.com/Pop_culture/Glee.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Furthermore, Michele has at least one iconic Jewish idol–the one and only Barbara Streisand, whose defiance in the face of Hollywood body image pressures has been an inspiration to Michele, who said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://leamicheleweb.org/quotes/index.php?cat&catid=1",
-      "sourceTitle": "Quote Database",
-      "text": "I remember looking up to Barbra Streisand, and thinking, 'Finally, someone who has a Jewish nose, who didn't get a nose job.'"
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I remember looking up to Barbra Streisand, and thinking, 'Finally, someone who has a Jewish nose, who didn't get a nose job.'",
+      "sourceTitle": "Quote Database",
+      "sourceUrl": "http://leamicheleweb.org/quotes/index.php?cat&catid=1"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Still, the Catholic side won out, even for Michele's father. She says:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=xyfCHFy8r-k&feature=results_main&playnext=1&list=PL8EB8289AE3B183C8",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I was raised Catholic, but my father gladly attends church with us.",
       "sourceTitle": "Inside the Actors Studio – The Cast and Creator of Glee",
-      "text": "I was raised Catholic, but my father gladly attends church with us."
+      "sourceUrl": "http://www.youtube.com/watch?v=xyfCHFy8r-k&feature=results_main&playnext=1&list=PL8EB8289AE3B183C8"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jvibe.com/Pop_culture/Glee.php",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Michele had no Jewish education, didn't attend Hebrew school and did not have a Bat Mitzvah.",
       "sourceTitle": "Glee Club Glory.",
-      "text": "Michele had no Jewish education, didn't attend Hebrew school and did not have a Bat Mitzvah."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.jvibe.com/Pop_culture/Glee.php"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Coastal politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Michele has two major points of interest when it comes to social and political issues:"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "1) She's all about animal rights. She has spoken out against the classic New York horse drawn carriage rides, doing a public service announcement and saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.ecorazzi.com/2012/03/07/lea-michele-talks-about-her-animal-activism/",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Horses in the carriage industry are deprived of everything that makes life worth living.",
       "sourceTitle": "Lea Michele Talks About Her Animal Activism",
-      "text": "Horses in the carriage industry are deprived of everything that makes life worth living."
+      "sourceUrl": "http://www.ecorazzi.com/2012/03/07/lea-michele-talks-about-her-animal-activism/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.radaronline.com/exclusives/2010/09/lea-michele-and-alec-baldwin-team-animals",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "For her efforts, Michele was given a humanitarian award from People for the Ethical Treatment of Animals (PETA).",
       "sourceTitle": "Lea Michele And Alec Baldwin Team Up For The Animals",
-      "text": "For her efforts, Michele was given a humanitarian award from People for the Ethical Treatment of Animals (PETA)."
+      "sourceUrl": "http://www.radaronline.com/exclusives/2010/09/lea-michele-and-alec-baldwin-team-animals"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.okmagazine.com/news/lea-michele-sings-out-support-gay-marriage",
+      "parentId": 16,
+      "type": "text",
+      "text": "2) Michele is a vocal supporter of gay rights and marriage equality. She sang at an event co-hosted by Cyndi Lauper's organization, 'True Colors' and gay rights advocacy group 'Broadway Impacts.' Proceeds went to gay rights causes.",
       "sourceTitle": "Lea Michele Sings Out In Support Of Gay Marriage",
-      "text": "2) Michele is a vocal supporter of gay rights and marriage equality. She sang at an event co-hosted by Cyndi Lauper's organization, 'True Colors' and gay rights advocacy group 'Broadway Impacts.' Proceeds went to gay rights causes."
+      "sourceUrl": "http://www.okmagazine.com/news/lea-michele-sings-out-support-gay-marriage"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "She, of course, joined the chorus of Twitter supporters when President Obama announced his support of gay marriage, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.cbsnews.com/8301-31749_162-57432632-10391698/lea-michele-amber-riley-of-glee-respond-to-bristol-palin/",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "We support you Barack Obama and commend you for taking a stand.",
       "sourceTitle": "Lea Michele, Amber Riley of \"Glee\" Respond to Bristol Palin",
-      "text": "We support you Barack Obama and commend you for taking a stand."
+      "sourceUrl": "http://www.cbsnews.com/8301-31749_162-57432632-10391698/lea-michele-amber-riley-of-glee-respond-to-bristol-palin/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nonsportsman.com/2012/01/obama-thinks-maybe-lea-michele-can.html",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "And interestingly, Michele has made it onto an Obama administration list of potential celebrity supporters for the 2012 campaign, indicating she's caught the eye of politicians at the top.",
       "sourceTitle": "Obama thinks maybe Lea Michele can convince you to vote for him",
-      "text": "And interestingly, Michele has made it onto an Obama administration list of potential celebrity supporters for the 2012 campaign, indicating she's caught the eye of politicians at the top."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.nonsportsman.com/2012/01/obama-thinks-maybe-lea-michele-can.html"
     }
   ],
   "wikipediaData": {

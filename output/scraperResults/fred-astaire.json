@@ -38,78 +38,130 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Fred Astaire, whose birth surname was Austerlitz, was born in Omaha, Nebraska and grew up there and in New York City. He died of pneumonia in 1987 at the age of 88."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pa/Fred_Astaire.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Despite the fact that his father, who had Jewish roots, was Catholic and his mother was Lutheran, Astaire became involved with the Episcopal church at a young age and was confirmed there as a teenager.",
       "sourceTitle": "The religion of Fred Astaire, actor and dancer.",
-      "text": "Despite the fact that his father, who had Jewish roots, was Catholic and his mother was Lutheran, Astaire became involved with the Episcopal church at a young age and was confirmed there as a teenager."
+      "sourceUrl": "http://www.adherents.com/people/pa/Fred_Astaire.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Astaire was a member of the Episcopal Actors' Guild as an adult, and his faith was clearly important to him throughout his life. Talking about what church meant to him after his first wife died, he said,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pa/Fred_Astaire.html",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I find great comfort in that magnificent church in the midst of the hurly-burly of the city. I think of everything there–my life, my work, the hidden meaning of the good and bad things that have happened to me. I come out spiritually refreshed. It often helps me to go on.",
       "sourceTitle": "The religion of Fred Astaire, actor and dancer.",
-      "text": "I find great comfort in that magnificent church in the midst of the hurly-burly of the city. I think of everything there–my life, my work, the hidden meaning of the good and bad things that have happened to me. I come out spiritually refreshed. It often helps me to go on."
+      "sourceUrl": "http://www.adherents.com/people/pa/Fred_Astaire.html"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Old-school Republican"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.sunshinestatesarah.com/2010/06/cool-conservatives-of-day-fred-astaire.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "But even though he didn't talk about it much, he still had his beliefs. Astaire was a lifelong Republican according to several internet sources,",
       "sourceTitle": "Cool Conservatives of the Day.",
-      "text": "But even though he didn't talk about it much, he still had his beliefs. Astaire was a lifelong Republican according to several internet sources,"
+      "sourceUrl": "http://www.sunshinestatesarah.com/2010/06/cool-conservatives-of-day-fred-astaire.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0001682/bio",
+      "type": "text",
+      "text": "and was a founding member of the Hollywood Republican Committee.",
+      "parentId": 8,
       "sourceTitle": "Biography for Mickey Rooney.",
-      "text": "and was a founding member of the Hollywood Republican Committee."
+      "sourceUrl": "http://www.imdb.com/name/nm0001682/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Astaire's old-school conservative approach didn't particularly lend itself to the cultural revolution of the 1960s. About how films were changing, he said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000001/bio",
-      "sourceTitle": "Biography for Fred Astaire.",
-      "text": "They tend to overdo the vulgarity. I'm not embarrassed by the language itself, but it's embarrassing to be listening to it, sitting next to perfect strangers."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "They tend to overdo the vulgarity. I'm not embarrassed by the language itself, but it's embarrassing to be listening to it, sitting next to perfect strangers.",
+      "sourceTitle": "Biography for Fred Astaire.",
+      "sourceUrl": "http://www.imdb.com/name/nm0000001/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "But mostly the actor kept his views on divisive issues to himself. He said he would much rather talk about golf than anything else:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 13
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pa/Fred_Astaire.html",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I don't get drawn into arguments very easily because I refuse to discuss politics, religion, dancing, movies, et cetera. There is only one subject on which I could talk for hours and hours, and that's a certain sport.",
       "sourceTitle": "The religion of Fred Astaire, actor and dancer.",
-      "text": "I don't get drawn into arguments very easily because I refuse to discuss politics, religion, dancing, movies, et cetera. There is only one subject on which I could talk for hours and hours, and that's a certain sport."
+      "sourceUrl": "http://www.adherents.com/people/pa/Fred_Astaire.html"
     }
   ],
   "wikipediaData": {

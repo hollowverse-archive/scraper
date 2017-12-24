@@ -37,152 +37,256 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Lauryn Hill was born and raised in South Orange, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Hill is a complicated, mysterious person. Despite heavy scrutiny and worldwide fame, she remains a subject of speculation, wonder and worry, and the fact that she has been willfully absent from the spotlight for many years makes it more difficult to understand this talented woman."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://reformedblacksofamerica.org/blog1/index.php?itemid=381",
+      "parentId": 3,
+      "type": "text",
+      "text": "Regarding her religion, it depends on the time of her life and the method of analysis. Some scholars argue that the lyrics from her break-out solo album,"
+    },
+    {
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "The Miseducation of Lauryn Hill"
+    },
+    {
+      "type": "text",
+      "text": ", imply that Hill is an aggregate of three distinct religious institutions: Rastafari, Ethiopian Orthodox, and Protestant Christianity.",
+      "parentId": 3,
       "sourceTitle": "You Might Win Some But You Just Lot One: Unmasking the Miseducated",
-      "text": "Regarding her religion, it depends on the time of her life and the method of analysis. Some scholars argue that the lyrics from her break-out solo album, , imply that Hill is an aggregate of three distinct religious institutions: Rastafari, Ethiopian Orthodox, and Protestant Christianity."
+      "sourceUrl": "http://reformedblacksofamerica.org/blog1/index.php?itemid=381"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=l8cYyflyEG8&feature=fvwrel",
+      "parentId": 4,
+      "type": "text",
+      "text": "This could be true. The album overflows with Christian references, from song titles like \"Forgive Them Father\" and lyrics straight from the Biblical book of Corinthians",
       "sourceTitle": "Lauryn Hill and Religion [Part 2 of 3]",
-      "text": "This could be true. The album overflows with Christian references, from song titles like \"Forgive Them Father\" and lyrics straight from the Biblical book of Corinthians"
+      "sourceUrl": "http://www.youtube.com/watch?v=l8cYyflyEG8&feature=fvwrel"
     },
     {
-      "type": "sentence",
-      "text": ":"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": ":",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.azlyrics.com/lyrics/laurynhill/tellhim.html",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Now I may have faith to make mountains fall/But if I lack love then I am nothin' at all/I can give away everything I possess/But left without love then I have no happiness.",
       "sourceTitle": "Lauryn Hill Lyrics – Tell Him",
-      "text": "Now I may have faith to make mountains fall/But if I lack love then I am nothin' at all/I can give away everything I possess/But left without love then I have no happiness."
+      "sourceUrl": "http://www.azlyrics.com/lyrics/laurynhill/tellhim.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.servinghistory.com/topics/List_of_Eastern_Orthodox_Christians::sub::Musicians_Composers",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "But Hill was also baptized into the Ethiopian Orthodox Church and given the religion name of \"Fikerte Maryam.\"",
       "sourceTitle": "List of Eastern Orthodox Christians: Musicians Composers",
-      "text": "But Hill was also baptized into the Ethiopian Orthodox Church and given the religion name of \"Fikerte Maryam.\""
+      "sourceUrl": "http://www.servinghistory.com/topics/List_of_Eastern_Orthodox_Christians::sub::Musicians_Composers"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://web.archive.org/web/20090505024008/http://www.rollingstone.com/news/story/5940100/the_mystery_of_lauryn_hill/",
+      "type": "text",
+      "text": "However, this could be a piece of Hill's religious puzzle, directly connected to the Rastafari movement, which has always had a theo-historical connection to the Ethiopian Orthodox religion. And Hill has a direct connection to the Rastafari through the father of her five children, Rohan Marley and son of reggae icon and famous Rastafarian, Bob Marley. Their first son is named \"Zion,\"",
+      "parentId": 7,
       "sourceTitle": "The Mystery of Lauryn Hill",
-      "text": "However, this could be a piece of Hill's religious puzzle, directly connected to the Rastafari movement, which has always had a theo-historical connection to the Ethiopian Orthodox religion. And Hill has a direct connection to the Rastafari through the father of her five children, Rohan Marley and son of reggae icon and famous Rastafarian, Bob Marley. Their first son is named \"Zion,\""
+      "sourceUrl": "http://web.archive.org/web/20090505024008/http://www.rollingstone.com/news/story/5940100/the_mystery_of_lauryn_hill/"
     },
     {
-      "type": "sentence",
-      "text": "a word that's use goes back to early Judaism, but has since been adopted by the Rastafari to refer to \"Mother Africa.\""
+      "type": "text",
+      "text": "a word that's use goes back to early Judaism, but has since been adopted by the Rastafari to refer to \"Mother Africa.\"",
+      "parentId": 7
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://reformedblacksofamerica.org/blog1/index.php?itemid=381",
+      "parentId": 8,
+      "type": "text",
+      "text": "But let's not forget about Hill's time in The Fugees and their explicit connection to the 5 percent nation,",
       "sourceTitle": "You Might Win Some But You Just Lot One: Unmasking the Miseducated",
-      "text": "But let's not forget about Hill's time in The Fugees and their explicit connection to the 5 percent nation,"
+      "sourceUrl": "http://reformedblacksofamerica.org/blog1/index.php?itemid=381"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=l8cYyflyEG8&feature=fvwrel",
+      "type": "text",
+      "text": "or The Nation of Gods and Men, an offshoot of the Nation of Islam. Not to mention,",
+      "parentId": 8
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "Miseducation"
+    },
+    {
+      "type": "text",
+      "text": ",",
+      "parentId": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "which"
+    },
+    {
+      "type": "text",
+      "text": "contains some references to Islam.",
+      "parentId": 8,
       "sourceTitle": "Lauryn Hill and Religion [Part 2 of 3]",
-      "text": "or The Nation of Gods and Men, an offshoot of the Nation of Islam. Not to mention, ,  contains some references to Islam."
+      "sourceUrl": "http://www.youtube.com/watch?v=l8cYyflyEG8&feature=fvwrel"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://web.archive.org/web/20090505024008/http://www.rollingstone.com/news/story/5940100/the_mystery_of_lauryn_hill/",
+      "parentId": 9,
+      "type": "text",
+      "text": "After Hill's solo success reached its zenith, she exiled herself with a couple of exceptions and fell under the influence of what former Fugee, Pras, said was \"some real cult shit,\"",
       "sourceTitle": "The Mystery of Lauryn Hill",
-      "text": "After Hill's solo success reached its zenith, she exiled herself with a couple of exceptions and fell under the influence of what former Fugee, Pras, said was \"some real cult shit,\""
+      "sourceUrl": "http://web.archive.org/web/20090505024008/http://www.rollingstone.com/news/story/5940100/the_mystery_of_lauryn_hill/"
     },
     {
-      "type": "sentence",
-      "text": "in a spiritual guide known only as Brother Anthony. Hill said of him:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "in a spiritual guide known only as Brother Anthony. Hill said of him:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://web.archive.org/web/20090505024008/http://www.rollingstone.com/news/story/5940100/the_mystery_of_lauryn_hill/",
-      "sourceTitle": "The Mystery of Lauryn Hill",
-      "text": "I met someone who has an understanding of the Bible like no one else I ever met in my life. I just sat at [his] feet and ingested pure Scripture for about a year."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I met someone who has an understanding of the Bible like no one else I ever met in my life. I just sat at [his] feet and ingested pure Scripture for about a year.",
+      "sourceTitle": "The Mystery of Lauryn Hill",
+      "sourceUrl": "http://web.archive.org/web/20090505024008/http://www.rollingstone.com/news/story/5940100/the_mystery_of_lauryn_hill/"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "At the time of this article's publication, we're not sure where exactly Hill stands religiously, but she seems attracted to the dark mystery of the monotheistic faiths of the Middle East, Eastern Africa and their various, some might say fringe, North American offshoots. She is indeed an enigma. Keep us posted in the comments Hill fans!"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 13
     },
     {
-      "type": "heading",
+      "parentId": 13,
+      "type": "text",
       "text": "Politics on the Hill, and not Capitol Hill"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://rapgenius.com/Lauryn-hill-the-mystery-of-iniquity-lyrics#lyric",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Hill seems to see the political system as a device of control, corruption, deception and oppression. Her song, \"The Mystery of Inequity,\" paints the judicial system in particular as hypocritical and possibly more geared toward injustice than justice.",
       "sourceTitle": "Lauryn Hill – The Mystery of Inequity Lyrics",
-      "text": "Hill seems to see the political system as a device of control, corruption, deception and oppression. Her song, \"The Mystery of Inequity,\" paints the judicial system in particular as hypocritical and possibly more geared toward injustice than justice."
+      "sourceUrl": "http://rapgenius.com/Lauryn-hill-the-mystery-of-iniquity-lyrics#lyric"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "Much of her political energy goes into railing against racism, something Hill views as built into our social institutions. She sings in her song, \"Black Rage,\""
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.lyricsfreak.com/l/lauryn+hill/black+rage_21047497.html",
-      "sourceTitle": "Black Rage Lyrics – Lauryn Hill",
-      "text": "Politics, politics/Greed falsely called wealth/Black rage is founded on denying of self/Black human packages/Tied and subsistence/Having to justify your very existence."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Politics, politics/Greed falsely called wealth/Black rage is founded on denying of self/Black human packages/Tied and subsistence/Having to justify your very existence.",
+      "sourceTitle": "Black Rage Lyrics – Lauryn Hill",
+      "sourceUrl": "http://www.lyricsfreak.com/l/lauryn+hill/black+rage_21047497.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "Though this may seem rather dark, Hill does, at times, want to look at race and her role in the black community in a positive light. Responding to rumors that she once said that she'd rather her children starve then have white people buy her records, she responded by releasing this statement:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.snopes.com/quotes/lauryn.asp",
+      "id": 19
+    },
+    {
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "Lauryn insists she wants people to understand that her goal to improve the self-love of young African-American women should never be confused with advocating racial supremacy.",
       "sourceTitle": "Lauryn Hill on Whites Buying Her Albums",
-      "text": "Lauryn insists she wants people to understand that her goal to improve the self-love of young African-American women should never be confused with advocating racial supremacy."
+      "sourceUrl": "http://www.snopes.com/quotes/lauryn.asp"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "Now, having all but disappeared from the public eye, we have no comments on the current state of affairs, including the Obama administration, the rise of legalized gay marriage and a host of other things that have developed in American society since the late 1990s. I'm sure many of us would like to hear her thoughts on the first black American president at least."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

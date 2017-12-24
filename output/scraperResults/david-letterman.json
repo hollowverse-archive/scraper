@@ -32,98 +32,151 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "David Letterman was born in Indianapolis, Indiana."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.allexperts.com/q/David-Letterman-1189/David-Letterman-Religion.htm",
+      "parentId": 2,
+      "type": "text",
+      "text": "Letterman was brought up Presbyterian and his mother even worked as a secretary for the Second Presbyterian Church of Indianapolis.",
       "sourceTitle": "David Letterman: David Letterman's Religion, second presbyterian church, david letterman",
-      "text": "Letterman was brought up Presbyterian and his mother even worked as a secretary for the Second Presbyterian Church of Indianapolis."
+      "sourceUrl": "http://en.allexperts.com/q/David-Letterman-1189/David-Letterman-Religion.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pl/David_Letterman.html",
+      "type": "text",
+      "text": "Letterman was, then, brought up rather devout. It is a matter of question whether or not Dave is still religious as an adult, and it seems unlikely, but Dave regularly expresses his respect for all religious views.",
+      "parentId": 2,
       "sourceTitle": "The religion of David Letterman, talk show host",
-      "text": "Letterman was, then, brought up rather devout. It is a matter of question whether or not Dave is still religious as an adult, and it seems unlikely, but Dave regularly expresses his respect for all religious views."
+      "sourceUrl": "http://www.adherents.com/people/pl/David_Letterman.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Perhaps the most outward display of religious advocacy from Dave came in response to opinion polls showing that 67% of Americans were unhappy with the way the country was headed and the debate over the separation of church and state. He said, in all seriousness:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://discoverypieces.blogspot.com/2008/10/david-lettermans-not-so-well-known.html",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "We [Americans] are among the most blessed people on Earth and should thank God several times a day, or at least be thankful and appreciative. With hurricanes, tornadoes, fires out of control, mudslides, flooding, severe thunderstorms tearing up the country from one end to another, and with the threat of bird flu and terrorist attacks, Are we sure this is a good time to take God out of the Pledge of Allegiance?",
       "sourceTitle": "David Letterman's not-so-well-known political view",
-      "text": "We [Americans] are among the most blessed people on Earth and should thank God several times a day, or at least be thankful and appreciative. With hurricanes, tornadoes, fires out of control, mudslides, flooding, severe thunderstorms tearing up the country from one end to another, and with the threat of bird flu and terrorist attacks, Are we sure this is a good time to take God out of the Pledge of Allegiance?"
+      "sourceUrl": "http://discoverypieces.blogspot.com/2008/10/david-lettermans-not-so-well-known.html"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Down the middle politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://answers.yahoo.com/question/index?qid=20081001193519AAnEtNc",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Letterman is a registered Independent.",
       "sourceTitle": "The Political Affiliations of Our Talk Show Hosts?",
-      "text": "Letterman is a registered Independent."
+      "sourceUrl": "http://answers.yahoo.com/question/index?qid=20081001193519AAnEtNc"
     },
     {
-      "type": "sentence",
-      "text": "However, this is likely because of the unwritten rule that talk show hosts, like newscasters or economic advisers, are supposed to be objective and non-partisan. Letterman is much more likely a Democrat in reality."
+      "type": "text",
+      "text": "However, this is likely because of the unwritten rule that talk show hosts, like newscasters or economic advisers, are supposed to be objective and non-partisan. Letterman is much more likely a Democrat in reality.",
+      "parentId": 7
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/David_Letterman.php",
+      "parentId": 8,
+      "type": "text",
+      "text": "Letterman has given $7,100 to Democratic Minnesota senator Al Franken–and nothing to anyone else.",
       "sourceTitle": "David Letterman's Federal Campaign Contribution Report",
-      "text": "Letterman has given $7,100 to Democratic Minnesota senator Al Franken–and nothing to anyone else."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/David_Letterman.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Sure, you could ask: is it just that he and Al Franken are pals? They're both comedians and all. Maybe you're right, but here's pretty conclusive evidence that Letterman sure didn't like the Republican power structure from 2000 to 2008. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.geekydrunk.com/2008/06/11/ive-lost-a-lot-of-respect-for-david-letterman/",
-      "sourceTitle": "I've Lost A Lot Of Respect For David Letterman",
-      "text": "My feeling about Cheney and also Bush, but especially Cheney, is that he just couldn't care less about Americans… And all they really want to do is somehow kiss up to the oil people so they can get some great annuity when they're out of office. 'There you go Dick, nice job! There's a couple of billions for your trouble.'I mean he pretty much put Halliburton in business, and the outsourcing of the military resources to private mercenary groups and so forth. Is there any humanity in either of these guys?"
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "My feeling about Cheney and also Bush, but especially Cheney, is that he just couldn't care less about Americans… And all they really want to do is somehow kiss up to the oil people so they can get some great annuity when they're out of office. 'There you go Dick, nice job! There's a couple of billions for your trouble.'I mean he pretty much put Halliburton in business, and the outsourcing of the military resources to private mercenary groups and so forth. Is there any humanity in either of these guys?",
+      "sourceTitle": "I've Lost A Lot Of Respect For David Letterman",
+      "sourceUrl": "http://www.geekydrunk.com/2008/06/11/ive-lost-a-lot-of-respect-for-david-letterman/"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Interesting point."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Letterman really made his views about the American people clear in an open letter where he went on and on about how great Americans have it and how ungrateful they are, even during the dark days of the Bush era. Among other things, Dave asked why Americans are so unhappy with all of the luxuries and amenities they are given as citizens of the U.S., saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 14
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://discoverypieces.blogspot.com/2008/10/david-lettermans-not-so-well-known.html",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "They see us for what we are. The most blessed people in the world who do nothing but complain about what we don't have, and what we hate about the country instead of thanking the good Lord we live here.",
       "sourceTitle": "David Letterman's not-so-well-known political view",
-      "text": "They see us for what we are. The most blessed people in the world who do nothing but complain about what we don't have, and what we hate about the country instead of thanking the good Lord we live here."
+      "sourceUrl": "http://discoverypieces.blogspot.com/2008/10/david-lettermans-not-so-well-known.html"
     }
   ],
   "wikipediaData": {

@@ -35,11 +35,3 @@ export function replaceSmartQuotes(str: string) {
   // prettier-ignore
   return str.replace(/[‘’]/g, '\'').replace(/[“”]/g, '"');
 }
-
-export function hasKey<
-  V = any,
-  K extends string = string,
-  O = Record<string, any>
->(obj: O, k: K): obj is (typeof obj) & Record<K, V> {
-  return k in obj;
-}

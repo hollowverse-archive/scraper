@@ -33,120 +33,217 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Courtney Stodden was born in Tacoma, Washington. She grew up there and in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Stodden is a Christian. One reason Stodden's parents agreed to sign a consent form allowing her to marry a man thrice her age is because of her faith. Her mother said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://abcnews.go.com/Entertainment/doug-hutchison-51-weds-courtney-alexis-stodden-16/story?id=13893244#.T1v9pcyZMzS",
-      "sourceTitle": "Doug Hutchison, 51, Weds Courtney Alex Stodden, 16",
-      "text": "Courtney was a virgin when she married Doug. She is a good Christian girl."
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm3400137/bio",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Courtney was a virgin when she married Doug. She is a good Christian girl.",
+      "sourceTitle": "Doug Hutchison, 51, Weds Courtney Alex Stodden, 16",
+      "sourceUrl": "http://abcnews.go.com/Entertainment/doug-hutchison-51-weds-courtney-alexis-stodden-16/story?id=13893244#.T1v9pcyZMzS"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "During high school, Stodden was apparently bullied to the point of dropping out. She finished high school at an online Christian Academy based out of Iowa called \"Alpha Omega.\"",
       "sourceTitle": "Courtney Stodden – Biography",
-      "text": "During high school, Stodden was apparently bullied to the point of dropping out. She finished high school at an online Christian Academy based out of Iowa called \"Alpha Omega.\""
+      "sourceUrl": "http://www.imdb.com/name/nm3400137/bio"
     },
     {
-      "type": "sentence",
-      "text": "She regularly asserts her faith. During an interview about her controversial marriage, she said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She regularly asserts her faith. During an interview about her controversial marriage, she said:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://abcnews.go.com/Entertainment/doug-hutchison-51-weds-courtney-alexis-stodden-16/story?id=13893244#.T1v9pcyZMzS",
-      "sourceTitle": "Doug Hutchison, 51, Weds Courtney Alex Stodden, 16",
-      "text": "I knew that if I kept [my virginity], I would really be blessed with a beautiful gift and God did. He blessed me with my soulmate."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I knew that if I kept [my virginity], I would really be blessed with a beautiful gift and God did. He blessed me with my soulmate.",
+      "sourceTitle": "Doug Hutchison, 51, Weds Courtney Alex Stodden, 16",
+      "sourceUrl": "http://abcnews.go.com/Entertainment/doug-hutchison-51-weds-courtney-alexis-stodden-16/story?id=13893244#.T1v9pcyZMzS"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "And her Twitter account, the source of much entertainment, amidst outrageous tweets like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thesuperficial.com/courtney-stodden-church-cleavage-mini-skirt-11-2011",
-      "sourceTitle": "Courtney Stodden Is A Good Christian Woman",
-      "text": "Provocatively preparing my provokingly perky package for a pulsating night filled with puurfect party passion – meow ;)"
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Provocatively preparing my provokingly perky package for a pulsating night filled with puurfect party passion – meow ;)",
+      "sourceTitle": "Courtney Stodden Is A Good Christian Woman",
+      "sourceUrl": "http://www.thesuperficial.com/courtney-stodden-church-cleavage-mini-skirt-11-2011"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "She'll say things like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thesuperficial.com/courtney-stodden-church-cleavage-mini-skirt-11-2011",
-      "sourceTitle": "Courtney Stodden Is A Good Christian Woman",
-      "text": "Had such a heavenly Sunday at church. I could feel Jesus rising up in me, pulsating my very spirit until my Jingle balls jangled juicily."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Had such a heavenly Sunday at church. I could feel Jesus rising up in me, pulsating my very spirit until my Jingle balls jangled juicily.",
+      "sourceTitle": "Courtney Stodden Is A Good Christian Woman",
+      "sourceUrl": "http://www.thesuperficial.com/courtney-stodden-church-cleavage-mini-skirt-11-2011"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "It's kind of brilliant in a way."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 15
     },
     {
-      "type": "heading",
+      "parentId": 15,
+      "type": "text",
       "text": "An American girl next door"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Stodden isn't the type to discuss any specific political issues in detail–or at all. She barely turned 18 before the 2012 elections, but no word on who she voted for, or if she voted."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "text": "She recorded a song, dedicated to American military personnel overseas, called \".\" Some choice lyrics include:"
+      "parentId": 17,
+      "type": "text",
+      "text": "She recorded a song, dedicated to American military personnel overseas, called \""
     },
     {
-      "type": "break"
+      "parentId": 17,
+      "type": "link",
+      "text": "We Are America",
+      "sourceUrl": "http://www.youtube.com/watch?v=e_KxErquUs4"
+    },
+    {
+      "type": "text",
+      "text": ".\" Some choice lyrics include:",
+      "parentId": 17
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.sweetslyrics.com/915069.Courtney%20Stodden%20-%20We%20Are%20America.html",
-      "sourceTitle": "Courtney Stoddard – We Are America Lyrics",
-      "text": "You are not alone when you left this world/You didn't not die in vain/You can speak through words as we form a human thing."
+      "id": 18
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "You are not alone when you left this world/You didn't not die in vain/You can speak through words as we form a human thing.",
+      "sourceTitle": "Courtney Stoddard – We Are America Lyrics",
+      "sourceUrl": "http://www.sweetslyrics.com/915069.Courtney%20Stodden%20-%20We%20Are%20America.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "On the anniversary of 9/11, she tweeted a whimsical little message out to surviving family members:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://thestir.cafemom.com/entertainment/126507/10_courtney_stodden_quotes_too",
+      "id": 21
+    },
+    {
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "Expressing all of my love & luminous light today to all of the phenomenal families & heavenly heroes that were affected by 9/11. God Bless!",
       "sourceTitle": "10 Courtney Stodden Quotes Too Sexy For A 17 Year-Old",
-      "text": "Expressing all of my love & luminous light today to all of the phenomenal families & heavenly heroes that were affected by 9/11. God Bless!"
+      "sourceUrl": "http://thestir.cafemom.com/entertainment/126507/10_courtney_stodden_quotes_too"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 23
+    },
+    {
+      "parentId": 23,
+      "type": "text",
       "text": "But other than semi-inspirational platitudes, there's really nothing political about Courtney Stodden."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

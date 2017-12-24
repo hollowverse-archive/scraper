@@ -33,147 +33,230 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Joel Osteen was born and raised in Houston, Texas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Osteen is a Christian and has built a media empire around his faith and his message of positivity and redemption. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/joel_osteen_2.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I've always been – you know, my personality is motivating and encouraging. And so I'm just being who God made me to be.",
       "sourceTitle": "Joel Osteen Quotes",
-      "text": "I've always been – you know, my personality is motivating and encouraging. And so I'm just being who God made me to be."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/joel_osteen_2.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.forgottenword.org/osteen.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Osteen does not want to spread negative messages and refuses to talk about hell or damnation or God's wrath or things of that nature.",
       "sourceTitle": "Joel Osteen – False Preacher",
-      "text": "Osteen does not want to spread negative messages and refuses to talk about hell or damnation or God's wrath or things of that nature."
+      "sourceUrl": "http://www.forgottenword.org/osteen.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.forgottenword.org/osteen.html",
+      "parentId": 6,
+      "type": "text",
+      "text": "Osteen's message is non-denominational and it is received by Christians of all stripes across the globe. However, his father, John Osteen, was a Southern Baptist preacher",
       "sourceTitle": "Joel Osteen – False Preacher",
-      "text": "Osteen's message is non-denominational and it is received by Christians of all stripes across the globe. However, his father, John Osteen, was a Southern Baptist preacher"
+      "sourceUrl": "http://www.forgottenword.org/osteen.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm1127010/bio",
+      "type": "text",
+      "text": "before he founded the Lakewood Church in Houston in 1958",
+      "parentId": 6,
       "sourceTitle": "Joel Osteen – Biography",
-      "text": "before he founded the Lakewood Church in Houston in 1958"
+      "sourceUrl": "http://www.imdb.com/name/nm1127010/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.notablebiographies.com/newsmakers2/2006-Le-Ra/Osteen-Joel.html",
+      "type": "text",
+      "text": "and upon his death in 1999, Joel took over as senior pastor.",
+      "parentId": 6,
       "sourceTitle": "Joel Osteen Biography",
-      "text": "and upon his death in 1999, Joel took over as senior pastor."
+      "sourceUrl": "http://www.notablebiographies.com/newsmakers2/2006-Le-Ra/Osteen-Joel.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.blackbluedog.com/2012/12/news/televangelists-t-d-jakes-and-joel-osteen-tweet-encouragement-after-sandy-hook-tragedy/",
+      "parentId": 7,
+      "type": "text",
+      "text": "Now, Osteen preaches to 7 million viewers weekly in over 100 countries",
       "sourceTitle": "Televangelists T.D. Jakes and Joel Osteen tweet encouragement after Sandy Hook tragedy",
-      "text": "Now, Osteen preaches to 7 million viewers weekly in over 100 countries"
+      "sourceUrl": "http://www.blackbluedog.com/2012/12/news/televangelists-t-d-jakes-and-joel-osteen-tweet-encouragement-after-sandy-hook-tragedy/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.notablebiographies.com/newsmakers2/2006-Le-Ra/Osteen-Joel.html",
+      "type": "text",
+      "text": "and 30,000 parishioners attend his services every week",
+      "parentId": 7,
       "sourceTitle": "Joel Osteen Biography",
-      "text": "and 30,000 parishioners attend his services every week"
+      "sourceUrl": "http://www.notablebiographies.com/newsmakers2/2006-Le-Ra/Osteen-Joel.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm1127010/bio",
+      "type": "text",
+      "text": "at the former Houston Rockets stadium.",
+      "parentId": 7,
       "sourceTitle": "Joel Osteen – Biography",
-      "text": "at the former Houston Rockets stadium."
+      "sourceUrl": "http://www.imdb.com/name/nm1127010/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "text": "I could quote Osteen about God, his faith and his message, but where to start!? If you're interested, check out his  feed for an endless stream."
+      "parentId": 8,
+      "type": "text",
+      "text": "I could quote Osteen about God, his faith and his message, but where to start!? If you're interested, check out his"
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "link",
+      "text": "Twitter",
+      "sourceUrl": "https://twitter.com/JoelOsteen"
+    },
+    {
+      "type": "text",
+      "text": "feed for an endless stream.",
+      "parentId": 8
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "God and Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "One doesn't get the sense Osteen would lobby for the separation of church and state. His religion is his politics. On the sticky issue of gay marriage, Osteen came out strong against it, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.rawstory.com/rs/2012/04/29/pastor-joel-osteen-being-gay-is-a-sin/",
-      "sourceTitle": "Pastor Joel Osteen: 'Being gay is a sin.'",
-      "text": "I believe that the scripture says that being gay is a sin. You know, every time I say that, Chris, I get people saying, 'You're a gay hater and you're a gay basher.' I'm not. I don't dislike anybody. Gays are some of the nicest, kindest, most loving people in the world. But my faith is based on what the scripture says, and that's the way I read the scripture."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I believe that the scripture says that being gay is a sin. You know, every time I say that, Chris, I get people saying, 'You're a gay hater and you're a gay basher.' I'm not. I don't dislike anybody. Gays are some of the nicest, kindest, most loving people in the world. But my faith is based on what the scripture says, and that's the way I read the scripture.",
+      "sourceTitle": "Pastor Joel Osteen: 'Being gay is a sin.'",
+      "sourceUrl": "http://www.rawstory.com/rs/2012/04/29/pastor-joel-osteen-being-gay-is-a-sin/"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "But Osteen refuses to get partisan, won't endorse a candidate or party, and unless it's something addressed in the Bible, it's unlikely Osteen is going to weigh-in on it. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.theblaze.com/stories/joel-osteen-explains-why-he-wont-talk-partisan-politics-plus-see-his-advice-for-obama-romney/",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "You start dividing yourself saying, 'I'm a Democrat,' 'Republican,' whatever, 50 percent immediately don't agree. And I want to throw a broad message of hope to everyone, not somebody turn me off because of my political preference.",
       "sourceTitle": "Joel Osteen Explains Why He Won't Talk Partisan Politics",
-      "text": "You start dividing yourself saying, 'I'm a Democrat,' 'Republican,' whatever, 50 percent immediately don't agree. And I want to throw a broad message of hope to everyone, not somebody turn me off because of my political preference."
+      "sourceUrl": "http://www.theblaze.com/stories/joel-osteen-explains-why-he-wont-talk-partisan-politics-plus-see-his-advice-for-obama-romney/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://politicalticker.blogs.cnn.com/2012/04/24/osteen-romney-is-a-christian/",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "But Osteen will weigh-in on the religiosity of the candidates. He caused a minor controversy among some Christians when he declared Mormonism, the religion of 2012 presidential candidate Mitt Romney, to be a Christian faith.",
       "sourceTitle": "Osteen: Romney is a Christian",
-      "text": "But Osteen will weigh-in on the religiosity of the candidates. He caused a minor controversy among some Christians when he declared Mormonism, the religion of 2012 presidential candidate Mitt Romney, to be a Christian faith."
+      "sourceUrl": "http://politicalticker.blogs.cnn.com/2012/04/24/osteen-romney-is-a-christian/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianpost.com/news/joel-osteen-says-obama-loves-the-lord-us-president-could-attend-church-more-frequently-63251/",
+      "type": "text",
+      "text": "And he said with confidence that Obama \"loves the Lord,\" though the president could go to church more often.",
+      "parentId": 16,
       "sourceTitle": "Joel Osteen Says Obama Loves the Lord, US President Could Attend Church More Frequently.",
-      "text": "And he said with confidence that Obama \"loves the Lord,\" though the president could go to church more often."
+      "sourceUrl": "http://www.christianpost.com/news/joel-osteen-says-obama-loves-the-lord-us-president-could-attend-church-more-frequently-63251/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "In April of 2012, Osteen offered the opening prayers at both the U.S. House of Representatives and the U.S. Senate. Among other things, he prayed:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://trailblazersblog.dallasnews.com/2012/04/at-senate-mega-pastor-joel-ost.html/",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "We thank you that these lawmakers serve with honor and integrity, that you will continue to bless this nation through them. Give them wisdom as they make good decisions, courage that they will hold fast to your truth, and compassion that all should prosper from their laws.",
       "sourceTitle": "At Senate, mega-pastor Joel Osteen prays for wisdom",
-      "text": "We thank you that these lawmakers serve with honor and integrity, that you will continue to bless this nation through them. Give them wisdom as they make good decisions, courage that they will hold fast to your truth, and compassion that all should prosper from their laws."
+      "sourceUrl": "http://trailblazersblog.dallasnews.com/2012/04/at-senate-mega-pastor-joel-ost.html/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "I think that would take an act of God."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

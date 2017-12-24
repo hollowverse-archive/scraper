@@ -33,102 +33,174 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Guillermo del Toro was born and raised in Guadalajara, Mexico."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Del Toro was raised a devout Catholic, but seems to have left that religion the first chance he got. He called Catholicism \"morbid\" and said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I mercifully lapsed as a Catholic.",
+      "sourceTitle": "Charlie Rose – A conversation with Guillermo del Toro",
+      "sourceUrl": "http://www.charlierose.com/view/interview/10441"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "What followed was a rather complicated journey with religion and even now, Del Toro waffles between agnosticism and atheism. He called himself an atheist",
+      "sourceTitle": "Charlie Rose – A conversation with Guillermo del Toro",
+      "sourceUrl": "http://www.charlierose.com/view/interview/10441"
+    },
+    {
+      "type": "text",
+      "text": "but has also said:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.charlierose.com/view/interview/10441",
-      "sourceTitle": "Charlie Rose – A conversation with Guillermo del Toro",
-      "text": "I mercifully lapsed as a Catholic."
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.charlierose.com/view/interview/10441",
-      "sourceTitle": "Charlie Rose – A conversation with Guillermo del Toro",
-      "text": "What followed was a rather complicated journey with religion and even now, Del Toro waffles between agnosticism and atheism. He called himself an atheist"
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
     },
     {
-      "type": "sentence",
-      "text": "but has also said:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://bigthink.com/ideas/24298",
+      "parentId": 7,
+      "type": "text",
+      "text": "I'm semi-agnostic. I believe that there are so many things that are entirely unknowable that it's better to abandon yourself to the wisdom of the universe, or its indifference… I have constructed my own sort of personal religion… [that] doesn't depend on a guy in the sky that I pray to, but it does depend on trying to be as good a person as I can be.",
       "sourceTitle": "Guillermo del Toro's Personal Religion",
-      "text": "I'm semi-agnostic. I believe that there are so many things that are entirely unknowable that it's better to abandon yourself to the wisdom of the universe, or its indifference… I have constructed my own sort of personal religion… [that] doesn't depend on a guy in the sky that I pray to, but it does depend on trying to be as good a person as I can be."
+      "sourceUrl": "http://bigthink.com/ideas/24298"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Regardless, Del Toro appears to be a deeply spiritual man, and it is reflected in his work. He has even explicitly compared his art to religion, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.teemingbrain.com/2011/08/25/guillermo-del-toro-on-art-religion-and-the-primal-power-of-darkness/",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "To me, art and story­telling serve primal, spiritual functions in my daily life.",
       "sourceTitle": "Guillermo del Toro on art, religion, and the primal power of darkness",
-      "text": "To me, art and story­telling serve primal, spiritual functions in my daily life."
+      "sourceUrl": "http://www.teemingbrain.com/2011/08/25/guillermo-del-toro-on-art-religion-and-the-primal-power-of-darkness/"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Non-politics politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://bigthink.com/ideas/24300",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Del Toro has indicated more than once that he identifies with the anarchist ideal. He has said that he \"hates politicians,\" that if we were to scan their brains, it would be 50% sex, 45% power, and a fraction of a percent dedicated to serving the public.",
       "sourceTitle": "Politicians Are Scarier Than Monsters",
-      "text": "Del Toro has indicated more than once that he identifies with the anarchist ideal. He has said that he \"hates politicians,\" that if we were to scan their brains, it would be 50% sex, 45% power, and a fraction of a percent dedicated to serving the public."
+      "sourceUrl": "http://bigthink.com/ideas/24300"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "The same sentiment extends to political and social institutions. Del Toro said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=_LcKqCPI2ew",
-      "sourceTitle": "Guillermo del Toro: \"I hate structure.\"",
-      "text": "I hate structure. I'm completely anti-structural in terms of believing in institutions. I hate them. I hate any institutionalized social, religious, or economic holding."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I hate structure. I'm completely anti-structural in terms of believing in institutions. I hate them. I hate any institutionalized social, religious, or economic holding.",
+      "sourceTitle": "Guillermo del Toro: \"I hate structure.\"",
+      "sourceUrl": "http://www.youtube.com/watch?v=_LcKqCPI2ew"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "And in his own, strangely gentle way, Del Toro convinces you that social upheaval might not be so bad. While admitting his anarchistic leanings, he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://bigthink.com/ideas/24300",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I think that when people talk about the collapse of society, there's an anarchist inside of me that kind of digs it. You know, I really… I'm very afraid of institutions. And especially the ones that do anything but what they were supposed to do.",
       "sourceTitle": "Politicians Are Scarier Than Monsters",
-      "text": "I think that when people talk about the collapse of society, there's an anarchist inside of me that kind of digs it. You know, I really… I'm very afraid of institutions. And especially the ones that do anything but what they were supposed to do."
+      "sourceUrl": "http://bigthink.com/ideas/24300"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "Del Toro is a complex man who operates unfettered by ideological frameworks. While this may appear to be confusion, it's perhaps the most rational approach to the subjective, interpretive nature of topics such as religion and politics."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

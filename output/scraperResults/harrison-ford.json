@@ -33,112 +33,196 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Harrison Ford was born in Chicago, Illinois."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "His father was of Irish-Catholic descent and his mother was Jewish. Ford seems to, at once, identify with neither–and both. He says:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://english.pravda.ru/history/18-11-2005/9253-celebrities-0/",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "[I am] Irish as a person but I feel Jewish as an actor.",
       "sourceTitle": "Ten American showbiz celebrities of Russian descent",
-      "text": "[I am] Irish as a person but I feel Jewish as an actor."
+      "sourceUrl": "http://english.pravda.ru/history/18-11-2005/9253-celebrities-0/"
     },
     {
-      "type": "sentence",
-      "text": "Ford doesn't seem very religious. Imagine Han Solo in . He wasn't too into \"the force\" and Indiana Jones was more interested in the historical value of the trinkets and mysteries he sought and less with their religious significance. These characters (though obviously not Harrison Ford) end up as accurate representations of the man who played them. Ford spoke of his Midwestern upbringing, saying:"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "text",
+      "text": "Ford doesn't seem very religious. Imagine Han Solo in"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Star Wars"
+    },
+    {
+      "type": "text",
+      "text": ". He wasn't too into \"the force\" and Indiana Jones was more interested in the historical value of the trinkets and mysteries he sought and less with their religious significance. These characters (though obviously not Harrison Ford) end up as accurate representations of the man who played them. Ford spoke of his Midwestern upbringing, saying:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.irishtimes.com/newspaper/theticket/2011/0819/1224302657898.html",
-      "sourceTitle": "'I've Had My Time.'",
-      "text": "We don't talk about religion or politics or how much money we make."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "We don't talk about religion or politics or how much money we make.",
+      "sourceTitle": "'I've Had My Time.'",
+      "sourceUrl": "http://www.irishtimes.com/newspaper/theticket/2011/0819/1224302657898.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "And when it comes to his religious upbringing, Ford defaults to politics. His family raised him a \"Democrat,\" not any conventional religion. He says:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.irishtimes.com/newspaper/theticket/2011/0819/1224302657898.html",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Instead we were given Democrat instruction; to be liberals of every stripe. I don't judge what other people do. At least I try not to ever judge what other people do unless they do it in my face.",
       "sourceTitle": "'I've Had My Time.'",
-      "text": "Instead we were given Democrat instruction; to be liberals of every stripe. I don't judge what other people do. At least I try not to ever judge what other people do unless they do it in my face."
+      "sourceUrl": "http://www.irishtimes.com/newspaper/theticket/2011/0819/1224302657898.html"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "What a nice transition to politics, eh?"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Ford hasn't given up on his liberal Democrat leanings, despite being an older man with a lot of money (which is usually enough to turn someone conservative). But instead saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 13
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.irishtimes.com/newspaper/theticket/2011/0819/1224302657898.html",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I've never been that interested in politics. Contrary to mythology I've never been a backdoor visitor to the White House. It's too big a job. With politics there's always an agenda and I don't think that way. I'll support someone but I don't want to meet them.",
       "sourceTitle": "'I've Had My Time.'",
-      "text": "I've never been that interested in politics. Contrary to mythology I've never been a backdoor visitor to the White House. It's too big a job. With politics there's always an agenda and I don't think that way. I'll support someone but I don't want to meet them."
+      "sourceUrl": "http://www.irishtimes.com/newspaper/theticket/2011/0819/1224302657898.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000148/bio",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "His actions speak otherwise. First of all, he's pals with Bill Clinton and plays golf with him regularly and he went to high school with Hillary.",
       "sourceTitle": "Harrison Ford",
-      "text": "His actions speak otherwise. First of all, he's pals with Bill Clinton and plays golf with him regularly and he went to high school with Hillary."
+      "sourceUrl": "http://www.imdb.com/name/nm0000148/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://dalailamafilm.com/celebrities-and-others-banned-from-entering-tibet-or-china-109",
+      "type": "text",
+      "text": "Second of all, he testified before the U.S. Senate Foreign Relations Committee, condemning China for taking over Tibet and was handed down a lifetime ban of entering China.",
+      "parentId": 15,
       "sourceTitle": "Celebrities and others banned from entering Tibet or China",
-      "text": "Second of all, he testified before the U.S. Senate Foreign Relations Committee, condemning China for taking over Tibet and was handed down a lifetime ban of entering China."
+      "sourceUrl": "http://dalailamafilm.com/celebrities-and-others-banned-from-entering-tibet-or-china-109"
     },
     {
-      "type": "sentence",
-      "text": "Lastly, he was very critical and outspoken about the U.S.'s involvement in Iraq, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Lastly, he was very critical and outspoken about the U.S.'s involvement in Iraq, saying:",
+      "parentId": 15
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.theage.com.au/articles/2003/08/27/1061663852052.html",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I don't think military intervention is the correct solution. I regret what we as a country have done so far.",
       "sourceTitle": "Harrison Ford blasts US Iraq policy",
-      "text": "I don't think military intervention is the correct solution. I regret what we as a country have done so far."
+      "sourceUrl": "http://www.theage.com.au/articles/2003/08/27/1061663852052.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000148/bio",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Ford called for a \"regime change\" in the U.S. at the time.",
       "sourceTitle": "Harrison Ford",
-      "text": "Ford called for a \"regime change\" in the U.S. at the time."
+      "sourceUrl": "http://www.imdb.com/name/nm0000148/bio"
     },
     {
-      "type": "sentence",
-      "text": "That's about as anti-Bush as it gets."
+      "type": "text",
+      "text": "That's about as anti-Bush as it gets.",
+      "parentId": 18
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
+      "parentId": 19,
+      "type": "text",
       "text": "But certainly, this doesn't sound like someone who's detached and disinterested."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

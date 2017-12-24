@@ -31,71 +31,96 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Thierry Henry was born and raised in Les Ulis, a suburb of Paris, France."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://in.answers.yahoo.com/question/index?qid=20061223210357AAUrMRw",
+      "parentId": 2,
+      "type": "text",
+      "text": "Henry is a tough one, mostly because he speaks French and I don't. Many people think he's Catholic,",
       "sourceTitle": "I need to know Is Thierry Henry Muslim????",
-      "text": "Henry is a tough one, mostly because he speaks French and I don't. Many people think he's Catholic,"
+      "sourceUrl": "http://in.answers.yahoo.com/question/index?qid=20061223210357AAUrMRw"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.umt.edu/ip/countries/f_antilles.html",
+      "type": "text",
+      "text": "not because of anything he's said, but presumably because his parents are from the French Antilles, where the vast majority of the population are Catholic.",
+      "parentId": 2,
       "sourceTitle": "French Antilles – International Programs.",
-      "text": "not because of anything he's said, but presumably because his parents are from the French Antilles, where the vast majority of the population are Catholic."
+      "sourceUrl": "http://www.umt.edu/ip/countries/f_antilles.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ummah.com/forum/showthread.php?244222-Is-Thierry-Henry-a-Muslim-now",
+      "parentId": 3,
+      "type": "text",
+      "text": "The only information I could find about Henry's own thoughts on religion are from a video that, as far as I could tell, has not been translated into English by a reputable news source. From the several translations I did find, it doesn't seem like he has converted to Islam as many suggest. Rather, he says that he feels closer to Islam than any other religion, that he respects his Muslim friends, and that if he were to convert to a religion, it would be Islam.",
       "sourceTitle": "Is Thierry Henry a Muslim now?",
-      "text": "The only information I could find about Henry's own thoughts on religion are from a video that, as far as I could tell, has not been translated into English by a reputable news source. From the several translations I did find, it doesn't seem like he has converted to Islam as many suggest. Rather, he says that he feels closer to Islam than any other religion, that he respects his Muslim friends, and that if he were to convert to a religion, it would be Islam."
+      "sourceUrl": "http://www.ummah.com/forum/showthread.php?244222-Is-Thierry-Henry-a-Muslim-now"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "That video seems to suggest that Thierry is non-religious for the time being, but it doesn't look like a conversion to Islam is out of the question in the future. Keep us updated in the comments."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2012/03/15/opinion/mr-sarkozy-on-the-low-road.html",
+      "parentId": 5,
+      "type": "text",
+      "text": "Info on Henry's political affiliations are equally sparse. He met with former French President Nicolas Sarkozy to talk about the French football team's embarrassing performance at the 2010 World Cup, but details of the private meeting never surfaced. Coming from a family of immigrants however, it wouldn't be a surprise if Henry didn't think too highly of the president's politics, and particularly his stance on immigration.",
       "sourceTitle": "Mr. Sarkozy on the Low Road",
-      "text": "Info on Henry's political affiliations are equally sparse. He met with former French President Nicolas Sarkozy to talk about the French football team's embarrassing performance at the 2010 World Cup, but details of the private meeting never surfaced. Coming from a family of immigrants however, it wouldn't be a surprise if Henry didn't think too highly of the president's politics, and particularly his stance on immigration."
+      "sourceUrl": "http://www.nytimes.com/2012/03/15/opinion/mr-sarkozy-on-the-low-road.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "I couldn't find any endorsement of François Hollande, Sarkozy's opponent in the 2012 presidential election, either. Maybe that's because his opinion of politics hasn't changed much since he was a kid. He said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/t/thierry_henry.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I have to say that when I was young, when any politician was talking I wasn't even interested. Maybe they were saying some nice stuff, but then if you put Michael Jordan on TV, I was interested!",
       "sourceTitle": "Thierry Henry Quotes.",
-      "text": "I have to say that when I was young, when any politician was talking I wasn't even interested. Maybe they were saying some nice stuff, but then if you put Michael Jordan on TV, I was interested!"
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/t/thierry_henry.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Non-political it is."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

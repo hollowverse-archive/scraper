@@ -35,102 +35,147 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jordin Sparks was born and raised in Phoenix, Arizona and grew up there and in Ridgewood, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.worldmag.com/2007/06/sparks_fly/page1",
+      "parentId": 2,
+      "type": "text",
+      "text": "Christianity was central to Sparks' identity from a young age. She sang at various Christian functions, was incredibly involved in her evangelical church, and earned runner-up at a regional competition for aspiring Christian artists.",
       "sourceTitle": "Sparks Fly.",
-      "text": "Christianity was central to Sparks' identity from a young age. She sang at various Christian functions, was incredibly involved in her evangelical church, and earned runner-up at a regional competition for aspiring Christian artists."
+      "sourceUrl": "http://www.worldmag.com/2007/06/sparks_fly/page1"
     },
     {
-      "type": "sentence",
-      "text": "During her American Idol days, she was very vocal about her faith. She said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "During her American Idol days, she was very vocal about her faith. She said,",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.crossrhythms.co.uk/articles/music/Jordin_Sparks_American_Idol_pop_star_grounded_in_faith_and_family/35798/p1/",
-      "sourceTitle": "Jordin Sparks: American Idol pop star grounded in faith and family.",
-      "text": "I definitely recognize that I have a God-given talent. I have a sense of inner peace, I know God gave me this wonderful voice and I feel that what he needs me to do is share it with others."
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.crossrhythms.co.uk/articles/music/Jordin_Sparks_American_Idol_pop_star_grounded_in_faith_and_family/35798/p1/",
-      "sourceTitle": "Jordin Sparks: American Idol pop star grounded in faith and family.",
-      "text": "She makes a point of being modest and not letting the music industry exploit her sexuality for profits."
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.starpulse.com/news/index.php/2012/01/30/jordin_sparks_considers_dropping_purit",
+      "parentId": 4,
+      "type": "text",
+      "text": "I definitely recognize that I have a God-given talent. I have a sense of inner peace, I know God gave me this wonderful voice and I feel that what he needs me to do is share it with others.",
+      "sourceTitle": "Jordin Sparks: American Idol pop star grounded in faith and family.",
+      "sourceUrl": "http://www.crossrhythms.co.uk/articles/music/Jordin_Sparks_American_Idol_pop_star_grounded_in_faith_and_family/35798/p1/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "She makes a point of being modest and not letting the music industry exploit her sexuality for profits.",
+      "sourceTitle": "Jordin Sparks: American Idol pop star grounded in faith and family.",
+      "sourceUrl": "http://www.crossrhythms.co.uk/articles/music/Jordin_Sparks_American_Idol_pop_star_grounded_in_faith_and_family/35798/p1/"
+    },
+    {
+      "type": "text",
+      "text": "And she wears a purity ring as a pledge to remain a virgin until marriage, although she hasn't been quite as convinced it's necessary since her relationship with Jason Derulo got serious.",
+      "parentId": 5,
       "sourceTitle": "Jordin Sparks Considers Dropping Purity Ring For New Boyfriend Jason Derulo.",
-      "text": "And she wears a purity ring as a pledge to remain a virgin until marriage, although she hasn't been quite as convinced it's necessary since her relationship with Jason Derulo got serious."
+      "sourceUrl": "http://www.starpulse.com/news/index.php/2012/01/30/jordin_sparks_considers_dropping_purit"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "But purity ring aside, Sparks' Christian faith seems to inform just about every aspect of her life from her career to relationships to politics."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Obama is President; Jesus is King"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lifenews.com/2007/05/25/nat-3151/",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "The political position that has garnered Sparks the most press is her pro-life stance. She has performed at pro-life rallies and posted a picture on her MySpace page of her at a National Right to Life Rally holding a sign that says, \"Stop Abortion Now.\"",
       "sourceTitle": "American Idol Winner Jordin Sparks a Pro-Life Advocate, Opposes Abortion.",
-      "text": "The political position that has garnered Sparks the most press is her pro-life stance. She has performed at pro-life rallies and posted a picture on her MySpace page of her at a National Right to Life Rally holding a sign that says, \"Stop Abortion Now.\""
+      "sourceUrl": "http://www.lifenews.com/2007/05/25/nat-3151/"
     },
     {
-      "type": "sentence",
-      "text": "She doesn't seem to want to talk about it much, or maybe her PR people tell her to avoid the controversial topic, so we don't have any quotes from her about it. But it seems apparent that her religious beliefs are the backbone of her pro-life stance."
+      "type": "text",
+      "text": "She doesn't seem to want to talk about it much, or maybe her PR people tell her to avoid the controversial topic, so we don't have any quotes from her about it. But it seems apparent that her religious beliefs are the backbone of her pro-life stance.",
+      "parentId": 8
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Just because she's pro-life, however, doesn't mean she's a conservative. In fact, she appears to be a Democrat. After Barack Obama won his second term as president she tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.wetpaint.com/american-idol/articles/american-idol-stars-react-to-president-obamas-re-election",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Congrats 2 our President! What a race! Lets unite, work together & be one again! No matter who is President, Jesus is King!",
       "sourceTitle": "American Idol Stars React to President Obama's Re-Election.",
-      "text": "Congrats 2 our President! What a race! Lets unite, work together & be one again! No matter who is President, Jesus is King!"
+      "sourceUrl": "http://www.wetpaint.com/american-idol/articles/american-idol-stars-react-to-president-obamas-re-election"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dallasvoice.com/gay-interview-jordin-sparks-10123847.html",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "There's religion popping up again. It shows up in her conservative views just as much as her liberal ones–like her view of gay people. When she talks about how she's always been accepting of her gay friends, she says she was \"raised to love everybody.\"",
       "sourceTitle": "The gay interview: Jordin Sparks.",
-      "text": "There's religion popping up again. It shows up in her conservative views just as much as her liberal ones–like her view of gay people. When she talks about how she's always been accepting of her gay friends, she says she was \"raised to love everybody.\""
+      "sourceUrl": "http://www.dallasvoice.com/gay-interview-jordin-sparks-10123847.html"
     },
     {
-      "type": "sentence",
-      "text": "Considering she was raised in the church, I'm assuming that's something about which her religious brethren also agree. She hasn't explicitly come out in favor of gay marriage though, which may or may not belie a conservative religious view of marriage."
+      "type": "text",
+      "text": "Considering she was raised in the church, I'm assuming that's something about which her religious brethren also agree. She hasn't explicitly come out in favor of gay marriage though, which may or may not belie a conservative religious view of marriage.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "So in the end I suppose we'll call Sparks a pro-life Evangelical Christian Democrat. You don't come across those every day. Or do you?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

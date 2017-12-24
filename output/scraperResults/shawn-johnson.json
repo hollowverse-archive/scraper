@@ -32,101 +32,170 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "text": "Johnson is a Christian. She speaks about it quite a bit in her book, . In it, Johnson admits to being poorly affected by body image and disappointment in winning the silver medal in the 2008 Olympics. But it was her faith that got her through it. She wrote:"
+      "parentId": 1,
+      "type": "text",
+      "text": "Shawn Johnson was born and raised in Des Moines, Iowa."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Johnson is a Christian. She speaks about it quite a bit in her book,"
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "Winning Balance: What I've Learned So Far About Love, Faith and Living Your Dreams"
+    },
+    {
+      "type": "text",
+      "text": ". In it, Johnson admits to being poorly affected by body image and disappointment in winning the silver medal in the 2008 Olympics. But it was her faith that got her through it. She wrote:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.christianpost.com/news/olympic-medalist-shawn-johnson-christian-faith-winning-balance-book-78206/",
-      "sourceTitle": "Olympic Medalist Shawn Johnson Talks About Faith in 'Winning Balance' Memoir",
-      "text": "God created you in his image; that is where your worth comes from."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "God created you in his image; that is where your worth comes from.",
+      "sourceTitle": "Olympic Medalist Shawn Johnson Talks About Faith in 'Winning Balance' Memoir",
+      "sourceUrl": "http://www.christianpost.com/news/olympic-medalist-shawn-johnson-christian-faith-winning-balance-book-78206/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "She went on to explain in more detail in the many interviews that followed the release of her book. For example:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.christianpost.com/news/olympic-medalist-shawn-johnson-christian-faith-winning-balance-book-78206/",
-      "sourceTitle": "Olympic Medalist Shawn Johnson Talks About Faith in 'Winning Balance' Memoir",
-      "text": "You know, if you make one thing too big, as soon as it's taken away from you or something doesn't go as you planned it, instead of being like 'Oh, poor me,' I've found a greater reason for why. It was always: everything happens for a reason under Him."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "You know, if you make one thing too big, as soon as it's taken away from you or something doesn't go as you planned it, instead of being like 'Oh, poor me,' I've found a greater reason for why. It was always: everything happens for a reason under Him.",
+      "sourceTitle": "Olympic Medalist Shawn Johnson Talks About Faith in 'Winning Balance' Memoir",
+      "sourceUrl": "http://www.christianpost.com/news/olympic-medalist-shawn-johnson-christian-faith-winning-balance-book-78206/"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Johnson seems like a classic sweet, religious Midwestern girl and a quintessential role model."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "15 Minutes of Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "The fame that came with a champion Olympic athlete during an election year directed a lot of political attention toward Johnson. The question is: to which side of the aisle did she give her endorsement?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=O6DfZsjV-dc",
+      "parentId": 11,
+      "type": "text",
+      "text": "As it turns out, it was the Democrats. Much like her fellow U.S. Olympic gymnast, Gabby Douglas in 2012, Johnson led the crowd at the 2008 Democratic National Convention in the Pledge of Allegiance.",
       "sourceTitle": "Shawn Johnson Democratic National Convention",
-      "text": "As it turns out, it was the Democrats. Much like her fellow U.S. Olympic gymnast, Gabby Douglas in 2012, Johnson led the crowd at the 2008 Democratic National Convention in the Pledge of Allegiance."
+      "sourceUrl": "http://www.youtube.com/watch?v=O6DfZsjV-dc"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://washingtonexaminer.com/shawn-johnson-rush-limbaugh-was-great-miss-america-judge/article/702651#.UKx0jIXJCBg",
+      "parentId": 12,
+      "type": "text",
+      "text": "On the occasion she sides with politicians, it seems to usually be with Democrats. For example, she teamed up with Iowa Democratic U.S. Representative Bruce Braley to pass a fitness bill",
       "sourceTitle": "Shawn Johnson: Rush Limbaugh was great Miss America Judge",
-      "text": "On the occasion she sides with politicians, it seems to usually be with Democrats. For example, she teamed up with Iowa Democratic U.S. Representative Bruce Braley to pass a fitness bill"
+      "sourceUrl": "http://washingtonexaminer.com/shawn-johnson-rush-limbaugh-was-great-miss-america-judge/article/702651#.UKx0jIXJCBg"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://braley.house.gov/press-release/braley-introduces-shawn-johnson-fitness-life-act",
+      "type": "text",
+      "text": "that introduced new technologies to Iowa schools to fight childhood obesity and encourage physical fitness.",
+      "parentId": 12,
       "sourceTitle": "Braley Introduces Shawn Johnson Fitness for Life Act",
-      "text": "that introduced new technologies to Iowa schools to fight childhood obesity and encourage physical fitness."
+      "sourceUrl": "http://braley.house.gov/press-release/braley-introduces-shawn-johnson-fitness-life-act"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://washingtonexaminer.com/shawn-johnson-rush-limbaugh-was-great-miss-america-judge/article/702651#.UKx0jIXJCBg",
+      "parentId": 13,
+      "type": "text",
+      "text": "But she did encounter conservative pundit Rush Limbaugh at the Miss America pageant and didn't have anything bad to say about him–in fact she was quite complimentary.",
       "sourceTitle": "Shawn Johnson: Rush Limbaugh was great Miss America Judge",
-      "text": "But she did encounter conservative pundit Rush Limbaugh at the Miss America pageant and didn't have anything bad to say about him–in fact she was quite complimentary."
+      "sourceUrl": "http://washingtonexaminer.com/shawn-johnson-rush-limbaugh-was-great-miss-america-judge/article/702651#.UKx0jIXJCBg"
     },
     {
-      "type": "sentence",
-      "text": "That's not something any self-respecting liberal would ever do."
+      "type": "text",
+      "text": "That's not something any self-respecting liberal would ever do.",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "Perhaps her views could be best summed up by her answer to the question if she would ever consider going into politics. She said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 15
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://washingtonexaminer.com/shawn-johnson-rush-limbaugh-was-great-miss-america-judge/article/702651#.UKx0jIXJCBg",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "I don't know if I ever could. I don't know if I have a strong enough stance. I'm one of those who sees both sides.",
       "sourceTitle": "Shawn Johnson: Rush Limbaugh was great Miss America Judge",
-      "text": "I don't know if I ever could. I don't know if I have a strong enough stance. I'm one of those who sees both sides."
+      "sourceUrl": "http://washingtonexaminer.com/shawn-johnson-rush-limbaugh-was-great-miss-america-judge/article/702651#.UKx0jIXJCBg"
     }
   ],
   "wikipediaData": {

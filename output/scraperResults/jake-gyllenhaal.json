@@ -30,69 +30,79 @@
   "author": "Gavin Crawford",
   "content": [
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=741",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
+      "text": "Gyllenhaal hasn't discussed religion much, but he's officially Jewish and says that he is \"more Jewish than anything else\"",
       "sourceTitle": "Jake Gyllenhaal",
-      "text": "Gyllenhaal hasn't discussed religion much, but he's officially Jewish and says that he is \"more Jewish than anything else\""
+      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=741"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Jake_Gyllenhaal",
+      "type": "text",
+      "text": ", having grown up in a Jewish household. However, Jake Gyllenhaal associated himself with Buddhist practices but has said, \"I am not a card-carrying Buddhist, but I do try to practice mindfulness\" and it is his goal to meditate every day",
+      "parentId": 1,
       "sourceTitle": "Jake Gyllenhaal",
-      "text": ", having grown up in a Jewish household. However, Jake Gyllenhaal associated himself with Buddhist practices but has said, \"I am not a card-carrying Buddhist, but I do try to practice mindfulness\" and it is his goal to meditate every day"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Jake_Gyllenhaal"
     },
     {
-      "type": "sentence",
-      "text": "."
+      "type": "text",
+      "text": ".",
+      "parentId": 1
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Politically, he's much more vocal."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Gyllenhaal has promoted various political and social causes. He has appeared in Rock the Vote advertising, campaigned for the Democratic Party in the 2004 U.S. presidential election, promoted environmental causes, and campaigned on behalf of the American Civil Liberties Union."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2005/04/25/AR2005042501579.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "Environmentally conscious, he recycles regularly. After filming The Day After Tomorrow, he flew to the Arctic to promote awareness of climate change.",
       "sourceTitle": "Ice Crusade",
-      "text": "Environmentally conscious, he recycles regularly. After filming The Day After Tomorrow, he flew to the Arctic to promote awareness of climate change."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2005/04/25/AR2005042501579.html"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Jake_Gyllenhaal",
     "title": "Jake Gyllenhaal",
     "image": {
-      "name": "SXSW_2016_-_A_Conversation_with_Jake_Gyllenhaal_(25754491635)_(cropped).jpg",
+      "name": "Jake_Gyllenhaal_Cannes_2017.jpg",
       "info": {
-        "canonicaltitle": "File:SXSW 2016 - A Conversation with Jake Gyllenhaal (25754491635) (cropped).jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/SXSW_2016_-_A_Conversation_with_Jake_Gyllenhaal_%2825754491635%29_%28cropped%29.jpg/199px-SXSW_2016_-_A_Conversation_with_Jake_Gyllenhaal_%2825754491635%29_%28cropped%29.jpg",
-        "thumbwidth": 199,
+        "canonicaltitle": "File:Jake Gyllenhaal Cannes 2017.jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Jake_Gyllenhaal_Cannes_2017.jpg/212px-Jake_Gyllenhaal_Cannes_2017.jpg",
+        "thumbwidth": 212,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/SXSW_2016_-_A_Conversation_with_Jake_Gyllenhaal_%2825754491635%29_%28cropped%29.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:SXSW_2016_-_A_Conversation_with_Jake_Gyllenhaal_(25754491635)_(cropped).jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63789344",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Jake_Gyllenhaal_Cannes_2017.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jake_Gyllenhaal_Cannes_2017.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=59614492",
         "extmetadata": {
           "DateTime": {
-            "value": "2017-11-01 15:02:02",
+            "value": "2017-06-05 11:42:25",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "SXSW 2016 - A Conversation with Jake Gyllenhaal (25754491635) (cropped)",
+            "value": "Jake Gyllenhaal Cannes 2017",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -102,7 +112,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Extracted images|Jake Gyllenhaal in 2016|South by Southwest 2016",
+            "value": "2017 Cannes Film Festival|Images by Georges Biard|Items with OTRS permission confirmed|Jake Gyllenhaal in 2017|Okja|Personality rights warning|Self-published work",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -112,29 +122,34 @@
             "hidden": ""
           },
           "ImageDescription": {
-            "value": "<p><a href=\"https://en.wikipedia.org/wiki/Jake_Gyllenhaal\" class=\"extiw\" title=\"w:Jake Gyllenhaal\">Jake Gyllenhaal</a> being interviewed on stage.<br>\nTaken at <a href=\"https://en.wikipedia.org/wiki/SXSW_2016\" class=\"extiw\" title=\"w:SXSW 2016\">SXSW 2016</a>.</p>",
+            "value": "Jake Gyllenhaal au festival de Cannes",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "2016-03-12 02:00",
+            "value": "2017-05-18",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/relevantwriter/25754491635/\">IMG_5753</a>",
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/52309209@N02\">Daniel Benavides</a> from Austin, TX",
+            "value": "Georges Biard",
             "source": "commons-desc-page"
           },
+          "Permission": {
+            "value": "<table class=\"messagebox layouttemplate\" style=\"margin:0.3em 0;width:100%;direction:ltr\"><tr>\n<td width=\"70\">\n<img alt=\"OTRS Wikimedia\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/70px-OTRS_Wikimedia.svg.png\" title=\"OTRS Wikimedia\" width=\"70\" height=\"38\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/105px-OTRS_Wikimedia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/140px-OTRS_Wikimedia.svg.png 2x\" data-file-width=\"120\" data-file-height=\"65\"><p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionOTRS 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2017060510016021 2%3D2017060510016021\"> </span></p>\n</td>\n<td>\n<span lang=\"en\" class=\"description en\">This work is <a href=\"http://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.</span>\n<p><span lang=\"en\" class=\"description en\">Wikimedia has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;\" title=\"transparent\">reviewed</span></b> by an <a href=\"//commons.wikimedia.org/wiki/Category:Commons_OTRS_volunteers\" title=\"Category:Commons OTRS volunteers\">OTRS member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:OTRS\" title=\"Commons:OTRS\">permission archive</a>. The correspondence is available to trusted volunteers <span class=\"plainlinksneverexpand\">as <b><a class=\"external text\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2017060510016021\">ticket #2017060510016021</a></b></span>.</span></p>\n<p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:OTRS/Noticeboard\" title=\"Commons:OTRS/Noticeboard\">OTRS noticeboard</a>.</small><br><small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2017060510016021\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2017060510016021</a></small> <span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2017060510016021\"></span></p>\n</td>\n</tr></table>\n<span class=\"autoconfonly\" id=\"otrstemplatewr\" style=\"display:none;\"></span>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
           "LicenseShortName": {
-            "value": "CC BY 2.0",
+            "value": "CC BY-SA 3.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "UsageTerms": {
-            "value": "Creative Commons Attribution 2.0",
+            "value": "Creative Commons Attribution-Share Alike 3.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -143,8 +158,13 @@
             "source": "commons-desc-page",
             "hidden": ""
           },
+          "Attribution": {
+            "value": "Georges Biard",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
           "LicenseUrl": {
-            "value": "http://creativecommons.org/licenses/by/2.0",
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -154,12 +174,12 @@
             "hidden": ""
           },
           "Restrictions": {
-            "value": "",
+            "value": "personality",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "License": {
-            "value": "cc-by-2.0",
+            "value": "cc-by-sa-3.0",
             "source": "commons-templates",
             "hidden": ""
           }

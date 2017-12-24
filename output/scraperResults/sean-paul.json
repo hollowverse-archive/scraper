@@ -34,129 +34,210 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sean Paul, whose real name is Sean Paul Ryan Francis Henriques, was born and raised in Kingston, Jamaica."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ynetnews.com/articles/0,7340,L-3415733,00.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Paul has diverse religious roots. While many speculate that this Jamaican musician might be into Rastafari,",
       "sourceTitle": "A Yiddisher Rasta Man",
-      "text": "Paul has diverse religious roots. While many speculate that this Jamaican musician might be into Rastafari,"
+      "sourceUrl": "http://www.ynetnews.com/articles/0,7340,L-3415733,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.somethingjewish.co.uk/articles/813_sean_paul.htm",
+      "type": "text",
+      "text": "there doesn't seem to be any evidence for that. His grandfather's family is Jewish, originally hailing from Portugal",
+      "parentId": 2,
       "sourceTitle": "Sean Paul",
-      "text": "there doesn't seem to be any evidence for that. His grandfather's family is Jewish, originally hailing from Portugal"
+      "sourceUrl": "http://www.somethingjewish.co.uk/articles/813_sean_paul.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ynet.co.il/Ext/Comp/ArticleLayout/CdaArticlePrintPreview/1,2506,L-3415733,00.html",
+      "type": "text",
+      "text": "and his grandfather even spent time in a Nazi prison camp during World War II.",
+      "parentId": 2,
       "sourceTitle": "A Yiddisher Rasta Man",
-      "text": "and his grandfather even spent time in a Nazi prison camp during World War II."
+      "sourceUrl": "http://www.ynet.co.il/Ext/Comp/ArticleLayout/CdaArticlePrintPreview/1,2506,L-3415733,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ynet.co.il/Ext/Comp/ArticleLayout/CdaArticlePrintPreview/1,2506,L-3415733,00.html",
+      "type": "text",
+      "text": "Paul said that that part of his family is \"one of the biggest Jewish families on the island.\"",
+      "parentId": 2,
       "sourceTitle": "A Yiddisher Rasta Man",
-      "text": "Paul said that that part of his family is \"one of the biggest Jewish families on the island.\""
+      "sourceUrl": "http://www.ynet.co.il/Ext/Comp/ArticleLayout/CdaArticlePrintPreview/1,2506,L-3415733,00.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ynet.co.il/Ext/Comp/ArticleLayout/CdaArticlePrintPreview/1,2506,L-3415733,00.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "But Judaism was not a powerful force in Paul's life growing up. In fact, he was raised a Catholic.",
       "sourceTitle": "A Yiddisher Rasta Man",
-      "text": "But Judaism was not a powerful force in Paul's life growing up. In fact, he was raised a Catholic."
+      "sourceUrl": "http://www.ynet.co.il/Ext/Comp/ArticleLayout/CdaArticlePrintPreview/1,2506,L-3415733,00.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "It is unclear if Sean Paul was ever devout–or if he is a devout Catholic today. He seems like a relatively secular person who enjoys music with a strong beat and staying positive. Perhaps the faith in what a good attitude can bring you is Paul's religion. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 5
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/s/sean_paul_2.html",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "With everything that's thrown at you, whether it be problems at home, problems at work – whatever – basically, if you remain positive, you can see your way out of that.",
       "sourceTitle": "Sean Paul Quotes",
-      "text": "With everything that's thrown at you, whether it be problems at home, problems at work – whatever – basically, if you remain positive, you can see your way out of that."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/s/sean_paul_2.html"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Unintelligible politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Paul's music doesn't really lend itself to poignant political commentary–and he knows it. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.mtv.com/news/articles/1515192/sean-paul-has-serious-message.jhtml",
-      "sourceTitle": "Sean Paul Has A Serious Message–And Another Hot Video",
-      "text": "I know some very political people who rap, and they say very political things and they'll never get a deal. I think it's just because people don't see money in it, and they're afraid sometimes [of] the truth these kids are saying."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I know some very political people who rap, and they say very political things and they'll never get a deal. I think it's just because people don't see money in it, and they're afraid sometimes [of] the truth these kids are saying.",
+      "sourceTitle": "Sean Paul Has A Serious Message–And Another Hot Video",
+      "sourceUrl": "http://www.mtv.com/news/articles/1515192/sean-paul-has-serious-message.jhtml"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "But he has occasionally allowed a bit of politics to poke its head out in his music. His song \"Time Rolls On\" (which might have never actually been released) is Paul's first attempt at being political, with lyrics like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.mtv.com/news/articles/1515192/sean-paul-has-serious-message.jhtml",
-      "sourceTitle": "Sean Paul Has A Serious Message–And Another Hot Video",
-      "text": "Muslim and Christian, Buddhist and Hindu, Rastafari and Jew/Will we ever share one God?/Bloods and the Crips, all these poli-tricks, the blood is on your hands."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Muslim and Christian, Buddhist and Hindu, Rastafari and Jew/Will we ever share one God?/Bloods and the Crips, all these poli-tricks, the blood is on your hands.",
+      "sourceTitle": "Sean Paul Has A Serious Message–And Another Hot Video",
+      "sourceUrl": "http://www.mtv.com/news/articles/1515192/sean-paul-has-serious-message.jhtml"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Though a Jamaican citizen, Paul seems to have some love for American president Barack Obama. He gave a shout-out to the POTUS, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "You the man doggie!",
+      "sourceTitle": "Sean Paul to President Obama: You The Man!\"",
+      "sourceUrl": "http://www.dosomething.org/blog/celebsgonegood/sean-paul-pres-obama-you-man"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "But he hasn't forgotten about his home-island of Jamaica. Paul helps children's charities and hospitals in his homeland",
+      "sourceTitle": "Sean Paul to President Obama: You The Man!\"",
+      "sourceUrl": "http://www.dosomething.org/blog/celebsgonegood/sean-paul-pres-obama-you-man"
+    },
+    {
+      "type": "text",
+      "text": "and is concerned about corruption and its affects. He said:",
+      "parentId": 18
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.dosomething.org/blog/celebsgonegood/sean-paul-pres-obama-you-man",
-      "sourceTitle": "Sean Paul to President Obama: You The Man!\"",
-      "text": "You the man doggie!"
+      "id": 19
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dosomething.org/blog/celebsgonegood/sean-paul-pres-obama-you-man",
-      "sourceTitle": "Sean Paul to President Obama: You The Man!\"",
-      "text": "But he hasn't forgotten about his home-island of Jamaica. Paul helps children's charities and hospitals in his homeland"
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
     },
     {
-      "type": "sentence",
-      "text": "and is concerned about corruption and its affects. He said:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://articles.cnn.com/2006-03-29/travel/Kingston.qa_1_dance-hall-bob-marley-music-genre/2?_s=PM:TRAVEL",
+      "parentId": 20,
+      "type": "text",
+      "text": "We have a problem with a brain drain. A lot of smart people who have the brainpower to lead this country out of the corruption it is in go to school and go away. I wish to bring enough awareness about Jamaica and the country that the people who moved away feel proud to want to come back and help to build.",
       "sourceTitle": "Q & A: Sean Paul",
-      "text": "We have a problem with a brain drain. A lot of smart people who have the brainpower to lead this country out of the corruption it is in go to school and go away. I wish to bring enough awareness about Jamaica and the country that the people who moved away feel proud to want to come back and help to build."
+      "sourceUrl": "http://articles.cnn.com/2006-03-29/travel/Kingston.qa_1_dance-hall-bob-marley-music-genre/2?_s=PM:TRAVEL"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "Building Jamaica, one dance floor at a time."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

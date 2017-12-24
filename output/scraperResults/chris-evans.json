@@ -33,100 +33,172 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Chris Evans was born and raised in Sudbury, Massachusetts."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Evans is a Catholic and was raised in a devout household, though he insists it wasn't forced upon him. He is not devoted to Catholicism anymore, however, and prefers science to religion, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.indielondon.co.uk/Film-Review/sunshine-chris-evans-interview",
-      "sourceTitle": "Chris Evans Interview",
-      "text": "I believe in science. I believe in evolution. I don't necessarily believe in god, at least not the man with the beard and robes and things like that. God can be whatever you want it to be… it's the universe, the thing that connects all of us, this innate energy that's in the air, animals, trees, that's God."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I believe in science. I believe in evolution. I don't necessarily believe in god, at least not the man with the beard and robes and things like that. God can be whatever you want it to be… it's the universe, the thing that connects all of us, this innate energy that's in the air, animals, trees, that's God.",
+      "sourceTitle": "Chris Evans Interview",
+      "sourceUrl": "http://www.indielondon.co.uk/Film-Review/sunshine-chris-evans-interview"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Those are markedly pantheistic views. And his love of nature supports his spiritual respect for the physical world. He has said that he wouldn't mind living in the forest and even admits to some kind of ritualistic, perhaps spiritual, behavior when surrounded by nature, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/04/12/avengers-chris-evans-cries-details-magazine_n_1421730.html",
-      "sourceTitle": "'Avengers' Star Chris Evans 'Weeps At Everything,' 'Wants To Live In The Woods.'",
-      "text": "I swear to God, if you saw me when I am by myself in the woods, I'm a lunatic. I sing, I dance. I do crazy shit."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I swear to God, if you saw me when I am by myself in the woods, I'm a lunatic. I sing, I dance. I do crazy shit.",
+      "sourceTitle": "'Avengers' Star Chris Evans 'Weeps At Everything,' 'Wants To Live In The Woods.'",
+      "sourceUrl": "http://www.huffingtonpost.com/2012/04/12/avengers-chris-evans-cries-details-magazine_n_1421730.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "I think I would like to see that."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "A long way left of center"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Evans is outspoken about his political views, but not in such a way that he's annoying. He's just the kind of celebrity who doesn't deflect personal questions. He answers direct questions directly. For example, when he was asked about his position on gay marriage, he said matter-of-factly:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 11
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/04/21/chris-evans-on-gay-marriage_n_1442704.html",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "It's insane that civil rights are being denied people in this day and age. It's embarrassing, and it's heartbreaking. It goes without saying that I'm completely in support of gay marriage. In 10 years we'll be ashamed that this was an issue.",
       "sourceTitle": "Chris Evans On Gay Marriage: 'In 10 Years We'll Be Ashamed This Was An Issue",
-      "text": "It's insane that civil rights are being denied people in this day and age. It's embarrassing, and it's heartbreaking. It goes without saying that I'm completely in support of gay marriage. In 10 years we'll be ashamed that this was an issue."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/04/21/chris-evans-on-gay-marriage_n_1442704.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0262635/bio",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Progress marches forward, right? Evans is \"of the Democratic mindset\" and he is the nephew of a Democratic Congressman, so you know it runs in the family.",
       "sourceTitle": "Chris Evans (V) – Biography",
-      "text": "Progress marches forward, right? Evans is \"of the Democratic mindset\" and he is the nephew of a Democratic Congressman, so you know it runs in the family."
+      "sourceUrl": "http://www.imdb.com/name/nm0262635/bio"
     },
     {
-      "type": "sentence",
-      "text": "He says:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He says:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.shortlist.com/entertainment/films/chris-evans-interview",
-      "sourceTitle": "Chris Evans Interview",
-      "text": "I'm certainly of a Democratic mindset. I'm certainly liberal. I believe in the government being funded to support people who need help."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I'm certainly of a Democratic mindset. I'm certainly liberal. I believe in the government being funded to support people who need help.",
+      "sourceTitle": "Chris Evans Interview",
+      "sourceUrl": "http://www.shortlist.com/entertainment/films/chris-evans-interview"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "A big government liberal, eh? Somehow that seems in contrast to his role as Captain America, who might as well be the poster boy for flag-waving, right-leaning patriots. But it was just a role, and Evans thinks there are a lot of issues in America that need some serious examination, which might put him at odds with flag-waving, right-leaning patriots. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://herocomplex.latimes.com/2011/07/12/captain-america-star-chris-evans-its-not-about-the-flag-its-about-the-hero/",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Right now in America how we handle ourselves in political and global issues is up for questioning.",
       "sourceTitle": "'Captain America' star Chris Evans: It's not about the flag, it's about the hero",
-      "text": "Right now in America how we handle ourselves in political and global issues is up for questioning."
+      "sourceUrl": "http://herocomplex.latimes.com/2011/07/12/captain-america-star-chris-evans-its-not-about-the-flag-its-about-the-hero/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "Well, that's certainly true."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

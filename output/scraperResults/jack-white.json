@@ -34,96 +34,183 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jack White, born John Anthony Gillis, was born and raised in Detroit, Michigan."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "White was raised in a classic Catholic family, the youngest of ten children. And it must have had a major influence on the young singer. As a teenager, White was seriously considering becoming a man of the cloth–but he went another direction, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.cbsnews.com/2100-500164_162-672415.html",
-      "sourceTitle": "Choosing Music Over Religion",
-      "text": "I'd got accepted to the seminary in Wisconsin, and I was gonna become a priest, but the last second I thought, 'I'll just go to public school.' I had just gotten a new amplifier in my bedroom, and I didn't think I was allowed to take it with me."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I'd got accepted to the seminary in Wisconsin, and I was gonna become a priest, but the last second I thought, 'I'll just go to public school.' I had just gotten a new amplifier in my bedroom, and I didn't think I was allowed to take it with me.",
+      "sourceTitle": "Choosing Music Over Religion",
+      "sourceUrl": "http://www.cbsnews.com/2100-500164_162-672415.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "And a rock 'n roll legend was born."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "text": "But that doesn't mean White doesn't enjoy a good Catholic showdown every now and then. He and fellow lifelong Catholic, Stephen Colbert challenged each other to a test of Catholic knowledge once–and  with hilarious results. The funniest part? Neither of them got very many answers right."
+      "parentId": 6,
+      "type": "text",
+      "text": "But that doesn't mean White doesn't enjoy a good Catholic showdown every now and then. He and fellow lifelong Catholic, Stephen Colbert challenged each other to a test of Catholic knowledge once–and"
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "link",
+      "text": "filmed it",
+      "sourceUrl": "http://www.huffingtonpost.com/2011/06/24/jack-white-stephen-colbert_n_884052.html"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": "with hilarious results. The funniest part? Neither of them got very many answers right.",
+      "parentId": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Nowadays, White is still a very spiritual person and claims Catholicism–but only because its in his background. It might be anything for White:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.relevantmagazine.com/culture/music/features/20878-jack-whites-many-sides",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I feel strongly connected to God. My roots are Catholic by default. I can take elements from Buddhism or other religions and see the similarities and differences in those, and learn from those, but at the end of the day, I don't care as much about man's interpretation of religion. What I care about is what God tells me directly.",
       "sourceTitle": "Jack White's Many Sides",
-      "text": "I feel strongly connected to God. My roots are Catholic by default. I can take elements from Buddhism or other religions and see the similarities and differences in those, and learn from those, but at the end of the day, I don't care as much about man's interpretation of religion. What I care about is what God tells me directly."
+      "sourceUrl": "http://www.relevantmagazine.com/culture/music/features/20878-jack-whites-many-sides"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "No politics is the best politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.whitestripes.net/faq.php#politics",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "White"
+    },
+    {
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "used"
+    },
+    {
+      "type": "text",
+      "text": "to be into politics when he was a teenager,",
+      "parentId": 12,
       "sourceTitle": "The White Stripes",
-      "text": "White to be into politics when he was a teenager,"
+      "sourceUrl": "http://www.whitestripes.net/faq.php#politics"
     },
     {
-      "type": "sentence",
-      "text": "then he decided it just wasn't appropriate for an artist. He said, making a strong point:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "then he decided it just wasn't appropriate for an artist. He said, making a strong point:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.whitestripes.net/faq.php#politics",
-      "sourceTitle": "The White Stripes",
-      "text": "I have never thought that rock music can have a direct influence on anything in relation to questions about war and peace or famine. Perhaps it doesn't any longer make a difference what other things they are concerned with. If the Beatles could not get us all to love one another, then how would the White Stripes be capable to do it?"
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I have never thought that rock music can have a direct influence on anything in relation to questions about war and peace or famine. Perhaps it doesn't any longer make a difference what other things they are concerned with. If the Beatles could not get us all to love one another, then how would the White Stripes be capable to do it?",
+      "sourceTitle": "The White Stripes",
+      "sourceUrl": "http://www.whitestripes.net/faq.php#politics"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "White still gets a little upset about the current state of things. He's made comments regarding what he (and many others) see as the pointlessness of modern political parties and the non-choices they offer their public. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.whitestripes.net/faq.php#politics",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "When you belong to a political party, it doesn't matter if it's a monkey or Einstein who's the one running, you vote for him because he's a part of that party.",
       "sourceTitle": "The White Stripes",
-      "text": "When you belong to a political party, it doesn't matter if it's a monkey or Einstein who's the one running, you vote for him because he's a part of that party."
+      "sourceUrl": "http://www.whitestripes.net/faq.php#politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.greenpeace.org/usa/en/media-center/news-releases/GLOBAL-STARS-LAUNCH-CAMPAIGN-TO-SAVE-THE-ARCTIC/",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "White's probably a bit liberal, though, despite his unwillingness to express any explicit political views. He has played benefit concerts for environmental NGO Greenpeace.",
       "sourceTitle": "Global Stars Launch Campaign To Save The Arctic",
-      "text": "White's probably a bit liberal, though, despite his unwillingness to express any explicit political views. He has played benefit concerts for environmental NGO Greenpeace."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.greenpeace.org/usa/en/media-center/news-releases/GLOBAL-STARS-LAUNCH-CAMPAIGN-TO-SAVE-THE-ARCTIC/"
     }
   ],
   "wikipediaData": {

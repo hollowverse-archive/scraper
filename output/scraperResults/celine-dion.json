@@ -33,142 +33,205 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Céline Marie Claudette Dion was born in a small town called Charlemagne in the French-speaking province of Canada, Quebec. She is the youngest of 14 children."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://catholicinsight.com/online/bioethics/article_1009.shtml",
+      "parentId": 2,
+      "type": "text",
+      "text": "Dion was raised in a devout and conservative Roman Catholic home.",
       "sourceTitle": "Bioethics: Celine Dion & IVF",
-      "text": "Dion was raised in a devout and conservative Roman Catholic home."
+      "sourceUrl": "http://catholicinsight.com/online/bioethics/article_1009.shtml"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Dion still seems to adhere to her faith–for the most part, and credits God for the gift of her voice, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://catholicwideweb.wordpress.com/2010/02/22/celine-dion-has-lost-four-children-to-ivf/",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I think God has given me something to work with, a voice, and I'm just trying to serve the lyrics and the music to get messages through.",
       "sourceTitle": "Celine Dion Has Lost Four Children to IVF",
-      "text": "I think God has given me something to work with, a voice, and I'm just trying to serve the lyrics and the music to get messages through."
+      "sourceUrl": "http://catholicwideweb.wordpress.com/2010/02/22/celine-dion-has-lost-four-children-to-ivf/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.freerepublic.com/focus/f-news/925462/posts",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "However, not everyone is appreciating the message and one of Dion's songs, \"The Prayer,\" was banned from a Virginia high school for being too religious after a pair of girls wanted to sing it at their graduation ceremony.",
       "sourceTitle": "Celine Dion Song Banned: 'Too Christian' For School, Faith Under Fire",
-      "text": "However, not everyone is appreciating the message and one of Dion's songs, \"The Prayer,\" was banned from a Virginia high school for being too religious after a pair of girls wanted to sing it at their graduation ceremony."
+      "sourceUrl": "http://www.freerepublic.com/focus/f-news/925462/posts"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "Dion is a remarkably uncontroversial pop star. She hasn't gotten into drugs or drinking or partying at \"the club\" or hanging out with questionable characters. There is very little dirt on Dion–unless you count the fact that she married a man 26 years older than her."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lifesitenews.com/news/archive/ldn/2010/feb/10022208",
+      "parentId": 8,
+      "type": "text",
+      "text": "As a Catholic, though, there is one thing about Dion that's ruffled a few feathers in her congregation. You see, Dion finds it very difficult to have children. As a result, she has attempted In Vitro fertilization (IVF) a number of times–and she has lost four children due to complications.",
       "sourceTitle": "Celine Dion Has Lost Four Children to IVF.",
-      "text": "As a Catholic, though, there is one thing about Dion that's ruffled a few feathers in her congregation. You see, Dion finds it very difficult to have children. As a result, she has attempted In Vitro fertilization (IVF) a number of times–and she has lost four children due to complications."
+      "sourceUrl": "http://www.lifesitenews.com/news/archive/ldn/2010/feb/10022208"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://catholicinsight.com/online/church/vatican/article_476.shtml",
+      "type": "text",
+      "text": "Normally, this is just a sad story. But for a Catholic, it's heresy. Catholics condemn IVF as undignified and wrong in the eyes of God.",
+      "parentId": 8,
       "sourceTitle": "Vatican: What is the Catholic position on In-Vitro fertilization",
-      "text": "Normally, this is just a sad story. But for a Catholic, it's heresy. Catholics condemn IVF as undignified and wrong in the eyes of God."
+      "sourceUrl": "http://catholicinsight.com/online/church/vatican/article_476.shtml"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "The principle is related to Catholicism's controversial stance on birth control and abortion and various other reproductive issues and, ironically, Dion admits that her mother was convinced not to have an abortion when she was pregnant with Celine (her 14th child). Dion said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 10
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.lifesitenews.com/news/archive/ldn/2010/feb/10022208",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "[A priest] told [my mother] that she had no right to go against nature. So I have to admit that in a way, I owe my life to that priest.",
       "sourceTitle": "Celine Dion Has Lost Four Children to IVF.",
-      "text": "[A priest] told [my mother] that she had no right to go against nature. So I have to admit that in a way, I owe my life to that priest."
+      "sourceUrl": "http://www.lifesitenews.com/news/archive/ldn/2010/feb/10022208"
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Is there such thing as politics in Canada?"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.studyworld.com/newsite/reportessay/Biography/FamousWomen%5CCeline_Dion-411354.htm",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Celine Dion is Canadian, and apparently very proud of it. She has sung the Canadian national anthem countless times at events across her native country.",
       "sourceTitle": "Celine Dion",
-      "text": "Celine Dion is Canadian, and apparently very proud of it. She has sung the Canadian national anthem countless times at events across her native country."
+      "sourceUrl": "http://www.studyworld.com/newsite/reportessay/Biography/FamousWomen%5CCeline_Dion-411354.htm"
     },
     {
-      "type": "sentence",
-      "text": "As a French-Canadian, one wonders where she stands on the issue of Quebecois independence. As far as this author can tell, she's never spoken about it."
+      "type": "text",
+      "text": "As a French-Canadian, one wonders where she stands on the issue of Quebecois independence. As far as this author can tell, she's never spoken about it.",
+      "parentId": 13
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.studyworld.com/newsite/reportessay/Biography/FamousWomen%5CCeline_Dion-411354.htm",
+      "parentId": 14,
+      "type": "text",
+      "text": "Still, with a running show in Las Vegas and a regular touring schedule through the United States, it's reasonable to question where her loyalties lie–and it sort of seems like they lie in the U.S. After Hurricane Katrina decimated New Orleans in 2005, Dion came to the rescue, donating $1 million to relief efforts",
       "sourceTitle": "Celine Dion Stands Up To The Bush Administration On Poor Response To Katrina",
-      "text": "Still, with a running show in Las Vegas and a regular touring schedule through the United States, it's reasonable to question where her loyalties lie–and it sort of seems like they lie in the U.S. After Hurricane Katrina decimated New Orleans in 2005, Dion came to the rescue, donating $1 million to relief efforts"
+      "sourceUrl": "http://www.studyworld.com/newsite/reportessay/Biography/FamousWomen%5CCeline_Dion-411354.htm"
     },
     {
-      "type": "sentence",
-      "text": "while simultaneously slamming the Bush administration for their poor response to the crisis. About the crisis, she said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "while simultaneously slamming the Bush administration for their poor response to the crisis. About the crisis, she said:",
+      "parentId": 14
     },
     {
       "type": "quote",
-      "sourceUrl": "http://thinkexist.com/quotes/celine_dion/2.html",
-      "sourceTitle": "Celine Dion Quotes",
-      "text": "We need to serve our country, and be there right now to rescue the rest of the people. We need the cash, we need the blood, we need the support, right now we need the prayers."
+      "id": 15
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "We need to serve our country, and be there right now to rescue the rest of the people. We need the cash, we need the blood, we need the support, right now we need the prayers.",
+      "sourceTitle": "Celine Dion Quotes",
+      "sourceUrl": "http://thinkexist.com/quotes/celine_dion/2.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "\"Our country?\" Hmm.."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://celinedion2007.blogspot.com/2007/10/concerts-since-1993-to-1998.html",
+      "parentId": 18,
+      "type": "text",
+      "text": "She's buddies with the Clintons. She sang a song at Bill Clinton's Investiture Ceremony",
       "sourceTitle": "Celine Dion: Concerts",
-      "text": "She's buddies with the Clintons. She sang a song at Bill Clinton's Investiture Ceremony"
+      "sourceUrl": "http://celinedion2007.blogspot.com/2007/10/concerts-since-1993-to-1998.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/blogs/politics/2007/12/you-and-i-no-mo/",
+      "type": "text",
+      "text": "and she donated her song, \"You and I,\" to the Hillary Clinton presidential campaign.",
+      "parentId": 18,
       "sourceTitle": "'You and I' No More?",
-      "text": "and she donated her song, \"You and I,\" to the Hillary Clinton presidential campaign."
+      "sourceUrl": "http://abcnews.go.com/blogs/politics/2007/12/you-and-i-no-mo/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
+      "parentId": 19,
+      "type": "text",
       "text": "If she was an American, judging by her contempt for the Bush administration and her connections to the Clinton family, we'd have to say she's a Democrat. Liberal or conservative? It's hard to say considering her family is conservative but she's clearly capable of going against the teachings of her church. You decide."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

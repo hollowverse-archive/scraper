@@ -37,152 +37,255 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Joan Rivers, whose last name at birth was Molinsky, was born in New York City and raised in Larchmont, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewishjournal.com/arts_in_la/page2/joan_rivers_life_audacious_as_always_20071228",
+      "parentId": 2,
+      "type": "text",
+      "text": "Rivers comes from a Russian Jewish family–both her maternal and paternal grandparents fled their home for the U.S. during the Russian revolution. And apparently her family were fairly prominent members of their Jewish community because her father established the first synagogue in her family's home town.",
       "sourceTitle": "Joan Rivers' 'Life'–audacious, as always.",
-      "text": "Rivers comes from a Russian Jewish family–both her maternal and paternal grandparents fled their home for the U.S. during the Russian revolution. And apparently her family were fairly prominent members of their Jewish community because her father established the first synagogue in her family's home town."
+      "sourceUrl": "http://www.jewishjournal.com/arts_in_la/page2/joan_rivers_life_audacious_as_always_20071228"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewishjournal.com/arts_in_la/article/joan_rivers_life_audacious_as_always_20071228",
+      "parentId": 3,
+      "type": "text",
+      "text": "After Rivers had a falling out with her parents and didn't speak with them for a year, she tells a story of driving around on Yom Kippur to find a temple which would let her in.",
       "sourceTitle": "Joan Rivers' 'Life'–audacious, as always.",
-      "text": "After Rivers had a falling out with her parents and didn't speak with them for a year, she tells a story of driving around on Yom Kippur to find a temple which would let her in."
+      "sourceUrl": "http://www.jewishjournal.com/arts_in_la/article/joan_rivers_life_audacious_as_always_20071228"
     },
     {
-      "type": "sentence",
-      "text": "So despite any differences she may have had with her family, she never let go of her Jewish roots."
+      "type": "text",
+      "text": "So despite any differences she may have had with her family, she never let go of her Jewish roots.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "She makes fun of Jews all the time in her stand-up routines with jokes like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/joan_rivers.html?vm=l",
-      "sourceTitle": "Joan Rivers Quotes.",
-      "text": "I'm Jewish. I don't work out. If God had wanted us to bend over, He would have put diamonds on the floor."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I'm Jewish. I don't work out. If God had wanted us to bend over, He would have put diamonds on the floor.",
+      "sourceTitle": "Joan Rivers Quotes.",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/joan_rivers.html?vm=l"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "But not all her jokes are quite so innocuous. She got in some trouble for making fun of actress Heidi Klum's revealing dress at the Oscar's one year by saying, \"The last time a German looked this hot was when they were pushing Jews into the ovens.\" Responding to the criticism in an interview with a much younger TV host, she said,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.cnn.com/2013/02/28/showbiz/joan-rivers-holocaust-joke",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "It's a joke. . . . That's the way I remind people about the Holocaust. I do it through humor. . . . My husband lost his entire family in the Holocaust, so let's just start with that. Your generation doesn't even know what I'm talking about.",
       "sourceTitle": "Joan Rivers not apologizing for Holocaust joke.",
-      "text": "It's a joke. . . . That's the way I remind people about the Holocaust. I do it through humor. . . . My husband lost his entire family in the Holocaust, so let's just start with that. Your generation doesn't even know what I'm talking about."
+      "sourceUrl": "http://www.cnn.com/2013/02/28/showbiz/joan-rivers-holocaust-joke"
     },
     {
-      "type": "sentence",
-      "text": "She says the real problem is not jokes, it's genuinely antisemitic people, namely Rivers' nemesis Mel Gibson. After seeing the negative portrayal of Jews in his movie  and reading about the antisemitic remarks he made to police officers upon being arrested for drunk driving, she said,"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "break"
+      "parentId": 10,
+      "type": "text",
+      "text": "She says the real problem is not jokes, it's genuinely antisemitic people, namely Rivers' nemesis Mel Gibson. After seeing the negative portrayal of Jews in his movie"
+    },
+    {
+      "parentId": 10,
+      "type": "emphasis",
+      "text": "Passion of the Christ"
+    },
+    {
+      "type": "text",
+      "text": "and reading about the antisemitic remarks he made to police officers upon being arrested for drunk driving, she said,",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.hollywood.com/news/celebrities/3565872/joan-rivers-mel-gibson-should-die",
-      "sourceTitle": "Joan Rivers: 'Mel Gibson Should Die.'",
-      "text": "He is an antisemitic son of a bitch. He should fucking die."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "He is an antisemitic son of a bitch. He should fucking die.",
+      "sourceTitle": "Joan Rivers: 'Mel Gibson Should Die.'",
+      "sourceUrl": "http://www.hollywood.com/news/celebrities/3565872/joan-rivers-mel-gibson-should-die"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "That doesn't sound like a joke."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 14
     },
     {
-      "type": "heading",
+      "parentId": 14,
+      "type": "text",
       "text": "Politics Police: the whole thing is disgusting"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Rivers says she doesn't like to talk about politics, but she couldn't hide her contempt for the presidential race in 2012. She called Obama and Romney both \"idiots,\" and said she thought the money and time spent campaigning was horrific:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 16
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://cnnpressroom.blogs.cnn.com/2012/06/13/joan-rivers-calls-pres-obama-romney-idiots-chokes-up-over-how-terribly-sad-life-can-be/",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "How dare you spend two years campaigning. They should do what England does. Six weeks to find out what everyone thinks before they vote for them for Parliament. That makes sense. . . . I find the whole thing disgusting, both sides disgusting.",
       "sourceTitle": "Joan Rivers calls Pres. Obama, Romney 'idiots;' chokes up over how 'terribly sad' life can be.",
-      "text": "How dare you spend two years campaigning. They should do what England does. Six weeks to find out what everyone thinks before they vote for them for Parliament. That makes sense. . . . I find the whole thing disgusting, both sides disgusting."
+      "sourceUrl": "http://cnnpressroom.blogs.cnn.com/2012/06/13/joan-rivers-calls-pres-obama-romney-idiots-chokes-up-over-how-terribly-sad-life-can-be/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/Joan_Rivers/status/265848387428052992",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "But nonetheless, she went out and did her civic duty on election day.",
       "sourceTitle": "Joan_Rivers: I'm off to vote!!! …",
-      "text": "But nonetheless, she went out and did her civic duty on election day."
+      "sourceUrl": "https://twitter.com/Joan_Rivers/status/265848387428052992"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.zimbio.com/Famous+Republicans/articles/pGVSK3tjIQx/Joan+Rivers",
+      "type": "text",
+      "text": "And even though she has stated she is a Republican, she said she voted for Obama because she thought the president would lower her taxes.",
+      "parentId": 18,
       "sourceTitle": "Joan Rivers – Famous Republicans.",
-      "text": "And even though she has stated she is a Republican, she said she voted for Obama because she thought the president would lower her taxes."
+      "sourceUrl": "http://www.zimbio.com/Famous+Republicans/articles/pGVSK3tjIQx/Joan+Rivers"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/HRC/status/266278580143665152",
+      "type": "text",
+      "text": "She also retweeted the Human Rights Campaign's celebratory post-election tweet in 2012.",
+      "parentId": 18,
       "sourceTitle": "HRC: Together, we made …",
-      "text": "She also retweeted the Human Rights Campaign's celebratory post-election tweet in 2012."
+      "sourceUrl": "https://twitter.com/HRC/status/266278580143665152"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newsmeat.com/celebrity_political_donations/Joan_Rivers.php",
+      "parentId": 19,
+      "type": "text",
+      "text": "Rivers' campaign finance contributions, while leaning right, weren't exclusively dedicated to Republicans. Of her $6,750 in donations, $500 was to a Democrat, $3,000 to Republicans, and $3,250 to a pro-Israeli political action committee.",
       "sourceTitle": "Joan Rivers's Federal Campaign Contribution Report.",
-      "text": "Rivers' campaign finance contributions, while leaning right, weren't exclusively dedicated to Republicans. Of her $6,750 in donations, $500 was to a Democrat, $3,000 to Republicans, and $3,250 to a pro-Israeli political action committee."
+      "sourceUrl": "http://newsmeat.com/celebrity_political_donations/Joan_Rivers.php"
     },
     {
-      "type": "sentence",
-      "text": "Like many Jews, she's an outspoken supporter of the Israeli state and doesn't approve of the president's handling of the Israeli-Palestinian conflict. She said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Like many Jews, she's an outspoken supporter of the Israeli state and doesn't approve of the president's handling of the Israeli-Palestinian conflict. She said,",
+      "parentId": 19
     },
     {
       "type": "quote",
-      "sourceUrl": "http://sdjewishjournal.com/site/716/joan-rivers-a-piece-of-work/",
+      "id": 20
+    },
+    {
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "I think the Obama administration's treatment of Israel is outrageous. Outrageous. When we are the only sane nation in that part of the world.",
       "sourceTitle": "\"Joan Rivers – A Piece of Work.",
-      "text": "I think the Obama administration's treatment of Israel is outrageous. Outrageous. When we are the only sane nation in that part of the world."
+      "sourceUrl": "http://sdjewishjournal.com/site/716/joan-rivers-a-piece-of-work/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.haaretz.com/blogs/routine-emergencies/gotta-have-it-fashion-police-s-joan-rivers-wants-a-gay-israeli-couple-to-be-able-to-have-a-baby.premium-1.508862",
+      "type": "paragraph",
+      "id": 22
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "But one issue Obama has pushed in his presidency, gay rights, is one Rivers is proud to support. She even used her TV show"
+    },
+    {
+      "parentId": 22,
+      "type": "emphasis",
+      "text": "Fashion Police"
+    },
+    {
+      "type": "text",
+      "text": "as a platform to support a campaign to change an Israeli law banning surrogate pregnancies for gay couples.",
+      "parentId": 22,
       "sourceTitle": "Gotta have it: Fashion Police's Joan Rivers wants a gay Israeli couple to be able to have a baby.",
-      "text": "But one issue Obama has pushed in his presidency, gay rights, is one Rivers is proud to support. She even used her TV show  as a platform to support a campaign to change an Israeli law banning surrogate pregnancies for gay couples."
+      "sourceUrl": "http://www.haaretz.com/blogs/routine-emergencies/gotta-have-it-fashion-police-s-joan-rivers-wants-a-gay-israeli-couple-to-be-able-to-have-a-baby.premium-1.508862"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 23
     },
     {
-      "type": "sentence",
+      "parentId": 23,
+      "type": "text",
       "text": "For someone who makes jokes about anything, including her recently deceased husband's suicide, Rivers seems to treat politics with complete sincerity and seriousness. I guess sometimes the stakes are just too high."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

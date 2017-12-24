@@ -35,134 +35,224 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Olivia Newton-John was born in Cambridge, England, grew up in Melbourne, Australia until she was a teenager, and moved to London to pursue her singing career."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=1086",
+      "parentId": 2,
+      "type": "text",
+      "text": "Newton-John has a diverse religious background. Her grandfather, Nobel Prize-winning physicist Max Born, was raised Jewish in Germany but converted to Lutheranism and her mother was a non-practicing, though ethnic Jew.",
       "sourceTitle": "Olivia Newton-John",
-      "text": "Newton-John has a diverse religious background. Her grandfather, Nobel Prize-winning physicist Max Born, was raised Jewish in Germany but converted to Lutheranism and her mother was a non-practicing, though ethnic Jew."
+      "sourceUrl": "http://www.jewornotjew.com/profile.jsp?ID=1086"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.beliefnet.com/Celebrity-Faith-Database/J/Olivia-Newton-John.aspx",
+      "parentId": 3,
+      "type": "text",
+      "text": "But Newton-John doesn't identify as Jewish as far as I can tell. In fact, she doesn't identify with anything–or everything depending on how you look at it. Normally reputable sites claim that she's a Christian,",
       "sourceTitle": "Olivia Newton-John – Christian",
-      "text": "But Newton-John doesn't identify as Jewish as far as I can tell. In fact, she doesn't identify with anything–or everything depending on how you look at it. Normally reputable sites claim that she's a Christian,"
+      "sourceUrl": "http://www.beliefnet.com/Celebrity-Faith-Database/J/Olivia-Newton-John.aspx"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.catholicnews.sg/index.php?option=com_content&view=article&id=2133:healing-music-from-olivia-newton-john&catid=102:june-2007&Itemid=79",
+      "type": "text",
+      "text": "and that very well could be true, but it seems more that she's multi-religious, or meta-religious. She has expressed an interest in aspects of Hinduism and Buddhism, but seems to claim neither as a whole.",
+      "parentId": 3,
       "sourceTitle": "Healing music from Olivia Newton-John",
-      "text": "and that very well could be true, but it seems more that she's multi-religious, or meta-religious. She has expressed an interest in aspects of Hinduism and Buddhism, but seems to claim neither as a whole."
+      "sourceUrl": "http://www.catholicnews.sg/index.php?option=com_content&view=article&id=2133:healing-music-from-olivia-newton-john&catid=102:june-2007&Itemid=79"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "text": "After surviving breast cancer, Newton-John released an album called . The album contained what Newton-John referred to as \"healing songs,\" and they drew from nearly all of the world's religions. She said:"
+      "parentId": 4,
+      "type": "text",
+      "text": "After surviving breast cancer, Newton-John released an album called"
     },
     {
-      "type": "break"
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "Grace and Gratitude"
+    },
+    {
+      "type": "text",
+      "text": ". The album contained what Newton-John referred to as \"healing songs,\" and they drew from nearly all of the world's religions. She said:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.catholicnews.sg/index.php?option=com_content&view=article&id=2133:healing-music-from-olivia-newton-john&catid=102:june-2007&Itemid=79",
-      "sourceTitle": "Healing music from Olivia Newton-John",
-      "text": "I believe that all human beings are connected, like pearls on a chain. We have in common the search for peace, love and compassion. It is my hope that we can accept and respect each other's [religious] traditions, no matter what our personal beliefs. This is my intention – to make music that helps to heal the heart and connect us to each other."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I believe that all human beings are connected, like pearls on a chain. We have in common the search for peace, love and compassion. It is my hope that we can accept and respect each other's [religious] traditions, no matter what our personal beliefs. This is my intention – to make music that helps to heal the heart and connect us to each other.",
+      "sourceTitle": "Healing music from Olivia Newton-John",
+      "sourceUrl": "http://www.catholicnews.sg/index.php?option=com_content&view=article&id=2133:healing-music-from-olivia-newton-john&catid=102:june-2007&Itemid=79"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Plus, this quote has a real pantheist vibe to it:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.janetthinks.com/2010/05/nature-is-my-church-olivia-newton-john.html",
-      "sourceTitle": "\"Nature is my church.\" Olivia Newton-John",
-      "text": "Nature is my church."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Nature is my church.",
+      "sourceTitle": "\"Nature is my church.\" Olivia Newton-John",
+      "sourceUrl": "http://www.janetthinks.com/2010/05/nature-is-my-church-olivia-newton-john.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "But it might be that she just loves nature because it's the manifestation of a higher power. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/o/olivia_newtonjohn.html",
-      "sourceTitle": "Olivia Newton-John Quotes",
-      "text": "Nature is the most beautiful thing we have. It's better than art because it's from the creator."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Nature is the most beautiful thing we have. It's better than art because it's from the creator.",
+      "sourceTitle": "Olivia Newton-John Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/o/olivia_newtonjohn.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Ultimately, given Newton-John's mixed background, her respect for the multitude of faiths in the world and her appreciation for the natural world, I'd have to say she's very spiritual, and meta-religious."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 14
     },
     {
-      "type": "heading",
+      "parentId": 14,
+      "type": "text",
       "text": "Her politics will give you chills"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Newton-John's politics are what would widely be considered liberal. Two main issues stick out: gay marriage and environmentalism."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "When the debate over gay marriage was raging in Australia, Newton-John gave her star opinion on the topic:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://gaynewsnetwork.com.au/news/news-2/4318-olivia-newton-john-wants-marriage-equality.html",
-      "sourceTitle": "Olivia Newton-John wants marriage equality.",
-      "text": "With respect to marriage equality I believe that no one has the right to judge and deny couples who love each other the ability to make a marriage commitment. Love is love."
+      "id": 17
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "With respect to marriage equality I believe that no one has the right to judge and deny couples who love each other the ability to make a marriage commitment. Love is love.",
+      "sourceTitle": "Olivia Newton-John wants marriage equality.",
+      "sourceUrl": "http://gaynewsnetwork.com.au/news/news-2/4318-olivia-newton-john-wants-marriage-equality.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "And her environmental interests range from fracking to the Amazon rain forest. When an energy company was looking to frack for natural gas near one of her favorite Australian getaways, Byron Bay, it seemed to turn her onto the wider issues. Her people released this statement:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.mining.com/lets-get-political-olivia-newton-john-raises-alarm-over-fracking-near-byron-bay/",
+      "id": 20
+    },
+    {
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "[Olivia is] horrified to learn of the extensive plans for coal-seam gas and shale gas exploration in Australia.",
       "sourceTitle": "Let's get political: Olivia Newton-John raises alarm over fracking near Byron Bay.",
-      "text": "[Olivia is] horrified to learn of the extensive plans for coal-seam gas and shale gas exploration in Australia."
+      "sourceUrl": "http://www.mining.com/lets-get-political-olivia-newton-john-raises-alarm-over-fracking-near-byron-bay/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thecelebritycafe.com/feature/interview-olivia-newton-john-04-11-2011",
+      "type": "paragraph",
+      "id": 22
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "Also, she and husband John Easterling, spearhead an organization called Amazon Center of Environmental Education and Research which, among other things, seeks to educate people about the importance of the South American rainforest.",
       "sourceTitle": "Interview with Olivia Newton-John",
-      "text": "Also, she and husband John Easterling, spearhead an organization called Amazon Center of Environmental Education and Research which, among other things, seeks to educate people about the importance of the South American rainforest."
+      "sourceUrl": "http://thecelebritycafe.com/feature/interview-olivia-newton-john-04-11-2011"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 23
     },
     {
-      "type": "sentence",
+      "parentId": 23,
+      "type": "text",
       "text": "So, a little vague spirituality, but certainly picked her side of the fence when it comes to politics."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

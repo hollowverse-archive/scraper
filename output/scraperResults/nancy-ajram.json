@@ -32,104 +32,171 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Nancy Ajram was born and raised in Beirut, Lebanon."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.hibamusic.com/Liban/nancy-ajram/nancy-ajram-17.htm",
+      "parentId": 2,
+      "type": "text",
+      "text": "There is much misinformation on the web that Ajram is an Eastern Orthodox Christian.",
       "sourceTitle": "Nancy Ajram",
-      "text": "There is much misinformation on the web that Ajram is an Eastern Orthodox Christian."
+      "sourceUrl": "http://en.hibamusic.com/Liban/nancy-ajram/nancy-ajram-17.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://encyclopedia.jrank.org/articles/pages/5469/Ajram-Nancy-1983.html",
+      "type": "text",
+      "text": "But this is not the case. In reality, Ajram is a Maronite Catholic.",
+      "parentId": 2,
       "sourceTitle": "Ajram, Nancy (1983-)",
-      "text": "But this is not the case. In reality, Ajram is a Maronite Catholic."
+      "sourceUrl": "http://encyclopedia.jrank.org/articles/pages/5469/Ajram-Nancy-1983.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.maryourmother.net/Eastern.html",
+      "type": "text",
+      "text": "It's an understandable mistake. She's from the Middle East, but the Maronites are among only two churches East of the Balkans that didn't join the Byzantine or Greek Orthodox Church of Constantinople, but rather stayed loyal to the Pope and the Vatican.",
+      "parentId": 2,
       "sourceTitle": "The Eastern Catholic Churches",
-      "text": "It's an understandable mistake. She's from the Middle East, but the Maronites are among only two churches East of the Balkans that didn't join the Byzantine or Greek Orthodox Church of Constantinople, but rather stayed loyal to the Pope and the Vatican."
+      "sourceUrl": "http://www.maryourmother.net/Eastern.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "She seems to have remained a devout Catholic. There's not a whole lot from her that I can glean from the Internet outside of her Twitter feed, but she does occasionally tweet things like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://jp.twitter.com/NancyAjram",
-      "sourceTitle": "Nancy Ajram (NancyAjram) on Twitter.",
-      "text": "Today everything is going perfectly. I am so happy! Thank you GOD you always turn things to my favour :) :) :)"
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Today everything is going perfectly. I am so happy! Thank you GOD you always turn things to my favour :) :) :)",
+      "sourceTitle": "Nancy Ajram (NancyAjram) on Twitter.",
+      "sourceUrl": "https://jp.twitter.com/NancyAjram"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "And:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "https://jp.twitter.com/NancyAjram",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "First thing you do when you wake up. Thank God your in good health, think positive and you will have a great day!",
       "sourceTitle": "Nancy Ajram (NancyAjram) on Twitter.",
-      "text": "First thing you do when you wake up. Thank God your in good health, think positive and you will have a great day!"
+      "sourceUrl": "https://jp.twitter.com/NancyAjram"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Geopolitics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Politics isn't Ajrab's thing, really. She has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.anayou.com/index.php/en/rss/item/1980-nancy-ajram-says-no-to-shows-and-politics",
-      "sourceTitle": "Nancy Ajram Says No To Shows And Politics",
-      "text": "I don't understand politics and I'm not well informed. I might be right or wrong."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I don't understand politics and I'm not well informed. I might be right or wrong.",
+      "sourceTitle": "Nancy Ajram Says No To Shows And Politics",
+      "sourceUrl": "http://www.anayou.com/index.php/en/rss/item/1980-nancy-ajram-says-no-to-shows-and-politics"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "But, she's definitely got her opinions. Like many residents of the Middle East, she doesn't seem to be a big fan of Israel. During the 2006 war between Israel and Hezbollah, Ajram came out in opposition and wrote a song about her feelings on the issue. Her camp issued this statement:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://encyclopedia.jrank.org/articles/pages/5469/Ajram-Nancy-1983.html",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "[Ajram wants to] express her grief over the horror her dear country is experiencing while Israeli forces are killing so many innocent civilians, destroying the core of Lebanon.",
       "sourceTitle": "Ajram, Nancy (1983-)",
-      "text": "[Ajram wants to] express her grief over the horror her dear country is experiencing while Israeli forces are killing so many innocent civilians, destroying the core of Lebanon."
+      "sourceUrl": "http://encyclopedia.jrank.org/articles/pages/5469/Ajram-Nancy-1983.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://reason.com/archives/2003/10/29/weapons-of-singing-destruction",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "And she has been controversial in the Middle East just for being a woman performer. In Bahrain, for example, her concert was protested by traditional, conservative Muslims and concertgoers were attacked with rocks and their cars set on fire.",
       "sourceTitle": "Weapons of Singing Destruction",
-      "text": "And she has been controversial in the Middle East just for being a woman performer. In Bahrain, for example, her concert was protested by traditional, conservative Muslims and concertgoers were attacked with rocks and their cars set on fire."
+      "sourceUrl": "http://reason.com/archives/2003/10/29/weapons-of-singing-destruction"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "It's difficult to classify people from this region when the measuring stick is Western social values. However, it would seem that within her own society, just by virtue of the fact that she's a successful woman, she might be considered a liberal."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

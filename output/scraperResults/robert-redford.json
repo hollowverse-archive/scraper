@@ -35,165 +35,240 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Robert Redford was born in Santa Monica, California and raised in Van Nuys, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000602/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "It is unclear if religion was present much during his childhood, but considering his Irish/Scottish/English heritage,",
       "sourceTitle": "Robert Redford – Biography",
-      "text": "It is unclear if religion was present much during his childhood, but considering his Irish/Scottish/English heritage,"
+      "sourceUrl": "http://www.imdb.com/name/nm0000602/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.express.co.uk/news/showbiz/259284/Robert-Redford-My-childhood-of-crime",
+      "type": "text",
+      "text": "it's reasonable to assume some sort of Christian background. However, as a youth, Redford was involved in street gangs, petty theft and general hooliganism,",
+      "parentId": 2,
       "sourceTitle": "Robert Redford: My Childhood of Crime",
-      "text": "it's reasonable to assume some sort of Christian background. However, as a youth, Redford was involved in street gangs, petty theft and general hooliganism,"
+      "sourceUrl": "http://www.express.co.uk/news/showbiz/259284/Robert-Redford-My-childhood-of-crime"
     },
     {
-      "type": "sentence",
-      "text": "so it seems unlikely he was devoted to any formal religious/moral framework."
+      "type": "text",
+      "text": "so it seems unlikely he was devoted to any formal religious/moral framework.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "As an adult, Redford is wary of religion. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I don't believe in organized religion, because I don't believe people should be organized in how they think, in what they believe.",
+      "sourceTitle": "Robert Redford",
+      "sourceUrl": "http://www.celebatheists.com/wiki/Robert_Redford"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "But he does seem to, at some point in his life, have taken up a spiritual quest. Redford has said he has \"explored every religion, some very deeply\" but that there's \"there's not one philosophy that can satisfy [him].\"",
+      "sourceTitle": "Robert Redford",
+      "sourceUrl": "http://www.celebatheists.com/wiki/Robert_Redford"
+    },
+    {
+      "type": "text",
+      "text": "And when it comes to the great cosmological questions, like \"What happens after we die,\" Redford is skeptical:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Robert_Redford",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Is there an afterlife? As far as I know, this is it. It's all we've got. You take your opportunities and you go for it.",
       "sourceTitle": "Robert Redford",
-      "text": "I don't believe in organized religion, because I don't believe people should be organized in how they think, in what they believe."
+      "sourceUrl": "http://www.celebatheists.com/wiki/Robert_Redford"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Robert_Redford",
-      "sourceTitle": "Robert Redford",
-      "text": "But he does seem to, at some point in his life, have taken up a spiritual quest. Redford has said he has \"explored every religion, some very deeply\" but that there's \"there's not one philosophy that can satisfy [him].\""
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "text": "And when it comes to the great cosmological questions, like \"What happens after we die,\" Redford is skeptical:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Robert_Redford",
-      "sourceTitle": "Robert Redford",
-      "text": "Is there an afterlife? As far as I know, this is it. It's all we've got. You take your opportunities and you go for it."
-    },
-    {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/movies/actor_boxoffice_stars.html",
+      "parentId": 9,
+      "type": "text",
+      "text": "I'd say this puts Redford in the agnostic category, perhaps bordering on atheist. He did, however, marry a Mormon woman",
       "sourceTitle": "Religion of Top Box Office Stars (Actors)",
-      "text": "I'd say this puts Redford in the agnostic category, perhaps bordering on atheist. He did, however, marry a Mormon woman"
+      "sourceUrl": "http://www.adherents.com/movies/actor_boxoffice_stars.html"
     },
     {
-      "type": "sentence",
-      "text": "and lives and works in Utah (the seat of Mormonism), which has played into his political views–which we'll get into later."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and lives and works in Utah (the seat of Mormonism), which has played into his political views–which we'll get into later.",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "How about now?"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://switchboard.nrdc.org/blogs/eshope/actor_and_nrdc_board_member_ro.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Redford is a highly political person–an activist even–whose primary focus is environmentalism. He sits on the board of directors of the National Resources Defense Council",
       "sourceTitle": "Actor and NRDC Board Member Robert Redford: Join Hands Around the White House on November 6 to Tell President Obama No to Keystone XL Tar Sands Pipeline",
-      "text": "Redford is a highly political person–an activist even–whose primary focus is environmentalism. He sits on the board of directors of the National Resources Defense Council"
+      "sourceUrl": "http://switchboard.nrdc.org/blogs/eshope/actor_and_nrdc_board_member_ro.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.foreverwildfilm.com/robertredford.html",
+      "type": "text",
+      "text": "and has won numerous awards for his environmental activity.",
+      "parentId": 11,
       "sourceTitle": "Robert Redford",
-      "text": "and has won numerous awards for his environmental activity."
+      "sourceUrl": "http://www.foreverwildfilm.com/robertredford.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.foreverwildfilm.com/robertredford.html",
+      "type": "text",
+      "text": "As early as the 70s, Redford was pushing for legislation like the Clean Air Act and the Energy Conservation and Production Act,",
+      "parentId": 11,
       "sourceTitle": "Robert Redford",
-      "text": "As early as the 70s, Redford was pushing for legislation like the Clean Air Act and the Energy Conservation and Production Act,"
+      "sourceUrl": "http://www.foreverwildfilm.com/robertredford.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://switchboard.nrdc.org/blogs/eshope/actor_and_nrdc_board_member_ro.html",
+      "type": "text",
+      "text": "and he continues to protest projects that threaten the environment such as the Keystone XL Pipeline",
+      "parentId": 11,
       "sourceTitle": "Actor and NRDC Board Member Robert Redford: Join Hands Around the White House on November 6 to Tell President Obama No to Keystone XL Tar Sands Pipeline",
-      "text": "and he continues to protest projects that threaten the environment such as the Keystone XL Pipeline"
+      "sourceUrl": "http://switchboard.nrdc.org/blogs/eshope/actor_and_nrdc_board_member_ro.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.foreverwildfilm.com/robertredford.html",
+      "type": "text",
+      "text": "and coal plants in southern Utah.",
+      "parentId": 11,
       "sourceTitle": "Robert Redford",
-      "text": "and coal plants in southern Utah."
+      "sourceUrl": "http://www.foreverwildfilm.com/robertredford.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Robert_Redford.php",
+      "parentId": 12,
+      "type": "text",
+      "text": "This does not necessarily translate to alignment with the Democrats. While a little more than half of Redford's nearly $50,000 in campaign contributions has gone to Democrats, he has supported Republicans as well.",
       "sourceTitle": "Robert Redford's Federal Campaign Contribution Report",
-      "text": "This does not necessarily translate to alignment with the Democrats. While a little more than half of Redford's nearly $50,000 in campaign contributions has gone to Democrats, he has supported Republicans as well."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Robert_Redford.php"
     },
     {
-      "type": "sentence",
-      "text": "And in 2011, Redford penned a piece for the  in which he slammed the Obama administration for not sticking to its word regarding environmental issues. He wrote:"
+      "type": "text",
+      "text": "And in 2011, Redford penned a piece for the",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "Huffington Post"
+    },
+    {
+      "type": "text",
+      "text": "in which he slammed the Obama administration for not sticking to its word regarding environmental issues. He wrote:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/robert-redford/keystone-epa-obama-2012_b_947515.html",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "One reason I supported President Obama is because he said we must protect clean air, water and lands. But what good is it to say the right thing unless you act on it?",
       "sourceTitle": "Robert Redford: Is The Obama Administration Putting Corporate Profits Above Public Health",
-      "text": "One reason I supported President Obama is because he said we must protect clean air, water and lands. But what good is it to say the right thing unless you act on it?"
+      "sourceUrl": "http://www.huffingtonpost.com/robert-redford/keystone-epa-obama-2012_b_947515.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Robert_Redford",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "But, Redford dislikes what he sees as the Republican Party's connection to religion and has complained about George W. Bush claiming to receive guidance from God while in office",
       "sourceTitle": "Robert Redford",
-      "text": "But, Redford dislikes what he sees as the Republican Party's connection to religion and has complained about George W. Bush claiming to receive guidance from God while in office"
+      "sourceUrl": "http://www.celebatheists.com/wiki/Robert_Redford"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://bompolitic.wordpress.com/2007/11/09/robert-redford-knows-all-about-mormons-and-mitt-romney/",
+      "type": "text",
+      "text": "as well as Mitt Romney using slick rhetoric he learned as a Mormon missionary to sway votes in his favor.",
+      "parentId": 15,
       "sourceTitle": "Robert Redford knows all about Mormons and Mitt Romney",
-      "text": "as well as Mitt Romney using slick rhetoric he learned as a Mormon missionary to sway votes in his favor."
+      "sourceUrl": "http://bompolitic.wordpress.com/2007/11/09/robert-redford-knows-all-about-mormons-and-mitt-romney/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theamericanconservative.com/articles/redford-goes-ron-paul/",
+      "parentId": 16,
+      "type": "text",
+      "text": "Also, Redford is also known to be an admirer of famous anarchist Edward Abbey.",
       "sourceTitle": "Redford Goes Ron Paul",
-      "text": "Also, Redford is also known to be an admirer of famous anarchist Edward Abbey."
+      "sourceUrl": "http://www.theamericanconservative.com/articles/redford-goes-ron-paul/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.sfgate.com/entertainment/article/Robert-Redford-s-Lions-for-Lambs-takes-on-Iraq-3301489.php",
+      "type": "text",
+      "text": "So, ultimately, he's difficult to pin down. Redford seems to be the type of political mind that realizes solutions can't be found in one ideology vs. another–though his critiques of America's foreign policy,",
+      "parentId": 16,
       "sourceTitle": "Robert Redford's 'Lions for Lambs' takes on Iraq War",
-      "text": "So, ultimately, he's difficult to pin down. Redford seems to be the type of political mind that realizes solutions can't be found in one ideology vs. another–though his critiques of America's foreign policy,"
+      "sourceUrl": "http://www.sfgate.com/entertainment/article/Robert-Redford-s-Lions-for-Lambs-takes-on-Iraq-3301489.php"
     },
     {
-      "type": "sentence",
-      "text": "Republicans and his commitment to environmentalism generally puts him in the liberal category."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Republicans and his commitment to environmentalism generally puts him in the liberal category.",
+      "parentId": 16
     }
   ],
   "wikipediaData": {

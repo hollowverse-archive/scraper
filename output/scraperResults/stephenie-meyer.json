@@ -33,97 +33,154 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Stephenie Meyer was born in Hartford, Connecticut and grew up in Phoenix, Arizona."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://magazine.byu.edu/?act=view&a=2155",
+      "parentId": 2,
+      "type": "text",
+      "text": "Meyer is a member of the Church of Jesus Christ of Latter Day Saints, more commonly known as \"Mormons.\" Meyer attended the Mormon college, Brigham Young University in Provo, Utah.",
       "sourceTitle": "YA Novels and Mormon Memoirs",
-      "text": "Meyer is a member of the Church of Jesus Christ of Latter Day Saints, more commonly known as \"Mormons.\" Meyer attended the Mormon college, Brigham Young University in Provo, Utah."
+      "sourceUrl": "http://magazine.byu.edu/?act=view&a=2155"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thehosttrilogy.com/author/",
+      "parentId": 3,
+      "type": "text",
+      "text": "She is quite devout, following the Mormon prescription of abstaining from alcohol and/or tobacco.",
       "sourceTitle": "The Host Stephenie Meyer.",
-      "text": "She is quite devout, following the Mormon prescription of abstaining from alcohol and/or tobacco."
+      "sourceUrl": "http://www.thehosttrilogy.com/author/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2010/06/24/mormon-influence-imagery_n_623487.html",
+      "type": "text",
+      "text": "Plus, literary and film critics the world over are convinced that Meyer's books (and the subsequent films) are littered with Mormon references and imagery, often citing the fact that the main character, Bella, avoids coffee, tea, alcohol and tobacco",
+      "parentId": 3,
       "sourceTitle": "Mormon Influence, Imagery Run Deep Through 'Twilight.'",
-      "text": "Plus, literary and film critics the world over are convinced that Meyer's books (and the subsequent films) are littered with Mormon references and imagery, often citing the fact that the main character, Bella, avoids coffee, tea, alcohol and tobacco"
+      "sourceUrl": "http://www.huffingtonpost.com/2010/06/24/mormon-influence-imagery_n_623487.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.motleyvision.org/2008/stephanie-meyers-mormonism-and-the-erotics-of-abstinence/",
+      "type": "text",
+      "text": "and that the lovestruck couple, around which the stories revolve, don't actually have sex until they get married.",
+      "parentId": 3,
       "sourceTitle": "Stephenie Meyer's Mormonism and the \"erotics of abstinence.\"",
-      "text": "and that the lovestruck couple, around which the stories revolve, don't actually have sex until they get married."
+      "sourceUrl": "http://www.motleyvision.org/2008/stephanie-meyers-mormonism-and-the-erotics-of-abstinence/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "But Meyer herself is understandably tired of talking about being Mormon. She sees herself as no different then the millions of other religious Americans. She said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 5
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://usatoday30.usatoday.com/life/books/news/2008-07-30-stephenie-meyer-main_N.htm",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "It seems funny that [my being Mormon is] still a story. Because you didn't hear people saying, 'Jon Stewart, Jewish writer,' when his book came out. I guess being a Mormon is just odd enough that people think it's still a real story. Obviously, to me, it seems super normal. It's just my religion.",
       "sourceTitle": "'Twilight' author Stephenie Meyer unfazed as fame dawns",
-      "text": "It seems funny that [my being Mormon is] still a story. Because you didn't hear people saying, 'Jon Stewart, Jewish writer,' when his book came out. I guess being a Mormon is just odd enough that people think it's still a real story. Obviously, to me, it seems super normal. It's just my religion."
+      "sourceUrl": "http://usatoday30.usatoday.com/life/books/news/2008-07-30-stephenie-meyer-main_N.htm"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Politics of the undead"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Meyer is rather non-political. I thought she'd be an automatic Mitt Romney supporter in the 2012 presidential election–but she didn't say if she was or wasn't."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.fanpop.com/spots/critical-analysis-of-twilight/articles/29723/title/anti-feminism-bella-swan-illusion-choice",
+      "parentId": 10,
+      "type": "text",
+      "text": "She has been accused of being anti-feminist, mainly because the main character of the"
+    },
+    {
+      "parentId": 10,
+      "type": "emphasis",
+      "text": "Twilight"
+    },
+    {
+      "type": "text",
+      "text": "series, Bella, is often physically abused by her would-be suitors–and still continues to submit to them.",
+      "parentId": 10,
       "sourceTitle": "Anti-Feminism and the Illusion of Choice: Critical Analysis of Twilight",
-      "text": "She has been accused of being anti-feminist, mainly because the main character of the series, Bella, is often physically abused by her would-be suitors–and still continues to submit to them."
+      "sourceUrl": "http://www.fanpop.com/spots/critical-analysis-of-twilight/articles/29723/title/anti-feminism-bella-swan-illusion-choice"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.fanpop.com/spots/critical-analysis-of-twilight/articles/29723/title/anti-feminism-bella-swan-illusion-choice",
+      "type": "text",
+      "text": "Meyer has disputed these claims, offering well-reasoned and eloquent rebuttals,",
+      "parentId": 10,
       "sourceTitle": "Anti-Feminism and the Illusion of Choice: Critical Analysis of Twilight",
-      "text": "Meyer has disputed these claims, offering well-reasoned and eloquent rebuttals,"
+      "sourceUrl": "http://www.fanpop.com/spots/critical-analysis-of-twilight/articles/29723/title/anti-feminism-bella-swan-illusion-choice"
     },
     {
-      "type": "sentence",
-      "text": "but she also said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but she also said:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://blog.newsok.com/bamsblog/2011/11/20/twilight-author-stephenie-meyer-the-politics-i-never-think-of-when-im-writing/",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "The politics I never think of when I'm writing. It's about a story that is interesting to me.",
       "sourceTitle": "\"Twilight Author Stephenie Meyer: \"The politics I never think of when I'm writing.\"",
-      "text": "The politics I never think of when I'm writing. It's about a story that is interesting to me."
+      "sourceUrl": "http://blog.newsok.com/bamsblog/2011/11/20/twilight-author-stephenie-meyer-the-politics-i-never-think-of-when-im-writing/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "If it's true what they say, Meyer's writing could betray her subconscious. Still, we're left with no leg to stand on in Meyer's political categorization. If you know anything, help us out in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

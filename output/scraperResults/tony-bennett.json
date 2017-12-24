@@ -33,137 +33,217 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Tony Bennett, born Anthony Dominick Benedetto, was born and raised in Queens, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ethnicelebs.com/tony-bennett",
+      "parentId": 2,
+      "type": "text",
+      "text": "Bennett is of complete Italian descent. His father immigrated to the U.S. from Italy and his mother was born shortly after her parents immigrated to the U.S. from Italy.",
       "sourceTitle": "Tony Bennett.",
-      "text": "Bennett is of complete Italian descent. His father immigrated to the U.S. from Italy and his mother was born shortly after her parents immigrated to the U.S. from Italy."
+      "sourceUrl": "http://ethnicelebs.com/tony-bennett"
     },
     {
-      "type": "sentence",
-      "text": "Why is this relevant? Because he's got to be Catholic, right?"
+      "type": "text",
+      "text": "Why is this relevant? Because he's got to be Catholic, right?",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Unfortunately, for a man who's been famous for 70 years, that's about all we've got to go on. Bennett appears to be totally non-religious. The closest I could find to a religious statement from Bennett as in regards to Amy Winehouse. Bennett was a fan of the singer and was concerned for her well-being:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0004746/bio",
-      "sourceTitle": "Tony Bennett (I) – Biography",
-      "text": "I'm worried about her and I'm praying for her. She'd help everyone by sobering up and cleaning up her spirituality."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I'm worried about her and I'm praying for her. She'd help everyone by sobering up and cleaning up her spirituality.",
+      "sourceTitle": "Tony Bennett (I) – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0004746/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "He's praying for her… great. But to whom? Jesus? Buddha? The cookie monster?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "Perhaps Dizzy Gillespie was right about Bennett–his spirituality is in his music. Gillespie said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.amazon.com/Life-Is-Gift-The-Bennett/dp/0062207067",
-      "sourceTitle": "Life Is A Gift: The Zen of Bennett – Tony Bennett",
-      "text": "I think Tony's spirituality is so profound in his performance that that it cuts through everything superfluous, and what's left is raw soulfulness."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I think Tony's spirituality is so profound in his performance that that it cuts through everything superfluous, and what's left is raw soulfulness.",
+      "sourceTitle": "Life Is A Gift: The Zen of Bennett – Tony Bennett",
+      "sourceUrl": "http://www.amazon.com/Life-Is-Gift-The-Bennett/dp/0062207067"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "I think what we've got here is someone who's managed to go his entire life being non-religious. But if I'm wrong, hit me up in the comments."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "Democratic controversy"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Bennett has been a lifelong Democrat. His family struggled during the Great Depression, and Bennett blamed that on Herbert Hoover's presidency, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.forbes.com/2008/07/09/democrats-book-media-oped-cx_jb_0710brady.html",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "The Hoover Administration left everybody so stranded. I have never gotten over that.",
       "sourceTitle": "\"Why I'm A Democrat.\"",
-      "text": "The Hoover Administration left everybody so stranded. I have never gotten over that."
+      "sourceUrl": "http://www.forbes.com/2008/07/09/democrats-book-media-oped-cx_jb_0710brady.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newsbusters.org/blogs/brad-wilmouth/2011/10/11/tony-bennett-obama-americas-greatest-accomplishment-not-sure-if-fight",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "He's stuck to his guns through much of the 20th Century, culminating with Barack Obama, whose election Bennett called \"the greatest accomplishment that the United States ever came up with.\"",
       "sourceTitle": "Tony Bennet: Obama is America's 'Greatest Accomplishment,' Not Sure if Fighting Hitler 'justified.'",
-      "text": "He's stuck to his guns through much of the 20th Century, culminating with Barack Obama, whose election Bennett called \"the greatest accomplishment that the United States ever came up with.\""
+      "sourceUrl": "http://newsbusters.org/blogs/brad-wilmouth/2011/10/11/tony-bennett-obama-americas-greatest-accomplishment-not-sure-if-fight"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Tony_Bennett.php",
+      "type": "text",
+      "text": "Furthermore, all of Bennett's political contributions (measly by celebrity standards) have gone to Democrats.",
+      "parentId": 15,
       "sourceTitle": "Tony Bennett's Federal Campaign Contribution Report",
-      "text": "Furthermore, all of Bennett's political contributions (measly by celebrity standards) have gone to Democrats."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Tony_Bennett.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.theblaze.com/stories/2011/09/20/legendary-singer-tony-bennett-tells-howard-stern-that-america-caused-911/",
+      "parentId": 16,
+      "type": "text",
+      "text": "At times, Bennett's political views have gotten him into hot water. For example, during a guest spot on Howard Stern's radio show, Bennett suggested that the U.S. brought the 9/11 terrorist attacks on themselves with their arrogant, interventionist foreign policy.",
       "sourceTitle": "Legendary Singer Tony Bennett Tells Howard Stern That America 'Caused' 9/11",
-      "text": "At times, Bennett's political views have gotten him into hot water. For example, during a guest spot on Howard Stern's radio show, Bennett suggested that the U.S. brought the 9/11 terrorist attacks on themselves with their arrogant, interventionist foreign policy."
+      "sourceUrl": "http://www.theblaze.com/stories/2011/09/20/legendary-singer-tony-bennett-tells-howard-stern-that-america-caused-911/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsday.com/news/tony-bennett-apologizes-for-9-11-remarks-1.3187187",
+      "type": "text",
+      "text": "It caused a bit of a stir and Bennett later apologized for the remarks.",
+      "parentId": 16,
       "sourceTitle": "Tony Bennett Apologizes for 9/11 remarks",
-      "text": "It caused a bit of a stir and Bennett later apologized for the remarks."
+      "sourceUrl": "http://www.newsday.com/news/tony-bennett-apologizes-for-9-11-remarks-1.3187187"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "Bennett fought in World War II; it was an experience that deeply affected his worldview. And ever since, he's been a vocal proponent of gun control in America. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0004746/bio",
-      "sourceTitle": "Tony Bennett (I) – Biography",
-      "text": "[The war] gave me a social conscience. And the war itself made me a pacifist; I just know that every gun in the world should melt somehow and as soon as possible."
+      "id": 18
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "[The war] gave me a social conscience. And the war itself made me a pacifist; I just know that every gun in the world should melt somehow and as soon as possible.",
+      "sourceTitle": "Tony Bennett (I) – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0004746/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "This issue, too, has caused him to say some extreme and unpopular things. He has compared America's gun culture and the political tolerance of it to Hitler's Germany, and after the Sandy Hook Elementary School shooting in December of 2012, Bennett reinforced his view, saying that the opposition to gun control measures should be \"told off\" and that America had lost its way:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 21
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.realclearpolitics.com/video/2013/02/06/tony_bennett_without_gun_control_us_may_turn_into_nazi_germany.html",
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "We should learn that we're the greatest country, because we're all different nationalities and all different religions. And we should show the rest of the world how to behave.",
       "sourceTitle": "Tony Bennett: Without Gun Control, U.S. May Turn Into Nazi Germany",
-      "text": "We should learn that we're the greatest country, because we're all different nationalities and all different religions. And we should show the rest of the world how to behave."
+      "sourceUrl": "http://www.realclearpolitics.com/video/2013/02/06/tony_bennett_without_gun_control_us_may_turn_into_nazi_germany.html"
     }
   ],
   "wikipediaData": {

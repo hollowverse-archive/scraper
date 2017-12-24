@@ -33,98 +33,151 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Winona Ryder, whose surname at birth was Horowitz, was born in Winona, Minnesota and grew up on a ranch commune in Northern California until age 10 when she moved to Petaluma, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ethnicelebs.com/winona-ryder",
+      "parentId": 2,
+      "type": "text",
+      "text": "Ryder has Jewish ancestry on her father's side, which shouldn't come as too much of a surprise with the last name Horowitz.",
       "sourceTitle": "Winona Ryder.",
-      "text": "Ryder has Jewish ancestry on her father's side, which shouldn't come as too much of a surprise with the last name Horowitz."
+      "sourceUrl": "http://ethnicelebs.com/winona-ryder"
     },
     {
-      "type": "sentence",
-      "text": "But that doesn't mean she grew up in the Jewish religion. She said about her parents,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But that doesn't mean she grew up in the Jewish religion. She said about her parents,",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.mlquotes.com/authors/winona_ryder/",
-      "sourceTitle": "Winona Ryder Quotes.",
-      "text": "My father is an atheist. My mother is Buddhist. They encouraged my siblings and me to take the best part of other religions to make our own belief system."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "My father is an atheist. My mother is Buddhist. They encouraged my siblings and me to take the best part of other religions to make our own belief system.",
+      "sourceTitle": "Winona Ryder Quotes.",
+      "sourceUrl": "http://www.mlquotes.com/authors/winona_ryder/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "It looks like her own spiritual journey led her down her mother's path, but not in a terribly devout way. She said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.mlquotes.com/authors/winona_ryder/",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I still practice Buddhism to a certain extent and I believe in karma.",
       "sourceTitle": "Winona Ryder Quotes.",
-      "text": "I still practice Buddhism to a certain extent and I believe in karma."
+      "sourceUrl": "http://www.mlquotes.com/authors/winona_ryder/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.aceshowbiz.com/news/view/w0008978.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "That's pretty much all we have on Ryder's religious affiliation. Even though she was Jewish enough to solicit a remark from Mel Gibson who called her an \"oven-dodger\" at a party once,",
       "sourceTitle": "Winona Ryder Insulted by Mel Gibson at Their First Meeting.",
-      "text": "That's pretty much all we have on Ryder's religious affiliation. Even though she was Jewish enough to solicit a remark from Mel Gibson who called her an \"oven-dodger\" at a party once,"
+      "sourceUrl": "http://www.aceshowbiz.com/news/view/w0008978.html"
     },
     {
-      "type": "sentence",
-      "text": "it doesn't seem like Ryder feels too connected to the Jewish faith."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "it doesn't seem like Ryder feels too connected to the Jewish faith.",
+      "parentId": 8
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Hippie to Hollywood"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.allamericanspeakers.com/speakers/Wynona-Ryder/388643",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Even though we don't have a whole lot of explicit information about Winona Ryder's political beliefs, there's no doubt that she's liberal. First of all, her upbringing by a Buddhist and an atheist who were friends with beat poet Allen Ginsburg and lived on a commune does not suggest a conservative Republican childhood.",
       "sourceTitle": "Wynona Rider Speaker Bio.",
-      "text": "Even though we don't have a whole lot of explicit information about Winona Ryder's political beliefs, there's no doubt that she's liberal. First of all, her upbringing by a Buddhist and an atheist who were friends with beat poet Allen Ginsburg and lived on a commune does not suggest a conservative Republican childhood."
+      "sourceUrl": "http://www.allamericanspeakers.com/speakers/Wynona-Ryder/388643"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.aceshowbiz.com/news/view/w0008978.html",
+      "parentId": 11,
+      "type": "text",
+      "text": "She also seems to be down with gay people–she was equally offended when Mel Gibson made a \"horrible gay joke\" about her gay friend as she was about his antisemitic remarks to herself–implying that she would most likely support gay marriage initiatives.",
       "sourceTitle": "Winona Ryder Insulted by Mel Gibson at Their First Meeting.",
-      "text": "She also seems to be down with gay people–she was equally offended when Mel Gibson made a \"horrible gay joke\" about her gay friend as she was about his antisemitic remarks to herself–implying that she would most likely support gay marriage initiatives."
+      "sourceUrl": "http://www.aceshowbiz.com/news/view/w0008978.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "She also seemed optimistic as the George W. Bush presidency was drawing to a close and that of Obama was beginning:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://winona-ryder.org/2009/07/winona-ryder-america-is-too-much-puritan-but-with-obama-things-will-change/",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I hope that this new time, with Barack Obama. . . let us to leave behind this dark atmosphere which derives from the George Bush government. . . . I feel that everything will change.",
       "sourceTitle": "Winona Ryder: \"America is too much puritan but with Obama things will change.\"",
-      "text": "I hope that this new time, with Barack Obama. . . let us to leave behind this dark atmosphere which derives from the George Bush government. . . . I feel that everything will change."
+      "sourceUrl": "http://winona-ryder.org/2009/07/winona-ryder-america-is-too-much-puritan-but-with-obama-things-will-change/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "She might not be living on a commune, but she sounds pretty liberal to me."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

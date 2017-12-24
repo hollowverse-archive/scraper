@@ -35,98 +35,136 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Hayden Panettiere was born and raised in Palisades, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0659363/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Panettiere is of Italian descent; her name means \"baker\" in Italian.",
       "sourceTitle": "Hayden Panettiere – Biography",
-      "text": "Panettiere is of Italian descent; her name means \"baker\" in Italian."
+      "sourceUrl": "http://www.imdb.com/name/nm0659363/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lucywho.com/hayden-panettiere-t977.html",
+      "type": "text",
+      "text": "So naturally, one would assume she's a Catholic. There is quite a bit of confirmation on that,",
+      "parentId": 2,
       "sourceTitle": "Hayden Panettiere",
-      "text": "So naturally, one would assume she's a Catholic. There is quite a bit of confirmation on that,"
+      "sourceUrl": "http://www.lucywho.com/hayden-panettiere-t977.html"
     },
     {
-      "type": "sentence",
-      "text": "but as far as I can tell, she's never talked about it."
+      "type": "text",
+      "text": "but as far as I can tell, she's never talked about it.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://lh3.ggpht.com/elaing.zhang/SIPfPBHHShI/AAAAAAAAR5o/nwygduQsrEg/s800/Hayden_Panettiere080721003.jpg",
+      "parentId": 3,
+      "type": "text",
+      "text": "She did seem rather comfortable doing the sexy Catholic school girl photo shoot.",
       "sourceTitle": "Hayden Panettiere",
-      "text": "She did seem rather comfortable doing the sexy Catholic school girl photo shoot."
+      "sourceUrl": "http://lh3.ggpht.com/elaing.zhang/SIPfPBHHShI/AAAAAAAAR5o/nwygduQsrEg/s800/Hayden_Panettiere080721003.jpg"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Further evidence that religion probably isn't a big deal to Panettiere is the fact that it plays no role in the projects she chooses to work on. In fact, as young as 15, she was saying she really only tries to determine if it will be fun or not:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 5
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.previewonline.org/interviews/dustfactory.html",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I've never really based my choice of films on a religious belief… I believe that people need to just live life and enjoy it. When I read a script, I'm asking, 'Am I going to have fun in this film? Am I going to experience life? Will I have good experiences with people?' I don't ask, 'Does this specifically have to do with religion?'",
       "sourceTitle": "Preview Interview with Cast of The Dust Factory",
-      "text": "I've never really based my choice of films on a religious belief… I believe that people need to just live life and enjoy it. When I read a script, I'm asking, 'Am I going to have fun in this film? Am I going to experience life? Will I have good experiences with people?' I don't ask, 'Does this specifically have to do with religion?'"
+      "sourceUrl": "http://www.previewonline.org/interviews/dustfactory.html"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Political hero?"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.people.com/people/article/0,,20157993,00.html",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Panettiere is a particularly active starlet. Her main objectives revolve around wildlife preservation–especially sea life. Her most daring stunt was to surf out to dolphin hunting boats in Japan in an attempt to disrupt their activities. She and her cohorts were not warmly received, prodded with poles and eventually forced to return to shore without completing their mission.",
       "sourceTitle": "Hayden Panettiere Speaks Out on Protesting Dolphin Hunt",
-      "text": "Panettiere is a particularly active starlet. Her main objectives revolve around wildlife preservation–especially sea life. Her most daring stunt was to surf out to dolphin hunting boats in Japan in an attempt to disrupt their activities. She and her cohorts were not warmly received, prodded with poles and eventually forced to return to shore without completing their mission."
+      "sourceUrl": "http://www.people.com/people/article/0,,20157993,00.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usmagazine.com/celebrity-news/news/hayden-panettiere-why-i-fight-for-endangered-whales-dolphins-2011178",
+      "parentId": 10,
+      "type": "text",
+      "text": "She's also protested whale hunting",
       "sourceTitle": "Hayden Panettiere: Why I Fight for Endangered Whales, Dolphins",
-      "text": "She's also protested whale hunting"
+      "sourceUrl": "http://www.usmagazine.com/celebrity-news/news/hayden-panettiere-why-i-fight-for-endangered-whales-dolphins-2011178"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.peoplepets.com/people/pets/article/0,,20521475,00.html",
+      "type": "text",
+      "text": "and is an international spokesperson for the Whaleman Foundation.",
+      "parentId": 10,
       "sourceTitle": "Hayden Panettiere, Dolphin and Whale Activism",
-      "text": "and is an international spokesperson for the Whaleman Foundation."
+      "sourceUrl": "http://www.peoplepets.com/people/pets/article/0,,20521475,00.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.myspace.com/video/sterling/hayden-panettiere-psa-vote-for-mccain/44689679",
+      "parentId": 11,
+      "type": "text",
+      "text": "In the U.S. party politics category, Panettiere is a Democrat. During the 2008 election, she made a funny public service announcement, sarcastically telling people to vote for McCain because he's \"just like George Bush, except older and with a worse temper.\"",
       "sourceTitle": "Hayden Panettiere PSA: Vote for McCain Video by Sterling",
-      "text": "In the U.S. party politics category, Panettiere is a Democrat. During the 2008 election, she made a funny public service announcement, sarcastically telling people to vote for McCain because he's \"just like George Bush, except older and with a worse temper.\""
+      "sourceUrl": "http://www.myspace.com/video/sterling/hayden-panettiere-psa-vote-for-mccain/44689679"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/americas/us_elections_2008/7691622.stm",
+      "parentId": 12,
+      "type": "text",
+      "text": "In all seriousness, she endorsed Barack Obama. She had a chance to meet him during the 2008 campaign and she naturally asked him about dolphins and whales. Apparently, Obama responded by saying that he was raised in Hawaii, so he cares about sea mammals. And that was enough to sway Panettiere.",
       "sourceTitle": "Heroes star backing Obama",
-      "text": "In all seriousness, she endorsed Barack Obama. She had a chance to meet him during the 2008 campaign and she naturally asked him about dolphins and whales. Apparently, Obama responded by saying that he was raised in Hawaii, so he cares about sea mammals. And that was enough to sway Panettiere."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/americas/us_elections_2008/7691622.stm"
     }
   ],
   "wikipediaData": {

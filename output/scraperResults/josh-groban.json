@@ -36,92 +36,144 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Josh Groban was born and raised in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.biggeststars.com/j/josh-groban-biography.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Groban comes from a diverse religious background. His father was originally Jewish, but converted to Christianity to marry Groban's mother. The family was raised attending Episcopalian Church services.",
       "sourceTitle": "osh Groban Biography",
-      "text": "Groban comes from a diverse religious background. His father was originally Jewish, but converted to Christianity to marry Groban's mother. The family was raised attending Episcopalian Church services."
+      "sourceUrl": "http://www.biggeststars.com/j/josh-groban-biography.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Groban acknowledges his Jewish roots, though it's unclear if he identifies with them in any way. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.grobanarchives.com/transcripts/tra021213a.html",
-      "sourceTitle": "Dave 'Til Dawn",
-      "text": "My dad converted when he married my mom, actually, to Christianity, but his whole family'sside is Jewish, and so I do have that whole history with my family."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "My dad converted when he married my mom, actually, to Christianity, but his whole family'sside is Jewish, and so I do have that whole history with my family.",
+      "sourceTitle": "Dave 'Til Dawn",
+      "sourceUrl": "http://www.grobanarchives.com/transcripts/tra021213a.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "In fact, it's hard to know if Groban identifies with any religion, which might come as a surprise considering his quasi-religious song lyrics and his strong Christian fan base. In one song, \"The Prayer,\" Groban sings:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.azlyrics.com/lyrics/joshgroban/theprayer.html",
-      "sourceTitle": "Josh Groban Lyrics – The Prayer",
-      "text": "Let this be our prayer/As we go our way/Lead us to a place/Guide us with your Grace."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Let this be our prayer/As we go our way/Lead us to a place/Guide us with your Grace.",
+      "sourceTitle": "Josh Groban Lyrics – The Prayer",
+      "sourceUrl": "http://www.azlyrics.com/lyrics/joshgroban/theprayer.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Currently, Groban has made no public professions of faith, nor has he been spotted leaving any particular church on Sunday. So, we'll acknowledge his Judeo-Christian upbringing and assume he leans toward the more non-religious side of things until further notice."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "The king of Grobania"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://www.youtube.com/watch?v=dtbZx5Kl5t8",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Groban has been about as mysterious regarding his politics as he has been about his religious views. However, he did sing at Obama's inauguration party in 2009,",
       "sourceTitle": "Josh Groban – Obama's big day in Washington",
-      "text": "Groban has been about as mysterious regarding his politics as he has been about his religious views. However, he did sing at Obama's inauguration party in 2009,"
+      "sourceUrl": "https://www.youtube.com/watch?v=dtbZx5Kl5t8"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.freejgfan.opinionandtruth.com/category/josh-groban/",
+      "type": "text",
+      "text": "which has some of his fans worried that he'll alienate much of his fan base.",
+      "parentId": 11,
       "sourceTitle": "Josh Groban",
-      "text": "which has some of his fans worried that he'll alienate much of his fan base."
+      "sourceUrl": "http://www.freejgfan.opinionandtruth.com/category/josh-groban/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "After meeting the president, Groban had only kind and sympathetic words:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.okmagazine.com/barack-obama/josh-groban-gets-obama-jitters",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I was very nervous–heathynerves though. I try not to get terrified. I think we all wanted to do our best and take a breath and realize that nobody has a harder job than he does right now… I just told him that it was an honor to sing for him and I was available for anything he ever needed, just to let me know.",
       "sourceTitle": "Josh Groban Gets Obama Jitters",
-      "text": "I was very nervous–heathynerves though. I try not to get terrified. I think we all wanted to do our best and take a breath and realize that nobody has a harder job than he does right now… I just told him that it was an honor to sing for him and I was available for anything he ever needed, just to let me know."
+      "sourceUrl": "http://www.okmagazine.com/barack-obama/josh-groban-gets-obama-jitters"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "\"Available for anything he ever needed,\" huh?That sounds a bit like explicit support to me. And while it's tempting to label Groban a Democrat after such a statement, I'll hold off until something more concrete comes through. Keep us updated in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

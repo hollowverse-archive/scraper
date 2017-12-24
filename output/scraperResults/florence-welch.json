@@ -32,99 +32,183 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Florence Welch was born and raised in London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "Welch's fascination with religion and spirituality is apparent if you've heard any of her songs or seen any of her . Religious imagery is all over the lyrics of her band Florence and the Machine. In the song \"Bedroom Hymns,\" she sings,"
+      "parentId": 2,
+      "type": "text",
+      "text": "Welch's fascination with religion and spirituality is apparent if you've heard any of her songs or seen any of her"
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "link",
+      "text": "music videos",
+      "sourceUrl": "http://www.youtube.com/watch?v=TpLXQorSQe8"
+    },
+    {
+      "type": "text",
+      "text": ". Religious imagery is all over the lyrics of her band Florence and the Machine. In the song \"Bedroom Hymns,\" she sings,",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.songmeanings.net/songs/view/3530822107858872705/",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Make me your Maria/ I'm already on my knees/ You had Jesus on your breath/ And I caught him in mine/ Sweating our confessions/ The undone and the divine/ This is his body/ This is his blood",
       "sourceTitle": "Bedroom Hymns Lyric Meaning.",
-      "text": "Make me your Maria/ I'm already on my knees/ You had Jesus on your breath/ And I caught him in mine/ Sweating our confessions/ The undone and the divine/ This is his body/ This is his blood"
+      "sourceUrl": "http://www.songmeanings.net/songs/view/3530822107858872705/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.digitalspy.com/music/news/a329768/florence-welch-to-wear-shaman-robes-for-new-album.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "And her interest doesn't stop at Christianity. She mentioned in one interview that she thought it would be \"fun\" to get everyone in the band dressed up in shaman's robes while they were in the recording studio.",
       "sourceTitle": "Florence Welch 'to wear shaman robes for new album.'",
-      "text": "And her interest doesn't stop at Christianity. She mentioned in one interview that she thought it would be \"fun\" to get everyone in the band dressed up in shaman's robes while they were in the recording studio."
+      "sourceUrl": "http://www.digitalspy.com/music/news/a329768/florence-welch-to-wear-shaman-robes-for-new-album.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "But fascination doesn't necessarily translate into belief. Welch said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.digitalspy.com/music/news/a329768/florence-welch-to-wear-shaman-robes-for-new-album.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I love seances, witchcraft, heaven and hell, voodoo, gospel, possession, demons, exorcism and all that stuff. . . . I'm not a religious person. Sex, violence, love, death, all the topics that I'm constantly wrestling with, it's all connected back to religion.",
       "sourceTitle": "Florence Welch 'to wear shaman robes for new album.'",
-      "text": "I love seances, witchcraft, heaven and hell, voodoo, gospel, possession, demons, exorcism and all that stuff. . . . I'm not a religious person. Sex, violence, love, death, all the topics that I'm constantly wrestling with, it's all connected back to religion."
+      "sourceUrl": "http://www.digitalspy.com/music/news/a329768/florence-welch-to-wear-shaman-robes-for-new-album.html"
     },
     {
-      "type": "sentence",
-      "text": "It all comes back to religion, doesn't it? I suppose that's why we're doing what we're doing here at the Hollowverse. But it's not  about religion. . . or is it?"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "break"
+      "parentId": 9,
+      "type": "text",
+      "text": "It all comes back to religion, doesn't it? I suppose that's why we're doing what we're doing here at the Hollowverse. But it's not"
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "all"
+    },
+    {
+      "type": "text",
+      "text": "about religion. . . or is it?",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Unpolitics and the British Machine"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "For all of Welch's non-religious interest in religion, she does not feel the same way about politics. She's more of the non-political and completely non-interested type. She said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.stylist.co.uk/fashion/florence-welch-lost-in-music#image-rotator-1",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I'm not the most politically minded person. There's nothing inspiring at the moment in British politics. [My interest] might change when I have a family though.",
       "sourceTitle": "Florence Welch: Lost In Music.",
-      "text": "I'm not the most politically minded person. There's nothing inspiring at the moment in British politics. [My interest] might change when I have a family though."
+      "sourceUrl": "http://www.stylist.co.uk/fashion/florence-welch-lost-in-music#image-rotator-1"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2152932/Florence-Welch-British-new-Harpers-Bazaar.html",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "But despite that, she's a big fan of the Royal Family. She described the day Prince William and Kate Middleton married as \"the best day ever.\" And said she imagined the Queen knew the answers to all sorts of important questions, like the best words to use in Scrabble.",
       "sourceTitle": "Florence Welch on 'becoming more British' in Harper's Bazaar.",
-      "text": "But despite that, she's a big fan of the Royal Family. She described the day Prince William and Kate Middleton married as \"the best day ever.\" And said she imagined the Queen knew the answers to all sorts of important questions, like the best words to use in Scrabble."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2152932/Florence-Welch-British-new-Harpers-Bazaar.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "She also said that she feels more connected to her country as she gets older:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2152932/Florence-Welch-British-new-Harpers-Bazaar.html",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I am definitely growing into my Britishness. The more I grow up, the more British I become.",
       "sourceTitle": "Florence Welch on 'becoming more British' in new Harper's Bazaar.",
-      "text": "I am definitely growing into my Britishness. The more I grow up, the more British I become."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2152932/Florence-Welch-British-new-Harpers-Bazaar.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "So maybe there's hope for her yet. Once she starts a family, starts viewing her love of the Royals as a political position, or anything else, let us know in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

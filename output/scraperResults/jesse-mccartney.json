@@ -33,124 +33,192 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jesse McCartney was born in Westchester, New York and grew up in the New York City area."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.foxnews.com/slideshow/entertainment/2009/07/31/born-christian-stars/#slide=10",
+      "parentId": 2,
+      "type": "text",
+      "text": "McCartney identifies himself as a born-again Christian",
       "sourceTitle": "Born-Again Christian Stars",
-      "text": "McCartney identifies himself as a born-again Christian"
+      "sourceUrl": "http://www.foxnews.com/slideshow/entertainment/2009/07/31/born-christian-stars/#slide=10"
     },
     {
-      "type": "sentence",
-      "text": "and grew up going to church. As an adult, McCartney is involved in various humanitarian charities, and he says it was his religious upbringing that inspired him to do so:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and grew up going to church. As an adult, McCartney is involved in various humanitarian charities, and he says it was his religious upbringing that inspired him to do so:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/jesse_mccartney.html",
-      "sourceTitle": "Jesse McCartney Quotes",
-      "text": "We went to church every Sunday. I do think it's my duty to give back."
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://prayerbracelet.wordpress.com/2011/01/03/religious-bracelets-jesse-mccartney-even-more-prayer-bracelets/",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "We went to church every Sunday. I do think it's my duty to give back.",
+      "sourceTitle": "Jesse McCartney Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/jesse_mccartney.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "It's been reported that McCartney often wears Christian prayer bracelets,",
       "sourceTitle": "Jesse McCartney even more prayer bracelets",
-      "text": "It's been reported that McCartney often wears Christian prayer bracelets,"
+      "sourceUrl": "http://prayerbracelet.wordpress.com/2011/01/03/religious-bracelets-jesse-mccartney-even-more-prayer-bracelets/"
     },
     {
-      "type": "sentence",
-      "text": "but really, McCartney doesn't really talk about his faith. He does, however, acknowledge religion's influence on his current worldview:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but really, McCartney doesn't really talk about his faith. He does, however, acknowledge religion's influence on his current worldview:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/jesse_mccartney.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Maybe it's because of my upbringing, but I do consider myself a moral guy.",
       "sourceTitle": "Jesse McCartney Quotes",
-      "text": "Maybe it's because of my upbringing, but I do consider myself a moral guy."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/j/jesse_mccartney.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.parade.com/celebrity/2009/07/jesse-mccartney-moral-guy-090705.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "This is all pretty mild stuff. My guess is that McCartney is either deliberately quiet about his religious beliefs or he is, in fact, only mildly religious. When it came to the \"purity rings\" of his contemporaries, The Jonas Brothers, McCartney said he'd never take it that far and that he's \"single\" and \"seeing what's out there.\"",
       "sourceTitle": "Jesse McCartney: 'I consider myself a moral guy.'",
-      "text": "This is all pretty mild stuff. My guess is that McCartney is either deliberately quiet about his religious beliefs or he is, in fact, only mildly religious. When it came to the \"purity rings\" of his contemporaries, The Jonas Brothers, McCartney said he'd never take it that far and that he's \"single\" and \"seeing what's out there.\""
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.parade.com/celebrity/2009/07/jesse-mccartney-moral-guy-090705.html"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Forget politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://jessemccartney.top-talk.net/t59-jesse-mccartney-for-obama",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "McCartney is wily when it comes to politics. There is no indication that I can find outlining his views, though some claim he supported Obama in 2012.",
       "sourceTitle": "Jesse McCartney for Obama",
-      "text": "McCartney is wily when it comes to politics. There is no indication that I can find outlining his views, though some claim he supported Obama in 2012."
+      "sourceUrl": "http://jessemccartney.top-talk.net/t59-jesse-mccartney-for-obama"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "During Election night in 2012, McCartney posted a screenshot of a news report showing Obama and Romney both with 49% of the vote on his Twitter account. He tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/JesseMcCartney",
-      "sourceTitle": "Jesse McCartney",
-      "text": "One Nation, Undivided?"
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "One Nation, Undivided?",
+      "sourceTitle": "Jesse McCartney",
+      "sourceUrl": "https://twitter.com/JesseMcCartney"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "It's quite profound, really."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=DrHsOQfiptA",
+      "parentId": 15,
+      "type": "text",
+      "text": "Speaking of American platitudes, McCartney forgot the lyrics to the National Anthem at a NASCAR race.",
       "sourceTitle": "Jesse McCartney Forgets Words to National Anthem",
-      "text": "Speaking of American platitudes, McCartney forgot the lyrics to the National Anthem at a NASCAR race."
+      "sourceUrl": "http://www.youtube.com/watch?v=DrHsOQfiptA"
     },
     {
-      "type": "sentence",
-      "text": "He was probably just nervous, but I can't imagine it happening anywhere worse than a NASCAR race."
+      "type": "text",
+      "text": "He was probably just nervous, but I can't imagine it happening anywhere worse than a NASCAR race.",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "McCartney is not offended by the alternative lifestyles of his fans–maybe a little bit liberal? He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.jesus-is-savior.com/Evils%20in%20America/Rock-n-Roll/jesse_mccartney.htm",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Hey man! The more the merrier! You know a fan's a fan. You know it doesn't matter what your sexuality is.",
       "sourceTitle": "Jesse McCartney & The Godless Unisex Crowd",
-      "text": "Hey man! The more the merrier! You know a fan's a fan. You know it doesn't matter what your sexuality is."
+      "sourceUrl": "http://www.jesus-is-savior.com/Evils%20in%20America/Rock-n-Roll/jesse_mccartney.htm"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "All in all, he's a bit white bread, vague, and ambiguous. But hey, the ladies love him."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -183,7 +251,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Flickr images reviewed by trusted users|Jesse McCartney",
+            "value": "Files from Justin Higuchi Flickr stream|Flickr images reviewed by trusted users|Jesse McCartney",
             "source": "commons-categories",
             "hidden": ""
           },

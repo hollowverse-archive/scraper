@@ -34,103 +34,158 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "James Cameron was born in Kapuskasing, Ontario, Canada, and grew up in Chippewa, Ontario, Canada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pc/James_Cameron.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Cameron's parents are said to have grown up in \"traditional families with religious values\" and brought James up in a Protestant Christian home.",
       "sourceTitle": "The religion of director James Cameron",
-      "text": "Cameron's parents are said to have grown up in \"traditional families with religious values\" and brought James up in a Protestant Christian home."
+      "sourceUrl": "http://www.adherents.com/people/pc/James_Cameron.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://io9.com/5433164/the-epic-movie+making-adventures-of-james-cameron",
+      "parentId": 3,
+      "type": "text",
+      "text": "Cameron, however, has bucked the traditions of his childhood and has moved from agnostic to full-blown atheist. It is reported that Cameron used to consider himself an agnostic, but has since called agnosticism \"cowardly atheism.\" His aversion to religion began in his childhood. When the other kids in Cameron's school were saying the Lord's Prayer, he declined to join in, calling it a \"tribal chant.\"",
       "sourceTitle": "The Epic Movie-Making Adventures Of James Cameron",
-      "text": "Cameron, however, has bucked the traditions of his childhood and has moved from agnostic to full-blown atheist. It is reported that Cameron used to consider himself an agnostic, but has since called agnosticism \"cowardly atheism.\" His aversion to religion began in his childhood. When the other kids in Cameron's school were saying the Lord's Prayer, he declined to join in, calling it a \"tribal chant.\""
+      "sourceUrl": "http://io9.com/5433164/the-epic-movie+making-adventures-of-james-cameron"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cinemablend.com/new/James-Cameron-To-Terminate-Christianity-4562.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "Cameron has since attempted to debunk any claims of supernatural miracles in Christianity with his documentary film,"
+    },
+    {
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "The Lost Tomb of Jesus"
+    },
+    {
+      "type": "text",
+      "text": ". The film claims to have found the remains of Jesus Christ, Mary Magdalene, and their children. Citing the names on the tombs and DNA evidence, the film seeks to show that Jesus was a regular guy who died and was not resurrected.",
+      "parentId": 4,
       "sourceTitle": "James Cameron To Terminate Christianity",
-      "text": "Cameron has since attempted to debunk any claims of supernatural miracles in Christianity with his documentary film, . The film claims to have found the remains of Jesus Christ, Mary Magdalene, and their children. Citing the names on the tombs and DNA evidence, the film seeks to show that Jesus was a regular guy who died and was not resurrected."
+      "sourceUrl": "http://www.cinemablend.com/new/James-Cameron-To-Terminate-Christianity-4562.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ftlcomm.com/ensign/editorials/LTE/thomson/thomson005/newsweek.pdf",
+      "parentId": 5,
+      "type": "text",
+      "text": "The \"scientific results\" of the film were largely dismissed, even by the scientists who worked for Cameron.",
       "sourceTitle": "Have Researchers Found Jesus Christ's Tomb – Newsweek Beliefs",
-      "text": "The \"scientific results\" of the film were largely dismissed, even by the scientists who worked for Cameron."
+      "sourceUrl": "http://www.ftlcomm.com/ensign/editorials/LTE/thomson/thomson005/newsweek.pdf"
     },
     {
-      "type": "sentence",
-      "text": "Still, it takes quite the religious antagonist to try to disprove Christianity."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Still, it takes quite the religious antagonist to try to disprove Christianity.",
+      "parentId": 5
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Politics is a sinking ship"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/James_Cameron.php",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Financially, James Cameron has a Democratic history. Between 1992 and 2004, Cameron contributed $8,000 to Democratic candidates. But his most recent–and largest–single donation went to the California Republican Party,",
       "sourceTitle": "James Cameron's Federal Campaign Contribution Report",
-      "text": "Financially, James Cameron has a Democratic history. Between 1992 and 2004, Cameron contributed $8,000 to Democratic candidates. But his most recent–and largest–single donation went to the California Republican Party,"
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/James_Cameron.php"
     },
     {
-      "type": "sentence",
-      "text": "possibly indicating a shift in his ideology."
+      "type": "text",
+      "text": "possibly indicating a shift in his ideology.",
+      "parentId": 7
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newyorker.com/reporting/2009/10/26/091026fa_fact_goodyear",
+      "parentId": 8,
+      "type": "text",
+      "text": "But despite living in California for more than 20 years, Cameron is still a Canadian national, so American politics are secondary to him and he can't actually vote. He did apply for U.S. citizenship at one point, but then withdrew his application when George W. Bush won a second term as president in 2004.",
       "sourceTitle": "James Cameron and \"Avatar.\"",
-      "text": "But despite living in California for more than 20 years, Cameron is still a Canadian national, so American politics are secondary to him and he can't actually vote. He did apply for U.S. citizenship at one point, but then withdrew his application when George W. Bush won a second term as president in 2004."
+      "sourceUrl": "http://www.newyorker.com/reporting/2009/10/26/091026fa_fact_goodyear"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "One would be hard-pressed to call Cameron a liberal, though. He's a peacenik, but in a somewhat contradictory way. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.newyorker.com/reporting/2009/10/26/091026fa_fact_goodyear",
-      "sourceTitle": "James Cameron and \"Avatar.\"",
-      "text": "I suppose you could say I believe in peace through superior firepower. I don't believe that the human race is going to suddenly evolve to the point that we can all join hands and sing 'Kumbaya.'"
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I suppose you could say I believe in peace through superior firepower. I don't believe that the human race is going to suddenly evolve to the point that we can all join hands and sing 'Kumbaya.'",
+      "sourceTitle": "James Cameron and \"Avatar.\"",
+      "sourceUrl": "http://www.newyorker.com/reporting/2009/10/26/091026fa_fact_goodyear"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "That's probably realistic. He's quite realistic, actually. He said of Obama in 2012, as election mud was being slung:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 13
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.politico.com/blogs/click/2012/04/james-cameron-treading-water-with-obama-119642.html",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I think we all feel a sense of disappointment in Obama that promises were not kept. But I also think that he's been handed the tiller just as the ship went into the rapids.",
       "sourceTitle": "James Cameron sizes up Obama.",
-      "text": "I think we all feel a sense of disappointment in Obama that promises were not kept. But I also think that he's been handed the tiller just as the ship went into the rapids."
+      "sourceUrl": "http://www.politico.com/blogs/click/2012/04/james-cameron-treading-water-with-obama-119642.html"
     }
   ],
   "wikipediaData": {

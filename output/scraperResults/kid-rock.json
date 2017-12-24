@@ -35,115 +35,204 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kid Rock, whose real name is Robert Ritchie, was born and raised in Romeo, Michigan."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Kid is a Christian of some kind. He's no evangelist and it probably isn't something that dominates his life though. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.ontheredcarpet.com/Kid-Rocks-new-album-Born-Free-tackles-religion--features-Sheryl-Crow--rapper-T-I-/7789961",
-      "sourceTitle": "Kid Rock's 'Born Free' album tackles religion",
-      "text": "Faith-wise, I do believe in God, but not in a Bible-thumping way."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Faith-wise, I do believe in God, but not in a Bible-thumping way.",
+      "sourceTitle": "Kid Rock's 'Born Free' album tackles religion",
+      "sourceUrl": "http://www.ontheredcarpet.com/Kid-Rocks-new-album-Born-Free-tackles-religion--features-Sheryl-Crow--rapper-T-I-/7789961"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Some of his songs tackle Christian themes. For example, a lyric from his song, \"Amen\" reads:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.songmeanings.net/songs/view/3530822107858689053/",
-      "sourceTitle": "Amen Lyric Meaning",
-      "text": "Put faith in human nature, our creator and our savior/I'm no saint but I believe in what is right."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Put faith in human nature, our creator and our savior/I'm no saint but I believe in what is right.",
+      "sourceTitle": "Amen Lyric Meaning",
+      "sourceUrl": "http://www.songmeanings.net/songs/view/3530822107858689053/"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "The young Rock often acknowledges his shortcomings as a Christian, as is evident in the song lyric above. Like the best of them, he understands that its a struggle to be a good man and people must try their best to be forgiving of each other. Speaking of his ire for famous drummer and the ex-husband of his ex-wife, Tommy Lee, Kid Rock said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.blabbermouth.net/news.aspx?mode=Article&newsitemID=9986",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "He's done a lot of bad things to a lot of innocent people. I'm a God-fearing man. I'm all about forgiveness. At the same time, I have a tough time getting there.",
       "sourceTitle": "Kid Rock Talks War with Iraq, Peace with Tommy Lee",
-      "text": "He's done a lot of bad things to a lot of innocent people. I'm a God-fearing man. I'm all about forgiveness. At the same time, I have a tough time getting there."
+      "sourceUrl": "http://www.blabbermouth.net/news.aspx?mode=Article&newsitemID=9986"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Not from Hollywood politics"
     },
     {
-      "type": "sentence",
-      "text": "Kid Rock is a Republican, and exudes that flag-waving, kick-anybody's-ass-who-messes-with-America patriotism. For example, during the height of the second Iraq War, Kid Rock backed President Bush and justified the controversial war  saying:"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "text",
+      "text": "Kid Rock is a Republican, and exudes that flag-waving, kick-anybody's-ass-who-messes-with-America patriotism. For example, during the height of the second Iraq War, Kid Rock backed President Bush and justified the controversial war"
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "by"
+    },
+    {
+      "type": "text",
+      "text": "saying:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.blabbermouth.net/news.aspx?mode=Article&newsitemID=9986",
-      "sourceTitle": "Kid Rock Talks War with Iraq, Peace with Tommy Lee",
-      "text": "Why is everybody trying to stop the war? …We got to kill that motherfucker Saddam. Slit his throat. Kill him and the guy in North Korea. Are some women and children going to die? Yeah. But it is doing the right thing."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Why is everybody trying to stop the war? …We got to kill that motherfucker Saddam. Slit his throat. Kill him and the guy in North Korea. Are some women and children going to die? Yeah. But it is doing the right thing.",
+      "sourceTitle": "Kid Rock Talks War with Iraq, Peace with Tommy Lee",
+      "sourceUrl": "http://www.blabbermouth.net/news.aspx?mode=Article&newsitemID=9986"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Was it anger over 9/11 that got Kid Rock so riled up or is he just towing the line for the Republican Party by backing up George W. Bush?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://gawker.com/5888993/",
+      "parentId": 17,
+      "type": "text",
+      "text": "As it turns out, he's towing the line. During the 2012 election, Kid Rock turned his back on the vast majority of his entertainer colleagues and explicitly endorsed Republican Mitt Romney,",
       "sourceTitle": "Kid Rock Endorses Mitt Romney With Awkward Michigan Rally Concert",
-      "text": "As it turns out, he's towing the line. During the 2012 election, Kid Rock turned his back on the vast majority of his entertainer colleagues and explicitly endorsed Republican Mitt Romney,"
+      "sourceUrl": "http://gawker.com/5888993/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.politico.com/blogs/click/1211/Mitt_Romneys_2012_theme_song_by_Kid_Rock.html",
+      "type": "text",
+      "text": "provided a theme song for Romney's campaign",
+      "parentId": 17,
       "sourceTitle": "Mitt Romeny's 2012 theme song by Kid Rock",
-      "text": "provided a theme song for Romney's campaign"
+      "sourceUrl": "http://www.politico.com/blogs/click/1211/Mitt_Romneys_2012_theme_song_by_Kid_Rock.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://gawker.com/5888993/",
+      "type": "text",
+      "text": "and performed at a rally in Michigan for the candidate.",
+      "parentId": 17,
       "sourceTitle": "Kid Rock Endorses Mitt Romney With Awkward Michigan Rally Concert",
-      "text": "and performed at a rally in Michigan for the candidate."
+      "sourceUrl": "http://gawker.com/5888993/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "And during a private concert in Tampa Bay, Florida during the 2012 Republican National Convention, Kid Rock free-styled the rap:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.mlive.com/entertainment/detroit/index.ssf/2012/08/kid_rock_in_tampa_obama_is_lyi.html",
+      "id": 19
+    },
+    {
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "They say Obama is lyin' / That's why I'm voting for Romney and Ryan.",
       "sourceTitle": "Kid Rock in Tampa: 'Obama is lyin' that's why I'm voting for Romney and Ryan",
-      "text": "They say Obama is lyin' / That's why I'm voting for Romney and Ryan."
+      "sourceUrl": "http://www.mlive.com/entertainment/detroit/index.ssf/2012/08/kid_rock_in_tampa_obama_is_lyi.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "It doesn't get more Republican in 2012 than some good 'ol fashioned Obama-bashing."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -30,67 +30,92 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jim Parsons was born and raised in Houston, Texas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ask.com/answers/93508821/is-jim-parsons-a-christian",
+      "parentId": 2,
+      "type": "text",
+      "text": "Even if Parsons is a Christian, as some speculate,",
       "sourceTitle": "is jim parsons a christian.",
-      "text": "Even if Parsons is a Christian, as some speculate,"
+      "sourceUrl": "http://www.ask.com/answers/93508821/is-jim-parsons-a-christian"
     },
     {
-      "type": "sentence",
-      "text": "he doesn't appear to be a very devout one. He certainly doesn't talk about it all that much. The only quote I could find relating to the actor's spiritual devotion was when he talked about television:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "he doesn't appear to be a very devout one. He certainly doesn't talk about it all that much. The only quote I could find relating to the actor's spiritual devotion was when he talked about television:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.avclub.com/articles/jim-parsons,27415/",
-      "sourceTitle": "Jim Parsons.",
-      "text": "I've always loved TV very much, and as a child I was so religious with it, but now it's more when it fits in."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I've always loved TV very much, and as a child I was so religious with it, but now it's more when it fits in.",
+      "sourceTitle": "Jim Parsons.",
+      "sourceUrl": "http://www.avclub.com/articles/jim-parsons,27415/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "I think a lot of people could say that about their childhood religions, minus the loving it part."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "His politics are almost equally as vague. Except for one thing."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/05/23/jim-parsons-gay-big-bang-theory-star_n_1539988.html",
+      "parentId": 7,
+      "type": "text",
+      "text": "For Parsons, the gay marriage debate is more personal than political. He and his longtime boyfriend had (at least at one point) planned to get married in Massachusetts, taking full advantage of the passage of gay marriage laws in that state.",
       "sourceTitle": "Jim Parsons Comes Out As Gay: 'Big Bang Theory' Star's Sexuality Officially Revealed In New York Times.",
-      "text": "For Parsons, the gay marriage debate is more personal than political. He and his longtime boyfriend had (at least at one point) planned to get married in Massachusetts, taking full advantage of the passage of gay marriage laws in that state."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/05/23/jim-parsons-gay-big-bang-theory-star_n_1539988.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "But even being gay and wanting to get married hasn't brought Parsons into the political debate. He didn't go to any Prop 8 (the California ballot measure that made gay marriage illegal) protest rallies or record a video for the It Gets Better campaign to help end gay teen suicide. He hasn't even said a word about Obama, which is rare for a Hollywood celebrity."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "It seems this actor wants to stay out of the United States' increasingly polarized political landscape. And who could blame him?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -34,83 +34,123 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jerry Lee Lewis was born in Ferriday, Louisiana. He grew up there and, to some extent, Waxahachie, Texas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://oldies.about.com/od/rockabill1/f/jerryleegod.htm",
+      "parentId": 2,
+      "type": "text",
+      "text": "Lewis' mother was a devout born-again Christian and member of the Assemblies of God Church. She is reported to have been very overbearing when it came to her faith. During his childhood, Lewis was conflicted about religion and he would often skip church to go to the bar.",
       "sourceTitle": "Jerry Lee Lewis FAQ – Religion",
-      "text": "Lewis' mother was a devout born-again Christian and member of the Assemblies of God Church. She is reported to have been very overbearing when it came to her faith. During his childhood, Lewis was conflicted about religion and he would often skip church to go to the bar."
+      "sourceUrl": "http://oldies.about.com/od/rockabill1/f/jerryleegod.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "However, Lewis' mother must have had a deep impact on Lewis throughout his life. Despite honestly thinking that rock 'n roll is the devil's music, Lewis was a pioneer in the genre. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pl/Jerry_Lee_Lewis.html",
-      "sourceTitle": "The religion of Jerry Lee Lewis, rock and roll pioneer.",
-      "text": "Salvation bears down on me. I don't wanna die and go to hell. But I don't think I'm heading in the right direction…I'm lost and undone, without God or son. I should've been a Christian, but I was too weak for the gospel. I'm a rock 'n' roll cat. We all have to answer to God on Judgment Day."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Salvation bears down on me. I don't wanna die and go to hell. But I don't think I'm heading in the right direction…I'm lost and undone, without God or son. I should've been a Christian, but I was too weak for the gospel. I'm a rock 'n' roll cat. We all have to answer to God on Judgment Day.",
+      "sourceTitle": "The religion of Jerry Lee Lewis, rock and roll pioneer.",
+      "sourceUrl": "http://www.adherents.com/people/pl/Jerry_Lee_Lewis.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Lewis is a tormented person, for sure. He's always been caught between his true nature as a free-wheeling musician and a God-fearing man. Lewis didn't want to record his second big hit, \"Great Balls of Fire,\" considering it too anti-Christian. Lewis' producer convinced him to do it, however, saying Lewis and rock 'n roll could save souls. Lewis replied, right before playing the song:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pl/Jerry_Lee_Lewis.html",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "How can the Devil save souls? What are you talkin' about? I have the Devil in me. If I didn't, I'd be a Christian.",
       "sourceTitle": "The religion of Jerry Lee Lewis, rock and roll pioneer.",
-      "text": "How can the Devil save souls? What are you talkin' about? I have the Devil in me. If I didn't, I'd be a Christian."
+      "sourceUrl": "http://www.adherents.com/people/pl/Jerry_Lee_Lewis.html"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Whole lotta politics goin' on"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wiki.answers.com/Q/Is_Jerry_Lee_Lewis_a_Democrat",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Lewis helped to bring about the musical revolution that was rock 'n roll and is often associated with the civil rights movement that was occurring alongside it. But as one of Lewis' biographers noted: Lewis was \"not a political animal.\"",
       "sourceTitle": "Is Jerry Lee Lewis a Democrat?",
-      "text": "Lewis helped to bring about the musical revolution that was rock 'n roll and is often associated with the civil rights movement that was occurring alongside it. But as one of Lewis' biographers noted: Lewis was \"not a political animal.\""
+      "sourceUrl": "http://wiki.answers.com/Q/Is_Jerry_Lee_Lewis_a_Democrat"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thearkansasproject.com/republican-rock-stars/",
+      "parentId": 11,
+      "type": "text",
+      "text": "Many think Lewis would side with Republicans if he were forced to choose,",
       "sourceTitle": "Republican Rock Stars",
-      "text": "Many think Lewis would side with Republicans if he were forced to choose,"
+      "sourceUrl": "http://www.thearkansasproject.com/republican-rock-stars/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://irom.wordpress.com/tag/steve-bing/",
+      "type": "text",
+      "text": "but most recently, Lewis turned to progressive, Democrat power-player Steve Bing to produce his album.",
+      "parentId": 11,
       "sourceTitle": "Rock CD Review: Jerry Lee Lewis' \"Mean Old Man.\"",
-      "text": "but most recently, Lewis turned to progressive, Democrat power-player Steve Bing to produce his album."
+      "sourceUrl": "http://irom.wordpress.com/tag/steve-bing/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://latimesblogs.latimes.com/gossip/2012/03/jerry-lewis-married-cousins-ex-wife-judith-brown.html",
+      "parentId": 12,
+      "type": "text",
+      "text": "Probably, Lewis is too busy worrying about judgement day and getting married to care much about politics.",
       "sourceTitle": "Jerry Lee Lewis marries again at 76, keeps it close to home",
-      "text": "Probably, Lewis is too busy worrying about judgement day and getting married to care much about politics."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://latimesblogs.latimes.com/gossip/2012/03/jerry-lewis-married-cousins-ex-wife-judith-brown.html"
     }
   ],
   "wikipediaData": {

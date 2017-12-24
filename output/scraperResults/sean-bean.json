@@ -30,80 +30,129 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sean Bean, real name Shaun, was born and raised in Sheffield, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Bean admits to being raised largely without religion. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.compleatseanbean.com/mainfeatures-101.html",
-      "sourceTitle": "What Makes You Tick?",
-      "text": "I wasn't brought up religious, although I have been to church a few times: at school and to get married. But I believe in a spiritual world on another plane. I think we all want to believe there's something else."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I wasn't brought up religious, although I have been to church a few times: at school and to get married. But I believe in a spiritual world on another plane. I think we all want to believe there's something else.",
+      "sourceTitle": "What Makes You Tick?",
+      "sourceUrl": "http://www.compleatseanbean.com/mainfeatures-101.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "If I had to speculate, I'd say there was some Anglicanism in his family because of where he grew up. However, it's clear that he has some vague form of faith. Let us know in the comments if you've got any leads, Hollowverse readers!"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 6
     },
     {
-      "type": "heading",
+      "parentId": 6,
+      "type": "text",
       "text": "Sean's politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Bean is a little bit political–not enough to really enter the debate on any issues, but he's spoken of inheriting his father's interest in political debate:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.ft.com/intl/cms/s/2/ea2ea98e-b4ee-11e1-aa06-00144feabdc0.html#axzz2KR11J0bs",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I like to keep abreast of the world political situation. My father has always been very clued up, politically. I used to enjoy talking to him–arguing a lot of the time–about principles of politics, so I kind of inherited that.",
       "sourceTitle": "The Inventory: Sean Bean",
-      "text": "I like to keep abreast of the world political situation. My father has always been very clued up, politically. I used to enjoy talking to him–arguing a lot of the time–about principles of politics, so I kind of inherited that."
+      "sourceUrl": "http://www.ft.com/intl/cms/s/2/ea2ea98e-b4ee-11e1-aa06-00144feabdc0.html#axzz2KR11J0bs"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/sean-bean-i-got-pretty-good-at-walking-in-high-heels-7555058.html",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "He's expressed respect for Britain's \"Old Labour\" Party and the former Labour MP, Tony Benn,",
       "sourceTitle": "Sean Bean: 'I got pretty good at walking in high heels",
-      "text": "He's expressed respect for Britain's \"Old Labour\" Party and the former Labour MP, Tony Benn,"
+      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/sean-bean-i-got-pretty-good-at-walking-in-high-heels-7555058.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Labour_Party_%28UK%29",
+      "type": "text",
+      "text": "meaning he likes the principles of the Labour Party, but with a more conservative twist.",
+      "parentId": 10,
       "sourceTitle": "Labour Party (UK)",
-      "text": "meaning he likes the principles of the Labour Party, but with a more conservative twist."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Labour_Party_%28UK%29"
     },
     {
-      "type": "sentence",
-      "text": "Or, it could be that Bean resents the Labour Party's constant push toward bigger government and more bureaucracy? He once said, commenting on a tiff with American airport security:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Or, it could be that Bean resents the Labour Party's constant push toward bigger government and more bureaucracy? He once said, commenting on a tiff with American airport security:",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.compleatseanbean.com/mainfeatures-101.html",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I know security is important, especially at the moment, but I can't stand mindless bureaucracy. I said I didn't want to get on his fucking plane anyway, and the police escorted me out of the airport!",
       "sourceTitle": "What Makes You Tick?",
-      "text": "I know security is important, especially at the moment, but I can't stand mindless bureaucracy. I said I didn't want to get on his fucking plane anyway, and the police escorted me out of the airport!"
+      "sourceUrl": "http://www.compleatseanbean.com/mainfeatures-101.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Beyond that, Bean doesn't talk much about his personal life."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -32,130 +32,170 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Chuck Berry was born and raised in St. Louis, Missouri."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pb/Chuck_Berry.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Berry had a very religious upbringing. His father was a Baptist deacon and the family attended the Antioch Baptist Church of Elleadsville, a suburb of St. Louis.",
       "sourceTitle": "The religion of Chuck Berry, rock and roll pioneer",
-      "text": "Berry had a very religious upbringing. His father was a Baptist deacon and the family attended the Antioch Baptist Church of Elleadsville, a suburb of St. Louis."
+      "sourceUrl": "http://www.adherents.com/people/pb/Chuck_Berry.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pb/Chuck_Berry.html",
+      "type": "text",
+      "text": "This is where Berry began his life of music, singing in the church choir.",
+      "parentId": 2,
       "sourceTitle": "The religion of Chuck Berry, rock and roll pioneer",
-      "text": "This is where Berry began his life of music, singing in the church choir."
+      "sourceUrl": "http://www.adherents.com/people/pb/Chuck_Berry.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.songfacts.com/detail.php?id=9676",
+      "type": "text",
+      "text": "In fact, the church choir often rehearsed at the Berry family home.",
+      "parentId": 2,
       "sourceTitle": "Down Bound Train by Chuck Berry Songfacts",
-      "text": "In fact, the church choir often rehearsed at the Berry family home."
+      "sourceUrl": "http://www.songfacts.com/detail.php?id=9676"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/100_rock.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "But there's a reason Berry is sometimes listed as a \"lapsed Baptist.\"",
       "sourceTitle": "Religion of the 100 Greatest Rock Musicians",
-      "text": "But there's a reason Berry is sometimes listed as a \"lapsed Baptist.\""
+      "sourceUrl": "http://www.adherents.com/people/100_rock.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.history.com/this-day-in-history/chuck-berry-is-arrested-on-mann-act-charges-in-st-louis-missouri",
+      "type": "text",
+      "text": "As an adult, Berry seems to have given up on faith altogether. He was in and out of prison for much of his life, once for armed robbery, once for transporting a 14-year-old girl across state lines and having sex with her,",
+      "parentId": 3,
       "sourceTitle": "Chuck Berry is arrested on Mann Act charges in St. Louis, Missouri",
-      "text": "As an adult, Berry seems to have given up on faith altogether. He was in and out of prison for much of his life, once for armed robbery, once for transporting a 14-year-old girl across state lines and having sex with her,"
+      "sourceUrl": "http://www.history.com/this-day-in-history/chuck-berry-is-arrested-on-mann-act-charges-in-st-louis-missouri"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://rockhall.com/inductees/chuck-berry/bio/",
+      "type": "text",
+      "text": "and once for tax evasion.",
+      "parentId": 3,
       "sourceTitle": "Chuck Berry Biography",
-      "text": "and once for tax evasion."
+      "sourceUrl": "http://rockhall.com/inductees/chuck-berry/bio/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.songfacts.com/detail.php?id=9676",
+      "parentId": 4,
+      "type": "text",
+      "text": "However, themes from his religious upbringing occasionally pop up in his music. For example, he wrote in his autobiography that the song \"Down Bound Train\" (which he didn't write, but gave it a new name) spoke to his \"fire and brimstone\" upbringing. It's a song about riding a train piloted by the devil and the dangers of alcoholism.",
       "sourceTitle": "Down Bound Train by Chuck Berry Songfacts",
-      "text": "However, themes from his religious upbringing occasionally pop up in his music. For example, he wrote in his autobiography that the song \"Down Bound Train\" (which he didn't write, but gave it a new name) spoke to his \"fire and brimstone\" upbringing. It's a song about riding a train piloted by the devil and the dangers of alcoholism."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.songfacts.com/detail.php?id=9676"
     },
     {
       "type": "heading",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Politics B. Goode"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Berry has had his political moments–not many all things considered–but enough to draw some conclusions."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.campaignmoney.com/political/contributions/chuck-berry.asp?cycle=00",
+      "parentId": 7,
+      "type": "text",
+      "text": "It would be easy enough to call him a Democrat. His one and only financial political contribution went to the Democratic Leaders Victory Fund for the 2000 elections.",
       "sourceTitle": "Chuck Berry – $1,000 in Political Contributions for 2000",
-      "text": "It would be easy enough to call him a Democrat. His one and only financial political contribution went to the Democratic Leaders Victory Fund for the 2000 elections."
+      "sourceUrl": "http://www.campaignmoney.com/political/contributions/chuck-berry.asp?cycle=00"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://rockhall.com/inductees/chuck-berry/bio/",
+      "type": "text",
+      "text": "He played at the White House during the Carter administration in 1979.",
+      "parentId": 7,
       "sourceTitle": "Chuck Berry Biography",
-      "text": "He played at the White House during the Carter administration in 1979."
+      "sourceUrl": "http://rockhall.com/inductees/chuck-berry/bio/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.stltoday.com/news/local/govt-and-politics/political-fix/chuck-berry-will-headline-concert-to-show-support-for-dem/article_f95c0580-958f-11df-b217-00127992bc8b.html",
+      "type": "text",
+      "text": "He jammed at a St. Louis event, hoping to help encourage the Democratic National Convention to hold the 2012 convention in St. Louis.",
+      "parentId": 7,
       "sourceTitle": "Chuck Berry will headline concert to show support for Dem convention bid",
-      "text": "He jammed at a St. Louis event, hoping to help encourage the Democratic National Convention to hold the 2012 convention in St. Louis."
+      "sourceUrl": "http://www.stltoday.com/news/local/govt-and-politics/political-fix/chuck-berry-will-headline-concert-to-show-support-for-dem/article_f95c0580-958f-11df-b217-00127992bc8b.html"
     },
     {
-      "type": "sentence",
-      "text": "Plus, he seems quite impressed with Obama."
+      "type": "text",
+      "text": "Plus, he seems quite impressed with Obama.",
+      "parentId": 7
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "You see, Berry grew up through Jim Crow, segregation, the Civil Rights Movement and almost all of the challenges faced by black Americans during the 20th Century. And so, a black president is a particularly emotional moment for Berry. He once tearfully said during an interview:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.rollingstone.com/music/news/chuck-berry-praises-obama-laments-fading-voice-20121027",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I never thought that a man with the qualities, features, and all that he has, [could] be our President. My dad said, 'You may not live to see that day,' and I believed him. I thank God that I have.",
       "sourceTitle": "Chuck Berry Praises Obama, Laments Fading Health",
-      "text": "I never thought that a man with the qualities, features, and all that he has, [could] be our President. My dad said, 'You may not live to see that day,' and I believed him. I thank God that I have."
+      "sourceUrl": "http://www.rollingstone.com/music/news/chuck-berry-praises-obama-laments-fading-voice-20121027"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://rockhall.com/inductees/chuck-berry/bio/",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Of course, a discussion of Chuck Berry would not be complete without acknowledging his immeasurable contributions to American music and culture. He is considered the father of rock 'n roll, a unique American export, and was even the first person ever to be inducted into the Rock and Roll Hall of Fame.",
       "sourceTitle": "Chuck Berry Biography",
-      "text": "Of course, a discussion of Chuck Berry would not be complete without acknowledging his immeasurable contributions to American music and culture. He is considered the father of rock 'n roll, a unique American export, and was even the first person ever to be inducted into the Rock and Roll Hall of Fame."
+      "sourceUrl": "http://rockhall.com/inductees/chuck-berry/bio/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chuckberry.com/about/bio.htm",
+      "type": "text",
+      "text": "So influential is Chuck Berry that his song, \"Johnny B. Goode\" was chosen to represent the human race on the Voyager I spacecraft.",
+      "parentId": 11,
       "sourceTitle": "Biography",
-      "text": "So influential is Chuck Berry that his song, \"Johnny B. Goode\" was chosen to represent the human race on the Voyager I spacecraft."
+      "sourceUrl": "http://www.chuckberry.com/about/bio.htm"
     },
     {
-      "type": "sentence",
-      "text": "If that intrepid spacecraft ever does encounter an alien race, Berry might be one of the first things they know of humanity."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "If that intrepid spacecraft ever does encounter an alien race, Berry might be one of the first things they know of humanity.",
+      "parentId": 11
     }
   ],
   "wikipediaData": {
@@ -188,7 +228,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "",
+            "value": "Black and white portrait photographs of musicians|Conk (hairstyle)|Gibson ES-350T|Guitarists with Gibson ES|PD US no notice|People with bow ties|Portrait photographs of Chuck Berry",
             "source": "commons-categories",
             "hidden": ""
           },

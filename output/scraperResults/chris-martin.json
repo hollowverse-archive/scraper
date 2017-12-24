@@ -35,135 +35,235 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Chris Martin was born in Exeter, Devon, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-203666/The-genteel-Mr-Paltrow.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Martin was raised Episcopalian and his parents both attend Belmont chapel, and \"independent Evangelical Christian church,\" to this day.",
       "sourceTitle": "The very genteel Mr Paltrow",
-      "text": "Martin was raised Episcopalian and his parents both attend Belmont chapel, and \"independent Evangelical Christian church,\" to this day."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-203666/The-genteel-Mr-Paltrow.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.independent.ie/entertainment/music/what-is-chris-martins-problem-1418494.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "Martin admits he doesn't adhere to the religious traditions of his family, but he does still hold theistic views. He once called himself an \"alltheist,\" because he believes in everything, whatever that means.",
       "sourceTitle": "What is Chris Martin's Problem?",
-      "text": "Martin admits he doesn't adhere to the religious traditions of his family, but he does still hold theistic views. He once called himself an \"alltheist,\" because he believes in everything, whatever that means."
+      "sourceUrl": "http://www.independent.ie/entertainment/music/what-is-chris-martins-problem-1418494.html"
     },
     {
-      "type": "sentence",
-      "text": "He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://coldplayfan.com/?page_id=14",
-      "sourceTitle": "Chris Martin",
-      "text": "I definitely believe in God. How can you look at anything and not be overwhelmed by the miraculousness of it?"
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I definitely believe in God. How can you look at anything and not be overwhelmed by the miraculousness of it?",
+      "sourceTitle": "Chris Martin",
+      "sourceUrl": "http://coldplayfan.com/?page_id=14"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Martin admits to having been confused about his own beliefs previously, but seems to think he's come out of it, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://thunderstruck.org/?page_id=4702",
-      "sourceTitle": "Juke Joint",
-      "text": "I went through a weird patch, starting when I was about sixteen to twenty-two, of getting God and religion and superstition and judgment all confused. I think a lot of our music comes out of that."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I went through a weird patch, starting when I was about sixteen to twenty-two, of getting God and religion and superstition and judgment all confused. I think a lot of our music comes out of that.",
+      "sourceTitle": "Juke Joint",
+      "sourceUrl": "http://thunderstruck.org/?page_id=4702"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Between \"alltheism\" and the fact that, due to much of the lyrical content of Coldplay songs, people often mistake Martin for a Catholic, he might do well to reevaluate whether or not he is religiously confused. Here's another confusing quote:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 10
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.independent.ie/entertainment/music/what-is-chris-martins-problem-1418494.html",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Have I rediscovered God? Um. No. I'm always trying to work out what he or she or it is. I'm not sure who's right. I don't know if it's Allah or Jesus or Mohammed or Zeus. I'd maybe go for Zeus.",
       "sourceTitle": "What is Chris Martin's Problem?",
-      "text": "Have I rediscovered God? Um. No. I'm always trying to work out what he or she or it is. I'm not sure who's right. I don't know if it's Allah or Jesus or Mohammed or Zeus. I'd maybe go for Zeus."
+      "sourceUrl": "http://www.independent.ie/entertainment/music/what-is-chris-martins-problem-1418494.html"
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Just as confused politically"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.maketradefair.com/en/index.php?file=dumped_chris.htm",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Starting with something relatively consistent, Martin is decidedly liberal. He's quite concerned with fair trade in particular and has criticized the U.S. government for its farming practices.",
       "sourceTitle": "Make Trade Fair.",
-      "text": "Starting with something relatively consistent, Martin is decidedly liberal. He's quite concerned with fair trade in particular and has criticized the U.S. government for its farming practices."
+      "sourceUrl": "http://www.maketradefair.com/en/index.php?file=dumped_chris.htm"
     },
     {
-      "type": "sentence",
-      "text": "Martin puts environmental issues high on his political priority list as well. So why would he endorse David Cameron and the Conservative Party? In this case, it was seeing a man walk the walk instead of just saying what people wanted to hear. Martin said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Martin puts environmental issues high on his political priority list as well. So why would he endorse David Cameron and the Conservative Party? In this case, it was seeing a man walk the walk instead of just saying what people wanted to hear. Martin said:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/uk/2006/apr/01/mainsection.topstories2",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "But it was the wind generator on his roof that clinched it. I realized that whatever Labour said about Kyoto, you were never going to see a windmill on the roof of No 10. Dave's given me an absolute assurance that he's committed to saving the planet.",
       "sourceTitle": "Chris Martin plans to rock the vote for Cameron's Tories",
-      "text": "But it was the wind generator on his roof that clinched it. I realized that whatever Labour said about Kyoto, you were never going to see a windmill on the roof of No 10. Dave's given me an absolute assurance that he's committed to saving the planet."
+      "sourceUrl": "http://www.guardian.co.uk/uk/2006/apr/01/mainsection.topstories2"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-203666/The-genteel-Mr-Paltrow.html",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Although Martin going over to the British conservative side of the aisle might be him just returning to his roots. Martin comes from a long line of upper-middle class British conservatives and is even related to Winston Churchill.",
       "sourceTitle": "The very genteel Mr Paltrow",
-      "text": "Although Martin going over to the British conservative side of the aisle might be him just returning to his roots. Martin comes from a long line of upper-middle class British conservatives and is even related to Winston Churchill."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-203666/The-genteel-Mr-Paltrow.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/news/election-2010/7248132/Election-2010-The-big-fight-for-the-support-of-celebrities.html",
+      "parentId": 17,
+      "type": "text",
+      "text": "But wait! He jumped the fence more recently and endorsed the Liberal Democrats.",
       "sourceTitle": "Election 2010: The big fight for the support of celebrities",
-      "text": "But wait! He jumped the fence more recently and endorsed the Liberal Democrats."
+      "sourceUrl": "http://www.telegraph.co.uk/news/election-2010/7248132/Election-2010-The-big-fight-for-the-support-of-celebrities.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "He's not afraid to meddle in U.S. politics either. He was highly critical of the Bush administration (and Bush's lapdog Tony Blair), saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://quotes.lucywho.com/chris-martin-quotes-t498.html",
+      "id": 19
+    },
+    {
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "We`re all going to die when George Bush has his way.",
       "sourceTitle": "Chris Martin Quotes",
-      "text": "We`re all going to die when George Bush has his way."
+      "sourceUrl": "http://quotes.lucywho.com/chris-martin-quotes-t498.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://current.com/groups/politics/89450448_coldplay-gives-shout-out-to-obama-on-snl.htm",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "He gave a shout-out (endorsement) to Barack Obama from the"
+    },
+    {
+      "parentId": 21,
+      "type": "emphasis",
+      "text": "Saturday Night Live"
+    },
+    {
+      "type": "text",
+      "text": "stage to secure his liberal reputation.",
+      "parentId": 21,
       "sourceTitle": "Coldplay Gives Shout Out To Obama On SNL",
-      "text": "He gave a shout-out (endorsement) to Barack Obama from the  stage to secure his liberal reputation."
+      "sourceUrl": "http://current.com/groups/politics/89450448_coldplay-gives-shout-out-to-obama-on-snl.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 22
     },
     {
-      "type": "sentence",
-      "text": "As confused as Martin is, both religiously and politically, his views about U.S. politics seem pretty consistent. Could this be because  is a card-carrying Hollywood liberal?"
+      "parentId": 22,
+      "type": "text",
+      "text": "As confused as Martin is, both religiously and politically, his views about U.S. politics seem pretty consistent. Could this be because"
     },
     {
-      "type": "break"
+      "parentId": 22,
+      "type": "link",
+      "text": "his wife",
+      "sourceUrl": "http://hollowverse.com/gwyneth-paltrow/"
+    },
+    {
+      "type": "text",
+      "text": "is a card-carrying Hollywood liberal?",
+      "parentId": 22
     }
   ],
   "wikipediaData": {

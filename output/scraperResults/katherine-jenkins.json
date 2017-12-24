@@ -34,101 +34,165 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Katherine Jenkins was born and raised in Neath, Wales, United Kingdom."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.whosdatedwho.com/sections/celebrities/religion/anglican-episcopalian_k",
+      "parentId": 2,
+      "type": "text",
+      "text": "Jenkins is a Christian. We're going to assume she is a member of the Church in Wales (even though she can be found cited as a member of the Anglican faith",
       "sourceTitle": "Celebrity Religion – Anglican Episcopalian",
-      "text": "Jenkins is a Christian. We're going to assume she is a member of the Church in Wales (even though she can be found cited as a member of the Anglican faith"
+      "sourceUrl": "http://www.whosdatedwho.com/sections/celebrities/religion/anglican-episcopalian_k"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.spanglefish.com/neathhastalent/index.asp?pageid=393448",
+      "type": "text",
+      "text": ") because she attended the Alderman Davies Church in Wales Primary School in Neath",
+      "parentId": 2,
       "sourceTitle": "Neath Has Talent – Katherine Jenkins",
-      "text": ") because she attended the Alderman Davies Church in Wales Primary School in Neath"
+      "sourceUrl": "http://www.spanglefish.com/neathhastalent/index.asp?pageid=393448"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Wales#Religion",
+      "type": "text",
+      "text": "and the Church in Wales is the largest Christian denomination in that country.",
+      "parentId": 2,
       "sourceTitle": "Wales",
-      "text": "and the Church in Wales is the largest Christian denomination in that country."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Wales#Religion"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "The topic of her faith seems to only come up when she speaks of her late father–who died of lung cancer when she was 15. Jenkins said that his passing was difficult for her. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.scotsman.com/news/siren-of-our-times-katherine-jenkins-interview-1-1438261",
-      "sourceTitle": "Siren of our times – Katherine Jenkins interview",
-      "text": "My faith has always been important to me, but after Dad died I turned my back on the church for a while."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "My faith has always been important to me, but after Dad died I turned my back on the church for a while.",
+      "sourceTitle": "Siren of our times – Katherine Jenkins interview",
+      "sourceUrl": "http://www.scotsman.com/news/siren-of-our-times-katherine-jenkins-interview-1-1438261"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "But she came around eventually, and seems to have made peace with her father's death and her religious beliefs:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/music/2011/oct/18/katherine-jenkins",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "[I believe] in heaven. I believe my dad is somewhere doing something nice.",
       "sourceTitle": "Katherine Jenkins: Confessions of a choirgirl",
-      "text": "[I believe] in heaven. I believe my dad is somewhere doing something nice."
+      "sourceUrl": "http://www.guardian.co.uk/music/2011/oct/18/katherine-jenkins"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.artsjournal.com/slippeddisc/2012/05/whats-this-katherine-jenkins-is-joining-the-mormons.html",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "She's not averse to canoodling with other faiths if it's for a high profile singing gig. She sang as a guest with the Mormon Tabernacle Choir in 2012, causing some who are not aware that the MTC often brings in guests to question if Jenkins was going Mormon–",
       "sourceTitle": "What's this? Katherine Jenkins is joining the Mormons?",
-      "text": "She's not averse to canoodling with other faiths if it's for a high profile singing gig. She sang as a guest with the Mormon Tabernacle Choir in 2012, causing some who are not aware that the MTC often brings in guests to question if Jenkins was going Mormon–"
+      "sourceUrl": "http://www.artsjournal.com/slippeddisc/2012/05/whats-this-katherine-jenkins-is-joining-the-mormons.html"
     },
     {
-      "type": "sentence",
-      "text": "probably just good exposure and a chance to sing with a top-notch choir."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "probably just good exposure and a chance to sing with a top-notch choir.",
+      "parentId": 9
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Who gets the voice?"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/news/celebritynews/6256628/Katherine-Jenkins-refuses-to-sing-for-Gordon-Brown.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Jenkins doesn't appear to be too political. We can only make some conjectures based on a couple of interesting facts. First, she was asked by Britain's Labour Party to sing at their 2009 Party Conference–and refused.",
       "sourceTitle": "Katherine Jenkins refuses to sing for Gordon Brown",
-      "text": "Jenkins doesn't appear to be too political. We can only make some conjectures based on a couple of interesting facts. First, she was asked by Britain's Labour Party to sing at their 2009 Party Conference–and refused."
+      "sourceUrl": "http://www.telegraph.co.uk/news/celebritynews/6256628/Katherine-Jenkins-refuses-to-sing-for-Gordon-Brown.html"
     },
     {
-      "type": "sentence",
-      "text": "When speculations arose that she was possibly Conservative or just anti-Labour, someone in the Jenkins camp released this statement:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "When speculations arose that she was possibly Conservative or just anti-Labour, someone in the Jenkins camp released this statement:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/news/celebritynews/6256628/Katherine-Jenkins-refuses-to-sing-for-Gordon-Brown.html",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "She keeps her politics to herself, and prefers to keep it to the voting booth.",
       "sourceTitle": "Katherine Jenkins refuses to sing for Gordon Brown",
-      "text": "She keeps her politics to herself, and prefers to keep it to the voting booth."
+      "sourceUrl": "http://www.telegraph.co.uk/news/celebritynews/6256628/Katherine-Jenkins-refuses-to-sing-for-Gordon-Brown.html"
     },
     {
-      "type": "sentence",
-      "text": "Well, my argument? Look how gleeful she looks in this  with David Cameron. She's looking at him like he gently, but powerfully holds the fate of the world in his hands. You be the judge."
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "break"
+      "parentId": 14,
+      "type": "text",
+      "text": "Well, my argument? Look how gleeful she looks in this"
+    },
+    {
+      "parentId": 14,
+      "type": "link",
+      "text": "picture",
+      "sourceUrl": "http://www.flickr.com/photos/conservatives/4008296439/"
+    },
+    {
+      "type": "text",
+      "text": "with David Cameron. She's looking at him like he gently, but powerfully holds the fate of the world in his hands. You be the judge.",
+      "parentId": 14
     }
   ],
   "wikipediaData": {

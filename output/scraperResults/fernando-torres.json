@@ -30,64 +30,79 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Fernando Torres was born and raised in Fuenlabrada, Spain, near Madrid."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Torres isn't particularly forthcoming about his religious faith. He doesn't wear it on his sleeve, around his neck, or on the pitch. But it should come as no surprise that the Spaniard is Catholic."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://elpais.com/elpais/2009/05/28/actualidad/1243493331_850215.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "He did not marry his girlfriend in a church, but rather in a civil ceremony at the town hall. And he apparently didn't wait until his wedding night to consummate the relationship either,",
       "sourceTitle": "Se casa Fernando Torres.",
-      "text": "He did not marry his girlfriend in a church, but rather in a civil ceremony at the town hall. And he apparently didn't wait until his wedding night to consummate the relationship either,"
+      "sourceUrl": "http://elpais.com/elpais/2009/05/28/actualidad/1243493331_850215.html"
     },
     {
-      "type": "sentence",
-      "text": "so he's not a strict Catholic."
+      "type": "text",
+      "text": "so he's not a strict Catholic.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.catholicnewsagency.com/news/soccer-player-who-scored-winning-world-cup-goal-promises-to-make-pilgrimage/",
+      "parentId": 4,
+      "type": "text",
+      "text": "But, after winning the World Cup in 2010, several Spanish players, including Torres, promised to make a popular Catholic pilgrimage to Santiago de Compostela in northwestern Spain.",
       "sourceTitle": "Soccer player who scored winning World Cup goal promises to make pilgrimage.",
-      "text": "But, after winning the World Cup in 2010, several Spanish players, including Torres, promised to make a popular Catholic pilgrimage to Santiago de Compostela in northwestern Spain."
+      "sourceUrl": "http://www.catholicnewsagency.com/news/soccer-player-who-scored-winning-world-cup-goal-promises-to-make-pilgrimage/"
     },
     {
-      "type": "sentence",
-      "text": "I couldn't find any confirmation that he actually fulfilled his promise, which could either indicate that he's not too serious about his Catholic faith or that he's really good at getting past the paparazzi. My guess is that it's the former."
+      "type": "text",
+      "text": "I couldn't find any confirmation that he actually fulfilled his promise, which could either indicate that he's not too serious about his Catholic faith or that he's really good at getting past the paparazzi. My guess is that it's the former.",
+      "parentId": 4
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebritynetworth.com/richest-athletes/richest-footballers/fernando-torres-net-worth/",
+      "parentId": 5,
+      "type": "text",
+      "text": "It doesn't appear that he has a thing to say about politics either. If Torres has an opinion on the Spanish economy or Catalan independence, he doesn't let on. Maybe he's insulated himself with his $40 million net worth",
       "sourceTitle": "Fernando Torres Net Worth.",
-      "text": "It doesn't appear that he has a thing to say about politics either. If Torres has an opinion on the Spanish economy or Catalan independence, he doesn't let on. Maybe he's insulated himself with his $40 million net worth"
+      "sourceUrl": "http://www.celebritynetworth.com/richest-athletes/richest-footballers/fernando-torres-net-worth/"
     },
     {
-      "type": "sentence",
-      "text": "against the problems of the common folk. Or maybe he's just good at keeping his opinions private."
+      "type": "text",
+      "text": "against the problems of the common folk. Or maybe he's just good at keeping his opinions private.",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "If you have any more information about Torres, please let us know in the comments!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

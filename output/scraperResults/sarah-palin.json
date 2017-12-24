@@ -33,132 +33,181 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sarah Palin was born in Sandpoint, Idaho and grew up in Wasilla, Alaska."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.time.com/time/printout/0,8816,1837536,00.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "She was baptized a Catholic but her family began attending non-denominational Christian churches when she was young.",
       "sourceTitle": "Time's Interview with Sarah Palin",
-      "text": "She was baptized a Catholic but her family began attending non-denominational Christian churches when she was young."
+      "sourceUrl": "http://www.time.com/time/printout/0,8816,1837536,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2008/09/02/palins-church-may-have-sh_n_123205.html",
+      "type": "text",
+      "text": "At the age of 12, Palin was baptized in the Wasilla Assembly of God, a Pentecostal church whose preacher bordered on fundamentalist.",
+      "parentId": 2,
       "sourceTitle": "Palin's Church May Have Shaped Controversial Worldview",
-      "text": "At the age of 12, Palin was baptized in the Wasilla Assembly of God, a Pentecostal church whose preacher bordered on fundamentalist."
+      "sourceUrl": "http://www.huffingtonpost.com/2008/09/02/palins-church-may-have-sh_n_123205.html"
     },
     {
-      "type": "sentence",
-      "text": "The preacher, Ed Kalnins, counseled his flock on who to vote for. He is recorded as saying during the 2004 presidential election between George W. Bush and John Kerry:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "The preacher, Ed Kalnins, counseled his flock on who to vote for. He is recorded as saying during the 2004 presidential election between George W. Bush and John Kerry:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2008/09/02/palins-church-may-have-sh_n_123205.html",
-      "sourceTitle": "Palin's Church May Have Shaped Controversial Worldview",
-      "text": "I'm not going tell you who to vote for, but if you vote for this particular person [John Kerry], I question your salvation. I'm sorry. [Read: you're going to hell.]"
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chicagotribune.com/news/nationworld/chi-palin-religion_06sep06,0,3371419.story",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I'm not going tell you who to vote for, but if you vote for this particular person [John Kerry], I question your salvation. I'm sorry. [Read: you're going to hell.]",
+      "sourceTitle": "Palin's Church May Have Shaped Controversial Worldview",
+      "sourceUrl": "http://www.huffingtonpost.com/2008/09/02/palins-church-may-have-sh_n_123205.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "So it's safe to say that the separation of church and state isn't something Palin endorses politically. She's advocated for the instruction of creationism in public schools",
       "sourceTitle": "How religion guides Palin",
-      "text": "So it's safe to say that the separation of church and state isn't something Palin endorses politically. She's advocated for the instruction of creationism in public schools"
+      "sourceUrl": "http://www.chicagotribune.com/news/nationworld/chi-palin-religion_06sep06,0,3371419.story"
     },
     {
-      "type": "sentence",
-      "text": "and painted the war in Iraq as a righteous crusade with the U.S. representing the forces of good, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and painted the war in Iraq as a righteous crusade with the U.S. representing the forces of good, saying:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2008/09/02/palins-church-may-have-sh_n_123205.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Pray for our military men and women who are striving to do what is right. Also, for this country, that our leaders, our national leaders, are sending [U.S. soldiers] out on a task that is from God. That's what we have to make sure that we're praying for, that there is a plan and that that plan is God's plan.",
       "sourceTitle": "Palin's Church May Have Shaped Controversial Worldview",
-      "text": "Pray for our military men and women who are striving to do what is right. Also, for this country, that our leaders, our national leaders, are sending [U.S. soldiers] out on a task that is from God. That's what we have to make sure that we're praying for, that there is a plan and that that plan is God's plan."
+      "sourceUrl": "http://www.huffingtonpost.com/2008/09/02/palins-church-may-have-sh_n_123205.html"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Silly politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2009/07/06/us/06palin.html?_r=1",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Palin came up politically in her hometown of Wasilla, Alaska. She was elected to the city council of that town, then the mayor, then as the governor of Alaska. Before the end of her first term, Palin announced that she would resign her post as governor because of the \"insane\" amounts of money being spent on ethics complaints against her.",
       "sourceTitle": "Legal Bills Swayed Palin, Official Says",
-      "text": "Palin came up politically in her hometown of Wasilla, Alaska. She was elected to the city council of that town, then the mayor, then as the governor of Alaska. Before the end of her first term, Palin announced that she would resign her post as governor because of the \"insane\" amounts of money being spent on ethics complaints against her."
+      "sourceUrl": "http://www.nytimes.com/2009/07/06/us/06palin.html?_r=1"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "Of course, ethics investigations and less than one term as governor of the least populous state in the U.S. are perfect qualifications for vice-president and, in 2007, she was tapped for John McCain's presidential bid."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://politicalhumor.about.com/od/sarahpalin/a/palin-top-10.htm",
+      "parentId": 11,
+      "type": "text",
+      "text": "What followed was one of the biggest jokes in U.S. political history. McCain clearly wanted Palin to get the much sought-after woman, religious conservative vote. But it backfired and Palin was clearly out of her depth, claiming to have a handle on U.S. foreign policy because of Alaska's proximity to Russia, accusing Obama's health care plan of having \"death panels,\" calling North Korea a U.S. ally, and completely botching U.S. history.",
       "sourceTitle": "Dumb Sarah Palin Quotes",
-      "text": "What followed was one of the biggest jokes in U.S. political history. McCain clearly wanted Palin to get the much sought-after woman, religious conservative vote. But it backfired and Palin was clearly out of her depth, claiming to have a handle on U.S. foreign policy because of Alaska's proximity to Russia, accusing Obama's health care plan of having \"death panels,\" calling North Korea a U.S. ally, and completely botching U.S. history."
+      "sourceUrl": "http://politicalhumor.about.com/od/sarahpalin/a/palin-top-10.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://online.wsj.com/article/SB122005503104485161.html?mod=googlenews_wsj",
+      "parentId": 12,
+      "type": "text",
+      "text": "Palin's politics are the politics of fundamentalist Christians. She's rabidly anti-abortion, even in the case of rape or incest,",
       "sourceTitle": "Anti-Abortion Activist Cheer McCain's Pick",
-      "text": "Palin's politics are the politics of fundamentalist Christians. She's rabidly anti-abortion, even in the case of rape or incest,"
+      "sourceUrl": "http://online.wsj.com/article/SB122005503104485161.html?mod=googlenews_wsj"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://catholicism.about.com/od/thechurchintheworld/p/Republican_ESCR.htm",
+      "type": "text",
+      "text": "she's against stem cell research,",
+      "parentId": 12,
       "sourceTitle": "John McCain and Sarah Palin on Embryonic Stem Cell Research",
-      "text": "she's against stem cell research,"
+      "sourceUrl": "http://catholicism.about.com/od/thechurchintheworld/p/Republican_ESCR.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thedailybeast.com/newsweek/2008/10/03/an-apparent-flip-flop-on-gay-rights.html",
+      "type": "text",
+      "text": "anti-gay marriage,",
+      "parentId": 12,
       "sourceTitle": "Did Palin Flip-Flop on Gay Rights",
-      "text": "anti-gay marriage,"
+      "sourceUrl": "http://www.thedailybeast.com/newsweek/2008/10/03/an-apparent-flip-flop-on-gay-rights.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thedailybeast.com/newsweek/2008/08/28/on-the-hunt.html",
+      "type": "text",
+      "text": "pro guns,",
+      "parentId": 12,
       "sourceTitle": "On The Hunt",
-      "text": "pro guns,"
+      "sourceUrl": "http://www.thedailybeast.com/newsweek/2008/08/28/on-the-hunt.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ontheissues.org/Governor/Sarah_Palin_Environment.htm",
+      "type": "text",
+      "text": "and has bowed to big energy business, even advocating drilling in National Wildlife Refuges.",
+      "parentId": 12,
       "sourceTitle": "Sarah Palin on Environment",
-      "text": "and has bowed to big energy business, even advocating drilling in National Wildlife Refuges."
+      "sourceUrl": "http://www.ontheissues.org/Governor/Sarah_Palin_Environment.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2011/05/26/sarah-palin-bus-tour-hist_n_867472.html",
+      "parentId": 13,
+      "type": "text",
+      "text": "Palin is a middle-America's dream and a Tea Party favorite. Fortunately for America–and the world, she's been reduced to C-list celebrity, having traveled around the U.S. on a bus",
       "sourceTitle": "Sarah Palin Bus Tour Launching This Weekend On East Coast",
-      "text": "Palin is a middle-America's dream and a Tea Party favorite. Fortunately for America–and the world, she's been reduced to C-list celebrity, having traveled around the U.S. on a bus"
+      "sourceUrl": "http://www.huffingtonpost.com/2011/05/26/sarah-palin-bus-tour-hist_n_867472.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtonpost.com/blogs/the-fix/post/what-sarah-palins-today-show-appearance-proves/2012/04/03/gIQAxz77sS_blog.html",
+      "type": "text",
+      "text": "(though she's not campaigning for anything) and appearing on daytime talk shows to give her opinion of Jessica Simpson's weight gain.",
+      "parentId": 13,
       "sourceTitle": "What Sarah Palin's \"Today Show\" appearance proves",
-      "text": "(though she's not campaigning for anything) and appearing on daytime talk shows to give her opinion of Jessica Simpson's weight gain."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.washingtonpost.com/blogs/the-fix/post/what-sarah-palins-today-show-appearance-proves/2012/04/03/gIQAxz77sS_blog.html"
     }
   ],
   "wikipediaData": {

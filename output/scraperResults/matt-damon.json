@@ -34,133 +34,207 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Matt Damon was born in Cambridge, Massachusetts."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "Damon has successfully avoided talking about his religious views, leaving many to wonder. He has not, however, been averse to addressing religious topics in the movies he stars in, such as , where he plays a fallen angel and , a film that addresses Judeo-Christian theological themes."
+      "parentId": 2,
+      "type": "text",
+      "text": "Damon has successfully avoided talking about his religious views, leaving many to wonder. He has not, however, been averse to addressing religious topics in the movies he stars in, such as"
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "Dogma"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": ", where he plays a fallen angel and",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "The Adjustment Bureau"
+    },
+    {
+      "type": "text",
+      "text": ", a film that addresses Judeo-Christian theological themes.",
+      "parentId": 2
+    },
+    {
+      "type": "paragraph",
+      "id": 3
+    },
+    {
+      "parentId": 3,
+      "type": "text",
       "text": "There is some evidence we can use to make some educated assumptions. Damon's ancestry is a mix of English, Swedish, Finnish, and Scottish. The dominant faith in all of these countries is Christianity. In both Sweden and Finland, Lutheranism dominates. In Scotland, the dominant Christian denomination is Presbyterian while in England, The Anglican Church is Episcopalian."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Essentially, Damon's religious roots come from some form of Protestantism or another."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "In all reality, this doesn't mean anything for Damon personally. Based on his beef with former U.S. vice-presidential candidate, Sarah Palin, we can deduce that Damon probably leans more towards the agnostic/atheist/scientist approach. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.crosswalk.com/news/matt-damon-vs-sarah-palin-and-the-dinosaurs-11582645.html",
-      "sourceTitle": "Matt Damon vs. Sarah Palin and the Dinosaurs",
-      "text": "I need to know if she really thinks dinosaurs were here 4,000 years ago. That's important…I want to know that. I really do. Because she's going to have the nuclear codes, you know? I wanna know if she thinks dinosaurs were here 4,000 years ago."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I need to know if she really thinks dinosaurs were here 4,000 years ago. That's important…I want to know that. I really do. Because she's going to have the nuclear codes, you know? I wanna know if she thinks dinosaurs were here 4,000 years ago.",
+      "sourceTitle": "Matt Damon vs. Sarah Palin and the Dinosaurs",
+      "sourceUrl": "http://www.crosswalk.com/news/matt-damon-vs-sarah-palin-and-the-dinosaurs-11582645.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Damon is certainly not a creationist."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.oprah.com/world/Its-Easy-Being-Green_1/6",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "This is a topic Damon has been quite a bit more outspoken about. His humanitarian efforts are impressive and range from sitting on the board of directors of a non-profit organization that stops junk mail (to save trees)",
       "sourceTitle": "It's Easy Being Green",
-      "text": "This is a topic Damon has been quite a bit more outspoken about. His humanitarian efforts are impressive and range from sitting on the board of directors of a non-profit organization that stops junk mail (to save trees)"
+      "sourceUrl": "http://www.oprah.com/world/Its-Easy-Being-Green_1/6"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://notonourwatchproject.org/who_we_are",
+      "type": "text",
+      "text": "to his pet project, Not On Our Watch, an organization dedicated to stopping and preventing human rights violations worldwide.",
+      "parentId": 10,
       "sourceTitle": "Not On Our Watch",
-      "text": "to his pet project, Not On Our Watch, an organization dedicated to stopping and preventing human rights violations worldwide."
+      "sourceUrl": "http://notonourwatchproject.org/who_we_are"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Matt_Damon.php",
+      "parentId": 11,
+      "type": "text",
+      "text": "Damon is a liberal democrat. He has donated just under $70,000 to Democratic candidates or organizations since 2003 and has given $25,000 to the liberal/progressive organization Moveon.org.",
       "sourceTitle": "Matt Damon's Federal Campaign Contribution Report",
-      "text": "Damon is a liberal democrat. He has donated just under $70,000 to Democratic candidates or organizations since 2003 and has given $25,000 to the liberal/progressive organization Moveon.org."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Matt_Damon.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=yaml-UF2ed4",
+      "parentId": 12,
+      "type": "text",
+      "text": "In 2008, Damon was a dedicated Obama supporter, even going out of his way to campaign for him.",
       "sourceTitle": "Matt Damon Campaigning for Obama",
-      "text": "In 2008, Damon was a dedicated Obama supporter, even going out of his way to campaign for him."
+      "sourceUrl": "http://www.youtube.com/watch?v=yaml-UF2ed4"
     },
     {
-      "type": "sentence",
-      "text": "Though judging from Damon's deep concern over Sarah Palin, it might just be that he was pushing for any candidate besides McCain."
+      "type": "text",
+      "text": "Though judging from Damon's deep concern over Sarah Palin, it might just be that he was pushing for any candidate besides McCain.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Three years into the Obama presidency, Damon caused quite a stir when he publicly condemned Obama, indicating that, rather than being a knee-jerk liberal Democrat like most of his Hollywood friends, Damon actually follows politics–and seems to care. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2011/03/08/matt-damon-obama-has-roll_n_832795.html",
-      "sourceTitle": "Matt Damon: Obama Has 'Rolled Over To Wall Street Completely.'",
-      "text": "I think he's rolled over to Wall Street completely. The economy has huge problems. We still have all these banks that are too big to fail. They're bigger and making more money than ever."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I think he's rolled over to Wall Street completely. The economy has huge problems. We still have all these banks that are too big to fail. They're bigger and making more money than ever.",
+      "sourceTitle": "Matt Damon: Obama Has 'Rolled Over To Wall Street Completely.'",
+      "sourceUrl": "http://www.huffingtonpost.com/2011/03/08/matt-damon-obama-has-roll_n_832795.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "This sounds like something straight out of an Occupy Movement encampment. And it's so true."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hollywoodreporter.com/news/matt-damon-criticizes-barack-obama-275920",
+      "parentId": 17,
+      "type": "text",
+      "text": "Damon also criticized Obama for compromising with Republicans in Congress, saying he would have preferred a \"one-term president with some balls.\"",
       "sourceTitle": "Matt Damon Slams Obama",
-      "text": "Damon also criticized Obama for compromising with Republicans in Congress, saying he would have preferred a \"one-term president with some balls.\""
+      "sourceUrl": "http://www.hollywoodreporter.com/news/matt-damon-criticizes-barack-obama-275920"
     },
     {
-      "type": "sentence",
-      "text": "Also has the ring of truth."
+      "type": "text",
+      "text": "Also has the ring of truth.",
+      "parentId": 17
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
+      "parentId": 18,
+      "type": "text",
       "text": "Clearly, Damon is a thoughtful liberal and supporter of the Democratic party. But not blinded by eloquent speeches or slogans. That's to be commended."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -36,212 +36,327 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Oscar Wilde, whose full name was Oscar Fingal O'Flahertie Wills Wilde, was born in Dublin, Ireland. He grew up there, though he received much of his schooling in Enniskillen, in what is now Northern Ireland. He died in Paris, France of cerebral meningitis in 1900. Many speculate his death was a result of syphilis."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://stann.dublin.anglican.org/history/index.php#famouspeople",
+      "parentId": 2,
+      "type": "text",
+      "text": "Wilde was raised an Anglican Christian. He was baptized in the year of his birth at St. Mark's Church in Dublin.",
       "sourceTitle": "Church History",
-      "text": "Wilde was raised an Anglican Christian. He was baptized in the year of his birth at St. Mark's Church in Dublin."
+      "sourceUrl": "http://stann.dublin.anglican.org/history/index.php#famouspeople"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://catholiceducation.org/articles/arts/al0093.html",
+      "type": "text",
+      "text": "However, at some point during his fourth or fifth year, Wilde's mother had him secretly baptized into the Catholic Church.",
+      "parentId": 2,
       "sourceTitle": "Oscar Wilde, Roman Catholic",
-      "text": "However, at some point during his fourth or fifth year, Wilde's mother had him secretly baptized into the Catholic Church."
+      "sourceUrl": "http://catholiceducation.org/articles/arts/al0093.html"
     },
     {
-      "type": "sentence",
-      "text": "This began the duality of Anglicanism/Catholicism that plagued Wilde throughout his life."
+      "type": "text",
+      "text": "This began the duality of Anglicanism/Catholicism that plagued Wilde throughout his life.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Wilde was always a devoted Christian. He once wrote:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.adherents.com/people/pw/Oscar_Wilde.html",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "[Christianity allows mankind to] grasp at the skirts of the Infinite. Since Christ the dead world has woke up from sleep. Since him we have lived.",
       "sourceTitle": "The religion of Oscar Wilde, influential Irish writer",
-      "text": "[Christianity allows mankind to] grasp at the skirts of the Infinite. Since Christ the dead world has woke up from sleep. Since him we have lived."
+      "sourceUrl": "http://www.adherents.com/people/pw/Oscar_Wilde.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://catholiceducation.org/articles/arts/al0093.html",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "The problem was the denomination Wilde pledged his allegiance to. It seems he always wanted to be a Catholic, and even attended Mass and benediction, however occasionally, through all of his life. And the main character of his book,"
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "The Picture of Dorian Gray"
+    },
+    {
+      "type": "text",
+      "text": ", (often considered an adaptation of Wilde himself) desired to join the Catholic Church–but instead succumbed to vanity and vice.",
+      "parentId": 6,
       "sourceTitle": "Oscar Wilde, Roman Catholic",
-      "text": "The problem was the denomination Wilde pledged his allegiance to. It seems he always wanted to be a Catholic, and even attended Mass and benediction, however occasionally, through all of his life. And the main character of his book, , (often considered an adaptation of Wilde himself) desired to join the Catholic Church–but instead succumbed to vanity and vice."
+      "sourceUrl": "http://catholiceducation.org/articles/arts/al0093.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://catholiceducation.org/articles/arts/al0093.html",
+      "parentId": 7,
+      "type": "text",
+      "text": "Furthermore, those close to Wilde always discouraged his interest in Catholicism. His father, an outspoken agnostic, didn't want Wilde to join the Catholic Church, partially because he feared Wilde wouldn't be allowed in to the predominantly Anglican Oxford University–which he ultimately was.",
       "sourceTitle": "Oscar Wilde, Roman Catholic",
-      "text": "Furthermore, those close to Wilde always discouraged his interest in Catholicism. His father, an outspoken agnostic, didn't want Wilde to join the Catholic Church, partially because he feared Wilde wouldn't be allowed in to the predominantly Anglican Oxford University–which he ultimately was."
+      "sourceUrl": "http://catholiceducation.org/articles/arts/al0093.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://catholiceducation.org/articles/arts/al0093.html",
+      "type": "text",
+      "text": "And his lifelong friend–and sometimes lover–Robert Ross, convinced Wilde to avoid Catholic conversion because he feared it would disrupt their relationship.",
+      "parentId": 7,
       "sourceTitle": "Oscar Wilde, Roman Catholic",
-      "text": "And his lifelong friend–and sometimes lover–Robert Ross, convinced Wilde to avoid Catholic conversion because he feared it would disrupt their relationship."
+      "sourceUrl": "http://catholiceducation.org/articles/arts/al0093.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pw/Oscar_Wilde.html",
+      "parentId": 8,
+      "type": "text",
+      "text": "Ultimately, Wilde officially converted to Catholicism as he lay on his deathbed,",
       "sourceTitle": "The religion of Oscar Wilde, influential Irish writer",
-      "text": "Ultimately, Wilde officially converted to Catholicism as he lay on his deathbed,"
+      "sourceUrl": "http://www.adherents.com/people/pw/Oscar_Wilde.html"
     },
     {
-      "type": "sentence",
-      "text": "therefore dying a Catholic."
+      "type": "text",
+      "text": "therefore dying a Catholic.",
+      "parentId": 8
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Some things Wilde wrote indicate a more nuanced and thoughtful view of religion and society. For example:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.absolutefacts.com/literature/oscar-wilde/religion.htm",
-      "sourceTitle": "Oscar Wilde about Religion",
-      "text": "Religions die when they are proved to be true. Science is the record of dead religions."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Religions die when they are proved to be true. Science is the record of dead religions.",
+      "sourceTitle": "Oscar Wilde about Religion",
+      "sourceUrl": "http://www.absolutefacts.com/literature/oscar-wilde/religion.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "And:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.absolutefacts.com/literature/oscar-wilde/religion.htm",
-      "sourceTitle": "Oscar Wilde about Religion",
-      "text": "People fashion their God after their own understanding. They make their God first and worship him afterwards."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "People fashion their God after their own understanding. They make their God first and worship him afterwards.",
+      "sourceTitle": "Oscar Wilde about Religion",
+      "sourceUrl": "http://www.absolutefacts.com/literature/oscar-wilde/religion.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Wilde seems to have respected the validity of science, and he worried about the corrupting force human nature and arrogance had on religious institutions–possibly to the point of disrupting any chance of genuine spirituality. Needless to say, Wilde was indeed a thinker and is difficult to categorize."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 16
     },
     {
-      "type": "heading",
+      "parentId": 16,
+      "type": "text",
       "text": "Politics of Wilde"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://flag.blackened.net/revolt/ws98/ws53_wilde.html",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Wilde was very much concerned with politics and society. He was concerned with the crippling poverty of London during his lifetime, when two million people bordered on starvation.",
       "sourceTitle": "Oscar Wilde's socialism",
-      "text": "Wilde was very much concerned with politics and society. He was concerned with the crippling poverty of London during his lifetime, when two million people bordered on starvation."
+      "sourceUrl": "http://flag.blackened.net/revolt/ws98/ws53_wilde.html"
     },
     {
-      "type": "sentence",
-      "text": "He once observed:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He once observed:",
+      "parentId": 17
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.nairaland.com/386574/20-great-oscar-wilde-quotes",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "There is only one class in the community that thinks more about money than the rich, and that is the poor. The poor can think of nothing else.",
       "sourceTitle": "20 Great Oscar Wilde Quotes for Our Political Times",
-      "text": "There is only one class in the community that thinks more about money than the rich, and that is the poor. The poor can think of nothing else."
+      "sourceUrl": "http://www.nairaland.com/386574/20-great-oscar-wilde-quotes"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://flag.blackened.net/revolt/ws98/ws53_wilde.html",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "He came to the conclusion at some point that socialism was the answer to that particular problem, and he wrote an essay of sorts called \"The Soul of Man Under Socialism,\" where he said that society's goal was to create a \"proper condition of a thoroughly healthy organism, and insure the well-being of each member of the community\" and asked \"why should [the poor] be grateful with the crumbs that fall from the rich man's table?\"",
       "sourceTitle": "Oscar Wilde's socialism",
-      "text": "He came to the conclusion at some point that socialism was the answer to that particular problem, and he wrote an essay of sorts called \"The Soul of Man Under Socialism,\" where he said that society's goal was to create a \"proper condition of a thoroughly healthy organism, and insure the well-being of each member of the community\" and asked \"why should [the poor] be grateful with the crumbs that fall from the rich man's table?\""
+      "sourceUrl": "http://flag.blackened.net/revolt/ws98/ws53_wilde.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "sentence",
+      "parentId": 21,
+      "type": "text",
       "text": "Though who would administer such a social system? Wilde seems to have not thought that part through so much, as he also considered himself an anarchist, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 22
+    },
+    {
+      "type": "paragraph",
+      "id": 23,
+      "parentId": 22
+    },
+    {
+      "parentId": 23,
+      "type": "text",
+      "text": "All modes of Government are failures.",
+      "sourceTitle": "Oscar Wilde's socialism",
+      "sourceUrl": "http://flag.blackened.net/revolt/ws98/ws53_wilde.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 24
+    },
+    {
+      "parentId": 24,
+      "type": "text",
+      "text": "And declaring himself, somewhat contradictorily, both an anarchist and a socialist in the same breath,",
+      "sourceTitle": "Oscar Wilde's socialism",
+      "sourceUrl": "http://flag.blackened.net/revolt/ws98/ws53_wilde.html"
+    },
+    {
+      "type": "text",
+      "text": "he saw governments as institutions of individual suppression, saying:",
+      "parentId": 24
     },
     {
       "type": "quote",
-      "sourceUrl": "http://flag.blackened.net/revolt/ws98/ws53_wilde.html",
-      "sourceTitle": "Oscar Wilde's socialism",
-      "text": "All modes of Government are failures."
+      "id": 25
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://flag.blackened.net/revolt/ws98/ws53_wilde.html",
-      "sourceTitle": "Oscar Wilde's socialism",
-      "text": "And declaring himself, somewhat contradictorily, both an anarchist and a socialist in the same breath,"
+      "type": "paragraph",
+      "id": 26,
+      "parentId": 25
     },
     {
-      "type": "sentence",
-      "text": "he saw governments as institutions of individual suppression, saying:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.nairaland.com/386574/20-great-oscar-wilde-quotes",
+      "parentId": 26,
+      "type": "text",
+      "text": "Society exists only as a mental concept; in the real world there are only individuals.",
       "sourceTitle": "20 Great Oscar Wilde Quotes for Our Political Times",
-      "text": "Society exists only as a mental concept; in the real world there are only individuals."
+      "sourceUrl": "http://www.nairaland.com/386574/20-great-oscar-wilde-quotes"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 27
+    },
+    {
+      "parentId": 27,
+      "type": "text",
       "text": "That's heavy."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 28
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.infoshop.org/article.php?story=2010oscar-wilde",
+      "parentId": 28,
+      "type": "text",
+      "text": "Beyond that, Wilde was a homosexual in the puritanical English Victorian society of propriety and traditionalism. His escapades even landed him in prison for two years near the end of his life.",
       "sourceTitle": "The Political Philosophy of Oscar Wilde",
-      "text": "Beyond that, Wilde was a homosexual in the puritanical English Victorian society of propriety and traditionalism. His escapades even landed him in prison for two years near the end of his life."
+      "sourceUrl": "http://news.infoshop.org/article.php?story=2010oscar-wilde"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.bu.edu/writingprogram/journal/past-issues/issue-1/duggan/",
+      "type": "text",
+      "text": "This, combined with his philosophy of \"aestheticism,\" (or that people should seek out pleasure and surround themselves with what they consider beautiful)",
+      "parentId": 28,
       "sourceTitle": "The Conflict Between Aestheticism and Morality in Oscar Wilde's 'The Picture of Dorian Gray.'",
-      "text": "This, combined with his philosophy of \"aestheticism,\" (or that people should seek out pleasure and surround themselves with what they consider beautiful)"
+      "sourceUrl": "http://www.bu.edu/writingprogram/journal/past-issues/issue-1/duggan/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://queerhistory.blogspot.com/2010/10/16th-october-oscar-wilde.html",
+      "type": "text",
+      "text": "has made him an icon for the modern gay community.",
+      "parentId": 28,
       "sourceTitle": "Oscar Wilde, (1854-1900): Playwright and gay icon",
-      "text": "has made him an icon for the modern gay community."
+      "sourceUrl": "http://queerhistory.blogspot.com/2010/10/16th-october-oscar-wilde.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 29
     },
     {
-      "type": "sentence",
+      "parentId": 29,
+      "type": "text",
       "text": "He was, and still is, a divisive, inspiring, controversial and fascinating individual–and will likely remain so as long as people continue to read and ask questions."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

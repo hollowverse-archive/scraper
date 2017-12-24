@@ -36,134 +36,189 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Robert E. Lee was born on a plantation in Westmoreland County, Virginia and grew up in several places around Virginia. He died of pneumonia after suffering a stroke in 1870, at the age of 63."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nps.gov/arho/historyculture/religion.htm",
+      "parentId": 2,
+      "type": "text",
+      "text": "Lee was clearly a devoted Christian, although his deep devotion came to him later in life. He was an Episcopalian all his life, but he was not confirmed in the church until the age of 46.",
       "sourceTitle": "Religion at Arlington – Arlington House, The Robert E. Lee Memorial.",
-      "text": "Lee was clearly a devoted Christian, although his deep devotion came to him later in life. He was an Episcopalian all his life, but he was not confirmed in the church until the age of 46."
+      "sourceUrl": "http://www.nps.gov/arho/historyculture/religion.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.sonofthesouth.net/leefoundation/Lee_Religious_Views.htm",
+      "type": "text",
+      "text": "This spiritual awakening informed the rest of his life, in which it doesn't appear he spent a day without prayer.",
+      "parentId": 2,
       "sourceTitle": "Robert E. Lee's Religious Views.",
-      "text": "This spiritual awakening informed the rest of his life, in which it doesn't appear he spent a day without prayer."
+      "sourceUrl": "http://www.sonofthesouth.net/leefoundation/Lee_Religious_Views.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://leearchive.wlu.edu/reference/misc/centennial/jones.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "The Confederate General observed the Sabbath throughout the Civil War, was known to join in impromptu prayer sessions with his soldiers before battles, and gave away prayer books to soldiers in need.",
       "sourceTitle": "The Christian Character of Robert E. Lee, by Rev. J. William Jones.",
-      "text": "The Confederate General observed the Sabbath throughout the Civil War, was known to join in impromptu prayer sessions with his soldiers before battles, and gave away prayer books to soldiers in need."
+      "sourceUrl": "http://leearchive.wlu.edu/reference/misc/centennial/jones.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.sonofthesouth.net/leefoundation/Lee_Religious_Views.htm",
+      "type": "text",
+      "text": "After the war, in his role as president of Washington and Lee University in Virginia, he felt it was his duty to bring any non-believers among his student body to the word of God.",
+      "parentId": 3,
       "sourceTitle": "Robert E. Lee's Religious Views.",
-      "text": "After the war, in his role as president of Washington and Lee University in Virginia, he felt it was his duty to bring any non-believers among his student body to the word of God."
+      "sourceUrl": "http://www.sonofthesouth.net/leefoundation/Lee_Religious_Views.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nps.gov/arho/historyculture/religion.htm",
+      "parentId": 4,
+      "type": "text",
+      "text": "And even though he was an Episcopalian, he was happy to support anyone who called themselves a Christian. Aside from the contributions he made to his own church, on at least one occasion he gave a generous donation to the Lexington Baptist Church Building Fund. And he urged a Presbyterian minister at his University to convert all the students to the Christian faith.",
       "sourceTitle": "General Robert E. Lee, The Christian Soldier, by Judith Brockenbrough McGuire.",
-      "text": "And even though he was an Episcopalian, he was happy to support anyone who called themselves a Christian. Aside from the contributions he made to his own church, on at least one occasion he gave a generous donation to the Lexington Baptist Church Building Fund. And he urged a Presbyterian minister at his University to convert all the students to the Christian faith."
+      "sourceUrl": "http://www.nps.gov/arho/historyculture/religion.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "Above all else, Lee was devoted to the Bible. He called it,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 6
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://leearchive.wlu.edu/reference/misc/centennial/jones.html",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": ". . . a book in comparison with which all others in my eyes are of minor importance, and which in all my perplexities and distresses has never failed to give me light and strength.",
       "sourceTitle": "The Christian Character of Robert E. Lee, by Rev. J. William Jones.",
-      "text": ". . . a book in comparison with which all others in my eyes are of minor importance, and which in all my perplexities and distresses has never failed to give me light and strength."
+      "sourceUrl": "http://leearchive.wlu.edu/reference/misc/centennial/jones.html"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Robert E. Lee, the man"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lewrockwell.com/wilson/wilson23.html",
-      "sourceTitle": "Robert E. Lee: Traitor or American Hero? by Clyde Wilson.",
-      "text": "Despite being the leader of the army which fought to destroy the United States, Lee's place in American memory is that of a hero. As the Civil War is remembered as the war among the states, Lee is leader of the \"Lost Cause.\""
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.washingtonpost.com/2011-04-25/opinions/35261908_1_slavery-robert-e-lee-cult",
+      "parentId": 10,
+      "type": "text",
+      "text": "Despite being the leader of the army which fought to destroy the United States, Lee's place in American memory is that of a hero. As the Civil War is remembered as the war among the states, Lee is leader of the \"Lost Cause.\"",
+      "sourceTitle": "Robert E. Lee: Traitor or American Hero? by Clyde Wilson.",
+      "sourceUrl": "http://www.lewrockwell.com/wilson/wilson23.html"
+    },
+    {
+      "type": "text",
+      "text": "As slavery is pushed to the background as a cause of the war, Lee's sympathies with the South's \"peculiar institution\" are swept away",
+      "parentId": 10,
       "sourceTitle": "Dispelling the myth of Robert E. Lee.",
-      "text": "As slavery is pushed to the background as a cause of the war, Lee's sympathies with the South's \"peculiar institution\" are swept away"
+      "sourceUrl": "http://articles.washingtonpost.com/2011-04-25/opinions/35261908_1_slavery-robert-e-lee-cult"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.sonofthesouth.net/leefoundation/Lee_Religious_Views.htm",
+      "type": "text",
+      "text": "and anecdotes of his respect for black people are extolled.",
+      "parentId": 10,
       "sourceTitle": "Robert E. Lee's Religious Views.",
-      "text": "and anecdotes of his respect for black people are extolled."
+      "sourceUrl": "http://www.sonofthesouth.net/leefoundation/Lee_Religious_Views.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lewrockwell.com/wilson/wilson23.html",
+      "parentId": 11,
+      "type": "text",
+      "text": "It's difficult to separate the man from the myth. Even by the time of his death, a northern newspaper called him a hero and claimed the general \"as one of ourselves.\"",
       "sourceTitle": "Robert E. Lee: Traitor or American Hero? by Clyde Wilson.",
-      "text": "It's difficult to separate the man from the myth. Even by the time of his death, a northern newspaper called him a hero and claimed the general \"as one of ourselves.\""
+      "sourceUrl": "http://www.lewrockwell.com/wilson/wilson23.html"
     },
     {
-      "type": "sentence",
-      "text": "But regardless of your opinion of Lee's legacy, it's clear that his political position at the crossroads of his life, during Southern secession, was a choice, not an inevitability as so many wish to claim."
+      "type": "text",
+      "text": "But regardless of your opinion of Lee's legacy, it's clear that his political position at the crossroads of his life, during Southern secession, was a choice, not an inevitability as so many wish to claim.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://opinionator.blogs.nytimes.com/2011/04/19/the-general-in-his-study/",
+      "parentId": 12,
+      "type": "text",
+      "text": "Lee was pro-slavery, and even fought in court to keep his slaves after his father-in-law's will freed them. He also supported the Crittenden Compromise, which would have outlawed abolition, saying the law deserved \"the support of every patriot.\"",
       "sourceTitle": "The General in His Study.",
-      "text": "Lee was pro-slavery, and even fought in court to keep his slaves after his father-in-law's will freed them. He also supported the Crittenden Compromise, which would have outlawed abolition, saying the law deserved \"the support of every patriot.\""
+      "sourceUrl": "http://opinionator.blogs.nytimes.com/2011/04/19/the-general-in-his-study/"
     },
     {
-      "type": "sentence",
-      "text": "So he clearly sided with the South on the biggest and most contentious antebellum political issue."
+      "type": "text",
+      "text": "So he clearly sided with the South on the biggest and most contentious antebellum political issue.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Despite being Southerners, many of Lee's close family chose to support the Union, including his sister. And many of his beloved Virginians, including 40 percent of that state's military officers, sided with the North. When Lee announced to his family, including his pro-Union wife, that he had resigned his post with the U.S. Army, he apologized to his family saying,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://opinionator.blogs.nytimes.com/2011/04/19/the-general-in-his-study/",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I suppose you will all think I have done very wrong.",
       "sourceTitle": "The General in His Study.",
-      "text": "I suppose you will all think I have done very wrong."
+      "sourceUrl": "http://opinionator.blogs.nytimes.com/2011/04/19/the-general-in-his-study/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Many choose to remember Lee as an abolitionist who only became the commander of the Confederate army because of a noble sense of loyalty to a cause which he knew was flawed. But history hadn't been written yet. The political decisions he made at the time were his own personal choices, just like the political choices so many contemporary celebrities we write about on the Hollowverse make today."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -223,7 +278,7 @@
             "source": "commons-desc-page"
           },
           "Permission": {
-            "value": "<p><i>No known restrictions on publication.</i></p>\n<table class=\"licensetpl\" style=\"display:none\"><tr>\n<td>\n<span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td>\n</tr></table>\n<table style=\"width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr; border-spacing: 8px; padding: 0px;\" class=\"layouttemplate mw-content-ltr\" lang=\"en\">\n<tr>\n<td><img alt=\"Public domain\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/64px-PD-icon.svg.png\" title=\"Public domain\" width=\"64\" height=\"64\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/96px-PD-icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png 2x\" data-file-width=\"196\" data-file-height=\"196\"></td>\n<td>\n<p><span lang=\"en\" class=\"description en\">This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_length\" class=\"extiw\" title=\"w:List of countries' copyright length\">copyright term</a> is the author's <b>life plus 100 years or less</b>.</span></p>\n<hr>\n<p><span lang=\"en\" class=\"description en\">This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1923.</span></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\">\n<center><span style=\"font-size:x-small;line-height:140%\" class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a></span></center>\n</td>\n</tr>\n</table>",
+            "value": "<p><i>No known restrictions on publication.</i></p>\n<table class=\"licensetpl\" style=\"display:none\"><tr>\n<td>\n<span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td>\n</tr></table>\n<table style=\"width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr; border-spacing: 8px; padding: 0px;\" class=\"layouttemplate mw-content-ltr\" lang=\"en\">\n<tr>\n<td><img alt=\"Public domain\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/64px-PD-icon.svg.png\" title=\"Public domain\" width=\"64\" height=\"64\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/96px-PD-icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png 2x\" data-file-width=\"196\" data-file-height=\"196\"></td>\n<td>\n<p><span lang=\"en\" class=\"description en\">This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_length\" class=\"extiw\" title=\"w:List of countries' copyright length\">copyright term</a> is the author's <b>life plus 100 years or less</b>.</span></p>\n<hr>\n<p><span lang=\"en\" class=\"description en\">This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1923.</span></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;\"><span style=\"font-size:x-small;line-height:140%\" class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a></span></td>\n</tr>\n</table>",
             "source": "commons-desc-page",
             "hidden": ""
           },

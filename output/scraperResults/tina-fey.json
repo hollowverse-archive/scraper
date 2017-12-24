@@ -37,110 +37,217 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Tina Fey was born and raised in Upper Darby, Pennsylvania close to Philadelphia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.beliefnet.com/Celebrity-Faith-Database/F/Tina-Fey.aspx",
+      "parentId": 2,
+      "type": "text",
+      "text": "Fey is an adherent of Greek Orthodox Christianity, of which people only seem to be aware because she was married in a Greek Orthodox ceremony.",
       "sourceTitle": "Tina Fey – Greek Orthodox.",
-      "text": "Fey is an adherent of Greek Orthodox Christianity, of which people only seem to be aware because she was married in a Greek Orthodox ceremony."
+      "sourceUrl": "http://www.beliefnet.com/Celebrity-Faith-Database/F/Tina-Fey.aspx"
     },
     {
-      "type": "sentence",
-      "text": "Otherwise she hasn't talked about her faith, and we have no basis for making a conclusion about how religious she is."
+      "type": "text",
+      "text": "Otherwise she hasn't talked about her faith, and we have no basis for making a conclusion about how religious she is.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "The only other clue we have is from her book  in which she wrote \"A Mother's Prayer for Her Child.\" In it, she implores the Lord to make sure she doesn't get tattoos or sleep with drummers and to:"
+      "parentId": 3,
+      "type": "text",
+      "text": "The only other clue we have is from her book"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "emphasis",
+      "text": "Bossypants"
+    },
+    {
+      "type": "text",
+      "text": "in which she wrote \"A Mother's Prayer for Her Child.\" In it, she implores the Lord to make sure she doesn't get tattoos or sleep with drummers and to:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "text": "O Lord, break the Internet forever, that she may be spared the misspelled invective of her peers. (( Write In Color.))"
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "O Lord, break the Internet forever, that she may be spared the misspelled invective of her peers. (("
+    },
+    {
+      "parentId": 5,
+      "type": "link",
+      "text": "A Mother's Prayer for Her Child By Tina Fey.",
+      "sourceUrl": "http://melodygodfred.com/2011/04/15/a-mothers-prayer-for-its-child-by-tina-fey/"
+    },
+    {
+      "type": "text",
+      "text": "Write In Color.))",
+      "parentId": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Not exactly a profession of faith, but a sign maybe that she is connected enough to her religion to use God in humor. But whatever she leaves to speculation with religion, she makes up for in politics."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "The Fey Effect"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.overthinkingit.com/2009/11/16/tv-tina-fey-30-rock-liberal/",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Tina Fey is unabashedly liberal. Her show"
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "30 Rock"
+    },
+    {
+      "type": "text",
+      "text": "has been called one of the most liberal on air,",
+      "parentId": 8,
       "sourceTitle": "30 Rock: The Most Liberal Show on TV?",
-      "text": "Tina Fey is unabashedly liberal. Her show  has been called one of the most liberal on air,"
+      "sourceUrl": "http://www.overthinkingit.com/2009/11/16/tv-tina-fey-30-rock-liberal/"
     },
     {
-      "type": "sentence",
-      "text": "probably because of Alec Baldwin's over-the-top conservative corporatist character and lines like this from Fey's character, Liz Lemon:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "probably because of Alec Baldwin's over-the-top conservative corporatist character and lines like this from Fey's character, Liz Lemon:",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.overthinkingit.com/2009/11/16/tv-tina-fey-30-rock-liberal/",
-      "sourceTitle": "30 Rock: The Most Liberal Show on TV?",
-      "text": "I love America. Just because I think gay dudes should be allowed to adopt kids and we should all have hybrid cars doesn't mean I don't love America."
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.goodreads.com/author/quotes/4385839.Tina_Fey",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I love America. Just because I think gay dudes should be allowed to adopt kids and we should all have hybrid cars doesn't mean I don't love America.",
+      "sourceTitle": "30 Rock: The Most Liberal Show on TV?",
+      "sourceUrl": "http://www.overthinkingit.com/2009/11/16/tv-tina-fey-30-rock-liberal/"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "But regardless of whether you think her show is liberal, you can't deny that she is–particularly when championing women's rights. Her book was full of advice for women in the workplace,",
       "sourceTitle": "Tina Fey Quotes (Author of Bossypants).",
-      "text": "But regardless of whether you think her show is liberal, you can't deny that she is–particularly when championing women's rights. Her book was full of advice for women in the workplace,"
+      "sourceUrl": "http://www.goodreads.com/author/quotes/4385839.Tina_Fey"
     },
     {
-      "type": "sentence",
-      "text": "and she is not a fan of the Republican Party's treatment of women. In response to Republican Todd Akin's 2012 comment that women could not become pregnant from \"legitimate rape,\" Fey said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and she is not a fan of the Republican Party's treatment of women. In response to Republican Todd Akin's 2012 comment that women could not become pregnant from \"legitimate rape,\" Fey said,",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.sheknows.com/entertainment/articles/974955/video-clip-tina-feys-speech-womens-reproductive-rights",
-      "sourceTitle": "Tina Fey talks women's reproductive rights.",
-      "text": "If I have to listen to one more grey-faced man with a 2-dollar haircut explain to me what rape is I'm gonna lose my mind. . . . Mr. Akin, I think you are confusing the phrase \"legitimate rape\" with the phrase \"competitive gymnastics.\""
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "If I have to listen to one more grey-faced man with a 2-dollar haircut explain to me what rape is I'm gonna lose my mind. . . . Mr. Akin, I think you are confusing the phrase \"legitimate rape\" with the phrase \"competitive gymnastics.\"",
+      "sourceTitle": "Tina Fey talks women's reproductive rights.",
+      "sourceUrl": "http://www.sheknows.com/entertainment/articles/974955/video-clip-tina-feys-speech-womens-reproductive-rights"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "And then during her acceptance speech after winning the Mark Twain Prize for American Humor, regarding Alaska's former Republican governor she said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/author/quotes/4385839.Tina_Fey",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "And, you know, politics aside, the success of Sarah Palin and women like her is good for all women–except, of course those who will end up, you know, like, paying for their own rape kit 'n' stuff. . . . Unless you're a gay woman who wants to marry your partner of 20 years. . . . Unless you believe in evolution. You know – actually, I take it back. The whole thing's a disaster.",
       "sourceTitle": "Tina Fey Quotes (Author of Bossypants).",
-      "text": "And, you know, politics aside, the success of Sarah Palin and women like her is good for all women–except, of course those who will end up, you know, like, paying for their own rape kit 'n' stuff. . . . Unless you're a gay woman who wants to marry your partner of 20 years. . . . Unless you believe in evolution. You know – actually, I take it back. The whole thing's a disaster."
+      "sourceUrl": "http://www.goodreads.com/author/quotes/4385839.Tina_Fey"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtonpost.com/blogs/ezra-klein/post/the-tina-fey-effect/2012/03/09/gIQAwmjO1R_blog.html",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Fey's spot-on impersonation of Sarah Palin (seriously, check out"
+    },
+    {
+      "parentId": 17,
+      "type": "link",
+      "text": "this video",
+      "sourceUrl": "http://www.youtube.com/watch?v=IE-OCDexYrU"
+    },
+    {
+      "type": "text",
+      "text": ") was potentially so influential during the 2008 presidential election that her influence has been dubbed the \"Fey Effect\" and explored in academic circles.",
+      "parentId": 17,
       "sourceTitle": "The Tina Fey effect.",
-      "text": "Fey's spot-on impersonation of Sarah Palin (seriously, check out ) was potentially so influential during the 2008 presidential election that her influence has been dubbed the \"Fey Effect\" and explored in academic circles."
+      "sourceUrl": "http://www.washingtonpost.com/blogs/ezra-klein/post/the-tina-fey-effect/2012/03/09/gIQAwmjO1R_blog.html"
     },
     {
-      "type": "sentence",
-      "text": "So you could say that Tina Fey is one of the most influential comedians on American politics. What do you think? Did she help make your decision in 2008?"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "So you could say that Tina Fey is one of the most influential comedians on American politics. What do you think? Did she help make your decision in 2008?",
+      "parentId": 17
     }
   ],
   "wikipediaData": {

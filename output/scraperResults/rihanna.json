@@ -32,109 +32,164 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Rihanna was born in St. Michael, Barbados and grew up in nearby Bridgetown, Barbados."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://alphaomegaarts.blogspot.com/2012/03/rihanna-joins-jesus-tattoo-craze-and.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "It is assumed she is a Christian of some sort–she has a cross tattooed on her neck",
       "sourceTitle": "Rihanna joins the Jesus tattoo craze and gets her own cross tattoo",
-      "text": "It is assumed she is a Christian of some sort–she has a cross tattooed on her neck"
+      "sourceUrl": "http://alphaomegaarts.blogspot.com/2012/03/rihanna-joins-jesus-tattoo-craze-and.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Barbados#Religion",
+      "type": "text",
+      "text": "–though no evidence points to which denomination. The country of Barbados, demographically, is 95 percent Christian with the largest portion (40 percent) being Anglican as Barbados was an imperial colony of the British Empire.",
+      "parentId": 2,
       "sourceTitle": "Barbados",
-      "text": "–though no evidence points to which denomination. The country of Barbados, demographically, is 95 percent Christian with the largest portion (40 percent) being Anglican as Barbados was an imperial colony of the British Empire."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Barbados#Religion"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "She has mentioned her faith on a few occasions, once tweeting:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://atrl.net/forums/showthread.php?t=180990",
-      "sourceTitle": "Celeb News: Rihanna: God is Love!!!",
-      "text": "God is Love!!!"
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "God is Love!!!",
+      "sourceTitle": "Celeb News: Rihanna: God is Love!!!",
+      "sourceUrl": "http://atrl.net/forums/showthread.php?t=180990"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "During the infamous Chris Brown scandal, Rihanna leaned on her faith during a hard time and saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.contactmusic.com/news/rihanna-put-faith-in-god-after-brown-attack_1121111",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "My friends and family have been extremely supportive, and everyone has been there for me. But at some point you are there alone. It's a lonely place to be – no one can understand. That's when you get close to God.",
       "sourceTitle": "Rihanna Put Faith in God After Brown Attack",
-      "text": "My friends and family have been extremely supportive, and everyone has been there for me. But at some point you are there alone. It's a lonely place to be – no one can understand. That's when you get close to God."
+      "sourceUrl": "http://www.contactmusic.com/news/rihanna-put-faith-in-god-after-brown-attack_1121111"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.entertainmentwise.com/news/72250/Rihanna-To-Change-Religion-Following-Ashton-Kutcher-Romance",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "But Rihanna is famous. She runs in famous circles, hangs out with famous people, dates famous disciples of famous religions. After his separation with Demi Moore, Ashton Kutcher and Rihanna seemed to be getting serious. So serious, in fact, that Rihanna was rumored to be considering a conversion to Kutcher's celebrity-magnet religion–Kabbalah.",
       "sourceTitle": "Rihanna To Change Religion Following Ashton Kutcher Romance?",
-      "text": "But Rihanna is famous. She runs in famous circles, hangs out with famous people, dates famous disciples of famous religions. After his separation with Demi Moore, Ashton Kutcher and Rihanna seemed to be getting serious. So serious, in fact, that Rihanna was rumored to be considering a conversion to Kutcher's celebrity-magnet religion–Kabbalah."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.entertainmentwise.com/news/72250/Rihanna-To-Change-Religion-Following-Ashton-Kutcher-Romance"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Honoring her roots"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Rihanna is quite a bit more political than she lets on. At the recent funeral of the late Prime Minister of her island nation of Barbados, David Thompson, Rihanna said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.boldsky.com/insync/2010/rihanna-politics-091110.html",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "It was very upsetting. I'm not good at the politics side at the moment. It terrifies me because I am so young. But maybe one day in years, decades from now, I'll get involved. I think more pop stars should care about their country and how it's run.",
       "sourceTitle": "Rihanna on Politics",
-      "text": "It was very upsetting. I'm not good at the politics side at the moment. It terrifies me because I am so young. But maybe one day in years, decades from now, I'll get involved. I think more pop stars should care about their country and how it's run."
+      "sourceUrl": "http://www.boldsky.com/insync/2010/rihanna-politics-091110.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://archive.nationnews.com/archive_detail.php?archiveFile=2008/February/22/LocalNews/53698.xml&start=0&numPer=20&sectionSearch=&begindate=1%2F1%2F1994&enddate=12%2F31%2F2009&authorSearch=&IncludeStories=1&pubsection=&page=&IncludePages=&IncludeImages=&mode=allwords&archive_pubname=Daily+Nation%0A%09%09%09",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "However, our young pop star is very involved in her country's politics. She could even be considered an official Barbados politician. She has been given the official title of Ambassador of Youth and Culture of Barbados by then-Prime Minister David Thompson.",
       "sourceTitle": "All hail Rihanna",
-      "text": "However, our young pop star is very involved in her country's politics. She could even be considered an official Barbados politician. She has been given the official title of Ambassador of Youth and Culture of Barbados by then-Prime Minister David Thompson."
+      "sourceUrl": "http://archive.nationnews.com/archive_detail.php?archiveFile=2008/February/22/LocalNews/53698.xml&start=0&numPer=20&sectionSearch=&begindate=1%2F1%2F1994&enddate=12%2F31%2F2009&authorSearch=&IncludeStories=1&pubsection=&page=&IncludePages=&IncludeImages=&mode=allwords&archive_pubname=Daily+Nation%0A%09%09%09"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://lifestylesdefined.com/rihanna-is-now-the-official-face-of-barbados/",
+      "parentId": 15,
+      "type": "text",
+      "text": "She is heavily involved in promoting Barbados tourism, the small country's primary economic engine, appearing in a series of commercials and bringing up her home country on numerous occasions.",
       "sourceTitle": "Rihanna is now the official face of Barbados",
-      "text": "She is heavily involved in promoting Barbados tourism, the small country's primary economic engine, appearing in a series of commercials and bringing up her home country on numerous occasions."
+      "sourceUrl": "http://lifestylesdefined.com/rihanna-is-now-the-official-face-of-barbados/"
     },
     {
-      "type": "sentence",
-      "text": "She's a true patriot."
+      "type": "text",
+      "text": "She's a true patriot.",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebuzz.com/rihanna-sing-obama-s73431/",
+      "parentId": 16,
+      "type": "text",
+      "text": "In the U.S., she's no political slouch either, performing at President Obama's America's Presidential Charity Inaugural Ball.",
       "sourceTitle": "Rihanna to Sing for Obama",
-      "text": "In the U.S., she's no political slouch either, performing at President Obama's America's Presidential Charity Inaugural Ball."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.celebuzz.com/rihanna-sing-obama-s73431/"
     }
   ],
   "wikipediaData": {

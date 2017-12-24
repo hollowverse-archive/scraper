@@ -34,124 +34,192 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Usain St. Leo Bolt was born and raised in Sherwood Content, Trelawny, Jamaica."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.catholicnewsagency.com/news/vatican-invites-usain-bolt-to-address-religious-liberty-conference/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Bolt is a Catholic and his middle name was given to him in honor of one of the Catholic Church's earliest Popes.",
       "sourceTitle": "Vatican Invites Usain Bolt to address religious liberty conference",
-      "text": "Bolt is a Catholic and his middle name was given to him in honor of one of the Catholic Church's earliest Popes."
+      "sourceUrl": "http://www.catholicnewsagency.com/news/vatican-invites-usain-bolt-to-address-religious-liberty-conference/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianstogether.net/Articles/322891/Christians_Together_in/Christian_Life/Current_News/Why_does_the.aspx",
+      "type": "text",
+      "text": "Bolt is devout in his faith. He makes the sign of the cross before beginning a competition and, according to his public relations people, he is a \"Bible-believing, God-honoring, Jesus-worshiping Christian.\"",
+      "parentId": 2,
       "sourceTitle": "Why does the BBC ignore Usain Bolt's God?",
-      "text": "Bolt is devout in his faith. He makes the sign of the cross before beginning a competition and, according to his public relations people, he is a \"Bible-believing, God-honoring, Jesus-worshiping Christian.\""
+      "sourceUrl": "http://www.christianstogether.net/Articles/322891/Christians_Together_in/Christian_Life/Current_News/Why_does_the.aspx"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "It's not something he talks much about. Though he does occasionally tweet things like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/usainbolt",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "With God anything is possible… I demolish training today #thankuGod",
       "sourceTitle": "Usain St. Leo Bolt (usainbolt) on Twitter",
-      "text": "With God anything is possible… I demolish training today #thankuGod"
+      "sourceUrl": "https://twitter.com/usainbolt"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.catholicnewsagency.com/news/vatican-invites-usain-bolt-to-address-religious-liberty-conference/",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "His faith and his celebrity inspired the Vatican to invite him to speak at a conference on global religious liberty through the popular TED (technology, entertainment and design) program.",
       "sourceTitle": "Vatican Invites Usain Bolt to address religious liberty conference",
-      "text": "His faith and his celebrity inspired the Vatican to invite him to speak at a conference on global religious liberty through the popular TED (technology, entertainment and design) program."
+      "sourceUrl": "http://www.catholicnewsagency.com/news/vatican-invites-usain-bolt-to-address-religious-liberty-conference/"
     },
     {
-      "type": "sentence",
-      "text": "I imagine that's a high honor for any Catholic."
+      "type": "text",
+      "text": "I imagine that's a high honor for any Catholic.",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianstogether.net/Articles/322891/Christians_Together_in/Christian_Life/Current_News/Why_does_the.aspx",
+      "parentId": 7,
+      "type": "text",
+      "text": "An interesting side-note–and we run across this surprisingly often at the Hollowverse–some Protestants have claimed Bolt as one of their own.",
       "sourceTitle": "Why does the BBC ignore Usain Bolt's God?",
-      "text": "An interesting side-note–and we run across this surprisingly often at the Hollowverse–some Protestants have claimed Bolt as one of their own."
+      "sourceUrl": "http://www.christianstogether.net/Articles/322891/Christians_Together_in/Christian_Life/Current_News/Why_does_the.aspx"
     },
     {
-      "type": "sentence",
-      "text": "They simply assert that he is a Protestant with no evidence, presumably because they like him… I don't know. Don't believe them, he's a Catholic."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "They simply assert that he is a Protestant with no evidence, presumably because they like him… I don't know. Don't believe them, he's a Catholic.",
+      "parentId": 7
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "The natural political environment of the wealthy"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Bolt's politics can only be gleaned from sparse comments here and there. Sometimes, these comments only serve to stroke Bolt's ego, such as:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/u/usain_bolt.html",
-      "sourceTitle": "Usain Bolt Quotes",
-      "text": "If Queen Elizabeth knighthooded me and I would get the title Sir Usain Bolt. That sounds very nice."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "If Queen Elizabeth knighthooded me and I would get the title Sir Usain Bolt. That sounds very nice.",
+      "sourceTitle": "Usain Bolt Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/u/usain_bolt.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Sometimes, they are general statements about his love for his home country of Jamaica:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/u/usain_bolt.html",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I can't really live outside Jamaica. I can be away, but only for a while.",
       "sourceTitle": "Usain Bolt Quotes",
-      "text": "I can't really live outside Jamaica. I can be away, but only for a while."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/u/usain_bolt.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newstatesman.com/blogs/politics/2012/08/usain-bolt-wrong-oppose-our-tax-laws",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Once, when asked why he didn't travel more often to England, he complained about the high taxes that country places upon the wealthy for things like speaking engagement fees and endorsement/sponsorship earnings. He later said when the tax laws change, he'd be more than happy to go to the UK.",
       "sourceTitle": "Usain Bolt is wrong to oppose our tax laws",
-      "text": "Once, when asked why he didn't travel more often to England, he complained about the high taxes that country places upon the wealthy for things like speaking engagement fees and endorsement/sponsorship earnings. He later said when the tax laws change, he'd be more than happy to go to the UK."
+      "sourceUrl": "http://www.newstatesman.com/blogs/politics/2012/08/usain-bolt-wrong-oppose-our-tax-laws"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Other than that, there's not much from Bolt politically. He was referenced by U.S. President Obama during the 2012 election cycle. Obama said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://abcnews.go.com/blogs/politics/2012/08/obama-im-not-a-usain-bolt/",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I just want to remind you this is not going to be a race like Usain Bolt where we're like 40 yards ahead and we can just start jogging 10 feet before the finish line.",
       "sourceTitle": "Obama: I'm No Usain Bolt",
-      "text": "I just want to remind you this is not going to be a race like Usain Bolt where we're like 40 yards ahead and we can just start jogging 10 feet before the finish line."
+      "sourceUrl": "http://abcnews.go.com/blogs/politics/2012/08/obama-im-not-a-usain-bolt/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "It would be telling if Bolt had said he was flattered by the reference, but as far as I can tell, not a peep."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

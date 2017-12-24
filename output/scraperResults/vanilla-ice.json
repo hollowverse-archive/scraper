@@ -35,102 +35,165 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Vanilla Ice, whose real name is Robert Van Winkle, was born in Dallas, Texas. He grew up there and in Miami, Florida."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.roctober.com/roctober/greatness/vanilla.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "It's unclear the extent of Vanilla's religious upbringing, but in the late 90s he revealed a qualified belief in Christianity, likely of the born-again variety. When asked if he had been \"saved,\" he said yes,",
       "sourceTitle": "Vanilla Ice",
-      "text": "It's unclear the extent of Vanilla's religious upbringing, but in the late 90s he revealed a qualified belief in Christianity, likely of the born-again variety. When asked if he had been \"saved,\" he said yes,"
+      "sourceUrl": "http://www.roctober.com/roctober/greatness/vanilla.html"
     },
     {
-      "type": "sentence",
-      "text": "but then expressed reservations about the nature of religion as an institution and scripture, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but then expressed reservations about the nature of religion as an institution and scripture, saying:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.roctober.com/roctober/greatness/vanilla.html",
-      "sourceTitle": "Vanilla Ice",
-      "text": "I don't believe in religion, first of all. Religion to me is, like, man made. The word Catholic, the word Methodist, and all this stuff. They don't even exist in the Bible. So that tells you that they're man made."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I don't believe in religion, first of all. Religion to me is, like, man made. The word Catholic, the word Methodist, and all this stuff. They don't even exist in the Bible. So that tells you that they're man made.",
+      "sourceTitle": "Vanilla Ice",
+      "sourceUrl": "http://www.roctober.com/roctober/greatness/vanilla.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Well, the Bible wasn't written in English, so that might be one explanation. Anyway, when asked if he believed in the primacy of the Bible, he said \"some of it\" and went on to explain:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.roctober.com/roctober/greatness/vanilla.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I believe the Bible's been manipulated, because first of all, it had to be interpreted and it was written in a different language… if you look at anything that man has ever done, nothing's been perfect, so why would the Bible be perfect after it's been rewritten so many times?",
       "sourceTitle": "Vanilla Ice",
-      "text": "I believe the Bible's been manipulated, because first of all, it had to be interpreted and it was written in a different language… if you look at anything that man has ever done, nothing's been perfect, so why would the Bible be perfect after it's been rewritten so many times?"
+      "sourceUrl": "http://www.roctober.com/roctober/greatness/vanilla.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.religionnewsblog.com/5653/vanilla-ice-drawn-to-scientology",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "It appears to be faith in the fundamentals of Christianity and a rejection of Biblical literalism. But perhaps it was a lack of faith in Christianity overall because nearly 10 years later, Vanilla was expressing an interest in Scientology.",
       "sourceTitle": "Vanilla Ice drawn to Scientology",
-      "text": "It appears to be faith in the fundamentals of Christianity and a rejection of Biblical literalism. But perhaps it was a lack of faith in Christianity overall because nearly 10 years later, Vanilla was expressing an interest in Scientology."
+      "sourceUrl": "http://www.religionnewsblog.com/5653/vanilla-ice-drawn-to-scientology"
     },
     {
-      "type": "sentence",
-      "text": "There is no evidence that I can find that would indicate that he has officially converted to that religion though."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "There is no evidence that I can find that would indicate that he has officially converted to that religion though.",
+      "parentId": 8
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Politics of cold, white, rich men"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "One gets the sense that Vanilla's not all that into politics. On November 6, 2012 (election day), he tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/vanillaice",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Today they will decide who is the next President???",
       "sourceTitle": "Vanilla Ice (vanillaice) on Twitter",
-      "text": "Today they will decide who is the next President???"
+      "sourceUrl": "https://twitter.com/vanillaice"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/vanillaice/status/260758605949722624",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "And a month earlier, he tweeted that he prefers a Ninja Turtles pizza party over either the Democratic Party or the Republican Party.",
       "sourceTitle": "Twitter/vanillaice: They say two things celebrities…",
-      "text": "And a month earlier, he tweeted that he prefers a Ninja Turtles pizza party over either the Democratic Party or the Republican Party."
+      "sourceUrl": "https://twitter.com/vanillaice/status/260758605949722624"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "But one tweet suggests that perhaps Vanilla Ice identifies more closely with the Republicans than anything else. While watching the Republican primary debates in 2011, he tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://thegrio.com/2011/08/12/vanilla-ice-impressed-by-herman-cain/",
+      "id": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "I was impressed with Cain in the debate? But not really convinced yet by anyone??? 15 months to go???",
       "sourceTitle": "Vanilla Ice 'impressed' by Herman Cain",
-      "text": "I was impressed with Cain in the debate? But not really convinced yet by anyone??? 15 months to go???"
+      "sourceUrl": "http://thegrio.com/2011/08/12/vanilla-ice-impressed-by-herman-cain/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "That was pretty early in the game, though, and not much else emerged from Vanilla. However, it seemed almost an obligation for a celebrity to endorse Obama–and as far as I can tell, Vanilla didn't. It is telling somehow. Let's hear your thoughts in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

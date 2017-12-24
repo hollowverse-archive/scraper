@@ -31,115 +31,173 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Born in Albuquerque, New Mexico and raised in Dallas, Texas, Demi Lovato is a classic southern Evangelical Christian Disney star just waiting for some major controversy to shatter her good-girl image."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.inquisitr.com/176943/demi-lovato-on-twitter-god-just-keeps-throwing-crap-my-way/",
+      "parentId": 2,
+      "type": "text",
+      "text": "She's already been to rehab for cutting herself",
       "sourceTitle": "Demi Lovato on Twitter",
-      "text": "She's already been to rehab for cutting herself"
+      "sourceUrl": "http://www.inquisitr.com/176943/demi-lovato-on-twitter-god-just-keeps-throwing-crap-my-way/"
     },
     {
-      "type": "sentence",
-      "text": ", but that's child's play. I think the sex tape or drug charge is just around the corner."
+      "type": "text",
+      "text": ", but that's child's play. I think the sex tape or drug charge is just around the corner.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "So far, she's keeping the religion stuff an issue, but not in the forefront. She has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.inquisitr.com/176943/demi-lovato-on-twitter-god-just-keeps-throwing-crap-my-way/",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I'm not very religious but I'm VERY spiritual and I DO believe in God. I'm not perfect or preaching! Just tweeting… :)",
       "sourceTitle": "Demi Lovato on Twitter",
-      "text": "I'm not very religious but I'm VERY spiritual and I DO believe in God. I'm not perfect or preaching! Just tweeting… :)"
+      "sourceUrl": "http://www.inquisitr.com/176943/demi-lovato-on-twitter-god-just-keeps-throwing-crap-my-way/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2008/06/20/AR2008062003077_pf.html",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "God seems to have been demoted in Lovato's life since her U.S. theme park tour of 2008 when she said that she and her band were very Christian and that they prayed before every performance.",
       "sourceTitle": "Disney Demi-Goddess",
-      "text": "God seems to have been demoted in Lovato's life since her U.S. theme park tour of 2008 when she said that she and her band were very Christian and that they prayed before every performance."
+      "sourceUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2008/06/20/AR2008062003077_pf.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://stealherstyle.net/tattoos/demi-lovatos-tattoo/",
+      "parentId": 7,
+      "type": "text",
+      "text": "Still, she's got a tattoo on elbow that says \"Faith\" and a tattoo on her hand of a Christian cross. She has said that she wants her fans to see her faith every time she holds a microphone.",
       "sourceTitle": "Demi Lovato's Tattoos & Meanings",
-      "text": "Still, she's got a tattoo on elbow that says \"Faith\" and a tattoo on her hand of a Christian cross. She has said that she wants her fans to see her faith every time she holds a microphone."
+      "sourceUrl": "http://stealherstyle.net/tattoos/demi-lovatos-tattoo/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "As is so often the case, God really comes out when times get tough. In the height of the media circus surrounding her rehab incident, she tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.inquisitr.com/176943/demi-lovato-on-twitter-god-just-keeps-throwing-crap-my-way/",
-      "sourceTitle": "Demi Lovato on Twitter",
-      "text": "Sometimes it seems like God just keeps throwing crap my way and I get SO angry with him … But there's never a doubt in my mind He's gonna pull me through it all. I know you're there God. But umm … Really dude? He never fails to show me He's by my side though. Even in the tough times."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Sometimes it seems like God just keeps throwing crap my way and I get SO angry with him … But there's never a doubt in my mind He's gonna pull me through it all. I know you're there God. But umm … Really dude? He never fails to show me He's by my side though. Even in the tough times.",
+      "sourceTitle": "Demi Lovato on Twitter",
+      "sourceUrl": "http://www.inquisitr.com/176943/demi-lovato-on-twitter-god-just-keeps-throwing-crap-my-way/"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "And then God was all, like, \"Dude. Really.\""
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "The politics of minors"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Surprisingly, of all of the Disney tween sensations, Lovato actually had something relatively informed to say about politics. At a show celebrating Obama's inauguration, Lovato said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.buddytv.com/articles/jonas-brothers-living-the-dream/jonas-brothers-demi-lovato-sou-25785.aspx",
-      "sourceTitle": "Jonas Brothers, Demi Lovato Sound Off on Obama for \"Kids' Inaugural\" Concert",
-      "text": "Well, our economic system is in a crisis right now. I definitely hope that that will change. Also…I hope that the war resolves. Whether we win or lose or whatever, it doesn't matter. I hope that it just ends. So you know, I think that Barack Obama will be able to help us."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Well, our economic system is in a crisis right now. I definitely hope that that will change. Also…I hope that the war resolves. Whether we win or lose or whatever, it doesn't matter. I hope that it just ends. So you know, I think that Barack Obama will be able to help us.",
+      "sourceTitle": "Jonas Brothers, Demi Lovato Sound Off on Obama for \"Kids' Inaugural\" Concert",
+      "sourceUrl": "http://www.buddytv.com/articles/jonas-brothers-living-the-dream/jonas-brothers-demi-lovato-sou-25785.aspx"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Here's my interpretation. (I speak tween) The economy is in the shitter and we've been at war for over 10 years. I am falling for the \"hope\" and \"change\" rhetoric and I think one dude is going to fix all that."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "Oh, hindsight is 20-20, right?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/1802-demi-lovato",
+      "parentId": 18,
+      "type": "text",
+      "text": "Anyway, Lovato is also involved in various charities including The Red Cross, Kids Wish Network, and STOMP Out Bullying, a charity she joined because of her challenges with bullies growing up.",
       "sourceTitle": "Demi Lovato: Charity Work, Events, and Causes",
-      "text": "Anyway, Lovato is also involved in various charities including The Red Cross, Kids Wish Network, and STOMP Out Bullying, a charity she joined because of her challenges with bullies growing up."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.looktothestars.org/celebrity/1802-demi-lovato"
     }
   ],
   "wikipediaData": {

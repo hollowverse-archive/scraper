@@ -34,121 +34,217 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Aziz Ansari was born in Columbia, South Carolina and grew up in Bennettsville, South Carolina."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2010/06/04/arts/television/04aziz.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Ansari was raised by Muslim parents from the Indian ethnic group known as the Tamil.",
       "sourceTitle": "Comedian Aziz Ansari Will Host MTV Music Awards",
-      "text": "Ansari was raised by Muslim parents from the Indian ethnic group known as the Tamil."
+      "sourceUrl": "http://www.nytimes.com/2010/06/04/arts/television/04aziz.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://articles.timesofindia.indiatimes.com/2011-09-18/news-interviews/30171706_1_tamil-film-tamil-nadu-indian-films",
+      "type": "text",
+      "text": "He is a second generation immigrant, does speak the language of the Tamil people to some extent and has even expressed interest in acting in a Tamil film.",
+      "parentId": 2,
       "sourceTitle": "I could do a Tamil film: Aziz Ansari",
-      "text": "He is a second generation immigrant, does speak the language of the Tamil people to some extent and has even expressed interest in acting in a Tamil film."
+      "sourceUrl": "http://articles.timesofindia.indiatimes.com/2011-09-18/news-interviews/30171706_1_tamil-film-tamil-nadu-indian-films"
     },
     {
-      "type": "sentence",
-      "text": "And though he clearly identifies with his ethnic heritage, Ansari does not identify as a Muslim–or anything religious for that matter. Of his religious upbringing, he relates this story:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And though he clearly identifies with his ethnic heritage, Ansari does not identify as a Muslim–or anything religious for that matter. Of his religious upbringing, he relates this story:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.beliefnet.com/Faiths/Islam/2009/09/Muslim-Celebrities.aspx?p=12",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I didn't find out I was Muslim until I was 11. I was at a friend's house and my mom called. She said, 'Aziz, what are you up to?' [I said] 'Just chillin', eatin' some bacon.' She's like 'Aziz! Bacon is pork! We're Muslims! We're not supposed to eat pork!' I was like, 'Well, double-check the Koran, Mom. This stuff is the shit!",
       "sourceTitle": "Muslim Celebrities",
-      "text": "I didn't find out I was Muslim until I was 11. I was at a friend's house and my mom called. She said, 'Aziz, what are you up to?' [I said] 'Just chillin', eatin' some bacon.' She's like 'Aziz! Bacon is pork! We're Muslims! We're not supposed to eat pork!' I was like, 'Well, double-check the Koran, Mom. This stuff is the shit!"
+      "sourceUrl": "http://www.beliefnet.com/Faiths/Islam/2009/09/Muslim-Celebrities.aspx?p=12"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nytimes.com/2010/06/04/arts/television/04aziz.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "The"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "New York Times"
+    },
+    {
+      "type": "text",
+      "text": "said he calls himself an atheist,",
+      "parentId": 5,
       "sourceTitle": "Comedian Aziz Ansari Will Host MTV Music Awards",
-      "text": "The  said he calls himself an atheist,"
+      "sourceUrl": "http://www.nytimes.com/2010/06/04/arts/television/04aziz.html"
     },
     {
-      "type": "sentence",
-      "text": "and I'm inclined to believe them–because it's the . But I can't find anywhere him saying he's an atheist. He did once say, in response to the question of whether or not he believes in an afterlife:"
+      "type": "text",
+      "text": "and I'm inclined to believe them–because it's the",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "New York Times"
+    },
+    {
+      "type": "text",
+      "text": ". But I can't find anywhere him saying he's an atheist. He did once say, in response to the question of whether or not he believes in an afterlife:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.patheos.com/blogs/friendlyatheist/2012/04/08/aziz-ansari-i%E2%80%99m-not-a-religious-person/",
-      "sourceTitle": "Aziz Ansari: 'I'm Not A Religious Person.'",
-      "text": "Nothing. I'm not a religious person."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Nothing. I'm not a religious person.",
+      "sourceTitle": "Aziz Ansari: 'I'm Not A Religious Person.'",
+      "sourceUrl": "http://www.patheos.com/blogs/friendlyatheist/2012/04/08/aziz-ansari-i%E2%80%99m-not-a-religious-person/"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "I guess that's close enough–atheist it is!"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Politics of hilarity"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Ansari is a comedian, and all comedians on this website come with a similar disclaimer: take their religious/political musings with a grain of salt. So, by the looks of it, he's either a liberal Democrat or thinks that most of his audience will be, because his jokes definitely pander to that side of the aisle. For example:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://2damnfunny.com/funny-pictures/memes-cartoons-movies-games/aziz-ansari-stand-up-on-using-religion-and-whatever-it-takes-to-get-your-way/",
-      "sourceTitle": "Aziz Ansari Stand Up On Using Religion And Whatever It Takes To Get Your Way",
-      "text": "My whole take on the gay rights issue, particularly gay marriage, is, let's be honest, if you're against gay marriage, you just don't like gay people and you want to stick it to 'em."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "My whole take on the gay rights issue, particularly gay marriage, is, let's be honest, if you're against gay marriage, you just don't like gay people and you want to stick it to 'em.",
+      "sourceTitle": "Aziz Ansari Stand Up On Using Religion And Whatever It Takes To Get Your Way",
+      "sourceUrl": "http://2damnfunny.com/funny-pictures/memes-cartoons-movies-games/aziz-ansari-stand-up-on-using-religion-and-whatever-it-takes-to-get-your-way/"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "And during election day, 2012, when the numbers were rolling in and it was looking like Obama was winning, he tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/azizansari",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Karl Rove bout to give a Suge Knight style BEAT DOWN to the dude who was supposed to rig the machines.",
       "sourceTitle": "Aziz Ansari (azizansari) on Twitter",
-      "text": "Karl Rove bout to give a Suge Knight style BEAT DOWN to the dude who was supposed to rig the machines."
+      "sourceUrl": "https://twitter.com/azizansari"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/10/30/obama-parks-and-recreation_n_2044328.html",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "But in all seriousness, Ansari attended an Obama campaign fundraiser, at which he was informed by Obama himself that Ansari had a fan in the president.",
       "sourceTitle": "President Barack Obama Watches 'Parks And Recreation' With His Family",
-      "text": "But in all seriousness, Ansari attended an Obama campaign fundraiser, at which he was informed by Obama himself that Ansari had a fan in the president."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/10/30/obama-parks-and-recreation_n_2044328.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "There were no jokes from Ansari after the Sandy Hook school shooting, though. He tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/azizansari",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Join the cause to protect America's children and STOP gun violence… #DemandAPlan",
       "sourceTitle": "Aziz Ansari (azizansari) on Twitter",
-      "text": "Join the cause to protect America's children and STOP gun violence… #DemandAPlan"
+      "sourceUrl": "https://twitter.com/azizansari"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "I think when push comes to shove, Ansari leans left like the bulk of his entertainment industry colleagues."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

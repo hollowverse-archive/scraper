@@ -31,139 +31,227 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Thomas Edison was born in Milan, Ohio and grew up there and in Port Huron, Michigan. He died in 1931 from complications of diabetes at the age of 84."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Thomas_Edison",
+      "parentId": 2,
+      "type": "text",
+      "text": "Edison has been called an atheist,",
       "sourceTitle": "Thomas Edison.",
-      "text": "Edison has been called an atheist,"
+      "sourceUrl": "http://www.celebatheists.com/wiki/Thomas_Edison"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.deepspirits.com/spirituality/pantheism/",
+      "type": "text",
+      "text": "a pantheist,",
+      "parentId": 2,
       "sourceTitle": "Pantheism, Naturalistic Patheism & Pandeism.",
-      "text": "a pantheist,"
+      "sourceUrl": "http://www.deepspirits.com/spirituality/pantheism/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Thomas_Edison#Views_on_politics.2C_religion_and_metaphysics",
+      "type": "text",
+      "text": "and a deist,",
+      "parentId": 2,
       "sourceTitle": "Thomas Edison.",
-      "text": "and a deist,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Thomas_Edison#Views_on_politics.2C_religion_and_metaphysics"
     },
     {
-      "type": "sentence",
-      "text": "although the latter is the most accurate."
+      "type": "text",
+      "text": "although the latter is the most accurate.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "He believed that a Higher Power was responsible for the creation of the world and set the laws of nature in motion–but the Creator's job ended there."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://atheists.org/content/thomas-alva-edison-1911-columbian-interview",
-      "sourceTitle": "Thomas Alva Edison: 1911 Columbian Interview.",
-      "text": "I never have denied Supreme Intelligence. What I have denied and what my reason compels me to deny, is the existence of a Being throned above us as a god, directing our mundane affairs in detail, regarding us as individuals, punishing us, rewarding us as human judges might."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I never have denied Supreme Intelligence. What I have denied and what my reason compels me to deny, is the existence of a Being throned above us as a god, directing our mundane affairs in detail, regarding us as individuals, punishing us, rewarding us as human judges might.",
+      "sourceTitle": "Thomas Alva Edison: 1911 Columbian Interview.",
+      "sourceUrl": "http://atheists.org/content/thomas-alva-edison-1911-columbian-interview"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Because the laws of nature govern everyday life, he thought, the unknown should be investigated through scientific inquiry–not through belief in the supernatural."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://atheists.org/content/thomas-alva-edison-1911-columbian-interview",
-      "sourceTitle": "Thomas Alva Edison: 1911 Columbian Interview.",
-      "text": "I cannot accept as final any theory which is not provable. The theories of the theologians cannot be proved. Proof, proof! That is what I always have been after; that is what my mind requires before it can accept a theory as fact."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I cannot accept as final any theory which is not provable. The theories of the theologians cannot be proved. Proof, proof! That is what I always have been after; that is what my mind requires before it can accept a theory as fact.",
+      "sourceTitle": "Thomas Alva Edison: 1911 Columbian Interview.",
+      "sourceUrl": "http://atheists.org/content/thomas-alva-edison-1911-columbian-interview"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "And he wasn't kind to those who believed in the afterlife or the immortality of the soul:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 10
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.sundaymagazine.org/wp-content/uploads/19101002-5-no.pdf",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Because we are as yet unable to understand it, we call it immortal. It is the ignorant, lazy man's refuge. There are plenty of savages, you know, who still call fire immortal.",
       "sourceTitle": "\"No Immortality of the Soul\" Says Thomas A. Edison.",
-      "text": "Because we are as yet unable to understand it, we call it immortal. It is the ignorant, lazy man's refuge. There are plenty of savages, you know, who still call fire immortal."
+      "sourceUrl": "http://www.sundaymagazine.org/wp-content/uploads/19101002-5-no.pdf"
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Promoting non-violence with violence"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Edison's political views revolved around his belief in non-violence. Famously he said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 14
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/quotes/t/thomasaed104088.html",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Non-violence leads to the highest ethics, which is the goal of all evolution. Until we stop harming all other living beings, we are still savages.",
       "sourceTitle": "Non-violence leads to the…",
-      "text": "Non-violence leads to the highest ethics, which is the goal of all evolution. Until we stop harming all other living beings, we are still savages."
+      "sourceUrl": "http://www.brainyquote.com/quotes/quotes/t/thomasaed104088.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://muller.lbl.gov/teaching/physics10/old%20physics%2010/physics%2010%20notes/electrocution.html",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "That is a lovely sentiment, but not necessarily one practiced by the inventor. In order to demonstrate how dangerous transmitting electricity through alternating current could be, he electrocuted many animals, including an elephant. It was these demonstrations–and campaigning on Edison's part–that convinced several states to begin using the electric chair to carry out the death penalty.",
       "sourceTitle": "Edison, Tesla, and Electrocution.",
-      "text": "That is a lovely sentiment, but not necessarily one practiced by the inventor. In order to demonstrate how dangerous transmitting electricity through alternating current could be, he electrocuted many animals, including an elephant. It was these demonstrations–and campaigning on Edison's part–that convinced several states to begin using the electric chair to carry out the death penalty."
+      "sourceUrl": "http://muller.lbl.gov/teaching/physics10/old%20physics%2010/physics%2010%20notes/electrocution.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.notablebiographies.com/Du-Fi/Edison-Thomas.html#b",
+      "parentId": 17,
+      "type": "text",
+      "text": "He also worked with the Navy during World War I to develop new military technology, mostly in the areas of defense and communication.",
       "sourceTitle": "Thomas Edison Biography.",
-      "text": "He also worked with the Navy during World War I to develop new military technology, mostly in the areas of defense and communication."
+      "sourceUrl": "http://www.notablebiographies.com/Du-Fi/Edison-Thomas.html#b"
     },
     {
-      "type": "sentence",
-      "text": "He said about his service to the military,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said about his service to the military,",
+      "parentId": 17
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.thomasedison.com/quotes.html",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "The dove is my emblem. . . . I am proud of the fact that I have never invented weapons to kill.",
       "sourceTitle": "Thomas Edison \"Quotes.\"",
-      "text": "The dove is my emblem. . . . I am proud of the fact that I have never invented weapons to kill."
+      "sourceUrl": "http://www.thomasedison.com/quotes.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.freeenterpriseland.com/EDISON.html",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "The seeming contradiction between Edison's espousal of non-violence and his role in the use of the electric chair and with the military might not be as much of a contradiction as it appears. After all, he seemed convinced that the electric chair was utterly humane and even painless.",
       "sourceTitle": "THOMAS EDISON AND THE ELECTRIC CHAIR.",
-      "text": "The seeming contradiction between Edison's espousal of non-violence and his role in the use of the electric chair and with the military might not be as much of a contradiction as it appears. After all, he seemed convinced that the electric chair was utterly humane and even painless."
+      "sourceUrl": "http://www.freeenterpriseland.com/EDISON.html"
     },
     {
-      "type": "sentence",
-      "text": "And in his foreshadowing of the development of nuclear weapons, he also believed weapons creation could lead to peace. He said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And in his foreshadowing of the development of nuclear weapons, he also believed weapons creation could lead to peace. He said,",
+      "parentId": 20
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/t/thomas_a_edison.html",
+      "id": 21
+    },
+    {
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "There will one day spring from the brain of science a machine or force so fearful in its potentialities, so absolutely terrifying, that even man, the fighter, who will dare torture and death in order to inflict torture and death, will be appalled, and so abandon war forever.",
       "sourceTitle": "Thomas A. Edison Quotes.",
-      "text": "There will one day spring from the brain of science a machine or force so fearful in its potentialities, so absolutely terrifying, that even man, the fighter, who will dare torture and death in order to inflict torture and death, will be appalled, and so abandon war forever."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/t/thomas_a_edison.html"
     }
   ],
   "wikipediaData": {

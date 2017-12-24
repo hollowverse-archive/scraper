@@ -36,143 +36,205 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Diana Ross was born and raised in Detroit, Michigan."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://biography.yourdictionary.com/diana-ross",
+      "parentId": 2,
+      "type": "text",
+      "text": "Ross was raised a Baptist and sang in the church choir in her hometown of Detroit.",
       "sourceTitle": "Diana Ross Biography",
-      "text": "Ross was raised a Baptist and sang in the church choir in her hometown of Detroit."
+      "sourceUrl": "http://biography.yourdictionary.com/diana-ross"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.detroitnews.com/article/20070413/ENT01/704130382",
+      "type": "text",
+      "text": "Interviews with Ross are rare and coveted among media folk.",
+      "parentId": 2,
       "sourceTitle": "A rare interview with singer Diana Ross",
-      "text": "Interviews with Ross are rare and coveted among media folk."
+      "sourceUrl": "http://www.detroitnews.com/article/20070413/ENT01/704130382"
     },
     {
-      "type": "sentence",
-      "text": "Thus, there isn't much to go on for those hoping to get a clear picture of her spiritual/religious mentality. In her 2008 autobiography, Ross mentioned God a few times, indicating that she is still at least somewhat devout. For example:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Thus, there isn't much to go on for those hoping to get a clear picture of her spiritual/religious mentality. In her 2008 autobiography, Ross mentioned God a few times, indicating that she is still at least somewhat devout. For example:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://voices.yahoo.com/diana-ross-memoirs-secrets-sparrow-1808037.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Learning to let go and let God [take over] has been a tremendous lesson for me.",
       "sourceTitle": "Diana Ross Memoirs: Secrets of a Sparrow",
-      "text": "Learning to let go and let God [take over] has been a tremendous lesson for me."
+      "sourceUrl": "http://voices.yahoo.com/diana-ross-memoirs-secrets-sparrow-1808037.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://voices.yahoo.com/diana-ross-memoirs-secrets-sparrow-1808037.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Furthermore, Ross credited God to her fame and success in the dog-eat-dog boys club of the mid-20th Century Motown music scene.",
       "sourceTitle": "Diana Ross Memoirs: Secrets of a Sparrow",
-      "text": "Furthermore, Ross credited God to her fame and success in the dog-eat-dog boys club of the mid-20th Century Motown music scene."
+      "sourceUrl": "http://voices.yahoo.com/diana-ross-memoirs-secrets-sparrow-1808037.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Interfaith_Celebrities_Beautiful_People_and_Gleeful_Broadway_Stars_.shtml",
+      "parentId": 6,
+      "type": "text",
+      "text": "There are some rumors that Ross converted to Judaism. This isn't true as far as I can tell, though she was briefly married to a Jewish businessman, Robert Silberstein.",
       "sourceTitle": "Beautiful People and Gleeful Broadway St",
-      "text": "There are some rumors that Ross converted to Judaism. This isn't true as far as I can tell, though she was briefly married to a Jewish businessman, Robert Silberstein."
+      "sourceUrl": "http://www.interfaithfamily.com/arts_and_entertainment/popular_culture/Interfaith_Celebrities_Beautiful_People_and_Gleeful_Broadway_Stars_.shtml"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "That leaves us to conclude that Ross is perhaps a borderline devout Baptist today."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Race pioneering since back in the day"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rollingstone.com/music/artists/diana-ross-and-the-supremes/biography",
-      "sourceTitle": "Diana Ross and the Supremes",
-      "text": "Ross has been a staple in the Democratic Party for nearly 50 years, ever since she and The Supremes sang at campaign events for Lyndon Johnson in the mid-60s."
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/entertainment/880011.stm",
+      "parentId": 9,
+      "type": "text",
+      "text": "Ross has been a staple in the Democratic Party for nearly 50 years, ever since she and The Supremes sang at campaign events for Lyndon Johnson in the mid-60s.",
+      "sourceTitle": "Diana Ross and the Supremes",
+      "sourceUrl": "http://www.rollingstone.com/music/artists/diana-ross-and-the-supremes/biography"
+    },
+    {
+      "type": "text",
+      "text": "Since then, she has sung for numerous Democratic presidents including the Clintons",
+      "parentId": 9,
       "sourceTitle": "Hollywood's Democratic love affair.",
-      "text": "Since then, she has sung for numerous Democratic presidents including the Clintons"
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/entertainment/880011.stm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2012/12/10/michelle-obama-diana-ross-christmas-in-washington-concert-photos_n_2270173.html",
+      "type": "text",
+      "text": "and the Obamas.",
+      "parentId": 9,
       "sourceTitle": "Michelle Obama Gets Bejeweled With Diana Ross For 'Christmas In Washington.'",
-      "text": "and the Obamas."
+      "sourceUrl": "http://www.huffingtonpost.com/2012/12/10/michelle-obama-diana-ross-christmas-in-washington-concert-photos_n_2270173.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dianarossfanclub.net/Ross_Special.html",
+      "parentId": 10,
+      "type": "text",
+      "text": "But celebrity transcends partisan politics, and though Ross didn't sing for him, she did accept an award from President George W. Bush.",
       "sourceTitle": "Diana Ross",
-      "text": "But celebrity transcends partisan politics, and though Ross didn't sing for him, she did accept an award from President George W. Bush."
+      "sourceUrl": "http://www.dianarossfanclub.net/Ross_Special.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=qrBg6VeZNxA",
+      "parentId": 11,
+      "type": "text",
+      "text": "Ross' most significant political contributions were helping to shatter racism and usher in the Civil Rights movement. Her Motown trio, The Supremes, was among the first African American wave of musicians to cross over into the white music marketplace. This paved the way for broader acceptance of American black culture.",
       "sourceTitle": "Diana Ross on Racism and Civil Rights (late 1980's)",
-      "text": "Ross' most significant political contributions were helping to shatter racism and usher in the Civil Rights movement. Her Motown trio, The Supremes, was among the first African American wave of musicians to cross over into the white music marketplace. This paved the way for broader acceptance of American black culture."
+      "sourceUrl": "http://www.youtube.com/watch?v=qrBg6VeZNxA"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.rollingstone.com/music/artists/diana-ross-and-the-supremes/biography",
+      "parentId": 12,
+      "type": "text",
+      "text": "In 1968, Ross and the other two Supremes were specifically invited to Martin Luther King Jr's funeral",
       "sourceTitle": "Diana Ross and the Supremes",
-      "text": "In 1968, Ross and the other two Supremes were specifically invited to Martin Luther King Jr's funeral"
+      "sourceUrl": "http://www.rollingstone.com/music/artists/diana-ross-and-the-supremes/biography"
     },
     {
-      "type": "sentence",
-      "text": "and for years afterwards, Ross would say King's immortalized words at her concerts:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and for years afterwards, Ross would say King's immortalized words at her concerts:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=qrBg6VeZNxA",
-      "sourceTitle": "Diana Ross on Racism and Civil Rights (late 1980's)",
-      "text": "Free at last. Free at last. Thank God almighty, free at last!"
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Free at last. Free at last. Thank God almighty, free at last!",
+      "sourceTitle": "Diana Ross on Racism and Civil Rights (late 1980's)",
+      "sourceUrl": "http://www.youtube.com/watch?v=qrBg6VeZNxA"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Even today, race is foremost on Ross' mind. In her 2008 autobiography, she wrote:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://voices.yahoo.com/diana-ross-memoirs-secrets-sparrow-1808037.html",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "I have tried to open up opportunities for blacks, for women, for minorities. Every time I go into a project, my first thought is about hiring as many minorities as are capable of doing the work.",
       "sourceTitle": "Diana Ross Memoirs: Secrets of a Sparrow",
-      "text": "I have tried to open up opportunities for blacks, for women, for minorities. Every time I go into a project, my first thought is about hiring as many minorities as are capable of doing the work."
+      "sourceUrl": "http://voices.yahoo.com/diana-ross-memoirs-secrets-sparrow-1808037.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "She is widely considered instrumental in the advancement of African Americans in the last 50 years."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

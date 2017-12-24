@@ -30,75 +30,117 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Alex Morgan was born and raised in Diamond Bar, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "text": "There's nothing from which to draw any conclusions about Morgan's religious beliefs, or even whether or not she has any. Her  is entirely non-controversial, sports oriented and somewhat impersonal."
+      "parentId": 2,
+      "type": "text",
+      "text": "There's nothing from which to draw any conclusions about Morgan's religious beliefs, or even whether or not she has any. Her"
     },
     {
-      "type": "break"
+      "parentId": 2,
+      "type": "link",
+      "text": "Twitter feed",
+      "sourceUrl": "https://twitter.com/alexmorgan13/status/266072762420965376"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": "is entirely non-controversial, sports oriented and somewhat impersonal.",
+      "parentId": 2
+    },
+    {
+      "type": "paragraph",
+      "id": 3
+    },
+    {
+      "parentId": 3,
+      "type": "text",
       "text": "She is a white American, so it wouldn't be too much of a logical leap to attribute Christianity to her or her family somewhere along the line–maybe she's got a Catholic uncle or something."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ussoccer.com/news/womens-national-team/2011/03/11-questions-with-alex-morgan.aspx",
+      "parentId": 4,
+      "type": "text",
+      "text": "However, she did attend college at UC Berkeley,",
       "sourceTitle": "11 Questions with Alex Morgan",
-      "text": "However, she did attend college at UC Berkeley,"
+      "sourceUrl": "http://www.ussoccer.com/news/womens-national-team/2011/03/11-questions-with-alex-morgan.aspx"
     },
     {
-      "type": "sentence",
-      "text": "perhaps America's most liberal, therefore least religious institution. What do you think?"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "perhaps America's most liberal, therefore least religious institution. What do you think?",
+      "parentId": 4
     },
     {
       "type": "heading",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "A quiet student of politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.calbears.com/sports/w-soccer/mtt/morgan_alex00.html",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Morgan studied Political Economy at Berkeley",
       "sourceTitle": "Alex Morgan Profile",
-      "text": "Morgan studied Political Economy at Berkeley"
+      "sourceUrl": "http://www.calbears.com/sports/w-soccer/mtt/morgan_alex00.html"
     },
     {
-      "type": "sentence",
-      "text": "so we can be assured that she's in the know politically–probably more than most of the celebrities we profile here on the Hollowverse."
+      "type": "text",
+      "text": "so we can be assured that she's in the know politically–probably more than most of the celebrities we profile here on the Hollowverse.",
+      "parentId": 6
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "However, that knowledge doesn't translate into any sort of expression of affiliation. There's only one little thing. During election day, 2012, Morgan tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/alexmorgan13/status/266072762420965376",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "#powerfulspeech",
       "sourceTitle": "alexmorgan13: #powerful speech",
-      "text": "#powerfulspeech"
+      "sourceUrl": "https://twitter.com/alexmorgan13/status/266072762420965376"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "One can only assume that she was referring to Obama's acceptance speech–which was quite powerful, though I can't remember literally one word that he said–but it certainly doesn't amount to an endorsement. She very well might have said the same thing if Romney had won."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

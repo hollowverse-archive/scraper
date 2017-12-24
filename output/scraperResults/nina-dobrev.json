@@ -31,50 +31,74 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Nina Dobrev was born in Sofia, Bulgaria and grew up in Ontario, Canada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Dobrev hasn't spoken about her religion other than tweeting about celebrating her \"Name Day.\" This is a Bulgarian, Eastern Orthodox (Russian or Greek Orthodox) holiday where people of a certain name are celebrated if they share their name with an Orthodox saint. Dobrev said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.cambio.com/2010/12/06/nina-dobrev-celebrates-her-bulgarian-name-day/",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "In Bulgaria we have a tradition/celebration called a 'Name Day.' Each person has one – today is mine! Happy Name day to everyone else like me!",
       "sourceTitle": "Nina Dobrev Celebrates Her Bulgarian Name Day on Cambio",
-      "text": "In Bulgaria we have a tradition/celebration called a 'Name Day.' Each person has one – today is mine! Happy Name day to everyone else like me!"
+      "sourceUrl": "http://www.cambio.com/2010/12/06/nina-dobrev-celebrates-her-bulgarian-name-day/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.whosdatedwho.com/sections/celebrities/religion/russian-orthodox_n",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Plus, at least one source lists Dobrev among Russian Orthodox celebrities.",
       "sourceTitle": "Celebrity Religion – Russian Orthodox (Celebrities)",
-      "text": "Plus, at least one source lists Dobrev among Russian Orthodox celebrities."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.whosdatedwho.com/sections/celebrities/religion/russian-orthodox_n"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=LtzqN_Gqe3U",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Dobrev was happy about president Obama's endorsement of same-sex marriage, saying it shouldn't be controversial because we're \"living in the 21st Century.\"",
       "sourceTitle": "Nina Dobrev Reacts to President Obama's Gay Marriage Stance",
-      "text": "Dobrev was happy about president Obama's endorsement of same-sex marriage, saying it shouldn't be controversial because we're \"living in the 21st Century.\""
+      "sourceUrl": "http://www.youtube.com/watch?v=LtzqN_Gqe3U"
     },
     {
-      "type": "sentence",
-      "text": "She's a liberal, but because she's still Canadian, I couldn't go so far to say that she's a Democrat."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She's a liberal, but because she's still Canadian, I couldn't go so far to say that she's a Democrat.",
+      "parentId": 7
     }
   ],
   "wikipediaData": {

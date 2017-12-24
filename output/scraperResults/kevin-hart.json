@@ -33,98 +33,151 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kevin Hart was born and raised in Philadelphia, Pennsylvania."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "He grew up in a Christian household with a very religious mother."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://comedians.jokes.com/kevin-hart/videos/kevin-hart---the-devil",
-      "sourceTitle": "Kevin Hart – The Devil.",
-      "text": "My mama's over-religious. . . you ever meet anybody that's over-religious? Talk about God all the time? Or blame everything on the devil? That's my mom."
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=729OX73WTe8",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "My mama's over-religious. . . you ever meet anybody that's over-religious? Talk about God all the time? Or blame everything on the devil? That's my mom.",
+      "sourceTitle": "Kevin Hart – The Devil.",
+      "sourceUrl": "http://comedians.jokes.com/kevin-hart/videos/kevin-hart---the-devil"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "His whole family was dedicated to Christianity, and Hart uses his family's faith as a frequent topic in his stand-up. He doesn't make fun of Christianity itself, but he does make fun of how people can be hypocritical with religion (like his drug addict Jesus-loving cousin)",
       "sourceTitle": "Kevin Hart – Jesus Freaks and Sucking Dick for Money.",
-      "text": "His whole family was dedicated to Christianity, and Hart uses his family's faith as a frequent topic in his stand-up. He doesn't make fun of Christianity itself, but he does make fun of how people can be hypocritical with religion (like his drug addict Jesus-loving cousin)"
+      "sourceUrl": "http://www.youtube.com/watch?v=729OX73WTe8"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://comedians.jokes.com/kevin-hart/videos/kevin-hart---the-devil",
+      "type": "text",
+      "text": "and how people can use religion for their own personal needs (like his mother blaming the devil every time her son disagreed with her).",
+      "parentId": 5,
       "sourceTitle": "Kevin Hart – The Devil.",
-      "text": "and how people can use religion for their own personal needs (like his mother blaming the devil every time her son disagreed with her)."
+      "sourceUrl": "http://comedians.jokes.com/kevin-hart/videos/kevin-hart---the-devil"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "But he doesn't want people in his face about religion. He says his cousin is the worst person in his family because he's always talking about Jesus."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=729OX73WTe8",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Now that [my cousin] found Jesus, he tries to throw Jesus on everybody. You ever meet somebody like that? For no reason at all, they throw religion at you. You did nothing to deserve this conversation. . . \"Hey, good morning Al?\" \"Uh, it is a good morning because Jesus woke us up. . . I love him, do you?\" \"What the fuck that have to do with anything, man? I'm trying to play basketball; this ain't got shit to do with nothing.\"",
       "sourceTitle": "Kevin Hart – Jesus Freaks and Sucking Dick for Money.",
-      "text": "Now that [my cousin] found Jesus, he tries to throw Jesus on everybody. You ever meet somebody like that? For no reason at all, they throw religion at you. You did nothing to deserve this conversation. . . \"Hey, good morning Al?\" \"Uh, it is a good morning because Jesus woke us up. . . I love him, do you?\" \"What the fuck that have to do with anything, man? I'm trying to play basketball; this ain't got shit to do with nothing.\""
+      "sourceUrl": "http://www.youtube.com/watch?v=729OX73WTe8"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/KevinHart4real",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Despite seeing the humor in religion, he appears to be a Christian just like the rest of his family. After hosting MTV's Video Music Awards in 2012, he wrote on his Twitter account, \"God Is So Good to Me.\"",
       "sourceTitle": "Kevin Hart.",
-      "text": "Despite seeing the humor in religion, he appears to be a Christian just like the rest of his family. After hosting MTV's Video Music Awards in 2012, he wrote on his Twitter account, \"God Is So Good to Me.\""
-    },
-    {
-      "type": "break"
+      "sourceUrl": "https://twitter.com/KevinHart4real"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Hart vs. Obama? Good thing it didn't come to that."
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/fec/bystate_detail.php?city=Los+Angeles&st=CA&last=HART&first=Kevin",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Hart doesn't have much to say about politics. He donated to Howard Dean's presidential bid in 2003, but that's it for political contributions.",
       "sourceTitle": "Kevin Hart's campaign contribution report.",
-      "text": "Hart doesn't have much to say about politics. He donated to Howard Dean's presidential bid in 2003, but that's it for political contributions."
+      "sourceUrl": "http://www.newsmeat.com/fec/bystate_detail.php?city=Los+Angeles&st=CA&last=HART&first=Kevin"
     },
     {
-      "type": "sentence",
-      "text": "Considering he supported a Democratic candidate in the past, we can assume he's still leaning that way. And since almost every black American supports Obama, he's probably on that bandwagon."
+      "type": "text",
+      "text": "Considering he supported a Democratic candidate in the past, we can assume he's still leaning that way. And since almost every black American supports Obama, he's probably on that bandwagon.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "In an unfortunate scheduling incident, the 2012 MTV Video Music Awards was originally set to air during Obama's speech at the Democratic National Convention. But Hart wasn't worried about it."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=ZjJ2AoPavKQ&feature=youtube_gdata",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Why would people tune into the VMAs instead of the DNC? Cause Kevin Hart's hosting… How does it feel to outdraw Barack Obama? I mean, it doesn't feel good cause I do it all the time. So I kind of feel bad.",
       "sourceTitle": "VMA Host Kevin Hart Says He's A Bigger Draw Than President Obama.",
-      "text": "Why would people tune into the VMAs instead of the DNC? Cause Kevin Hart's hosting… How does it feel to outdraw Barack Obama? I mean, it doesn't feel good cause I do it all the time. So I kind of feel bad."
+      "sourceUrl": "http://www.youtube.com/watch?v=ZjJ2AoPavKQ&feature=youtube_gdata"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Luckily for Kevin Hart fans, they didn't have to choose. MTV decided to move its ceremony up an hour to avoid conflict with Obama."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

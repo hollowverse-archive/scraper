@@ -32,110 +32,185 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Lewis Hamilton was born and raised in Stevenage, Hertfordshire, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Hamilton was baptized into the Catholic church at the age of two, and has been a devout Catholic ever since. He says even though his immediate family never prayed a whole lot, they are all believers. In his autobiography, he wrote,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/news/419638/Lewis-Hamilton-Feels-a-higher-power-Religion-still-influences-him.html",
-      "sourceTitle": "Lewis Hamilton, Feels a higher power, Religion still influences him.",
-      "text": "Every now and then I will say a prayer and show my appreciation. I try to make sure it is not only when I am in trouble and I need help; even when I have had a great day, I try to thank God for it."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Every now and then I will say a prayer and show my appreciation. I try to make sure it is not only when I am in trouble and I need help; even when I have had a great day, I try to thank God for it.",
+      "sourceTitle": "Lewis Hamilton, Feels a higher power, Religion still influences him.",
+      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/news/419638/Lewis-Hamilton-Feels-a-higher-power-Religion-still-influences-him.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "He wears a crucifix around his neck during races. And, like so many of the world's super-talented, he believes God gave him a special gift. He said,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 6
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.dailymail.co.uk/home/moslive/article-488525/Boy-racer-Lewis-Hamilton-fame-religion-Beyonce.html",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "My faith is important to me. I really believe that my talent is God-given. I know I'm truly blessed. But I've also worked hard to get to where I am.",
       "sourceTitle": "Boy racer Lewis Hamilton on fame, religion and Beyonce.",
-      "text": "My faith is important to me. I really believe that my talent is God-given. I know I'm truly blessed. But I've also worked hard to get to where I am."
+      "sourceUrl": "http://www.dailymail.co.uk/home/moslive/article-488525/Boy-racer-Lewis-Hamilton-fame-religion-Beyonce.html"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "When being black is a political statement"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Hamilton doesn't appear to be very interested in entering the political debate in his country, but as one of the few black racing drivers, he is inevitably drawn into discussions of race. When Barack Obama became the United States' first black president in 2008 the same week that Hamilton won the Formula One world championship, talking about his excitement for the world's black community, the racer said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/sport/2008/dec/09/motorsport-formula-one-lewis-hamilton",
-      "sourceTitle": "World title and Barack Obama win was wonderful coincidence, says Lewis Hamilton.",
-      "text": "Two people of colour who win in the same week may not mean too much but it is definitely a wonderful coincidence."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Two people of colour who win in the same week may not mean too much but it is definitely a wonderful coincidence.",
+      "sourceTitle": "World title and Barack Obama win was wonderful coincidence, says Lewis Hamilton.",
+      "sourceUrl": "http://www.guardian.co.uk/sport/2008/dec/09/motorsport-formula-one-lewis-hamilton"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "But it hasn't all been rosy. Hamilton was the target of racist taunting at a competition in Barcelona, Spain, about which he said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/7225523.stm",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "The truth is I feel somewhat sad. I love this country, especially the city of Barcelona. The people in Spain have always been very warm.",
       "sourceTitle": "Hamilton saddened by racist abuse.",
-      "text": "The truth is I feel somewhat sad. I love this country, especially the city of Barcelona. The people in Spain have always been very warm."
+      "sourceUrl": "http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/7225523.stm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.autoblog.com/2011/05/31/lewis-hamilton-apologizes-for-joking-insinuation-of-racism-after/",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "But on the other side of the issue, Hamilton caused a mini-scandal when he jokingly said maybe he was charged with a penalty because he is black. He immediately realized his joke could be taken seriously and apologized,",
       "sourceTitle": "Lewis Hamilton apologizes for joking insinuation of racism after Monaco GP penalty.",
-      "text": "But on the other side of the issue, Hamilton caused a mini-scandal when he jokingly said maybe he was charged with a penalty because he is black. He immediately realized his joke could be taken seriously and apologized,"
+      "sourceUrl": "http://www.autoblog.com/2011/05/31/lewis-hamilton-apologizes-for-joking-insinuation-of-racism-after/"
     },
     {
-      "type": "sentence",
-      "text": "but you can't take back what's made it to ."
+      "type": "text",
+      "text": "but you can't take back what's made it to",
+      "parentId": 16
     },
     {
-      "type": "break"
+      "parentId": 16,
+      "type": "link",
+      "text": "YouTube",
+      "sourceUrl": "http://www.youtube.com/watch?v=7hqwAFnV580"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": ".",
+      "parentId": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Touchy subject, isn't it? I get the feeling that Lewis Hamilton would rather not get involved, but no matter what you say, you're probably going to piss somebody off. Anyway, I'm going to call Hamilton non-political unless one of you diligent readers leaves me more information in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Lewis_Hamilton",
     "title": "Lewis Hamilton",
     "image": {
-      "name": "Lewis_Hamilton_2017_Malaysia.jpg",
+      "name": "Lewis_Hamilton_2016_Malaysia_2.jpg",
       "info": {
-        "canonicaltitle": "File:Lewis Hamilton 2017 Malaysia.jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lewis_Hamilton_2017_Malaysia.jpg/200px-Lewis_Hamilton_2017_Malaysia.jpg",
+        "canonicaltitle": "File:Lewis Hamilton 2016 Malaysia 2.jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lewis_Hamilton_2016_Malaysia_2.jpg/200px-Lewis_Hamilton_2016_Malaysia_2.jpg",
         "thumbwidth": 200,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Lewis_Hamilton_2017_Malaysia.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lewis_Hamilton_2017_Malaysia.jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63879369",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Lewis_Hamilton_2016_Malaysia_2.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lewis_Hamilton_2016_Malaysia_2.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52060566",
         "extmetadata": {
           "DateTime": {
-            "value": "2017-11-05 16:08:48",
+            "value": "2016-10-04 19:48:41",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "Lewis Hamilton 2017 Malaysia",
+            "value": "Lewis Hamilton 2016 Malaysia 2",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -145,7 +220,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "2017 Malaysian Grand Prix|Lewis Hamilton in 2017|Photos taken by Morio/Formula One/2017 Malaysian Grand Prix|Photos taken by Morio/Portraits|Self-published work",
+            "value": "2016 Malaysian Grand Prix|Lewis Hamilton in 2016|Men with baseball caps|Photos taken by Morio/Formula One/2016 Malaysian Grand Prix|Photos taken by Morio/Portraits|Self-published work",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -155,11 +230,11 @@
             "hidden": ""
           },
           "ImageDescription": {
-            "value": "<b><a href=\"//commons.wikimedia.org/wiki/Formula_One\" title=\"Formula One\">Formula One</a></b> 2017 Rd.15 Malaysian GP: <a href=\"//commons.wikimedia.org/wiki/Lewis_Hamilton\" title=\"Lewis Hamilton\">Lewis Hamilton</a> (<a href=\"//commons.wikimedia.org/wiki/Category:Mercedes_(racing_team)\" title=\"Category:Mercedes (racing team)\">Mercedes</a>) at the fan meeting",
+            "value": "<b><a href=\"//commons.wikimedia.org/wiki/Formula_One\" title=\"Formula One\">Formula One</a></b> 2016 Rd.16 Malaysian GP: <a href=\"//commons.wikimedia.org/wiki/Lewis_Hamilton\" title=\"Lewis Hamilton\">Lewis Hamilton</a> (<a href=\"//commons.wikimedia.org/wiki/Mercedes-Benz_in_Formula_One\" title=\"Mercedes-Benz in Formula One\">Mercedes</a>)",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "2017-09-30",
+            "value": "2016-10-01",
             "source": "commons-desc-page"
           },
           "Credit": {

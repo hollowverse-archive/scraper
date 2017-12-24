@@ -34,95 +34,177 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Scotty McCreery was born and raised in Garner, North Carolina."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianpost.com/news/mccreery-and-alaina-talk-music-and-faith-with-rolling-stone-50993/",
+      "parentId": 2,
+      "type": "text",
+      "text": "McCreery is one religious dude! He seems to inject his Christian faith into every aspect of his life. He was raised a Southern Baptist,",
       "sourceTitle": "McCreery, Alaina Talk Music, Faith With Rolling Stone",
-      "text": "McCreery is one religious dude! He seems to inject his Christian faith into every aspect of his life. He was raised a Southern Baptist,"
+      "sourceUrl": "http://www.christianpost.com/news/mccreery-and-alaina-talk-music-and-faith-with-rolling-stone-50993/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianpost.com/news/scotty-mccreery-discusses-plans-for-his-god-given-talent-55347/",
+      "type": "text",
+      "text": "loves Jesus with all his heart and credits Jesus for both his voice",
+      "parentId": 2,
       "sourceTitle": "Scotty McCreery Discusses Plans for His 'God-Given Talent,'",
-      "text": "loves Jesus with all his heart and credits Jesus for both his voice"
+      "sourceUrl": "http://www.christianpost.com/news/scotty-mccreery-discusses-plans-for-his-god-given-talent-55347/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hollywoodlife.com/2011/03/04/american-idol-scotty-mccreery/",
+      "type": "text",
+      "text": "and getting him through the",
+      "parentId": 2
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "American Idol"
+    },
+    {
+      "type": "text",
+      "text": "competition.",
+      "parentId": 2,
       "sourceTitle": "Scotty McCreery: Jesus Christ Will Get Me Through 'American Idol.'",
-      "text": "and getting him through the  competition."
+      "sourceUrl": "http://www.hollywoodlife.com/2011/03/04/american-idol-scotty-mccreery/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.christianpost.com/news/mccreery-and-alaina-talk-music-and-faith-with-rolling-stone-50993/",
+      "parentId": 3,
+      "type": "text",
+      "text": "McCreery has said he requires any future girlfriend or wife to be Christian",
       "sourceTitle": "McCreery, Alaina Talk Music, Faith With Rolling Stone",
-      "text": "McCreery has said he requires any future girlfriend or wife to be Christian"
+      "sourceUrl": "http://www.christianpost.com/news/mccreery-and-alaina-talk-music-and-faith-with-rolling-stone-50993/"
     },
     {
-      "type": "sentence",
-      "text": "and has expressed that he wants at least one Christian song on any of his albums, like his idol Josh Turner, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and has expressed that he wants at least one Christian song on any of his albums, like his idol Josh Turner, saying:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.nashville.com/music/2011/06/scotty-mccreery-wants-faith-to-be-a-part-of-his-album/",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "One thing I love about Josh Turner is his faith, that's why I looked up to him so much. All the albums he's had have had at least one Christian song, like 'The Answer' on his last album and 'Long Black Train.' So I'm hoping to have that on my album — that one Christian song.",
       "sourceTitle": "Scotty McCreery Wants Faith To Be A Part Of His Album",
-      "text": "One thing I love about Josh Turner is his faith, that's why I looked up to him so much. All the albums he's had have had at least one Christian song, like 'The Answer' on his last album and 'Long Black Train.' So I'm hoping to have that on my album — that one Christian song."
+      "sourceUrl": "http://www.nashville.com/music/2011/06/scotty-mccreery-wants-faith-to-be-a-part-of-his-album/"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Politics and religion"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "McCreery hasn't expressly stated any political views, but it's probably safe to make some assumptions. He's probably Republican. Furthermore, he's probably quite conservative. No, he's definitely conservative."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "text": "When Lady Gaga guest-judged  and poor McReery was forced to watch her sexually-explicit performance, he kissed his cross in horror and said quietly:"
+      "parentId": 8,
+      "type": "text",
+      "text": "When Lady Gaga guest-judged"
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "American Idol"
+    },
+    {
+      "type": "text",
+      "text": "and poor McReery was forced to watch her sexually-explicit performance, he kissed his cross in horror and said quietly:",
+      "parentId": 8
     },
     {
       "type": "quote",
-      "sourceUrl": "http://ca.music.yahoo.com/blogs/reality-rocks/american-idol-top-4-night-conservative-contestants-finally-go-gaga.html",
-      "sourceTitle": "'American Idol' Top 4 Night: Conservative Contestants Finally Go Gaga",
-      "text": "Lord, this is not my doing,"
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Lord, this is not my doing,",
+      "sourceTitle": "'American Idol' Top 4 Night: Conservative Contestants Finally Go Gaga",
+      "sourceUrl": "http://ca.music.yahoo.com/blogs/reality-rocks/american-idol-top-4-night-conservative-contestants-finally-go-gaga.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Yes, McReery might do alright in the Nashville country music scene, or perhaps more appropriately, the Christian country-pop market, but he's certainly in for a ride if he hopes to be a pop star in today's gay-saturated, sex-crazed, weird-glorifying world of commercial popular music."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "But Republican politicians consider McReery a stand-up guy. The North Carolina Republican House Majority Leader Paul Stam wrote:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 13
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://watchdogs.blogs.starnewsonline.com/16814/idol-hopeful-scotty-mccreery-makes-political-news/",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Since the end of today's legislative session I have learned a lot about Scotty McCreery. After talking to EVERYONE, I realized what a popular and talented young man he is. I have alerted my family, Facebook and Twitter friends to do the same [cheer for McReery in"
+    },
+    {
+      "parentId": 14,
+      "type": "emphasis",
+      "text": "American Idol"
+    },
+    {
+      "type": "text",
+      "text": "].",
+      "parentId": 14,
       "sourceTitle": "Idol hopeful Scotty McCreery makes political news.",
-      "text": "Since the end of today's legislative session I have learned a lot about Scotty McCreery. After talking to EVERYONE, I realized what a popular and talented young man he is. I have alerted my family, Facebook and Twitter friends to do the same [cheer for McReery in ]."
+      "sourceUrl": "http://watchdogs.blogs.starnewsonline.com/16814/idol-hopeful-scotty-mccreery-makes-political-news/"
     }
   ],
   "wikipediaData": {

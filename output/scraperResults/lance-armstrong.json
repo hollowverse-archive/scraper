@@ -33,128 +33,215 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Lance Armstrong, whose name at birth was Lance Gunderson, was born and raised in Plano, Texas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/702/000030612/",
+      "parentId": 2,
+      "type": "text",
+      "text": "There is no word that I can find regarding Armstrong's childhood religion, if there was any. But it is widely accepted that Armstrong is an agnostic or even an atheist.",
       "sourceTitle": "Lance Armstrong",
-      "text": "There is no word that I can find regarding Armstrong's childhood religion, if there was any. But it is widely accepted that Armstrong is an agnostic or even an atheist."
+      "sourceUrl": "http://www.nndb.com/people/702/000030612/"
     },
     {
-      "type": "sentence",
-      "text": "But I'm not sure it's that simple. Perhaps the quote that most supports that view (and it might be Armstrong's funniest as well) is:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But I'm not sure it's that simple. Perhaps the quote that most supports that view (and it might be Armstrong's funniest as well) is:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://atheism.about.com/b/2005/08/08/lance-armstrong-and-god.htm",
-      "sourceTitle": "Lance Armstrong and God",
-      "text": "If there was a God, I'd still have both nuts."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "If there was a God, I'd still have both nuts.",
+      "sourceTitle": "Lance Armstrong and God",
+      "sourceUrl": "http://atheism.about.com/b/2005/08/08/lance-armstrong-and-god.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "And while Armstrong overtly rejects organized religion, he doesn't disparage its possible usefulness, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/quotes/270897-i-asked-myself-what-i-believed-i-had-never-prayed",
-      "sourceTitle": "Quote by Lance Armstrong",
-      "text": "I had developed a certain distrust of organized religion growing up, but I felt I had the capacity to be a spiritual person, and to hold some fervent beliefs."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I had developed a certain distrust of organized religion growing up, but I felt I had the capacity to be a spiritual person, and to hold some fervent beliefs.",
+      "sourceTitle": "Quote by Lance Armstrong",
+      "sourceUrl": "http://www.goodreads.com/quotes/270897-i-asked-myself-what-i-believed-i-had-never-prayed"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "And he acknowledges there might be a God in heaven, but he isn't willing to go so far as to live a life solely motivated by that possibility:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Lance_Armstrong",
-      "sourceTitle": "Lance Armstrong",
-      "text": "If there was indeed a God at the end of my days, I hoped he didn't say, 'But you were never a Christian, so you're going the other way from heaven.' If so, I was going to reply, 'You know what? You're right. Fine.'"
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "If there was indeed a God at the end of my days, I hoped he didn't say, 'But you were never a Christian, so you're going the other way from heaven.' If so, I was going to reply, 'You know what? You're right. Fine.'",
+      "sourceTitle": "Lance Armstrong",
+      "sourceUrl": "http://www.celebatheists.com/wiki/Lance_Armstrong"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "However, it is evident that Armstrong is not religious and does not see religion as something worth too much of his time or energy–despite a battle with cancer, something many feel will bring even the staunchest unbeliever to religion."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "Political ambiguity"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Much like his religious views, Armstrong's political views are equally difficult to define. There seems to be a consensus among opinionated question and answer site contributors that Armstrong is a Democrat, and slightly liberal. One commenter said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://wiki.answers.com/Q/Is_Lance_Armstrong_a_Democrat_or_Republican",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Mr. Armstrong has described himself as \"middle to left.\" He's pro-choice, \"not keen on guns,\" against the Iraq war, and for separation of church and state. By standards of his home state of Texas, he would be considered a Democrat.",
       "sourceTitle": "Is Lance Armstrong a Democrat or Republican",
-      "text": "Mr. Armstrong has described himself as \"middle to left.\" He's pro-choice, \"not keen on guns,\" against the Iraq war, and for separation of church and state. By standards of his home state of Texas, he would be considered a Democrat."
+      "sourceUrl": "http://wiki.answers.com/Q/Is_Lance_Armstrong_a_Democrat_or_Republican"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chacha.com/question/is-lance-armstrong-a-democrat",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Now, numerous sites echo this answer, despite its more-than questionable credibility.",
       "sourceTitle": "Is lance armstrong a democrat?",
-      "text": "Now, numerous sites echo this answer, despite its more-than questionable credibility."
+      "sourceUrl": "http://www.chacha.com/question/is-lance-armstrong-a-democrat"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "One thing for sure is that Armstrong is pretty good friends with George W. Bush, though he said they disagreed about the Iraq War. Armstrong said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/world/2003/jul/06/france.sport",
-      "sourceTitle": "Serena got the message, now it's Lance's turn as French cheers become jeers for US stars",
-      "text": "He's a personal friend, but we've all got the right not to agree with our friends."
+      "id": 18
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "He's a personal friend, but we've all got the right not to agree with our friends.",
+      "sourceTitle": "Serena got the message, now it's Lance's turn as French cheers become jeers for US stars",
+      "sourceUrl": "http://www.guardian.co.uk/world/2003/jul/06/france.sport"
+    },
+    {
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "Armstrong did briefly run for governor of Texas–supposedly as a Democrat, because the bulk of his platform was how incumbent Republican governor Rick Perry was an idiot. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://74.208.199.156/index.php?option=com_content&view=article&id=1585:lance-governor&catid=14:first-person-stories&Itemid=200006",
+      "id": 21
+    },
+    {
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "Rick Perry has made Texas the laughing stock of America, with his rants and raves against the Health Care Reform Act, and his threats of secession.",
       "sourceTitle": "Breaking News: Armstrong to Run for Governor of Texas",
-      "text": "Rick Perry has made Texas the laughing stock of America, with his rants and raves against the Health Care Reform Act, and his threats of secession."
+      "sourceUrl": "http://74.208.199.156/index.php?option=com_content&view=article&id=1585:lance-governor&catid=14:first-person-stories&Itemid=200006"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.lalate.com/category/lance-armstrong/",
+      "type": "paragraph",
+      "id": 23
+    },
+    {
+      "parentId": 23,
+      "type": "text",
+      "text": "Armstrong quickly dropped out of the race, saying he wanted to spend time with his family.",
       "sourceTitle": "Lance Armstrong",
-      "text": "Armstrong quickly dropped out of the race, saying he wanted to spend time with his family."
+      "sourceUrl": "http://news.lalate.com/category/lance-armstrong/"
     },
     {
-      "type": "sentence",
-      "text": "But there's nothing conclusive I can find that Armstrong was explicitly a Democrat–though it seems reasonable to assume so."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But there's nothing conclusive I can find that Armstrong was explicitly a Democrat–though it seems reasonable to assume so.",
+      "parentId": 23
     }
   ],
   "wikipediaData": {

@@ -32,183 +32,263 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Grace Kelly was born and raised in Philadelphia, Pennsylvania. She died from injuries sustained during a car accident in Monaco in 1982."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pk/Grace_Kelly.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Kelly was raised and remained a Catholic.",
       "sourceTitle": "The religion of Grace Kelly, actress, Oscar winner",
-      "text": "Kelly was raised and remained a Catholic."
+      "sourceUrl": "http://www.adherents.com/people/pk/Grace_Kelly.html"
     },
     {
-      "type": "sentence",
-      "text": "It doesn't seem like religion, faith or Catholicism was something Kelly talked about very often. But it was clearly an integral part of her life."
+      "type": "text",
+      "text": "It doesn't seem like religion, faith or Catholicism was something Kelly talked about very often. But it was clearly an integral part of her life.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www47.homepage.villanova.edu/charlene.mires/tours/kelly.htm",
+      "parentId": 3,
+      "type": "text",
+      "text": "Her mother was not a Catholic, until she converted when she married Kelly's father, Jack Kelly.",
       "sourceTitle": "Grace Kelly: A Philadelphian at Heart",
-      "text": "Her mother was not a Catholic, until she converted when she married Kelly's father, Jack Kelly."
+      "sourceUrl": "http://www47.homepage.villanova.edu/charlene.mires/tours/kelly.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www47.homepage.villanova.edu/charlene.mires/tours/kelly.htm",
+      "type": "text",
+      "text": "And Kelly received most of her education (before college) at a Catholic school.",
+      "parentId": 3,
       "sourceTitle": "Grace Kelly: A Philadelphian at Heart",
-      "text": "And Kelly received most of her education (before college) at a Catholic school."
+      "sourceUrl": "http://www47.homepage.villanova.edu/charlene.mires/tours/kelly.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://marriage.about.com/od/royalty/a/rainierkelly_2.htm",
+      "type": "text",
+      "text": "Lastly, she was married in a Catholic ceremony to the Prince of Monaco in 1956.",
+      "parentId": 3,
       "sourceTitle": "Grace Kelly and Prince Rainier's Weddings",
-      "text": "Lastly, she was married in a Catholic ceremony to the Prince of Monaco in 1956."
+      "sourceUrl": "http://marriage.about.com/od/royalty/a/rainierkelly_2.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "As with any dead, iconic celebrity, there are rumors. One particularly steamy one is that Kelly, just months before her death, converted to a cult called the Order of the Solar Temple, the initiation into which involved some sort of sex act. Apparently, the rumors were so relentless that after her death, her husband, Prince Rainier, released a statement calling the reports:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://dev.null.org/psychoceramics/archives/1998.01/msg00027.html",
-      "sourceTitle": "Grace Kelly and the Conspiracy",
-      "text": "…sensational rubbish to grab TV ratings and a cheap shot at somebody who can't answer back."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "…sensational rubbish to grab TV ratings and a cheap shot at somebody who can't answer back.",
+      "sourceTitle": "Grace Kelly and the Conspiracy",
+      "sourceUrl": "http://dev.null.org/psychoceramics/archives/1998.01/msg00027.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Probably baseless, but who knows. Follow the reference for more info."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Princess politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.vanityfair.com/hollywood/features/2010/05/grace-kelly-201005",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Kelly came from a semi-powerful Democrat family. Her father ran for the mayor of Philadelphia on the Democratic ticket, and was very narrowly defeated.",
       "sourceTitle": "Grace Kelly's Forever Look",
-      "text": "Kelly came from a semi-powerful Democrat family. Her father ran for the mayor of Philadelphia on the Democratic ticket, and was very narrowly defeated."
+      "sourceUrl": "http://www.vanityfair.com/hollywood/features/2010/05/grace-kelly-201005"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://greatentertainersarchives.blogspot.com/2011/11/born-on-this-day-grace-kelly.html",
+      "type": "text",
+      "text": "Ultimately, President Roosevelt (a Democrat) appointed him to the National Director of Physical Fitness during the World War II years.",
+      "parentId": 9,
       "sourceTitle": "Born on This Day: Grace Kelly",
-      "text": "Ultimately, President Roosevelt (a Democrat) appointed him to the National Director of Physical Fitness during the World War II years."
+      "sourceUrl": "http://greatentertainersarchives.blogspot.com/2011/11/born-on-this-day-grace-kelly.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://marriage.about.com/od/royalty/a/rainierkelly_2.htm",
+      "parentId": 10,
+      "type": "text",
+      "text": "In 1956, at the age of 26, Kelly fulfilled the dream of every nine year-old girl and married an honest-to-God European Prince–Prince Rainier of Monaco.",
       "sourceTitle": "Grace Kelly and Prince Rainier's Weddings",
-      "text": "In 1956, at the age of 26, Kelly fulfilled the dream of every nine year-old girl and married an honest-to-God European Prince–Prince Rainier of Monaco."
+      "sourceUrl": "http://marriage.about.com/od/royalty/a/rainierkelly_2.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://greatentertainersarchives.blogspot.com/2011/11/born-on-this-day-grace-kelly.html",
+      "type": "text",
+      "text": "She became, at that moment, a political figure of sorts. The marriage was dubious in a couple of ways. The Prince was faced with two serious problems. One, by treaty with France, if he did not produce an heir by his death, Monaco would be incorporated into France.",
+      "parentId": 10,
       "sourceTitle": "Born on This Day: Grace Kelly",
-      "text": "She became, at that moment, a political figure of sorts. The marriage was dubious in a couple of ways. The Prince was faced with two serious problems. One, by treaty with France, if he did not produce an heir by his death, Monaco would be incorporated into France."
+      "sourceUrl": "http://greatentertainersarchives.blogspot.com/2011/11/born-on-this-day-grace-kelly.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000038/bio",
+      "type": "text",
+      "text": "And two, Monaco was suffering from severe financial difficulties. Kelly was the answer to both of his problems. For one, she could bear him a child. For two, her celebrity (the Prince hoped) would draw tourism money to Monaco.",
+      "parentId": 10,
       "sourceTitle": "Grace Kelly – Biography",
-      "text": "And two, Monaco was suffering from severe financial difficulties. Kelly was the answer to both of his problems. For one, she could bear him a child. For two, her celebrity (the Prince hoped) would draw tourism money to Monaco."
+      "sourceUrl": "http://www.imdb.com/name/nm0000038/bio"
     },
     {
-      "type": "sentence",
-      "text": "It did."
+      "type": "text",
+      "text": "It did.",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000038/bio",
+      "parentId": 11,
+      "type": "text",
+      "text": "Furthermore, the Prince forbade Kelly from making films",
       "sourceTitle": "Grace Kelly – Biography",
-      "text": "Furthermore, the Prince forbade Kelly from making films"
+      "sourceUrl": "http://www.imdb.com/name/nm0000038/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://royalwomen.tripod.com/id39.html",
+      "type": "text",
+      "text": "so she lived out her days as a monarch. She took her regal duties very seriously, and became beloved by \"her people.\"",
+      "parentId": 11,
       "sourceTitle": "Princess Grace of Monaco",
-      "text": "so she lived out her days as a monarch. She took her regal duties very seriously, and became beloved by \"her people.\""
+      "sourceUrl": "http://royalwomen.tripod.com/id39.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "In terms of women in society, Kelly said some controversial things. She considered herself a feminist:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000038/bio",
-      "sourceTitle": "Grace Kelly – Biography",
-      "text": "I'm basically a feminist. I think that women can do anything they decide to do."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I'm basically a feminist. I think that women can do anything they decide to do.",
+      "sourceTitle": "Grace Kelly – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0000038/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "But she said some very conservative things about women's role in society and family, such as:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/g/grace_kelly.html",
-      "sourceTitle": "Grace Kelly Quotes",
-      "text": "Emancipation of women has made them lose their mystery."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Emancipation of women has made them lose their mystery.",
+      "sourceTitle": "Grace Kelly Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/g/grace_kelly.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "And:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/g/grace_kelly.html",
-      "sourceTitle": "Grace Kelly Quotes",
-      "text": "Women's natural role is to be a pillar of the family."
+      "id": 19
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "Women's natural role is to be a pillar of the family.",
+      "sourceTitle": "Grace Kelly Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/g/grace_kelly.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "Perhaps we're dealing with a different historical paradigm, but those kinds of things would likely be considered anti-feminist today. Let's hear your thoughts."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 22
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://royalwomen.tripod.com/id39.html",
+      "parentId": 22,
+      "type": "text",
+      "text": "Grace Kelly offers us a fascinating story of Hollywood glamor and royal intrigue. And though her royal life was, in many ways, unsatisfactory for her,",
       "sourceTitle": "Princess Grace of Monaco",
-      "text": "Grace Kelly offers us a fascinating story of Hollywood glamor and royal intrigue. And though her royal life was, in many ways, unsatisfactory for her,"
+      "sourceUrl": "http://royalwomen.tripod.com/id39.html"
     },
     {
-      "type": "sentence",
-      "text": "she created a legend and a legacy that will likely not be forgotten for many years to come."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "she created a legend and a legacy that will likely not be forgotten for many years to come.",
+      "parentId": 22
     }
   ],
   "wikipediaData": {

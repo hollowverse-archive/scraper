@@ -35,137 +35,204 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Marilyn Manson was born and grew up in Canton, Ohio where he attended an Episcopalian school."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "His father was Catholic and his mother was an Episcopalian, so, as Manson puts it:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.beliefnet.com/Entertainment/Music/2001/05/Manson-Interview.aspx?p=2",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I sort of veered off into the watered-down version of Catholicism.",
       "sourceTitle": "Marilyn Manson, The Beliefnet Interview",
-      "text": "I sort of veered off into the watered-down version of Catholicism."
+      "sourceUrl": "http://www.beliefnet.com/Entertainment/Music/2001/05/Manson-Interview.aspx?p=2"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.esoterra.org/manson.htm",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Marilyn Manson was ordained to the Church of Satan, a self-described atheist organization, by founder Anton LeVay.",
       "sourceTitle": "Generation Hex: An Interview with Marilyn Manson by Chad Hensley",
-      "text": "Marilyn Manson was ordained to the Church of Satan, a self-described atheist organization, by founder Anton LeVay."
+      "sourceUrl": "http://www.esoterra.org/manson.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://lybio.net/marilyn-manson-out-debates-bill-oreilly/people/",
+      "type": "text",
+      "text": "He jokes that it isn't a \"real job\" as he receives no money from the church.",
+      "parentId": 5,
       "sourceTitle": "Marilyn Manson Out-Debates Bill O'Reilly",
-      "text": "He jokes that it isn't a \"real job\" as he receives no money from the church."
+      "sourceUrl": "http://lybio.net/marilyn-manson-out-debates-bill-oreilly/people/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0001504/bio",
+      "parentId": 6,
+      "type": "text",
+      "text": "In his autobiography, Manson discusses going to Heritage Christian School as a child. He hated the experience and convinced his parents to let him enter public school in tenth grade.",
       "sourceTitle": "Marilyn Mansion – Biography",
-      "text": "In his autobiography, Manson discusses going to Heritage Christian School as a child. He hated the experience and convinced his parents to let him enter public school in tenth grade."
+      "sourceUrl": "http://www.imdb.com/name/nm0001504/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "Marilyn Manson's music is frequently critical of religion and mainstream media culture, which he sees as conflated forces. In the songs \"Astonishing Panorama of the Endtimes\" and \"Rock is Dead,\" Manson claims that television has become god. He ridicules Christians in \"I Don't Like the Drugs.\" He describes god as an \"excuse\" for people's behavior on \"We're from America.\""
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "In an interview with BeliefNet, Manson says:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.beliefnet.com/Entertainment/Music/2001/05/Manson-Interview.aspx?p=2",
-      "sourceTitle": "Marilyn Manson: The Beliefnet Interview",
-      "text": "I refuse to be forced to believe in other people's interpretations of God. I don't think anybody should be. There's no one person that can own the copyright to what God means."
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.beliefnet.com/Entertainment/Music/2001/05/Manson-Interview.aspx?p=2",
-      "sourceTitle": "Marilyn Manson: The Beliefnet Interview",
-      "text": "He also claims art is the \"only spiritual thing in the world.\""
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
     },
     {
-      "type": "break"
+      "parentId": 10,
+      "type": "text",
+      "text": "I refuse to be forced to believe in other people's interpretations of God. I don't think anybody should be. There's no one person that can own the copyright to what God means.",
+      "sourceTitle": "Marilyn Manson: The Beliefnet Interview",
+      "sourceUrl": "http://www.beliefnet.com/Entertainment/Music/2001/05/Manson-Interview.aspx?p=2"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "He also claims art is the \"only spiritual thing in the world.\"",
+      "sourceTitle": "Marilyn Manson: The Beliefnet Interview",
+      "sourceUrl": "http://www.beliefnet.com/Entertainment/Music/2001/05/Manson-Interview.aspx?p=2"
     },
     {
       "type": "heading",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Out of left field"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.metrolyrics.com/were-from-america-lyrics-marilyn-manson.html",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Manson's aforementioned song \"We're from America\" is a scathing criticism of American exceptionalism and his most openly political statement. He suggests that people are really against abortion because they need the resulting children to go fight future wars. Americans believe in \"being a quitter.\"",
       "sourceTitle": "Marilyn Manson – We're From America Lyrics",
-      "text": "Manson's aforementioned song \"We're from America\" is a scathing criticism of American exceptionalism and his most openly political statement. He suggests that people are really against abortion because they need the resulting children to go fight future wars. Americans believe in \"being a quitter.\""
+      "sourceUrl": "http://www.metrolyrics.com/were-from-america-lyrics-marilyn-manson.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "His music often contains prominent themes of anarchy, mocking patriotism and gun culture. He also made a widely praised appearance in liberal documentarian Michael Moore's 'Bowling for Columbine' where he discussed the importance of listening to teenagers."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mansonwiki.com/wiki/Interview:2000/11_Marilyn_Manson_Has_a_Secret",
+      "parentId": 15,
+      "type": "text",
+      "text": "Marilyn Manson is often incorrectly identified as a Republican because of comments taken out of context in an interview. Al Gore's vice presidential pick in the 2000 race, Joe Lieberman, had suggested Manson's music was responsible for the Columbine High School Massacre. Manson in turn sarcastically endorsed Bush when speaking to conservative commentator Tucker Carlson.",
       "sourceTitle": "Interview: 2000/11 Marilyn Manson Has A Secret",
-      "text": "Marilyn Manson is often incorrectly identified as a Republican because of comments taken out of context in an interview. Al Gore's vice presidential pick in the 2000 race, Joe Lieberman, had suggested Manson's music was responsible for the Columbine High School Massacre. Manson in turn sarcastically endorsed Bush when speaking to conservative commentator Tucker Carlson."
+      "sourceUrl": "http://www.mansonwiki.com/wiki/Interview:2000/11_Marilyn_Manson_Has_a_Secret"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.metalunderground.com/news/details.cfm?newsid=19519",
+      "parentId": 16,
+      "type": "text",
+      "text": "Combined with his criticism of the Left's political correctness, the remarks led many to believe Manson was supporting conservatives. After Bush was elected, Manson regretted the comments endorsing Bush and said he feared some fans may have taken him seriously.",
       "sourceTitle": "Marilyn Manson Regrets Pro-Bush Comments",
-      "text": "Combined with his criticism of the Left's political correctness, the remarks led many to believe Manson was supporting conservatives. After Bush was elected, Manson regretted the comments endorsing Bush and said he feared some fans may have taken him seriously."
+      "sourceUrl": "http://www.metalunderground.com/news/details.cfm?newsid=19519"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mansonwiki.com/wiki/Interview:2000/11_Marilyn_Manson_Has_a_Secret",
+      "parentId": 17,
+      "type": "text",
+      "text": "Manson doesn't participate in mainstream politics. He describes himself as an \"across-the-board misanthrope.\"",
       "sourceTitle": "Interview: 2000/11 Marilyn Manson Has A Secret",
-      "text": "Manson doesn't participate in mainstream politics. He describes himself as an \"across-the-board misanthrope.\""
+      "sourceUrl": "http://www.mansonwiki.com/wiki/Interview:2000/11_Marilyn_Manson_Has_a_Secret"
     },
     {
-      "type": "sentence",
-      "text": "Before cheekily discussing Bush, he said of political parties:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Before cheekily discussing Bush, he said of political parties:",
+      "parentId": 17
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.mansonwiki.com/wiki/Interview:2000/11_Marilyn_Manson_Has_a_Secret",
-      "sourceTitle": "Interview: 2000/11 Marilyn Manson Has A Secret",
-      "text": "I don't want to give the impression that I dislike one group more than the others… I dislike them all equally."
+      "id": 18
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "I don't want to give the impression that I dislike one group more than the others… I dislike them all equally.",
+      "sourceTitle": "Interview: 2000/11 Marilyn Manson Has A Secret",
+      "sourceUrl": "http://www.mansonwiki.com/wiki/Interview:2000/11_Marilyn_Manson_Has_a_Secret"
+    },
+    {
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "emphasis",
+      "text": "This post written by Chris Sosa."
     }
   ],
   "wikipediaData": {

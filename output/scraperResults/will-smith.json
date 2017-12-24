@@ -33,152 +33,246 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Will Smith grew up Baptist in a rough neighborhood in Philadelphia. (Just listen to the lyrics of \"Fresh Prince of Bel Air.\")"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Smith and his wife Jada Pinkett-Smith were accused of converting to Scientology after numerous public outings with Tom Cruise, but he asserted his continued Christianity this way:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://articles.nydailynews.com/2008-03-18/gossip/17893445_1_scientology-karin-pouw-kimora-lee-simmons",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "You don't have to be Jewish to be a friend of Steven Spielberg. You don't have to be a Muslim to be a friend of Muhammad Ali. And you don't have to be a Scientologist to be a friend of Tom Cruise…I am a Christian. I am a student of all religions. And I respect all people and all paths.",
       "sourceTitle": "Will Smith and Jada: Don't know much Scientology",
-      "text": "You don't have to be Jewish to be a friend of Steven Spielberg. You don't have to be a Muslim to be a friend of Muhammad Ali. And you don't have to be a Scientologist to be a friend of Tom Cruise…I am a Christian. I am a student of all religions. And I respect all people and all paths."
+      "sourceUrl": "http://articles.nydailynews.com/2008-03-18/gossip/17893445_1_scientology-karin-pouw-kimora-lee-simmons"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/news/1768-will-smith-donates-13-million-to-charity-in-2008",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "But money speaks louder than words and his money says he does respect a wide range of beliefs–at least up until 2008 when he gave $1.3 million dollars to different charities including Christian, Islamic, and Jewish organizations.",
       "sourceTitle": "Will Smith",
-      "text": "But money speaks louder than words and his money says he does respect a wide range of beliefs–at least up until 2008 when he gave $1.3 million dollars to different charities including Christian, Islamic, and Jewish organizations."
+      "sourceUrl": "http://www.looktothestars.org/news/1768-will-smith-donates-13-million-to-charity-in-2008"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "Oh, and of course Scientologist organizations. Three Scientology-based organizations received parts of the $1.3 million, and Smith has said plenty of stuff like this:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.foxnews.com/story/0,2933,316808,00.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I was raised in a Baptist household, I went to a Catholic school, but the ideas of the Bible are 98 percent the same ideas of Scientology, 98 percent the same ideas of Hinduism and Buddhism.",
       "sourceTitle": "Will Smith's Charities Include Scientology",
-      "text": "I was raised in a Baptist household, I went to a Catholic school, but the ideas of the Bible are 98 percent the same ideas of Scientology, 98 percent the same ideas of Hinduism and Buddhism."
+      "sourceUrl": "http://www.foxnews.com/story/0,2933,316808,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.showbiz411.com/2010/07/16/will-smith-drops-scientology-from-his-annual-donations",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "After being hounded by various media outlets, though, not only did Smith deny converting to Scientology, he stopped giving to organizations linked to the the religion.",
       "sourceTitle": "Will Smith Drops Scientology from his Annual Donations",
-      "text": "After being hounded by various media outlets, though, not only did Smith deny converting to Scientology, he stopped giving to organizations linked to the the religion."
+      "sourceUrl": "http://www.showbiz411.com/2010/07/16/will-smith-drops-scientology-from-his-annual-donations"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "But whatever his religion, it seems he believes in destiny:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/will_smith.html",
-      "sourceTitle": "Will Smith Quotes",
-      "text": "I don't know what my calling is, but I want to be here for a bigger reason. I strive to be like the greatest people who have ever lived."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I don't know what my calling is, but I want to be here for a bigger reason. I strive to be like the greatest people who have ever lived.",
+      "sourceTitle": "Will Smith Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/will_smith.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Wow. I mean, he's a good actor and an O.K. rapper, but one of the greatest people who ever lived? That might be a stretch."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 14
     },
     {
-      "type": "heading",
+      "parentId": 14,
+      "type": "text",
       "text": "Fresh Prince for president"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.foxnews.com/politics/2011/10/24/obama-mingles-with-stars-as-raises-cash/",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Smith may be all over the map when it comes to religion, but he's squarely in the Democratic corner when it comes to politics.  He was at a fundraiser for President Obama's reelection campaign just last October",
       "sourceTitle": "Obama Mingles with the Stars as He Raises Cash. Foxnews",
-      "text": "Smith may be all over the map when it comes to religion, but he's squarely in the Democratic corner when it comes to politics.  He was at a fundraiser for President Obama's reelection campaign just last October"
+      "sourceUrl": "http://www.foxnews.com/politics/2011/10/24/obama-mingles-with-stars-as-raises-cash/"
     },
     {
-      "type": "sentence",
-      "text": "and also contributed to the first Obama presidential campaign."
+      "type": "text",
+      "text": "and also contributed to the first Obama presidential campaign.",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "We'd like to call him a liberal, but no one is quite sure where President Obama stands, so we'll hold off."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "Socially, Smith is concerned with the state of black people in America, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/will_smith.html",
-      "sourceTitle": "Will Smith Quotes",
-      "text": "I try to speak my points of view about black America, and how I feel about black men and the role that black men should play in their lives with their children and in their lives with their women."
+      "id": 18
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "I try to speak my points of view about black America, and how I feel about black men and the role that black men should play in their lives with their children and in their lives with their women.",
+      "sourceTitle": "Will Smith Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/will_smith.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "He thinks black men, in particular, are given an unfair reputation, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/will_smith.html",
-      "sourceTitle": "Will Smith Quotes",
-      "text": "There's so much negative imagery of black fatherhood. I've got tons of friends that are doing the right thing by their kids, and doing the right thing as a father – and how come that's not as newsworthy?"
+      "id": 21
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "There's so much negative imagery of black fatherhood. I've got tons of friends that are doing the right thing by their kids, and doing the right thing as a father – and how come that's not as newsworthy?",
+      "sourceTitle": "Will Smith Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/will_smith.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 23
+    },
+    {
+      "parentId": 23,
+      "type": "text",
       "text": "Oh man, imagine the backlash if someone ran a news story about a good black father."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 24
     },
     {
-      "type": "sentence",
+      "parentId": 24,
+      "type": "text",
       "text": "A lot of people like Will Smith, he seems smart and grounded and obviously open to a wide range of ideas. He has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/will_smith.html",
+      "id": 25
+    },
+    {
+      "type": "paragraph",
+      "id": 26,
+      "parentId": 25
+    },
+    {
+      "parentId": 26,
+      "type": "text",
+      "text": "If it was something that I really committed myself to, I don't think there's anything that could stop me becoming President of the United States.",
       "sourceTitle": "Will Smith Quotes",
-      "text": "If it was something that I really committed myself to, I don't think there's anything that could stop me becoming President of the United States."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/w/will_smith.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 27
+    },
+    {
+      "parentId": 27,
+      "type": "text",
       "text": "That might actually be cool. Bill Clinton played the sax. Why not have a president that raps. Maybe he could rap the State of the Union address. Instead of debates, we could have rap-battles. Plus, Smith has plenty of government experience working as one of the Men in Black (MIBs). Oh, I could go on forever…"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

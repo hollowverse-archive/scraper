@@ -37,103 +37,167 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jared Leto was born in Bossier City, Louisiana and grew up traveling all over the U.S. and even spent some time in Haiti as a child. Leto's mother raised him primarily, often with the help of, as Leto describes it, a \"hippie commune.\" He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0001467/bio",
+      "id": 2
+    },
+    {
+      "type": "paragraph",
+      "id": 3,
+      "parentId": 2
+    },
+    {
+      "parentId": 3,
+      "type": "text",
+      "text": "Just having the art-communal hippie experience as a child, there wasn't a clear line that was drawn. We celebrated creative experience and creative expression. We didn't try and curtail it and stunt any of that kind of growth.",
       "sourceTitle": "Jared Leto – Biography",
-      "text": "Just having the art-communal hippie experience as a child, there wasn't a clear line that was drawn. We celebrated creative experience and creative expression. We didn't try and curtail it and stunt any of that kind of growth."
+      "sourceUrl": "http://www.imdb.com/name/nm0001467/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wiki.answers.com/Q/What_religion_is_Jared_Leto",
+      "type": "paragraph",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Though many cite Leto's religious upbringing as Catholic,",
       "sourceTitle": "What religion is Jared Leto",
-      "text": "Though many cite Leto's religious upbringing as Catholic,"
+      "sourceUrl": "http://wiki.answers.com/Q/What_religion_is_Jared_Leto"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wiki.answers.com/Q/Is_Jared_Leto_an_Atheist",
+      "type": "text",
+      "text": "there is an equal amount of debate that he's an atheist–or Jewish.",
+      "parentId": 4,
       "sourceTitle": "Is Jared Leto an Atheist",
-      "text": "there is an equal amount of debate that he's an atheist–or Jewish."
+      "sourceUrl": "http://wiki.answers.com/Q/Is_Jared_Leto_an_Atheist"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.myspace.com/60086537",
+      "type": "text",
+      "text": "The best evidence we've got is his MySpace page (which we assume comes straight for the horse's mouth), in which he indicates his religion as \"Christian-other.\"",
+      "parentId": 4,
       "sourceTitle": "Jared Leto on MySpace",
-      "text": "The best evidence we've got is his MySpace page (which we assume comes straight for the horse's mouth), in which he indicates his religion as \"Christian-other.\""
+      "sourceUrl": "http://www.myspace.com/60086537"
     },
     {
-      "type": "sentence",
-      "text": "What's the other?"
+      "type": "text",
+      "text": "What's the other?",
+      "parentId": 4
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "Leto has compared the social environment surrounding his band, 30 Seconds to Mars, to that of a religion, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2011/12/jared-leto-compares-his-band-to-a-religion/",
-      "sourceTitle": "Jared Leto Compares His Band to a Religion",
-      "text": "People form bonds at a church, at a bar, at work. It happens in Scientology, it happen in Catholicism, and it happens with us."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "People form bonds at a church, at a bar, at work. It happens in Scientology, it happen in Catholicism, and it happens with us.",
+      "sourceTitle": "Jared Leto Compares His Band to a Religion",
+      "sourceUrl": "http://www.patheos.com/blogs/faithgoespop/2011/12/jared-leto-compares-his-band-to-a-religion/"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "But that certainly doesn't help to clarify anything."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Planetary politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://perezhilton.com/2012-06-27-obama-skipping-jared-leto-fundraiser#.UEZFbFQ1afQ",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Leto is an Obama-supporting Democrat. He even held his own star-studded Obama fundraiser, charging between $500 and $2,500 for entrance. Three of the president's top aides attended.",
       "sourceTitle": "Obama's Skipping Jared Leto's Hollywood Fundraiser",
-      "text": "Leto is an Obama-supporting Democrat. He even held his own star-studded Obama fundraiser, charging between $500 and $2,500 for entrance. Three of the president's top aides attended."
+      "sourceUrl": "http://perezhilton.com/2012-06-27-obama-skipping-jared-leto-fundraiser#.UEZFbFQ1afQ"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jared-leto.net/10-sexy-environmentalists-just-in-time-for-earthday/",
+      "parentId": 11,
+      "type": "text",
+      "text": "But the issue closest to Leto's heart is the environment. He walks the walk too–from touring with his band in a vegetable oil-fueled bus to convincing fans to donate 71,000 trees to a reforestation initiative in Haiti.",
       "sourceTitle": "10 Sexy Environmentalists Just In Time For Earth Day",
-      "text": "But the issue closest to Leto's heart is the environment. He walks the walk too–from touring with his band in a vegetable oil-fueled bus to convincing fans to donate 71,000 trees to a reforestation initiative in Haiti."
+      "sourceUrl": "http://www.jared-leto.net/10-sexy-environmentalists-just-in-time-for-earthday/"
     },
     {
-      "type": "sentence",
-      "text": "Leto also made a music  for his song, \"A Beautiful Lie,\" to illustrate the effects of climate change by shooting it in the arctic and including factoids onscreen for interested parties to read. He said:"
+      "type": "text",
+      "text": "Leto also made a music",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "parentId": 11,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.ecorazzi.com/2012/06/14/watch-jared-letos-music-video-benefits-eco-causes/"
+    },
+    {
+      "type": "text",
+      "text": "for his song, \"A Beautiful Lie,\" to illustrate the effects of climate change by shooting it in the arctic and including factoids onscreen for interested parties to read. He said:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.ecorazzi.com/2012/08/14/mtv-asks-jared-or-ian-leto-chooses-ian/",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "We all know by now that our planet is in deep trouble. We have abused it horribly and we are paying the price. It's time to try to do what we can, both as individuals and collectively, to find better and kinder ways to live. It's not our right; it's our responsibility. We are all guilty. We can all change.",
       "sourceTitle": "MTV Asks Jared or Ian, Leto Chooses Ian",
-      "text": "We all know by now that our planet is in deep trouble. We have abused it horribly and we are paying the price. It's time to try to do what we can, both as individuals and collectively, to find better and kinder ways to live. It's not our right; it's our responsibility. We are all guilty. We can all change."
+      "sourceUrl": "http://www.ecorazzi.com/2012/08/14/mtv-asks-jared-or-ian-leto-chooses-ian/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.eonline.com/news/148781/jared-leto-gets-fired-up-over-gay-marriage",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "If that doesn't put Leto squarely in the liberal camp, his effigy for gay rights certainly does. During a gay rights group fundraiser, Leto took the written wording of California's controversial Prop 8 (the law defining marriage as only between a man and woman) and set it on fire.",
       "sourceTitle": "Jared Leto Gets Fired Up Over Gay Marriage.",
-      "text": "If that doesn't put Leto squarely in the liberal camp, his effigy for gay rights certainly does. During a gay rights group fundraiser, Leto took the written wording of California's controversial Prop 8 (the law defining marriage as only between a man and woman) and set it on fire."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.eonline.com/news/148781/jared-leto-gets-fired-up-over-gay-marriage"
     }
   ],
   "wikipediaData": {

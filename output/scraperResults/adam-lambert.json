@@ -34,98 +34,151 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Adam Lambert was born in Indianapolis, Indiana and raised in San Diego, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Lambert is Jewish, the religion of his mother–though his father comes from Christian roots. His Jew-ness has been a bit of a boon for the media. They've really made a big deal out of it and the Jewish community caught Lambert fever during his bid for American Idol. But it may be a bit of overkill. Lambert is Jewish, yes, but didn't have a Bar Mitzvah, doesn't know Hebrew and really isn't all that Jewish in practice. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.jewishjournal.com/hollywoodjew/item/adam_lambert_the_jewish_mother_interview_20091014/",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "We did celebrate Chanukah as opposed to Christmas. So we stayed true to our roots that way. And we celebrated Passover occasionally. I mean I hate to say it, but we were kind of Jewish by form. Lightly Jewish. Diet Jews. More of a heritage thing.",
       "sourceTitle": "Adam Lambert: The Jewish Mother Interview",
-      "text": "We did celebrate Chanukah as opposed to Christmas. So we stayed true to our roots that way. And we celebrated Passover occasionally. I mean I hate to say it, but we were kind of Jewish by form. Lightly Jewish. Diet Jews. More of a heritage thing."
+      "sourceUrl": "http://www.jewishjournal.com/hollywoodjew/item/adam_lambert_the_jewish_mother_interview_20091014/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.haaretz.com/news/watch-american-idol-star-adam-lambert-singing-in-hebrew-1.274118",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Still, his skills on the mic and his Jewish heritage have landed him some impressive gigs. He sang at the memorial service for assasinated Jewish president Yitzhak Rabin",
       "sourceTitle": "American Idol Star Adam Lambert singing in Hebrew",
-      "text": "Still, his skills on the mic and his Jewish heritage have landed him some impressive gigs. He sang at the memorial service for assasinated Jewish president Yitzhak Rabin"
+      "sourceUrl": "http://www.haaretz.com/news/watch-american-idol-star-adam-lambert-singing-in-hebrew-1.274118"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jewishjournal.com/hollywoodjew/item/adam_lambert_the_jewish_american_idol_20090429/",
+      "type": "text",
+      "text": "and various other high-profile Jewish events such as at Temple of the Arts at the Saban Theatre in Beverly Hills.",
+      "parentId": 5,
       "sourceTitle": "Adam Lambert: the Jewish American Idol",
-      "text": "and various other high-profile Jewish events such as at Temple of the Arts at the Saban Theatre in Beverly Hills."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.jewishjournal.com/hollywoodjew/item/adam_lambert_the_jewish_american_idol_20090429/"
     },
     {
       "type": "heading",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Traditional gay politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Lambert is openly gay, and as such has wound up on the liberal side of social politics in America."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "In 2011, the Los Angeles Equality Awards honored Lambert for being an \"exemplary role model for the LGBT community.\" He said upon accepting the award:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://sdgln.com/news/2011/08/10/adam-lambert-kathy-griffin-celebrate-lgbt-victories-los-angeles-equality-awards",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I strive to lead by example by making no apologies for or withholding my identity as a proud and comfortable gay man. I strongly believe that all people have a fundamental right to love who they want to love and if they so choose, have their union recognized by the laws of this country regardless of sex, age, race or religious affiliation.",
       "sourceTitle": "Adam Lambert, Kathy Griffin to celebrate LGBT victories at Los Angeles Equality Awards",
-      "text": "I strive to lead by example by making no apologies for or withholding my identity as a proud and comfortable gay man. I strongly believe that all people have a fundamental right to love who they want to love and if they so choose, have their union recognized by the laws of this country regardless of sex, age, race or religious affiliation."
+      "sourceUrl": "http://sdgln.com/news/2011/08/10/adam-lambert-kathy-griffin-celebrate-lgbt-victories-los-angeles-equality-awards"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.mtv.com/news/articles/1650170/adam-lambert-encourages-gay-fans-it-gets-better-video.jhtml",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Acceptance of homosexuals has constituted the majority of Lambert's political activity. He's participated in anti-bullying campaigns",
       "sourceTitle": "Adam Lambert Encourages Gay Fans in 'It Gets Better' Video",
-      "text": "Acceptance of homosexuals has constituted the majority of Lambert's political activity. He's participated in anti-bullying campaigns"
+      "sourceUrl": "http://www.mtv.com/news/articles/1650170/adam-lambert-encourages-gay-fans-it-gets-better-video.jhtml"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thetrevorproject.org/news/adam-lambert-returns-american-idol-stage-thursday-march-10th-perform-acoustic-version-his-song-",
+      "type": "text",
+      "text": "and donated portions of the profits of his song, \"Aftermath Remix\" to The Trevor Project, an organization dedicated to reduce/eradicate gay suicide.",
+      "parentId": 11,
       "sourceTitle": "Adam Lambert Returns To The American Idol Stage On Thursday, March 10 To Perform An Acoustic Version Of His Song \"Aftermath.\"",
-      "text": "and donated portions of the profits of his song, \"Aftermath Remix\" to The Trevor Project, an organization dedicated to reduce/eradicate gay suicide."
+      "sourceUrl": "http://www.thetrevorproject.org/news/adam-lambert-returns-american-idol-stage-thursday-march-10th-perform-acoustic-version-his-song-"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "And when President Obama announced his support of gay marriage–a major political victory for the gay community–Lambert said proudly:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://articles.cnn.com/2012-05-09/politics/politics_obama-same-sex-reactions_1_marriage-equality-gay-marriage-marriage-stance/2?_s=PM:POLITICS",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "It is great that President Obama had the guts to speak out–even in an election year–for the traditional American values of justice and equality for all.",
       "sourceTitle": "Celebrities, politicians weigh in on Obama's same-sex marriage stance",
-      "text": "It is great that President Obama had the guts to speak out–even in an election year–for the traditional American values of justice and equality for all."
+      "sourceUrl": "http://articles.cnn.com/2012-05-09/politics/politics_obama-same-sex-reactions_1_marriage-equality-gay-marriage-marriage-stance/2?_s=PM:POLITICS"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Though I can imagine a few people around the U.S. who might take issue with Lambert's definition of \"traditional\" in this case."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -158,7 +211,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Adam Lambert and Queen|In-ear monitors|Items with OTRS permission confirmed|Males with handheld microphones (right)",
+            "value": "Adam Lambert and Queen|In-ear monitors|Items with OTRS permission confirmed|Males with handheld microphones (right)|Taken with Panasonic Lumix DMC-TZ60",
             "source": "commons-categories",
             "hidden": ""
           },

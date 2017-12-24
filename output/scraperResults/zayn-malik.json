@@ -32,103 +32,160 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Zayn Malik was raised in East Bowling, England. His mother is a native Englishwoman and his father a Pakistani immigrant."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "As a result, his background is a mix of Anglican Christian and Muslim."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Malik's mixed heritage has been a problem for him in his past. He apparently had to switch schools a number of times before he felt comfortable. He has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/showbiz/bizarre/3819612/Until-6th-form-I-was-so-short-I-stood-on-a-brickbr-to-kiss.html",
-      "sourceTitle": "Until 6th form, I was so short I stood on a brick to kiss",
-      "text": "I almost felt like I didn't fit in at my first two schools because I was the only mixed heritage kid in my class. When my sister and I moved to a different school it was a lot more mixed so I felt like I fitted in better."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I almost felt like I didn't fit in at my first two schools because I was the only mixed heritage kid in my class. When my sister and I moved to a different school it was a lot more mixed so I felt like I fitted in better.",
+      "sourceTitle": "Until 6th form, I was so short I stood on a brick to kiss",
+      "sourceUrl": "http://www.thesun.co.uk/sol/homepage/showbiz/bizarre/3819612/Until-6th-form-I-was-so-short-I-stood-on-a-brickbr-to-kiss.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Malik is understandably confused about his religious beliefs and certainly doesn't seem like a devout Muslim, despite putting on his Twitter feed, in Arabic:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=qS9T28eVfYo",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "There is no God but Allah, Muhammad is the Prophet of Allah.",
       "sourceTitle": "Zayn Malik is a Muslim British Pakistani",
-      "text": "There is no God but Allah, Muhammad is the Prophet of Allah."
+      "sourceUrl": "http://www.youtube.com/watch?v=qS9T28eVfYo"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.capitalfm.com/artists/one-direction/news/tattoo-advice/",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "He has a tattoo of his brother's name in Arabic–OK, we're still in Muslim territory–a Yin Yang tattoo (Buddhist), and a peace sign tattoo, which is basically the symbol of godless American liberal hippies.",
       "sourceTitle": "One Direction Needs Tattoo Advice",
-      "text": "He has a tattoo of his brother's name in Arabic–OK, we're still in Muslim territory–a Yin Yang tattoo (Buddhist), and a peace sign tattoo, which is basically the symbol of godless American liberal hippies."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.capitalfm.com/artists/one-direction/news/tattoo-advice/"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Political conjectures"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Malik is young, famous, a handsome chap, well-beloved by the ladies. He's probably having the time of his life touring the world with his famous hair-do and songs about lost love."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "text": "Essentially, he's got no time for politics. He's certainly never said  about politics. So it's up to us here at The Hollowverse to make our best guess. We've got a little evidence for your consideration."
+      "parentId": 12,
+      "type": "text",
+      "text": "Essentially, he's got no time for politics. He's certainly never said"
     },
     {
-      "type": "break"
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "anything"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.labour.org.uk/mp/shahid_malik/493/",
+      "type": "text",
+      "text": "about politics. So it's up to us here at The Hollowverse to make our best guess. We've got a little evidence for your consideration.",
+      "parentId": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Exhibit A: A Pakistani Brit with the same name as Zayn, Shahid Malik, is a high-profile member of the British Labour party.",
       "sourceTitle": "Shahid Malik",
-      "text": "Exhibit A: A Pakistani Brit with the same name as Zayn, Shahid Malik, is a high-profile member of the British Labour party."
+      "sourceUrl": "http://www.labour.org.uk/mp/shahid_malik/493/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "There is no apparent evidence that they are related, however."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/politics/2005/apr/24/uk.election20054",
+      "parentId": 15,
+      "type": "text",
+      "text": "Exhibit B: A recent poll in Britain revealed that 40 percent of British Pakistani's vote for the Labour Party, 5 percent for the Conservative Party, and 21 percent for the Liberal Democrats.",
       "sourceTitle": "The ethnic minority vote",
-      "text": "Exhibit B: A recent poll in Britain revealed that 40 percent of British Pakistani's vote for the Labour Party, 5 percent for the Conservative Party, and 21 percent for the Liberal Democrats."
+      "sourceUrl": "http://www.guardian.co.uk/politics/2005/apr/24/uk.election20054"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "While extremely tenuous, we are going to tentatively put Malik in the British Labour Party, the U.K. political organization most associated with ethnic minorities, blue-collar workers, and the lower classes. Any additional information you could share with us in the comments would be appreciated!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -35,106 +35,172 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Alexis Bledel, real name Kimberly Bledel, was born and raised in Houston, Texas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0088127/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Bledel's parents were both raised in Latin America and Alexis grew up initially speaking Spanish.",
       "sourceTitle": "Alexis Bleded – Biography",
-      "text": "Bledel's parents were both raised in Latin America and Alexis grew up initially speaking Spanish."
+      "sourceUrl": "http://www.imdb.com/name/nm0088127/bio"
     },
     {
-      "type": "sentence",
-      "text": "She seems to have been exposed to a variety of religious flavors growing up. She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She seems to have been exposed to a variety of religious flavors growing up. She said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.okmagazine.com/blogs/red-carpet-confidential-alexis-bledel-grows",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I went to a Baptist school, a Lutheran school, a Catholic school and we lived in a Jewish neighborhood.",
       "sourceTitle": "Red Carpet Confidential: Alexis Bledel Grows Up",
-      "text": "I went to a Baptist school, a Lutheran school, a Catholic school and we lived in a Jewish neighborhood."
+      "sourceUrl": "http://www.okmagazine.com/blogs/red-carpet-confidential-alexis-bledel-grows"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/largecom/fam_catholic.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "But it is widely cited that she is a Catholic.",
       "sourceTitle": "Famous Catholics",
-      "text": "But it is widely cited that she is a Catholic."
+      "sourceUrl": "http://www.adherents.com/largecom/fam_catholic.html"
     },
     {
-      "type": "sentence",
-      "text": "Considering her Latin American upbringing, this seems a logical conclusion. However the best evidence I could find to support it comes from a fan who posted a Fashion Magazine interview with Bledel on a fan forum. The interview seems to no longer exist anywhere else. It states:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Considering her Latin American upbringing, this seems a logical conclusion. However the best evidence I could find to support it comes from a fan who posted a Fashion Magazine interview with Bledel on a fan forum. The interview seems to no longer exist anywhere else. It states:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.fanforum.com/f56/gilmore-girls-news-thread-43489/index7.html",
-      "sourceTitle": "Gilmore Girls News Thread – Page 7 – Fan Forum",
-      "text": "Twenty-two-year-old Alexis is a sheltered Catholic girl from Houston whose Mexican mother and Argentinean father had no ties to show business."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Twenty-two-year-old Alexis is a sheltered Catholic girl from Houston whose Mexican mother and Argentinean father had no ties to show business.",
+      "sourceTitle": "Gilmore Girls News Thread – Page 7 – Fan Forum",
+      "sourceUrl": "http://www.fanforum.com/f56/gilmore-girls-news-thread-43489/index7.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "I guess that's enough for me to call her a Catholic. Have a dispute? Take it up with me in the comments."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "A political flash in the pan"
     },
     {
-      "type": "sentence",
-      "text": "Bledel awakened politically during U.S. president Barack Obama's campaign for reelection in 2012. In fact, her  was created solely for the purpose of campaigning for Obama and promoting liberal/Democrat issues. She started it in September before the election and she stopped updating it in the January after the election."
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "break"
+      "parentId": 10,
+      "type": "text",
+      "text": "Bledel awakened politically during U.S. president Barack Obama's campaign for reelection in 2012. In fact, her"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/alexisbledel",
+      "parentId": 10,
+      "type": "link",
+      "text": "Twitter account",
+      "sourceUrl": "https://twitter.com/alexisbledel"
+    },
+    {
+      "type": "text",
+      "text": "was created solely for the purpose of campaigning for Obama and promoting liberal/Democrat issues. She started it in September before the election and she stopped updating it in the January after the election.",
+      "parentId": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Her Twitter makes it seem as if she's reasonably informed. She seems particularly concerned with women's issues and Mitt Romney's sentiments toward Planned Parenthood. She touted the benefits of the DREAM Act and praised Obama's record on marriage equality and bringing troops home.",
       "sourceTitle": "Alexis Bleded (alexisbledel) on Twitter",
-      "text": "Her Twitter makes it seem as if she's reasonably informed. She seems particularly concerned with women's issues and Mitt Romney's sentiments toward Planned Parenthood. She touted the benefits of the DREAM Act and praised Obama's record on marriage equality and bringing troops home."
+      "sourceUrl": "https://twitter.com/alexisbledel"
     },
     {
-      "type": "sentence",
-      "text": "She's clearly quite liberal."
+      "type": "text",
+      "text": "She's clearly quite liberal.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.takepart.com/video/alexis-bledel-why-i-vote",
+      "parentId": 12,
+      "type": "text",
+      "text": "She also appeared on radio shows and made PSAs promoting Obama and the issues. A common thread running through her interviews is the idea that the two major U.S. political parties are \"diametrically opposed,\"",
       "sourceTitle": "Alexis Bledel: Why I Vote",
-      "text": "She also appeared on radio shows and made PSAs promoting Obama and the issues. A common thread running through her interviews is the idea that the two major U.S. political parties are \"diametrically opposed,\""
+      "sourceUrl": "http://www.takepart.com/video/alexis-bledel-why-i-vote"
     },
     {
-      "type": "sentence",
-      "text": "indicating a mentality that there's this sort of epic battle between good and evil going on. She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "indicating a mentality that there's this sort of epic battle between good and evil going on. She said:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://current.com/shows/talking-liberally/videos/alexis-bledel-campaigns-for-obama-to-avoid-going-back-to-the-days-of-mad-men/",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "[A Romney presidency] would mean an enormous step backward in our progress… the two sides are so opposed… when you do read about what the Republicans want to do, it makes you want to get involved.",
       "sourceTitle": "Alexis Bledel campaigns for Obama to avoid going back to the days of 'Mad Men'",
-      "text": "[A Romney presidency] would mean an enormous step backward in our progress… the two sides are so opposed… when you do read about what the Republicans want to do, it makes you want to get involved."
+      "sourceUrl": "http://current.com/shows/talking-liberally/videos/alexis-bledel-campaigns-for-obama-to-avoid-going-back-to-the-days-of-mad-men/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "The question this raises is: what's the alternative? A one-party state?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

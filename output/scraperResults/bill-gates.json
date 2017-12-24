@@ -35,144 +35,245 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Bill Gates was born in Seattle, Washington where he still lives and his software giant company, Microsoft, is headquartered."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://books.google.com/books?id=LUwu-DTwa5cC&pg=PA3&dq=Congregationalist++bill+gates&hl=en#v=onepage&q&f=false",
+      "parentId": 2,
+      "type": "text",
+      "text": "Growing up, his family attended a Congregationalist church, a now-extinct version of Protestantism.",
       "sourceTitle": "Bill Gates Speaks: Insights from the World's Greatest Entrepreneur",
-      "text": "Growing up, his family attended a Congregationalist church, a now-extinct version of Protestantism."
+      "sourceUrl": "http://books.google.com/books?id=LUwu-DTwa5cC&pg=PA3&dq=Congregationalist++bill+gates&hl=en#v=onepage&q&f=false"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Now, Gates doesn't seem too interested in religion. He doesn't believe anything without evidence. He was once asked about the human soul, and he replied:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://jewishatheist.blogspot.com/2006/01/great-non-believers-bill-gates.html",
-      "sourceTitle": "Great Non-Believers: Bill Gates",
-      "text": "I don't have any evidence on that."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I don't have any evidence on that.",
+      "sourceTitle": "Great Non-Believers: Bill Gates",
+      "sourceUrl": "http://jewishatheist.blogspot.com/2006/01/great-non-believers-bill-gates.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "This is a standard agnostic view and would seem hard to disprove. Gates, like many agnostics, would rather look to science for answers. In the same interview, Gates said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Bill_Gates",
-      "sourceTitle": "Bill Gates",
-      "text": "In terms of doing things I take a fairly scientific approach to why things happen and how they happen."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "In terms of doing things I take a fairly scientific approach to why things happen and how they happen.",
+      "sourceTitle": "Bill Gates",
+      "sourceUrl": "http://www.celebatheists.com/wiki/Bill_Gates"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "This doesn't mean Gates is down on religion or thinks religion is stupid or pointless. He's said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Bill_Gates",
-      "sourceTitle": "Bill Gates",
-      "text": "There's a lot of merit in the moral aspects of religion. I think it can have a very very positive impact."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "There's a lot of merit in the moral aspects of religion. I think it can have a very very positive impact.",
+      "sourceTitle": "Bill Gates",
+      "sourceUrl": "http://www.celebatheists.com/wiki/Bill_Gates"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "But he does think it's kind of a waste of time:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 13
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Bill_Gates",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Just in terms of allocation of time resources, religion is not very efficient. There's a lot more I could be doing on a Sunday morning.",
       "sourceTitle": "Bill Gates",
-      "text": "Just in terms of allocation of time resources, religion is not very efficient. There's a lot more I could be doing on a Sunday morning."
+      "sourceUrl": "http://www.celebatheists.com/wiki/Bill_Gates"
     },
     {
       "type": "heading",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Let's not talk about it, let's just throw money at it"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Politically, Gates is a bit mysterious. He hasn't gone on record very often in support of or against a political candidate or cause so I can't say he puts his money where his mouth is. But he definitely spends a lot of money on causes he believes in."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://blogs.seattleweekly.com/dailyweekly/2011/01/bill_gates_tops_steve_jobs_in.php",
+      "parentId": 17,
+      "type": "text",
+      "text": "If we must put Gates into the political spectrum, though, we must look to the money he's given to political campaigns. However, there are discrepancies. One report has Gates' political donations from 2002 to 2012 at almost $442,000–with most, but not all of that went to Republicans.",
       "sourceTitle": "Bill Gates Tops Steve Jobs in Political Donations; Microsoft Outspends Apple Inside the Beltway",
-      "text": "If we must put Gates into the political spectrum, though, we must look to the money he's given to political campaigns. However, there are discrepancies. One report has Gates' political donations from 2002 to 2012 at almost $442,000–with most, but not all of that went to Republicans."
+      "sourceUrl": "http://blogs.seattleweekly.com/dailyweekly/2011/01/bill_gates_tops_steve_jobs_in.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.campaignmoney.com/biography/bill_gates.asp",
+      "parentId": 18,
+      "type": "text",
+      "text": "Another has Gates' political donations from 1999 to 2012 at almost $436,000, with roughly 8% more going to Democrats.",
       "sourceTitle": "Biography of Bill Gates, Campaign Contributions",
-      "text": "Another has Gates' political donations from 1999 to 2012 at almost $436,000, with roughly 8% more going to Democrats."
+      "sourceUrl": "http://www.campaignmoney.com/biography/bill_gates.asp"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/billionaire_political_donations/Bill_Gates.php",
+      "parentId": 19,
+      "type": "link",
+      "text": "Newsmeat.com",
+      "sourceUrl": "http://newsmeat.com "
+    },
+    {
+      "type": "text",
+      "text": "(my favorite) has Gates' political contributions from 1986 to 2011 at a little more than $418,000, with slightly more going to Democrats.",
+      "parentId": 19,
       "sourceTitle": "Bill Gates' Federal Campaign Contribution Report",
-      "text": "(my favorite) has Gates' political contributions from 1986 to 2011 at a little more than $418,000, with slightly more going to Democrats."
+      "sourceUrl": "http://www.newsmeat.com/billionaire_political_donations/Bill_Gates.php"
     },
     {
-      "type": "sentence",
-      "text": "So, something fishy is going on there, but we'll go with Democrat. It's 2 out of 3."
+      "type": "text",
+      "text": "So, something fishy is going on there, but we'll go with Democrat. It's 2 out of 3.",
+      "parentId": 19
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "Perhaps Gates doesn't say much about U.S. politics because, as the big-picture thinker that he is, he sees beyond borders. He once said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 21
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.investinganswers.com/education/famous-investors/50-quotes-wealthiest-man-america-3088",
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "I do think this next century, hopefully, will be about a more global view. Where you don't just think, 'Yes, my country is doing well,' but you think about the world at large.",
       "sourceTitle": "50 Bill Gates Quotes on Life, Wealth and Leadership",
-      "text": "I do think this next century, hopefully, will be about a more global view. Where you don't just think, 'Yes, my country is doing well,' but you think about the world at large."
+      "sourceUrl": "http://www.investinganswers.com/education/famous-investors/50-quotes-wealthiest-man-america-3088"
     },
     {
       "type": "heading",
+      "id": 23
+    },
+    {
+      "parentId": 23,
+      "type": "text",
       "text": "So, people should be mean?"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 24
+    },
+    {
+      "parentId": 24,
+      "type": "text",
       "text": "On a grand social level, Gates thinks people should be more like computers. It's actually quite disturbing. Anyway:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 25
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.investinganswers.com/education/famous-investors/50-quotes-wealthiest-man-america-3088",
+      "type": "paragraph",
+      "id": 26,
+      "parentId": 25
+    },
+    {
+      "parentId": 26,
+      "type": "text",
+      "text": "You see, antiquated ideas of kindness and generosity are simply bugs that must be programmed out of our world. And these cold, unfeeling machines show us the way.",
       "sourceTitle": "50 Bill Gates Quotes on Life, Wealth and Leadership",
-      "text": "You see, antiquated ideas of kindness and generosity are simply bugs that must be programmed out of our world. And these cold, unfeeling machines show us the way."
+      "sourceUrl": "http://www.investinganswers.com/education/famous-investors/50-quotes-wealthiest-man-america-3088"
     }
   ],
   "wikipediaData": {

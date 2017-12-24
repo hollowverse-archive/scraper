@@ -32,116 +32,183 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Meryl Streep, originally Mary Louise Streep, was born in Summit, New Jersey and grew up in Bernardsville, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Streep grew up Presbyterian. As an adult, however, she seems to not be religious and only slightly spiritual. She admitted shortly after turning sixty:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/meryl-streep-movies-marriage-and-turning-sixty-1488485.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I follow no doctrine. I don't belong to a church or a temple or a synagogue or an ashram.",
       "sourceTitle": "Meryl Streep: Movies, marriage, and turning sixty",
-      "text": "I follow no doctrine. I don't belong to a church or a temple or a synagogue or an ashram."
+      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/meryl-streep-movies-marriage-and-turning-sixty-1488485.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/meryl-streep-movies-marriage-and-turning-sixty-1488485.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "Despite her protestant upbringing, Streep admits to being fascinated with Catholic ritual and tradition growing up, and even attended Mass with a friend as a result.",
       "sourceTitle": "Meryl Streep: Movies, marriage, and turning sixty",
-      "text": "Despite her protestant upbringing, Streep admits to being fascinated with Catholic ritual and tradition growing up, and even attended Mass with a friend as a result."
+      "sourceUrl": "http://www.independent.co.uk/news/people/profiles/meryl-streep-movies-marriage-and-turning-sixty-1488485.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "Still, something religious lurks deep in Streep, something still latent which might unexpectedly reveal itself, it would seem. She has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://theweek.com/article/index/91777/meryl-streeps-struggle-with-faith",
-      "sourceTitle": "Meryl Streep's struggle with faith",
-      "text": "I've always been really, deeply interested in faith, because I think I can understand the solace that's available in the whole construct of religion. [I am sometimes consumed by a] yearning for the ineffable, for real true certainty. I really don't believe in the power of prayer, or things would have been avoided that have happened, that are awful. So it's a horrible position as an intelligent, emotional, yearning human being to sit outside of the available comfort there. But I just can't go there."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I've always been really, deeply interested in faith, because I think I can understand the solace that's available in the whole construct of religion. [I am sometimes consumed by a] yearning for the ineffable, for real true certainty. I really don't believe in the power of prayer, or things would have been avoided that have happened, that are awful. So it's a horrible position as an intelligent, emotional, yearning human being to sit outside of the available comfort there. But I just can't go there.",
+      "sourceTitle": "Meryl Streep's struggle with faith",
+      "sourceUrl": "http://theweek.com/article/index/91777/meryl-streeps-struggle-with-faith"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "I would speculate that Streep is an atheist or at least an agnostic."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "Her views on religion haven't stopped her from breaching the topic in her films, however. She's played a soul in the afterlife, a nun, and a host of other roles with religious undertones."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "Politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Streep, for all her fame and the amount of respect she garners from nearly every demographic, rarely uses her position to advance a cause. She's quite, subtle, yet clearly holds political opinions. She reports being rather star-struck when meeting president Obama, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 13
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://newsbusters.org/people/meryl-streep",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I think it is thrilling to have someone who is thoughtful and can articulate with a certain amount of passion and dispassion, the necessary choices that we have in the world.",
       "sourceTitle": "Meryl Streep",
-      "text": "I think it is thrilling to have someone who is thoughtful and can articulate with a certain amount of passion and dispassion, the necessary choices that we have in the world."
+      "sourceUrl": "http://newsbusters.org/people/meryl-streep"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Meryl_Streep.php",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "She had previously backed up her enthusiasm for the Obama administration by contributing to he campaign in 2008. In fact, all of her contributions (totaling nearly $30,000 since 1981) have been to Democrats",
       "sourceTitle": "Meryl Streep's Federal Campaign Contribution Report",
-      "text": "She had previously backed up her enthusiasm for the Obama administration by contributing to he campaign in 2008. In fact, all of her contributions (totaling nearly $30,000 since 1981) have been to Democrats"
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Meryl_Streep.php"
     },
     {
-      "type": "sentence",
-      "text": "even though she was showered with critical acclaim for playing Margaret Thatcher, England's poster prime minister for conservatism."
+      "type": "text",
+      "text": "even though she was showered with critical acclaim for playing Margaret Thatcher, England's poster prime minister for conservatism.",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.pbs.org/tradesecrets/docs/alarscarenegin.html",
+      "parentId": 16,
+      "type": "text",
+      "text": "She has used her influence, to some degree, and urged Congress to do a couple of things. In 1989 she testified before Congress about Alar, a carcinogen pesticide used on Apples",
       "sourceTitle": "The Alar \"Scare\" Was for Real; and So is That \"Veggie Hate-Crime\" Movement",
-      "text": "She has used her influence, to some degree, and urged Congress to do a couple of things. In 1989 she testified before Congress about Alar, a carcinogen pesticide used on Apples"
+      "sourceUrl": "http://www.pbs.org/tradesecrets/docs/alarscarenegin.html"
     },
     {
-      "type": "sentence",
-      "text": "More recently, Streep has been trying to get Congress to build a National Women's History Museum in Washington D.C., saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "More recently, Streep has been trying to get Congress to build a National Women's History Museum in Washington D.C., saying:",
+      "parentId": 16
     },
     {
       "type": "quote",
-      "sourceUrl": "http://thehill.com/video/in-the-news/204343-meryl-streep-george-clooney-talk-politics-at-the-golden-globes",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I'm very interested in the stories of women, especially the unwritten history of women, and I'm trying very hard to get Congress to let us purchase land on the National Mall to build the first women's national history museum, something we really should have.",
       "sourceTitle": "Meryl Streep, George Clooney talk politics at the Golden Globes",
-      "text": "I'm very interested in the stories of women, especially the unwritten history of women, and I'm trying very hard to get Congress to let us purchase land on the National Mall to build the first women's national history museum, something we really should have."
+      "sourceUrl": "http://thehill.com/video/in-the-news/204343-meryl-streep-george-clooney-talk-politics-at-the-golden-globes"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "Streep is surprisingly humble and her choice to not flout her religious or political views (too much) is endearing. However, like most of her Hollywood colleagues, she is a Democrat–and probably quite liberal as well."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

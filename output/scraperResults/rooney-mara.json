@@ -31,114 +31,172 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Patricia Rooney Mara was born and raised in Bedford, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "We have a lot of clues at to what Mara's religion could be, but no smoking gun. We know she was definitely raised in a somewhat religious family, and I'm going to guess they were Catholics."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://movies.yahoo.com/person/kate-mara/biography.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "We know the Mara family is Christian of some sort because they went to church and then a football game every Sunday.",
       "sourceTitle": "Kate Mara Biography.",
-      "text": "We know the Mara family is Christian of some sort because they went to church and then a football game every Sunday."
+      "sourceUrl": "http://movies.yahoo.com/person/kate-mara/biography.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://globalgrind.com/style/rooney-mara-fashionable-football-royalty-photos",
+      "type": "text",
+      "text": "In one interview, Rooney remembers having to wear \"itchy\" church clothes to the games every week.",
+      "parentId": 3,
       "sourceTitle": "Rooney Mara's Football Family History (PHOTOS).",
-      "text": "In one interview, Rooney remembers having to wear \"itchy\" church clothes to the games every week."
+      "sourceUrl": "http://globalgrind.com/style/rooney-mara-fashionable-football-royalty-photos"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2011/12/20/rooney-mara-talks-christmas_n_1161229.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "I'm guessing they're Catholic because of two things. First, she has 40 cousins.",
       "sourceTitle": "Rooney Mara Talks Christmas Traditions On 'Late Night With Jimmy Fallon.'",
-      "text": "I'm guessing they're Catholic because of two things. First, she has 40 cousins."
+      "sourceUrl": "http://www.huffingtonpost.com/2011/12/20/rooney-mara-talks-christmas_n_1161229.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.catholicworldreport.com/Item/1525/the_blessing_of_big_families.aspx",
+      "type": "text",
+      "text": "I'm not saying that a family that big has to be Catholic–there are plenty of other kinds of families that are big, like Mormons. But the Catholics are definitely known for their tendencies toward prolific procreation.",
+      "parentId": 4,
       "sourceTitle": "The Blessing of Big Families.",
-      "text": "I'm not saying that a family that big has to be Catholic–there are plenty of other kinds of families that are big, like Mormons. But the Catholics are definitely known for their tendencies toward prolific procreation."
+      "sourceUrl": "http://www.catholicworldreport.com/Item/1525/the_blessing_of_big_families.aspx"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "But it's that coupled with the fact that when Mara's father heard she had been nominated for an Academy Award, he felt the need to include God in his celebration. He said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://news.moviefone.com/2012/01/25/rooney-maras-dad-cried-sh_n_1231349.html",
-      "sourceTitle": "Rooney Mara's Dad Cried, Shouted, Prayed When She Earned Oscar Nomination.",
-      "text": "I let out a pretty loud roar. I cried for a while, then went to church and lit a few candles and I drove to work."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I let out a pretty loud roar. I cried for a while, then went to church and lit a few candles and I drove to work.",
+      "sourceTitle": "Rooney Mara's Dad Cried, Shouted, Prayed When She Earned Oscar Nomination.",
+      "sourceUrl": "http://news.moviefone.com/2012/01/25/rooney-maras-dad-cried-sh_n_1231349.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Considering lighting candles is a Catholic tradition, I think it's a pretty safe bet that's where Mara's roots lie. How dedicated she is the church these days however, is definitely up in the air."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Beyond the Partisan"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.geni.com/blog/family-tree-tuesday-rooney-mara-375297.html",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I couldn't find any indication that Mara is involved in partisan politics. She hasn't said anything publicly indicating what her leanings may be. She has some cousins somewhere on the family tree that ran for office as Republicans,",
       "sourceTitle": "Family Tree Tuesday – Rooney Mara.",
-      "text": "I couldn't find any indication that Mara is involved in partisan politics. She hasn't said anything publicly indicating what her leanings may be. She has some cousins somewhere on the family tree that ran for office as Republicans,"
+      "sourceUrl": "http://www.geni.com/blog/family-tree-tuesday-rooney-mara-375297.html"
     },
     {
-      "type": "sentence",
-      "text": "but that doesn't seem close enough to me to say anything about her personal beliefs."
+      "type": "text",
+      "text": "but that doesn't seem close enough to me to say anything about her personal beliefs.",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "text": "She's apparently not real gung-ho about feminism, despite playing the lead role in , who many consider a feminist character. When asked if she considers herself a feminist, she said,"
+      "parentId": 11,
+      "type": "text",
+      "text": "She's apparently not real gung-ho about feminism, despite playing the lead role in"
     },
     {
-      "type": "break"
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "Girl with the Dragon Tattoo"
+    },
+    {
+      "type": "text",
+      "text": ", who many consider a feminist character. When asked if she considers herself a feminist, she said,",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://ncronline.org/blogs/grace-margins/guns-and-poses-violent-women-dominate-movies-month",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "You know, I don't even know really quite what that means. I think I'm more like the character, in that sense. I don't really feel a part of any group or anything like that.",
       "sourceTitle": "Guns and poses: violent women dominate movies this month.",
-      "text": "You know, I don't even know really quite what that means. I think I'm more like the character, in that sense. I don't really feel a part of any group or anything like that."
+      "sourceUrl": "http://ncronline.org/blogs/grace-margins/guns-and-poses-violent-women-dominate-movies-month"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.interviewmagazine.com/film/rooney-mara/#_",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "That could also be an indication that she doesn't affiliate with a political party either. Not being part of a group hasn't stopped her from being active in social work, though. After being disillusioned with non-profit organizations focused more on business than helping people, she started her own called Faces of Kibera which aims to build an orphanage in that suburb of Nairobi, Kenya.",
       "sourceTitle": "Rooney Mara.",
-      "text": "That could also be an indication that she doesn't affiliate with a political party either. Not being part of a group hasn't stopped her from being active in social work, though. After being disillusioned with non-profit organizations focused more on business than helping people, she started her own called Faces of Kibera which aims to build an orphanage in that suburb of Nairobi, Kenya."
+      "sourceUrl": "http://www.interviewmagazine.com/film/rooney-mara/#_"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "So there's no doubt that even if she doesn't belong to a political party or care to express her opinion on any hot political topics, she sounds like she's got some opinions. Maybe we'll hear more from her as her career continues. Keep us updated in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

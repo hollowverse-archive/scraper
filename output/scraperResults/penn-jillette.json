@@ -33,127 +33,196 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Penn Jillette was born and raised in Greenfield, Massachusetts."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=x2INdxjHgU0",
+      "parentId": 2,
+      "type": "text",
+      "text": "Jillette is very outspoken about his beliefs, those being that he has none. He is an atheist, and even a hero to many atheists.",
       "sourceTitle": "Penn's Blasphemy",
-      "text": "Jillette is very outspoken about his beliefs, those being that he has none. He is an atheist, and even a hero to many atheists."
+      "sourceUrl": "http://www.youtube.com/watch?v=x2INdxjHgU0"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.motortrend.com/features/consumer/112_0906_penn_jillette_celebrity_drive/",
+      "type": "text",
+      "text": "He is blatently outspoken about atheism, so much so that even the people driving in the general vicinity of Penn Jillette are exposed to his beliefs, as his many cars are trimmed-out with vanity license plates that say things like \"Atheist,\" \"Godless,\" and \"No God.\"",
+      "parentId": 2,
       "sourceTitle": "Penn Jillette – Magician, Comedian, Host, Author Celebrity Drive",
-      "text": "He is blatently outspoken about atheism, so much so that even the people driving in the general vicinity of Penn Jillette are exposed to his beliefs, as his many cars are trimmed-out with vanity license plates that say things like \"Atheist,\" \"Godless,\" and \"No God.\""
+      "sourceUrl": "http://www.motortrend.com/features/consumer/112_0906_penn_jillette_celebrity_drive/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "In fact, atheism still isn't enough for Jillette, he wants to take it a step further. He says:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://thisibelieve.org/essay/34/",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "[I am] beyond atheism. Atheism is not believing in God … I believe there is no God.",
       "sourceTitle": "There is no God – Penn Jillette",
-      "text": "[I am] beyond atheism. Atheism is not believing in God … I believe there is no God."
+      "sourceUrl": "http://thisibelieve.org/essay/34/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2011/08/16/piers-morgan-penn-jillette-atheism_n_928761.html",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Unlike many famous atheists–Richard Dawkins or Daniel Dennett–who don't like public debates, Jillette is more than happy to have discussions about his non-faith with anyone who will participate. One of his more famous debates was with CNN's Piers Morgan, for example.",
       "sourceTitle": "Piers Morgan, Penn Jillette Debate Religion And Atheism",
-      "text": "Unlike many famous atheists–Richard Dawkins or Daniel Dennett–who don't like public debates, Jillette is more than happy to have discussions about his non-faith with anyone who will participate. One of his more famous debates was with CNN's Piers Morgan, for example."
+      "sourceUrl": "http://www.huffingtonpost.com/2011/08/16/piers-morgan-penn-jillette-atheism_n_928761.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "But as serious as Jillette seems, he is a comedian and is able to be funny about it. For example:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/author/quotes/134143.Penn_Jillette",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Atheism is a religion like not collecting stamps is a hobby.",
       "sourceTitle": "Penn Jillette Quotes (Author of Preacher, Vol. 3)",
-      "text": "Atheism is a religion like not collecting stamps is a hobby."
+      "sourceUrl": "http://www.goodreads.com/author/quotes/134143.Penn_Jillette"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Politics–or maybe no politics is politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Jillette is an outspoken guy. Not only will he offer his opinion on God and religion, he's got something about government in his pocket for you as well. And again, standard definitions simply aren't enough for Jillette."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://reason.com/archives/2008/10/29/whos-getting-your-vote/singlepage",
+      "parentId": 12,
+      "type": "text",
+      "text": "He says he \"always votes Libertarian.\"",
       "sourceTitle": "Who's Getting Your Vote?",
-      "text": "He says he \"always votes Libertarian.\""
+      "sourceUrl": "http://reason.com/archives/2008/10/29/whos-getting-your-vote/singlepage"
     },
     {
-      "type": "sentence",
-      "text": "But it seems that it's only for lack of a more preferred option, which in Jillette's case would be anarcho-capitalism. He says:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But it seems that it's only for lack of a more preferred option, which in Jillette's case would be anarcho-capitalism. He says:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.jewishworldreview.com/0603/steigerwald060303.asp",
-      "sourceTitle": "Bill Steigerwald",
-      "text": "I guess libertarian is a little too much government for me. I tend to be a little more anarcho-capitalist. But I will take libertarianism to get that in place, then work to get that out of place. I see libertarianism as a stepping stone."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I guess libertarian is a little too much government for me. I tend to be a little more anarcho-capitalist. But I will take libertarianism to get that in place, then work to get that out of place. I see libertarianism as a stepping stone.",
+      "sourceTitle": "Bill Steigerwald",
+      "sourceUrl": "http://www.jewishworldreview.com/0603/steigerwald060303.asp"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Jillette feels that society and media have corrupted the human race's view of itself and that people are actually good and responsible enough to totally govern themselves."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "He values personal freedom above anything else. He has spoken out against the War on Drugs because of that, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=iZKrxm8HUmo",
-      "sourceTitle": "Penn & Teller: Bullshit! – Season 2 Episode 4 (Full)",
-      "text": "The issue here is moral and ethical. The issue is freedom. If you live in a free country, you have the right to put anything you want into your own body."
+      "id": 17
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "The issue here is moral and ethical. The issue is freedom. If you live in a free country, you have the right to put anything you want into your own body.",
+      "sourceTitle": "Penn & Teller: Bullshit! – Season 2 Episode 4 (Full)",
+      "sourceUrl": "http://www.youtube.com/watch?v=iZKrxm8HUmo"
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "There is no limit to the issues Jillette will tackle regarding beliefs, governance, society, politics, and philosophy. He is like an Enlightenment thinker in all of his views, as he elevates reason over emotion in all matters."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=fWt2Rir8OQk",
+      "parentId": 20,
+      "type": "text",
+      "text": "Take his stance on global warming (or climate change). Jillette says living a \"green\" life is good and right, because he \"feels\" it to be true, but the fact that there is conflicting evidence and not enough proof in the issue of global warming or human-caused climate change, he feels the need to call \"Bullshit!\"",
       "sourceTitle": "Penn & Teller Discuss the Being Green Episode",
-      "text": "Take his stance on global warming (or climate change). Jillette says living a \"green\" life is good and right, because he \"feels\" it to be true, but the fact that there is conflicting evidence and not enough proof in the issue of global warming or human-caused climate change, he feels the need to call \"Bullshit!\""
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.youtube.com/watch?v=fWt2Rir8OQk"
     }
   ],
   "wikipediaData": {

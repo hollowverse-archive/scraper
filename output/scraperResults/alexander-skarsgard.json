@@ -33,87 +33,138 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Alexander Skarsgård was born and raised in Stockholm, Sweden."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=3Kms6pUKfdg",
+      "parentId": 2,
+      "type": "text",
+      "text": "Skarsgård appears to be an atheist, although I didn't find an instance where he used that word. His father, actor Stellan Skarsgård is an articulate spokesman for the atheist worldview.",
       "sourceTitle": "Stellan Skarsgård on religion (subtitled).",
-      "text": "Skarsgård appears to be an atheist, although I didn't find an instance where he used that word. His father, actor Stellan Skarsgård is an articulate spokesman for the atheist worldview."
+      "sourceUrl": "http://www.youtube.com/watch?v=3Kms6pUKfdg"
     },
     {
-      "type": "sentence",
-      "text": "The younger Skarsgård defended the morality of the secularist when he described his upbringing:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "The younger Skarsgård defended the morality of the secularist when he described his upbringing:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://bullettmedia.com/article/alexander-skarsgard-the-sea-inside/2/",
-      "sourceTitle": "Alexander Skarsgård: The Sea Inside.",
-      "text": "I grew up in a very secular society. I have atheist parents. My morality never came from religion or from scripture, but that doesn't mean I can't have the same values or ethics."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I grew up in a very secular society. I have atheist parents. My morality never came from religion or from scripture, but that doesn't mean I can't have the same values or ethics.",
+      "sourceTitle": "Alexander Skarsgård: The Sea Inside.",
+      "sourceUrl": "http://bullettmedia.com/article/alexander-skarsgard-the-sea-inside/2/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "And when talking about how he was grateful for a successful career, he said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://skarsgardnews.com/?p=7814",
-      "sourceTitle": "Full SVT Alexander Skarsgård Interview Translated.",
-      "text": "I'm not religious, but I thank Mother Earth."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I'm not religious, but I thank Mother Earth.",
+      "sourceTitle": "Full SVT Alexander Skarsgård Interview Translated.",
+      "sourceUrl": "http://skarsgardnews.com/?p=7814"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "So even though he hasn't specifically labelled himself an atheist, that's sure what it sounds like to me."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "A Liberal Swede"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/europe/7978495.stm",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I couldn't find much information from Skarsgård about his political beliefs, but I think it's safe to say that he's fairly liberal by American standards. Swedish politics as a whole tends to be socially left of American politics. For example, they legalized gay marriage back in 2009,",
       "sourceTitle": "Sweden allows same-sex marriage.",
-      "text": "I couldn't find much information from Skarsgård about his political beliefs, but I think it's safe to say that he's fairly liberal by American standards. Swedish politics as a whole tends to be socially left of American politics. For example, they legalized gay marriage back in 2009,"
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/europe/7978495.stm"
     },
     {
-      "type": "sentence",
-      "text": "and they are definitely more liberal with their sexuality. Skarsgård said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and they are definitely more liberal with their sexuality. Skarsgård said,",
+      "parentId": 10
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.out.com/entertainment/television/2011/10/06/alexander-skarsg%C3%A5rd-vs-jonas-%C3%A5kerlund?page=0,2",
-      "sourceTitle": "Alexander Skarsgård vs. Jonas Åkerlund – Page 3.",
-      "text": "[P]arents in the States freak out if their kids see a nipple or a butt cheek, but at the same time they're OK with their kids watching people bash each other's heads in with baseball bats."
+      "id": 11
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "[P]arents in the States freak out if their kids see a nipple or a butt cheek, but at the same time they're OK with their kids watching people bash each other's heads in with baseball bats.",
+      "sourceTitle": "Alexander Skarsgård vs. Jonas Åkerlund – Page 3.",
+      "sourceUrl": "http://www.out.com/entertainment/television/2011/10/06/alexander-skarsg%C3%A5rd-vs-jonas-%C3%A5kerlund?page=0,2"
+    },
+    {
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "And then he continued by saying, \"that's also why we're so liberal and so cool with our sexuality — because we fuck a lot.\" That's not exactly something you would imagine coming out a conservative Republican's mouth."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "I didn't find anything else that would indicate his position on Swedish or American politics, so we'll have to stick with his apparently socially liberal stance for now. Keep us updated in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

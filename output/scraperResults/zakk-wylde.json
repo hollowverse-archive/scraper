@@ -34,119 +34,187 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Zakk Wylde was born in Bayonne, New Jersey and grew up in Jackson, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0943711/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Wylde is of Irish descent",
       "sourceTitle": "Zakk Wylde – Biography",
-      "text": "Wylde is of Irish descent"
+      "sourceUrl": "http://www.imdb.com/name/nm0943711/bio"
     },
     {
-      "type": "sentence",
-      "text": "so naturally, he's a Catholic."
+      "type": "text",
+      "text": "so naturally, he's a Catholic.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ultimate-guitar.com/news/interviews/black_label_society_no_new_studio_album_until_2014.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "It's a bit difficult to imagine a heavy metal rocker of Wylde's caliber being religious–unless it's Satanism or something–but the truth is, Wylde is quite devout. He even takes time to give some of his true-blue Satanist comrades a hard time, particularly Kerry King of Slayer.",
       "sourceTitle": "Black Label Society: No New Studio Album Until 2014",
-      "text": "It's a bit difficult to imagine a heavy metal rocker of Wylde's caliber being religious–unless it's Satanism or something–but the truth is, Wylde is quite devout. He even takes time to give some of his true-blue Satanist comrades a hard time, particularly Kerry King of Slayer."
+      "sourceUrl": "http://www.ultimate-guitar.com/news/interviews/black_label_society_no_new_studio_album_until_2014.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "It seems that Wylde attends church regularly, even when on tour. Once, a journalist caught him on some random day and asked him about his religious views. Wylde responded:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.billboard.com/articles/news/487416/zakk-wylde-it-would-be-an-honor-to-play-with-pantera",
-      "sourceTitle": "Zakk Wylde: 'It Would Be An Honor' To Play With Pantera",
-      "text": "I just went to Mass yesterday. If we're on the road and I see a church, I'll just go in there and say some prayers."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I just went to Mass yesterday. If we're on the road and I see a church, I'll just go in there and say some prayers.",
+      "sourceTitle": "Zakk Wylde: 'It Would Be An Honor' To Play With Pantera",
+      "sourceUrl": "http://www.billboard.com/articles/news/487416/zakk-wylde-it-would-be-an-honor-to-play-with-pantera"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "And Wylde seems to think his career in the spotlight is some kind of mandate from God. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.theaureview.com/interviews/the-au-interview-zakk-wylde-of-black-label-society-los-angeles-ca",
-      "sourceTitle": "Zakk Wylde of Black Label Society",
-      "text": "I'm a soldier of Christ, man. Without a doubt. The bottom line is that He's with me all the time."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I'm a soldier of Christ, man. Without a doubt. The bottom line is that He's with me all the time.",
+      "sourceTitle": "Zakk Wylde of Black Label Society",
+      "sourceUrl": "http://www.theaureview.com/interviews/the-au-interview-zakk-wylde-of-black-label-society-los-angeles-ca"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "I would have rather he said he was shredding for Jesus, or melting faces for Christ, but that'll do."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "heading",
+      "parentId": 11,
+      "type": "text",
       "text": "Metal and War"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.avclub.com/artists/black-label-society,32303/",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Wylde hasn't explicitly come out with any political preference–at least in terms of parties or candidates. But he is widely considered to be a Republican, or at least in sync with Republican ideals.",
       "sourceTitle": "Black Label Society",
-      "text": "Wylde hasn't explicitly come out with any political preference–at least in terms of parties or candidates. But he is widely considered to be a Republican, or at least in sync with Republican ideals."
+      "sourceUrl": "http://www.avclub.com/artists/black-label-society,32303/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "The only reason I can find that might suggest that this is true is his views on the Iraq War and President George W. Bush. Once, at a concert, Wylde said to the crowd:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://thegreyfalcon.wordpress.com/2010/03/07/zakk-wylde-is-one-man-is-the-music-business-that-loves-america/",
-      "sourceTitle": "Zakk Wylde is One Man in the Music Business That Loves America",
-      "text": "[The enemy is] down with the Devil, well that's great because we are down with God, and we will kick your ass!"
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "[The enemy is] down with the Devil, well that's great because we are down with God, and we will kick your ass!",
+      "sourceTitle": "Zakk Wylde is One Man in the Music Business That Loves America",
+      "sourceUrl": "http://thegreyfalcon.wordpress.com/2010/03/07/zakk-wylde-is-one-man-is-the-music-business-that-loves-america/"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "And in the early 2000's, when some artists were catching criticism for speaking out against the war and Bush, Wylde tossed in his two cents:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.blabbermouth.net/news.aspx?mode=Article&newsitemID=11848",
-      "sourceTitle": "Zakk Wylde: No American Should Speak Out Against Our President During A Time of War",
-      "text": "I mean, you don't talk out against our government. I can't stand these fuckers that complain about our government. I mean, if you don't like it so much, move the fuck out… You don't speak out against our president during a time of war. You just don't do that."
+      "id": 17
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I mean, you don't talk out against our government. I can't stand these fuckers that complain about our government. I mean, if you don't like it so much, move the fuck out… You don't speak out against our president during a time of war. You just don't do that.",
+      "sourceTitle": "Zakk Wylde: No American Should Speak Out Against Our President During A Time of War",
+      "sourceUrl": "http://www.blabbermouth.net/news.aspx?mode=Article&newsitemID=11848"
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "That's cool, we'll just scrap the First Amendment. Who needs it anyway?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "So, put it all together, you've got a pro-Iraq War Catholic, connecting the enemy to the Devil and U.S. forces to God. Plus, he doesn't like that people would protest war or government policy. Sounds pretty religious right-wing to me. What do y'all think?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

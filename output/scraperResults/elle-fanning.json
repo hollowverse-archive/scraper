@@ -32,83 +32,135 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Elle Fanning, whose real name is Mary Elle Fanning, was born in Conyers, Georgia and grew up there and in Hollywood, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm1102577/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Fanning is a Southern Baptists. Her entire family is.",
       "sourceTitle": "Elle Fanning – Biography",
-      "text": "Fanning is a Southern Baptists. Her entire family is."
+      "sourceUrl": "http://www.imdb.com/name/nm1102577/bio"
     },
     {
-      "type": "sentence",
-      "text": "Her famous sister, Dakota, once said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Her famous sister, Dakota, once said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://web.archive.org/web/20070928040334/http://www.lifeteen.com/default.aspx?PageID=FEATUREDETAIL&__DocumentId=106317&__ArticleIndex=0",
-      "sourceTitle": "Interview: Dakota Fanning",
-      "text": "I am a Southern Baptist, and I grew up in the south, so every Sunday I went to Sunday school. So I've grown up in a family where that's really important."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I am a Southern Baptist, and I grew up in the south, so every Sunday I went to Sunday school. So I've grown up in a family where that's really important.",
+      "sourceTitle": "Interview: Dakota Fanning",
+      "sourceUrl": "http://web.archive.org/web/20070928040334/http://www.lifeteen.com/default.aspx?PageID=FEATUREDETAIL&__DocumentId=106317&__ArticleIndex=0"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "It seems that being a Baptist is a family affair. Elle herself hasn't said anything about it, though she has mentioned how her family keeps her grounded in the rough and tumble world of young fame. When asked about if she ever worries about going child-star crazy, she said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/culture/8635104/Elle-Fanning-Is-this-the-face-of-a-future-Oscar-winner.html",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I feel like there's people in my life that would never let that happen. Also my family. You have to have a life outside of movies as well. I have.",
       "sourceTitle": "Elle Fanning: Is this the face of a future Oscar winner",
-      "text": "I feel like there's people in my life that would never let that happen. Also my family. You have to have a life outside of movies as well. I have."
+      "sourceUrl": "http://www.telegraph.co.uk/culture/8635104/Elle-Fanning-Is-this-the-face-of-a-future-Oscar-winner.html"
     },
     {
-      "type": "sentence",
-      "text": "It's barely worth mentioning, but Elle has drawn the ire of some for doing a vaguely sexual perfume advertisement at such a young age. Here's the . It seems sort of up for interpretation, but not really surprising. Morals and money don't always agree."
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "text",
+      "text": "It's barely worth mentioning, but Elle has drawn the ire of some for doing a vaguely sexual perfume advertisement at such a young age. Here's the"
+    },
+    {
+      "parentId": 8,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.businessinsider.com/14-year-old-elle-fannings-lolita-ad-2012-9"
+    },
+    {
+      "type": "text",
+      "text": ". It seems sort of up for interpretation, but not really surprising. Morals and money don't always agree.",
+      "parentId": 8
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Politics? Like, no."
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Elle won't even be able to vote until 2016, so a discussion of her political views seems rather silly. I'm a firm believer in informed voting, and a young teenager can only be so informed, even the smart ones."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2226294/Halloween-2012-Elle-Fanning-pays-homage-New-Yorks-Statue-Liberty.html",
+      "parentId": 11,
+      "type": "text",
+      "text": "However, there's really nothing to report. Elle hasn't taken a stance on anything. Perhaps her Statue of Liberty Halloween costume indicates some sort of patriotism.",
       "sourceTitle": "Halloween 2012: Elle Fanning pays homage to New York's Statue of Liberty",
-      "text": "However, there's really nothing to report. Elle hasn't taken a stance on anything. Perhaps her Statue of Liberty Halloween costume indicates some sort of patriotism."
+      "sourceUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2226294/Halloween-2012-Elle-Fanning-pays-homage-New-Yorks-Statue-Liberty.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.crushable.com/2009/01/19/entertainment/dakota-fanning-hayden-panettiere-give-pledge-to-support-obama/",
+      "parentId": 12,
+      "type": "text",
+      "text": "We do know that the elder Fanning, Dakota, is all about Obama",
       "sourceTitle": "Dakota Fanning & Hayden Panettiere Give Pledge To Support Obama",
-      "text": "We do know that the elder Fanning, Dakota, is all about Obama"
+      "sourceUrl": "http://www.crushable.com/2009/01/19/entertainment/dakota-fanning-hayden-panettiere-give-pledge-to-support-obama/"
     },
     {
-      "type": "sentence",
-      "text": "and Elle seems to be largely following in her big sister's footsteps, so perhaps we can assume she would be a Democrat if she was a bit older. Keep us updated in the comments fans."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and Elle seems to be largely following in her big sister's footsteps, so perhaps we can assume she would be a Democrat if she was a bit older. Keep us updated in the comments fans.",
+      "parentId": 12
     }
   ],
   "wikipediaData": {

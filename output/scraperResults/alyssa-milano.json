@@ -35,166 +35,294 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Alyssa Milano was born in Brooklyn, New York and grew up in Staten Island, New York."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.geocities.com/hollywood/4616/us0699.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Milano was raised a Roman Catholic, but with a bit of flair. Apparently her parents were Woodstock-attending hippies, but their traditional, institutional faith was still very important to them.",
       "sourceTitle": "Witch on Heels",
-      "text": "Milano was raised a Roman Catholic, but with a bit of flair. Apparently her parents were Woodstock-attending hippies, but their traditional, institutional faith was still very important to them."
+      "sourceUrl": "http://www.geocities.com/hollywood/4616/us0699.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "It's difficult to tell if Milano is a devout Catholic in adulthood, but she's certainly still a person who values faith. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/quotes/30229-for-me-there-is-no-hope-without-faith-faith-is",
-      "sourceTitle": "Quote by Alyssa Milano",
-      "text": "For me, there is no hope without faith. Faith is a higher good. Faith in our divinity."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "For me, there is no hope without faith. Faith is a higher good. Faith in our divinity.",
+      "sourceTitle": "Quote by Alyssa Milano",
+      "sourceUrl": "http://www.goodreads.com/quotes/30229-for-me-there-is-no-hope-without-faith-faith-is"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "And when she was excited about her pregnancy, she tweeted:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://thestir.cafemom.com/pregnancy/121722/Alyssa_Milano_Sees_Pregnancy_as",
-      "sourceTitle": "Alyssa Milano Sees Pregnancy as Proof of God",
-      "text": "I love feeling my baby move in my belly. I kind of feel like it's proof that there is a God. Beautiful!"
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I love feeling my baby move in my belly. I kind of feel like it's proof that there is a God. Beautiful!",
+      "sourceTitle": "Alyssa Milano Sees Pregnancy as Proof of God",
+      "sourceUrl": "http://thestir.cafemom.com/pregnancy/121722/Alyssa_Milano_Sees_Pregnancy_as"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "But it's not all Mass, Communion and Confession, stone-faced ministers and giant cathedrals for Milano, who seems to hold mystical, fairy tale creatures in high regard. She once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/alyssa_milano.html",
-      "sourceTitle": "Alyssa Milano Quotes",
-      "text": "I've always believed in experiencing everything in life. When you walk out with blinders on, you cut yourself off from the angels and the fairies."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I've always believed in experiencing everything in life. When you walk out with blinders on, you cut yourself off from the angels and the fairies.",
+      "sourceTitle": "Alyssa Milano Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/alyssa_milano.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "I suppose that's the hippie side of her upbringing coming out."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 13
     },
     {
-      "type": "heading",
+      "parentId": 13,
+      "type": "text",
       "text": "Charmed politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "What we've got here is a good 'ol fashioned Hollywood liberal Democrat. Let's start with Obama, shall we?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/fec/bystate_detail.php?st=&zip=91367&last=Milano&first=Alyssa",
+      "parentId": 15,
+      "type": "text",
+      "text": "Of the $4,350 Milano has directly donated to politicians in her lifetime–"
+    },
+    {
+      "parentId": 15,
+      "type": "emphasis",
+      "text": "all"
+    },
+    {
+      "type": "text",
+      "text": "of it went to Obama.",
+      "parentId": 15,
       "sourceTitle": "Alyssa Milano's Federal Campaign Contribution Search Results",
-      "text": "Of the $4,350 Milano has directly donated to politicians in her lifetime–of it went to Obama."
+      "sourceUrl": "http://www.newsmeat.com/fec/bystate_detail.php?st=&zip=91367&last=Milano&first=Alyssa"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/Alyssa_Milano/status/65883117549912064",
+      "type": "text",
+      "text": "On Twitter, Milano defended Obama's controversial decision to not release photos of a dead Osama bin Laden.",
+      "parentId": 15,
       "sourceTitle": "Alyssa_Milano: Obama has decided not to release…",
-      "text": "On Twitter, Milano defended Obama's controversial decision to not release photos of a dead Osama bin Laden."
+      "sourceUrl": "https://twitter.com/Alyssa_Milano/status/65883117549912064"
     },
     {
-      "type": "sentence",
-      "text": "And, Milano appeared in a widely-circulated, celebrity-stuffed  in which she and her cohorts \"pledged\" undying allegiance to the new president."
+      "type": "text",
+      "text": "And, Milano appeared in a widely-circulated, celebrity-stuffed",
+      "parentId": 15
     },
     {
-      "type": "break"
+      "parentId": 15,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.huffingtonpost.com/2009/01/19/celebrity-packed-pledge-f_n_159046.html"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": "in which she and her cohorts \"pledged\" undying allegiance to the new president.",
+      "parentId": 15
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "But, displaying the ability to think for herself, Milano was actually a bit critical of the president during a 2010 interview. When asked if she had one question to ask to the president, what would it be, she answered:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://thehill.com/capital-living/my-5-minutes-with-the-president/258283-alyssa-milano",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "What do you think about LeBron's move, and your obsession with it? What does it say"
+    },
+    {
+      "parentId": 18,
+      "type": "link",
+      "text": "about us",
+      "sourceUrl": "http://hollowverse.com/about/"
+    },
+    {
+      "type": "text",
+      "text": "as a society?",
+      "parentId": 18,
       "sourceTitle": "Alyssa Milano",
-      "text": "What do you think about LeBron's move, and your obsession with it? What does it say  as a society?"
+      "sourceUrl": "http://thehill.com/capital-living/my-5-minutes-with-the-president/258283-alyssa-milano"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thehill.com/capital-living/my-5-minutes-with-the-president/258283-alyssa-milano",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "She also pleaded with Obama to \"Be the guy I elected into office.\"",
       "sourceTitle": "Alyssa Milano",
-      "text": "She also pleaded with Obama to \"Be the guy I elected into office.\""
+      "sourceUrl": "http://thehill.com/capital-living/my-5-minutes-with-the-president/258283-alyssa-milano"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "Uh-oh, trouble in paradise…"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "sentence",
+      "parentId": 21,
+      "type": "text",
       "text": "Beyond that, Milano supports all the traditional liberal institutions–gay marriage and animal rights for example. Of gay marriage, she said it was \"inhumane\" that gay couples were not allowed to marry and added:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.ourscenetv.com/main/show/id/454",
-      "sourceTitle": "Kathy Griffin, Alyssa Milano at the Do Something Awards",
-      "text": "It's not really a political issue, it's a human issue."
+      "id": 22
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 23,
+      "parentId": 22
+    },
+    {
+      "parentId": 23,
+      "type": "text",
+      "text": "It's not really a political issue, it's a human issue.",
+      "sourceTitle": "Kathy Griffin, Alyssa Milano at the Do Something Awards",
+      "sourceUrl": "http://www.ourscenetv.com/main/show/id/454"
+    },
+    {
+      "type": "paragraph",
+      "id": 24
+    },
+    {
+      "parentId": 24,
+      "type": "text",
       "text": "A vegetarian, Milano has been a longtime supporter of PETA. Appearing in an ad wearing a vegetable dress, Milano encouraged us to go vegetarian–for the animals:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://secure.peta.org/site/Advocacy?cmd=display&page=UserAction&id=1987",
+      "id": 25
+    },
+    {
+      "type": "paragraph",
+      "id": 26,
+      "parentId": 25
+    },
+    {
+      "parentId": 26,
+      "type": "text",
+      "text": "The world has so much suffering in it already. Choosing to be vegetarian is one thing you can do to reduce the suffering on a daily basis.",
       "sourceTitle": "Alyssa Milano's Sexy Veggie Ad",
-      "text": "The world has so much suffering in it already. Choosing to be vegetarian is one thing you can do to reduce the suffering on a daily basis."
+      "sourceUrl": "https://secure.peta.org/site/Advocacy?cmd=display&page=UserAction&id=1987"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.unicef.org/montenegro/media_14563.html",
+      "type": "paragraph",
+      "id": 27
+    },
+    {
+      "parentId": 27,
+      "type": "text",
+      "text": "But don't let all this partisan poppycock distract you from Milano's real passion. She's a UN Goodwill Ambassador",
       "sourceTitle": "UNICEF Goodwill Ambassador Alyssa Milano calls for action to alleviate child poverty in Kosovo",
-      "text": "But don't let all this partisan poppycock distract you from Milano's real passion. She's a UN Goodwill Ambassador"
+      "sourceUrl": "http://www.unicef.org/montenegro/media_14563.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/alyssa-milano/the-threat-of-neglected-t_b_66852.html",
+      "type": "text",
+      "text": "whose main focus is helping to alleviate the suffering from Tropical and third-world diseases.",
+      "parentId": 27,
       "sourceTitle": "Alyssa Milano: The Threat of Neglected Tropical Diseases",
-      "text": "whose main focus is helping to alleviate the suffering from Tropical and third-world diseases."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.huffingtonpost.com/alyssa-milano/the-threat-of-neglected-t_b_66852.html"
     }
   ],
   "wikipediaData": {

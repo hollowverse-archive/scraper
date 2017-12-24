@@ -32,155 +32,251 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Mario Lopez was born in San Diego, California and raised just outside of San Diego in Chula Vista, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Lopez was raised, and remains, a devout Catholic. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.okmagazine.com/news/ok-exclusive-pic-mario-lopez-his-bundle-joy",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I come from a big, loud Mexican Catholic family.",
       "sourceTitle": "Exclusive Pic: Mario Lopez & His Bundle of Joy",
-      "text": "I come from a big, loud Mexican Catholic family."
+      "sourceUrl": "http://www.okmagazine.com/news/ok-exclusive-pic-mario-lopez-his-bundle-joy"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thedailybeast.com/newsweek/blogs/pop-vox/2009/10/14/q-amp-a-mario-lopez-suits-up-in-women-s-lingerie.html",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "He is still devoted to his church to this day, attending Mass every week",
       "sourceTitle": "Q&A Mario Lopez Suites Up in Women's Lingerie",
-      "text": "He is still devoted to his church to this day, attending Mass every week"
+      "sourceUrl": "http://www.thedailybeast.com/newsweek/blogs/pop-vox/2009/10/14/q-amp-a-mario-lopez-suits-up-in-women-s-lingerie.html"
     },
     {
-      "type": "sentence",
-      "text": "and posting things on his Twitter page like:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and posting things on his Twitter page like:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/MarioLopezExtra",
-      "sourceTitle": "Mario Lopez (MarioLopezExtra) on Twitter.",
-      "text": "I woke up and the Pope quit?! 600 years since the last one quit… What's going on at the Vatican?? During a Holy time too… #Catholic"
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I woke up and the Pope quit?! 600 years since the last one quit… What's going on at the Vatican?? During a Holy time too… #Catholic",
+      "sourceTitle": "Mario Lopez (MarioLopezExtra) on Twitter.",
+      "sourceUrl": "https://twitter.com/MarioLopezExtra"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "And:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/MarioLopezExtra",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Worrying is wasting energy on the things you can't control. Leave everything in God's hands. Think less, pray more… #SpiritualSundays",
       "sourceTitle": "Mario Lopez (MarioLopezExtra) on Twitter.",
-      "text": "Worrying is wasting energy on the things you can't control. Leave everything in God's hands. Think less, pray more… #SpiritualSundays"
+      "sourceUrl": "https://twitter.com/MarioLopezExtra"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.eonline.com/news/367705/they-do-mario-lopez-marries-courtney-mazza",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Furthermore, both of Lopez' weddings were Catholic in nature,",
       "sourceTitle": "They Do! Mario Lopez Marries Courtney Mazza",
-      "text": "Furthermore, both of Lopez' weddings were Catholic in nature,"
+      "sourceUrl": "http://www.eonline.com/news/367705/they-do-mario-lopez-marries-courtney-mazza"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.people.com/people/article/0,,636482,00.html",
+      "type": "text",
+      "text": "though his first to actress/model Ali Landry ended after two weeks when Lopez was caught and called out for infidelity.",
+      "parentId": 11,
       "sourceTitle": "Landry, Lopez Split After 2-week Marriage",
-      "text": "though his first to actress/model Ali Landry ended after two weeks when Lopez was caught and called out for infidelity."
+      "sourceUrl": "http://www.people.com/people/article/0,,636482,00.html"
     },
     {
-      "type": "sentence",
-      "text": "So, he's still, shall we say, a man of the flesh."
+      "type": "text",
+      "text": "So, he's still, shall we say, a man of the flesh.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Lopez might consider himself a progressive Catholic. It's not somethings he's confirmed as far as I can tell, but based on the following tweet, he's clearly open to revising some old Catholic traditions:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/MarioLopezExtra",
-      "sourceTitle": "Mario Lopez (MarioLopezExtra) on Twitter.",
-      "text": "Prominent voice calling for a revisit of women's role in Catholic Church & celibacy among priests. What do u think?"
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Prominent voice calling for a revisit of women's role in Catholic Church & celibacy among priests. What do u think?",
+      "sourceTitle": "Mario Lopez (MarioLopezExtra) on Twitter.",
+      "sourceUrl": "https://twitter.com/MarioLopezExtra"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Well… thanks for asking, Mario. I think it sounds like a lovely idea!"
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 16
     },
     {
-      "type": "heading",
+      "parentId": 16,
+      "type": "text",
       "text": "Political conjecture"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Lopez is a journalist, of sorts. As such, he's done a fairly decent job of keeping his political views private. There are a few clues, however they might be interpreted as contradictory."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.datalounge.com/cgi-bin/iowa/ajax.html?t=9330946#page:showThread,9330946",
+      "parentId": 18,
+      "type": "text",
+      "text": "For example, Lopez appeared on conservative and former presidential candidate Mike Huckabee's Fox News show, where he spoke about the importance of family values. It has some spectators speculating that he's a bit conservative.",
       "sourceTitle": "Mario Lopez interviewed by Mike Huckabee",
-      "text": "For example, Lopez appeared on conservative and former presidential candidate Mike Huckabee's Fox News show, where he spoke about the importance of family values. It has some spectators speculating that he's a bit conservative."
+      "sourceUrl": "http://www.datalounge.com/cgi-bin/iowa/ajax.html?t=9330946#page:showThread,9330946"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
+      "parentId": 19,
+      "type": "text",
       "text": "Furthermore, when Lopez interviewed Obama during the 2008 presidential campaign, he asked:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.extratv.com/2009/01/20/marios-obama-interview-all-of-it/",
-      "sourceTitle": "Mario's Obama Interview–All Of It!",
-      "text": "Senator [Obama], many voters in the Latino community have conservative values. Why should we vote for you?"
+      "id": 20
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "Senator [Obama], many voters in the Latino community have conservative values. Why should we vote for you?",
+      "sourceTitle": "Mario's Obama Interview–All Of It!",
+      "sourceUrl": "http://www.extratv.com/2009/01/20/marios-obama-interview-all-of-it/"
+    },
+    {
+      "type": "paragraph",
+      "id": 22
+    },
+    {
+      "parentId": 22,
+      "type": "text",
       "text": "Notice the use of the pronoun, \"we,\" which could be \"we conservatives\" or \"we Latinos\"–hard to say."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 23
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://staree.com/mariolopez/134195799687093",
+      "parentId": 23,
+      "type": "text",
+      "text": "However, watch the"
+    },
+    {
+      "parentId": 23,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.extratv.com/2009/01/20/marios-obama-interview-all-of-it/"
+    },
+    {
+      "type": "text",
+      "text": "of Lopez interviewing Obama, Lopez is almost exploding with excitement and gratitude. Plus, Lopez looked pleased to mention that he talked politics with Piers Morgan,",
+      "parentId": 23,
       "sourceTitle": "Mario Lopez",
-      "text": "However, watch the  of Lopez interviewing Obama, Lopez is almost exploding with excitement and gratitude. Plus, Lopez looked pleased to mention that he talked politics with Piers Morgan,"
+      "sourceUrl": "https://staree.com/mariolopez/134195799687093"
     },
     {
-      "type": "sentence",
-      "text": "who's often considered to be quite liberal."
+      "type": "text",
+      "text": "who's often considered to be quite liberal.",
+      "parentId": 23
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 24
     },
     {
-      "type": "sentence",
+      "parentId": 24,
+      "type": "text",
       "text": "So, given the conflicting evidence, we're going to have to call Lopez non-political, though that seems a bit unfair–he's just good at staying non-partisan."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

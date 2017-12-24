@@ -36,140 +36,237 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Edgar Allan Poe was born in Boston, Massachusetts and grew up in Richmond, Virginia, and London, England. He died at the age of 40 of unknown causes after being discovered delirious on the streets of Baltimore, Maryland."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "First of all, if you heard Poe was an atheist, you heard wrong. Maybe you saw this quote on a meme:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/e/edgar_allan_poe.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "All religion, my friend, is simply evolved out of fraud, fear, greed, imagination, and poetry.",
       "sourceTitle": "Edgar Allan Poe Quotes.",
-      "text": "All religion, my friend, is simply evolved out of fraud, fear, greed, imagination, and poetry."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/e/edgar_allan_poe.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.online-literature.com/forums/showthread.php?t=17785",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I hate to break it to you atheist Poe fans but, according to scholars, he didn't say it.",
       "sourceTitle": "Poe on religion.",
-      "text": "I hate to break it to you atheist Poe fans but, according to scholars, he didn't say it."
+      "sourceUrl": "http://www.online-literature.com/forums/showthread.php?t=17785"
     },
     {
-      "type": "sentence",
-      "text": "It turns out religion was a big part of Poe's life and philosophy."
+      "type": "text",
+      "text": "It turns out religion was a big part of Poe's life and philosophy.",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.eapoe.org/geninfo/poerelig.htm",
+      "parentId": 6,
+      "type": "text",
+      "text": "Poe's foster mother–his father disappeared and his mother died when he was very young–had him baptized when he was nearly three-years-old by the Episcopal church, and he continued to go to church throughout his youth. It also appears that he went at least occasionally in adulthood.",
       "sourceTitle": "Edgar Allan Poe and Religion.",
-      "text": "Poe's foster mother–his father disappeared and his mother died when he was very young–had him baptized when he was nearly three-years-old by the Episcopal church, and he continued to go to church throughout his youth. It also appears that he went at least occasionally in adulthood."
+      "sourceUrl": "http://www.eapoe.org/geninfo/poerelig.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.eapoe.org/geninfo/poerelig.htm",
+      "type": "text",
+      "text": "This religious background is revealed in his poems and short stories, which often allude to and quote the bible.",
+      "parentId": 6,
       "sourceTitle": "Edgar Allan Poe and Religion.",
-      "text": "This religious background is revealed in his poems and short stories, which often allude to and quote the bible."
+      "sourceUrl": "http://www.eapoe.org/geninfo/poerelig.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.eapoe.org/geninfo/poerelig.htm",
+      "parentId": 7,
+      "type": "text",
+      "text": "But that doesn't mean he was right in line with all the teachings of the Episcopal church. As Poe once said, \"My own faith is indeed my own.\"",
       "sourceTitle": "Edgar Allan Poe and Religion.",
-      "text": "But that doesn't mean he was right in line with all the teachings of the Episcopal church. As Poe once said, \"My own faith is indeed my own.\""
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.eapoe.org/geninfo/poerelig.htm"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "God, Nature, and the Universe"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.poe-eureka.com/articles/our-articles/",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "In"
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "Eureka"
+    },
+    {
+      "type": "text",
+      "text": ", his non-fiction treatise on science and religion, Poe stated that he believed in a Creator who started the universe on its course.",
+      "parentId": 9,
       "sourceTitle": "Articles about Eureka.",
-      "text": "In , his non-fiction treatise on science and religion, Poe stated that he believed in a Creator who started the universe on its course."
+      "sourceUrl": "http://www.poe-eureka.com/articles/our-articles/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.poe-eureka.com/the-eureka-project/",
+      "type": "text",
+      "text": "He rejected the concept that God was \"omnipotent, omniscient,\" and said God and Nature were distinct.",
+      "parentId": 9,
       "sourceTitle": "Eureka.",
-      "text": "He rejected the concept that God was \"omnipotent, omniscient,\" and said God and Nature were distinct."
+      "sourceUrl": "http://www.poe-eureka.com/the-eureka-project/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "That kind of makes him sound like a deist, but only a few sentences later he sounds like a pantheist. He says because God created the universe, the universe is God, everything is God:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 11
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.poe-eureka.com/the-eureka-project/",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "God, self-existing and alone existing, became all things at once, through dint of his volition, while all things were thus constituted a portion of God.",
       "sourceTitle": "Eureka.",
-      "text": "God, self-existing and alone existing, became all things at once, through dint of his volition, while all things were thus constituted a portion of God."
+      "sourceUrl": "http://www.poe-eureka.com/the-eureka-project/"
     },
     {
-      "type": "sentence",
-      "text": "But Poe seemed shocked that people would interpret  as un-Christian. Responding to this criticism, Poe wrote:"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "break"
+      "parentId": 13,
+      "type": "text",
+      "text": "But Poe seemed shocked that people would interpret"
+    },
+    {
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "Eureka"
+    },
+    {
+      "type": "text",
+      "text": "as un-Christian. Responding to this criticism, Poe wrote:",
+      "parentId": 13
     },
     {
       "type": "quote",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Were these 'misrepresentations' . . . made for any less serious a purpose than that of branding my book as 'impious' and myself as a 'pantheist,' a 'polytheist,' a Pagan, or a God knows what . . . I would have permitted their dishonesty to pass unnoticed. . ."
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "And so it seems that even though Poe recognized that his faith was his own, he also considered himself a Christian."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 17
     },
     {
-      "type": "heading",
+      "parentId": 17,
+      "type": "text",
       "text": "Racial Politics in the Antebellum South"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://docsouth.unc.edu/southlit/poe/bio.html",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Poe largely distanced himself from the politics of the day. He grew up in the antebellum south, but didn't spend his time defending slavery or the cotton culture.",
       "sourceTitle": "Edgar Allan Poe, 1809-1849.",
-      "text": "Poe largely distanced himself from the politics of the day. He grew up in the antebellum south, but didn't spend his time defending slavery or the cotton culture."
+      "sourceUrl": "http://docsouth.unc.edu/southlit/poe/bio.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 19
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.deathandtaxesmag.com/34372/edgar-allan-poes-true-horror-racism/",
+      "parentId": 19,
+      "type": "text",
+      "text": "He did, however, seem just as committed to the inferiority of non-whites as any other white American at the time. His novel"
+    },
+    {
+      "parentId": 19,
+      "type": "emphasis",
+      "text": "The Narrative of Arthur Gordon Pym"
+    },
+    {
+      "type": "text",
+      "text": "paints a horrific picture of the depth of his racism, telling the story of a violent mutiny of black sailors involving, among other things, cannibalism–and then another violent encounter with a group of island native \"wretches.\"",
+      "parentId": 19,
       "sourceTitle": "Edgar Allan Poe's True Horror: Racism.",
-      "text": "He did, however, seem just as committed to the inferiority of non-whites as any other white American at the time. His novel  paints a horrific picture of the depth of his racism, telling the story of a violent mutiny of black sailors involving, among other things, cannibalism–and then another violent encounter with a group of island native \"wretches.\""
+      "sourceUrl": "http://www.deathandtaxesmag.com/34372/edgar-allan-poes-true-horror-racism/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "So while it seems like Poe probably wasn't that interested in abolishing slavery, the fact that he spent most of his life poor means he was probably equally disinterested in defending the Southern aristocracy. I suppose that equals non-political for Poe."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

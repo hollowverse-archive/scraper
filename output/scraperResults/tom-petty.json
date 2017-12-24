@@ -32,116 +32,197 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
+      "parentId": 1,
+      "type": "text",
+      "text": "Tom Petty was born and raised in Gainesville, Florida."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
       "text": "There isn't any mention of Petty's religious upbringing, if there was one, and he doesn't seem at all religious now–unless you count music. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.myspace.com/tompetty",
-      "sourceTitle": "Tom Petty and the Heartbreakers",
-      "text": "I saw Elvis Presley when I was 11. From that point on, music became my religion, my nourishment. It was also a safe haven for me. My life was very turbulent as a child and a little scary, and music made everything seem right."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I saw Elvis Presley when I was 11. From that point on, music became my religion, my nourishment. It was also a safe haven for me. My life was very turbulent as a child and a little scary, and music made everything seem right.",
+      "sourceTitle": "Tom Petty and the Heartbreakers",
+      "sourceUrl": "http://www.myspace.com/tompetty"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Petty seems to take a very laid-back approach to life. Expressing a sort of Buddhist attitude, he once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/t/tom_petty.html",
-      "sourceTitle": "Tom Petty Quotes",
-      "text": "Most things I worry about never happen anyway."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Most things I worry about never happen anyway.",
+      "sourceTitle": "Tom Petty Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/t/tom_petty.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "But beyond that, Petty seems almost totally non-religious. Even the lyrical content of his songs lacks any sort of spiritual bent."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "Politics can be heartbreaking"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Petty isn't too outwardly political either. You get the feeling he's just music, all music. But occasionally, the use of his music has forced him into the political arena–where Petty's views are exposed."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.motherjones.com/mojo/2011/06/tom-petty-against-machine",
+      "parentId": 11,
+      "type": "text",
+      "text": "In 2000, George W. Bush's presidential campaign used Petty's song, \"I Won't Back Down,\" during various campaign events. Petty wasn't happy about it and sent the would-be president a cease-and-desist letter.",
       "sourceTitle": "Tom Petty Against the Machine",
-      "text": "In 2000, George W. Bush's presidential campaign used Petty's song, \"I Won't Back Down,\" during various campaign events. Petty wasn't happy about it and sent the would-be president a cease-and-desist letter."
+      "sourceUrl": "http://www.motherjones.com/mojo/2011/06/tom-petty-against-machine"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thedailybeast.com/articles/2011/06/29/tom-petty-against-michele-bachmann-springsteen-against-ronald-reagan-musicians-vs-politicians.html",
+      "parentId": 12,
+      "type": "text",
+      "text": "In 2008, Republican/Tea Party presidential candidate Michele Bachmann used Petty's song, \"American Girl,\" for campaign purposes and again, he asked her to cease-and-desist.",
       "sourceTitle": "Tom Petty Against Michele Bachmann, Springsteen Against Ronald Reagan: Musicians vs. Politicians",
-      "text": "In 2008, Republican/Tea Party presidential candidate Michele Bachmann used Petty's song, \"American Girl,\" for campaign purposes and again, he asked her to cease-and-desist."
+      "sourceUrl": "http://www.thedailybeast.com/articles/2011/06/29/tom-petty-against-michele-bachmann-springsteen-against-ronald-reagan-musicians-vs-politicians.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Ok, so you might think: 'Petty just doesn't want his music connected to politics.' Well, when Barack Obama and the Democratic National Convention used his song, \"I Won't Back Down,\" in 2012, Petty said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 14
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.ultimate-guitar.com/news/wtf/tom_petty_got_chills_when_democrats_used_his_music.html?no_takeover",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I got chills. They knew it would be okay. I've had a chance to meet the President and talk to him about the music he listens to.",
       "sourceTitle": "Tom Petty 'Got Chills' When Democrats Used His Music",
-      "text": "I got chills. They knew it would be okay. I've had a chance to meet the President and talk to him about the music he listens to."
+      "sourceUrl": "http://www.ultimate-guitar.com/news/wtf/tom_petty_got_chills_when_democrats_used_his_music.html?no_takeover"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.cnet.com/2100-1027_3-1012785.html",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Beyond that, Petty seems like sort of a populist, a man of the people. He defended changes in the music industry resulting from the ascension of the Internet when other artists (Metallica in particular)",
       "sourceTitle": "Metallica strikes new Net chord",
-      "text": "Beyond that, Petty seems like sort of a populist, a man of the people. He defended changes in the music industry resulting from the ascension of the Internet when other artists (Metallica in particular)"
+      "sourceUrl": "http://news.cnet.com/2100-1027_3-1012785.html"
     },
     {
-      "type": "sentence",
-      "text": "were up in arms over lost profits. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "were up in arms over lost profits. He said:",
+      "parentId": 16
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/t/tom_petty.html",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "It's funny how the music industry is enraged about the Internet and the way things are copied without being paid for. But you know why people steal the music? Because they can't afford the music.",
       "sourceTitle": "Tom Petty Quotes",
-      "text": "It's funny how the music industry is enraged about the Internet and the way things are copied without being paid for. But you know why people steal the music? Because they can't afford the music."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/t/tom_petty.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://rockhall.com/inductees/tom-petty-and-the-heartbreakers/timeline/",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Petty has rallied against rising prices on his albums as well,",
       "sourceTitle": "Tom Petty and the Heartbreakers",
-      "text": "Petty has rallied against rising prices on his albums as well,"
+      "sourceUrl": "http://rockhall.com/inductees/tom-petty-and-the-heartbreakers/timeline/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=LthLETM5y5E",
+      "type": "text",
+      "text": "and his album,",
+      "parentId": 19
+    },
+    {
+      "parentId": 19,
+      "type": "emphasis",
+      "text": "The Last DJ"
+    },
+    {
+      "type": "text",
+      "text": ", is widely regarded as his most political album where he rails against the entertainment industrial complex.",
+      "parentId": 19,
       "sourceTitle": "Peter Bogdanovich on Tom Petty's politics & music",
-      "text": "and his album, , is widely regarded as his most political album where he rails against the entertainment industrial complex."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.youtube.com/watch?v=LthLETM5y5E"
     }
   ],
   "wikipediaData": {

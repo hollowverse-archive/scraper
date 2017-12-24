@@ -31,63 +31,86 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ryan Lochte was born in Rochester, New York. He was raised in Canandaigua, New York, and in Florida."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.webcitation.org/60fP5rNlY",
+      "parentId": 2,
+      "type": "text",
+      "text": "Lochte appears to be utterly non-religious. If the fact that his mother is Cuban",
       "sourceTitle": "WebCite query result.",
-      "text": "Lochte appears to be utterly non-religious. If the fact that his mother is Cuban"
+      "sourceUrl": "http://www.webcitation.org/60fP5rNlY"
     },
     {
-      "type": "sentence",
-      "text": "makes you think he was raised Catholic, there is no indication that this is the case."
+      "type": "text",
+      "text": "makes you think he was raised Catholic, there is no indication that this is the case.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://videos.nymag.com/video/Ryan-Lochte-Explained#c=2JJQ7F11Y79Q8JR7&t=Ryan%20Lochte:%20Explained",
+      "parentId": 3,
+      "type": "text",
+      "text": "The closest this Olympian gets to spirituality is the media's insistence on calling him a \"free spirit.\"",
       "sourceTitle": "Watch \"Ryan Lochte Explained\" at New York Magazine.\"",
-      "text": "The closest this Olympian gets to spirituality is the media's insistence on calling him a \"free spirit.\""
+      "sourceUrl": "http://videos.nymag.com/video/Ryan-Lochte-Explained#c=2JJQ7F11Y79Q8JR7&t=Ryan%20Lochte:%20Explained"
     },
     {
-      "type": "sentence",
-      "text": "But that seems to have to do more with his fashion sense and weakness for women than anything else."
+      "type": "text",
+      "text": "But that seems to have to do more with his fashion sense and weakness for women than anything else.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=85YfrQn-mFs",
+      "parentId": 4,
+      "type": "text",
+      "text": "Lochte doesn't seem particularly concerned with politics either. He isn't known for his eloquence,",
       "sourceTitle": "SNL (Host: Seth MacFarlane) – Ryan Lochte Skit.",
-      "text": "Lochte doesn't seem particularly concerned with politics either. He isn't known for his eloquence,"
+      "sourceUrl": "http://www.youtube.com/watch?v=85YfrQn-mFs"
     },
     {
-      "type": "sentence",
-      "text": "and he didn't disappoint with his (sort of) endorsement of President Obama during the 2012 election cycle:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and he didn't disappoint with his (sort of) endorsement of President Obama during the 2012 election cycle:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://blogs.wsj.com/metropolis/2012/09/06/weighing-move-to-new-york-city-lochte-talks-politics-at-fashion-week/",
+      "id": 5
+    },
+    {
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I've been going non-stop left and right. I haven't had time to watch the news. I've got to catch up on that. But, you know, Obama did great the past four years, so I'm kind of more leaning towards him. Jeah!",
       "sourceTitle": "Weighing Move to New York, Lochte Talks Politics at Fashion Week.",
-      "text": "I've been going non-stop left and right. I haven't had time to watch the news. I've got to catch up on that. But, you know, Obama did great the past four years, so I'm kind of more leaning towards him. Jeah!"
+      "sourceUrl": "http://blogs.wsj.com/metropolis/2012/09/06/weighing-move-to-new-york-city-lochte-talks-politics-at-fashion-week/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "So religion and politics just aren't Lochte's thing. Those of you who have blogs about fashion, reality shows, and sports might have more fodder. But if he decides to run for congress or goes through a spiritual awakening, make sure to let us know in the comments!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

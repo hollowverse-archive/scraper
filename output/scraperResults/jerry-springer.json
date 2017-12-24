@@ -33,72 +33,120 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thejc.com/arts/arts-interviews/jerry-springer-i-was-a-poor-refugee%E2%80%99",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
+      "text": "Jerry Springer was born in London, England in a subway station as Germans dropped bombs all around him. His parents were German-Jewish refugees who had escaped to England and, by the time Jerry was five years old, had moved to the United States.",
       "sourceTitle": "Jerry Springer: 'I was a poor refugee.'",
-      "text": "Jerry Springer was born in London, England in a subway station as Germans dropped bombs all around him. His parents were German-Jewish refugees who had escaped to England and, by the time Jerry was five years old, had moved to the United States."
+      "sourceUrl": "http://www.thejc.com/arts/arts-interviews/jerry-springer-i-was-a-poor-refugee%E2%80%99"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Many of Springer's relatives were killed by Nazi's, in and out of concentration camps. His grandmother was gassed in a truck in Poland. It's safe to say that the trials and tribulations of the Jewish people hold a special place in Springer's heart–and he is a spiritual man. However, his spiritualism isn't just about being Jewish. Springer expresses certain things that point to a faith-holding agnostics. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.thejc.com/arts/arts-interviews/15740/interview-jerry-springer",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "But I also believe in God, because someone created this wonderful thing that I experience every day. And under any moral code you say thank you. My parents happened to be Jewish so I use Jewish traditions to thank whoever is responsible for it. If I was born to Catholic parents, I would use the Catholic tradition. So I'm not saying Jews have the answer more than Catholics. I don't know. I don't know what it's going to be like after we die.",
       "sourceTitle": "Interview: Jerry Springer",
-      "text": "But I also believe in God, because someone created this wonderful thing that I experience every day. And under any moral code you say thank you. My parents happened to be Jewish so I use Jewish traditions to thank whoever is responsible for it. If I was born to Catholic parents, I would use the Catholic tradition. So I'm not saying Jews have the answer more than Catholics. I don't know. I don't know what it's going to be like after we die."
+      "sourceUrl": "http://www.thejc.com/arts/arts-interviews/15740/interview-jerry-springer"
     },
     {
       "type": "heading",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Reformed politician"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Before becoming the talk show host that we all love (or hate), Springer was a semi-successful politician. He ran for the governor of Ohio (and lost) and lost an election for an Ohio seat in the U.S. Congress, but was a member of the Cincinnati city council and later appointed to the mayor of that city. He's always run as a Democrat and described himself as liberal."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=tzT4dOyCMg0&mode=related&search=",
+      "parentId": 7,
+      "type": "text",
+      "text": "Springer's charisma as a politician was evident. He resigned his post as a city councilman after it became clear that he had purchased a prostitute. But after an honest confession, he won his seat back the next year.",
       "sourceTitle": "Jerry Springer for Governor: a 1980 Campaign ad",
-      "text": "Springer's charisma as a politician was evident. He resigned his post as a city councilman after it became clear that he had purchased a prostitute. But after an honest confession, he won his seat back the next year."
+      "sourceUrl": "http://www.youtube.com/watch?v=tzT4dOyCMg0&mode=related&search="
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usatoday.com/life/people/2006-12-05-springer_x.htm?POE=LIFISVA",
+      "parentId": 8,
+      "type": "text",
+      "text": "Springer hosted a talk-radio show for a year in Cincinnati, which was a very liberal show and was even syndicated into various other Midwest cities.",
       "sourceTitle": "Jerry Springer ends syndicated radio show",
-      "text": "Springer hosted a talk-radio show for a year in Cincinnati, which was a very liberal show and was even syndicated into various other Midwest cities."
+      "sourceUrl": "http://www.usatoday.com/life/people/2006-12-05-springer_x.htm?POE=LIFISVA"
     },
     {
-      "type": "sentence",
-      "text": "His famous daytime talk show, , showed a liberal sort-of patience and tolerance to a wide range of beliefs and viewpoints from transgendered moms to those with feet fetishes."
+      "type": "text",
+      "text": "His famous daytime talk show,",
+      "parentId": 8
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "The Jerry Springer Show"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": ", showed a liberal sort-of patience and tolerance to a wide range of beliefs and viewpoints from transgendered moms to those with feet fetishes.",
+      "parentId": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Springer is an Obama supporter and has even said Obama's less-than-sympathetic views towards Israel won't affect the Jewish vote for 2012 president. He has said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 10
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.mediaite.com/tv/fox-and-friends-asks-jerry-springer-to-weigh-in-on-obama-losing-the-jewish-vote/",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Overall, American Jews tend to be more progressive, more liberal, so [Obama] will probably still get the vote…I am very happy as an American Jew, and I have family in Israel, I am very happy to support Obama.",
       "sourceTitle": "Jerry Springer: Will Obama Lose the Jewish Vote",
-      "text": "Overall, American Jews tend to be more progressive, more liberal, so [Obama] will probably still get the vote…I am very happy as an American Jew, and I have family in Israel, I am very happy to support Obama."
+      "sourceUrl": "http://www.mediaite.com/tv/fox-and-friends-asks-jerry-springer-to-weigh-in-on-obama-losing-the-jewish-vote/"
     }
   ],
   "wikipediaData": {

@@ -34,125 +34,196 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Nelson Mandela was born in Transkei, South Africa."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pm/Nelson_Mandela.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Mandela is a Christian, though which type specifically is up for debate.",
       "sourceTitle": "The religion of Nelson Mandela, Nobel Peace Prize Winner",
-      "text": "Mandela is a Christian, though which type specifically is up for debate."
+      "sourceUrl": "http://www.adherents.com/people/pm/Nelson_Mandela.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://africanhistory.about.com/od/mandelanelson/a/bio_mandela.htm",
+      "type": "text",
+      "text": "There is reason to believe he leans toward Jehovah's Witness given the fact that his first wife, sister, and a few of his other relatives claim that faith. Then again, he did attend a Methodist Church school growing up, like his mother.",
+      "parentId": 2,
       "sourceTitle": "Biography: Nelson Rolihlahla Mandela",
-      "text": "There is reason to believe he leans toward Jehovah's Witness given the fact that his first wife, sister, and a few of his other relatives claim that faith. Then again, he did attend a Methodist Church school growing up, like his mother."
+      "sourceUrl": "http://africanhistory.about.com/od/mandelanelson/a/bio_mandela.htm"
     },
     {
-      "type": "sentence",
-      "text": "But unless it's about religious equality, faith isn't something Mandela has spoken much about."
+      "type": "text",
+      "text": "But unless it's about religious equality, faith isn't something Mandela has spoken much about.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Mandela recognized that religion is a great divider of peoples, and he envisioned a world where acceptance and tolerance outweighed the alternatives. He once said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.notable-quotes.com/m/mandela_nelson.html",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "No one is born hating another person because of the color of his skin, or his background, or his religion. People must learn to hate, and if they can learn to hate, they can be taught to love, for love comes more naturally to the human heart than its opposite.",
       "sourceTitle": "Nelson Mandela Quotes",
-      "text": "No one is born hating another person because of the color of his skin, or his background, or his religion. People must learn to hate, and if they can learn to hate, they can be taught to love, for love comes more naturally to the human heart than its opposite."
+      "sourceUrl": "http://www.notable-quotes.com/m/mandela_nelson.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.careeroverview.com/blog/2010/7-famous-inmates-who-completed-a-degree-from-prison/",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "One gets the sense that Mandela's concerns are more secular, worldly. Having spent a total of 27 years in prison, where many a prisoner turns to religion to get them through, Mandela got a law degree instead.",
       "sourceTitle": "7 Famous Inmates Who Completed a Degree From Prison",
-      "text": "One gets the sense that Mandela's concerns are more secular, worldly. Having spent a total of 27 years in prison, where many a prisoner turns to religion to get them through, Mandela got a law degree instead."
+      "sourceUrl": "http://www.careeroverview.com/blog/2010/7-famous-inmates-who-completed-a-degree-from-prison/"
     },
     {
-      "type": "sentence",
-      "text": "That is not to say, however, that he does not exude spirituality. Mandela often spoke of the strength of the human soul, saying, for example:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "That is not to say, however, that he does not exude spirituality. Mandela often spoke of the strength of the human soul, saying, for example:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.hark.com/clips/xgtywdlgfy-i-am-the-captain-of-my-soul",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I thank whatever gods may be for my uncomfortable soul, I am the master of my faith. I am the captain of my soul.",
       "sourceTitle": "I Am The Captain Of My Soul Sound Clip and Quote",
-      "text": "I thank whatever gods may be for my uncomfortable soul, I am the master of my faith. I am the captain of my soul."
+      "sourceUrl": "http://www.hark.com/clips/xgtywdlgfy-i-am-the-captain-of-my-soul"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Blaxploitation politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newworldencyclopedia.org/entry/Nelson_Mandela#Acclaim",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Mandela is a political hero, with various countries and organizations begging him to speak on their behalf. He won the Nobel Peace Prize in 1993 for his instrumental role in abolishing South African apartheid.",
       "sourceTitle": "Nelson Mandela",
-      "text": "Mandela is a political hero, with various countries and organizations begging him to speak on their behalf. He won the Nobel Peace Prize in 1993 for his instrumental role in abolishing South African apartheid."
+      "sourceUrl": "http://www.newworldencyclopedia.org/entry/Nelson_Mandela#Acclaim"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.bbc.co.uk/news/world-africa-12305154",
+      "type": "text",
+      "text": "And while initially, Mandela drew inspiration from Mahatma Gandhi–in that he wanted a non-violent revolution–he ultimately sanctioned violence among his followers and spent 18 years in prison for it.",
+      "parentId": 11,
       "sourceTitle": "Mandela's Life and Times",
-      "text": "And while initially, Mandela drew inspiration from Mahatma Gandhi–in that he wanted a non-violent revolution–he ultimately sanctioned violence among his followers and spent 18 years in prison for it."
+      "sourceUrl": "http://www.bbc.co.uk/news/world-africa-12305154"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.bbc.co.uk/news/world-africa-12305154",
+      "parentId": 12,
+      "type": "text",
+      "text": "In essence, the state-sanctioned racism of apartheid South Africa and its imperialist British overseers made a democratic idealist out of Mandela. Most jarring for South African blacks were the Pass Laws, dictating where black people could live and work, effectively physically separating the races in that country.",
       "sourceTitle": "Mandela's Life and Times",
-      "text": "In essence, the state-sanctioned racism of apartheid South Africa and its imperialist British overseers made a democratic idealist out of Mandela. Most jarring for South African blacks were the Pass Laws, dictating where black people could live and work, effectively physically separating the races in that country."
+      "sourceUrl": "http://www.bbc.co.uk/news/world-africa-12305154"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Mandela hoped for a South Africa where all races, religions, and peoples were equal in the eyes of the law, democratic, and free. And like most ideologues, Mandela was prepared to die for his cause. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.bbc.co.uk/news/world-africa-12305154",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "I have cherished the ideal of a democratic and free society in which all persons live together in harmony and with equal opportunities. It is an ideal which I hope to live for and to achieve. But if needs be, it is an ideal for which I am prepared to die.",
       "sourceTitle": "Mandela's Life and Times",
-      "text": "I have cherished the ideal of a democratic and free society in which all persons live together in harmony and with equal opportunities. It is an ideal which I hope to live for and to achieve. But if needs be, it is an ideal for which I am prepared to die."
+      "sourceUrl": "http://www.bbc.co.uk/news/world-africa-12305154"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.bbc.co.uk/news/world-africa-12305154",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Mandela was instrumental in emancipating black people from their role as near-indentured servants in South African society. And once all races were allowed to vote in that country, Mandela became the first black president. Throughout his political career, helped other African countries movetoward the same ideal.",
       "sourceTitle": "Mandela's Life and Times",
-      "text": "Mandela was instrumental in emancipating black people from their role as near-indentured servants in South African society. And once all races were allowed to vote in that country, Mandela became the first black president. Throughout his political career, helped other African countries movetoward the same ideal."
+      "sourceUrl": "http://www.bbc.co.uk/news/world-africa-12305154"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
+      "parentId": 17,
+      "type": "text",
       "text": "Now, he has largely retired from public life, won't give many interviews, and only comes out to occasionally condemn North American and European actions in foreign countries,like the U.S. and British involvement in Kosovo and Iraq, of which he said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 18
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.derechos.org/nizkor/iraq/doc/mandela1.html",
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "When two nations take it upon themselves to police the world…without getting the authorization of the United Nations, we must condemn that because it can lead to another world war.",
       "sourceTitle": "Mandela slams Western action in Kosovo, Iraq",
-      "text": "When two nations take it upon themselves to police the world…without getting the authorization of the United Nations, we must condemn that because it can lead to another world war."
+      "sourceUrl": "http://www.derechos.org/nizkor/iraq/doc/mandela1.html"
     }
   ],
   "wikipediaData": {

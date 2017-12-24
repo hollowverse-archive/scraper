@@ -34,89 +34,121 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jim Carrey was born in Newmarket, Ontario, Canada. He became a naturalized U.S. citizen in 2004 but still holds citizenship in Canada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/757/000022691/",
+      "parentId": 2,
+      "type": "text",
+      "text": "He was raised a Catholic but dabbled in Presbyterianism later in life.",
       "sourceTitle": "Jim Carrey",
-      "text": "He was raised a Catholic but dabbled in Presbyterianism later in life."
+      "sourceUrl": "http://www.nndb.com/people/757/000022691/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://spiritlibrary.com/videos/eckhart-tolle/jim-carrey-on-awakening",
+      "type": "text",
+      "text": "Despite his funnyman reputation, one gets the sense when studying Carrey that he's a complex, searching person. He spoke about looking for spiritual answers as a child and being inspired by the Buddha",
+      "parentId": 2,
       "sourceTitle": "Jim Carrey on awakening",
-      "text": "Despite his funnyman reputation, one gets the sense when studying Carrey that he's a complex, searching person. He spoke about looking for spiritual answers as a child and being inspired by the Buddha"
+      "sourceUrl": "http://spiritlibrary.com/videos/eckhart-tolle/jim-carrey-on-awakening"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.chacha.com/question/what-is-jim-carrey%27s-religion",
+      "type": "text",
+      "text": "but has also expressed a distrust of organized religions.",
+      "parentId": 2,
       "sourceTitle": "What is Jim Carrey's Religion?",
-      "text": "but has also expressed a distrust of organized religions."
+      "sourceUrl": "http://www.chacha.com/question/what-is-jim-carrey%27s-religion"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=hbZYuOuvyK4",
+      "parentId": 3,
+      "type": "text",
+      "text": "He's cracked jokes about Scientologists",
       "sourceTitle": "Jim Carrey Mocks Scientology",
-      "text": "He's cracked jokes about Scientologists"
+      "sourceUrl": "http://www.youtube.com/watch?v=hbZYuOuvyK4"
     },
     {
-      "type": "sentence",
-      "text": "and, as of yet, hasn't joined Kabbalah but he did seem to latch onto Oprah's favorite religious non-religion–the cult of Eckhart Tolle."
+      "type": "text",
+      "text": "and, as of yet, hasn't joined Kabbalah but he did seem to latch onto Oprah's favorite religious non-religion–the cult of Eckhart Tolle.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://spiritlibrary.com/videos/eckhart-tolle/jim-carrey-on-awakening",
+      "parentId": 4,
+      "type": "text",
+      "text": "Tolle's New Age somewhat ambiguous, generic spirituality has attracted another celebrity. But Carrey seems like a smart guy, so maybe I'm missing something. He spoke at Tolle's Inaugural GATE Event (Global Alliance for Transformational Entertainment) and seemed very serious about it.",
       "sourceTitle": "Jim Carrey on awakening",
-      "text": "Tolle's New Age somewhat ambiguous, generic spirituality has attracted another celebrity. But Carrey seems like a smart guy, so maybe I'm missing something. He spoke at Tolle's Inaugural GATE Event (Global Alliance for Transformational Entertainment) and seemed very serious about it."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://spiritlibrary.com/videos/eckhart-tolle/jim-carrey-on-awakening"
     },
     {
       "type": "heading",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Outside politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/101-jim-carrey",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Carrey, maybe because he's Canadian, expresses a sense of the political situation outside of the United States–and even North America. He is a pro-democracy advocate and made a video that circulated the internet raising awareness and showing support for Burmese democracy activist Aung San Suu Kyi.",
       "sourceTitle": "Jim Carrey",
-      "text": "Carrey, maybe because he's Canadian, expresses a sense of the political situation outside of the United States–and even North America. He is a pro-democracy advocate and made a video that circulated the internet raising awareness and showing support for Burmese democracy activist Aung San Suu Kyi."
+      "sourceUrl": "http://www.looktothestars.org/celebrity/101-jim-carrey"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
+      "parentId": 7,
+      "type": "text",
       "text": "When asked about the newly-elected Barack Obama in 2008 (who he supports) Carrey's response was mainly about U.S. relations with the rest of the world. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=QinR7d5na28",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "It's amazing to see the difference in one day after he was elected… We've been doing everything in our power in the last eight years to make [other countries] dislike us. We've completely discounted other people for the last eight years and I think this is a sign to them that we understand that they're there and that we have to play ball with everybody.",
       "sourceTitle": "Jim Carrey on Barack Obama",
-      "text": "It's amazing to see the difference in one day after he was elected… We've been doing everything in our power in the last eight years to make [other countries] dislike us. We've completely discounted other people for the last eight years and I think this is a sign to them that we understand that they're there and that we have to play ball with everybody."
+      "sourceUrl": "http://www.youtube.com/watch?v=QinR7d5na28"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.babble.com/CS/blogs/famecrawler/archive/2008/06/04/green-our-vaccines-jim-carrey-and-jenny-mccarthy-get-political.aspx",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "He's also jumped on the purist medication, liberal train and protested the use of toxic vaccines in children by marching in Washington D.C.",
       "sourceTitle": "Green Our Vaccines: Jim Carrey and Jenny McCarthy Get Political",
-      "text": "He's also jumped on the purist medication, liberal train and protested the use of toxic vaccines in children by marching in Washington D.C."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.babble.com/CS/blogs/famecrawler/archive/2008/06/04/green-our-vaccines-jim-carrey-and-jenny-mccarthy-get-political.aspx"
     }
   ],
   "wikipediaData": {

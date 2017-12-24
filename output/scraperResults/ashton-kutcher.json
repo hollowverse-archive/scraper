@@ -35,127 +35,209 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ashton Kutcher was born and raised in Ceder Rapids, Iowa in a Roman Catholic family."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Kutcher doesn't seem too keen on organized religion, however, and taking the classic celebrity \"spirituality\" route, he has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://movies.about.com/od/alotlikelove/a/loveak041905_2.htm",
-      "sourceTitle": "Interview with Ashton ",
-      "text": "Spirituality is doing things and then seeing the results and then believing in them. I don't know that I've specifically changed that like, 'Oh, let me kneel four times and say this phrase 20 times and now my life will be better.' I don't buy that at all."
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hecklerspray.com/ashton-kutcher-and-demi-moore-decide-to-be-religious-so-people-dont-think-theyve-split-up-which-is-handy/201164974.php",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Spirituality is doing things and then seeing the results and then believing in them. I don't know that I've specifically changed that like, 'Oh, let me kneel four times and say this phrase 20 times and now my life will be better.' I don't buy that at all.",
+      "sourceTitle": "Interview with Ashton",
+      "sourceUrl": "http://movies.about.com/od/alotlikelove/a/loveak041905_2.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "In the midst of divorce rumors with his wife, Demi Moore, Kutcher came out in support of celebrity Judaism, Kabbalah. The media speculated that it was a tactic to divert attention from his flailing marriage. Still, Kutcher and Moore went as far as to take a pilgrimage to Israel and were seen at the celebrity hang-out, The Kabbalah Center in Los Angeles.",
       "sourceTitle": "Ashton Kutcher And Demi Moore Decide To Be Religious So People Don't Think They've Split Up, Which Is Handy",
-      "text": "In the midst of divorce rumors with his wife, Demi Moore, Kutcher came out in support of celebrity Judaism, Kabbalah. The media speculated that it was a tactic to divert attention from his flailing marriage. Still, Kutcher and Moore went as far as to take a pilgrimage to Israel and were seen at the celebrity hang-out, The Kabbalah Center in Los Angeles."
+      "sourceUrl": "http://www.hecklerspray.com/ashton-kutcher-and-demi-moore-decide-to-be-religious-so-people-dont-think-theyve-split-up-which-is-handy/201164974.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "Kutcher has said of Kabbalah:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.contactmusic.com/news/ashton-kutcher-kabbalah-makes-people-positive_1242309",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I find the study of Jewish mysticism to be really interesting and a completely different world I never even knew existed…The meetings really set you on a positive path for the rest of the week.",
       "sourceTitle": "Ashton Kutcher: Kabbalah Makes People Positive",
-      "text": "I find the study of Jewish mysticism to be really interesting and a completely different world I never even knew existed…The meetings really set you on a positive path for the rest of the week."
+      "sourceUrl": "http://www.contactmusic.com/news/ashton-kutcher-kabbalah-makes-people-positive_1242309"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Dude, what about politics?"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.heritage.org/research/commentary/2011/01/hollywood-liberal-ashton-kutcher-im-going-conservative-in-the-clutch",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Politically, Kutcher isn't so quick to jump on the Hollywood bandwagon. He's definitely said some very liberal things, such as blaming offshore oil spills on the \"Republican National Drill.\"",
       "sourceTitle": "Hollywood Liberal Ashton Kutcher: I'm Going Conservative in the Clutch",
-      "text": "Politically, Kutcher isn't so quick to jump on the Hollywood bandwagon. He's definitely said some very liberal things, such as blaming offshore oil spills on the \"Republican National Drill.\""
+      "sourceUrl": "http://www.heritage.org/research/commentary/2011/01/hollywood-liberal-ashton-kutcher-im-going-conservative-in-the-clutch"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/christina-bellantoni/ashton-kutcher-demi-moore_b_130726.html",
+      "parentId": 12,
+      "type": "text",
+      "text": "Kutcher is an Obama supporter",
       "sourceTitle": "Ashton Kutcher, Demi Moore latest celebs for Obama",
-      "text": "Kutcher is an Obama supporter"
+      "sourceUrl": "http://www.huffingtonpost.com/christina-bellantoni/ashton-kutcher-demi-moore_b_130726.html"
     },
     {
-      "type": "sentence",
-      "text": "but doesn't seem to support his healthcare plan, or universal healthcare in general, saying:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but doesn't seem to support his healthcare plan, or universal healthcare in general, saying:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.newsrealblog.com/2009/08/18/ashton-kutcher-comes-out-of-the-closet-on-real-time/",
-      "sourceTitle": "Ashton Kutcher Comes Out of the Closet on 'Real Time.' ",
-      "text": "Frankly, I don't want to pay for the guy who's getting a triple-bypass because he's eating fast food all day and deep-fried snickers bars. I don't want to pay for him! Whether he's wealthy or he's not!"
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Frankly, I don't want to pay for the guy who's getting a triple-bypass because he's eating fast food all day and deep-fried snickers bars. I don't want to pay for him! Whether he's wealthy or he's not!",
+      "sourceTitle": "Ashton Kutcher Comes Out of the Closet on 'Real Time.'",
+      "sourceUrl": "http://www.newsrealblog.com/2009/08/18/ashton-kutcher-comes-out-of-the-closet-on-real-time/"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Wow, that's a very Republican, maybe even a libertarian, thing to say."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Back to liberalism: Kutcher has been a big supporter of gay rights and gay marriage, Tweeting support for his home state of Iowa for legalizing gay marriage and saying things like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://ohnotheydidnt.livejournal.com/33801710.html",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I have many gay friends and think they deserve equal rights.",
       "sourceTitle": "Ashton Kutcher on gay marriage ruling in Iowa",
-      "text": "I have many gay friends and think they deserve equal rights."
+      "sourceUrl": "http://ohnotheydidnt.livejournal.com/33801710.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.heritage.org/research/commentary/2011/01/hollywood-liberal-ashton-kutcher-im-going-conservative-in-the-clutch",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Then Kutcher turns around and, in classic conservative paranoia, discusses America's impending collapse and the need to be prepared with martial arts training and a missile defense program.",
       "sourceTitle": "Hollywood Liberal Ashton Kutcher: I'm Going Conservative in the Clutch",
-      "text": "Then Kutcher turns around and, in classic conservative paranoia, discusses America's impending collapse and the need to be prepared with martial arts training and a missile defense program."
+      "sourceUrl": "http://www.heritage.org/research/commentary/2011/01/hollywood-liberal-ashton-kutcher-im-going-conservative-in-the-clutch"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
+      "parentId": 20,
+      "type": "text",
       "text": "How does he explain it? In his own words:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.newsrealblog.com/2009/08/18/ashton-kutcher-comes-out-of-the-closet-on-real-time/",
-      "sourceTitle": "Ashton Kutcher Comes Out of the Closet on 'Real Time.' ",
-      "text": "I am a fiscally conservative, socially liberal independent."
+      "id": 21
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "I am a fiscally conservative, socially liberal independent.",
+      "sourceTitle": "Ashton Kutcher Comes Out of the Closet on 'Real Time.'",
+      "sourceUrl": "http://www.newsrealblog.com/2009/08/18/ashton-kutcher-comes-out-of-the-closet-on-real-time/"
+    },
+    {
+      "type": "paragraph",
+      "id": 23
+    },
+    {
+      "parentId": 23,
+      "type": "text",
       "text": "Ah. That explains everything."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -32,169 +32,267 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Robert Plant was born West Bromwich, West Midlands, England and grew up in Halesowen, West Midlands, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Plant has, as far as I can tell, never properly addressed his true religious views. When asked about it recently during a press conference in Kiev, Ukraine, he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.rockandtheology.com/?p=3837",
-      "sourceTitle": "Robert Plant in Kiev: \"My Religion?",
-      "text": "My religion? I'm one of the children of the sun… yeah, why not? That's where we came from."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "My religion? I'm one of the children of the sun… yeah, why not? That's where we came from.",
+      "sourceTitle": "Robert Plant in Kiev: \"My Religion?",
+      "sourceUrl": "http://www.rockandtheology.com/?p=3837"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Could that be a reference to some sort of pantheism? Or an extension of Carl Sagan's famous quote?"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/author/quotes/10538.Carl_Sagan",
-      "sourceTitle": "Carl Sagan Quotes (Author of Contact)",
-      "text": "The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.",
+      "sourceTitle": "Carl Sagan Quotes (Author of Contact)",
+      "sourceUrl": "http://www.goodreads.com/author/quotes/10538.Carl_Sagan"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "If so, it could be perhaps a denial of the existence of any creator. But we're stretching our deductions a bit far now."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://answers.yahoo.com/question/index?qid=20080831181627AAOv51V",
+      "parentId": 9,
+      "type": "text",
+      "text": "There is speculation that Plant was exposed to Anglican Christianity growing up,",
       "sourceTitle": "Is Robert Plant a Christian?",
-      "text": "There is speculation that Plant was exposed to Anglican Christianity growing up,"
+      "sourceUrl": "http://answers.yahoo.com/question/index?qid=20080831181627AAOv51V"
     },
     {
-      "type": "sentence",
-      "text": "and it wouldn't be a ridiculous assumption given he was a small town lad in England where Anglicanism reigns supreme. But it's just that, an assumption."
+      "type": "text",
+      "text": "and it wouldn't be a ridiculous assumption given he was a small town lad in England where Anglicanism reigns supreme. But it's just that, an assumption.",
+      "parentId": 9
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thehurstreview.wordpress.com/2010/09/07/robert-plant-band-of-joy/",
+      "parentId": 10,
+      "type": "text",
+      "text": "His music is all over the place. Early Zeppelin is littered with references to mystical lands and demigods hailing from Norse mythology to Welsh mythology to the writings of J.R.R. Tolkien.",
       "sourceTitle": "Robert Plant: Band of Joy",
-      "text": "His music is all over the place. Early Zeppelin is littered with references to mystical lands and demigods hailing from Norse mythology to Welsh mythology to the writings of J.R.R. Tolkien."
+      "sourceUrl": "http://thehurstreview.wordpress.com/2010/09/07/robert-plant-band-of-joy/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.azlyrics.com/lyrics/ledzeppelin/stairwaytoheaven.html",
+      "type": "text",
+      "text": "And of course, there's \"Stairway to Heaven\" which reads more like a condemnation of hypocritical Christians.",
+      "parentId": 10,
       "sourceTitle": "Led Zeppelin Lyrics – Stairway to Heaven",
-      "text": "And of course, there's \"Stairway to Heaven\" which reads more like a condemnation of hypocritical Christians."
+      "sourceUrl": "http://www.azlyrics.com/lyrics/ledzeppelin/stairwaytoheaven.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thehurstreview.wordpress.com/2010/09/07/robert-plant-band-of-joy/",
+      "parentId": 11,
+      "type": "text",
+      "text": "His later work, particularly the album"
+    },
+    {
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "Band of Joy"
+    },
+    {
+      "type": "text",
+      "text": ", is heavy on the gospel music and the Christian themes. Song titles include: \"Satan Your Kingdom Must Come Down\" and \"Angel Dance.\"",
+      "parentId": 11,
       "sourceTitle": "Robert Plant: Band of Joy",
-      "text": "His later work, particularly the album , is heavy on the gospel music and the Christian themes. Song titles include: \"Satan Your Kingdom Must Come Down\" and \"Angel Dance.\""
+      "sourceUrl": "http://thehurstreview.wordpress.com/2010/09/07/robert-plant-band-of-joy/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Ultimately, we have no idea what his true religious beliefs are–if he even has any substantial religious beliefs, which seems somewhat doubtful. Sorry…. Help us out in the comments if you've got anything."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 13
     },
     {
-      "type": "heading",
+      "parentId": 13,
+      "type": "text",
       "text": "More ambiguity right… now"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "To start, I'll quote Plant's views on musicians and politics:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.rockandtheology.com/?p=3837",
-      "sourceTitle": "Robert Plant in Kiev: \"My Religion?",
-      "text": "Musicians, unless they're incredibly eloquent, shouldn't start taking political stances… [but] everyone is entitled to a free life."
+      "id": 15
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16,
+      "parentId": 15
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Musicians, unless they're incredibly eloquent, shouldn't start taking political stances… [but] everyone is entitled to a free life.",
+      "sourceTitle": "Robert Plant in Kiev: \"My Religion?",
+      "sourceUrl": "http://www.rockandtheology.com/?p=3837"
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "Or:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/music/2011/jan/30/robert-plant-band-joy-interview",
-      "sourceTitle": "Robert Plant: the showman must go on",
-      "text": "Never mind politics… for me, [music] is something to do which gives me very great pleasure. Which is why I'll keep on making music, so long as it meets the standard."
+      "id": 18
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Never mind politics… for me, [music] is something to do which gives me very great pleasure. Which is why I'll keep on making music, so long as it meets the standard.",
+      "sourceTitle": "Robert Plant: the showman must go on",
+      "sourceUrl": "http://www.guardian.co.uk/music/2011/jan/30/robert-plant-band-joy-interview"
+    },
+    {
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "He's just so… diplomatic. For example, when Obama won the presidency in 2008 (Plant is British, mind you) and Plant was asked about it, he said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.femalefirst.co.uk/music/interviews/Robert+Plant+Interview-63092.html",
+      "id": 21
+    },
+    {
+      "type": "paragraph",
+      "id": 22,
+      "parentId": 21
+    },
+    {
+      "parentId": 22,
+      "type": "text",
+      "text": "As far as I can see, [America's] got the greatest royal on the planet at the moment.",
       "sourceTitle": "Robert Plant Interview",
-      "text": "As far as I can see, [America's] got the greatest royal on the planet at the moment."
+      "sourceUrl": "http://www.femalefirst.co.uk/music/interviews/Robert+Plant+Interview-63092.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/news/celebritynews/9719290/Obama-orders-Led-Zeppelin-to-settle-down-as-they-receive-award.html",
+      "type": "paragraph",
+      "id": 23
+    },
+    {
+      "parentId": 23,
+      "type": "text",
+      "text": "It seems like a nice comment, but is it? Could he say Obama's popularity is more than it should be? Or that Obama seems like a monarch? Hard to say. Plant was honored, along with the other remaining members of Led Zeppelin in 2013, by Obama, who said he was glad to have the Secret Service around in case Zeppelin wanted to trash the White House like they used to trash hotel rooms.",
       "sourceTitle": "Obama orders Led Zeppelin to 'settle down' as they receive award",
-      "text": "It seems like a nice comment, but is it? Could he say Obama's popularity is more than it should be? Or that Obama seems like a monarch? Hard to say. Plant was honored, along with the other remaining members of Led Zeppelin in 2013, by Obama, who said he was glad to have the Secret Service around in case Zeppelin wanted to trash the White House like they used to trash hotel rooms."
+      "sourceUrl": "http://www.telegraph.co.uk/news/celebritynews/9719290/Obama-orders-Led-Zeppelin-to-settle-down-as-they-receive-award.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 24
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://press.manicnirvana.com/?p=548",
+      "parentId": 24,
+      "type": "text",
+      "text": "Plant has spoken to Prince Charles about the prince's environmental work,",
       "sourceTitle": "Plant talks politics with Prince",
-      "text": "Plant has spoken to Prince Charles about the prince's environmental work,"
+      "sourceUrl": "http://press.manicnirvana.com/?p=548"
     },
     {
-      "type": "sentence",
-      "text": "and considering the Prince is pro-environment, we can assume he probably didn't contradict him. But does that make Plant an environmentalist or just a nice guy?"
+      "type": "text",
+      "text": "and considering the Prince is pro-environment, we can assume he probably didn't contradict him. But does that make Plant an environmentalist or just a nice guy?",
+      "parentId": 24
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 25
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/robert-plant",
+      "parentId": 25,
+      "type": "text",
+      "text": "Even his philanthropic work is totally innocuous, including mostly cancer-related charities and children's charities and the like.",
       "sourceTitle": "Robert Plant's Charity Work, Events, and Causes",
-      "text": "Even his philanthropic work is totally innocuous, including mostly cancer-related charities and children's charities and the like."
+      "sourceUrl": "http://www.looktothestars.org/celebrity/robert-plant"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 26
     },
     {
-      "type": "sentence",
+      "parentId": 26,
+      "type": "text",
       "text": "In the end, Plant is the Hollowverse's worst nightmare–incredibly famous, well-spoken, intelligent and totally non-political, non-religious."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

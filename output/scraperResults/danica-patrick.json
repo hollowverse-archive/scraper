@@ -33,102 +33,177 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Danica Patrick was born in Beloit, Wisconsin and grew up in Roscoe, Illinois."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Patrick doesn't appear to have been raised in a very religious home and her childhood Sundays were occupied by activities other than church-going. But she has expressed that she always carried around with her a certain faith. She said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I was nothing, really, but I always had this sort of faith in the bottom of my heart that I didn't know where it came from. I had never [gone] to church; we were always racing on Sundays.",
+      "sourceTitle": "Breaking news: sex sells",
+      "sourceUrl": "http://www.patheos.com/blogs/getreligion/2009/02/breaking-news-sex-sells/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "In 2004, Patrick went to the now-infamous Mel Gibson film,"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Passion of the Christ"
+    },
+    {
+      "type": "text",
+      "text": ", and its message intrigued her. She called up her then-boyfriend, Paul Hospenthal, to discuss the Catholic religion. Before she and Hospenthal married in 2005, Patrick had officially converted to Catholicism.",
+      "parentId": 5,
+      "sourceTitle": "Breaking news: sex sells",
+      "sourceUrl": "http://www.patheos.com/blogs/getreligion/2009/02/breaking-news-sex-sells/"
+    },
+    {
+      "type": "text",
+      "text": "She says of her newfound faith:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.patheos.com/blogs/getreligion/2009/02/breaking-news-sex-sells/",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "It helps me justify situations, that there's a reason for everything. It makes me feel better in times when I might have been disappointed or angry, like, why me?",
       "sourceTitle": "Breaking news: sex sells",
-      "text": "I was nothing, really, but I always had this sort of faith in the bottom of my heart that I didn't know where it came from. I had never [gone] to church; we were always racing on Sundays."
+      "sourceUrl": "http://www.patheos.com/blogs/getreligion/2009/02/breaking-news-sex-sells/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.patheos.com/blogs/getreligion/2009/02/breaking-news-sex-sells/",
-      "sourceTitle": "Breaking news: sex sells",
-      "text": "In 2004, Patrick went to the now-infamous Mel Gibson film, , and its message intrigued her. She called up her then-boyfriend, Paul Hospenthal, to discuss the Catholic religion. Before she and Hospenthal married in 2005, Patrick had officially converted to Catholicism."
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
-      "text": "She says of her newfound faith:"
-    },
-    {
-      "type": "break"
-    },
-    {
-      "type": "quote",
-      "sourceUrl": "http://www.patheos.com/blogs/getreligion/2009/02/breaking-news-sex-sells/",
-      "sourceTitle": "Breaking news: sex sells",
-      "text": "It helps me justify situations, that there's a reason for everything. It makes me feel better in times when I might have been disappointed or angry, like, why me?"
-    },
-    {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "However, in 2012, Patrick and Hospenthal divorced. We're unsure of her continued faith or practice in the Catholic religion. It's reasonable to suspect that the divorce affected her sentiments toward Catholicism as Hospenthal seems to have been instrumental in her conversion. Let us know in the comments if you know anything."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 9
     },
     {
-      "type": "heading",
+      "parentId": 9,
+      "type": "text",
       "text": "The passion of the conservative"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.policymic.com/articles/4635/nascar-star-danica-patrick-is-right-to-keep-politics-off-of-twitter-and-other-celebrities-should-follow-suit",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Patrick has done a pretty good job of keeping her personal political opinions out of the hands of the press (with one exception, which we'll get to later.) She makes it a point to keep politics off of her"
+    },
+    {
+      "parentId": 10,
+      "type": "link",
+      "text": "twitter feed",
+      "sourceUrl": "https://twitter.com/DanicaPatrick"
+    },
+    {
+      "type": "text",
+      "text": ",",
+      "parentId": 10,
       "sourceTitle": "NASCAR Star Danica Patrick is Right to Keep Politics Off of Twitter, and Other Celebrities Should Follow Suit",
-      "text": "Patrick has done a pretty good job of keeping her personal political opinions out of the hands of the press (with one exception, which we'll get to later.) She makes it a point to keep politics off of her ,"
+      "sourceUrl": "http://www.policymic.com/articles/4635/nascar-star-danica-patrick-is-right-to-keep-politics-off-of-twitter-and-other-celebrities-should-follow-suit"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=JE1j3HcZIc4",
+      "type": "text",
+      "text": "for one, much to the chagrin of Hollowverse writers. Also, despite expressing obvious care and concern for the American political system by encouraging people to get out and vote,",
+      "parentId": 10,
       "sourceTitle": "Danica Patrick Declares Herself",
-      "text": "for one, much to the chagrin of Hollowverse writers. Also, despite expressing obvious care and concern for the American political system by encouraging people to get out and vote,"
+      "sourceUrl": "http://www.youtube.com/watch?v=JE1j3HcZIc4"
     },
     {
-      "type": "sentence",
-      "text": "she won't tell you who she votes for."
+      "type": "text",
+      "text": "she won't tell you who she votes for.",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "The one slip Patrick has made was in reference to the debate over government-mandated healthcare as it applies to women's birth control being a required part of employer-provided health insurance. This was a hot-button topic during the 2012 elections, with conservatives railing against what they perceived to be a government intrusion into people's religious beliefs. When Patrick was asked about it, she said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://theothermccain.com/2012/02/23/danica-patrick-makes-absurd-political-statement-bog-dwellers-hardest-hit/",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "I leave it up to the government to make good decisions for Americans.",
       "sourceTitle": "Danica Patrick Makes Absurd Political Statement, Bog Dwellers Hardest Hit",
-      "text": "I leave it up to the government to make good decisions for Americans."
+      "sourceUrl": "http://theothermccain.com/2012/02/23/danica-patrick-makes-absurd-political-statement-bog-dwellers-hardest-hit/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://jezebel.com/5888815/rush-limbaugh-calls-out-danica-patrick-what-do-you-expect-from-a-woman-driver",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Conservative alarm bells went off nationwide. Even Rush Limbaugh took the opportunity to make some classy remark about women drivers.",
       "sourceTitle": "Rush Limbaugh Calls Out Danica Patrick: 'What Do You Expect From a Woman Driver?'",
-      "text": "Conservative alarm bells went off nationwide. Even Rush Limbaugh took the opportunity to make some classy remark about women drivers."
+      "sourceUrl": "http://jezebel.com/5888815/rush-limbaugh-calls-out-danica-patrick-what-do-you-expect-from-a-woman-driver"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "So, let's look over the implications here: enemy of conservatives, trust in the government, clearly no problem with the issue of government-mandated birth control coverage in insurance policies (something largely opposed by staunch Catholics). Well, I'm going to tentatively call her a liberal. Let's hear your thoughts, Hollwoverse readers."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

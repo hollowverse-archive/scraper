@@ -37,137 +37,236 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Lionel Richie was born in Tuskegee, Alabama and grew up there and in Joliet, Illinois."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/344/000024272/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Richie grew up Episcopalian, and even considered becoming a priest before going to college.",
       "sourceTitle": "Lionel Richie.",
-      "text": "Richie grew up Episcopalian, and even considered becoming a priest before going to college."
+      "sourceUrl": "http://www.nndb.com/people/344/000024272/"
     },
     {
-      "type": "sentence",
-      "text": "And God is clearly still a huge part of the musician's life and career."
+      "type": "text",
+      "text": "And God is clearly still a huge part of the musician's life and career.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Richie has called God his \"co-composer,\" and says that he prefers to write at night because God isn't quite as busy with other folks as he is during the day:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.alabamamusicoffice.com/artists-a-z/r/1635-richie-lionel",
-      "sourceTitle": "Richie, Lionel.",
-      "text": "I give credit to my co-writer because all I did was write down what He told me to write down."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I give credit to my co-writer because all I did was write down what He told me to write down.",
+      "sourceTitle": "Richie, Lionel.",
+      "sourceUrl": "http://www.alabamamusicoffice.com/artists-a-z/r/1635-richie-lionel"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "He's also a fan of gospel, epitomized in his song, \"Jesus Is Love.\" And depending on which version you listen to, you might be able to catch him doing a little preaching:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=WkXpm2Rm-Tw",
-      "sourceTitle": "Lionel Richie – The Commodores – Jesus Is Love.",
-      "text": "He's the king of kings, He's mighty mighty, and He loves us all. . . when you need a friend, He'll be there to comfort and to guide you."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "He's the king of kings, He's mighty mighty, and He loves us all. . . when you need a friend, He'll be there to comfort and to guide you.",
+      "sourceTitle": "Lionel Richie – The Commodores – Jesus Is Love.",
+      "sourceUrl": "http://www.youtube.com/watch?v=WkXpm2Rm-Tw"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Richie has said that since he's gotten older and traveled the world, it's not so much the Christian God that's important to him, but just a Higher Power."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/lifeandstyle/2012/mar/18/this-much-know-lionel-richie",
-      "sourceTitle": "This much I know: Lionel Richie.",
-      "text": "I was born and raised a Christian, but I've learned from my travels that God has many names. When you see yourself as a citizen of the world then you respect where you are. Buddha, Allah and Jesus all lead to the same thing–a higher consciousness."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I was born and raised a Christian, but I've learned from my travels that God has many names. When you see yourself as a citizen of the world then you respect where you are. Buddha, Allah and Jesus all lead to the same thing–a higher consciousness.",
+      "sourceTitle": "This much I know: Lionel Richie.",
+      "sourceUrl": "http://www.guardian.co.uk/lifeandstyle/2012/mar/18/this-much-know-lionel-richie"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "But when asked about what God means to him, Richie sounded more like a pantheist than anything else:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=rMuztVd4LHY",
-      "sourceTitle": "Lionel Richie – Spiritual Side of Hollywood.",
-      "text": "God is the foundation; God is nature; God is life. God is all about what's around us. . . .The point is that God is what I prefer to call that. A higher power in the universe."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "God is the foundation; God is nature; God is life. God is all about what's around us. . . .The point is that God is what I prefer to call that. A higher power in the universe.",
+      "sourceTitle": "Lionel Richie – Spiritual Side of Hollywood.",
+      "sourceUrl": "http://www.youtube.com/watch?v=rMuztVd4LHY"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Regardless of which label you want to slap on Lionel Richie, he is, without a doubt, really into God."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 16
     },
     {
-      "type": "heading",
+      "parentId": 16,
+      "type": "text",
       "text": "It's all about the people"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newsmeat.com/celebrity_political_donations/Lionel_Richie.php",
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Lionel Richie is definitely liberal, but the only time he donated to a Democratic candidate was Barack Obama during the presidential primary race in 2008.",
       "sourceTitle": "Lionel Richie's Federal Campaign Contribution Report.",
-      "text": "Lionel Richie is definitely liberal, but the only time he donated to a Democratic candidate was Barack Obama during the presidential primary race in 2008."
+      "sourceUrl": "http://newsmeat.com/celebrity_political_donations/Lionel_Richie.php"
     },
     {
-      "type": "sentence",
-      "text": "He also participated in the Obama tribute album  by writing a song which included excerpts of speeches by the soon-to-be president. Richie said about the song:"
+      "type": "text",
+      "text": "He also participated in the Obama tribute album",
+      "parentId": 17
     },
     {
-      "type": "break"
+      "parentId": 17,
+      "type": "emphasis",
+      "text": "Yes We Can: Voices of a Grassroots Movement"
+    },
+    {
+      "type": "text",
+      "text": "by writing a song which included excerpts of speeches by the soon-to-be president. Richie said about the song:",
+      "parentId": 17
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.billboard.com/bbcom/news/lionel-richie-preaches-melody-on-new-album-1003921559.story#/bbcom/news/lionel-richie-preaches-melody-on-new-album-1003921559.story",
+      "id": 18
+    },
+    {
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Being able to use Obama's voice gave me the weight I needed to say everything I wanted to.",
       "sourceTitle": "Lionel Richie Preaches Melody On New Album.",
-      "text": "Being able to use Obama's voice gave me the weight I needed to say everything I wanted to."
+      "sourceUrl": "http://www.billboard.com/bbcom/news/lionel-richie-preaches-melody-on-new-album-1003921559.story#/bbcom/news/lionel-richie-preaches-melody-on-new-album-1003921559.story"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/Nightline/story?id=1974794#.UHLN_k3R7cA",
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "He apparently wasn't a supporter of the Iraq War, although I couldn't get a direct quote from him on that. Regardless, he hopes one day to be able to play a show in Baghdad, since he's pretty popular in the country. The story has it that Iraqis were playing his song \"All Night Long\" on the streets the nights U.S. tanks first powered through the capital city in 2003.",
       "sourceTitle": "Baghdad's Lionel Richie Obsession.",
-      "text": "He apparently wasn't a supporter of the Iraq War, although I couldn't get a direct quote from him on that. Regardless, he hopes one day to be able to play a show in Baghdad, since he's pretty popular in the country. The story has it that Iraqis were playing his song \"All Night Long\" on the streets the nights U.S. tanks first powered through the capital city in 2003."
+      "sourceUrl": "http://abcnews.go.com/Nightline/story?id=1974794#.UHLN_k3R7cA"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 21
     },
     {
-      "type": "sentence",
+      "parentId": 21,
+      "type": "text",
       "text": "He also said in an interview that he thinks controversial \"Stand Your Ground\" laws, like the one in Florida that came under scrutiny after the shooting death of Trayvon Martin, are \"ridiculous.\""
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=aXT9oY25M9o",
+      "id": 22
+    },
+    {
+      "type": "paragraph",
+      "id": 23,
+      "parentId": 22
+    },
+    {
+      "parentId": 23,
+      "type": "text",
+      "text": "We have to use common sense here. I think that law should be thrown out without a shred of a doubt.",
       "sourceTitle": "Lionel Richie at Piers Morgan Tonight.",
-      "text": "We have to use common sense here. I think that law should be thrown out without a shred of a doubt."
+      "sourceUrl": "http://www.youtube.com/watch?v=aXT9oY25M9o"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/lifeandstyle/2012/mar/18/this-much-know-lionel-richie",
+      "type": "paragraph",
+      "id": 24
+    },
+    {
+      "parentId": 24,
+      "type": "text",
+      "text": "But when it really comes down to it, for Richie, \"it's about the people, not about political parties.\"",
       "sourceTitle": "This much I know: Lionel Richie.",
-      "text": "But when it really comes down to it, for Richie, \"it's about the people, not about political parties.\""
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.guardian.co.uk/lifeandstyle/2012/mar/18/this-much-know-lionel-richie"
     }
   ],
   "wikipediaData": {

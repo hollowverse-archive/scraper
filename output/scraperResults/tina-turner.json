@@ -33,94 +33,156 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Tina Turner was born in Nutbush, Tennessee and grew up between Brownsville, Tennessee and St. Louis, Missouri."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.tinaturnerfanclub.eu/archives/archives_nutbush.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Turner is perhaps the most famous Buddhist woman in the western world. However, she was born–like many southern girls–into a Baptist family. In fact, Turner began singing in two of Nutbush's Baptist churches–the Woodlawn Missionary Baptist Church and the Spring Hill Baptist Church.",
       "sourceTitle": "Take a road trip down High way no.19 on the Tina Turner Highway",
-      "text": "Turner is perhaps the most famous Buddhist woman in the western world. However, she was born–like many southern girls–into a Baptist family. In fact, Turner began singing in two of Nutbush's Baptist churches–the Woodlawn Missionary Baptist Church and the Spring Hill Baptist Church."
+      "sourceUrl": "http://www.tinaturnerfanclub.eu/archives/archives_nutbush.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "However, during her well-documented abusive relationship with Ike Turner, Tina turned to Buddhist chanting for comfort. Now, Buddhism has taken on a very high-priority status in Turner's life. She said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 4
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=MOsr_ZOi-Jo",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "[Buddhism] is something that one depends on. I think, like, I need my refrigerator, I need the clothing on my back, I need shelter, and [Buddhist] chanting takes care of that spiritual side, that subconscious mind that I tap into.",
       "sourceTitle": "Tina Turner Chanting",
-      "text": "[Buddhism] is something that one depends on. I think, like, I need my refrigerator, I need the clothing on my back, I need shelter, and [Buddhist] chanting takes care of that spiritual side, that subconscious mind that I tap into."
+      "sourceUrl": "http://www.youtube.com/watch?v=MOsr_ZOi-Jo"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pt/Tina_Turner.html",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Now Turner considers it somewhat of a mission to spread her religious beliefs, either through talking in the media about it, doing interviews with Buddhist organizations, and through her film,"
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "What's Love Got To Do With It?"
+    },
+    {
+      "type": "text",
+      "text": "As a result, she is considered a Buddhist leader in the western world.",
+      "parentId": 6,
       "sourceTitle": "The religion of Tina Turner, singer",
-      "text": "Now Turner considers it somewhat of a mission to spread her religious beliefs, either through talking in the media about it, doing interviews with Buddhist organizations, and through her film,  As a result, she is considered a Buddhist leader in the western world."
+      "sourceUrl": "http://www.adherents.com/people/pt/Tina_Turner.html"
     },
     {
-      "type": "sentence",
-      "text": "She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She said:",
+      "parentId": 6
     },
     {
       "type": "quote",
-      "sourceUrl": "http://roulette404.multiply.com/video/item/211/Tina_Turner_and_her_Buddhism",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I believe that I will spread [Buddhism] to everyone because that is a part of Buddhism is, is to pass it along in order for people to help themselves.",
       "sourceTitle": "Tina Turner and her Buddhism",
-      "text": "I believe that I will spread [Buddhism] to everyone because that is a part of Buddhism is, is to pass it along in order for people to help themselves."
+      "sourceUrl": "http://roulette404.multiply.com/video/item/211/Tina_Turner_and_her_Buddhism"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "What's politics got to do with it?"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Politically, Turner is a bit of an outsider. She immigrated to Europe in her mid-50s and has been living there–in Zurich, Cologne, and on the French Riviera–ever since. She says that living in Europe is a more \"comfortable\" life for black people even though her skin color is a secondary concern for Turner."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.cbsnews.com/2100-18560_162-1161164.html",
+      "id": 11
+    },
+    {
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "I've never bothered about my color. I never had that thing about being black.",
       "sourceTitle": "Tina Turner Bids Farewell",
-      "text": "I've never bothered about my color. I never had that thing about being black."
+      "sourceUrl": "http://www.cbsnews.com/2100-18560_162-1161164.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.tinaturner.be/modules.php?name=Forums&file=viewtopic&p=26964",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "There's more evidence of this because of the fact that when Oprah tried to convince Turner to endorse Barack Obama in the 2008 elections, Turner didn't seem to care. But when Caroline Kennedy endorsed Obama, Turner decided to do the same.",
       "sourceTitle": "Tina is for Barack Obama!",
-      "text": "There's more evidence of this because of the fact that when Oprah tried to convince Turner to endorse Barack Obama in the 2008 elections, Turner didn't seem to care. But when Caroline Kennedy endorsed Obama, Turner decided to do the same."
+      "sourceUrl": "http://www.tinaturner.be/modules.php?name=Forums&file=viewtopic&p=26964"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.corbisimages.com/stock-photo/rights-managed/42-16046866/tina-turner-in-support-of-senator-mcgovern",
+      "parentId": 14,
+      "type": "text",
+      "text": "Though removed from America and American politics, more focused on Buddhism and enlightenment, there was a time when Turner was a part of the political conversation. In 1972, she endorsed Democratic presidential candidate John McGovern.",
       "sourceTitle": "Tina Turner in Support of Senator McGovern",
-      "text": "Though removed from America and American politics, more focused on Buddhism and enlightenment, there was a time when Turner was a part of the political conversation. In 1972, she endorsed Democratic presidential candidate John McGovern."
+      "sourceUrl": "http://www.corbisimages.com/stock-photo/rights-managed/42-16046866/tina-turner-in-support-of-senator-mcgovern"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "Though, honestly, that's about it. Turner is, by default, a Democrat. But her stance on many social or political issues remain a mystery–or she doesn't take a stance. Perhaps enlightenment leaves no room for worldly concerns."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -36,106 +36,161 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Norah Jones was born in Brooklyn, New York. She grew up there, in Grapevine, Texas and in Dallas, Texas."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.oprah.com/omagazine/Oprah-Interviews-Norah-Jones",
+      "parentId": 2,
+      "type": "text",
+      "text": "Jones went to (we can assume some sort of Christian) church as a child, and even began honing her chops as a singer in the choir as early as five-years-old.",
       "sourceTitle": "Oprah Talks to Norah Jones.",
-      "text": "Jones went to (we can assume some sort of Christian) church as a child, and even began honing her chops as a singer in the choir as early as five-years-old."
+      "sourceUrl": "http://www.oprah.com/omagazine/Oprah-Interviews-Norah-Jones"
     },
     {
-      "type": "sentence",
-      "text": "She still attends church, but she doesn't really consider herself the religious type."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She still attends church, but she doesn't really consider herself the religious type.",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/entertainment/8359542.stm",
-      "sourceTitle": "Five Minutes With: Norah Jones.",
-      "text": "I'm spiritual, but I go to church. I'm not deeply religious, but I like the ritual of church."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I'm spiritual, but I go to church. I'm not deeply religious, but I like the ritual of church.",
+      "sourceTitle": "Five Minutes With: Norah Jones.",
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/entertainment/8359542.stm"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "It's hard to put that kind of spirituality in a box with a label, but it's not too surprising considering you could say the same about Jones' music career. Aside from that little nugget about spirituality, Jones has been pretty tight-lipped on the subject of religion."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 6
     },
     {
-      "type": "heading",
+      "parentId": 6,
+      "type": "text",
       "text": "Activism in Song"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Norah_Jones.php",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Jones is not vague, however, about her political beliefs. She contributed $2,000 to John Kerry's bid for the presidency in 2004,",
       "sourceTitle": "Norah Jones' federal campaign contribution report.",
-      "text": "Jones is not vague, however, about her political beliefs. She contributed $2,000 to John Kerry's bid for the presidency in 2004,"
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Norah_Jones.php"
     },
     {
-      "type": "sentence",
-      "text": "which obviously didn't work out in her favor. The song, \"My Dear Country\" from her album following the election made clear her bitter disappointment."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "which obviously didn't work out in her favor. The song, \"My Dear Country\" from her album following the election made clear her bitter disappointment.",
+      "parentId": 7
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.lyrics4all.net/n/norah-jones/not-too-late/my-dear-country.html",
+      "id": 8
+    },
+    {
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Cause we believed in our candidate/but even more it's the one we hate/I needed someone I could shake/on election day./But the day after is darker/and deeper and deeper we go/who knows, maybe it's all a dream/who knows if I'll wake up and scream.",
       "sourceTitle": "My dear country lyrics.",
-      "text": "Cause we believed in our candidate/but even more it's the one we hate/I needed someone I could shake/on election day./But the day after is darker/and deeper and deeper we go/who knows, maybe it's all a dream/who knows if I'll wake up and scream."
+      "sourceUrl": "http://www.lyrics4all.net/n/norah-jones/not-too-late/my-dear-country.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.cbsnews.com/2100-18560_162-2449673.html",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "She said she considered the song more personal than political,",
       "sourceTitle": "The Humility of Norah Jones.",
-      "text": "She said she considered the song more personal than political,"
+      "sourceUrl": "http://www.cbsnews.com/2100-18560_162-2449673.html"
     },
     {
-      "type": "sentence",
-      "text": "but the fact that she would have such an emotional reaction to the election tells you just how political Norah Jones must be."
+      "type": "text",
+      "text": "but the fact that she would have such an emotional reaction to the election tells you just how political Norah Jones must be.",
+      "parentId": 10
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Norah_Jones.php",
+      "parentId": 11,
+      "type": "text",
+      "text": "In 2008 she donated $2,300 to Barack Obama's campaign,",
       "sourceTitle": "Norah Jones' federal campaign contribution report.",
-      "text": "In 2008 she donated $2,300 to Barack Obama's campaign,"
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Norah_Jones.php"
     },
     {
-      "type": "sentence",
-      "text": "but hasn't been as vocal about her support as some other celebrities. Then again, Jones seems like she would rather write a check and drop it in the mailbox than endorse her candidate at a press conference."
+      "type": "text",
+      "text": "but hasn't been as vocal about her support as some other celebrities. Then again, Jones seems like she would rather write a check and drop it in the mailbox than endorse her candidate at a press conference.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Whenever political questions come up in interviews, though, Jones clearly identifies herself with the left side of the aisle. When asked \"what everyone should shut up about\" Jones goes political (and inadvertently a little religious)."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://exclaim.ca/Features/Questionnaire/norah_jones",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I don't know. God. No, I didn't mean God! Don't print God. [Laughs] People should just shut up about gay marriage and let them get married already.",
       "sourceTitle": "Norah Jones.",
-      "text": "I don't know. God. No, I didn't mean God! Don't print God. [Laughs] People should just shut up about gay marriage and let them get married already."
+      "sourceUrl": "http://exclaim.ca/Features/Questionnaire/norah_jones"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Her spirituality may be a little vague, but it seems clear that left-wing politics are close to her heart. They inspire her to write songs and give up large sums of money anyway."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

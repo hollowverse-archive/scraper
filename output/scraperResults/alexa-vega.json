@@ -36,124 +36,205 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Alexa Vega was born and raised in Miami, Florida."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0891786/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "Vega went to a Catholic school growing up,",
       "sourceTitle": "Alexa Vega – Biography.",
-      "text": "Vega went to a Catholic school growing up,"
+      "sourceUrl": "http://www.imdb.com/name/nm0891786/bio"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://ethnicelebs.com/alexa-vega",
+      "type": "text",
+      "text": "and considering her French and Colombian ancestry,",
+      "parentId": 2,
       "sourceTitle": "Alexa Vega.",
-      "text": "and considering her French and Colombian ancestry,"
+      "sourceUrl": "http://ethnicelebs.com/alexa-vega"
     },
     {
-      "type": "sentence",
-      "text": "that would be expected. But I couldn't confirm that she's Catholic anymore, and I suspect that she probably isn't."
+      "type": "text",
+      "text": "that would be expected. But I couldn't confirm that she's Catholic anymore, and I suspect that she probably isn't.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "text": "But a Christian, she definitely is. And pretty devout at that. Her  is covered with inspirational religious tweets, and retweets from Christian writers and pastors like Joyce Meyer and T. D. Jakes. She writes her own messages to her 200,000 followers as well–things like:"
+      "parentId": 3,
+      "type": "text",
+      "text": "But a Christian, she definitely is. And pretty devout at that. Her"
     },
     {
-      "type": "break"
+      "parentId": 3,
+      "type": "link",
+      "text": "Twitter account",
+      "sourceUrl": "https://twitter.com/alexavega"
+    },
+    {
+      "type": "text",
+      "text": "is covered with inspirational religious tweets, and retweets from Christian writers and pastors like Joyce Meyer and T. D. Jakes. She writes her own messages to her 200,000 followers as well–things like:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/alexavega/status/291674645667667968",
-      "sourceTitle": "alexavega: We all have choices in this …",
-      "text": "We all have choices in this world! I choose God! What is your choice?"
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "We all have choices in this world! I choose God! What is your choice?",
+      "sourceTitle": "alexavega: We all have choices in this …",
+      "sourceUrl": "https://twitter.com/alexavega/status/291674645667667968"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "And:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/alexavega/status/287876151102283776",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Seek God's will in all you do, And he will show you the path to take.",
       "sourceTitle": "alexavega: Seek God's will in all you …",
-      "text": "Seek God's will in all you do, And he will show you the path to take."
+      "sourceUrl": "https://twitter.com/alexavega/status/287876151102283776"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "https://twitter.com/alexavega/status/314954948901208066",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "She also appears to participate in a weekly Bible study",
       "sourceTitle": "alexavega: Great bible study!",
-      "text": "She also appears to participate in a weekly Bible study"
+      "sourceUrl": "https://twitter.com/alexavega/status/314954948901208066"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tweetwood.com/alexavega/tweet/303204222554480642",
+      "type": "text",
+      "text": "and listens to podcast sermons.",
+      "parentId": 9,
       "sourceTitle": "Alexa Vega tweets.",
-      "text": "and listens to podcast sermons."
+      "sourceUrl": "http://tweetwood.com/alexavega/tweet/303204222554480642"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Evangelical_Catholic",
+      "parentId": 10,
+      "type": "text",
+      "text": "But all this sounds to me a lot more like some sort of evangelical faith rather than your typical Catholic, although I realize that one can certainly be an evangelical Christian and a Catholic at the same time.",
       "sourceTitle": "Evangelical Catholic.",
-      "text": "But all this sounds to me a lot more like some sort of evangelical faith rather than your typical Catholic, although I realize that one can certainly be an evangelical Christian and a Catholic at the same time."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Evangelical_Catholic"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://tweetwood.com/alexavega/tweet/303204222554480642",
+      "type": "text",
+      "text": "But at least one of the podcasts she listens to comes from a non-denominational evangelical church rather than a Catholic one.",
+      "parentId": 10,
       "sourceTitle": "Alexa Vega tweets.",
-      "text": "But at least one of the podcasts she listens to comes from a non-denominational evangelical church rather than a Catholic one."
+      "sourceUrl": "http://tweetwood.com/alexavega/tweet/303204222554480642"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "But, even if the details are a little murky, Vega is definitely a devout Christian of some sort."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 12
     },
     {
-      "type": "heading",
+      "parentId": 12,
+      "type": "text",
       "text": "We're all in this together"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "For all of Vega's religious talk, she doesn't have much of anything to say about politics. On election day in 2012, this was the only political message on her Twitter feed:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/alexavega/status/266100684666056704",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "United we stand, divided we fall. No matter what you believe in… We are in this together. #Unity",
       "sourceTitle": "alexavega: United we stand, divided we …",
-      "text": "United we stand, divided we fall. No matter what you believe in… We are in this together. #Unity"
+      "sourceUrl": "https://twitter.com/alexavega/status/266100684666056704"
     },
     {
-      "type": "sentence",
-      "text": "My guess is that she's not interested in being a partisan celebrity, and probably isn't too concerned with the political landscape herself. She hasn't said anything about gay marriage, immigration, gun control, or any candidates. Although you could argue that , which she proudly tweeted, makes her look a little more conservative in today's political climate."
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "break"
+      "parentId": 16,
+      "type": "text",
+      "text": "My guess is that she's not interested in being a partisan celebrity, and probably isn't too concerned with the political landscape herself. She hasn't said anything about gay marriage, immigration, gun control, or any candidates. Although you could argue that"
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "link",
+      "text": "this picture",
+      "sourceUrl": "http://instagram.com/p/Rvz3tsyOQ8/"
+    },
+    {
+      "type": "text",
+      "text": ", which she proudly tweeted, makes her look a little more conservative in today's political climate.",
+      "parentId": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "But we're just making assumptions here. Let us know if you come across anything I've missed, but we'll leave it at non-political for the time being."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

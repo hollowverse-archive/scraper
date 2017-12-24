@@ -34,107 +34,164 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Elton John was born and raised in Pinner, Middlesex, England by mostly his mother, as his father was a pilot in the Royal Air Force and often away."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "His family was likely of Anglican roots, as almost all British families are, but religion didn't seem to play a big role in little Elton's life."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "It is no secret that Elton John is gay. He is married to a man, he has an adopted son with this man, and has become a sort-of spokesman for the world gay community."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Being gay seems to color nearly every aspect of John's life, religious, political, and public. On the subject of religion, Elton John has rejected it outright. Why? Because he says religious people don't really like the gays (which is mostly true). He has said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 5
     },
     {
-      "type": "quote",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Religion promotes hatred and spite against gays. From my point of view, I would ban religion completely."
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "So he thinks religion should be banned. Well, he's definitely not a libertarian. He went on to say:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://articles.nydailynews.com/2010-02-19/gossip/27056796_1_ban-religion-lady-gaga-openly-gay-performer",
-      "sourceTitle": "Elton John: 'Jesus was a compassionate, super-intelligent gay man.'",
-      "text": "I think Jesus was a compassionate, super-intelligent gay man who understood human problems. On the cross, he forgave the people who crucified him."
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I think Jesus was a compassionate, super-intelligent gay man who understood human problems. On the cross, he forgave the people who crucified him.",
+      "sourceTitle": "Elton John: 'Jesus was a compassionate, super-intelligent gay man.'",
+      "sourceUrl": "http://articles.nydailynews.com/2010-02-19/gossip/27056796_1_ban-religion-lady-gaga-openly-gay-performer"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "What?! Jesus was gay? Where did you get this information Sir Elton?"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "Beyond that, it seems like he doesn't have much against Jesus, but he'll go on and on about how lame religion is, such as:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://today.msnbc.msn.com/id/15675821/ns/today-entertainment/t/elton-john-religion-creates-hateful-lemmings/#.T3Ididmnf6A",
-      "sourceTitle": "Elton John says religion encourages hate",
-      "text": "Organized religion doesn't seem to work. It turns people into really hateful lemmings and it's not really compassionate."
+      "id": 12
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "Organized religion doesn't seem to work. It turns people into really hateful lemmings and it's not really compassionate.",
+      "sourceTitle": "Elton John says religion encourages hate",
+      "sourceUrl": "http://today.msnbc.msn.com/id/15675821/ns/today-entertainment/t/elton-john-religion-creates-hateful-lemmings/#.T3Ididmnf6A"
+    },
+    {
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "Luckily for Elton, the \"evangelical atheist,\" he's got enough fans that alienating the billions of religious people in the world probably doesn't matter much to him."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 15
     },
     {
-      "type": "heading",
+      "parentId": 15,
+      "type": "text",
       "text": "Politics is gay"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.independent.co.uk/news/world/politics/elton-john-tells-world-leaders-stop-antigay-discrimination-2353158.html",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Sir John has gotten himself into politics a few times, but guess what, it's mostly about gay stuff. In his native Britain, Elton is a spokesperson for a program called Kaeleidoscope. The goal of this program is to encourage gay tolerane in Commonwealth countries (countries formerly controlled by the British Empire). Shockingly, being gay is a crime in 38 out of the 54 Commonwealth countries.",
       "sourceTitle": "Elton John tells world leaders: stop anti-gay discrimination",
-      "text": "Sir John has gotten himself into politics a few times, but guess what, it's mostly about gay stuff. In his native Britain, Elton is a spokesperson for a program called Kaeleidoscope. The goal of this program is to encourage gay tolerane in Commonwealth countries (countries formerly controlled by the British Empire). Shockingly, being gay is a crime in 38 out of the 54 Commonwealth countries."
+      "sourceUrl": "http://www.independent.co.uk/news/world/politics/elton-john-tells-world-leaders-stop-antigay-discrimination-2353158.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/society/2009/sep/14/elton-john-not-allowed-adoption",
+      "parentId": 17,
+      "type": "text",
+      "text": "Once, Elton John went head to head with Ukrainian officials over them denying him the opportunity to adopt a Ukrainian baby because of his sexual orientation and marital status.",
       "sourceTitle": "Elton John's wish to adopt faces rejection",
-      "text": "Once, Elton John went head to head with Ukrainian officials over them denying him the opportunity to adopt a Ukrainian baby because of his sexual orientation and marital status."
+      "sourceUrl": "http://www.guardian.co.uk/society/2009/sep/14/elton-john-not-allowed-adoption"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 18
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.change.org/stories/elton-john-and-rush-limbaugh-sitting-in-a-tree",
+      "parentId": 18,
+      "type": "text",
+      "text": "But there is one broken link in the chain. Gay rights is about as liberal as it gets, right? Well, who's about as conservative as it gets? You said it: American conservative pundit Rush Limbaugh, famous for calling women who want birth control \"sluts\" and \"whores.\" But Elton John apparently threw away his ideals for $1 million to play Limbaugh's wedding.",
       "sourceTitle": "Elton John and Rush Limbaugh, Sitting in a Tree",
-      "text": "But there is one broken link in the chain. Gay rights is about as liberal as it gets, right? Well, who's about as conservative as it gets? You said it: American conservative pundit Rush Limbaugh, famous for calling women who want birth control \"sluts\" and \"whores.\" But Elton John apparently threw away his ideals for $1 million to play Limbaugh's wedding."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://news.change.org/stories/elton-john-and-rush-limbaugh-sitting-in-a-tree"
     }
   ],
   "wikipediaData": {

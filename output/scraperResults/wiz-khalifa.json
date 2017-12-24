@@ -29,60 +29,98 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.formatmag.com/features/wiz-khalifa/",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
+      "text": "Wiz Khalifa, whose real name is Cameron Jibril Thomaz, was born in North Dakota, but having grown up in a military family, he lived in such far-flung places as Germany and Japan. He now calls Pittsburgh, Pennsylvania his home.",
       "sourceTitle": "Wiz Khalifa",
-      "text": "Wiz Khalifa, whose real name is Cameron Jibril Thomaz, was born in North Dakota, but having grown up in a military family, he lived in such far-flung places as Germany and Japan. He now calls Pittsburgh, Pennsylvania his home."
+      "sourceUrl": "http://www.formatmag.com/features/wiz-khalifa/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "It's unclear if Khalifa considers himself a Muslim. But Khalifa is an Arabic word, which translates to \"successor\" or leader. Khalifa's Muslim grandfather gave him the name. He says:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.digitalspy.com/music/news/a311148/wiz-khalifa-i-got-name-tattoo-at-17.html",
-      "sourceTitle": "Wiz Khalifa: 'I got name tattoo at 17.'",
-      "text": "And 'Khalifa' is Arabic for 'successor' and 'leader' and my granddad is Muslim, so he gave me that name; he felt like that's what I was doing with my music."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "And 'Khalifa' is Arabic for 'successor' and 'leader' and my granddad is Muslim, so he gave me that name; he felt like that's what I was doing with my music.",
+      "sourceTitle": "Wiz Khalifa: 'I got name tattoo at 17.'",
+      "sourceUrl": "http://www.digitalspy.com/music/news/a311148/wiz-khalifa-i-got-name-tattoo-at-17.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "My interpretation is that Wiz probably likes to say he's Muslim for attention, but doesn't really identify with the religion."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 6
     },
     {
-      "type": "heading",
+      "parentId": 6,
+      "type": "text",
       "text": "Politics of the Wiz"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://kysdc.com/2624742/wiz-khalifa-and-snoop-dogg-talk-marriage-and-politics-exclusive-video/",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "Wiz doesn't talk much about his political views. He does take a stance on one very important issue, though–weed. Khalifa, along with Snoop Dogg, has endorsed the legalization of marijuana.",
       "sourceTitle": "Wiz Khalifa and Snoop Dogg talk marriage and politics.",
-      "text": "Wiz doesn't talk much about his political views. He does take a stance on one very important issue, though–weed. Khalifa, along with Snoop Dogg, has endorsed the legalization of marijuana."
+      "sourceUrl": "http://kysdc.com/2624742/wiz-khalifa-and-snoop-dogg-talk-marriage-and-politics-exclusive-video/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "I suppose we could designate him a liberal–or maybe a libertarian as a result. Still, it's more likely that he just likes getting high. But he's a thoughtful young man, and perhaps the idea of civil liberties has crossed his mind."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "text": "He looks pretty happy about getting the news that Obama won re-election in 2012 as you can see in this . So, that has me leaning toward liberal."
+      "parentId": 9,
+      "type": "text",
+      "text": "He looks pretty happy about getting the news that Obama won re-election in 2012 as you can see in this"
     },
     {
-      "type": "break"
+      "parentId": 9,
+      "type": "link",
+      "text": "video",
+      "sourceUrl": "http://www.youtube.com/watch?v=jLhY8pKCOcQ&feature=youtu.be&t=3m46s"
+    },
+    {
+      "type": "text",
+      "text": ". So, that has me leaning toward liberal.",
+      "parentId": 9
     }
   ],
   "wikipediaData": {

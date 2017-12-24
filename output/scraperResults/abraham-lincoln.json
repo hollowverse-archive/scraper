@@ -33,140 +33,230 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Abraham Lincoln was born in a farmhouse in Hardin County, Kentucky in 1809. He was assassinated by John Wilkes Booth in Ford's Theater in Washington D.C. on April 14, 1865. He died after being in a coma for nine hours on April 15, 1865."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pl/Abraham_Lincoln.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Lincoln's religious beliefs is a topic of intrigue and debate. He was brought up in a very religious home and his family attended the Regular Baptist Church in Kentucky. As a politician in the public eye, Lincoln attended the New York Avenue Presbyterian Church. It is speculated that, as Lincoln never made an official statement regarding which denomination of Christianity he adhered to, that he was actually a bit disenchanted by the bitter and sometimes violent rivalries he witnessed between denominations growing up in Kentucky.",
       "sourceTitle": "The Religion of President Abraham Lincoln",
-      "text": "Lincoln's religious beliefs is a topic of intrigue and debate. He was brought up in a very religious home and his family attended the Regular Baptist Church in Kentucky. As a politician in the public eye, Lincoln attended the New York Avenue Presbyterian Church. It is speculated that, as Lincoln never made an official statement regarding which denomination of Christianity he adhered to, that he was actually a bit disenchanted by the bitter and sometimes violent rivalries he witnessed between denominations growing up in Kentucky."
+      "sourceUrl": "http://www.adherents.com/people/pl/Abraham_Lincoln.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Lincoln even spoke candidly about the fact that he wasn't an official member of any church–something no modern-day president would ever dream of–saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://showcase.netins.net/web/creative/lincoln/speeches/faithquotes.htm",
-      "sourceTitle": "Religious Quotations by Abraham Lincoln",
-      "text": "That I am not a member of any Christian Church, is true; but I have never denied the truth of the Scriptures; and I have never spoken with intentional disrespect of religion in general, or of any denomination of Christians in particular."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "That I am not a member of any Christian Church, is true; but I have never denied the truth of the Scriptures; and I have never spoken with intentional disrespect of religion in general, or of any denomination of Christians in particular.",
+      "sourceTitle": "Religious Quotations by Abraham Lincoln",
+      "sourceUrl": "http://showcase.netins.net/web/creative/lincoln/speeches/faithquotes.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "As Lincoln presided over the American Civil War, one of the darkest, most violent, and tragically divided periods of American history, he used the principles of Christianity to guide his people through it. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://showcase.netins.net/web/creative/lincoln/speeches/faithquotes.htm",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Intelligence, patriotism, Christianity, and a firm reliance on Him, who has never yet forsaken this favored land, are still competent to adjust, in the best way, all our present difficulty.",
       "sourceTitle": "Religious Quotations by Abraham Lincoln",
-      "text": "Intelligence, patriotism, Christianity, and a firm reliance on Him, who has never yet forsaken this favored land, are still competent to adjust, in the best way, all our present difficulty."
+      "sourceUrl": "http://showcase.netins.net/web/creative/lincoln/speeches/faithquotes.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.usnews.com/news/history/articles/2009/02/12/abraham-lincolns-religious-uncertainty?page=2",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "Lincoln also argued repeatedly that slavery was against the teachings of Christianity, that its principles included the freedom of all people, either black or white. Also, Lincoln felt that the bloody Civil War was, in some way, a punishment brought on America by God for the sin of keeping slaves.",
       "sourceTitle": "Abraham Lincoln's Religious Uncertainty",
-      "text": "Lincoln also argued repeatedly that slavery was against the teachings of Christianity, that its principles included the freedom of all people, either black or white. Also, Lincoln felt that the bloody Civil War was, in some way, a punishment brought on America by God for the sin of keeping slaves."
+      "sourceUrl": "http://www.usnews.com/news/history/articles/2009/02/12/abraham-lincolns-religious-uncertainty?page=2"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
       "text": "The horrors of the Civil War were incredibly painful for Lincoln and after the Battle of Gettysburg, where over 50,000 American soldiers died in three days, Lincoln wrote an entry in his journal that cemented the fact that, despite avoiding an adherence to any one church, Lincoln was indeed a religious Christian. He wrote:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 11
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.timetracts.com/Tracts/Abraham%20Lincoln%20and%20the%20Gettysburg%20Address.htm",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "When I left Springfield I asked the people to pray for me. I was not a Christian. When I buried my son, the severest trial of my life, I was not a Christian. But when I went to Gettysburg and saw the graves of thousands of our soldiers, I then and there consecrated myself to Christ. Yes, I do love Jesus.",
       "sourceTitle": "Abraham Lincoln and the Gettysburg Address",
-      "text": "When I left Springfield I asked the people to pray for me. I was not a Christian. When I buried my son, the severest trial of my life, I was not a Christian. But when I went to Gettysburg and saw the graves of thousands of our soldiers, I then and there consecrated myself to Christ. Yes, I do love Jesus."
+      "sourceUrl": "http://www.timetracts.com/Tracts/Abraham%20Lincoln%20and%20the%20Gettysburg%20Address.htm"
     },
     {
       "type": "heading",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
       "text": "Presidential politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/blogs/politics/2011/09/on-politicians-calling-lincoln-the-founder-of-the-republican-party/",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Abraham Lincoln was a Republican, the first Republican president for that matter, but not, as many assume, the founder of the Republican Party.",
       "sourceTitle": "On Politicians Calling Lincoln the Founder of the Republican Party",
-      "text": "Abraham Lincoln was a Republican, the first Republican president for that matter, but not, as many assume, the founder of the Republican Party."
+      "sourceUrl": "http://abcnews.go.com/blogs/politics/2011/09/on-politicians-calling-lincoln-the-founder-of-the-republican-party/"
     },
     {
-      "type": "sentence",
-      "text": "Though it is important to note that the Republican Party of today was quite different from the Republican Party of the Lincoln era."
+      "type": "text",
+      "text": "Though it is important to note that the Republican Party of today was quite different from the Republican Party of the Lincoln era.",
+      "parentId": 14
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.gilderlehrman.org/history-by-era/lincoln/essays/lincoln-and-abolitionism",
+      "parentId": 15,
+      "type": "text",
+      "text": "Lincoln's most important political position was that of abolitionist, that being he was against the use of slaves.",
       "sourceTitle": "Lincoln and Abolitionism",
-      "text": "Lincoln's most important political position was that of abolitionist, that being he was against the use of slaves."
+      "sourceUrl": "http://www.gilderlehrman.org/history-by-era/lincoln/essays/lincoln-and-abolitionism"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "He was president for five years and, as such, had to make a lot of political decisions. And it is difficult to make judgements such as \"liberal\" or \"conservative\" given the different culture that was America in the 1860s, but this author's opinion is that Lincoln would today be called a Libertarian. Consider these two quotes:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.quotesdaddy.com/author/Abraham+Lincoln/5",
-      "sourceTitle": "Famous Quotes by Abraham Lincoln",
-      "text": "I believe that every individual is naturally entitled to do as he pleases with himself and the fruits of his labor, so far as it in no way interferes with any other men's rights."
+      "id": 17
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "I believe that every individual is naturally entitled to do as he pleases with himself and the fruits of his labor, so far as it in no way interferes with any other men's rights.",
+      "sourceTitle": "Famous Quotes by Abraham Lincoln",
+      "sourceUrl": "http://www.quotesdaddy.com/author/Abraham+Lincoln/5"
+    },
+    {
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
       "text": "and:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.quotesdaddy.com/author/Abraham+Lincoln",
-      "sourceTitle": "Famous Quotes by Abraham Lincoln",
-      "text": "America will never be destroyed from the outside. If we falter and lose our freedoms, it will be because we destroyed ourselves."
+      "id": 20
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 21,
+      "parentId": 20
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "America will never be destroyed from the outside. If we falter and lose our freedoms, it will be because we destroyed ourselves.",
+      "sourceTitle": "Famous Quotes by Abraham Lincoln",
+      "sourceUrl": "http://www.quotesdaddy.com/author/Abraham+Lincoln"
+    },
+    {
+      "type": "paragraph",
+      "id": 22
+    },
+    {
+      "parentId": 22,
+      "type": "text",
       "text": "Lincoln was also wary of the tyranny of big business and some of the things he said could almost be called prophecy for the troubles of our modern day, such as:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.quotesdaddy.com/author/Abraham+Lincoln/5",
+      "id": 23
+    },
+    {
+      "type": "paragraph",
+      "id": 24,
+      "parentId": 23
+    },
+    {
+      "parentId": 24,
+      "type": "text",
+      "text": "I see in the near future a crisis approaching that unnerves me and causes me to tremble for the safety of my country. Corporations have been enthroned, an era of corruption in high places will follow, and the money-power of the country will endeavor to prolong its reign by working upon the prejudices of the people until the wealth is aggregated in a few hands and the Republic is destroyed.",
       "sourceTitle": "Famous Quotes by Abraham Lincoln",
-      "text": "I see in the near future a crisis approaching that unnerves me and causes me to tremble for the safety of my country. Corporations have been enthroned, an era of corruption in high places will follow, and the money-power of the country will endeavor to prolong its reign by working upon the prejudices of the people until the wealth is aggregated in a few hands and the Republic is destroyed."
+      "sourceUrl": "http://www.quotesdaddy.com/author/Abraham+Lincoln/5"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 25
+    },
+    {
+      "parentId": 25,
+      "type": "text",
       "text": "Whoa. Freaky, right?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

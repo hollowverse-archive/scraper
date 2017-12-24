@@ -32,101 +32,178 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Paul Wesley was born in New Brunswick, New Jersey and was raised in Marlboro Township, New Jersey."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.buddytv.com/info/paul-wesley-info.aspx",
+      "parentId": 2,
+      "type": "text",
+      "text": "He went to a Catholic school growing up, but says he got kicked out because he \"didn't jive well with them.\" But it's doubtful that was because of the Catholic aspect, because he says he didn't \"jive\" with the public school he went to after that either.",
       "sourceTitle": "Paul Wesley Biography.",
-      "text": "He went to a Catholic school growing up, but says he got kicked out because he \"didn't jive well with them.\" But it's doubtful that was because of the Catholic aspect, because he says he didn't \"jive\" with the public school he went to after that either."
+      "sourceUrl": "http://www.buddytv.com/info/paul-wesley-info.aspx"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Wesley doesn't sound much like a Catholic these days, though. He sounds like a Buddhist. He encouraged his fans on Twitter to meditate when he wrote:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/paulwesley/status/257878317338882048",
-      "sourceTitle": "paulwesley: my humble opinion/piece of …",
-      "text": "my humble opinion/piece of advice for the day: explore transcendental meditation as a means of stress relief/ problem solving."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "my humble opinion/piece of advice for the day: explore transcendental meditation as a means of stress relief/ problem solving.",
+      "sourceTitle": "paulwesley: my humble opinion/piece of …",
+      "sourceUrl": "https://twitter.com/paulwesley/status/257878317338882048"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "And when asked if he could be anyone else for a day, he responded that he'd like to be the Dalai Lama, or at least a Buddhist monk. He said,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 7
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://helenpony.tumblr.com/post/26345753670/tvn7-interview-with-paul-wesley-in-poland-2012",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Maybe the Dalai Lama, in order to see how it is to have no worries. Be completely focused and never have any ills or torment the defects, which, after all we have.",
       "sourceTitle": "TVN7 Interview with Paul Wesley in Poland 2012.",
-      "text": "Maybe the Dalai Lama, in order to see how it is to have no worries. Be completely focused and never have any ills or torment the defects, which, after all we have."
+      "sourceUrl": "http://helenpony.tumblr.com/post/26345753670/tvn7-interview-with-paul-wesley-in-poland-2012"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Left and Right, Right and Wrong"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Wesley appears to view politics as a moral issue of right and wrong. He tweeted,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 11
     },
     {
-      "type": "quote",
-      "sourceUrl": "https://twitter.com/paulwesley/status/240281720996380672",
+      "type": "paragraph",
+      "id": 12,
+      "parentId": 11
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Politics. . . We all know what's right and wrong. It's basic human instinct. But we let religion and political parties cloud our judgement.",
       "sourceTitle": "paulwesley: Politics… We all know what's …",
-      "text": "Politics. . . We all know what's right and wrong. It's basic human instinct. But we let religion and political parties cloud our judgement."
+      "sourceUrl": "https://twitter.com/paulwesley/status/240281720996380672"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://hotliberals.com/2012/02/27/paul-wesley/",
+      "type": "paragraph",
+      "id": 13
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "And even though I couldn't find anything about his views on specific hot topics in politics, it seems like he thinks the liberal contingent is on the right side of things. The website"
+    },
+    {
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "Hot Liberals"
+    },
+    {
+      "type": "text",
+      "text": "has claimed him for their own.",
+      "parentId": 13,
       "sourceTitle": "Paul Wesley.",
-      "text": "And even though I couldn't find anything about his views on specific hot topics in politics, it seems like he thinks the liberal contingent is on the right side of things. The website  has claimed him for their own."
+      "sourceUrl": "http://hotliberals.com/2012/02/27/paul-wesley/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.seventeen.com/entertainment/interviews/paul-wesley-17q#slide-10",
+      "parentId": 13,
+      "type": "emphasis",
+      "text": "The Huffington Post"
+    },
+    {
+      "type": "text",
+      "text": "is apparently his favorite website,",
+      "parentId": 13,
       "sourceTitle": "Meet The Vampire Diaries Actor Paul Wesley.",
-      "text": "is apparently his favorite website,"
+      "sourceUrl": "http://www.seventeen.com/entertainment/interviews/paul-wesley-17q#slide-10"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.conservapedia.com/Huffington_Post",
+      "type": "text",
+      "text": "which some conservatives claim is liberally biased.",
+      "parentId": 13,
       "sourceTitle": "Huffington Post.",
-      "text": "which some conservatives claim is liberally biased."
+      "sourceUrl": "http://www.conservapedia.com/Huffington_Post"
     },
     {
-      "type": "sentence",
-      "text": "And he made fun of a couple of the candidates in the 2012 Republican presidential nomination race when he tweeted:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "And he made fun of a couple of the candidates in the 2012 Republican presidential nomination race when he tweeted:",
+      "parentId": 13
     },
     {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/paulwesley/status/163818916160880640",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Herman Cain endorses Newt Gingrich?? Well in THAT case. . .",
       "sourceTitle": "paulwesley: Herman Cain endorses Newt …",
-      "text": "Herman Cain endorses Newt Gingrich?? Well in THAT case. . ."
+      "sourceUrl": "https://twitter.com/paulwesley/status/163818916160880640"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Maybe he doesn't want to outright support any political party because he doesn't want his vision to be clouded, but I feel pretty confident that he's not going to be voting for any Republicans any time soon."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

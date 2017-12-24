@@ -35,127 +35,182 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Warren Buffett was born and still lives in Omaha, Nebraska."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Buffett has quickly and efficiently handled inquiries into his religious beliefs, simply stating that he's agnostic, even though he was raised Presbyterian. He has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.philosopedia.org/index.php/Warren_Buffett",
-      "sourceTitle": "Warren Buffet",
-      "text": "The nice thing about an agnostic is you don't think anybody is wrong."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "The nice thing about an agnostic is you don't think anybody is wrong.",
+      "sourceTitle": "Warren Buffet",
+      "sourceUrl": "http://www.philosopedia.org/index.php/Warren_Buffett"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "As one of the world's most successful investors and financiers, this isn't a surprising take on religion. Good investors must understand very clearly if they don't know something and face up to that. Leaps of faith and speculation often results in disaster."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 6
     },
     {
-      "type": "heading",
+      "parentId": 6,
+      "type": "text",
       "text": "Buffet's politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Buffett has stated that his concerns, rather than spiritual, are secular. There is much evidence for this in his financial prowess and political influence. Buffett is a registered Democrat and has backed the Obama administration, even offering economic advice directly to the president."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "He took a hard line against John McCain during the 2008 elections, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.cnbc.com/id/24469771/site/14081545/page/3/",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Unless he has a, I wouldn't say a sex change, but a lobotomy or something, I don't think McCain is going to change his views to be in accord with mine.",
       "sourceTitle": "CNBC's Becky Quick Sits Down with Billionaire Investor Warren Buffett on CNBC's \"Squawk Box.\"",
-      "text": "Unless he has a, I wouldn't say a sex change, but a lobotomy or something, I don't think McCain is going to change his views to be in accord with mine."
+      "sourceUrl": "http://www.cnbc.com/id/24469771/site/14081545/page/3/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/blogs/politics/2012/02/buffett-rule-legislation-introduced-in-the-senate/",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Obama recently introduced legislation inspired by and named after Warren Buffet, called the \"Buffett Rule.\" This bill sought to raise taxes on the rich and came to be after Buffett pointed out that he paid only 19% of his income in taxes while most of his much-less wealthy employees paid 33%.",
       "sourceTitle": "'Buffett Rule' Legislation Introduced in the Senate",
-      "text": "Obama recently introduced legislation inspired by and named after Warren Buffet, called the \"Buffett Rule.\" This bill sought to raise taxes on the rich and came to be after Buffett pointed out that he paid only 19% of his income in taxes while most of his much-less wealthy employees paid 33%."
+      "sourceUrl": "http://abcnews.go.com/blogs/politics/2012/02/buffett-rule-legislation-introduced-in-the-senate/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2010/03/01/warren-buffett-on-cnbc-he_n_480399.html",
+      "parentId": 12,
+      "type": "text",
+      "text": "While a staunch supporter of the president, Buffett has been critical of some of Obama's policies, including his health care plan. Buffett supported the idea but claimed that it simply wasn't large enough to really help the American people.",
       "sourceTitle": "Warren Buffett on CNBC: Health Care Is Like An Economic 'Tapeworm.'",
-      "text": "While a staunch supporter of the president, Buffett has been critical of some of Obama's policies, including his health care plan. Buffett supported the idea but claimed that it simply wasn't large enough to really help the American people."
+      "sourceUrl": "http://www.huffingtonpost.com/2010/03/01/warren-buffett-on-cnbc-he_n_480399.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "He was also critical of the continuously rising national debt, expressing serious concerns about inflation and America's debt to foreign countries. Buffett worries that the American people could become slaves to foreign creditors, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/business/2005/mar/07/usnews.internationalnews",
+      "id": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "This annual royalty paid [to] the world would undoubtedly produce significant political unrest in the US. Americans … would chafe at the idea of perpetually paying tribute to their creditors and owners abroad. A country that is now aspiring to an 'ownership society' will not find happiness in – and I'll use hyperbole here for emphasis – a 'sharecropper's society'.",
       "sourceTitle": "Buffett attacks America spending junkies",
-      "text": "This annual royalty paid [to] the world would undoubtedly produce significant political unrest in the US. Americans … would chafe at the idea of perpetually paying tribute to their creditors and owners abroad. A country that is now aspiring to an 'ownership society' will not find happiness in – and I'll use hyperbole here for emphasis – a 'sharecropper's society'."
+      "sourceUrl": "http://www.guardian.co.uk/business/2005/mar/07/usnews.internationalnews"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://money.cnn.com/2006/06/25/magazines/fortune/charity1.fortune/",
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
+      "text": "Buffet, who is in the top 5 richest men in the world, puts his money where his mouth is. He has pledged to give away 99% of his fortune to charity upon his death, most of which would go to the Bill and Melinda Gates Foundation.",
       "sourceTitle": "Warren Buffett gives away his fortune",
-      "text": "Buffet, who is in the top 5 richest men in the world, puts his money where his mouth is. He has pledged to give away 99% of his fortune to charity upon his death, most of which would go to the Bill and Melinda Gates Foundation."
+      "sourceUrl": "http://money.cnn.com/2006/06/25/magazines/fortune/charity1.fortune/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 17
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.nndb.com/people/445/000022379/",
+      "parentId": 17,
+      "type": "text",
+      "text": "Also, Buffett has given–and pledged to give more–to women's reproductive health causes, proving that he's a liberal and supporting the pro-choice initiative.",
       "sourceTitle": "Warren Buffet",
-      "text": "Also, Buffett has given–and pledged to give more–to women's reproductive health causes, proving that he's a liberal and supporting the pro-choice initiative."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.nndb.com/people/445/000022379/"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Warren_Buffett",
     "title": "Warren Buffett",
     "image": {
-      "name": "Warren_Buffett_KU_Visit.jpg",
+      "name": "Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg",
       "info": {
-        "canonicaltitle": "File:Warren Buffett KU Visit.jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Warren_Buffett_KU_Visit.jpg/246px-Warren_Buffett_KU_Visit.jpg",
-        "thumbwidth": 246,
+        "canonicaltitle": "File:Warren Buffett at the 2015 SelectUSA Investment Summit.jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg/353px-Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg",
+        "thumbwidth": 353,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Warren_Buffett_KU_Visit.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Warren_Buffett_KU_Visit.jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2581999",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=49284910",
         "extmetadata": {
           "DateTime": {
-            "value": "2014-03-06 07:13:07",
+            "value": "2016-06-06 20:06:01",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "Warren Buffett KU Visit",
+            "value": "Warren Buffett at the 2015 SelectUSA Investment Summit",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -165,7 +220,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Items with OTRS permission confirmed|Warren Buffett",
+            "value": "CC-PD-Mark|PD US Government|Warren Buffett",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -175,49 +230,44 @@
             "hidden": ""
           },
           "ImageDescription": {
-            "value": "Warren Buffett speaking to a group of students from the University of Kansas School of Business",
+            "value": "Warren Buffett at the 2015 SelectUSA Investment Summit",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "2005-05-06",
+            "value": "2015-04-17",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "Work of Mark Hirschey",
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.youtube.com/watch?v=GLKDFhCjaY4\">https://www.youtube.com/watch?v=GLKDFhCjaY4</a>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Artist": {
-            "value": "Mark Hirschey",
+            "value": "USA International Trade Administration",
             "source": "commons-desc-page"
           },
           "Permission": {
-            "value": "<table class=\"messagebox layouttemplate\" style=\"margin:0.3em 0;width:100%;direction:ltr\"><tr>\n<td width=\"70\">\n<img alt=\"OTRS Wikimedia\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/70px-OTRS_Wikimedia.svg.png\" title=\"OTRS Wikimedia\" width=\"70\" height=\"38\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/105px-OTRS_Wikimedia.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/140px-OTRS_Wikimedia.svg.png 2x\" data-file-width=\"120\" data-file-height=\"65\"><p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionOTRS 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2007081810009083 2%3D2007081810009083\"> </span></p>\n</td>\n<td>\n<span lang=\"en\" class=\"description en\">This work is <a href=\"http://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.</span>\n<p><span lang=\"en\" class=\"description en\">Wikimedia has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <b><span style=\"background:transparent;color:#0f7f1f;\" title=\"transparent\">reviewed</span></b> by an <a href=\"//commons.wikimedia.org/wiki/Category:Commons_OTRS_volunteers\" title=\"Category:Commons OTRS volunteers\">OTRS member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:OTRS\" title=\"Commons:OTRS\">permission archive</a>. The correspondence is available to trusted volunteers <span class=\"plainlinksneverexpand\">as <b><a class=\"external text\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2007081810009083\">ticket #2007081810009083</a></b></span>.</span></p>\n<p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:OTRS/Noticeboard\" title=\"Commons:OTRS/Noticeboard\">OTRS noticeboard</a>.</small><br><small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2007081810009083\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2007081810009083</a></small> <span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2007081810009083\"></span></p>\n</td>\n</tr></table>\n<span class=\"autoconfonly\" id=\"otrstemplatewr\" style=\"display:none;\"></span>",
+            "value": "<table class=\"licensetpl\" style=\"display:none\"><tr>\n<td>\n<span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td>\n</tr></table>\n<table style=\"width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr; border-spacing: 8px; padding: 0px;\" class=\"layouttemplate mw-content-ltr\" lang=\"en\">\n<tr>\n<td><img alt=\"Public domain\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/64px-PD-icon.svg.png\" title=\"Public domain\" width=\"64\" height=\"64\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/96px-PD-icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png 2x\" data-file-width=\"196\" data-file-height=\"196\"></td>\n<td>\n<span lang=\"en\" class=\"description en\"><i>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"w:Public domain\">public domain</a></b> in the United States because it is a <a href=\"https://en.wikipedia.org/wiki/Copyright_status_of_work_by_the_U.S._government\" class=\"extiw\" title=\"en:Copyright status of work by the U.S. government\">work prepared by an officer or employee of the United States Government as part of that person’s official duties</a> under the terms of</i> Title 17, Chapter 1, Section 105 of the <a href=\"https://en.wikipedia.org/wiki/United_States_Code\" class=\"extiw\" title=\"w:United States Code\">US Code</a><i>. See <a href=\"https://en.wikipedia.org/wiki/Copyright\" class=\"extiw\" title=\"en:Copyright\">Copyright</a>.</i></span>\n<p><span lang=\"en\" class=\"description en\"><small><b><u>Note</u>: This only applies to original works of the Federal Government and not to the work of any individual <a href=\"https://en.wikipedia.org/wiki/U.S._state\" class=\"extiw\" title=\"en:U.S. state\">U.S. state</a>, <a href=\"https://en.wikipedia.org/wiki/United_States_Territory\" class=\"extiw\" title=\"w:United States Territory\">territory</a>, commonwealth, county, municipality, or any other subdivision. This template also does not apply to postage stamp designs published by the <a href=\"https://en.wikipedia.org/wiki/United_States_Postal_Service\" class=\"extiw\" title=\"w:United States Postal Service\">United States Postal Service</a> <a href=\"//commons.wikimedia.org/wiki/Stamps_of_the_United_States#Copyright-Note_up_to_1978\" title=\"Stamps of the United States\">since 1978</a>. (See § <a rel=\"nofollow\" class=\"external text\" href=\"http://copyright.gov/comp3/chap300/ch300-copyrightable-authorship.pdf\">313.6(C)(1)</a> of Compendium of U.S. Copyright Office Practices). It also does not apply to certain US coins; see <a rel=\"nofollow\" class=\"external text\" href=\"http://www.usmint.gov/policy/?action=TermsOfUse\">The US Mint Terms of Use</a>.</b></small></span></p>\n</td>\n<td>\n<div class=\"floatright\"><img alt=\"Great Seal of the United States (obverse).svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/64px-Great_Seal_of_the_United_States_%28obverse%29.svg.png\" width=\"64\" height=\"64\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/96px-Great_Seal_of_the_United_States_%28obverse%29.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/128px-Great_Seal_of_the_United_States_%28obverse%29.svg.png 2x\" data-file-width=\"600\" data-file-height=\"600\"></div>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">\n<center><span style=\"font-size:x-small;line-height:140%\" class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a></span></center>\n</td>\n</tr>\n</table>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "LicenseShortName": {
-            "value": "CC BY-SA 2.0",
+            "value": "Public domain",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "UsageTerms": {
-            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "value": "Public domain",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "AttributionRequired": {
-            "value": "true",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "LicenseUrl": {
-            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "value": "false",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "Copyrighted": {
-            "value": "True",
+            "value": "False",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -227,7 +277,7 @@
             "hidden": ""
           },
           "License": {
-            "value": "cc-by-sa-2.0",
+            "value": "pd",
             "source": "commons-templates",
             "hidden": ""
           }

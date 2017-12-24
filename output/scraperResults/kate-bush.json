@@ -34,92 +34,144 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Kate Bush was born and raised in London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "She was raised Roman Catholic, and went to Catholic schools growing up. Although she said it had a big influence on her, she didn't feel that the Church was the right fit for her. She said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.paradiseplace.org.uk/Kate/Katep15.htm",
-      "sourceTitle": "Kate bush: Q magazine HMV Mini edition 1990.",
-      "text": "I think I'm looking for not necessarily religion, but ways of helping myself to become more understanding, more complete, a happier person–what we all want in life. But I really don't think I've found a niche."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I think I'm looking for not necessarily religion, but ways of helping myself to become more understanding, more complete, a happier person–what we all want in life. But I really don't think I've found a niche.",
+      "sourceTitle": "Kate bush: Q magazine HMV Mini edition 1990.",
+      "sourceUrl": "http://www.paradiseplace.org.uk/Kate/Katep15.htm"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "The spiritual is not only a big part of her life, but a huge part of her music as well. She said she felt that creativity was a way for her to fill the emptiness in life, that it was \"connected to religion–real religion.\" The first time she felt a divine inspiration in her work was with the song \"Breathing.\" She said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.paradiseplace.org.uk/Kate/Katep15.htm",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "When I was writing it, it felt like: Hang on, I don't think I'm writing this–this is a bit too good for me! Rather than the song being my creation, I was a vehicle for something that was coming through me.",
       "sourceTitle": "Kate bush: Q magazine HMV Mini edition 1990.",
-      "text": "When I was writing it, it felt like: Hang on, I don't think I'm writing this–this is a bit too good for me! Rather than the song being my creation, I was a vehicle for something that was coming through me."
+      "sourceUrl": "http://www.paradiseplace.org.uk/Kate/Katep15.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.scribd.com/doc/33030824/The-Kate-Bush-Mysteries-Fact-or-Fiction",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "She has expressed interest in several spiritual paths throughout her life including astrology, the paranormal, and some new age mystic beliefs, but none seem to have stuck with her as particularly influential.",
       "sourceTitle": "The Kate Bush Mysteries; Fact or Fiction?",
-      "text": "She has expressed interest in several spiritual paths throughout her life including astrology, the paranormal, and some new age mystic beliefs, but none seem to have stuck with her as particularly influential."
+      "sourceUrl": "http://www.scribd.com/doc/33030824/The-Kate-Bush-Mysteries-Fact-or-Fiction"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
+      "parentId": 9,
+      "type": "text",
       "text": "Her reclusiveness and unwillingness to live life in the public eye means we don't have a perfectly cohesive concept of her current spirituality. But regardless of where she stands, it's clear that she actively searched for spiritual answers during her life and that she is deeply interested in the other-worldly–whatever form it may take."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Emotions, not politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://web.archive.org/web/20050426133822/http://children.ofthenight.org/cloudbusting/subjects/politics.html",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "We don't have a whole lot on Kate Bush's political views. But in one interview she reveals a disconnected albeit compassionate view of the political. She seemed deeply concerned about the poor and the unemployed, and she thought maybe returning to a bartering system rather than currency could help alleviate the problem.",
       "sourceTitle": "Cloudbusting – Kate Bush In Her Own Words.",
-      "text": "We don't have a whole lot on Kate Bush's political views. But in one interview she reveals a disconnected albeit compassionate view of the political. She seemed deeply concerned about the poor and the unemployed, and she thought maybe returning to a bartering system rather than currency could help alleviate the problem."
+      "sourceUrl": "http://web.archive.org/web/20050426133822/http://children.ofthenight.org/cloudbusting/subjects/politics.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://web.archive.org/web/20050426133822/http://children.ofthenight.org/cloudbusting/subjects/politics.html",
+      "parentId": 12,
+      "type": "text",
+      "text": "She almost sounds like an anarchist, doesn't she? But when asked about her opinion of Conservative Prime Minister Margaret Thatcher, although she claimed she didn't know enough to say, lamented cuts to the National Health Service.",
       "sourceTitle": "Cloudbusting – Kate Bush In Her Own Words.",
-      "text": "She almost sounds like an anarchist, doesn't she? But when asked about her opinion of Conservative Prime Minister Margaret Thatcher, although she claimed she didn't know enough to say, lamented cuts to the National Health Service."
+      "sourceUrl": "http://web.archive.org/web/20050426133822/http://children.ofthenight.org/cloudbusting/subjects/politics.html"
     },
     {
-      "type": "sentence",
-      "text": "So maybe she's a fan of Labour? Or a socialist? Not likely. Bush said that it's only when politics touch the emotional that she becomes interested. Otherwise,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "So maybe she's a fan of Labour? Or a socialist? Not likely. Bush said that it's only when politics touch the emotional that she becomes interested. Otherwise,",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://web.archive.org/web/20050426133822/http://children.ofthenight.org/cloudbusting/subjects/politics.html",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I don't think I'm politically minded at all. Politics are . . . just not a part of me. I don't understand politics, I don't like what I see in politics. I don't see politics doing any good for people, really.",
       "sourceTitle": "Cloudbusting – Kate Bush In Her Own Words.",
-      "text": "I don't think I'm politically minded at all. Politics are . . . just not a part of me. I don't understand politics, I don't like what I see in politics. I don't see politics doing any good for people, really."
+      "sourceUrl": "http://web.archive.org/web/20050426133822/http://children.ofthenight.org/cloudbusting/subjects/politics.html"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "In other words, the politicians are all the same and none of them are any good in the end. Let's just stop arguing and start trading chickens for gasoline and we'll be in all right shape."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

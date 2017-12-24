@@ -33,102 +33,147 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Zoe Saldana, whose birth name was Zoe Yadira Saldaña Nazario, was born in Passaic, New Jersey and grew up in Queens, New York and the Dominican Republic."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://hollywoodlife.com/2010/06/30/zoe-saldana-keith-britton-engaged/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Saldana isn't one to spill all her thoughts and secrets to the press. She tries to keep her personal life as private as possible.",
       "sourceTitle": "Zoe Saldana, Congrats On Your Engagement To Keith Britton!",
-      "text": "Saldana isn't one to spill all her thoughts and secrets to the press. She tries to keep her personal life as private as possible."
+      "sourceUrl": "http://hollywoodlife.com/2010/06/30/zoe-saldana-keith-britton-engaged/"
     },
     {
-      "type": "sentence",
-      "text": "So I'm not going to take her silence on religion as an indication that she's non-religious."
+      "type": "text",
+      "text": "So I'm not going to take her silence on religion as an indication that she's non-religious.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0757855/bio",
+      "parentId": 3,
+      "type": "text",
+      "text": "Her father was from the Dominican Republic and her mother is from Puerto Rico",
       "sourceTitle": "Zoe Saldana – Biography.",
-      "text": "Her father was from the Dominican Republic and her mother is from Puerto Rico"
+      "sourceUrl": "http://www.imdb.com/name/nm0757855/bio"
     },
     {
-      "type": "sentence",
-      "text": "–two very Catholic countries. So there's a very good chance the actress was raised in a Catholic household."
+      "type": "text",
+      "text": "–two very Catholic countries. So there's a very good chance the actress was raised in a Catholic household.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.zimbio.com/photos/Zoe+Saldana/Zoe+Saldana+Films+Blood+Ties/1L2-8DoI6Mu",
+      "parentId": 4,
+      "type": "text",
+      "text": "She'll occasionally wear a cross around her neck,",
       "sourceTitle": "Zoe Saldana Photos – Zoe Saldana Films 'Blood Ties.'",
-      "text": "She'll occasionally wear a cross around her neck,"
+      "sourceUrl": "http://www.zimbio.com/photos/Zoe+Saldana/Zoe+Saldana+Films+Blood+Ties/1L2-8DoI6Mu"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://movies.about.com/od/guesswho/a/guesszs031305.htm",
+      "type": "text",
+      "text": "and she also says things here and there that make her sound religious. She called Bernie Mac and Ashton Kutcher's comedic talent \"God-given,\"",
+      "parentId": 4,
       "sourceTitle": "Zoe Saldana on Guess Who with Bernie Mac and Ashton Kutcher.",
-      "text": "and she also says things here and there that make her sound religious. She called Bernie Mac and Ashton Kutcher's comedic talent \"God-given,\""
+      "sourceUrl": "http://movies.about.com/od/guesswho/a/guesszs031305.htm"
     },
     {
-      "type": "sentence",
-      "text": "and she this about maintaining her physical appeal:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and she this about maintaining her physical appeal:",
+      "parentId": 4
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.mythirtyspot.com/2011/08/zoe-saldana-talks-beauty-picks-fitness.html",
-      "sourceTitle": "Zoe Saldana Talks Beauty Picks, Fitness and Being in Her 30's.",
-      "text": "God as my witness, I am going to try to do everything I can to keep this ass together for as long as I possibly can."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "God as my witness, I am going to try to do everything I can to keep this ass together for as long as I possibly can.",
+      "sourceTitle": "Zoe Saldana Talks Beauty Picks, Fitness and Being in Her 30's.",
+      "sourceUrl": "http://www.mythirtyspot.com/2011/08/zoe-saldana-talks-beauty-picks-fitness.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Well, I don't know if God's listening, but we are."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 8
     },
     {
-      "type": "heading",
+      "parentId": 8,
+      "type": "text",
       "text": "Black and not black enough"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Just like her religion, Saldana doesn't talk about politics much. The only comment I could find from her about Obama was in the context of her chastising colleagues for complaining about the limited roles available for black actresses:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://iluluonline.com/zoe-saldana-obama-equals-more-opportunities-for-black-actresses/",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "We have a black president right now. So why the fuck would I sit down and talk about how hard it is for black women in Hollywood when there's a black president in my country?",
       "sourceTitle": "Zoe Saldana: Obama Equals More Opportunities For Black Actresses.",
-      "text": "We have a black president right now. So why the fuck would I sit down and talk about how hard it is for black women in Hollywood when there's a black president in my country?"
+      "sourceUrl": "http://iluluonline.com/zoe-saldana-obama-equals-more-opportunities-for-black-actresses/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://latino.foxnews.com/latino/entertainment/2012/09/14/zoe-saldana-urged-to-not-play-nina-simone-in-biopic-in-online-petition-report/",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Her casting as Nina Simone in that singer's biopic caused a small storm of a controversy. Fans who see Simone's embrace of her African features as essential to her portrayal think Saldana's skin isn't dark enough and her nose and lips aren't wide enough–in other words, she's not black enough.",
       "sourceTitle": "Zoe Saldana Urged Not to Play Nina Simone in Biopic, Report Says.",
-      "text": "Her casting as Nina Simone in that singer's biopic caused a small storm of a controversy. Fans who see Simone's embrace of her African features as essential to her portrayal think Saldana's skin isn't dark enough and her nose and lips aren't wide enough–in other words, she's not black enough."
+      "sourceUrl": "http://latino.foxnews.com/latino/entertainment/2012/09/14/zoe-saldana-urged-to-not-play-nina-simone-in-biopic-in-online-petition-report/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "The actress hasn't responded to the criticisms yet, but I imagine she's got some opinions. After all, shouldn't having a light-skinned black president open doors for light-skinned black actresses?"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

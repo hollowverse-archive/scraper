@@ -34,113 +34,230 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jack London, whose given name was John Griffith Chaney, was born and raised in the San Francisco Bay Area, California. The cause of London's death is disputed, with some claiming intentional morphine overdose, though the official report cites kidney failure. Either way, he died on his ranch in Sonoma County, California in 1916."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.jacklondons.net/parentage.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "There's not much to go on regarding what London's childhood religion was, though the"
+    },
+    {
+      "parentId": 2,
+      "type": "emphasis",
+      "text": "San Francisco Chronicle"
+    },
+    {
+      "type": "text",
+      "text": "reported that London's father, William Chaney (an astrologer), \"blasphemed the Christian religion.\"",
+      "parentId": 2,
       "sourceTitle": "Jack London's Parentage (The World of Jack London)",
-      "text": "There's not much to go on regarding what London's childhood religion was, though the  reported that London's father, William Chaney (an astrologer), \"blasphemed the Christian religion.\""
+      "sourceUrl": "http://www.jacklondons.net/parentage.html"
     },
     {
-      "type": "sentence",
-      "text": "So whatever it was, London's religious upbringing was probably rather unorthodox, even by modern standards."
+      "type": "text",
+      "text": "So whatever it was, London's religious upbringing was probably rather unorthodox, even by modern standards.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "Ultimately, London was an atheist. He said things like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://ffrf.org/news/day/famous-freethinkers-secular-stars/spotlight/item/14141-jack-london",
+      "id": 4
+    },
+    {
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I believe that when I am dead, I am dead. I believe that with my death I am just as much obliterated as the last mosquito you and I squashed.",
       "sourceTitle": "Jack London",
-      "text": "I believe that when I am dead, I am dead. I believe that with my death I am just as much obliterated as the last mosquito you and I squashed."
+      "sourceUrl": "http://ffrf.org/news/day/famous-freethinkers-secular-stars/spotlight/item/14141-jack-london"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://london.sonoma.edu/Essays/philosophy.html",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "One cannot deny that London had a deep respect for nature, and it wouldn't be too much of a stretch to assert that it bordered on religious. The subject matter of much of his work ("
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "Call of the Wild"
+    },
+    {
+      "type": "text",
+      "text": "or",
+      "parentId": 6
+    },
+    {
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "The Sea-Wolf"
+    },
+    {
+      "type": "text",
+      "text": "for example) are about the awesome power, or blatant reality, of nature without the trappings of human morality. He occasionally wrote of \"Atavism\" in his work, the idea that inherited ancestral traits emerge (through genetics or in some spiritual sense) in progeny.",
+      "parentId": 6,
       "sourceTitle": "The Philosophy of Jack London",
-      "text": "One cannot deny that London had a deep respect for nature, and it wouldn't be too much of a stretch to assert that it bordered on religious. The subject matter of much of his work ( or  for example) are about the awesome power, or blatant reality, of nature without the trappings of human morality. He occasionally wrote of \"Atavism\" in his work, the idea that inherited ancestral traits emerge (through genetics or in some spiritual sense) in progeny."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://london.sonoma.edu/Essays/philosophy.html"
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Lamb of Early 20th Century Philosophy"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://london.sonoma.edu/Essays/philosophy.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "London read widely and drew from a diverse group of thinkers and philosophers that were popular and/or active during his lifetime. London credited many of these thinkers publicly, with the most well-known probably being Friedrich Nietzsche, Herbert Spencer, Karl Marx and Charles Darwin.",
       "sourceTitle": "The Philosophy of Jack London",
-      "text": "London read widely and drew from a diverse group of thinkers and philosophers that were popular and/or active during his lifetime. London credited many of these thinkers publicly, with the most well-known probably being Friedrich Nietzsche, Herbert Spencer, Karl Marx and Charles Darwin."
+      "sourceUrl": "http://london.sonoma.edu/Essays/philosophy.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://london.sonoma.edu/Essays/philosophy.html",
+      "parentId": 9,
+      "type": "text",
+      "text": "Throughout the bulk of his life, London was explicitly a socialist and twice ran for mayor of the city of Oakland as a Socialist and lost both times.",
       "sourceTitle": "The Philosophy of Jack London",
-      "text": "Throughout the bulk of his life, London was explicitly a socialist and twice ran for mayor of the city of Oakland as a Socialist and lost both times."
+      "sourceUrl": "http://london.sonoma.edu/Essays/philosophy.html"
     },
     {
-      "type": "sentence",
-      "text": "He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.online-literature.com/keats/3875/",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I have opened many books, but no economic argument, no lucid demonstration of the logic and inevitableness of Socialism affects me as profoundly and convincingly as I was affected on the day when I first saw the walls of the Social Pit rise around me and felt myself slipping down, down, into the shambles at the bottom.",
       "sourceTitle": "How I Became A Socialist By Jack London",
-      "text": "I have opened many books, but no economic argument, no lucid demonstration of the logic and inevitableness of Socialism affects me as profoundly and convincingly as I was affected on the day when I first saw the walls of the Social Pit rise around me and felt myself slipping down, down, into the shambles at the bottom."
+      "sourceUrl": "http://www.online-literature.com/keats/3875/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://london.sonoma.edu/Essays/philosophy.html",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Things get a bit iffy when one, even briefly, considers some of London's other philosophical, sociological endorsements–namely Social Darwinism and the philosophy of Nietzsche.",
       "sourceTitle": "The Philosophy of Jack London",
-      "text": "Things get a bit iffy when one, even briefly, considers some of London's other philosophical, sociological endorsements–namely Social Darwinism and the philosophy of Nietzsche."
+      "sourceUrl": "http://london.sonoma.edu/Essays/philosophy.html"
     },
     {
-      "type": "sentence",
-      "text": "Of the latter, London wrote:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Of the latter, London wrote:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://london.sonoma.edu/Essays/philosophy.html",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I have been more stimulated by Nietzsche than by any other writer in the world.",
       "sourceTitle": "The Philosophy of Jack London",
-      "text": "I have been more stimulated by Nietzsche than by any other writer in the world."
+      "sourceUrl": "http://london.sonoma.edu/Essays/philosophy.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://london.sonoma.edu/Essays/philosophy.html",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "Considering that both Nietzsche, with his Master/Slave morality and his ideal \"Superman,\" and the almost"
+    },
+    {
+      "parentId": 15,
+      "type": "link",
+      "text": "Objectivist",
+      "sourceUrl": "http://en.wikipedia.org/wiki/Objectivism_%28Ayn_Rand%29"
+    },
+    {
+      "type": "text",
+      "text": ", meritocratic philosophy fundamental in the ideas of Social Darwinism, are diametrically opposed to the equity-oriented tenets of socialism, London comes off as a bit hypocritical. He realized this, however, and London considered his books",
+      "parentId": 15
+    },
+    {
+      "parentId": 15,
+      "type": "emphasis",
+      "text": "The Sea Wolf"
+    },
+    {
+      "type": "text",
+      "text": "and",
+      "parentId": 15
+    },
+    {
+      "parentId": 15,
+      "type": "emphasis",
+      "text": "Martin Eden"
+    },
+    {
+      "type": "text",
+      "text": "as counter-arguments to the selfish individualism of Nietzsche's Superman. Still, London considered the idea of a \"socialist Superman\" that included in his ideal traits a genuine concern for his fellow man.",
+      "parentId": 15,
       "sourceTitle": "The Philosophy of Jack London",
-      "text": "Considering that both Nietzsche, with his Master/Slave morality and his ideal \"Superman,\" and the almost , meritocratic philosophy fundamental in the ideas of Social Darwinism, are diametrically opposed to the equity-oriented tenets of socialism, London comes off as a bit hypocritical. He realized this, however, and London considered his books  and  as counter-arguments to the selfish individualism of Nietzsche's Superman. Still, London considered the idea of a \"socialist Superman\" that included in his ideal traits a genuine concern for his fellow man."
+      "sourceUrl": "http://london.sonoma.edu/Essays/philosophy.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "Regardless, London seemed to have been more swayed by passionate thinkers and persuasive writers than he was committed to his convictions."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -32,122 +32,162 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sir Alex Ferguson was born and raised in Glasgow, Scotland."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/football/2008/may/18/manchesterunited",
+      "parentId": 2,
+      "type": "text",
+      "text": "Ferguson is the son of a Protestant father and a Catholic mother. He identifies as Protestant himself, though he, too, married a Catholic woman.",
       "sourceTitle": "Profile: Manchester United manager Sir Alex Ferguson",
-      "text": "Ferguson is the son of a Protestant father and a Catholic mother. He identifies as Protestant himself, though he, too, married a Catholic woman."
+      "sourceUrl": "http://www.guardian.co.uk/football/2008/may/18/manchesterunited"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.bbc.co.uk/news/uk-scotland-glasgow-west-11014344",
+      "parentId": 3,
+      "type": "text",
+      "text": "There isn't much from Ferguson about faith or religion or God. He doesn't seem like the type. Other than him garnering press attention by attending funerals of famous Scots,",
       "sourceTitle": "Final farewell for Glasgow shipyard leader Jimmy Reid",
-      "text": "There isn't much from Ferguson about faith or religion or God. He doesn't seem like the type. Other than him garnering press attention by attending funerals of famous Scots,"
+      "sourceUrl": "http://www.bbc.co.uk/news/uk-scotland-glasgow-west-11014344"
     },
     {
-      "type": "sentence",
-      "text": "there's not even any mention of him going to church."
+      "type": "text",
+      "text": "there's not even any mention of him going to church.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.therangersstandard.co.uk/index.php/articles/rfc-politics/136-rangers-protestantism-and-scottish-society",
+      "parentId": 4,
+      "type": "text",
+      "text": "However, he spent part of his professional football career playing for the Glasgow Rangers, an organization known for its Protestant ties and anti-Catholic sentiment. Ferguson has even written about encountering resistance during his time with the Rangers for having a Catholic wife.",
       "sourceTitle": "Rangers, Protestantism and Scottish Society",
-      "text": "However, he spent part of his professional football career playing for the Glasgow Rangers, an organization known for its Protestant ties and anti-Catholic sentiment. Ferguson has even written about encountering resistance during his time with the Rangers for having a Catholic wife."
+      "sourceUrl": "http://www.therangersstandard.co.uk/index.php/articles/rfc-politics/136-rangers-protestantism-and-scottish-society"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.scotzine.com/2010/11/is-sir-alex-ferguson-pandering-to-the-religious-bigots-of-rangers-fc/",
+      "parentId": 5,
+      "type": "text",
+      "text": "Even in modern times, Ferguson has had to grapple with lingering anti-Catholic feelings. There was speculation that if Ferguson drafted devout Catholic footballer, Javier Hernandez, (who is known for his pre-match Catholic rituals) to Manchester United, Ranger fans might be a bit more than upset when the two teams played each other.",
       "sourceTitle": "Is Sir Alex Ferguson Pandering To The Religious Bigots Within Rangers FC Fanbase",
-      "text": "Even in modern times, Ferguson has had to grapple with lingering anti-Catholic feelings. There was speculation that if Ferguson drafted devout Catholic footballer, Javier Hernandez, (who is known for his pre-match Catholic rituals) to Manchester United, Ranger fans might be a bit more than upset when the two teams played each other."
+      "sourceUrl": "http://www.scotzine.com/2010/11/is-sir-alex-ferguson-pandering-to-the-religious-bigots-of-rangers-fc/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/football/2008/may/18/manchesterunited",
+      "type": "text",
+      "text": "As far as I can tell, Ferguson simply dismissed this problem as ridiculous. He does have a reputation of opposition to the sectarianism often problematic in Glasgow.",
+      "parentId": 5,
       "sourceTitle": "Profile: Manchester United manager Sir Alex Ferguson",
-      "text": "As far as I can tell, Ferguson simply dismissed this problem as ridiculous. He does have a reputation of opposition to the sectarianism often problematic in Glasgow."
+      "sourceUrl": "http://www.guardian.co.uk/football/2008/may/18/manchesterunited"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "Ultimately, he's a man of Scottish tradition and a fixture in Scottish society–which happens to include Protestantism and the Church of Scotland. However, personally, he seems largely non-religious."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Labour roots and a Tory life"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/news/features/3632436/Family-detective.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Ferguson grew up at the end of a long line of shipbuilders.",
       "sourceTitle": "Family Detective",
-      "text": "Ferguson grew up at the end of a long line of shipbuilders."
+      "sourceUrl": "http://www.telegraph.co.uk/news/features/3632436/Family-detective.html"
     },
     {
-      "type": "sentence",
-      "text": "His upbringing was a working class one, and if it wasn't for football, Ferguson likely would have lived a similar life."
+      "type": "text",
+      "text": "His upbringing was a working class one, and if it wasn't for football, Ferguson likely would have lived a similar life.",
+      "parentId": 8
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.guardian.co.uk/football/2008/may/18/manchesterunited",
+      "parentId": 9,
+      "type": "text",
+      "text": "His background has made him a union supporter",
       "sourceTitle": "Profile: Manchester United manager Sir Alex Ferguson",
-      "text": "His background has made him a union supporter"
+      "sourceUrl": "http://www.guardian.co.uk/football/2008/may/18/manchesterunited"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://news.bbc.co.uk/2/hi/uk_news/politics/161057.stm",
+      "type": "text",
+      "text": "and lifelong advocate for the British Labour Party. He has given a handsome sum of money to the Labour Party over the years",
+      "parentId": 9,
       "sourceTitle": "'Luvvies' for Labour",
-      "text": "and lifelong advocate for the British Labour Party. He has given a handsome sum of money to the Labour Party over the years"
+      "sourceUrl": "http://news.bbc.co.uk/2/hi/uk_news/politics/161057.stm"
     },
     {
-      "type": "sentence",
-      "text": "and doesn't mind taking shots at the Conservatives. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and doesn't mind taking shots at the Conservatives. He said:",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.mirror.co.uk/news/uk-news/sir-alex-ferguson-supports-labour-217474",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I believe Labour has always been the party of the working man and always will be. I believe the Tories have always been about looking after their own rich types and always will be. My loyalty to Labour is a part of who I am because I know what they do for people. Ever since it was founded Labour has fought for ordinary working people and it does that just as much today.",
       "sourceTitle": "Sir Alex Ferguson supports Labour and says David Cameron's policies are 'about helping his own sort'",
-      "text": "I believe Labour has always been the party of the working man and always will be. I believe the Tories have always been about looking after their own rich types and always will be. My loyalty to Labour is a part of who I am because I know what they do for people. Ever since it was founded Labour has fought for ordinary working people and it does that just as much today."
+      "sourceUrl": "http://www.mirror.co.uk/news/uk-news/sir-alex-ferguson-supports-labour-217474"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.manchestereveningnews.co.uk/news/greater-manchester-news/good-lord-could-united-boss-852651",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Ferguson's popularity and political involvement has even resulted in an endorsement by Graham Stringer, MP for Blackley and Broughton, to join the House of Lords. Stringer has said the House is full of actors and musicians and various other elitists and that a football coach of Ferguson's stature would be a perfect addition, as he is a man of the people.",
       "sourceTitle": "Good lord! Could United boss Alex Ferguson be made a top off?",
-      "text": "Ferguson's popularity and political involvement has even resulted in an endorsement by Graham Stringer, MP for Blackley and Broughton, to join the House of Lords. Stringer has said the House is full of actors and musicians and various other elitists and that a football coach of Ferguson's stature would be a perfect addition, as he is a man of the people."
+      "sourceUrl": "http://www.manchestereveningnews.co.uk/news/greater-manchester-news/good-lord-could-united-boss-852651"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "No word on whether or not he's considering it. Let us know in the comments if anything changes!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

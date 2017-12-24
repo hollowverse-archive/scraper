@@ -31,64 +31,98 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ashlynn Brooke was born and raised in Choctaw, Oklahoma."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.bestplaces.net/religion/state/oklahoma",
+      "parentId": 2,
+      "type": "text",
+      "text": "Brooke appears to be religious, and I'm assuming Christian since she's a white girl from Oklahoma.",
       "sourceTitle": "Religion in Oklahoma.",
-      "text": "Brooke appears to be religious, and I'm assuming Christian since she's a white girl from Oklahoma."
+      "sourceUrl": "http://www.bestplaces.net/religion/state/oklahoma"
     },
     {
-      "type": "sentence",
-      "text": "But the only thing we know is from a blog entry about why she quit the porn industry after she found out she was pregnant. She wrote,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But the only thing we know is from a blog entry about why she quit the porn industry after she found out she was pregnant. She wrote,",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://web.archive.org/web/20120821201739/http://allthingsash.co/2011/06/02/the-time-i-chose-to-quit-adult/",
-      "sourceTitle": "The Time I Chose To Quit Adult.",
-      "text": "Nothing on earth could've made me happier at that very moment. It was like god just reached down and literally removed me from \"that world\" and put me back into the \"real\" one. I knew that from that point on my life would be peaceful, happy, and full of love again."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Nothing on earth could've made me happier at that very moment. It was like god just reached down and literally removed me from \"that world\" and put me back into the \"real\" one. I knew that from that point on my life would be peaceful, happy, and full of love again.",
+      "sourceTitle": "The Time I Chose To Quit Adult.",
+      "sourceUrl": "http://web.archive.org/web/20120821201739/http://allthingsash.co/2011/06/02/the-time-i-chose-to-quit-adult/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Aside from that, she hasn't made the topic of her faith a cause for public discussion. She doesn't appear to wear a cross out in public, go to church, or try to convince her former co-workers to heed the word of God. But even though that's all we've got, it's enough to know that this ex-porn star has a close relationship with the Almighty."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "text": "Politics is another story, though. She doesn't appear to have anything to say about that topic. I couldn't find any indication that she was interested in any elections, candidates, or issues. Not even anything about how she's  interested in politics. But, even though she may not have laid it out specifically, I'd say that's a good bet."
+      "parentId": 6,
+      "type": "text",
+      "text": "Politics is another story, though. She doesn't appear to have anything to say about that topic. I couldn't find any indication that she was interested in any elections, candidates, or issues. Not even anything about how she's"
     },
     {
-      "type": "break"
+      "parentId": 6,
+      "type": "emphasis",
+      "text": "not"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.city-data.com/city/Choctaw-Oklahoma.html",
+      "type": "text",
+      "text": "interested in politics. But, even though she may not have laid it out specifically, I'd say that's a good bet.",
+      "parentId": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "That being said, chances are she grew up around a lot of Republicans in Choctaw.",
       "sourceTitle": "Choctaw, Oklahoma profile.",
-      "text": "That being said, chances are she grew up around a lot of Republicans in Choctaw."
+      "sourceUrl": "http://www.city-data.com/city/Choctaw-Oklahoma.html"
     },
     {
-      "type": "sentence",
-      "text": "One could imagine her former profession wouldn't have gone over well with the conservative crowd, but hey, you never know."
+      "type": "text",
+      "text": "One could imagine her former profession wouldn't have gone over well with the conservative crowd, but hey, you never know.",
+      "parentId": 7
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "If you devoted porn fans out there know anything else about Brooke's political views, please let us know in the comments."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

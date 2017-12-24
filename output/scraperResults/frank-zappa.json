@@ -35,121 +35,207 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Frank Zappa was born in Baltimore, Maryland. He moved around quite a bit in his youth, living in Maryland, Florida, and California. He died in 1993 of prostate cancer at the age of 52."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.science.uva.nl/~robbert/zappa/interviews/Playboy/Interview.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Zappa was an atheist, but he grew up in a religious Catholic household. He said that by the time he was 18, he had \"escaped the bondage of being a devout believer.\"",
       "sourceTitle": "Interview in Playboy, May 2, 1993 – Interview.",
-      "text": "Zappa was an atheist, but he grew up in a religious Catholic household. He said that by the time he was 18, he had \"escaped the bondage of being a devout believer.\""
+      "sourceUrl": "http://www.science.uva.nl/~robbert/zappa/interviews/Playboy/Interview.html"
     },
     {
-      "type": "sentence",
-      "text": "But the rebellion against religion started long before that. He said,"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "But the rebellion against religion started long before that. He said,",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.science.uva.nl/~robbert/zappa/interviews/Playboy/Interview.html",
-      "sourceTitle": "Interview in Playboy, May 2, 1993 – Interview.",
-      "text": "[My parents] tried to make me go to Catholic school, too. I lasted a very short time. When the penguin came after me with a ruler, I was out of there."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "[My parents] tried to make me go to Catholic school, too. I lasted a very short time. When the penguin came after me with a ruler, I was out of there.",
+      "sourceTitle": "Interview in Playboy, May 2, 1993 – Interview.",
+      "sourceUrl": "http://www.science.uva.nl/~robbert/zappa/interviews/Playboy/Interview.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "And he did not have kind words to say about religion, especially the Abrahamic traditions. Just look at some song titles: \"The Meek Shall Inherit Nothing,\" \"Jesus Thinks You're a Jerk,\" \"Heavenly Bank Account,\" \"Dumb All Over.\""
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "Zappa's disgust of religion was rooted in the belief that religion is anti-intellectual, that it promotes ignorance. He said about the story of Adam and Eve,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://books.google.com/books?id=FB0O_HCpBy0C&pg=PA293&dq=frank+zappa+church+and+state&hl=en&sa=X&ei=jGf7UNHxCOaziQLztoCIAg&ved=0CC0Q6AEwAA#v=onepage&q=frank%20zappa%20church%20and%20state&f=false",
-      "sourceTitle": "Real Frank Zappa Book – Frank Zappa.",
-      "text": "What was it that Adam ate that he wasn't supposed to eat? . . . it was the fruit of the Tree of the Knowledge of Good and Evil. The subtle message? \"Get smart and I'll fuck you over–sayeth the Lord.\" God is the Smartest–and he doesn't want any competition."
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://books.google.com/books?id=FB0O_HCpBy0C&pg=PA293&dq=frank+zappa+church+and+state&hl=en&sa=X&ei=jGf7UNHxCOaziQLztoCIAg&ved=0CC0Q6AEwAA#v=onepage&q=frank%20zappa%20church%20and%20state&f=false",
-      "sourceTitle": "Real Frank Zappa Book – Frank Zappa.",
-      "text": "He was especially critical of religious leaders who he viewed as hypocritical, preaching one thing and practicing another, those who became wealthy off the donations of their followers, and those who use religion to influence political change."
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
     },
     {
-      "type": "break"
+      "parentId": 8,
+      "type": "text",
+      "text": "What was it that Adam ate that he wasn't supposed to eat? . . . it was the fruit of the Tree of the Knowledge of Good and Evil. The subtle message? \"Get smart and I'll fuck you over–sayeth the Lord.\" God is the Smartest–and he doesn't want any competition.",
+      "sourceTitle": "Real Frank Zappa Book – Frank Zappa.",
+      "sourceUrl": "http://books.google.com/books?id=FB0O_HCpBy0C&pg=PA293&dq=frank+zappa+church+and+state&hl=en&sa=X&ei=jGf7UNHxCOaziQLztoCIAg&ved=0CC0Q6AEwAA#v=onepage&q=frank%20zappa%20church%20and%20state&f=false"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "He was especially critical of religious leaders who he viewed as hypocritical, preaching one thing and practicing another, those who became wealthy off the donations of their followers, and those who use religion to influence political change.",
+      "sourceTitle": "Real Frank Zappa Book – Frank Zappa.",
+      "sourceUrl": "http://books.google.com/books?id=FB0O_HCpBy0C&pg=PA293&dq=frank+zappa+church+and+state&hl=en&sa=X&ei=jGf7UNHxCOaziQLztoCIAg&ved=0CC0Q6AEwAA#v=onepage&q=frank%20zappa%20church%20and%20state&f=false"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Practical Conservatism and Fascist Theocracies"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://books.google.com/books?id=FB0O_HCpBy0C&pg=PA293&dq=frank+zappa+church+and+state&hl=en&sa=X&ei=jGf7UNHxCOaziQLztoCIAg&ved=0CC0Q6AEwAA#v=onepage&q=frank%20zappa%20church%20and%20state&f=false",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "Zappa described himself as a Practical Conservative, meaning he wanted small government and lower taxes. He said he understood that there were certain large services that only the federal government could provide, like national defense and large infrastructure projects, but that these services should be administered with the most efficiency and at the lowest price possible.",
       "sourceTitle": "Real Frank Zappa Book – Frank Zappa.",
-      "text": "Zappa described himself as a Practical Conservative, meaning he wanted small government and lower taxes. He said he understood that there were certain large services that only the federal government could provide, like national defense and large infrastructure projects, but that these services should be administered with the most efficiency and at the lowest price possible."
+      "sourceUrl": "http://books.google.com/books?id=FB0O_HCpBy0C&pg=PA293&dq=frank+zappa+church+and+state&hl=en&sa=X&ei=jGf7UNHxCOaziQLztoCIAg&ved=0CC0Q6AEwAA#v=onepage&q=frank%20zappa%20church%20and%20state&f=false"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.science.uva.nl/~robbert/zappa/interviews/Playboy/Interview.html",
+      "type": "text",
+      "text": "He advocated for elimination of income taxes and a greatly reduced role for the federal government.",
+      "parentId": 11,
       "sourceTitle": "Interview in Playboy, May 2, 1993 – Interview.",
-      "text": "He advocated for elimination of income taxes and a greatly reduced role for the federal government."
+      "sourceUrl": "http://www.science.uva.nl/~robbert/zappa/interviews/Playboy/Interview.html"
     },
     {
-      "type": "sentence",
-      "text": "He sounds like a Libertarian, doesn't he? Surprised?"
+      "type": "text",
+      "text": "He sounds like a Libertarian, doesn't he? Surprised?",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "text": "He was especially critical of the Reagan administration for, among other things, what he saw as its pandering to the Christian right. During a 1986 debate on the TV show , Zappa said,"
+      "parentId": 12,
+      "type": "text",
+      "text": "He was especially critical of the Reagan administration for, among other things, what he saw as its pandering to the Christian right. During a 1986 debate on the TV show"
     },
     {
-      "type": "break"
+      "parentId": 12,
+      "type": "emphasis",
+      "text": "Crossfire"
+    },
+    {
+      "type": "text",
+      "text": ", Zappa said,",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=9WGtMMXQcEg",
-      "sourceTitle": "Zappa Nails It, Theocracy. Antitheist atheist.",
-      "text": "The biggest threat to America today is not communism, it's moving America toward a fascist theocracy. And everything that's happened during the Reagan administration is steering us right down that pipe."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "The biggest threat to America today is not communism, it's moving America toward a fascist theocracy. And everything that's happened during the Reagan administration is steering us right down that pipe.",
+      "sourceTitle": "Zappa Nails It, Theocracy. Antitheist atheist.",
+      "sourceUrl": "http://www.youtube.com/watch?v=9WGtMMXQcEg"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "He testified before a congressional committee in 1985, voicing his opposition to legislation that would require labeling of music to warn parents of explicit content. In his prepared statement, about how such regulations are a threat to the First Amendment, Zappa said,"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://downlode.org/Etext/zappa.html",
-      "sourceTitle": "Frank Zappa: Statement To Congress September 19, 1985.",
-      "text": "The establishment of a rating system, voluntary or otherwise, opens the door to an endless parade of Moral Quality Control Programs based on \"Things Certain Christians Don't Like.\" What if the next bunch of Washington Wives demands a large yellow \"J\" on all material written or performed by Jews, in order to save helpless children from exposure to concealed Zionist doctrine?"
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "The establishment of a rating system, voluntary or otherwise, opens the door to an endless parade of Moral Quality Control Programs based on \"Things Certain Christians Don't Like.\" What if the next bunch of Washington Wives demands a large yellow \"J\" on all material written or performed by Jews, in order to save helpless children from exposure to concealed Zionist doctrine?",
+      "sourceTitle": "Frank Zappa: Statement To Congress September 19, 1985.",
+      "sourceUrl": "http://downlode.org/Etext/zappa.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "Zappa clearly wants government out of all business except that which only government can provide, and he was willing to attack both political parties when he thought the freedoms guaranteed by the Bill of Rights were threatened. But his faith in the political machine wasn't exactly resolute. As Zappa put it,"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 19
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/quotes/88579-government-is-the-entertainment-division-of-the-military-industrial-complex?auto_login_attempted=true",
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "Government is the Entertainment division of the military-industrial complex.",
       "sourceTitle": "Quote by Frank Zappa.",
-      "text": "Government is the Entertainment division of the military-industrial complex."
+      "sourceUrl": "http://www.goodreads.com/quotes/88579-government-is-the-entertainment-division-of-the-military-industrial-complex?auto_login_attempted=true"
     }
   ],
   "wikipediaData": {

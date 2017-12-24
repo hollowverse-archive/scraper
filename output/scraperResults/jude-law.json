@@ -33,101 +33,155 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Jude Law was born and raised in London, England."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0000179/bio",
+      "parentId": 2,
+      "type": "text",
+      "text": "It's a common misconception that Law is Jewish, being that his first name is the German word for Jew. But he was named after the Beatles song, \"Hey Jude.\"",
       "sourceTitle": "Jude Law – Biography",
-      "text": "It's a common misconception that Law is Jewish, being that his first name is the German word for Jew. But he was named after the Beatles song, \"Hey Jude.\""
+      "sourceUrl": "http://www.imdb.com/name/nm0000179/bio"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "In actuality, Law isn't at all religious and his childhood seems rather devoid of spirituality. In fact, Law appears a bit offended by preachers and evangelists. He once said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.imdb.com/name/nm0000179/bio",
-      "sourceTitle": "Jude Law – Biography",
-      "text": "I've always liked what Thomas More said in Utopia, which is that in Utopia every person is allowed their own lifestyle and religion but no one is allowed to stand on a soapbox and tell others that theirs is right. I thought that was brilliant. Brilliant."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I've always liked what Thomas More said in Utopia, which is that in Utopia every person is allowed their own lifestyle and religion but no one is allowed to stand on a soapbox and tell others that theirs is right. I thought that was brilliant. Brilliant.",
+      "sourceTitle": "Jude Law – Biography",
+      "sourceUrl": "http://www.imdb.com/name/nm0000179/bio"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "Being that Law is British–and white–it is reasonable to assume that somewhere in his family tree Christianity has played a role, but no word as to what denomination."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 7
     },
     {
-      "type": "heading",
+      "parentId": 7,
+      "type": "text",
       "text": "Tough, but sensitive politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Whatever Law lacks in the religion department, he makes up in politics. He's very involved, very interested, and can be quite eloquent. Law understands that politics is an inherently corrupting force. He has said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://independentfilmquarterly.com/index.php?option=com_content&task=view&id=627&Itemid=119",
-      "sourceTitle": "Jude Law",
-      "text": "I think what happens is that we think we're not in charge of it [the politics], and we let the politics be in charge of us… But indeed, politics seems to always fail. We always think that another system may be better, that grass might be greener with another system, but it always fails on us."
+      "id": 9
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I think what happens is that we think we're not in charge of it [the politics], and we let the politics be in charge of us… But indeed, politics seems to always fail. We always think that another system may be better, that grass might be greener with another system, but it always fails on us.",
+      "sourceTitle": "Jude Law",
+      "sourceUrl": "http://independentfilmquarterly.com/index.php?option=com_content&task=view&id=627&Itemid=119"
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "I think Law's cynicism is why he chooses to support causes of ultimate value rather than individual politicians or their parties. He seems to understand the human element of politics. He speaks of first becoming involved with political causes during England's Poll Tax riots because he realized it was an issue that affected him, and really, most Brits. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=ARG-FpgNubg",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "It's important for everyone to remember that politics is about how you want to live and the world you want to live in.",
       "sourceTitle": "Jude Law on Belarus Youth Politics",
-      "text": "It's important for everyone to remember that politics is about how you want to live and the world you want to live in."
+      "sourceUrl": "http://www.youtube.com/watch?v=ARG-FpgNubg"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=ARG-FpgNubg",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Law highly values freedom of speech, which caused him to support and participate in the uprising in Belarus against their oppressive dictatorship–which was charged with suppressing free speech both among artists and intellectuals and the general population.",
       "sourceTitle": "Jude Law on Belarus Youth Politics",
-      "text": "Law highly values freedom of speech, which caused him to support and participate in the uprising in Belarus against their oppressive dictatorship–which was charged with suppressing free speech both among artists and intellectuals and the general population."
+      "sourceUrl": "http://www.youtube.com/watch?v=ARG-FpgNubg"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=ARG-FpgNubg",
+      "parentId": 15,
+      "type": "text",
+      "text": "But Law's involvement also had a corporatist element to it. He protested a British PR firm that was encouraging investors to help finance Belarus' dictatorship.",
       "sourceTitle": "Jude Law on Belarus Youth Politics",
-      "text": "But Law's involvement also had a corporatist element to it. He protested a British PR firm that was encouraging investors to help finance Belarus' dictatorship."
+      "sourceUrl": "http://www.youtube.com/watch?v=ARG-FpgNubg"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.looktothestars.org/celebrity/jude-law",
+      "parentId": 16,
+      "type": "text",
+      "text": "Beyond that, Law is involved in dozens of charities ranging from Greenpeace to organizations bringing educational opportunities to Africa.",
       "sourceTitle": "Jude Law's Charity Work, Events and Causes",
-      "text": "Beyond that, Law is involved in dozens of charities ranging from Greenpeace to organizations bringing educational opportunities to Africa."
+      "sourceUrl": "http://www.looktothestars.org/celebrity/jude-law"
     },
     {
-      "type": "sentence",
-      "text": "He's truly a celebrity who cares."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He's truly a celebrity who cares.",
+      "parentId": 16
     }
   ],
   "wikipediaData": {

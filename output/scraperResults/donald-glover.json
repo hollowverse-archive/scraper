@@ -37,127 +37,175 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Donald Glover was born on Edwards Air Force Base near Los Angeles, California and was raised in Stone Mountain, Georgia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.villagevoice.com/2011-04-13/news/donald-glover-is-more-talented-than-you/2/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Glover grew up in a Jehovah's Witness family, and he doesn't necessarily look back on the religion with fondness. He wasn't allowed to watch television",
       "sourceTitle": "Donald Glover Is More Talented Than You.",
-      "text": "Glover grew up in a Jehovah's Witness family, and he doesn't necessarily look back on the religion with fondness. He wasn't allowed to watch television"
+      "sourceUrl": "http://www.villagevoice.com/2011-04-13/news/donald-glover-is-more-talented-than-you/2/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.people.com/people/archive/article/0,,20443784,00.html",
+      "type": "text",
+      "text": "or celebrate his birthday, and he didn't get any presents on Christmas.",
+      "parentId": 2,
       "sourceTitle": "Community Star Donald Glover: My Quirky Holiday.",
-      "text": "or celebrate his birthday, and he didn't get any presents on Christmas."
+      "sourceUrl": "http://www.people.com/people/archive/article/0,,20443784,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thepurchasebrick.com/articles/nbc-star-donald-glover-is-a-one-man-show",
+      "type": "text",
+      "text": "And he felt like the weirdo at school because of his family's religion.",
+      "parentId": 2,
       "sourceTitle": "NBC Star Donald Glover is a One-Man Show.",
-      "text": "And he felt like the weirdo at school because of his family's religion."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.thepurchasebrick.com/articles/nbc-star-donald-glover-is-a-one-man-show"
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.people.com/people/archive/article/0,,20443784,00.html",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Jewish kids talk a lot of smack about not having Christmas, but at least people know what they are. People either have no idea what a Jehovah's Witness is or they assume you're responsible for the Jehovah's Witness who knocked on their door last Saturday and woke them up. Neither is a good starting point.",
       "sourceTitle": "Community Star Donald Glover: My Quirky Holiday.",
-      "text": "Jewish kids talk a lot of smack about not having Christmas, but at least people know what they are. People either have no idea what a Jehovah's Witness is or they assume you're responsible for the Jehovah's Witness who knocked on their door last Saturday and woke them up. Neither is a good starting point."
+      "sourceUrl": "http://www.people.com/people/archive/article/0,,20443784,00.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.villagevoice.com/2011-04-13/news/donald-glover-is-more-talented-than-you/2/",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "While in college, he started experimenting with things forbidden in his youth,",
       "sourceTitle": "Donald Glover Is More Talented Than You.",
-      "text": "While in college, he started experimenting with things forbidden in his youth,"
+      "sourceUrl": "http://www.villagevoice.com/2011-04-13/news/donald-glover-is-more-talented-than-you/2/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.villagevoice.com/2011-04-13/news/donald-glover-is-more-talented-than-you/",
+      "type": "text",
+      "text": "and he has since dropped his childhood religion",
+      "parentId": 5,
       "sourceTitle": "Donald Glover Is More Talented Than You.",
-      "text": "and he has since dropped his childhood religion"
+      "sourceUrl": "http://www.villagevoice.com/2011-04-13/news/donald-glover-is-more-talented-than-you/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thepurchasebrick.com/articles/nbc-star-donald-glover-is-a-one-man-show",
+      "type": "text",
+      "text": "for a life in show business–complete with plenty of booze and pre-marital sex.",
+      "parentId": 5,
       "sourceTitle": "NBC Star Donald Glover is a One-Man Show.",
-      "text": "for a life in show business–complete with plenty of booze and pre-marital sex."
+      "sourceUrl": "http://www.thepurchasebrick.com/articles/nbc-star-donald-glover-is-a-one-man-show"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.urbanlyrics.com/lyrics/childish-gambino/wontstop.html",
+      "parentId": 6,
+      "type": "text",
+      "text": "The only mention I could find about Glover's current spiritual leanings, or lack thereof, is in his song \"Won't Stop\" where he calls himself an \"airport atheist\" who only \"pray[s] when there's turbulence.\"",
       "sourceTitle": "\"Won't Stop\" lyrics by CHILDISH GAMBINO [a.k.a. DONALD GLOVER].",
-      "text": "The only mention I could find about Glover's current spiritual leanings, or lack thereof, is in his song \"Won't Stop\" where he calls himself an \"airport atheist\" who only \"pray[s] when there's turbulence.\""
+      "sourceUrl": "http://www.urbanlyrics.com/lyrics/childish-gambino/wontstop.html"
     },
     {
-      "type": "sentence",
-      "text": "Whatever the case, it doesn't seem to be getting in the way of him having a good time."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Whatever the case, it doesn't seem to be getting in the way of him having a good time.",
+      "parentId": 6
     },
     {
       "type": "heading",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "Black Nerd Politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2010/03/18/donald-glover-obama-is-a_n_504645.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "As a start, Donald Glover feels like he has a kindred spirit in Barack Obama. After all, they're both black nerds.",
       "sourceTitle": "Donald Glover: Obama Is A Black Nerd.",
-      "text": "As a start, Donald Glover feels like he has a kindred spirit in Barack Obama. After all, they're both black nerds."
+      "sourceUrl": "http://www.huffingtonpost.com/2010/03/18/donald-glover-obama-is-a_n_504645.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://newsmeat.com/fec/bystate_detail.php?city=Long+Island+City&st=NY&last=glover&first=donald",
+      "type": "text",
+      "text": "He also donated to the president's campaign in 2008,",
+      "parentId": 8,
       "sourceTitle": "donald glover's federal campaign contribution search results.",
-      "text": "He also donated to the president's campaign in 2008,"
+      "sourceUrl": "http://newsmeat.com/fec/bystate_detail.php?city=Long+Island+City&st=NY&last=glover&first=donald"
     },
     {
-      "type": "sentence",
-      "text": "so I think we can call him a Democrat."
+      "type": "text",
+      "text": "so I think we can call him a Democrat.",
+      "parentId": 8
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thedailybeast.com/newsweek/blogs/pop-vox/2010/06/02/can-spider-man-be-black-.html",
+      "parentId": 9,
+      "type": "text",
+      "text": "He doesn't get involved with many specific political issues, but he has willingly been drawn into racial politics. In 2010, Glover was involved in an internet campaign–started by fans and embraced by him–to get him an audition for the next Spider-Man.",
       "sourceTitle": "Donald Glover's Campaign for Spider-man.",
-      "text": "He doesn't get involved with many specific political issues, but he has willingly been drawn into racial politics. In 2010, Glover was involved in an internet campaign–started by fans and embraced by him–to get him an audition for the next Spider-Man."
+      "sourceUrl": "http://www.thedailybeast.com/newsweek/blogs/pop-vox/2010/06/02/can-spider-man-be-black-.html"
     },
     {
-      "type": "sentence",
-      "text": "It was about getting a black man into a prime slot on the comic book register, but he says he wasn't trying to \"stir something up.\""
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "It was about getting a black man into a prime slot on the comic book register, but he says he wasn't trying to \"stir something up.\"",
+      "parentId": 9
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.thepurchasebrick.com/articles/nbc-star-donald-glover-is-a-one-man-show",
+      "id": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I was halfway joking. People are like, \"There are plenty of black superheroes that are just as good.\" And I'm like, that sounds like \"separate but equal\" . . . and it's not true.",
       "sourceTitle": "NBC Star Donald Glover is a One-Man Show.",
-      "text": "I was halfway joking. People are like, \"There are plenty of black superheroes that are just as good.\" And I'm like, that sounds like \"separate but equal\" . . . and it's not true."
+      "sourceUrl": "http://www.thepurchasebrick.com/articles/nbc-star-donald-glover-is-a-one-man-show"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://collider.com/donald-glover-new-spider-man/111377/",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "A white Spider-Man was cast, but now there's a black Spider-Man comic book series that was inspired by Glover.",
       "sourceTitle": "Donald Glover Talks New ULTIMATE SPIDER-MAN.",
-      "text": "A white Spider-Man was cast, but now there's a black Spider-Man comic book series that was inspired by Glover."
+      "sourceUrl": "http://collider.com/donald-glover-new-spider-man/111377/"
     },
     {
-      "type": "sentence",
-      "text": "So it turns out his half-joke did do something positive for the black nerd community after all."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "So it turns out his half-joke did do something positive for the black nerd community after all.",
+      "parentId": 12
     }
   ],
   "wikipediaData": {

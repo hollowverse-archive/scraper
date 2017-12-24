@@ -33,78 +33,156 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Hulk Hogan, whose real name is Terry Gene Bollea, was born in Augusta, Georgia and raised in Tampa, Florida."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Hogan says he was saved at the age of fourteen, and has been a dedicated Christian ever since. He says that his faith kept him on the level."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://blog.beliefnet.com/idolchatter/2009/04/wrestlerreality-tv-star-hulk-h.html",
-      "sourceTitle": "Hulk Hogan Leans on His Faith.",
-      "text": "I could have went the wrong way. I could have self-destructed, but I took the high road."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "I could have went the wrong way. I could have self-destructed, but I took the high road.",
+      "sourceTitle": "Hulk Hogan Leans on His Faith.",
+      "sourceUrl": "http://blog.beliefnet.com/idolchatter/2009/04/wrestlerreality-tv-star-hulk-h.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Hogan is a deeply religious man of evangelical Christian ilk. He's a fan of Joel Osteen, a televangelist and minister at the country's largest mega-church. Hogan talked about his faith at an Osteen event in Tampa."
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 6
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.youtube.com/watch?v=p6AHsXFHTgw",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "The only thing that is really real is the stuff that's gonna last forever, your faith and your belief in God. And knowing that once you're a Christian, you've accepted Christ as your savior. . . you're going to have ever-lasting life. That belief and that faith is what's pretty much the only thing that's real to me.",
       "sourceTitle": "Hulk Hogan talks about his hope in Jesus.",
-      "text": "The only thing that is really real is the stuff that's gonna last forever, your faith and your belief in God. And knowing that once you're a Christian, you've accepted Christ as your savior. . . you're going to have ever-lasting life. That belief and that faith is what's pretty much the only thing that's real to me."
+      "sourceUrl": "http://www.youtube.com/watch?v=p6AHsXFHTgw"
     },
     {
       "type": "heading",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Hogan Sees the Light"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "And after a rough year in which his son was incarcerated for severely injuring a passenger in a car crash, and his wife left him after twenty-four years of marriage, Hogan came very close to committing suicide. He credits his faith for helping him get back to a good place."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://transcripts.cnn.com/TRANSCRIPTS/0910/27/lkl.01.html",
-      "sourceTitle": "CNN LARRY KING LIVE.",
-      "text": "I kind of got lost in . . . the craziness of this whole lifestyle and everything that was around me. And once I went back inside and I realized that everything I need was in here, you know — the happiness, the faith, and my religion, the spirit of Christ was in me, I realized at that moment, I had everything that I needed."
+      "id": 10
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 11,
+      "parentId": 10
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "I kind of got lost in . . . the craziness of this whole lifestyle and everything that was around me. And once I went back inside and I realized that everything I need was in here, you know — the happiness, the faith, and my religion, the spirit of Christ was in me, I realized at that moment, I had everything that I needed.",
+      "sourceTitle": "CNN LARRY KING LIVE.",
+      "sourceUrl": "http://transcripts.cnn.com/TRANSCRIPTS/0910/27/lkl.01.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Hogan may be a dedicated Christian, but he's not going to dedicate himself to a political party for life. Instead he's one of those swing voters we keep hearing about. In 2008 he endorsed Obama, but feels like the president didn't deliver on all his promises. In 2012, he was an avid Romney supporter. The Republican National Convention took place in his hometown of Tampa, and he was riled up by all the buzz."
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "text": "As soon as I get out of the ring, I'm turning the TV on, cause I wanna hear what Romney has to say. . . He's got a chance to win everybody over. (( Townhall.))"
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "As soon as I get out of the ring, I'm turning the TV on, cause I wanna hear what Romney has to say. . . He's got a chance to win everybody over. (("
+    },
+    {
+      "parentId": 14,
+      "type": "link",
+      "text": "Hulk Hogan: An Obama Fan No Longer.",
+      "sourceUrl": "http://townhall.com/video/hulk-hogan-an-obama-fan-no-longer"
+    },
+    {
+      "type": "text",
+      "text": "Townhall.))",
+      "parentId": 14
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "But when it really comes down to it, the Hulk thinks he would make a pretty good president. And his views on fiscal policy make you wonder why he ever voted for Obama in the first place."
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 16
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://townhall.com/video/hulk-hogan-an-obama-fan-no-longer",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "The change of heart is, I should be president. I know nothing about politics. I think a flat tax across the board would straighten everything out.",
       "sourceTitle": "Hulk Hogan: An Obama Fan No Longer.",
-      "text": "The change of heart is, I should be president. I know nothing about politics. I think a flat tax across the board would straighten everything out."
+      "sourceUrl": "http://townhall.com/video/hulk-hogan-an-obama-fan-no-longer"
     }
   ],
   "wikipediaData": {
@@ -164,7 +242,7 @@
             "source": "commons-desc-page"
           },
           "Permission": {
-            "value": "<table class=\"licensetpl\" style=\"display:none\"><tr>\n<td>\n<span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td>\n</tr></table>\n<table style=\"width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr; border-spacing: 8px; padding: 0px;\" class=\"layouttemplate mw-content-ltr\" lang=\"en\">\n<tr>\n<td rowspan=\"2\"><img alt=\"Public domain\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/64px-PD-icon.svg.png\" title=\"Public domain\" width=\"64\" height=\"64\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/96px-PD-icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png 2x\" data-file-width=\"196\" data-file-height=\"196\"></td>\n<td><span lang=\"en\" class=\"description en\"><i>This file is a work of a sailor or employee of the <a href=\"https://en.wikipedia.org/wiki/United_States_Navy\" class=\"extiw\" title=\"w:United States Navy\">U.S. Navy</a>, taken or made as part of that person's official duties. As a <a href=\"https://en.wikipedia.org/wiki/Work_of_the_United_States_Government\" class=\"extiw\" title=\"w:Work of the United States Government\">work</a> of the <a href=\"https://en.wikipedia.org/wiki/Federal_government_of_the_United_States\" class=\"extiw\" title=\"w:Federal government of the United States\">U.S. federal government</a>, the image is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b> in the United States.</i></span></td>\n<td rowspan=\"2\">\n<div class=\"floatright\"><img alt=\"Seal of the United States Department of the Navy.svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Seal_of_the_United_States_Department_of_the_Navy.svg/64px-Seal_of_the_United_States_Department_of_the_Navy.svg.png\" width=\"64\" height=\"64\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Seal_of_the_United_States_Department_of_the_Navy.svg/96px-Seal_of_the_United_States_Department_of_the_Navy.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Seal_of_the_United_States_Department_of_the_Navy.svg/128px-Seal_of_the_United_States_Department_of_the_Navy.svg.png 2x\" data-file-width=\"889\" data-file-height=\"889\"></div>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">\n<center><span style=\"font-size:x-small;line-height:140%\" class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a></span></center>\n</td>\n</tr>\n</table>\n<table cellspacing=\"8\" cellpadding=\"0\" style=\"width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa;\" lang=\"en\" dir=\"ltr\" class=\"layouttemplate restrictiontemplate mw-content-ltr restriction-personality\"><tr>\n<td style=\"border:none;\" width=\"64px\"><a href=\"//commons.wikimedia.org/wiki/Commons:Non-copyright_restrictions\" title=\"Personality rights\"><img alt=\"Personality rights\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dialog-warning-orange.svg/64px-Dialog-warning-orange.svg.png\" width=\"64\" height=\"61\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dialog-warning-orange.svg/96px-Dialog-warning-orange.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dialog-warning-orange.svg/128px-Dialog-warning-orange.svg.png 2x\" data-file-width=\"40\" data-file-height=\"38\"></a></td>\n<td style=\"border:none;\">\n<span lang=\"en\" class=\"description en\"><span class=\"commons-template-name\" style=\"display:none\" id=\"commons-template-personality-rights\">Personality rights</span></span>\n<div style=\"font-size:120%;font-weight:bold;\"><a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Photographs_of_identifiable_people\" title=\"Special:MyLanguage/Commons:Photographs of identifiable people\">Personality rights warning</a></div>\nAlthough this work is <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">freely licensed</a> or in the <a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"en:Public domain\">public domain</a>, the <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Photographs_of_identifiable_persons\" title=\"Special:MyLanguage/Commons:Photographs of identifiable persons\">person(s) shown</a> may have <a href=\"https://en.wikipedia.org/wiki/personality_rights\" class=\"extiw\" title=\"en:personality rights\">rights</a> that <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Country_specific_consent_requirements\" title=\"Special:MyLanguage/Commons:Country specific consent requirements\">legally restrict certain re-uses</a> unless those depicted consent to such uses. In these cases, a <a href=\"https://en.wikipedia.org/wiki/model_release\" class=\"extiw\" title=\"en:model release\">model release</a> or other evidence of consent could protect you from infringement claims. Though not obliged to do so, the uploader may be able to help you to obtain such evidence. See our <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:General_disclaimer\" title=\"Special:MyLanguage/Commons:General disclaimer\">general disclaimer</a> for more information.</td>\n</tr></table>",
+            "value": "<table class=\"licensetpl\" style=\"display:none\"><tr>\n<td>\n<span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td>\n</tr></table>\n<table style=\"width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr; border-spacing: 8px; padding: 0px;\" class=\"layouttemplate mw-content-ltr\" lang=\"en\">\n<tr>\n<td rowspan=\"2\"><img alt=\"Public domain\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/64px-PD-icon.svg.png\" title=\"Public domain\" width=\"64\" height=\"64\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/96px-PD-icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png 2x\" data-file-width=\"196\" data-file-height=\"196\"></td>\n<td><span lang=\"en\" class=\"description en\"><i>This file is a work of a sailor or employee of the <a href=\"https://en.wikipedia.org/wiki/United_States_Navy\" class=\"extiw\" title=\"w:United States Navy\">U.S. Navy</a>, taken or made as part of that person's official duties. As a <a href=\"https://en.wikipedia.org/wiki/Work_of_the_United_States_Government\" class=\"extiw\" title=\"w:Work of the United States Government\">work</a> of the <a href=\"https://en.wikipedia.org/wiki/Federal_government_of_the_United_States\" class=\"extiw\" title=\"w:Federal government of the United States\">U.S. federal government</a>, the image is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b> in the United States.</i></span></td>\n<td rowspan=\"2\">\n<div class=\"floatright\"><img alt=\"Seal of the United States Department of the Navy.svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Seal_of_the_United_States_Department_of_the_Navy.svg/64px-Seal_of_the_United_States_Department_of_the_Navy.svg.png\" width=\"64\" height=\"64\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Seal_of_the_United_States_Department_of_the_Navy.svg/96px-Seal_of_the_United_States_Department_of_the_Navy.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Seal_of_the_United_States_Department_of_the_Navy.svg/128px-Seal_of_the_United_States_Department_of_the_Navy.svg.png 2x\" data-file-width=\"889\" data-file-height=\"889\"></div>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\" style=\"text-align:center;\"><span style=\"font-size:x-small;line-height:140%\" class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a></span></td>\n</tr>\n</table>\n<table cellspacing=\"8\" cellpadding=\"0\" style=\"width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa;\" lang=\"en\" dir=\"ltr\" class=\"layouttemplate restrictiontemplate mw-content-ltr restriction-personality\"><tr>\n<td style=\"border:none;\" width=\"64px\"><a href=\"//commons.wikimedia.org/wiki/Commons:Non-copyright_restrictions\" title=\"Personality rights\"><img alt=\"Personality rights\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dialog-warning-orange.svg/64px-Dialog-warning-orange.svg.png\" width=\"64\" height=\"61\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dialog-warning-orange.svg/96px-Dialog-warning-orange.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dialog-warning-orange.svg/128px-Dialog-warning-orange.svg.png 2x\" data-file-width=\"40\" data-file-height=\"38\"></a></td>\n<td style=\"border:none;\">\n<span lang=\"en\" class=\"description en\"><span class=\"commons-template-name\" style=\"display:none\" id=\"commons-template-personality-rights\">Personality rights</span></span>\n<div style=\"font-size:120%;font-weight:bold;\"><a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Photographs_of_identifiable_people\" title=\"Special:MyLanguage/Commons:Photographs of identifiable people\">Personality rights warning</a></div>\nAlthough this work is <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">freely licensed</a> or in the <a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"en:Public domain\">public domain</a>, the <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Photographs_of_identifiable_persons\" title=\"Special:MyLanguage/Commons:Photographs of identifiable persons\">person(s) shown</a> may have <a href=\"https://en.wikipedia.org/wiki/personality_rights\" class=\"extiw\" title=\"en:personality rights\">rights</a> that <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Country_specific_consent_requirements\" title=\"Special:MyLanguage/Commons:Country specific consent requirements\">legally restrict certain re-uses</a> unless those depicted consent to such uses. In these cases, a <a href=\"https://en.wikipedia.org/wiki/model_release\" class=\"extiw\" title=\"en:model release\">model release</a> or other evidence of consent could protect you from infringement claims. Though not obliged to do so, the uploader may be able to help you to obtain such evidence. See our <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:General_disclaimer\" title=\"Special:MyLanguage/Commons:General disclaimer\">general disclaimer</a> for more information.</td>\n</tr></table>",
             "source": "commons-desc-page",
             "hidden": ""
           },

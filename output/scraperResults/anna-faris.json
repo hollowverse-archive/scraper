@@ -36,84 +36,129 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.whosdatedwho.com/sections/celebrities/religion/lutheran",
+      "parentId": 1,
+      "type": "text",
+      "text": "Anna Faris was born in Baltimore, Maryland and grew up in Edmonds, Washington."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Faris is listed by a wide variety of websites as Lutheran,",
       "sourceTitle": "Celebrity Religion – Lutheran",
-      "text": "Faris is listed by a wide variety of websites as Lutheran,"
+      "sourceUrl": "http://www.whosdatedwho.com/sections/celebrities/religion/lutheran"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0267506/bio",
+      "type": "text",
+      "text": "but I can't find anything straight from her on the topic of Lutheranism–or anything religious for that matter. She does have some German ancestry",
+      "parentId": 2,
       "sourceTitle": "Anna Faris – Biography",
-      "text": "but I can't find anything straight from her on the topic of Lutheranism–or anything religious for that matter. She does have some German ancestry"
+      "sourceUrl": "http://www.imdb.com/name/nm0267506/bio"
     },
     {
-      "type": "sentence",
-      "text": "and Germany is the ancestral home of Lutheranism, so… it could work."
+      "type": "text",
+      "text": "and Germany is the ancestral home of Lutheranism, so… it could work.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0267506/bio",
+      "parentId": 3,
+      "type": "text",
+      "text": "She comes from a family of sociologists and academics,",
       "sourceTitle": "Anna Faris – Biography",
-      "text": "She comes from a family of sociologists and academics,"
+      "sourceUrl": "http://www.imdb.com/name/nm0267506/bio"
     },
     {
-      "type": "sentence",
-      "text": "who might view religion more as an enduring social institution that plays a role in politics, communities and values, but less as a source of spiritual truths. That's purely speculation, however. Let us know in the comments if you've got the scoop."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "who might view religion more as an enduring social institution that plays a role in politics, communities and values, but less as a source of spiritual truths. That's purely speculation, however. Let us know in the comments if you've got the scoop.",
+      "parentId": 3
     },
     {
       "type": "heading",
+      "id": 4
+    },
+    {
+      "parentId": 4,
+      "type": "text",
       "text": "Pot politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Faris is also rather quiet about her political views. She does seem concerned with female inequality in the Hollywood film industry. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/anna_faris.html",
-      "sourceTitle": "Anna Faris Quotes",
-      "text": "…there's three male roles to every female role. And I guess I'd work on evening that up. Making great roles for women. It's just such a huge challenge."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "…there's three male roles to every female role. And I guess I'd work on evening that up. Making great roles for women. It's just such a huge challenge.",
+      "sourceTitle": "Anna Faris Quotes",
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/a/anna_faris.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Faris seems to consider caring about political issues as largely in her past, but her past views were certainly left of center. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.vulture.com/2012/05/anna-faris-the-dictator-interview.html",
+      "id": 9
+    },
+    {
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "I used to sort of consider myself a feminist, an environmentalist; and I still have some of that in me, but I've done so many offensive comedies I'm now worn down to a little nub of … nub of an activist.",
       "sourceTitle": "Anna Faris on The Dictator and Playing Idiots",
-      "text": "I used to sort of consider myself a feminist, an environmentalist; and I still have some of that in me, but I've done so many offensive comedies I'm now worn down to a little nub of … nub of an activist."
+      "sourceUrl": "http://www.vulture.com/2012/05/anna-faris-the-dictator-interview.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.starpulse.com/news/index.php/2009/09/18/anna_faris_disappoints_with_her_playboy_",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "There are no candidate endorsements, no political financial contributions, no statements on gay marriage or environmentalism from Faris to be found. But I'd imagine she wouldn't consider herself anything close to a conservative. She has, after all, appeared on the cover of Playboy magazine",
       "sourceTitle": "Anna Faris Disappoints With Her Playboy Cover.",
-      "text": "There are no candidate endorsements, no political financial contributions, no statements on gay marriage or environmentalism from Faris to be found. But I'd imagine she wouldn't consider herself anything close to a conservative. She has, after all, appeared on the cover of Playboy magazine"
+      "sourceUrl": "http://www.starpulse.com/news/index.php/2009/09/18/anna_faris_disappoints_with_her_playboy_"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.thehollywoodgossip.com/2009/03/anna-faris-looks-hot-smokes-pot/",
+      "type": "text",
+      "text": "and she won a \"Stony Award\" from High Times Magazine. It's basically the pinnacle of stoner achievement. Plus she admits that the award, shaped like a bong, does get used from time to time.",
+      "parentId": 11,
       "sourceTitle": "Anna Faris Looks Hot, Smokes Pot",
-      "text": "and she won a \"Stony Award\" from High Times Magazine. It's basically the pinnacle of stoner achievement. Plus she admits that the award, shaped like a bong, does get used from time to time."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.thehollywoodgossip.com/2009/03/anna-faris-looks-hot-smokes-pot/"
     }
   ],
   "wikipediaData": {

@@ -31,87 +31,120 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Matt LeBlanc was born and raised in Newton, Massachusettes."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Matt_LeBlanc",
+      "parentId": 2,
+      "type": "text",
+      "text": "Rumor has it that LeBlanc is Catholic, but he doesn't talk about his religion much. It's certainly likely that he was raised Catholic considering his mother is from Italy. His father wasn't around when he was growing up, but he was of French Canadian descent, meaning he was most likely Catholic as well.",
       "sourceTitle": "Matt LeBlanc",
-      "text": "Rumor has it that LeBlanc is Catholic, but he doesn't talk about his religion much. It's certainly likely that he was raised Catholic considering his mother is from Italy. His father wasn't around when he was growing up, but he was of French Canadian descent, meaning he was most likely Catholic as well."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Matt_LeBlanc"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://friends.wikia.com/wiki/Matt_LeBlanc",
+      "parentId": 3,
+      "type": "text",
+      "text": "Because of his silence on all things religious, we can assume that he's not terribly devoted to the Catholic church. But he did play Jesus in the play \"Jesus Christ Superstar\" while he was in high school.",
       "sourceTitle": "Matt LeBlanc.",
-      "text": "Because of his silence on all things religious, we can assume that he's not terribly devoted to the Catholic church. But he did play Jesus in the play \"Jesus Christ Superstar\" while he was in high school."
+      "sourceUrl": "http://friends.wikia.com/wiki/Matt_LeBlanc"
     },
     {
-      "type": "sentence",
-      "text": "That could be like going to church to an aspiring actor. Right?"
+      "type": "text",
+      "text": "That could be like going to church to an aspiring actor. Right?",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.towleroad.com/2004/10/oh_the_things_t.html",
+      "parentId": 4,
+      "type": "text",
+      "text": "Early in his career, while he was doing some modeling in New York, LeBlanc posed for the cover of the magazine,"
+    },
+    {
+      "parentId": 4,
+      "type": "emphasis",
+      "text": "Spartacus: International Gay Guide"
+    },
+    {
+      "type": "text",
+      "text": ",",
+      "parentId": 4,
       "sourceTitle": "Oh, the Things That Return to Haunt Us…",
-      "text": "Early in his career, while he was doing some modeling in New York, LeBlanc posed for the cover of the magazine, ,"
+      "sourceUrl": "http://www.towleroad.com/2004/10/oh_the_things_t.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://gawker.com/023019/matt-leblanc-shoots-down-gay-rumors",
+      "type": "text",
+      "text": "so he couldn't have thought that poorly of homosexuality, a sin in the church's eyes. Either that or he really needed the money. LeBlanc insists that he's not gay,",
+      "parentId": 4,
       "sourceTitle": "Matt LeBlanc Shoots Down Gay Rumors.",
-      "text": "so he couldn't have thought that poorly of homosexuality, a sin in the church's eyes. Either that or he really needed the money. LeBlanc insists that he's not gay,"
+      "sourceUrl": "http://gawker.com/023019/matt-leblanc-shoots-down-gay-rumors"
     },
     {
-      "type": "sentence",
-      "text": "but maybe he's just still wrestling with that Catholic guilt."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but maybe he's just still wrestling with that Catholic guilt.",
+      "parentId": 4
     },
     {
       "type": "heading",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "A Republican who only donates to Democrats"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://hollywoodrepublicans.com/recommendations.htm",
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "Matt LeBlanc appears to be a Republican, but he doesn't seem to be particularly politically active. The Hollywood Congress of Republicans lists him on their \"recommended\" celebrities list, but they might be jumping the gun on that one.",
       "sourceTitle": "HCR Recommendations.",
-      "text": "Matt LeBlanc appears to be a Republican, but he doesn't seem to be particularly politically active. The Hollywood Congress of Republicans lists him on their \"recommended\" celebrities list, but they might be jumping the gun on that one."
+      "sourceUrl": "http://hollywoodrepublicans.com/recommendations.htm"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 7
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Matt_Leblanc.php",
+      "parentId": 7,
+      "type": "text",
+      "text": "The only federal campaign contribution LeBlanc has made was $2,000 to Nick Clooney, the father of George Clooney, who was running for a seat in the House of Representatives from Kentucky.",
       "sourceTitle": "Matt LeBlanc Federal Campaign Contribution Report.",
-      "text": "The only federal campaign contribution LeBlanc has made was $2,000 to Nick Clooney, the father of George Clooney, who was running for a seat in the House of Representatives from Kentucky."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Matt_Leblanc.php"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.eonline.com/news/47255/clooney-pals-cough-up-cash-for-dad",
+      "type": "text",
+      "text": "Not an insignificant chunk of change, at least for those of us who aren't millionaires. The younger Clooney, a notoriously outspoken Democrat, apparently rallied a bunch of his Hollywood friends to his father's cause.",
+      "parentId": 7,
       "sourceTitle": "Clooney Pals Cough Up Cash For Dad.",
-      "text": "Not an insignificant chunk of change, at least for those of us who aren't millionaires. The younger Clooney, a notoriously outspoken Democrat, apparently rallied a bunch of his Hollywood friends to his father's cause."
+      "sourceUrl": "http://www.eonline.com/news/47255/clooney-pals-cough-up-cash-for-dad"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 8
     },
     {
-      "type": "sentence",
+      "parentId": 8,
+      "type": "text",
       "text": "This show of support from LeBlanc for one of his Hollywood comrades is hardly an endorsement of the Democratic party. My guess is that politics is kind of like religion for the former Friends star: not all that important."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

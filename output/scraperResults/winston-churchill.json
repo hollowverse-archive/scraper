@@ -36,120 +36,197 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Winston Churchill was born in Woodstock, Oxfordshire, England and grew up in various boarding schools throughout England as well as a brief stint in Dublin, Ireland. Churchill died from complications from a stroke in London in 1965."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Churchill was raised in the Church of England like most Brits of his time. Historians tend to paint Churchill as having always identified with Christianity and its Anglican expression, but with some reservations. For example, Churchill admitted to praying often during the heat of battle, but he always knew it was an unreasonable thing to do. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://sydneyanglicans.net/life/daytoday/the_religion_of_winston_churchill/",
-      "sourceTitle": "The Religion of Winston Churchill",
-      "text": "The practice [of prayer] was comforting and the reasoning led nowhere. I therefore acted in accordance with my feelings without troubling to square such conduct with the conclusions of thought."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "The practice [of prayer] was comforting and the reasoning led nowhere. I therefore acted in accordance with my feelings without troubling to square such conduct with the conclusions of thought.",
+      "sourceTitle": "The Religion of Winston Churchill",
+      "sourceUrl": "http://sydneyanglicans.net/life/daytoday/the_religion_of_winston_churchill/"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "In the end, Churchill was a secular man, whose dealings were with the business of the real world–governance, war, strategy, business and economics, etc. His true religious sentiments are probably best expressed by what Churchill called the \"Religion of Health-Mindedness,\" explained as:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.newworldencyclopedia.org/entry/Winston_Churchill#Religious_Beliefs",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "If you tried your best to live an honorable life and did your duty and were faithful to friends and not unkind to the weak and poor, it did not matter much what you believed or disbelieved.",
       "sourceTitle": "Winston Churchill",
-      "text": "If you tried your best to live an honorable life and did your duty and were faithful to friends and not unkind to the weak and poor, it did not matter much what you believed or disbelieved."
+      "sourceUrl": "http://www.newworldencyclopedia.org/entry/Winston_Churchill#Religious_Beliefs"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newworldencyclopedia.org/entry/Winston_Churchill#Religious_Beliefs",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "Here, Churchill suggests that religion isn't necessary to dictate ethical and moral behavior for mankind. And as a man who would likely balk at superstition, my guess is that Churchill didn't see much use for religion–except to get the people of a country riled-up during a war. Churchill would occasionally insert God into his speeches to boost wartime morale.",
       "sourceTitle": "Winston Churchill",
-      "text": "Here, Churchill suggests that religion isn't necessary to dictate ethical and moral behavior for mankind. And as a man who would likely balk at superstition, my guess is that Churchill didn't see much use for religion–except to get the people of a country riled-up during a war. Churchill would occasionally insert God into his speeches to boost wartime morale."
+      "sourceUrl": "http://www.newworldencyclopedia.org/entry/Winston_Churchill#Religious_Beliefs"
     },
     {
-      "type": "sentence",
-      "text": "Maybe he believed it, we'll never know."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Maybe he believed it, we'll never know.",
+      "parentId": 8
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Old school politics"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Winston Churchill's political career spans decades and some of the world's most fascinating and important events from World War I to World War II to the decline of the British Empire. Churchill was instrumental in drawing modern-day borders in Eastern Europe, the Middle East and Asia during the political restructuring of post-World War II Earth. Suffice it to say, the effects of Churchill's politics can still be felt today."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "text",
       "text": "He was twice the Prime Minister of England and once the leader of the Opposition in British Parliament. This article will not do his politics justice. However, some meta-perspectives can be discussed."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
+      "parentId": 12,
+      "type": "text",
       "text": "Churchill saw politics and society for what it really is–an endless debate, a network of imperfect systems, and a compromise in which no one is happy. For example, he said of democracy:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.quotationspage.com/quote/364.html",
-      "sourceTitle": "Quote Details",
-      "text": "It has been said that democracy is the worst form of government except all the others that have been tried."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "It has been said that democracy is the worst form of government except all the others that have been tried.",
+      "sourceTitle": "Quote Details",
+      "sourceUrl": "http://www.quotationspage.com/quote/364.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Of the endless debate over socialism and capitalism, Churchill remarked:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://listverse.com/2007/11/22/top-25-winston-churchill-quotes/",
-      "sourceTitle": "Top 25 Winston Churchill Quotes",
-      "text": "The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries."
+      "id": 16
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://publicansam.blogspot.com/2011/01/there-is-no-such-thing-as-good-tax.html",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries.",
+      "sourceTitle": "Top 25 Winston Churchill Quotes",
+      "sourceUrl": "http://listverse.com/2007/11/22/top-25-winston-churchill-quotes/"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Still, Churchill was always a conservative in the British Conservative Party. And his take on fiscal policy is in line with conservative ideals. Churchill was against taxes, he even asserted that \"there is no such thing as a good tax\"",
       "sourceTitle": "\"There is no such thing as a good tax: – Winston Churchill",
-      "text": "Still, Churchill was always a conservative in the British Conservative Party. And his take on fiscal policy is in line with conservative ideals. Churchill was against taxes, he even asserted that \"there is no such thing as a good tax\""
+      "sourceUrl": "http://publicansam.blogspot.com/2011/01/there-is-no-such-thing-as-good-tax.html"
     },
     {
-      "type": "sentence",
-      "text": "and made the astute observation:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "and made the astute observation:",
+      "parentId": 18
     },
     {
       "type": "quote",
-      "sourceUrl": "http://listverse.com/2007/11/22/top-25-winston-churchill-quotes/",
+      "id": 19
+    },
+    {
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "We contend that for a nation to tax itself into prosperity is like a man standing in a bucket and trying to lift himself up by the handle.",
       "sourceTitle": "Top 25 Winston Churchill Quotes",
-      "text": "We contend that for a nation to tax itself into prosperity is like a man standing in a bucket and trying to lift himself up by the handle."
+      "sourceUrl": "http://listverse.com/2007/11/22/top-25-winston-churchill-quotes/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "Churchill left us with an impressive legacy, that of a great leader, orator, statesman, and an unfailing realist. Many wonder where politicians like Churchill have gone. I say they are there, the circumstances have never again aligned to bring theme to the fore."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -35,119 +35,227 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Miles Davis was born in Alton, Illinois and raised in East St. Louis, Missouri. He died in 1991 in Santa Monica, California from a stroke, pneumonia and respiratory failure."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lyricsfreak.com/m/miles+davis/biography.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Davis grew up in a largely secular home, in an uncommonly well-to-do black family. His father was a dentist and they owned a ranch outside of the city.",
       "sourceTitle": "Miles Davis Biography",
-      "text": "Davis grew up in a largely secular home, in an uncommonly well-to-do black family. His father was a dentist and they owned a ranch outside of the city."
+      "sourceUrl": "http://www.lyricsfreak.com/m/miles+davis/biography.html"
     },
     {
-      "type": "sentence",
-      "text": "While it seems likely that some Christian influence found its way into Davis' childhood, I can find no mention of it on the Internet."
+      "type": "text",
+      "text": "While it seems likely that some Christian influence found its way into Davis' childhood, I can find no mention of it on the Internet.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "His adult life was anything but religious–in the traditional sense of the word. He did say in his autobiography:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://anascanon.blogspot.com/2010/05/miles-daviss-b-day.html",
-      "sourceTitle": "Miles Davis's B-Day",
-      "text": "I don't really practice a religion, . Most religious folks I've met are jive. If I did follow any religion, It would be Islam. It's the only religion that makes sense."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I don't really practice a religion,"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "per se"
+    },
+    {
+      "type": "text",
+      "text": ". Most religious folks I've met are jive. If I did follow any religion, It would be Islam. It's the only religion that makes sense.",
+      "parentId": 5,
+      "sourceTitle": "Miles Davis's B-Day",
+      "sourceUrl": "http://anascanon.blogspot.com/2010/05/miles-daviss-b-day.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "That being said, it's difficult to have a discussion of religion and spirituality regarding Miles Davis and not mention his music. It was clearly a spiritual, mysterious and welcome force in Davis' life. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/miles_davis.html",
+      "id": 7
+    },
+    {
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "It's always been a gift with me, hearing music the way I do. I don't know where it comes from, it's just there and I don't question it.",
       "sourceTitle": "Miles Davis Quotes.",
-      "text": "It's always been a gift with me, hearing music the way I do. I don't know where it comes from, it's just there and I don't question it."
+      "sourceUrl": "http://www.brainyquote.com/quotes/authors/m/miles_davis.html"
     },
     {
-      "type": "sentence",
-      "text": "But Davis' music always conveyed a certain depth, as if it came from some mystical place that only precious few \"tuned-in\" individuals have access to. Just listen to ."
+      "type": "paragraph",
+      "id": 9
     },
     {
-      "type": "break"
+      "parentId": 9,
+      "type": "text",
+      "text": "But Davis' music always conveyed a certain depth, as if it came from some mystical place that only precious few \"tuned-in\" individuals have access to. Just listen to"
+    },
+    {
+      "parentId": 9,
+      "type": "emphasis",
+      "text": "Bitches Brew"
+    },
+    {
+      "type": "text",
+      "text": ".",
+      "parentId": 9
     },
     {
       "type": "heading",
-      "text": "An  of an activist"
+      "id": 10
     },
     {
-      "type": "sentence",
+      "parentId": 10,
+      "type": "text",
+      "text": "An"
+    },
+    {
+      "parentId": 10,
+      "type": "emphasis",
+      "text": "Aura"
+    },
+    {
+      "type": "text",
+      "text": "of an activist",
+      "parentId": 10
+    },
+    {
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Davis wasn't really political, much like he wasn't really religious. Miles was music. However, he always considered jazz to be a possession of black America, and he resented what he perceived to be a sort of co-opting of jazz by white people. Davis compared it to the discovery of America, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/author/quotes/54761.Miles_Davis",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "It's like, how did Columbus discover America when the Indians were already here? What kind of shit is that, but white people's shit?",
       "sourceTitle": "Miles Davis Quotes (Author of Miles)",
-      "text": "It's like, how did Columbus discover America when the Indians were already here? What kind of shit is that, but white people's shit?"
+      "sourceUrl": "http://www.goodreads.com/author/quotes/54761.Miles_Davis"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://theinfluenceofmilesdavis.blogspot.com/",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "Davis always seemed defensive, in a way, of black American culture. This probably came from his father, who Miles described as \"pro-black, very pro-black.\"",
       "sourceTitle": "The Influence of Miles Davis",
-      "text": "Davis always seemed defensive, in a way, of black American culture. This probably came from his father, who Miles described as \"pro-black, very pro-black.\""
+      "sourceUrl": "http://theinfluenceofmilesdavis.blogspot.com/"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://boatagainstthecurrent.blogspot.com/2009/08/this-day-in-jazz-history-miles-davis.html",
+      "parentId": 15,
+      "type": "text",
+      "text": "This attitude put Miles ever at odds with \"the establishment.\" In 1959, Davis was beaten and arrested by a white police officer in New York City. It almost resulted in nationwide riots.",
       "sourceTitle": "This Day In Jazz History (Miles Davis' Arrest Sparks Near-Riot",
-      "text": "This attitude put Miles ever at odds with \"the establishment.\" In 1959, Davis was beaten and arrested by a white police officer in New York City. It almost resulted in nationwide riots."
+      "sourceUrl": "http://boatagainstthecurrent.blogspot.com/2009/08/this-day-in-jazz-history-miles-davis.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
-      "text": "Perhaps the most poignant and shocking example of this is the story of Davis' day at the White House. There are numerous versions of this story. I choose to present  version–as it is a reliable publication and their version is easily the most outrageous:"
+      "parentId": 16,
+      "type": "text",
+      "text": "Perhaps the most poignant and shocking example of this is the story of Davis' day at the White House. There are numerous versions of this story. I choose to present"
     },
     {
-      "type": "break"
+      "parentId": 16,
+      "type": "emphasis",
+      "text": "The Guardian"
     },
     {
-      "type": "sentence",
+      "type": "text",
+      "text": "version–as it is a reliable publication and their version is easily the most outrageous:",
+      "parentId": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17
+    },
+    {
+      "parentId": 17,
+      "type": "text",
       "text": "During the Reagan administration, Davis was invited to a White House dinner. Most of the guests were white and members of the elite class. Few knew who Miles was. Nancy Reagan asked him what he had accomplished that warranted an invitation to the White House. Miles replied:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/music/musicblog/2011/sep/28/miles-davis-20-years",
-      "sourceTitle": "Miles Davis: his wardrobe, his wit, his way with basketball… ",
-      "text": "Well, I've changed the course of music five or six times. What have you done except fuck the president?"
+      "id": 18
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 19,
+      "parentId": 18
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "Well, I've changed the course of music five or six times. What have you done except fuck the president?",
+      "sourceTitle": "Miles Davis: his wardrobe, his wit, his way with basketball…",
+      "sourceUrl": "http://www.guardian.co.uk/music/musicblog/2011/sep/28/miles-davis-20-years"
+    },
+    {
+      "type": "paragraph",
+      "id": 20
+    },
+    {
+      "parentId": 20,
+      "type": "text",
       "text": "That's Miles."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
@@ -207,7 +315,7 @@
             "source": "commons-desc-page"
           },
           "Permission": {
-            "value": "<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:#f9f9f9; border:2px solid #e0e0e0; padding: 0; border-spacing: 8px;\" class=\"layouttemplate licensetpl mw-content-ltr\" lang=\"en\">\n<tr>\n<td style=\"width:90px;\" rowspan=\"3\">\n<img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/90px-CC_some_rights_reserved.svg.png\" title=\"w:en:Creative Commons\" width=\"90\" height=\"36\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/135px-CC_some_rights_reserved.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/180px-CC_some_rights_reserved.svg.png 2x\" data-file-width=\"744\" data-file-height=\"300\"><br><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/24px-Cc-by_new_white.svg.png\" title=\"attribution\" width=\"24\" height=\"24\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/36px-Cc-by_new_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/48px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/24px-Cc-sa_white.svg.png\" title=\"share alike\" width=\"24\" height=\"24\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/36px-Cc-sa_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/48px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\">\n</td>\n<td lang=\"en\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</td>\n<td style=\"width:90px;\" rowspan=\"3\"></td>\n</tr>\n<tr style=\"text-align:center;\">\n<td></td>\n</tr>\n<tr style=\"text-align:left;\" lang=\"en\">\n<td>\n<dl>\n<dd>You are free:\n<ul>\n<li>\n<b>to share</b> – to copy, distribute and transmit the work</li>\n<li>\n<b>to remix</b> – to adapt the work</li>\n</ul>\n</dd>\n<dd>Under the following conditions:\n<ul>\n<li>\n<b>attribution</b> – You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).</li>\n<li>\n<b>share alike</b> – If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</li>\n</ul>\n</dd>\n</dl>\n<p><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/2.0</span> <span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 2.0</span> <span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 2.0</span> <span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>\n</td>\n</tr>\n</table>\n<table id=\"FlickrReview\" style=\"width:100%; margin:0.3em auto; text-align: start; background: #eeffee; padding: 3px; border: 1px solid #aaaa88;\" class=\"mw-content-ltr\" dir=\"ltr\" lang=\"en\"><tr>\n<td><img alt=\"Checked copyright icon.svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/50px-Checked_copyright_icon.svg.png\" width=\"50\" height=\"48\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/75px-Checked_copyright_icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/100px-Checked_copyright_icon.svg.png 2x\" data-file-width=\"160\" data-file-height=\"153\"></td>\n<td>This image was originally posted to <a href=\"https://en.wikipedia.org/wiki/Flickr\" class=\"extiw\" title=\"en:Flickr\">Flickr</a> by tompalumbo at <a rel=\"nofollow\" class=\"external free\" href=\"http://flickr.com/photos/22789198@N04/2193453631\">http://flickr.com/photos/22789198@N04/2193453631</a>. It was reviewed on <span style=\"white-space:nowrap\"><time class=\"dtstart\" datetime=\"2008-05-18\">18 May 2008</time></span> by the <a href=\"//commons.wikimedia.org/wiki/User:FlickreviewR\" title=\"User:FlickreviewR\">FlickreviewR</a> robot and was confirmed to be licensed under the terms of the cc-by-sa-2.0.</td>\n</tr></table>\n<span style=\"display:none\"><span style=\"white-space:nowrap\"><time class=\"dtstart\" datetime=\"2008-05-18\">18 May 2008</time></span></span>",
+            "value": "<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:#f9f9f9; border:2px solid #e0e0e0; padding: 0; border-spacing: 8px;\" class=\"layouttemplate licensetpl mw-content-ltr\" lang=\"en\">\n<tr>\n<td style=\"width:90px;\" rowspan=\"3\">\n<img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/90px-CC_some_rights_reserved.svg.png\" title=\"w:en:Creative Commons\" width=\"90\" height=\"36\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/135px-CC_some_rights_reserved.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/180px-CC_some_rights_reserved.svg.png 2x\" data-file-width=\"744\" data-file-height=\"300\"><br><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/24px-Cc-by_new_white.svg.png\" title=\"attribution\" width=\"24\" height=\"24\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/36px-Cc-by_new_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/48px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/24px-Cc-sa_white.svg.png\" title=\"share alike\" width=\"24\" height=\"24\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/36px-Cc-sa_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/48px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\">\n</td>\n<td lang=\"en\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</td>\n<td style=\"width:90px;\" rowspan=\"3\"></td>\n</tr>\n<tr style=\"text-align:center;\">\n<td></td>\n</tr>\n<tr style=\"text-align:left;\" lang=\"en\">\n<td>\n<dl>\n<dd>You are free:\n<ul>\n<li>\n<b>to share</b> – to copy, distribute and transmit the work</li>\n<li>\n<b>to remix</b> – to adapt the work</li>\n</ul>\n</dd>\n<dd>Under the following conditions:\n<ul>\n<li>\n<b>attribution</b> – You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).</li>\n<li>\n<b>share alike</b> – If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</li>\n</ul>\n</dd>\n</dl>\n<p><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/2.0</span> <span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 2.0</span> <span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 2.0</span> <span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></p>\n</td>\n</tr>\n</table>\n<table id=\"FlickrReview\" style=\"width:100%; margin:0.3em auto; text-align: start; background: #eeffee; padding: 3px; border: 1px solid #aaaa88;\" class=\"mw-content-ltr\" dir=\"ltr\" lang=\"en\"><tr>\n<td><img alt=\"Checked copyright icon.svg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/50px-Checked_copyright_icon.svg.png\" width=\"50\" height=\"48\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/75px-Checked_copyright_icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/100px-Checked_copyright_icon.svg.png 2x\" data-file-width=\"160\" data-file-height=\"153\"></td>\n<td>This image was originally posted to <b><a href=\"https://en.wikipedia.org/wiki/Flickr\" class=\"extiw\" title=\"en:Flickr\">Flickr</a></b> by tompalumbo at <a rel=\"nofollow\" class=\"external free\" href=\"http://flickr.com/photos/22789198@N04/2193453631\">http://flickr.com/photos/22789198@N04/2193453631</a>. It was reviewed on <span style=\"white-space:nowrap\"><time class=\"dtstart\" datetime=\"2008-05-18\">18 May 2008</time></span> by <b><span id=\"flickr_upload_bot_reviewer\"><a href=\"//commons.wikimedia.org/wiki/User:FlickreviewR\" title=\"User:FlickreviewR\">FlickreviewR</a></span></b> and was confirmed to be licensed under the terms of the cc-by-sa-2.0.</td>\n</tr></table>\n<span style=\"display:none\"><span style=\"white-space:nowrap\"><time class=\"dtstart\" datetime=\"2008-05-18\">18 May 2008</time></span></span>",
             "source": "commons-desc-page",
             "hidden": ""
           },

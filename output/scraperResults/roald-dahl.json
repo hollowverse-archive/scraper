@@ -34,120 +34,206 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 1
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://books.google.com/books?id=pOfJeCs0cDIC&pg=PA76&dq=ROALD+DAHL+BAPTISED+Norwegian+Church&hl=en&ei=uRINTZLKKNG4hAfvt9i3Dg&sa=X&oi=book_result&ct=result&resnum=3&ved=0CDkQ6AEwAg#v=onepage&q=ROALD%20DAHL%20BAPTISED%20Norwegian%20Church&f=false",
+      "parentId": 1,
+      "type": "text",
+      "text": "Roald Dahl was born in Cardiff, Wales and grew up in various boarding schools in Wales and England."
+    },
+    {
+      "type": "paragraph",
+      "id": 2
+    },
+    {
+      "parentId": 2,
+      "type": "text",
+      "text": "Both of Dahl's parents were Norwegian immigrants to Wales, and Dahl was baptized and raised in the Church of Norway,",
       "sourceTitle": "Cardiff Soul: An Underground Guide to the City – Colin Palfrey",
-      "text": "Both of Dahl's parents were Norwegian immigrants to Wales, and Dahl was baptized and raised in the Church of Norway,"
+      "sourceUrl": "http://books.google.com/books?id=pOfJeCs0cDIC&pg=PA76&dq=ROALD+DAHL+BAPTISED+Norwegian+Church&hl=en&ei=uRINTZLKKNG4hAfvt9i3Dg&sa=X&oi=book_result&ct=result&resnum=3&ved=0CDkQ6AEwAg#v=onepage&q=ROALD%20DAHL%20BAPTISED%20Norwegian%20Church&f=false"
     },
     {
-      "type": "sentence",
-      "text": "a Lutheran denomination of Christianity."
+      "type": "text",
+      "text": "a Lutheran denomination of Christianity.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
+      "parentId": 3,
+      "type": "text",
       "text": "However, it could be argued that the majority of Dahl's religious exposure was the Anglicanism of his boarding schools–experiences that would eventually shape him into an agnostic."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "As the story goes, Dahl was stricken with the hypocrisy of the Christian faith when he would listen to the preachers espouse charity and forgiveness after thoroughly beating students for minor offenses. He wrote in his autobiography:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.infernova.blackburnianpress.com/bolg2.html",
-      "sourceTitle": "Circle VIII – Bolgia",
-      "text": "I knew very well that only the night before this preacher had shown neither forgiveness nor mercy in flogging some small boy that had broken the rules… Did they preach one thing and practice another, these men of God?…It was all this, I think, that made me begin to have doubts about religion and even about God."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "I knew very well that only the night before this preacher had shown neither forgiveness nor mercy in flogging some small boy that had broken the rules… Did they preach one thing and practice another, these men of God?…It was all this, I think, that made me begin to have doubts about religion and even about God.",
+      "sourceTitle": "Circle VIII – Bolgia",
+      "sourceUrl": "http://www.infernova.blackburnianpress.com/bolg2.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "But if this was only a questioning, the death of Dahl's daughter, Olivia, and a subsequent consult with the former Archbishop of Canterbury was the final straw. Dahl's daughter, Ophelia, recounts what her father once said to her:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 8
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.telegraph.co.uk/culture/books/biographyandmemoirreviews/7930223/Roald-Dahl-on-God-the-day-I-lost-faith-in-the-Boss.html",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "I sat there wondering if this great and famous churchman really knew what he was talking about and whether he knew anything at all about God or heaven, and if he didn't, then who in the world did? And from that moment on, my darlings, I'm afraid I began to wonder whether there really was a God or not.",
       "sourceTitle": "Roald Dahl on God: the day I lost faith in \"the Boss.\"",
-      "text": "I sat there wondering if this great and famous churchman really knew what he was talking about and whether he knew anything at all about God or heaven, and if he didn't, then who in the world did? And from that moment on, my darlings, I'm afraid I began to wonder whether there really was a God or not."
+      "sourceUrl": "http://www.telegraph.co.uk/culture/books/biographyandmemoirreviews/7930223/Roald-Dahl-on-God-the-day-I-lost-faith-in-the-Boss.html"
     },
     {
       "type": "heading",
+      "id": 10
+    },
+    {
+      "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Politics and children's books"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thisrecording.com/today/2011/6/1/in-which-we-consider-the-macabre-unpleasantness-of-roald-dah.html",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Dahl's legacy is not a good one. Widely known to have been a philandering malcontent, Dahl turned to writing children's books when his true passion of writing about sex and violence didn't pan out.",
       "sourceTitle": "In Which We Consider The Macabre Unpleasantness Of Roald Dahl",
-      "text": "Dahl's legacy is not a good one. Widely known to have been a philandering malcontent, Dahl turned to writing children's books when his true passion of writing about sex and violence didn't pan out."
+      "sourceUrl": "http://thisrecording.com/today/2011/6/1/in-which-we-consider-the-macabre-unpleasantness-of-roald-dah.html"
     },
     {
-      "type": "sentence",
-      "text": "Though some argue he still wrote about sex and violence."
+      "type": "text",
+      "text": "Though some argue he still wrote about sex and violence.",
+      "parentId": 12
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
+      "parentId": 13,
+      "type": "text",
       "text": "Beyond that, Dahl was explicitly anti-semitic and vocally anti-Israel, saying things like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://onpoint.wbur.org/2010/09/30/roald-dahl",
-      "sourceTitle": "The Life Of Roald Dahl",
-      "text": "There's a trait in the Jewish character that does provoke animosity … I mean there is always a reason why anti-anything crops up anywhere; even a stinker like Hitler didn't just pick on them for no reason."
+      "id": 14
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 15,
+      "parentId": 14
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "There's a trait in the Jewish character that does provoke animosity … I mean there is always a reason why anti-anything crops up anywhere; even a stinker like Hitler didn't just pick on them for no reason.",
+      "sourceTitle": "The Life Of Roald Dahl",
+      "sourceUrl": "http://onpoint.wbur.org/2010/09/30/roald-dahl"
+    },
+    {
+      "type": "paragraph",
+      "id": 16
+    },
+    {
+      "parentId": 16,
+      "type": "text",
       "text": "Dahl's writings have been heavily criticized for their misogynistic tone as well. One feminist group summed up the plot themes of his work as follows:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://thisrecording.com/today/2011/6/1/in-which-we-consider-the-macabre-unpleasantness-of-roald-dah.html",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Almost every one of his numerous books rehashes the same tired plot: a meek small boy finally turns on his adult female tormentors and kills them.",
       "sourceTitle": "In Which We Consider The Macabre Unpleasantness Of Roald Dahl",
-      "text": "Almost every one of his numerous books rehashes the same tired plot: a meek small boy finally turns on his adult female tormentors and kills them."
+      "sourceUrl": "http://thisrecording.com/today/2011/6/1/in-which-we-consider-the-macabre-unpleasantness-of-roald-dah.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://thisrecording.com/today/2011/6/1/in-which-we-consider-the-macabre-unpleasantness-of-roald-dah.html",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "A bit of an exaggeration, no doubt, but with a ring of truth as well. Furthermore, Dahl's publishers were constantly scrambling to edit out various politically incorrect themes, words and overall tone. The original \"Oompah Loompah's\" of his"
+    },
+    {
+      "parentId": 19,
+      "type": "emphasis",
+      "text": "Charlie and the Chocolate Factory"
+    },
+    {
+      "type": "text",
+      "text": "were illustrated as, essentially, black pygmy slaves, for example.",
+      "parentId": 19,
       "sourceTitle": "In Which We Consider The Macabre Unpleasantness Of Roald Dahl",
-      "text": "A bit of an exaggeration, no doubt, but with a ring of truth as well. Furthermore, Dahl's publishers were constantly scrambling to edit out various politically incorrect themes, words and overall tone. The original \"Oompah Loompah's\" of his  were illustrated as, essentially, black pygmy slaves, for example."
+      "sourceUrl": "http://thisrecording.com/today/2011/6/1/in-which-we-consider-the-macabre-unpleasantness-of-roald-dah.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 20
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.telegraph.co.uk/foodanddrink/recipes/3334427/A-plateful-of-Dahl.html",
+      "parentId": 20,
+      "type": "text",
+      "text": "Dahl did have his redeeming moments. He was a large benefactor for causes in neurology, the blood disorder haematology, children's literacy",
       "sourceTitle": "A plateful of Dahl",
-      "text": "Dahl did have his redeeming moments. He was a large benefactor for causes in neurology, the blood disorder haematology, children's literacy"
+      "sourceUrl": "http://www.telegraph.co.uk/foodanddrink/recipes/3334427/A-plateful-of-Dahl.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.roalddahlcharity.org/",
+      "type": "text",
+      "text": "and battling childhood diseases.",
+      "parentId": 20,
       "sourceTitle": "Roald Dahl's Marvelous Children's Charity – Introduction",
-      "text": "and battling childhood diseases."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.roalddahlcharity.org/"
     }
   ],
   "wikipediaData": {

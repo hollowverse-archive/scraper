@@ -34,111 +34,176 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Stephen King was born in Portland, Maine and grew up between De Pere, Wisconsin, Fort Wayne, Indiana, Stratford, Connecticut, and finally Durham, Maine."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "King's website addresses his Methodist upbringing in the Frequently Asked Questions sections, which reads:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 3
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.stephenking.com/faq.html#0.5",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "Stephen was raised as a Methodist and attended church regularly in his youth. He no longer attends church, but he does believe in God and reads the Bible.",
       "sourceTitle": "Frequently Asked Questions",
-      "text": "Stephen was raised as a Methodist and attended church regularly in his youth. He no longer attends church, but he does believe in God and reads the Bible."
+      "sourceUrl": "http://www.stephenking.com/faq.html#0.5"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://religion.blogs.cnn.com/2012/06/02/the-gospel-of-stephen-king/",
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "But this isn't nearly enough for some folks, who are convinced that King's books mirror the stories of the Bible.",
       "sourceTitle": "The Gospel of Stephen King",
-      "text": "But this isn't nearly enough for some folks, who are convinced that King's books mirror the stories of the Bible."
+      "sourceUrl": "http://religion.blogs.cnn.com/2012/06/02/the-gospel-of-stephen-king/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://wiki.answers.com/Q/What_religion_is_Stephen_King",
+      "type": "text",
+      "text": "King himself doesn't agree, saying he's not \"God's stenographer.\"",
+      "parentId": 5,
       "sourceTitle": "What religion is Stephen King?",
-      "text": "King himself doesn't agree, saying he's not \"God's stenographer.\""
+      "sourceUrl": "http://wiki.answers.com/Q/What_religion_is_Stephen_King"
     },
     {
-      "type": "sentence",
-      "text": "In fact, King doesn't seem to hold religion in very high regard. He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "In fact, King doesn't seem to hold religion in very high regard. He said:",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://religion.blogs.cnn.com/2012/06/02/the-gospel-of-stephen-king/",
-      "sourceTitle": "The Gospel of Stephen King",
-      "text": "I hate organized religion. I think it's one of the roots of real evil that's in the world. If you really unmask Satan, you'll probably find that he's wearing a turnaround collar."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I hate organized religion. I think it's one of the roots of real evil that's in the world. If you really unmask Satan, you'll probably find that he's wearing a turnaround collar.",
+      "sourceTitle": "The Gospel of Stephen King",
+      "sourceUrl": "http://religion.blogs.cnn.com/2012/06/02/the-gospel-of-stephen-king/"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "King, a highly intelligent man with an obvious penchant for the occult and supernatural, a man who's made his living off of his readers' fascination with the impossible and irrational, ironically condemns the illogical nature of belief, saying:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.goodreads.com/quotes/show/1494",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "The beauty of religious mania is that it has the power to explain everything. Once God (or Satan) is accepted as the first cause of everything which happens in the mortal world, nothing is left to chance… logic can be happily tossed out the window.",
       "sourceTitle": "Quote by Stephen King",
-      "text": "The beauty of religious mania is that it has the power to explain everything. Once God (or Satan) is accepted as the first cause of everything which happens in the mortal world, nothing is left to chance… logic can be happily tossed out the window."
+      "sourceUrl": "http://www.goodreads.com/quotes/show/1494"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "The politics of ghosts and ghouls"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "King is a staunch Democrat and a confirmed liberal."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://m.newsbusters.org/blogs/scott-whitlock/2011/11/11/stephen-king-right-wing-hate-obama-anger-led-jfks-murder",
+      "parentId": 13,
+      "type": "text",
+      "text": "King has simultaneously endorsed Obama and blasted the conservatives that hate him. Truly, the amount of contempt and bile sent Obama's way during the 2012 election is staggering and King worried that someone may try to assassinate him.",
       "sourceTitle": "Author Stephen King: Right-Wing 'Hate' of Obama is Like Anger That Led to JFK's Murder",
-      "text": "King has simultaneously endorsed Obama and blasted the conservatives that hate him. Truly, the amount of contempt and bile sent Obama's way during the 2012 election is staggering and King worried that someone may try to assassinate him."
+      "sourceUrl": "http://m.newsbusters.org/blogs/scott-whitlock/2011/11/11/stephen-king-right-wing-hate-obama-anger-led-jfks-murder"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.huffingtonpost.com/2010/08/06/glenn-beck-stephen-king-e_n_673658.html",
+      "parentId": 14,
+      "type": "text",
+      "text": "King hates conservatives like Glenn Beck, Bill O'Reilly and the Tea Party. Beck, according to King is \"Satan's younger brother,\" while O'Reilly is \"Satan's older, mentally challenged brother.\"",
       "sourceTitle": "Glenn Beck, Stephen King Exchange Brutal Insults",
-      "text": "King hates conservatives like Glenn Beck, Bill O'Reilly and the Tea Party. Beck, according to King is \"Satan's younger brother,\" while O'Reilly is \"Satan's older, mentally challenged brother.\""
+      "sourceUrl": "http://www.huffingtonpost.com/2010/08/06/glenn-beck-stephen-king-e_n_673658.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 15
     },
     {
-      "type": "sentence",
+      "parentId": 15,
+      "type": "text",
       "text": "Concerned about corporate greed, money in politics, and budgetary issues in the United States, King sided with ultra-liberal members of the Occupy movement in asking for higher taxes on the rich, saying:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.mediaite.com/online/stephen-king-speaks-budget-cut-protest-says-florida-governor-should-star-in-his-next-horror-novel/",
+      "id": 16
+    },
+    {
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "As a rich person, I pay 28% taxes. What I want to ask you is, why don't I pay 50%? Why is everybody in my bracket not paying 50%? The Republicans will say, from John Boehner to Mitch McConnell to Rick Scott, that we can't do that because, if we tax guys like me, there won't be any jobs. It's bull! It's total bull!",
       "sourceTitle": "Stephen King At Florida Rally",
-      "text": "As a rich person, I pay 28% taxes. What I want to ask you is, why don't I pay 50%? Why is everybody in my bracket not paying 50%? The Republicans will say, from John Boehner to Mitch McConnell to Rick Scott, that we can't do that because, if we tax guys like me, there won't be any jobs. It's bull! It's total bull!"
+      "sourceUrl": "http://www.mediaite.com/online/stephen-king-speaks-budget-cut-protest-says-florida-governor-should-star-in-his-next-horror-novel/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "Next thing you know, he'll be wanting equal pay for zombies and suffrage for werewolves."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

@@ -35,108 +35,191 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ice Cube, whose real name is O'Shea Jackson, was born and raised in Los Angeles, California."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=WbP6Vh0SyTg",
+      "parentId": 2,
+      "type": "text",
+      "text": "Cube is a Muslim, having converted in the 1990s. It is unclear what his religion was before that–if there was one. He takes a personal approach to his religion, saying that he isn't a part of any sect or faction, that his spirituality is just between him and God.",
       "sourceTitle": "Ice Cube is Muslim",
-      "text": "Cube is a Muslim, having converted in the 1990s. It is unclear what his religion was before that–if there was one. He takes a personal approach to his religion, saying that he isn't a part of any sect or faction, that his spirituality is just between him and God."
+      "sourceUrl": "http://www.youtube.com/watch?v=WbP6Vh0SyTg"
     },
     {
-      "type": "sentence",
-      "text": "He said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "He said:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/film/2000/feb/25/icecube",
+      "id": 3
+    },
+    {
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "What I call myself is a natural Muslim, because it's just me and God. You know, going to the mosque, the ritual and the tradition, it's just not in me to do. So I don't do it.",
       "sourceTitle": "Chillin' with Cube",
-      "text": "What I call myself is a natural Muslim, because it's just me and God. You know, going to the mosque, the ritual and the tradition, it's just not in me to do. So I don't do it."
+      "sourceUrl": "http://www.guardian.co.uk/film/2000/feb/25/icecube"
     },
     {
-      "type": "sentence",
-      "text": "Now a man with a family and a part of the mainstream entertainment industry, Cube has implied he cut ties with the Nation of Islam–the somewhat fundamentalist, militant Muslim organization–but in the early days of his conversion, he wrote on the sleeve of his album, :"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "break"
+      "parentId": 5,
+      "type": "text",
+      "text": "Now a man with a family and a part of the mainstream entertainment industry, Cube has implied he cut ties with the Nation of Islam–the somewhat fundamentalist, militant Muslim organization–but in the early days of his conversion, he wrote on the sleeve of his album,"
+    },
+    {
+      "parentId": 5,
+      "type": "emphasis",
+      "text": "Death Certificate"
+    },
+    {
+      "type": "text",
+      "text": ":",
+      "parentId": 5
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.jstor.org/discover/10.2307/466354?uid=3737864&uid=2129&uid=2&uid=70&uid=4&sid=56260024393",
-      "sourceTitle": "The State of Rap: Time and Place in Hip Hop Nationalism",
-      "text": "The best place for a young black male or female is the Nation of Islam."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "The best place for a young black male or female is the Nation of Islam.",
+      "sourceTitle": "The State of Rap: Time and Place in Hip Hop Nationalism",
+      "sourceUrl": "http://www.jstor.org/discover/10.2307/466354?uid=3737864&uid=2129&uid=2&uid=70&uid=4&sid=56260024393"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "But this might be a bit too controversial for the modern Cube, who said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://www.guardian.co.uk/film/2000/feb/25/icecube",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Ah, when you say involved with the Nation, it's tricky. I never was in the Nation of Islam.",
       "sourceTitle": "Chillin' with Cube",
-      "text": "Ah, when you say involved with the Nation, it's tricky. I never was in the Nation of Islam."
+      "sourceUrl": "http://www.guardian.co.uk/film/2000/feb/25/icecube"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Politics is cold"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Ice Cube seems to be a reasonable Democrat, not because he's black, but because he's seen the alternative. During the 2012 Republican primaries, he was asked what he thought of the Republican candidates. He said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.ebaumsworld.com/video/watch/82370138/",
-      "sourceTitle": "Big govt. liberal asks Ice Cube about politics video",
-      "text": "No love, no hate, they just look like a mess… I'm just going to sit back and watch the show."
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "No love, no hate, they just look like a mess… I'm just going to sit back and watch the show.",
+      "sourceTitle": "Big govt. liberal asks Ice Cube about politics video",
+      "sourceUrl": "http://www.ebaumsworld.com/video/watch/82370138/"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "Between crazy-eyed, gay-hating Michele Bachmann and scared-of-sex Rick Santorum, who could blame someone for saying 2012's Republican candidates looked like a mess."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 16
     },
     {
-      "type": "sentence",
+      "parentId": 16,
+      "type": "text",
       "text": "But the beauty of Ice Cube is that he isn't a blind Democrat. As a man who clearly cares for the American black community, Ice Cube was asked what he thought of Barack Obama in 2008, during the campaign. Cube responded:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://observer.com/2008/01/ice-cube-keeps-politics-private-can-still-rhyme-barack-obama/",
+      "id": 17
+    },
+    {
+      "type": "paragraph",
+      "id": 18,
+      "parentId": 17
+    },
+    {
+      "parentId": 18,
+      "type": "text",
+      "text": "Him being black is secondary to him being a good president… We start getting focused on color, then, we're going to think that once he's elected, our job is done. That ain't true. If he's a good man, he should be president. If he's the best man he should be the president, no matter what color he is.",
       "sourceTitle": "Ice Cube Keeps Politics Private, Can Still Rhyme 'Barack Obama.'",
-      "text": "Him being black is secondary to him being a good president… We start getting focused on color, then, we're going to think that once he's elected, our job is done. That ain't true. If he's a good man, he should be president. If he's the best man he should be the president, no matter what color he is."
+      "sourceUrl": "http://observer.com/2008/01/ice-cube-keeps-politics-private-can-still-rhyme-barack-obama/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.lyricsdepot.com/n-w-a/fuck-tha-police.html",
+      "type": "paragraph",
+      "id": 19
+    },
+    {
+      "parentId": 19,
+      "type": "text",
+      "text": "But one must remember, this is the older Ice Cube. Young, N.W.A. Ice Cube was about as anti-establishment as you can get with songs like \"Fuck tha Police\"",
       "sourceTitle": "Fuck tha Police Lyrics",
-      "text": "But one must remember, this is the older Ice Cube. Young, N.W.A. Ice Cube was about as anti-establishment as you can get with songs like \"Fuck tha Police\""
+      "sourceUrl": "http://www.lyricsdepot.com/n-w-a/fuck-tha-police.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailymotion.com/video/x8q3s1_n-w-a-appetite-for-destruction_music",
+      "type": "text",
+      "text": "and \"Appetite for Destruction,\" the video which featured Ice Cube and fellow N.W.A. members robbing a bank.",
+      "parentId": 19,
       "sourceTitle": "N.W.A. – Appetite for Destruction",
-      "text": "and \"Appetite for Destruction,\" the video which featured Ice Cube and fellow N.W.A. members robbing a bank."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.dailymotion.com/video/x8q3s1_n-w-a-appetite-for-destruction_music"
     }
   ],
   "wikipediaData": {

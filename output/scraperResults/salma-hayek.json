@@ -33,126 +33,189 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Salma Hayek, whose real name is Salma Valgarma Hayek Jiménez de Pinault, was born in Coatzacoalcos, Veracruz, Mexico and raised there and in Grand Coteau, Louisiana."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.hellomagazine.com/profiles/salma-hayek/",
+      "parentId": 2,
+      "type": "text",
+      "text": "Hayek was raised in a very devout Catholic home.",
       "sourceTitle": "Latest news and profile of Salma Hayek",
-      "text": "Hayek was raised in a very devout Catholic home."
+      "sourceUrl": "http://www.hellomagazine.com/profiles/salma-hayek/"
     },
     {
-      "type": "sentence",
-      "text": "She admits to being very devoted to her faith as a young girl, but has since given up on Catholicism–and pretty much religion altogether. She said of her break with the church:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "She admits to being very devoted to her faith as a young girl, but has since given up on Catholicism–and pretty much religion altogether. She said of her break with the church:",
+      "parentId": 2
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.marieclaire.com/celebrity-lifestyle/celebrities/salma-hayek",
-      "sourceTitle": "Salma Hayek: Hot Mama!",
-      "text": "The minute I started thinking it through, I realized all religions are a form of manipulation. And I started having problems with certain beliefs-like in Africa, where people are dying of AIDS and overpopulation, the Catholic Church is going over to convert them and take away the condoms! And I said, wait a minute."
+      "id": 3
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 4,
+      "parentId": 3
+    },
+    {
+      "parentId": 4,
+      "type": "text",
+      "text": "The minute I started thinking it through, I realized all religions are a form of manipulation. And I started having problems with certain beliefs-like in Africa, where people are dying of AIDS and overpopulation, the Catholic Church is going over to convert them and take away the condoms! And I said, wait a minute.",
+      "sourceTitle": "Salma Hayek: Hot Mama!",
+      "sourceUrl": "http://www.marieclaire.com/celebrity-lifestyle/celebrities/salma-hayek"
+    },
+    {
+      "type": "paragraph",
+      "id": 5
+    },
+    {
+      "parentId": 5,
+      "type": "text",
       "text": "Don't call her an atheist, though. She just isn't into organized religion. She said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.marieclaire.com/celebrity-lifestyle/celebrities/salma-hayek",
+      "id": 6
+    },
+    {
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "I don't believe in the institution. I still believe in Jesus Christ. I believe in God.",
       "sourceTitle": "Salma Hayek: Hot Mama!",
-      "text": "I don't believe in the institution. I still believe in Jesus Christ. I believe in God."
+      "sourceUrl": "http://www.marieclaire.com/celebrity-lifestyle/celebrities/salma-hayek"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://hicatholicmom.blogspot.de/2007/05/salma-hayek-offends-catholicsagain.html",
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "This isn't the only time Hayek has offended Catholics.",
       "sourceTitle": "Salma Hayek Offends Catholics… again",
-      "text": "This isn't the only time Hayek has offended Catholics."
+      "sourceUrl": "http://hicatholicmom.blogspot.de/2007/05/salma-hayek-offends-catholicsagain.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/title/tt0120655/plotsummary",
+      "type": "text",
+      "text": "Her role in the satirical Catholic film,",
+      "parentId": 8
+    },
+    {
+      "parentId": 8,
+      "type": "emphasis",
+      "text": "Dogma"
+    },
+    {
+      "type": "text",
+      "text": ", wasn't a hit among the faithful either, with its portrayal of petty deities, drunken angels, and Alanis Morrissette as God.",
+      "parentId": 8,
       "sourceTitle": "Dogma (1999) – Plot Summary.",
-      "text": "Her role in the satirical Catholic film, , wasn't a hit among the faithful either, with its portrayal of petty deities, drunken angels, and Alanis Morrissette as God."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.imdb.com/title/tt0120655/plotsummary"
     },
     {
       "type": "heading",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Mexican-American politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://immigration.about.com/b/2009/02/18/immigrant-spotlight-salma-hayek.htm",
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "Hayek is a naturalized U.S. citizen,",
       "sourceTitle": "Immigrant Spotlight: Salma Hayek",
-      "text": "Hayek is a naturalized U.S. citizen,"
+      "sourceUrl": "http://immigration.about.com/b/2009/02/18/immigrant-spotlight-salma-hayek.htm"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Salma_Hayek.php",
+      "type": "text",
+      "text": "so she is invested in U.S. politics. Her investments go to Democrats. She has donated to only two politicians–both Democrats and one was Barack Obama.",
+      "parentId": 10,
       "sourceTitle": "Salma Hayek's Federal Campaign Contribution Report",
-      "text": "so she is invested in U.S. politics. Her investments go to Democrats. She has donated to only two politicians–both Democrats and one was Barack Obama."
+      "sourceUrl": "http://www.newsmeat.com/celebrity_political_donations/Salma_Hayek.php"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 11
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.futureswithoutviolence.org/content/features/detail/991/",
+      "parentId": 11,
+      "type": "text",
+      "text": "She is politically active in other areas, particularly when it comes to battered women. She addressed U.S. Congress in 2005, urging them to pass the Violence Against Women Act–which they did.",
       "sourceTitle": "House Judiciary Committee Passes Violence Against Women Act",
-      "text": "She is politically active in other areas, particularly when it comes to battered women. She addressed U.S. Congress in 2005, urging them to pass the Violence Against Women Act–which they did."
+      "sourceUrl": "http://www.futureswithoutviolence.org/content/features/detail/991/"
     },
     {
-      "type": "sentence",
-      "text": "Additionally, Hayek has donated tens of thousands of dollars to battered women charities. She said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Additionally, Hayek has donated tens of thousands of dollars to battered women charities. She said:",
+      "parentId": 11
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.usatoday.com/life/people/2006-02-14-hayek_x.htm",
+      "id": 12
+    },
+    {
+      "type": "paragraph",
+      "id": 13,
+      "parentId": 12
+    },
+    {
+      "parentId": 13,
+      "type": "text",
+      "text": "No woman has to be a victim of physical abuse. Women have to feel like they are not alone. Every woman who thinks she is the only victim of violence has to know that there are many more. It's not worse here or there, it's a worldwide problem.",
       "sourceTitle": "Hayek helps groups aiding battered women",
-      "text": "No woman has to be a victim of physical abuse. Women have to feel like they are not alone. Every woman who thinks she is the only victim of violence has to know that there are many more. It's not worse here or there, it's a worldwide problem."
+      "sourceUrl": "http://www.usatoday.com/life/people/2006-02-14-hayek_x.htm"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14
+    },
+    {
+      "parentId": 14,
+      "type": "text",
       "text": "It makes you wonder what Hayek has gone through. Maybe the nuns beat her at Catholic school. But hey, at least she wasn't an alter boy."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {
     "url": "https://en.wikipedia.org/wiki/Salma_Hayek",
     "title": "Salma Hayek",
     "image": {
-      "name": "Salma_Hayek_Cannes_2015_2_cropped.jpg",
+      "name": "Salma_Hayek_2,_2012.jpg",
       "info": {
-        "canonicaltitle": "File:Salma Hayek Cannes 2015 2 cropped.jpg",
-        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Salma_Hayek_Cannes_2015_2_cropped.jpg/233px-Salma_Hayek_Cannes_2015_2_cropped.jpg",
-        "thumbwidth": 233,
+        "canonicaltitle": "File:Salma Hayek 2, 2012.jpg",
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Salma_Hayek_2%2C_2012.jpg/216px-Salma_Hayek_2%2C_2012.jpg",
+        "thumbwidth": 216,
         "thumbheight": 300,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Salma_Hayek_Cannes_2015_2_cropped.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Salma_Hayek_Cannes_2015_2_cropped.jpg",
-        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=45006936",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Salma_Hayek_2%2C_2012.jpg",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Salma_Hayek_2,_2012.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24115089",
         "extmetadata": {
           "DateTime": {
-            "value": "2015-11-14 20:14:29",
+            "value": "2013-01-23 13:57:21",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "Salma Hayek Cannes 2015 2 cropped",
+            "value": "Salma Hayek 2, 2012",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
@@ -162,7 +225,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "2015 Cannes Film Festival|Extracted images|Purple dresses|Salma Hayek in 2015",
+            "value": "2012 Deauville American Film Festival|Images by Georges Biard|Salma Hayek in 2012|Self-published work",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -172,15 +235,15 @@
             "hidden": ""
           },
           "ImageDescription": {
-            "value": "<a href=\"https://en.wikipedia.org/wiki/Salma_Hayek\" class=\"extiw\" title=\"en:Salma Hayek\">Salma Hayek</a> at the 2015 Cannes film festival",
+            "value": "Actress Salma Hayek at the Deauville Film Festival 2012.",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "2015-05-15",
+            "value": "2012-09-08",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<table class=\"messagebox\" style=\"border: 2px solid #ddd; width: 100%; direction: ltr; clear: both;\"><tr>\n<td style=\"width: 60px; padding: 5px;\"><a href=\"//commons.wikimedia.org/wiki/File:Extracted_image_icon.png\" class=\"image\"><img alt=\"image extraction process\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Extracted_image_icon.png/50px-Extracted_image_icon.png\" width=\"50\" height=\"71\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Extracted_image_icon.png/75px-Extracted_image_icon.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Extracted_image_icon.png/100px-Extracted_image_icon.png 2x\" data-file-width=\"500\" data-file-height=\"714\"></a></td>\n<td style=\"text-align: center;\">This file has been <b>extracted</b> from another file:  <a href=\"//commons.wikimedia.org/wiki/File:Salma_Hayek_Cannes_2015_2.jpg\" title=\"File:Salma Hayek Cannes 2015 2.jpg\">Salma Hayek Cannes 2015 2.jpg</a><br>\n</td>\n<td style=\"max-width: 200px; padding: 5px;\"><span class=\"wpImageAnnotatorControl wpImageAnnotatorOff\"><a href=\"//commons.wikimedia.org/wiki/File:Salma_Hayek_Cannes_2015_2.jpg\" class=\"image\" title=\"original file\"><img alt=\"original file\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Salma_Hayek_Cannes_2015_2.jpg/100px-Salma_Hayek_Cannes_2015_2.jpg\" width=\"100\" height=\"89\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Salma_Hayek_Cannes_2015_2.jpg/150px-Salma_Hayek_Cannes_2015_2.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Salma_Hayek_Cannes_2015_2.jpg/200px-Salma_Hayek_Cannes_2015_2.jpg 2x\" data-file-width=\"800\" data-file-height=\"709\"></a></span></td>\n</tr></table>",
+            "value": "This file was derived from  <a href=\"//commons.wikimedia.org/wiki/File:Salma_Hayek_Deauville_2012.jpg\" title=\"File:Salma Hayek Deauville 2012.jpg\">Salma Hayek Deauville 2012.jpg</a>: <a href=\"//commons.wikimedia.org/wiki/File:Salma_Hayek_Deauville_2012.jpg\" class=\"image\"><img alt=\"Salma Hayek Deauville 2012.jpg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Salma_Hayek_Deauville_2012.jpg/50px-Salma_Hayek_Deauville_2012.jpg\" width=\"50\" height=\"71\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Salma_Hayek_Deauville_2012.jpg/75px-Salma_Hayek_Deauville_2012.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Salma_Hayek_Deauville_2012.jpg/100px-Salma_Hayek_Deauville_2012.jpg 2x\" data-file-width=\"566\" data-file-height=\"800\"></a><br>",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -189,12 +252,12 @@
             "source": "commons-desc-page"
           },
           "LicenseShortName": {
-            "value": "CC BY-SA 2.5",
+            "value": "CC BY-SA 3.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "UsageTerms": {
-            "value": "Creative Commons Attribution-Share Alike 2.5",
+            "value": "Creative Commons Attribution-Share Alike 3.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -203,8 +266,13 @@
             "source": "commons-desc-page",
             "hidden": ""
           },
+          "Attribution": {
+            "value": "Georges Biard",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
           "LicenseUrl": {
-            "value": "https://creativecommons.org/licenses/by-sa/2.5",
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
@@ -219,7 +287,7 @@
             "hidden": ""
           },
           "License": {
-            "value": "cc-by-sa-2.5",
+            "value": "cc-by-sa-3.0",
             "source": "commons-templates",
             "hidden": ""
           }

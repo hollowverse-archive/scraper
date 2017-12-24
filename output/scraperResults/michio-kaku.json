@@ -31,111 +31,158 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Michio Kaku was born in San Jose, California, the son of Japanese immigrants. Kaku grew up in a household heavily influenced by Japanese culture, therefore it is reasonable to assume that the dominant religious ideas of Japan were present, namely Shinto and perhaps Buddhism."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
+      "parentId": 2,
+      "type": "text",
       "text": "Kaku was one of those really geeky kids you hear about who was building sophisticated physics experiments in his parents' garage, winning the high school science fair, getting into Harvard as a result, and becoming a famous theoretical physicist."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=rtio9ezWQPA",
+      "parentId": 3,
+      "type": "text",
+      "text": "As a physicist, Kaku is frequently \"bumping up against\" those big questions in life: Where did the universe come from? Did someone create it? Is there purpose, order, or chaos? In fact, he cites his interest in those questions as the reason he became interested in theoretical physics.",
       "sourceTitle": "Michio Kaku on God",
-      "text": "As a physicist, Kaku is frequently \"bumping up against\" those big questions in life: Where did the universe come from? Did someone create it? Is there purpose, order, or chaos? In fact, he cites his interest in those questions as the reason he became interested in theoretical physics."
+      "sourceUrl": "http://www.youtube.com/watch?v=rtio9ezWQPA"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=kYAdwS5MFjQ&feature=related",
+      "parentId": 4,
+      "type": "text",
+      "text": "As a physicist, Kaku is an advocate and supporter of string theory–the idea that our universe is but one of many universes in the \"multiverse.\"",
       "sourceTitle": "Michio Kaku Explains String Theory",
-      "text": "As a physicist, Kaku is an advocate and supporter of string theory–the idea that our universe is but one of many universes in the \"multiverse.\""
+      "sourceUrl": "http://www.youtube.com/watch?v=kYAdwS5MFjQ&feature=related"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=tX-Ux1Ad7tY",
+      "type": "text",
+      "text": "But in terms of spirituality, Kaku is clearly a pantheist. He finds the universe beautiful and wondrous in its symmetry and natural order. For example, he has called the Grand Canyon a Cathedral",
+      "parentId": 4,
       "sourceTitle": "Michio Kaku on Religion, Death, and the Age of the Earth",
-      "text": "But in terms of spirituality, Kaku is clearly a pantheist. He finds the universe beautiful and wondrous in its symmetry and natural order. For example, he has called the Grand Canyon a Cathedral"
+      "sourceUrl": "http://www.youtube.com/watch?v=tX-Ux1Ad7tY"
     },
     {
-      "type": "sentence",
-      "text": "and marveled at the patience and time it took for water to carve it."
+      "type": "text",
+      "text": "and marveled at the patience and time it took for water to carve it.",
+      "parentId": 4
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
+      "parentId": 5,
+      "type": "text",
       "text": "Kaku also seems to regard physics as its own sort of religion. When interviewed, he frequently says: \"We physicists believe this, we physicists believe that.\" When it comes to religion, he tends to use Einstein as his mouthpiece. Kaku said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://eternian.wordpress.com/2010/01/30/kaku2/",
-      "sourceTitle": "What Does Michio Kaku Believe and Can Be Believed?",
-      "text": "When scientists use the word God, they usually mean the God of Order. For example, one of the most important revelations in Einstein's early childhood took place when he read his first books on science. He immediately realized that most of what he had been taught about religion could not possibly be true. Throughout his career, however, he clung to the belief that a mysterious, divine Order existed in the universe."
+      "id": 6
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 7,
+      "parentId": 6
+    },
+    {
+      "parentId": 7,
+      "type": "text",
+      "text": "When scientists use the word God, they usually mean the God of Order. For example, one of the most important revelations in Einstein's early childhood took place when he read his first books on science. He immediately realized that most of what he had been taught about religion could not possibly be true. Throughout his career, however, he clung to the belief that a mysterious, divine Order existed in the universe.",
+      "sourceTitle": "What Does Michio Kaku Believe and Can Be Believed?",
+      "sourceUrl": "http://eternian.wordpress.com/2010/01/30/kaku2/"
+    },
+    {
+      "type": "paragraph",
+      "id": 8
+    },
+    {
+      "parentId": 8,
+      "type": "text",
       "text": "Kaku's apparent spirituality represents a bit of a break from much of the scientific community. He doesn't seem to think that religion and science can't get along. He said:"
     },
     {
-      "type": "break"
+      "type": "quote",
+      "id": 9
     },
     {
-      "type": "quote",
-      "sourceUrl": "http://eternian.wordpress.com/2010/01/30/kaku2/",
+      "type": "paragraph",
+      "id": 10,
+      "parentId": 9
+    },
+    {
+      "parentId": 10,
+      "type": "text",
+      "text": "They [science and religion] can be in harmony, but only if rational people on both sides engage in honest debate.",
       "sourceTitle": "What Does Michio Kaku Believe and Can Be Believed?",
-      "text": "They [science and religion] can be in harmony, but only if rational people on both sides engage in honest debate."
+      "sourceUrl": "http://eternian.wordpress.com/2010/01/30/kaku2/"
     },
     {
       "type": "heading",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
       "text": "Scientific politics"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.ratical.org/radiation/inetSeries/NthrtsNnwo.html",
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
+      "text": "Unfortunately, by American standards, just that fact that Kaku trusts science over divine revelation and televangelists, he is probably considered a liberal. He tends to feel that mankind, while brilliant enough to develop scientific principles and technologies, is ignorant enough to regularly misuse science. This includes nuclear weapons, nuclear fuel, and global warming,",
       "sourceTitle": "Nuclear Threats And The New World Order, by Michio Kaku",
-      "text": "Unfortunately, by American standards, just that fact that Kaku trusts science over divine revelation and televangelists, he is probably considered a liberal. He tends to feel that mankind, while brilliant enough to develop scientific principles and technologies, is ignorant enough to regularly misuse science. This includes nuclear weapons, nuclear fuel, and global warming,"
+      "sourceUrl": "http://www.ratical.org/radiation/inetSeries/NthrtsNnwo.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 13
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://mkaku.org/",
+      "parentId": 13,
+      "type": "text",
+      "text": "Kaku has also been critical of the U.S. for its misguided allocation of funds to science programs including NASA",
       "sourceTitle": "Welcome to Explorations in Science with Dr. Michio Kaku",
-      "text": "Kaku has also been critical of the U.S. for its misguided allocation of funds to science programs including NASA"
+      "sourceUrl": "http://mkaku.org/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.youtube.com/watch?v=rtio9ezWQPA",
+      "type": "text",
+      "text": "and the fact that it lost its chance to build the world's biggest particle accelerator to the European Union.",
+      "parentId": 13,
       "sourceTitle": "Michio Kaku on God",
-      "text": "and the fact that it lost its chance to build the world's biggest particle accelerator to the European Union."
+      "sourceUrl": "http://www.youtube.com/watch?v=rtio9ezWQPA"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 14
     },
     {
-      "type": "sentence",
+      "parentId": 14,
+      "type": "text",
       "text": "Socially and politically, Kaku has his eye on the future. He boldly and confidently predicts what amazing technology and convenience await the human race just around the corner."
     },
     {
-      "type": "sentence",
-      "text": "However, he seems a bit naive and overly-optimistic. Futurists have been touting the beauty of the future for generations, but their utopia has yet to materialize. We'll see about Kaku's."
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "However, he seems a bit naive and overly-optimistic. Futurists have been touting the beauty of the future for generations, but their utopia has yet to materialize. We'll see about Kaku's.",
+      "parentId": 14
     }
   ],
   "wikipediaData": {

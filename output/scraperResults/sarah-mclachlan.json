@@ -35,138 +35,218 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Sarah McLachlan was born and adopted in Halifax, Nova Scotia, Canada."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.spinner.com/2008/10/02/sarah-mclachlan-shoots-straight-on-death-love-and-tropic-thund/",
+      "parentId": 2,
+      "type": "text",
+      "text": "McLachlan has not spoken about her religious upbringing–if there was one–that I can find. She has spoken about her \"academic\" parents who thought it very important that she and her two brothers get good grades,",
       "sourceTitle": "Sarah McClachlan Shoots Straight on Death, Love and 'Tropic Thunder",
-      "text": "McLachlan has not spoken about her religious upbringing–if there was one–that I can find. She has spoken about her \"academic\" parents who thought it very important that she and her two brothers get good grades,"
+      "sourceUrl": "http://www.spinner.com/2008/10/02/sarah-mclachlan-shoots-straight-on-death-love-and-tropic-thund/"
     },
     {
-      "type": "sentence",
-      "text": "but nothing about their religion."
+      "type": "text",
+      "text": "but nothing about their religion.",
+      "parentId": 2
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Sarah_McLachlan",
+      "parentId": 3,
+      "type": "text",
+      "text": "As an adult, she's sort of an agnostic/pantheist. She has called herself an agnostic,",
       "sourceTitle": "Sarah McLachlan",
-      "text": "As an adult, she's sort of an agnostic/pantheist. She has called herself an agnostic,"
+      "sourceUrl": "http://www.celebatheists.com/wiki/Sarah_McLachlan"
     },
     {
-      "type": "sentence",
-      "text": "but when directly asked if she believes in God, McLachlan said:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "but when directly asked if she believes in God, McLachlan said:",
+      "parentId": 3
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.spinner.com/2008/10/02/sarah-mclachlan-shoots-straight-on-death-love-and-tropic-thund/",
-      "sourceTitle": "Sarah McClachlan Shoots Straight on Death, Love and 'Tropic Thunder",
-      "text": "I don't believe that there's a guy up there watching down upon all of us. But I do believe that the idea … how do I explain this? God is energy. God is nature. God is in us. God is everything that breathes and lives, that connects us to ourselves and each other. It probably sounds really corny."
+      "id": 4
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 5,
+      "parentId": 4
+    },
+    {
+      "parentId": 5,
+      "type": "text",
+      "text": "I don't believe that there's a guy up there watching down upon all of us. But I do believe that the idea … how do I explain this? God is energy. God is nature. God is in us. God is everything that breathes and lives, that connects us to ourselves and each other. It probably sounds really corny.",
+      "sourceTitle": "Sarah McClachlan Shoots Straight on Death, Love and 'Tropic Thunder",
+      "sourceUrl": "http://www.spinner.com/2008/10/02/sarah-mclachlan-shoots-straight-on-death-love-and-tropic-thund/"
+    },
+    {
+      "type": "paragraph",
+      "id": 6
+    },
+    {
+      "parentId": 6,
+      "type": "text",
       "text": "If all pantheists are corny, then yes! But it's not an uncommon question for McLachlan and she sometimes answers it in strange, unintelligible ways:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.celebatheists.com/wiki/Sarah_McLachlan",
-      "sourceTitle": "Sarah McLachlan",
-      "text": "I don't follow any organized religion, but I do believe in the idea of god as a verb — being love and light, and that we are part of everything as everything is part of us."
+      "id": 7
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 8,
+      "parentId": 7
+    },
+    {
+      "parentId": 8,
+      "type": "text",
+      "text": "I don't follow any organized religion, but I do believe in the idea of god as a verb — being love and light, and that we are part of everything as everything is part of us.",
+      "sourceTitle": "Sarah McLachlan",
+      "sourceUrl": "http://www.celebatheists.com/wiki/Sarah_McLachlan"
+    },
+    {
+      "type": "paragraph",
+      "id": 9
+    },
+    {
+      "parentId": 9,
+      "type": "text",
       "text": "Clearly, it's something she's given some thought to, and McLachlan has come up with her own, unique, personal way of approaching spirituality and the great mysteries of the cosmos and humanity."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 10
     },
     {
-      "type": "heading",
+      "parentId": 10,
+      "type": "text",
       "text": "Liberal, eh?"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0005214/bio",
+      "type": "paragraph",
+      "id": 11
+    },
+    {
+      "parentId": 11,
+      "type": "text",
+      "text": "McLachlan is a Canadian, who lives in Canada and has been awarded the Officer of the Order of Canada for her services to the arts and music in Canada.",
       "sourceTitle": "Sarah McLachlan – Biography",
-      "text": "McLachlan is a Canadian, who lives in Canada and has been awarded the Officer of the Order of Canada for her services to the arts and music in Canada."
+      "sourceUrl": "http://www.imdb.com/name/nm0005214/bio"
     },
     {
-      "type": "sentence",
-      "text": "There isn't anything I can find from her addressing specifically Canadian political issues–except for the thing with the seals, but we'll get to that."
+      "type": "text",
+      "text": "There isn't anything I can find from her addressing specifically Canadian political issues–except for the thing with the seals, but we'll get to that.",
+      "parentId": 11
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 12
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.imdb.com/name/nm0005214/bio",
+      "parentId": 12,
+      "type": "text",
+      "text": "She is, however, highly liberal and, perhaps unintentionally, a feminist. McLachlan organized and spearheaded the now-legendary Lilith Fair music festival, an all-women musical tour that, at its heyday, hosted over 200 female acts on one bill–and it was a success.",
       "sourceTitle": "Sarah McLachlan – Biography",
-      "text": "She is, however, highly liberal and, perhaps unintentionally, a feminist. McLachlan organized and spearheaded the now-legendary Lilith Fair music festival, an all-women musical tour that, at its heyday, hosted over 200 female acts on one bill–and it was a success."
+      "sourceUrl": "http://www.imdb.com/name/nm0005214/bio"
     },
     {
-      "type": "sentence",
-      "text": "Suddenly, McLachlan was the world spokesperson for feminism. But it wasn't really her intention:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Suddenly, McLachlan was the world spokesperson for feminism. But it wasn't really her intention:",
+      "parentId": 12
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.spinner.com/2011/05/26/sarah-mclachlan-divorce/",
+      "id": 13
+    },
+    {
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "I just thought it'd be fun to make music with a bunch of women. But it became a big political statement and took a life of its own.",
       "sourceTitle": "Sarah McLachlan on the Devastating Divorce That Nearly Ended Her Career",
-      "text": "I just thought it'd be fun to make music with a bunch of women. But it became a big political statement and took a life of its own."
+      "sourceUrl": "http://www.spinner.com/2011/05/26/sarah-mclachlan-divorce/"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.spinner.com/2008/10/02/sarah-mclachlan-shoots-straight-on-death-love-and-tropic-thund/",
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
+      "text": "But she accepted her role, saying that she was proud to have showcased women's talents, and shown that women artists can make money.",
       "sourceTitle": "Sarah McClachlan Shoots Straight on Death, Love and 'Tropic Thunder",
-      "text": "But she accepted her role, saying that she was proud to have showcased women's talents, and shown that women artists can make money."
+      "sourceUrl": "http://www.spinner.com/2008/10/02/sarah-mclachlan-shoots-straight-on-death-love-and-tropic-thund/"
     },
     {
-      "type": "sentence",
-      "text": "Plus, she thinks that feminism is a worthy endeavor:"
-    },
-    {
-      "type": "break"
+      "type": "text",
+      "text": "Plus, she thinks that feminism is a worthy endeavor:",
+      "parentId": 15
     },
     {
       "type": "quote",
-      "sourceUrl": "http://www.spinner.com/2008/10/02/sarah-mclachlan-shoots-straight-on-death-love-and-tropic-thund/",
-      "sourceTitle": "Sarah McClachlan Shoots Straight on Death, Love and 'Tropic Thunder",
-      "text": "We still don't have job equality, we still don't have equal pay. There's discrimination everywhere. I saw it was a daunting task being the new face of feminism, but at the same time I recognized the weight and the gravity of it."
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "We still don't have job equality, we still don't have equal pay. There's discrimination everywhere. I saw it was a daunting task being the new face of feminism, but at the same time I recognized the weight and the gravity of it.",
+      "sourceTitle": "Sarah McClachlan Shoots Straight on Death, Love and 'Tropic Thunder",
+      "sourceUrl": "http://www.spinner.com/2008/10/02/sarah-mclachlan-shoots-straight-on-death-love-and-tropic-thund/"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "McLachlan is highly concerned with the environment and animal rights. Of Canadian seal hunting, she said:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://envirocanadians.blogspot.com/",
+      "id": 19
+    },
+    {
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "The commercial sealing industry in Canada is perverse and sick… They club these seals as early as 12 days old, and half the time they hook them and they drag them across the ice… It's archaic, and it's horrible, and I want it to stop.",
       "sourceTitle": "Canadian Environmentalist Make A Difference",
-      "text": "The commercial sealing industry in Canada is perverse and sick… They club these seals as early as 12 days old, and half the time they hook them and they drag them across the ice… It's archaic, and it's horrible, and I want it to stop."
+      "sourceUrl": "http://envirocanadians.blogspot.com/"
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
       "text": "It makes sense, really. Listen to her music–it's soft and sensitive, feminine and haunting. It betrays a person who feels strongly about the world and life and the people and things she finds beautiful."
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

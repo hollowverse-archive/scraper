@@ -30,72 +30,88 @@
   "author": "Caitlin Frye",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Ana Ivanovic was born and raised in Belgrade, Serbia."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/List_of_Eastern_Orthodox_Christians",
+      "parentId": 2,
+      "type": "text",
+      "text": "Ivanovic doesn't appear to discuss religion too frequently with the press, but we know that she's some kind of Christian. She appears on several lists of Eastern Orthodox Christians,",
       "sourceTitle": "List of Eastern Orthodox Christians.",
-      "text": "Ivanovic doesn't appear to discuss religion too frequently with the press, but we know that she's some kind of Christian. She appears on several lists of Eastern Orthodox Christians,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/List_of_Eastern_Orthodox_Christians"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Demographics_of_Serbia#Current_religious_composition",
+      "type": "text",
+      "text": "which certainly makes sense. In Serbia, close to 85% of the population belongs to that tradition.",
+      "parentId": 2,
       "sourceTitle": "Demographics of Serbia.",
-      "text": "which certainly makes sense. In Serbia, close to 85% of the population belongs to that tradition."
+      "sourceUrl": "http://en.wikipedia.org/wiki/Demographics_of_Serbia#Current_religious_composition"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.tennisforum.com/showthread.php?p=18017536",
+      "parentId": 3,
+      "type": "text",
+      "text": "The only crimp in that theory is that the cross she wears",
       "sourceTitle": "Ana Ivanovic Pictures Thread vol.2.",
-      "text": "The only crimp in that theory is that the cross she wears"
+      "sourceUrl": "http://www.tennisforum.com/showthread.php?p=18017536"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://en.wikipedia.org/wiki/Demographics_of_Serbia#Current_religious_composition",
+      "type": "text",
+      "text": "isn't an orthodox cross. I suppose it doesn't rule out her adherence to Orthodox Christianity, but it definitely doesn't confirm anything. Five percent of Serbians consider themselves Catholic,",
+      "parentId": 3,
       "sourceTitle": "Demographics of Serbia.",
-      "text": "isn't an orthodox cross. I suppose it doesn't rule out her adherence to Orthodox Christianity, but it definitely doesn't confirm anything. Five percent of Serbians consider themselves Catholic,"
+      "sourceUrl": "http://en.wikipedia.org/wiki/Demographics_of_Serbia#Current_religious_composition"
     },
     {
-      "type": "sentence",
-      "text": "so that's always a possibility."
+      "type": "text",
+      "text": "so that's always a possibility.",
+      "parentId": 3
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "We'll have to leave her denomination open-ended for now, and just call her a Christian."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 5
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.unicef.org/infobycountry/media_40870.html",
+      "parentId": 5,
+      "type": "text",
+      "text": "Ivanovic doesn't talk about politics either. The only even remotely political thing I could find from the tennis star is that she is the official national Serbian ambassador for UNICEF, the United Nations' Childrens' Fund. She is focusing on the organization's Schools Without Violence program, which aims to decrease violence at schools in her country.",
       "sourceTitle": "Top tennis star Ana Ivanovic named UNICEF National Ambassador for Serbia.",
-      "text": "Ivanovic doesn't talk about politics either. The only even remotely political thing I could find from the tennis star is that she is the official national Serbian ambassador for UNICEF, the United Nations' Childrens' Fund. She is focusing on the organization's Schools Without Violence program, which aims to decrease violence at schools in her country."
+      "sourceUrl": "http://www.unicef.org/infobycountry/media_40870.html"
     },
     {
-      "type": "sentence",
-      "text": "Not exactly a divisive political topic."
+      "type": "text",
+      "text": "Not exactly a divisive political topic.",
+      "parentId": 5
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 6
     },
     {
-      "type": "sentence",
+      "parentId": 6,
+      "type": "text",
       "text": "Unfortunately I couldn't find any interviews in which she talked about what it was like to grow up in her politically unstable and war-torn country. If you have any links to interviews about her experiences, her opinions on politics, or anything else on religion, please let us know in the comments!"
-    },
-    {
-      "type": "break"
     }
   ],
   "wikipediaData": {

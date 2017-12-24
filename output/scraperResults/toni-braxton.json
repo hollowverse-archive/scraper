@@ -38,128 +38,210 @@
   "author": "Tom Kershaw",
   "content": [
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 1
+    },
+    {
+      "parentId": 1,
+      "type": "text",
       "text": "Toni Braxton was born and raised in Severn, Maryland."
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 2
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.people.com/people/archive/article/0,,20132603,00.html",
+      "parentId": 2,
+      "type": "text",
+      "text": "Braxton was raised in a strict Pentecostal home. Her father was a preacher and ruled the roost with a religious iron fist. The Braxton family was not allowed to listen to contemporary music, the girls couldn't wear pants and her parents believed that Hollywood films \"promoted witchcraft.\"",
       "sourceTitle": "Greener Pastures",
-      "text": "Braxton was raised in a strict Pentecostal home. Her father was a preacher and ruled the roost with a religious iron fist. The Braxton family was not allowed to listen to contemporary music, the girls couldn't wear pants and her parents believed that Hollywood films \"promoted witchcraft.\""
+      "sourceUrl": "http://www.people.com/people/archive/article/0,,20132603,00.html"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 3
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pb/Toni_Braxton.html",
+      "parentId": 3,
+      "type": "text",
+      "text": "However, for reasons unbeknownst to this writer, the family suddenly converted to Methodism and drastically eased up on these restrictions.",
       "sourceTitle": "The religion of Toni Braxton, singer",
-      "text": "However, for reasons unbeknownst to this writer, the family suddenly converted to Methodism and drastically eased up on these restrictions."
+      "sourceUrl": "http://www.adherents.com/people/pb/Toni_Braxton.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.adherents.com/people/pb/Toni_Braxton.html",
+      "type": "text",
+      "text": "It was here that Braxton began her singing career, in the church choir",
+      "parentId": 3,
       "sourceTitle": "The religion of Toni Braxton, singer",
-      "text": "It was here that Braxton began her singing career, in the church choir"
+      "sourceUrl": "http://www.adherents.com/people/pb/Toni_Braxton.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.wetv.com/shows/braxton-family-values/cast/evelyn-braxton",
+      "type": "text",
+      "text": "and Braxton's mother, Evelyn, held a \"family choir\" with Toni and her siblings.",
+      "parentId": 3,
       "sourceTitle": "Braxton Family Values – Evelyn Braxton",
-      "text": "and Braxton's mother, Evelyn, held a \"family choir\" with Toni and her siblings."
+      "sourceUrl": "http://www.wetv.com/shows/braxton-family-values/cast/evelyn-braxton"
     },
     {
-      "type": "break"
+      "type": "paragraph",
+      "id": 4
     },
     {
-      "type": "sentence",
+      "parentId": 4,
+      "type": "text",
       "text": "Now, it seems that Braxton isn't nearly as religious as was her upbringing. And her parents seem OK with it, or just ignorant. Braxton said, referring to her father listening to her song \"You're Makin' Me High,\""
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.people.com/people/archive/article/0,,20132603,00.html",
-      "sourceTitle": "Greener Pastures",
-      "text": "My dad was like, 'That's a really good beat,' I was so happy he didn't listen to the lyrics."
+      "id": 5
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 6,
+      "parentId": 5
+    },
+    {
+      "parentId": 6,
+      "type": "text",
+      "text": "My dad was like, 'That's a really good beat,' I was so happy he didn't listen to the lyrics.",
+      "sourceTitle": "Greener Pastures",
+      "sourceUrl": "http://www.people.com/people/archive/article/0,,20132603,00.html"
+    },
+    {
+      "type": "paragraph",
+      "id": 7
+    },
+    {
+      "parentId": 7,
+      "type": "text",
       "text": "But something is there, even if it's just a glimmer. Braxton often retweets semi-religious tweets from her fans. Here's the most religious one I could find:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/tonibraxton",
-      "sourceTitle": "Toni Braxton (tonibraxton) on Twitter",
-      "text": "@tonibraxton girl you are killing it in this!! Hallelujah!! Praise God for movies like this!"
+      "id": 8
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 9,
+      "parentId": 8
+    },
+    {
+      "parentId": 9,
+      "type": "text",
+      "text": "@tonibraxton girl you are killing it in this!! Hallelujah!! Praise God for movies like this!",
+      "sourceTitle": "Toni Braxton (tonibraxton) on Twitter",
+      "sourceUrl": "https://twitter.com/tonibraxton"
+    },
+    {
+      "type": "paragraph",
+      "id": 10
+    },
+    {
+      "parentId": 10,
+      "type": "text",
       "text": "Though it's not necessarily Braxton being religious, she's clearly not averse to it."
     },
     {
-      "type": "break"
+      "type": "heading",
+      "id": 11
     },
     {
-      "type": "sentence",
+      "parentId": 11,
+      "type": "emphasis",
+      "text": "Obama, lesbians and tax evasion"
+    },
+    {
+      "type": "paragraph",
+      "id": 12
+    },
+    {
+      "parentId": 12,
+      "type": "text",
       "text": "Braxton is a Democrat, at least in the sense that she's an Obama supporter. During the president's 2012 campaign, Braxton tweeted her allegiance with little things like:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/tonibraxton",
-      "sourceTitle": "Toni Braxton (tonibraxton) on Twitter",
-      "text": "WeVoteWeWin #Obama"
+      "id": 13
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 14,
+      "parentId": 13
+    },
+    {
+      "parentId": 14,
+      "type": "text",
+      "text": "WeVoteWeWin #Obama",
+      "sourceTitle": "Toni Braxton (tonibraxton) on Twitter",
+      "sourceUrl": "https://twitter.com/tonibraxton"
+    },
+    {
+      "type": "paragraph",
+      "id": 15
+    },
+    {
+      "parentId": 15,
+      "type": "text",
       "text": "And:"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "https://twitter.com/tonibraxton",
-      "sourceTitle": "Toni Braxton (tonibraxton) on Twitter",
-      "text": "Know who your voting for…#Obama"
+      "id": 16
     },
     {
-      "type": "sentence",
+      "type": "paragraph",
+      "id": 17,
+      "parentId": 16
+    },
+    {
+      "parentId": 17,
+      "type": "text",
+      "text": "Know who your voting for…#Obama",
+      "sourceTitle": "Toni Braxton (tonibraxton) on Twitter",
+      "sourceUrl": "https://twitter.com/tonibraxton"
+    },
+    {
+      "type": "paragraph",
+      "id": 18
+    },
+    {
+      "parentId": 18,
+      "type": "text",
       "text": "Plus, she might be a bit liberal. She expressed a desire to play a lesbian in a film once. No particular reason, it would seem, except she wanted to do the kissing scene?"
     },
     {
-      "type": "break"
-    },
-    {
       "type": "quote",
-      "sourceUrl": "http://www.huffingtonpost.com/2013/02/08/toni-braxton-announces-re_n_2648411.html",
+      "id": 19
+    },
+    {
+      "type": "paragraph",
+      "id": 20,
+      "parentId": 19
+    },
+    {
+      "parentId": 20,
+      "type": "text",
+      "text": "I would like to play a lesbian. I don't know why. And do a whole make-out scene and the whole thing: just something completely different than people would expect from me. Not a lipstick lesbian, either.",
       "sourceTitle": "Toni Braxton Says She's Retiring From Music But Wants To Play A Lesbian On Screen",
-      "text": "I would like to play a lesbian. I don't know why. And do a whole make-out scene and the whole thing: just something completely different than people would expect from me. Not a lipstick lesbian, either."
+      "sourceUrl": "http://www.huffingtonpost.com/2013/02/08/toni-braxton-announces-re_n_2648411.html"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://abcnews.go.com/Entertainment/toni-braxton-reveals-story-bankruptcy-headlines/story?id=17839154",
+      "type": "paragraph",
+      "id": 21
+    },
+    {
+      "parentId": 21,
+      "type": "text",
+      "text": "Other than that, Braxton exhibits an almost Republican-like aversion to taxes. She seems to be rather bad with money. Braxton has filed bankruptcy twice,",
       "sourceTitle": "Toni Braxton Reveals Story Behind Bankruptcy Headlines",
-      "text": "Other than that, Braxton exhibits an almost Republican-like aversion to taxes. She seems to be rather bad with money. Braxton has filed bankruptcy twice,"
+      "sourceUrl": "http://abcnews.go.com/Entertainment/toni-braxton-reveals-story-bankruptcy-headlines/story?id=17839154"
     },
     {
-      "type": "sentence",
-      "sourceUrl": "http://www.dailyfinance.com/photos/famous-tax-cheats/#slide=3662529",
+      "type": "text",
+      "text": "and in 2009, she was on the hook to the state of California for almost $80,000.",
+      "parentId": 21,
       "sourceTitle": "Famous Tax Scandals",
-      "text": "and in 2009, she was on the hook to the state of California for almost $80,000."
-    },
-    {
-      "type": "break"
+      "sourceUrl": "http://www.dailyfinance.com/photos/famous-tax-cheats/#slide=3662529"
     }
   ],
   "wikipediaData": {
