@@ -11,14 +11,16 @@ type Text = {
   parentId: number;
   type: 'text';
   text: string;
-  sourceUrl?: string;
-  sourceTitle?: string;
+  sourceUrl: string | undefined;
+  sourceTitle: string | undefined;
 };
 
 type Emphasis = {
   parentId: number;
   type: 'emphasis';
   text: string;
+  sourceUrl: undefined;
+  sourceTitle: undefined;
 };
 
 type InlineLink = {
@@ -29,12 +31,12 @@ type InlineLink = {
   sourceTitle: string | undefined;
 };
 
-type BlockPiece = {
+export type BlockPiece = {
   id: number;
   parentId: number | undefined;
   type: 'paragraph' | 'quote' | 'heading';
 };
-type InlinePiece = InlineLink | Text | Emphasis;
+export type InlinePiece = InlineLink | Text | Emphasis;
 
 type StubResult = {
   name: string;
@@ -50,10 +52,10 @@ export function isBlockPiece(obj: Piece): obj is BlockPiece {
 }
 
 export function isInlinePiece(obj: Piece): obj is InlinePiece {
-  return 'parentId' in obj && (obj as InlinePiece).parentId !== undefined;
+  return ['text', 'link', 'emphasis'].includes(obj.type);
 }
 
-export function hasParent(obj: Piece): obj is InlinePiece {
+export function hasParent(obj: Piece) {
   return 'parentId' in obj && (obj as InlinePiece).parentId !== undefined;
 }
 
@@ -186,6 +188,8 @@ function getPieces(
         parentId,
         type: 'emphasis',
         text: $(node).text(),
+        sourceTitle: undefined,
+        sourceUrl: undefined,
       });
     } else if (node.type === 'tag' && node.childNodes.length > 0) {
       content.push(...getPieces($, node, getId, parentId));
@@ -202,13 +206,21 @@ function getPieces(
           parentId,
           type: 'text',
           text,
+          sourceTitle: undefined,
+          sourceUrl: undefined,
         });
       }
 
       return;
     }
 
-    content.push({ type: 'text', text: '', parentId });
+    content.push({
+      parentId,
+      type: 'text',
+      text: '',
+      sourceTitle: undefined,
+      sourceUrl: undefined,
+    });
   });
 
   return content
