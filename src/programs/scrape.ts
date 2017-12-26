@@ -149,7 +149,19 @@ async function main({
         if (wikipedia && remove && isEmpty(result.wikipediaData)) {
           await removeFile(outputFile).catch(() => null);
         } else {
-          await writeFile(outputFile, JSON.stringify(result, undefined, 2));
+          try {
+            const { wikipediaData } = await readJsonFile<ResultWithWikipediaData>(
+              outputFile
+            );
+            result.wikipediaData = wikipediaData;
+          } catch {
+            // Do nothing
+          }
+
+          await writeFile(
+            outputFile, 
+            JSON.stringify(result, undefined, 2),
+          );
         }
       }
       progressBar.tick({ page: filePath });
