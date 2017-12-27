@@ -35,3 +35,13 @@ export function replaceSmartQuotes(str: string) {
   // prettier-ignore
   return str.replace(/[‘’]/g, '\'').replace(/[“”]/g, '"');
 }
+
+export function getImageFilename(slug: string, thumbUrl: string) {
+  const ext = thumbUrl.match(/\.[a-z]{3,4}$/gi);
+  let filename = slug;
+  if (ext && ext[0]) {
+    filename += ext[0].toLowerCase();
+  }
+
+  return filename;
+}

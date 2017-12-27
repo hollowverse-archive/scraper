@@ -5,7 +5,7 @@ import * as path from 'path';
 import fetch from 'node-fetch';
 import * as ProgressBar from 'progress';
 import { processBatch } from '../lib/processBatch';
-import { readDir, readJsonFile, writeFile, glob } from '../lib/helpers';
+import { readDir, readJsonFile, writeFile, glob, getImageFilename } from '../lib/helpers';
 import { ResultWithWikipediaData } from './scrape';
 
 // tslint:disable no-console
@@ -70,11 +70,7 @@ async function main({
         '',
       );
       const imageUrl = result.wikipediaData.image.info.thumburl;
-      const ext = imageUrl.match(/\.[a-z]{3,4}$/gi);
-      let filename = slug;
-      if (ext && ext[0]) {
-        filename += ext[0].toLowerCase();
-      }
+      const filename = getImageFilename(slug, imageUrl);
 
       return {
         slug,

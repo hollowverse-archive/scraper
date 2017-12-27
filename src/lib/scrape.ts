@@ -252,7 +252,7 @@ function getPieces(
         text,
       };
     })
-    .filter(v => isBlockPiece(v) || Boolean(v.text));
+    .filter(v => isBlockPiece(v) || v.text.trim().length > 0);
 }
 
 const createGetId = () => {
