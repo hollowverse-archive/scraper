@@ -230,7 +230,7 @@ function getPieces(
       }
 
       let { text } = result;
-      text = replaceSmartQuotes(text.trim());
+      text = replaceSmartQuotes(text);
 
       if (result.type === 'text') {
         let { sourceTitle } = result;
@@ -252,7 +252,7 @@ function getPieces(
         text,
       };
     })
-    .filter(v => isBlockPiece(v) || Boolean(v.text));
+    .filter(v => isBlockPiece(v) || v.text.trim().length > 0);
 }
 
 const createGetId = () => {

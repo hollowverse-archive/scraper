@@ -1,5 +1,6 @@
 export type MetadataKey =
   | 'DateTime'
+  | 'DateTimeOriginal'
   | 'ObjectName'
   | 'ImageDescription'
   | 'Artist'
