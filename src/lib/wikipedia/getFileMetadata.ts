@@ -49,5 +49,5 @@ export async function getFileMetadata({
 
   const pages = Object.values(body.query.pages);
 
-  return pages[0].imageinfo[0];
+  return pages.length ? pages[0].imageinfo[0] : undefined;
 }

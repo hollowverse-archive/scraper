@@ -146,10 +146,13 @@ export async function getWikipediaInfo({
         filename: pageImage,
         thumbnailHeight,
       });
-      wikipediaData.image = {
-        name: pageImage,
-        info,
-      };
+
+      if (info) {
+        wikipediaData.image = {
+          name: pageImage,
+          info,
+        };
+      }
     }
     wikipediaData.isDisambiguation = false;
   } else {
