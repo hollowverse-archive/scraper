@@ -39,21 +39,29 @@ export type GetWikipediaInfoOptions = {
    * Canonical URL of the actual page to use in case the API
    * returns a disambiguation page
    */
-  override?: string;
+  pageUrlOverride?: string;
+
+  /**
+   * Filename of Wikipedia image to use instead of attempting
+   * to find a relevant image.
+   */
+  pageImageOverride?: string | null;
 };
 
+// tslint:disable-next-line:max-func-body-length
 export async function getWikipediaInfo({
   result,
   thumbnailHeight = 300,
-  override,
+  pageUrlOverride,
+  pageImageOverride,
 }: GetWikipediaInfoOptions): Promise<Partial<WikipediaData>> {
   const response = await got(WIKIPEDIA_API_ENDPOINT, {
     json: true,
     query: {
       action: 'query',
       generator: 'search',
-      gsrsearch: override
-        ? decodeURI(override)
+      gsrsearch: pageUrlOverride
+        ? decodeURI(pageUrlOverride)
             .replace('https://en.wikipedia.org/wiki/', '')
             .replace(/_/g, ' ')
         : result.name,
@@ -78,8 +86,8 @@ export async function getWikipediaInfo({
 
   let page;
   const pages = Object.values(body.query.pages);
-  if (typeof override === 'string') {
-    page = find(pages, p => p.canonicalurl === override);
+  if (typeof pageUrlOverride === 'string') {
+    page = find(pages, p => p.canonicalurl === pageUrlOverride);
   } else {
     const firstResult = pages[0];
     const set = createFuzzySet(pages.map(p => p.title));
@@ -109,11 +117,11 @@ export async function getWikipediaInfo({
   const title = page.title;
   const pageId = page.pageid;
 
-  const isPerson = override
+  const isPerson = pageUrlOverride
     ? Promise.resolve(true)
     : isWikipediaPerson({ title, pageId });
 
-  const isDisambiguation = override
+  const isDisambiguation = pageUrlOverride
     ? Promise.resolve(false)
     : isDisambiguationPage({ pageId });
 
@@ -123,9 +131,15 @@ export async function getWikipediaInfo({
   if (!await isPerson) {
     return {};
   } else if (!await isDisambiguation) {
-    const pageImage =
-      (await getPageImage({ pageId })) ||
-      (await extractFirstRelevantPageImage({ pageId, title }));
+    let pageImage: string | null | undefined;
+
+    if (pageImageOverride !== undefined) {
+      pageImage = pageImageOverride;
+    } else {
+      pageImage =
+        (await getPageImage({ pageId })) ||
+        (await extractFirstRelevantPageImage({ pageId, title }));
+    }
 
     if (pageImage) {
       const info = await getFileMetadata({
