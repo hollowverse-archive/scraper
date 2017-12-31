@@ -39,9 +39,19 @@ program
     'Do not add corresponding Wikipedia page URL to results',
   )
   .option(
+    '--reuse',
+    'Reuse existing Wikipedia data if --no-wikipedia is passed',
+  )
+  .option(
     '--overrides [overrides]',
     'Path to a JSON file that lists the URLs to the actual Wikipedia pages' +
       'that should replace the disambiguation page URLs returned from the Wikipedia API, ' +
+      'has no effect if --no-wikipedia is used',
+  )
+  .option(
+    '--image-overrides [image-overrides]',
+    'Path to a JSON file that lists the filenames on Wikipedia' +
+      'that should be used instead of attempting to find an image using Wikipedia API, ' +
       'has no effect if --no-wikipedia is used',
   )
   .option(
@@ -77,7 +87,9 @@ async function main({
   force,
   wikipedia,
   overrides,
+  imageOverrides,
   remove,
+  reuse,
   dry,
   concurrency = defaults.concurrency,
 }: Record<string, any>) {
@@ -110,6 +122,13 @@ async function main({
     overridesMap = await readJsonFile<typeof overridesMap>(overrides);
   }
 
+  let imageOverridesMap: Record<string, string | null | undefined> = {};
+  if (wikipedia && imageOverrides) {
+    imageOverridesMap = await readJsonFile<typeof imageOverridesMap>(
+      imageOverrides,
+    );
+  }
+
   const progressBar = new ProgressBar(':bar [:percent] :page', {
     width: 25,
     total: scheduledFiles.length,
@@ -131,9 +150,14 @@ async function main({
 
       let result;
       result = await scrapeHtml(html);
-      const override = overridesMap[postName];
-      if (wikipedia && override !== null) {
-        const wikipediaData = await getWikipediaInfo({ result, override });
+      const pageUrlOverride = overridesMap[postName];
+      const pageImageOverride = imageOverridesMap[postName];
+      if (wikipedia && pageUrlOverride !== null) {
+        const wikipediaData = await getWikipediaInfo({
+          result,
+          pageUrlOverride,
+          pageImageOverride,
+        });
 
         result = {
           ...result,
@@ -149,19 +173,18 @@ async function main({
         if (wikipedia && remove && isEmpty(result.wikipediaData)) {
           await removeFile(outputFile).catch(() => null);
         } else {
-          try {
-            const { wikipediaData } = await readJsonFile<ResultWithWikipediaData>(
-              outputFile
-            );
-            result.wikipediaData = wikipediaData;
-          } catch {
-            // Do nothing
+          if (reuse) {
+            try {
+              const { wikipediaData } = await readJsonFile<
+                ResultWithWikipediaData
+              >(outputFile);
+              result.wikipediaData = wikipediaData;
+            } catch {
+              // Do nothing
+            }
           }
 
-          await writeFile(
-            outputFile, 
-            JSON.stringify(result, undefined, 2),
-          );
+          await writeFile(outputFile, JSON.stringify(result, undefined, 2));
         }
       }
       progressBar.tick({ page: filePath });
